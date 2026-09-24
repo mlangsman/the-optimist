@@ -4,55 +4,202 @@
     "kind": "article",
     "field": "standfirst",
     "severity": "warning",
-    "issue": "standfirst leans on \"warn\": \"The rising cost of the 10-year gilt, nearing a 19-year high, is pushing up the upfront cost of government investment and narrowing chancellor John Healey’s room for manoeuvre ahead of next month’s budgetBusiness live – latest updatesInternational bodies warn of rising debt and borrowing risksBurnham stands by claim UK is ‘in hock’ to bond markets\""
+    "issue": "standfirst leans on \"feared\", \"warn\": \"Clare Lombardelli says the effect has been smaller than the Bank had feared, but higher rates grow more likely the longer energy prices stay high, as a global bond sell-off lifts 10-year gilt yields to 5.38 per cent, near a 19-year high, narrowing Healey’s room for manoeuvreBusiness live – latest updatesInternational bodies warn of rising debt and borrowing risksBurnham stands by claim UK is ‘in hock’ to bond markets\""
+  },
+  {
+    "path": "/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"feared\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"freefall\", \"warned\": \"Many saw what was coming, says Guardian columnist Owen Jones. We were warned but chose not to listen, and western leaders’ endless pursuit of wealth and power has left the west in freefall\""
   },
   {
     "path": "/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"dire\": \"Violence in the Democratic Republic of the Congo continues to force people south to Tanganyika, where camps already shelter hundreds of thousands living in dire conditions\""
+    "issue": "trail leans on \"crisis\", \"dire\": \"Continuing violence in the Democratic Republic of the Congo is worsening the displacement crisis, forcing people into Tanganyika, where camps are already home to hundreds of thousands living in dire conditions\""
   },
   {
     "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\", \"devastated\": \"Abandoned, dismissed and gaslighted, ME sufferers have been betrayed as changes in guidance and science leave millions of devastated lives untouched – a social crisis behind closed doors, writes Guardian columnist George Monbiot\""
+    "issue": "trail leans on \"crisis\", \"devastated\": \"Changes in guidance and science seem to have little impact on millions of devastated lives, with sufferers abandoned, dismissed, gaslighted and betrayed – a social crisis playing out behind closed doors, says columnist George Monbiot\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Authentic relationships can surely only be forged when you’re not expecting a return on your money, says Elle Hunt, asking if buying friends on an app is likely to help solve our crisis of loneliness\""
   },
   {
     "path": "/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"perilous\": \"It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like Trump\""
+    "issue": "trail leans on \"perilous\": \"It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like Trump, whose speech to the UN was delusional and dangerous\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/23/the-guardian-view-on-russian-disinformation-a-foreign-threat-that-relies-on-uk-complicity",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"Editorial: Andy Burnham’s accusation against the Kremlin tells half the story. Domestic extremists amplified by US big tech are part of the same problem, a foreign threat that relies on UK complicity\""
+  },
+  {
+    "path": "/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"Former deputy PM now involved in tech industry plays down fears ‘godlike’ AI could exterminate humanity, saying many within sector are ‘winding themselves up into a lather’\""
+  },
+  {
+    "path": "/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"UK shares findings of damning climate crisis national security report suppressed under Starmer, with Miliband saying El Niño poses critical threat to nations’ defences\""
+  },
+  {
+    "path": "/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"Argentinian president threatens that Argentina will take ‘matters into our own hands’ and accuses United Nations of being filled with ‘parasites’ in bellicose speech\""
+  },
+  {
+    "path": "/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"alarm\": \"Alarm bells are sounding in Brussels as EU sales of Chinese hybrid cars rocket, with explosive growth in the imported vehicles fuelling concern for the future of European carmakers\""
+  },
+  {
+    "path": "/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"Three international bodies warn of risks of rising debt and soaring borrowing, with IIF highlighting challenges facing US, France, UK and Japan, and OECD and IMF also voicing global concerns\""
+  },
+  {
+    "path": "/music/2026/sep/24/gilla-band-pugnello-review-five-stars",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"furious\": \"Your favourite band’s favourite band channel furious originality, fuelled by cathartic aggression and absurdist confessions, into monstrous noise whose precise instrumental source always remains discomfitingly unclear\""
+  },
+  {
+    "path": "/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Her new novel offers alternate visions of post-crisis America and asks whether the price of stability is necessarily the loss of freedom\""
+  },
+  {
+    "path": "/money/live/2026/sep/22/whats-the-worst-company-youve-ever-dealt-with-ask-our-consumer-champion-anything",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"Tims, who solves readers’ consumer problems ranging from the devastating to the ridiculous in her weekly column, tackled getting a result without contacting a newspaper and how companies keep getting away with terrible customer service\""
   },
   {
     "path": "/society/2026/sep/22/the-rise-of-big-toothbrush",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"People in the UK are more interested in oral health than ever, and can now buy prebiotic toothpastes and toothbrushes costing up to £600 - though we remain in the midst of a serious dental crisis\""
+    "issue": "trail leans on \"crisis\": \"Welcome to the rise of Big Toothbrush: you can now buy prebiotic toothpastes and brushes that cost up to £600. Yet we remain in the midst of a serious dental crisis\""
+  },
+  {
+    "path": "/wellness/2026/sep/23/eye-irritation-care-expert",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"It’s natural to want to soothe eye irritation, and experts explain how to deal with it properly – because mishandling could lead to more problems, they warn\""
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"perilous\": \"When I realised I could no longer touch my toes, I joined the growing number of men taking up pilates – a perilous month that set my body ‘on fire’\""
+  },
+  {
+    "path": "/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Public transport in global cities is slowing to a crawl, and experts fear for the future of London’s bus network as some commuters give up entirely – with worrying implications for the poorest in society\""
+  },
+  {
+    "path": "/society/2026/sep/22/prisons-uk-organised-crime-good-lads-respectful-pia-sinha",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"alarm\": \"In more than two decades in the Prison Service, Pia Sinha gained a reputation as a fixer. Now she’s sounding the alarm about overcrowding and other problems\""
+  },
+  {
+    "path": "/uk-news/2025/sep/07/london-tube-users-warned-to-plan-for-disruption-as-strike-action-escalates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warned\": \"Users are warned to plan for disruption as strike action escalates, bringing services to an early finish on Sunday and closing the underground entirely for four days from Monday\""
+  },
+  {
+    "path": "/business/2026/sep/13/uk-autumn-budget-healey-trump",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"perilous\": \"The perilous economic conditions facing the UK can be traced back to the US president, whose policies continue to inflate debt servicing costs\""
   },
   {
     "path": "/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fears\": \"The rise comes as inflation fears fuelled by the Iran war and renewed uncertainty over Starmer's leadership prompt a bond sell-off, posing a new threat to Labour's spending plans\""
+    "issue": "trail leans on \"fears\", \"threat\": \"Inflation fears fuelled by the Iran war and renewed uncertainty over Starmer’s leadership prompt the sell-off, posing a new threat to Labour’s spending plans\""
   },
   {
     "path": "/education/2022/oct/26/universities-us-canada-uk-sustainability-league-edinburgh-rank-emissions-targets",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fears\": \"It is the highest-ranked British institution, with UK universities behind their US and Canadian counterparts as fears grow over emissions targets\""
+    "issue": "trail leans on \"fears\": \"Universities in the US and Canada beat the UK in the ranking, which comes as fears grow over emissions targets\""
+  },
+  {
+    "path": "/world/live/2025/aug/13/europe-leaders-ukraine-summit-zelenskyy-trump-putin-live-news-updates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"Proposal comes as the US president warns that ‘there will be severe consequences’ if Russia doesn’t agree to end the war\""
+  },
+  {
+    "path": "/us-news/2024/nov/19/us-russia-ukraine-missile-attacks",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"US and Europe fear escalation of Russian hybrid warfare amid the missile attacks, with officials ‘incredibly concerned’ as Moscow vows a response\""
+  },
+  {
+    "path": "/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"The US meeting brings the two leaders together amid deep distrust between US and China; fears persist about Trump ‘sucking up’ to Xi on Taiwan, and few concrete outcomes are anticipated\""
   },
   {
     "path": "/world/2017/nov/09/donald-trump-china-act-faster-north-korea-threat",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"threat\": \"The president praised China rather than blaming it for the US trade deficit, saying he does not blame Beijing 'for taking advantage' of the US, and expects it to defuse the North Korea threat\""
+    "issue": "trail leans on \"threat\": \"President is confident Beijing will defuse North Korea threat, and blames US for trade deficit, saying he does not blame Beijing ‘for taking advantage’ of US\""
   }
 ]
