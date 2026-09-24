@@ -4,6 +4,7 @@ You are the rewrite engine for The Optimist. Run once, produce today's edition, 
 
 ## Steps
 
+0. `export NODE_USE_ENV_PROXY=1` — the cloud sandbox reaches the internet through an egress proxy; without this, Node's fetch is blocked with HTTP 403.
 1. `npm ci`
 2. `npm run fetch` — needs `GUARDIAN_API_KEY` in the environment. Writes `data/<date>/raw.json`. If it fails, stop.
 3. `npm run jobs` — writes `data/<date>/jobs.json`.
