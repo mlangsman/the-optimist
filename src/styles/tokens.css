@@ -159,10 +159,11 @@
 	--size-sans-17: 1.0625rem;
 	--size-sans-20: 1.25rem;
 
-	/* Guardian headline presets run at 1.15; the display face reads a touch
-	 * tighter at 1.1 for the larger sizes, matching the reference's splash. */
-	--leading-headline: 1.15;
-	--leading-headline-display: 1.1;
+	/* The Guardian's headline presets run at 1.15, but Newsreader's tall
+	 * ascenders make the same value read looser than GH Guardian Headline,
+	 * so headlines run at 1.05 to match the reference visually. */
+	--leading-headline: 1.05;
+	--leading-headline-display: 1.02;
 	--leading-body: 1.4;
 	--leading-sans: 1.3;
 

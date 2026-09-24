@@ -195,7 +195,9 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 		justify-self: end;
 		display: flex;
 		flex-direction: column;
-		align-items: flex-end;
+		/* As in the Guardian's wordmark, 'The' sits over the start of the name,
+		   left-aligned and slightly inset, while the block stays on the right. */
+		align-items: flex-start;
 		text-decoration: none;
 		color: var(--masthead-text);
 		padding: var(--space-3) 0 var(--space-2);
@@ -209,6 +211,9 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 		font-size: 2.5rem; /* 40px */
 		line-height: 0.82;
 		letter-spacing: -0.03em;
+	}
+	.wordmark__line:first-child {
+		padding-left: 0.08em;
 	}
 
 	@media (min-width: 740px) {

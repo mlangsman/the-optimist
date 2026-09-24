@@ -1,690 +1,658 @@
 {
-  "/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel": {
-    "headline": "Police act over suspected danger to life at sea, holding far-right activist Daniel Thomas",
-    "trail": "The 37-year-old is in custody on suspicion of crimes including criminal damage with intent to endanger life, after a ‘dinghy slashed in Channel’"
-  },
-  "/politics/2026/sep/24/tactical-voting-uk-election-reform-fourth-place-poll": {
-    "headline": "Andy Burnham is drawing progressives back to Labour, polling suggests",
-    "trail": "A poll finds tactical voting at the next election could push Reform into fourth place, with progressives motivated by a desire to stop Nigel Farage"
-  },
-  "/uk-news/2026/sep/24/reported-assaults-britains-railways-rise-record-high": {
-    "headline": "Rail unions make the case for more staff and policing across Great Britain’s railways",
-    "trail": "Unions say record-high figures of nearly 25,000 reported assaults a year, on rail workers as well as members of the public, show the need for more staff and policing"
-  },
-  "/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget": {
-    "headline": "Government investment in focus ahead of chancellor’s budget",
-    "trail": "A global bond sell-off is piling new pressure on UK borrowing costs, with the 10-year gilt near a 19-year high, hiking the upfront cost of government investment and limiting the chancellor’s room for manoeuvre"
+  "/us-news/live/2026/sep/24/trump-xi-jinping-china-ai-trade-summit-latest-news-updates": {
+    "headline": "Trump hails ‘great friendship’ as Xi arrives at White House for major talks on trade, AI and Taiwan – live",
+    "trail": "Xi, who arrived on Thursday morning, says China and US must ensure AI ‘is always under human control’ in talks expected to cover trade, AI, Taiwan and more"
   },
   "/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates": {
-    "headline": "Netanyahu set to address UN general assembly later today – latest updates",
-    "trail": "The Israeli PM is expected to use the speech to attack New York mayor Mamdani, who has been a vocal critic of him"
+    "headline": "Mahmoud Abbas takes the Palestinian case to the UN by pre-recorded video – latest updates",
+    "trail": "The longtime president of the Palestinian Authority, speaking by video for the second year in a row, tells the UN the Palestinian delegation was unlawfully denied entry visas"
+  },
+  "/uk-news/2026/sep/24/st-james-group-ltd-lindner-prater-fined-mick-ferris-killed-falling-window-corniche-london": {
+    "headline": "Court holds luxury developer and facade contractor to account over Corniche window safety failings",
+    "trail": "The firms are fined a total of £1.3m after Mick Ferris was crushed to death when a 130kg pane fell 26 storeys from the Corniche housing development in London"
+  },
+  "/politics/2026/sep/24/tactical-voting-uk-election-reform-fourth-place-poll": {
+    "headline": "Andy Burnham is drawing progressive voters back to Labour, poll suggests",
+    "trail": "Tactical voting at the next election could push Reform into fourth place, the poll finds, with progressives motivated by a desire to stop Nigel Farage"
   },
   "/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates": {
-    "headline": "Federal judge orders Trump administration to immediately return CNN and Politico press passes – live",
-    "trail": "The judge said the ban was likely unconstitutional and temporarily restored the outlets’ access, but hours later CNN and Politico were blocked from the White House"
+    "headline": "Judge’s order backs banned news outlets, who now seek emergency hearing over White House entry – live",
+    "trail": "A federal judge had ruled the Trump administration must immediately return the outlets’ press passes and said the ban was likely unconstitutional, but they were still denied entry"
   },
-  "/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani": {
-    "headline": "Newcastle University names Indian oil heir Anant Ambani as professor of sustainability",
-    "trail": "The role for the son of India’s richest person, who also runs a controversial mega-zoo, has been met with a backlash and incredulity"
+  "/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel": {
+    "headline": "Police act on livestreamed footage to hold far-right activist Daniel Thomas over Channel dinghy",
+    "trail": "Police arrested the 37-year-old after ‘dinghy slashed in Channel’; he is in custody on suspicion of crimes including criminal damage with intent to endanger life"
   },
-  "/world/live/2026/sep/24/russia-ukraine-un-zelenskyy-putin-kharkiv-macron-eu-competitiveness-latest-news-updates": {
-    "headline": "Denmark report gives Nato allies advance notice of Russian hybrid warfare – Europe live",
-    "trail": "Russia is expected to escalate hybrid warfare against Nato allies in coming months, Denmark says, and the report says there could be ‘greater consequences for the targeted countries than in the past’"
+  "/politics/2026/sep/24/rory-stewart-strange-newsnight-moment-stare-goes-viral": {
+    "headline": "Rory Stewart’s ‘magnificently strange’ Newsnight stare becomes an internet hit",
+    "trail": "The eyes have it: a clip of the former Tory MP staring intently at a fellow panellist on Newsnight is shared widely online"
   },
-  "/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit": {
-    "headline": "US-China trade truce extended as Trump rolls out the red carpet for Xi Jinping",
-    "trail": "The treasury secretary announces an extension of the ‘Busan agreement’ pausing trade war hostilities, as the president greets Xi on arrival in a rare move"
+  "/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform": {
+    "headline": "UK watchdog’s £12.7m fine on TikTok over under-13s stands as app drops appeal",
+    "trail": "The regulator punished the video app for failing to enforce the minimum age limit and remove underage users, and for not keeping under-13s off the platform"
+  },
+  "/world/2026/sep/24/man-105-investigated-nazi-pow-camp-murders": {
+    "headline": "Judiciary races to bring Nazi PoW camp murders to court, investigating man aged 105",
+    "trail": "The centenarian is accused of being accessory to multiple murders at Stalag 326 VI K in west Germany, as the judiciary race to prosecute suspects before they die"
   },
   "/film/2026/sep/24/oscar-movie-contenders-predictions": {
-    "headline": "The Oscars race takes shape, from Greek epics to gory obsessions and awkward invites",
-    "trail": "A crop of competitors is starting to materialise this year, though Christopher Nolan’s The Odyssey might be the one to beat"
+    "headline": "This year’s Oscars race takes shape, with a crop of competitors starting to emerge",
+    "trail": "Greek epics, gory obsessions and awkward invites: Christopher Nolan’s The Odyssey might be the one to beat, but a crop of competitors is starting to materialise"
   },
   "/lifeandstyle/2026/sep/24/you-be-the-judge-should-my-partner-dial-down-the-heat-when-he-cooks": {
-    "headline": "You be the judge: Rhonda, Ned and the great wok-heat debate",
-    "trail": "Rhonda believes Ned turns the heat up too high and ruins woks; he reckons he has famous chefs on his side. You decide whose argument is in flames"
+    "headline": "You be the judge: Rhonda and Ned put their fiery wok debate to you",
+    "trail": "Rhonda believes Ned turns the heat up too high when he cooks and ruins woks. He reckons he has famous chefs on his side. You decide whose argument is in flames"
   },
   "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power": {
-    "headline": "So many saw where the west was heading – they deserved to be heard, says Owen Jones",
-    "trail": "Many saw what was coming, says Guardian columnist Owen Jones. We were warned but chose not to listen, and western leaders’ endless pursuit of wealth and power has left the west in freefall"
+    "headline": "Guardian columnist Owen Jones makes the case for heeding those who saw the west’s troubles coming",
+    "trail": "Western leaders’ endless pursuit of wealth and power put the west in freefall; worst of all, we were warned but chose not to listen. ‘What strikes me most is how many saw what was coming’"
   },
   "/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain": {
-    "headline": "Meet the minds shaping prime minister Andy Burnham’s ambitions for Britain",
-    "trail": "The long read: The new prime minister declares he wants to end 40 years of neoliberalism. In what may be Labour’s last chance, the test is whether he is really prepared to be that radical"
+    "headline": "Inside the circle shaping Andy Burnham’s bid to end 40 years of neoliberalism",
+    "trail": "The long read: Labour’s last chance? The new prime minister has declared he wants to end 40 years of neoliberalism and has grand plans for Britain. But is he really prepared to be that radical?"
   },
   "/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake": {
-    "headline": "How the mystery of Furnace Brook’s lost carp, tench, bream, roach and trout was traced to a neighbouring farm",
-    "trail": "A story of waste, pollution and dirty rivers that reveals a lot about Britain today. ‘The eels were climbing out of the water to die’: every fish in the idyllic East Sussex lake perished overnight; 15 trailer-loads were buried"
+    "headline": "Following the mystery of an idyllic East Sussex lake’s lost fish to a neighbouring farm",
+    "trail": "The Furnace Brook mystery leads to a story of waste, pollution and dirty rivers that reveals a lot about Britain today. ‘The eels were climbing out of the water to die’: its carp, tench, bream, roach and trout all perished overnight, and 15 trailer-loads had to be buried"
   },
   "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race": {
-    "headline": "From tanks to long-range drones: how the war between Ukraine and Russia is being reshaped",
-    "trail": "Ukraine and Russia vie for supremacy in the skies with a new generation of drones focused on military, industrial, economic and civilian targets, in a conflict that began with tanks and then artillery"
+    "headline": "A new generation of long-range drones reshapes the air war between Ukraine and Russia",
+    "trail": "Both sides scramble for supremacy in the skies as a conflict that began with tanks and then artillery pivots around drones focused on military, industrial, economic and civilian targets"
   },
   "/global-development/ng-interactive/2026/sep/24/first-theres-the-gruelling-task-of-trying-to-charge-my-laptop-a-day-in-the-life-of-a-university-lecturer-in-gaza": {
-    "headline": "Overcoming internet cuts and power outages: a Gaza university lecturer’s fight to give his students an education",
-    "trail": "Mahmoud is one of five ordinary Palestinians the Guardian follows as the war in Gaza approaches its fourth year, each telling the story of a day that reveals the terrible toll of the conflict. ‘First there’s the gruelling task of trying to charge my laptop’"
+    "headline": "A day with Mahmoud, the Gaza university lecturer overcoming internet cuts and power outages to educate his students",
+    "trail": "‘First there’s the gruelling task of trying to charge my laptop’: as the war approaches its fourth year, the Guardian follows five ordinary Palestinians, revealing the terrible toll of the conflict"
   },
   "/politics/2026/sep/24/labour-majority-five-progressive-voter-types-charts": {
-    "headline": "Mapping the idealists, struggling sceptics and three other progressive voter groups behind Labour’s majority – in charts",
-    "trail": "Analysis reveals the groups’ sharply contrasting priorities – and who has drifted the most from Labour towards the Greens and Reform"
+    "headline": "Charting the five kinds of progressive voter who hold Labour’s majority in their hands",
+    "trail": "Analysis reveals groups, from idealists to struggling sceptics, with sharply contrasting priorities – and who has drifted the most from Labour towards Greens and Reform"
   },
-  "/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues": {
-    "headline": "‘We have nothing’: DRC’s displaced people move south to Tanganyika, more than a year after a peace deal",
-    "trail": "Continuing violence in the Democratic Republic of the Congo is worsening the displacement crisis, forcing people into Tanganyika, where camps are already home to hundreds of thousands living in dire conditions"
+  "/world/2026/sep/24/greenland-trump-us-security-agreement-relief": {
+    "headline": "Hopeful Greenlanders look to this week’s agreement as a step towards independence",
+    "trail": "After so long in Trump’s sights, locals breathe a collective sigh of relief and hope the agreement signed this week is a step towards independence and an end to US threats to annex the island"
   },
-  "/artanddesign/2026/sep/24/turner-prize-review-mima-middlesbrough-kira-freije": {
-    "headline": "Turner prize review – in a truly competitive year, soulful cyborgs trounce all comers",
-    "trail": "Kira Freije’s apocalyptic humanoids go into battle and trounce everything in their path, even the sculpture that looks like a pile of biscuits – a stack of massive Hobnobs"
+  "/tv-and-radio/2026/sep/24/streaming-services-inflation-ads": {
+    "headline": "US consumers push back against ‘streamflation’ by starting to opt out of streaming",
+    "trail": "Price hikes, ads and lower quality: several services are raising prices without offering many perks, raising the question of whether the TV experience has been ruined"
+  },
+  "/artanddesign/2026/sep/24/nicole-eisenman-review-artist-sculptor-sadie-coles-london-royal-academy-arts": {
+    "headline": "Nicole Eisenman review: America’s magical magpie returns with a dazzling show of sublime stargazing",
+    "trail": "Abstract, humorous yet deeply unsettling, the painter’s exhibition sees her caught between distant skies and the ugly reality on the ground, where ICE-like goons clash with the stargazing"
+  },
+  "/culture/2026/sep/24/the-chicks-20-greatest-songs-ranked": {
+    "headline": "The Chicks celebrate 20 years of Taking the Long Way: their 20 greatest songs – ranked",
+    "trail": "From George Bush to murder and nautical infidelity, we count down the best of the catchy, sometimes controversial catalogue of the country trio once known as Dixie Chicks"
   },
   "/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza": {
-    "headline": "Acclaimed Gaza documentary NAZA set for cinemas in 56 territories",
-    "trail": "A global theatrical rollout is announced for the documentary about Israel’s mass killing of civilians in Gaza, before the film will stream on the Guardian website"
-  },
-  "/food/2026/sep/24/the-trouble-with-coffee-flavoured-drinks-mina-holland": {
-    "headline": "Our drinks columnist goes in search of a coffee-flavoured drink to match the real thing",
-    "trail": "A UK coffee lover explores the world of canned lattes and flavoured protein drinks to find out whether any come close to the real thing"
+    "headline": "Acclaimed Gaza documentary NAZA set for cinemas in 56 territories and streaming on the Guardian",
+    "trail": "A global theatrical rollout across 56 territories is planned for the documentary about Israel’s mass killing of civilians in Gaza, before the film will stream on the Guardian website"
   },
   "/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics": {
-    "headline": "Labour MP Clive Lewis makes the case that democracy depends on public trust",
-    "trail": "Former Labour deputy leader Tom Watson joining Palantir, a firm built on surveillance and military targeting, deepens public cynicism and is the latest sign of how far the rot has spread in UK politics"
+    "headline": "Labour MP Clive Lewis makes the case for trust in politics after Tom Watson’s move to Palantir",
+    "trail": "Democracy depends on trust: a former Labour deputy leader joining a firm built on surveillance and military targeting deepens public cynicism – the latest sign of how far the rot has spread in UK politics"
   },
   "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed": {
-    "headline": "ME sufferers deserve better – and there is no excuse for not delivering it",
-    "trail": "Changes in guidance and science seem to have little impact on millions of devastated lives, with sufferers abandoned, dismissed, gaslighted and betrayed – a social crisis playing out behind closed doors, says columnist George Monbiot"
+    "headline": "ME sufferers deserve better – and there is no excuse for not delivering it, argues George Monbiot",
+    "trail": "Changes in guidance and science seem to have little impact on millions of devastated lives – abandoned, dismissed, gaslighted and betrayed. It’s a social crisis playing out behind closed doors, says the Guardian columnist"
   },
   "/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts": {
-    "headline": "Why authentic relationships, not shortcuts, bring the rewards of friendship",
-    "trail": "Authentic relationships can surely only be forged when you’re not expecting a return on your money, says Elle Hunt, asking if buying friends on an app is likely to help solve our crisis of loneliness"
+    "headline": "Elle Hunt makes the case for the rewards of real friendship over buying friends on an app",
+    "trail": "Shortcuts work against those rewards: authentic relationships can surely only be forged when you’re not expecting a return on your money, says the journalist, amid a crisis of loneliness"
   },
   "/commentisfree/2026/sep/24/im-an-avid-fan-of-chard-but-you-can-have-too-much-of-a-good-thing": {
-    "headline": "A veg patch turned chard jungle serves up chard for breakfast, lunch and supper",
-    "trail": "I’m an avid fan of chard, but you can have too much of a good thing, writes Adrian Chiles, whose veg patch has turned into a chard jungle"
+    "headline": "Adrian Chiles’s veg patch grows into a chard jungle",
+    "trail": "An avid fan of chard, he now eats it for breakfast, lunch and supper – and finds you can have too much of a good thing, writes Adrian Chiles"
   },
   "/commentisfree/2026/sep/24/women-conservatives-male-domination": {
-    "headline": "Seeing clearly what the American right’s new sexual politics means for women",
-    "trail": "Conservatives long promoted a politics of sexual prohibition. Now such morals have been shed in favour of male domination, as the right embraces raunch in its push to subordinate women"
+    "headline": "The American right’s shift from prohibition to raunch lays bare its push to subordinate women",
+    "trail": "Conservatives long promoted a politics of sexual prohibition. Now, as the right embraces raunch, such morals have been shed in favour of male domination"
   },
   "/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous": {
-    "headline": "A moment this serious deserves better than Trump’s UN speech",
-    "trail": "It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like Trump, whose speech to the UN was delusional and dangerous"
+    "headline": "Why Trump’s UN speech must be seen for what it was: delusional and dangerous",
+    "trail": "At such a perilous moment, it is sad and dangerous that the United States is saddled with a president like Trump"
   },
   "/commentisfree/2026/sep/23/the-guardian-view-on-the-future-of-the-un-more-embattled-but-more-necessary-than-ever": {
-    "headline": "The Guardian view on the UN’s future: more necessary than ever as António Guterres prepares to step down",
-    "trail": "Editorial: As its secretary general prepares to go, the general assembly is highlighting the scale of the organisation’s challenges, with the UN more embattled than ever"
+    "headline": "The Guardian view on the UN: as António Guterres prepares to step down, the world body is more necessary than ever",
+    "trail": "Editorial: The general assembly is highlighting the scale of the organisation’s challenges as the secretary general, António Guterres, prepares to step down, with the UN more embattled, but more necessary, than ever"
   },
   "/commentisfree/2026/sep/23/the-guardian-view-on-russian-disinformation-a-foreign-threat-that-relies-on-uk-complicity": {
-    "headline": "The Guardian view on Russian disinformation: the case for seeing the whole problem, from the Kremlin to extremists at home",
-    "trail": "Editorial: Andy Burnham’s accusation against the Kremlin tells half the story. Domestic extremists amplified by US big tech are part of the same problem, a foreign threat that relies on UK complicity"
+    "headline": "The Guardian view on Russian disinformation: seeing the whole problem, abroad and at home",
+    "trail": "Editorial: Andy Burnham’s accusation against the Kremlin tells half the story. Domestic extremists amplified by US big tech are part of the same problem – a foreign threat that relies on UK complicity"
   },
   "/education/2026/sep/23/stop-the-ofsted-inspections-that-are-harming-teachers": {
-    "headline": "Readers speak up for teachers over Ofsted’s new grading regime",
-    "trail": "Letters: Readers call for an end to the Ofsted inspections under a new grading regime they say is causing more stress and health issues for school staff than ever before"
+    "headline": "Readers speak up for teachers against Ofsted’s new grading regime",
+    "trail": "Letters: Readers on the new grading regime that is causing more stress and health issues for school staff than ever before, and a call to stop the Ofsted inspections harming teachers"
   },
   "/music/2026/sep/23/picking-a-side-on-ed-sheeran-israel-and-palestine": {
-    "headline": "Ed Sheeran’s commitment to his fans wins praise in readers’ letters on Israel and Palestine",
-    "trail": "Letters: Anna Emms praises the singer’s commitment to his fans, while Dr Richard J Goy says celebrities like Ed Sheeran should not shy away from expressing political opinions. Plus a letter from David Parry"
+    "headline": "A reader praises Ed Sheeran’s commitment to his fans as letters weigh picking a side on Israel and Palestine",
+    "trail": "Letters: Anna Emms praises the singer’s commitment to his fans, while Dr Richard J Goy writes that celebrities like Ed Sheeran should not shy away from expressing political opinions. Plus a letter from David Parry"
   },
   "/tv-and-radio/2026/sep/23/folk-or-ai-could-be-a-winner-for-the-uk-at-eurovision": {
-    "headline": "Readers suggest folk or AI could bring the UK success at Eurovision",
-    "trail": "Letters: A cross-party committee of MPs looking into the UK’s poor record at the song contest gets advice from readers"
+    "headline": "Readers offer MPs ideas for Eurovision success, from folk to AI",
+    "trail": "Letters: Readers have advice for a cross-party committee of MPs looking into the UK’s poor record at the song contest, suggesting folk or AI could be a winner"
   },
   "/uk-news/2026/sep/23/farewell-nimbys-of-piddington": {
-    "headline": "Readers wave off the Oxfordshire village that voted to leave the UK",
+    "headline": "Readers have their say on Piddington’s vote to leave the UK",
     "trail": "Letters: Readers bid farewell to the nimbys of Piddington, the Oxfordshire village that has voted to leave the UK over plans to house asylum seekers nearby"
   },
   "/sport/live/2026/sep/24/england-v-sri-lanka-second-one-day-cricket-international-live-score-updates": {
-    "headline": "The series moves to Headingley as England meet Sri Lanka in the second men’s one-day international – live",
-    "trail": "Over-by-over report: Join our writers for every over of the second match of the series between England and Sri Lanka, with the action now at Headingley"
+    "headline": "Headingley hosts England v Sri Lanka in the second men’s one-day cricket international – live",
+    "trail": "Over-by-over report: The series moves to Headingley for its second match – join our writers for all the action as it happens"
   },
-  "/sport/2026/sep/24/harlequins-northampton-gloucester-prem-clubs-talks-with-overseas-investors-rugby-union": {
-    "headline": "Harlequins, Northampton and Gloucester attract serious investment offers",
-    "trail": "Three leading Prem clubs are in talks with overseas investors on the eve of the rugby union season as Prem rugby looks to cricket’s Hundred sell-off as a template for growth"
+  "/sport/2026/sep/24/northampton-lead-prem-charge-but-history-shows-title-defence-will-be-no-simple-task": {
+    "headline": "Keeping Henry Pollock boosts champions Northampton as they lead the Prem charge",
+    "trail": "The champions are eager to keep improving, though history shows a title defence will be no simple task and a revitalised Saracens and Exeter should push them all the way"
   },
   "/football/2026/sep/24/separate-home-away-fans-wsl-games-moving-the-goalposts": {
-    "headline": "WSL interest rises as some call for dedicated away ends to improve atmosphere",
-    "trail": "With interest in the league rising, some are calling for home and away fans to be separated at WSL games, with dedicated away ends at stadiums to improve atmosphere"
-  },
-  "/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope": {
-    "headline": "England have reasons for optimism in the buildup to Euro 2028",
-    "trail": "Anger at Tuchel over the World Cup exit exposes the biggest obstacle to England success, but the manager is not responsible for underlying weaknesses"
+    "headline": "As interest in the WSL rises, some call for dedicated away ends to improve atmosphere",
+    "trail": "With the league growing in popularity, some are calling for away ends at stadiums, raising the question of whether the time has come to separate home and away fans at WSL games"
   },
   "/sport/live/2026/sep/24/somerset-v-surrey-warwickshire-v-leics-and-more-county-championship-cricket-live": {
-    "headline": "Final round brings a County Championship title race to the wire – live",
-    "trail": "Rolling report: Join James Wallace for updates from day one of the final round of County Championship fixtures, including Somerset v Surrey, Warwickshire v Leics and more"
+    "headline": "County Championship title race goes to the wire as the final round gets under way – live",
+    "trail": "Rolling report: Join James Wallace for updates from day one of the final round of fixtures, including Somerset v Surrey, Warwickshire v Leics and more"
   },
-  "/sport/2026/sep/24/us-jockey-club-orders-racehorse-austrian-painter-to-be-renamed-due-to-hitler-reference": {
-    "headline": "US Jockey Club acts to have racehorse Austrian Painter renamed",
-    "trail": "The US Jockey Club has ordered the racehorse to be given a new name because Austrian Painter contains a reference to Adolf Hitler"
+  "/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins": {
+    "headline": "Brazil start their rebuild against the Socceroos in the unlikely outpost of Townsville",
+    "trail": "Vinícius Júnior et al open the Seleção’s new chapter after their latest World Cup exit in a place better known for rugby league than joga bonito"
   },
-  "/football/2026/sep/24/gianni-infantino-under-pressure-abandoned-world-cup-sell-off-fifa-review": {
-    "headline": "Fifa council members to press for abandoned World Cup sell-off plan to be included in external review",
-    "trail": "Council members will demand that Gianni Infantino include the failed sell-off plan and the Folarin Balogun affair in his proposed external review of Fifa’s governance, putting Infantino under pressure"
+  "/football/2026/sep/24/disney-womens-champions-league-coverage": {
+    "headline": "A golden retriever and guess the pasta: why I understand Disney’s women’s football coverage",
+    "trail": "My bad TV history qualifies me to discuss it: I understand how the producers of a Women’s Champions League show on Disney+ arrived at such unusual inclusions"
   },
-  "/sport/2026/sep/24/england-rugby-prem-deal-12-months-world-cup": {
-    "headline": "The Prem is thriving two years on from landmark £264m deal",
-    "trail": "With the Rugby World Cup only a year away, England are yet to reap the rewards and no one would describe Borthwick’s side as world-leading"
+  "/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope": {
+    "headline": "Euro 2028 buildup offers England reasons for optimism",
+    "trail": "The manager is not responsible for underlying weaknesses, but anger at Tuchel over the World Cup exit exposes the biggest obstacle to England success"
+  },
+  "/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget": {
+    "headline": "What rising gilt costs mean for the chancellor’s budget",
+    "trail": "Global bond sell-off piles new pressure on UK borrowing costs: the rising cost of the 10-year gilt to near a 19-year high hikes the upfront cost of government investment and limits the chancellor’s room for manoeuvre"
+  },
+  "/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army": {
+    "headline": "Tigrayan rebels form new coalition and launch offensive against Ethiopian army",
+    "trail": "Fighting escalates as the coalition, aimed at overthrowing the Abiy Ahmed government, goes on the offensive, stoking fears of a return to civil war"
+  },
+  "/uk-news/2026/sep/24/high-court-blocks-former-sas-soldier-publishing-book-counter-terror-operation-christian-craighead": {
+    "headline": "Court extends injunction as MoD pursues confidentiality claim over ex-SAS soldier’s book",
+    "trail": "The injunction blocks publication of the book on a counter-terror op by the soldier known as Christian Craighead, which the MoD claims contains an alleged breach of a confidentiality contract"
+  },
+  "/world/2026/sep/24/twins-sentenced-to-death-and-jail-iran-un-appeal": {
+    "headline": "Taraneh and Romina Rahimi’s family appeal to UN to help the Iranian twins",
+    "trail": "The twins, sentenced to death and decades in jail, were charged with ‘waging war against God’ after joining protests against Tehran regime"
+  },
+  "/uk-news/2026/sep/24/reported-assaults-britains-railways-rise-record-high": {
+    "headline": "Rail unions make the case for more staff and policing on Great Britain’s railways",
+    "trail": "Unions say record high figures of nearly 25,000 reported assaults a year, including assaults on rail workers as well as members of the public, show the need for more staff and policing"
+  },
+  "/us-news/2026/sep/24/fossil-fuels-trump-donations": {
+    "headline": "Senators’ report exposes ‘bargain’ between Trump and major polluters",
+    "trail": "Fossil-fuel firms are in line for billions in benefits after answering Trump’s donation call, and the report says taxpayers face higher bills after the ‘bargain’"
   },
   "/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage": {
-    "headline": "Norfolk Broads levy has house developers pay towards mitigating environmental damage",
-    "trail": "Exclusive: The ‘cash to trash’ levy allows almost 16,000 houses to be built on the Norfolk Broads, but critics say it is too low and will not cover the cost of mitigating environmental damage"
+    "headline": "Critics stand up for Norfolk Broads environment in challenge to ‘cash to trash’ developer levy",
+    "trail": "Exclusive: Levy that allows almost 16,000 houses to be built on Norfolk Broads is too low and will not cover cost of mitigating environmental damage, critics say"
   },
-  "/world/2026/sep/24/racist-abuse-france-teddy-riner-far-right": {
-    "headline": "Paris’s public prosecutor takes up case of French judo star Teddy Riner",
-    "trail": "Investigation follows racist abuse and online harassment of Riner, one of France’s most popular sportspeople, after he spoke about the rise of the far right"
-  },
-  "/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones": {
-    "headline": "Camera seller Jessops finds new home at online retailer AO",
-    "trail": "Online electricals retailer buys Jessops from Dragons’ Den star Peter Jones and says latest purchase continues to broaden its appeal beyond white goods, phones and TV"
-  },
-  "/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity": {
-    "headline": "Nick Clegg makes the case for a calmer, clearer-eyed AI debate",
-    "trail": "Former deputy PM now involved in tech industry plays down fears ‘godlike’ AI could exterminate humanity, saying many within sector are ‘winding themselves up into a lather’"
-  },
-  "/environment/2026/sep/24/world-warms-up-insects-moving-northwards-uk": {
-    "headline": "Praying mantises and big-eyed bugs among a wave of new insect arrivals in Britain",
-    "trail": "The climate crisis is driving an explosion of migrating insects to UK shores – in some cases from as far as northern Africa"
-  },
-  "/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband": {
-    "headline": "Ed Miliband takes UK’s climate security findings to global foreign ministers",
-    "trail": "UK shares findings of damning climate crisis national security report suppressed under Starmer, with Miliband saying El Niño poses critical threat to nations’ defences"
-  },
-  "/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods": {
-    "headline": "Closing fisheries could allow South Africa’s sardine numbers to recover",
-    "trail": "Known as the ‘energy bars of the sea’, sardines are a key food source for many species, but a mass die-off pits penguins’ survival against fishers’ livelihoods, and closures would cost millions"
-  },
-  "/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe": {
-    "headline": "Study traces bats’ origins to Europe and redraws mammals’ family tree",
-    "trail": "Biggest study of its kind provides insights into bats’ evolution – potentially transformative for research into human virus and cancer treatment"
+  "/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation": {
+    "headline": "‘You can’t just bet everything on exports’: Bolivia weighs its future after a gas boom that lifted millions out of poverty",
+    "trail": "As its fossil gas runs out, the boom has collapsed and inflation is rising; not everyone believes gold and soya exports are the answer, and the question is whether Bolivia is doomed to repeat history"
   },
   "/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage": {
     "headline": "Mitsotakis keeps door open to Parthenon marbles deal with ‘political will and courage’",
     "trail": "Greek PM says a deal to return the sculptures could still be reached, but he cannot accept any arrangement that recognises British Museum’s ownership of them"
   },
+  "/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani": {
+    "headline": "Newcastle University’s choice of sustainability professor faces questions",
+    "trail": "Backlash as role for Indian oil heir Anant Ambani, son of India’s richest person, who also runs a controversial mega-zoo, is met with incredulity"
+  },
   "/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose": {
-    "headline": "Researchers set out scale of the high blood pressure challenge in England",
-    "trail": "Research reveals millions are unaware they have the ‘silent killer’ condition, with 59 per cent of cases undiagnosed, and researchers say the approach to treating it is ‘not fit for purpose’"
+    "headline": "Researchers make the case for a new approach to treating high blood pressure in England",
+    "trail": "Current approach is ‘not fit for purpose’, say researchers, with 59 per cent of cases undiagnosed and millions unaware they have the ‘silent killer’ condition"
   },
   "/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england": {
-    "headline": "England’s pupils to gain vocational GCSE option in education overhaul",
-    "trail": "Courses such as finance and construction form part of radical shake-up and PM’s push for education ‘that offers a path for everybody’"
+    "headline": "Vocational GCSEs to open new paths for pupils in England",
+    "trail": "Courses such as finance and construction form part of PM’s radical shake-up of the system and push for education ‘that offers a path for everybody’"
   },
-  "/uk-news/2026/sep/23/raf-jet-crashes-and-explodes-in-anglesey-moments-after-pilots-eject": {
-    "headline": "Pilots eject from RAF training jet in Anglesey",
-    "trail": "The T2 Hawk aircraft, which was being used for a training flight, crashed and exploded moments after they ejected; a witness says it ‘was basically on fire’ on takeoff"
+  "/world/2026/sep/24/racist-abuse-france-teddy-riner-far-right": {
+    "headline": "Paris prosecutor investigates online harassment of judo star Teddy Riner",
+    "trail": "Investigation into racist abuse of Riner, one of France’s most popular sportspeople, opens after he spoke about rise of far right"
   },
-  "/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty": {
-    "headline": "Milei raises Falklands in UN general assembly speech",
-    "trail": "Argentinian president threatens that Argentina will take ‘matters into our own hands’ and accuses United Nations of being filled with ‘parasites’ in bellicose speech"
+  "/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues": {
+    "headline": "‘We have nothing’: the people of the DRC seeking safety in Tanganyika",
+    "trail": "More than a year after a peace deal was signed, the displacement crisis worsens as violence forces people south to Tanganyika camps already home to hundreds of thousands living in dire conditions"
   },
-  "/world/2026/sep/23/no-signs-chagos-deal-adapted-suit-donald-trump-officials-believe": {
-    "headline": "Future of Chagos deal with Mauritius rests on Trump, UK insiders believe",
-    "trail": "UK officials see no signs the agreement over Diego Garcia can be adapted to suit Trump, and insiders believe it is unlikely to be revived unless the president changes his mind"
+  "/sport/2026/sep/24/us-jockey-club-orders-racehorse-austrian-painter-to-be-renamed-due-to-hitler-reference": {
+    "headline": "Racehorse Austrian Painter must take a new name, US Jockey Club rules, over Hitler reference",
+    "trail": "The US Jockey Club has acted over the name Austrian Painter, ordering the racehorse to be renamed due to a reference to Adolf Hitler"
   },
-  "/world/2026/sep/23/harvey-weinstein-sentencing-prison": {
-    "headline": "Court sentences Harvey Weinstein to 15 years in Miriam Haley sexual assault case",
-    "trail": "Sentencing for his sexual assault conviction follows years of appeals and retrials in case involving former TV production assistant Miriam Haley"
+  "/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe": {
+    "headline": "EU sets out case against Trump’s US diesel export ban plan, saying it would ‘negatively impact both sides’",
+    "trail": "The 90-day export ban the US president has suggested before midterm elections could bring even higher fuel prices across Europe"
   },
-  "/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules": {
-    "headline": "IPPR puts value of post-Brexit product deal at up to £6.5bn a year in EU trade",
-    "trail": "IPPR finds failure to align testing standards is costing 0.18 per cent of national income and has seen companies abandon exporting to EU, with UK ‘losing up to £6.5bn a year’ without a deal"
+  "/us-news/2026/sep/24/climate-protesters-ai": {
+    "headline": "Climate activists take their message to OpenAI during New York City’s climate week",
+    "trail": "Activists who gathered outside the OpenAI offices on Monday say tech companies, not AI, are the real ‘danger to humankind’ – and the planet"
   },
-  "/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket": {
-    "headline": "Brussels turns its attention to Chinese hybrid cars omitted from EV tariffs",
-    "trail": "Alarm bells are sounding in Brussels as EU sales of Chinese hybrid cars rocket, with explosive growth in the imported vehicles fuelling concern for the future of European carmakers"
+  "/business/2026/sep/24/flash-sale-ao-snaps-up-camera-seller-jessops-from-dragons-den-star-peter-jones": {
+    "headline": "AO adds camera seller Jessops as it broadens its appeal beyond white goods",
+    "trail": "Flash sale: the online electricals retailer snaps up Jessops from Dragons’ Den star Peter Jones, saying the latest purchase continues to broaden its appeal beyond white goods, phones and TV"
   },
-  "/business/2026/sep/23/oecd-global-economy-resilient-iran-war": {
-    "headline": "IIF, OECD and IMF set out the debt challenges facing major economies",
-    "trail": "Three international bodies warn of risks of rising debt and soaring borrowing, with IIF highlighting challenges facing US, France, UK and Japan, and OECD and IMF also voicing global concerns"
+  "/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity": {
+    "headline": "Nick Clegg makes the case for a calmer AI debate",
+    "trail": "The former deputy PM, now involved in the tech industry, plays down fears ‘godlike’ AI could exterminate humanity, saying many within the sector are ‘winding themselves up into a lather’"
   },
-  "/business/2026/sep/23/legal-and-general-to-cut-1000-jobs-by-mid-2027": {
-    "headline": "Legal & General to begin job-cut programme with voluntary redundancies in the UK",
-    "trail": "The insurance and pensions firm is to cut 1,000 jobs by mid-2027 and will consider mandatory job cuts depending on the take-up of voluntary redundancies"
+  "/artanddesign/2026/sep/24/beverly-buchanan-review-spike-island-bristol": {
+    "headline": "Beverly Buchanan review – exceptional sculptures memorialise the survival of enslaved people",
+    "trail": "Inspired by the shacks and sheds of the American south, Buchanan’s ramshackle mini barns and shanties combine folk art and minimalism, bursting with brutal history"
   },
   "/music/2026/sep/24/gilla-band-pugnello-review-five-stars": {
-    "headline": "Gilla Band: Pugnello review – a thrilling, relentless 42 minutes of cathartic, absurdist noise",
-    "trail": "Your favourite band’s favourite band channel furious originality, fuelled by cathartic aggression and absurdist confessions, into monstrous noise whose precise instrumental source always remains discomfitingly unclear"
+    "headline": "Gilla Band: Pugnello review – a thrilling, relentless 42 minutes from your favourite band’s favourite band",
+    "trail": "Furious originality fuelled by cathartic aggression and absurdist confessions, unleashed in monstrous noise whose precise instrumental source always remains discomfitingly unclear"
   },
   "/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports": {
-    "headline": "Kim Kardashian’s Team Moms, premiering on Paramount+ Thursday, shines a light on the US youth-sports industry",
-    "trail": "The new series turns pushy sports parents into glossy entertainment, highlighting the ridiculous excess of the industry – with the children largely ushered off stage"
+    "headline": "Kim Kardashian’s Team Moms brings pushy sports parents to Paramount+ as glossy entertainment",
+    "trail": "The new series, premiering Thursday, highlights the ridiculous excess of the US youth-sports industry – with the children largely ushered off stage"
   },
   "/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show": {
     "headline": "The Real Rooneys review – Wayne and Coleen’s self-deprecation is hard not to enjoy",
-    "trail": "This trip into the celeb couple’s Cheshire mansion at least proves they can laugh at themselves – though it is nowhere as real as they’d like you to believe"
+    "trail": "Their reality show proves they can laugh at themselves, even if this trip into the celeb couple’s Cheshire mansion is nowhere as real as they’d like you to believe"
   },
   "/tv-and-radio/2026/sep/24/a-different-world-review": {
-    "headline": "A Different World review – a remake brings many of the trailblazing black sitcom’s original cast back",
-    "trail": "Jada Pinkett-Smith briefly returns to this Cosby Show-spinoff, whose look at life on a black college campus has its sights set firmly on comedy – a remake that was only a matter of time"
+    "headline": "A Different World review – the trailblazing black sitcom returns with many of its original cast",
+    "trail": "It was only a matter of time before this Cosby Show-spinoff was remade. Jada Pinkett-Smith is back, briefly, and its look at life on a black college campus has its sights set firmly on comedy"
   },
   "/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks": {
-    "headline": "Forgotten Island review – DreamWorks takes best friends forever on a frantic animated adventure",
-    "trail": "The best friends forever are trapped in this over-controlled adventure, which never takes a breath or a moment to let its characters come to life"
+    "headline": "Forgotten Island review – DreamWorks sends best friends forever on a frantic animated adventure",
+    "trail": "The best friends forever end up trapped in an over-controlled adventure that never takes a breath or a moment to let its characters come to life"
   },
-  "/music/2026/sep/23/its-about-being-loudly-visible-ahadadream-the-british-pakistani-dance-star-defanging-racist-slurs": {
-    "headline": "After co-signs from dance music’s A-list, British-Pakistani star Ahadadream releases a defiant, daringly titled debut album",
-    "trail": "The dance star defanging racist slurs once kept creativity separate from a corporate career, like many south Asians in the UK. Now, he says, ‘It’s about being loudly visible’"
+  "/music/2026/sep/25/australian-musician-julia-jacklin-fourth-album-the-gem-review": {
+    "headline": "Julia Jacklin: The Gem review – the Australian musician’s fourth album blends mystery and intimacy with luscious pop-rock",
+    "trail": "Tender, emotional storytelling of hope and hopelessness runs through a record that moves between bright, upbeat jangle and stripped-back acoustics"
   },
-  "/music/2026/sep/23/roomful-of-teeth-gabriel-kahane-review": {
-    "headline": "Roomful of Teeth/Kahane review – irresistible melodies and moments of comic brilliance",
-    "trail": "Gabriel Kahane’s whimsical song cycle about grief, divorce and death gives the virtuoso US vocal ensemble twisty and tuneful songs with a darkly comic edge"
+  "/music/2026/sep/24/royal-philharmonic-orchestra-petrenko-80th-birthday-review-royal-albert-hall": {
+    "headline": "Royal Philharmonic Orchestra at 80 review – Julia Fischer, Pablo Ferrández and Jan Lisiecki bring poetry and virtuosity",
+    "trail": "A birthday celebration championing bold creativity: Beethoven’s Triple Concerto tour de force, vision and cohesion in Strauss’s Ein Heldenleben, and Errollyn Wallen’s energetic Flare opening a special evening"
   },
-  "/stage/2026/sep/23/shelagh-delaney-lost-play-catch-me-who-can-toby-jones": {
-    "headline": "Shelagh Delaney’s long-lost play about a teenage truant becomes a compelling audio drama",
-    "trail": "Another taste of honey: the playwright’s daughter found Catch Me Who Can after her mother’s death, and the play is a little gem, now starring Toby Jones and Rita Tushingham"
+  "/books/2026/sep/24/yellow-dog-by-martin-amis-review-bill-nighy-has-a-ball": {
+    "headline": "Yellow Dog by Martin Amis review – Bill Nighy goes to town on a Booker-nominated satire",
+    "trail": "From spoof monarch to porn tycoon, the actor narrator has a ball with the larger-than-life characters in Martin Amis’s satire"
   },
-  "/music/2026/sep/23/fire-in-my-mouth-review-royal-festival-hall-wolfe-alsop-philharmonia": {
-    "headline": "Fire in My Mouth review – three outstanding choirs join the Philharmonia for Wolfe’s focused, powerful multimedia oratorio",
-    "trail": "With Marin Alsop, they gave the London premiere of Wolfe’s work, which tells its tragic story of the deaths of 146 workers in a New York garment factory fire in 1911"
+  "/music/2026/sep/24/himari-debut-album-review": {
+    "headline": "Himari: Debut album review – 15-year-old Japanese violinist impresses",
+    "trail": "The teenage prodigy’s playing has depth and feeling in her debut recording of works by Wieniawski, Chopin, Godowsky and Sibelius, though the programme feels a little safe"
   },
   "/books/2026/sep/23/peoples-earl-charles-spencer-swan-song-diana-my-sister-digested-read-john-crace": {
-    "headline": "John Crace boils Swan Song down, from the earl’s globally lauded eulogy for Diana to a lavish sprinkling of adverbs",
-    "trail": "‘And you will be the People’s Earl’: Charles Spencer’s Swan Song: Diana, My Sister, digested – with King Charles’s sausage fingers and toxic Raine"
+    "headline": "‘And you will be the People’s Earl’ – John Crace distils Charles Spencer’s book about his sister Diana",
+    "trail": "Swan Song: Diana, My Sister, digested: the earl on his globally lauded eulogy for Diana, King Charles’s sausage fingers and toxic Raine, topped off with a lavish sprinkling of adverbs"
   },
   "/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america": {
-    "headline": "Exit Party by Emily St John Mandel review – the Station Eleven author links two possible future worlds",
-    "trail": "Her new novel offers alternate visions of post-crisis America and asks whether the price of stability is necessarily the loss of freedom"
+    "headline": "Exit Party by Emily St John Mandel review – the Station Eleven author imagines two possible future worlds",
+    "trail": "Alternate visions of post-crisis America are linked in the new novel, which asks whether the price of stability is necessarily the loss of freedom"
   },
   "/books/live/2026/sep/23/booker-prize-2026-ask-our-books-team-anything-about-this-years-contenders": {
-    "headline": "The Guardian’s book team answer your questions on this year’s Booker prize contenders",
-    "trail": "The shortlist was announced last night, and our books editors took your questions on the contenders, the judges and literary fiction – including ‘Why no female lead characters this year?’"
+    "headline": "‘Why no female lead characters this year?’: the Guardian’s book team talks through the Booker contenders",
+    "trail": "This year’s shortlist for the Booker prize was announced last night, and our books editors answered your questions about the contenders, the judges and literary fiction"
   },
   "/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview": {
-    "headline": "Bestselling author John Green returns with his first-ever adult novel",
-    "trail": "His books got him an astronomical following. Now he reflects on fame, YouTube and his brother’s AI controversy – and says ‘I’m still competing for clicks’"
+    "headline": "John Green returns with his first-ever adult novel: ‘I’m still competing for clicks’",
+    "trail": "The bestselling author, who got an astronomical following from his books, reflects on what came next – fame, YouTube and his brother’s AI controversy"
   },
   "/games/2026/sep/23/why-are-gamers-ripping-into-the-new-wolverine-game": {
-    "headline": "Players push back against blockbuster games that take the challenge out of playing",
-    "trail": "Fans are digging their claws into Wolverine over its patronising gameplay, as highlighted ledges and characters telling you what to do increasingly take the challenge out of blockbuster games"
+    "headline": "Players push back to keep the challenge in blockbuster games, with Wolverine in their sights",
+    "trail": "From highlighted ledges to characters telling you what to do, fans are digging their claws into Wolverine over its patronising gameplay, as blockbuster games increasingly take the challenge out of playing"
   },
   "/games/2026/sep/21/silent-hill-townfall-review-screen-burn": {
-    "headline": "Silent Hill: Townfall review – it falls to outsider Simon to offer a fishing community some kind of closure",
-    "trail": "Shame and suffering come to the Scottish coast in this game, as tragedy, and an apocalyptic fog, befall the fishing community"
+    "headline": "Silent Hill: Townfall review – it falls to outsider Simon to offer some kind of closure on the Scottish coast",
+    "trail": "Shame and suffering run through this game, in which tragedy, and an apocalyptic fog, befall a fishing community on the Scottish coast"
   },
   "/games/2026/sep/22/control-resonant-review-save-new-york-from-paranormal-phenomena": {
-    "headline": "Control Resonant review – a famously weird developer delivers an accomplished sequel to 2019’s Control",
-    "trail": "Save New York from paranormal phenomena in a sequel that proves surprisingly conventional for such a developer: the game is accomplished but safe"
+    "headline": "Control Resonant review – an accomplished sequel pits you against paranormal phenomena in New York",
+    "trail": "This follow-up to 2019’s Control is accomplished, though a surprisingly conventional game from a famously weird developer – the sequel plays it safe"
+  },
+  "/artanddesign/2026/sep/24/rachel-kneebone-review-wallace-collection-london": {
+    "headline": "Rachel Kneebone review – nerve-wracking, marvellous porcelain finds its home among rococo masterpieces",
+    "trail": "Who knew porcelain could be so edgy: the British sculptor’s delicate, intimate and ready-to-pop creations feel right at home among Hertford House’s rococo masterpieces"
+  },
+  "/stage/2026/sep/24/three-men-in-a-boat-review-rose-theatre-kingston-upon-thames": {
+    "headline": "Three Men in a Boat review – a rag puppet, a fake moustache and a cheese aria make for perky fun",
+    "trail": "Jerome K Jerome’s quirky novella becomes fun-forward theatre, with a rag puppet Montmorency, a fake moustache and an aria for reeking cheese adding to the mischief of a very English story"
   },
   "/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre": {
-    "headline": "Gaten Matarazzo, a ‘theatre kid’ from age 11, returns to the stage starring in a new staging of Rent",
-    "trail": "The actor we know as Dustin on why the musical is as relevant as ever, being a child star in the internet age and Stranger Things – ‘a train you can’t jump off’"
+    "headline": "Gaten Matarazzo returns to the stage in a new Rent: ‘Stranger Things was a train you can’t jump off’",
+    "trail": "The actor we know as Dustin, a ‘theatre kid’ from age 11, on why the musical is as relevant as ever – and what it’s like being a child star in the internet age"
   },
-  "/stage/2026/sep/23/romeo-and-juliet-review-russell-kane-natalie-casey": {
-    "headline": "Romeo and Juliet review – Russell Kane and Natalie Casey play the lovers as an experienced, older duo",
-    "trail": "Love’s young dream becomes a midlife fling in this cacophonous and comedic staging, where an enthusiastic liaison replaces a rebellious first romance"
-  },
-  "/music/2026/sep/21/bluebeards-castle-oedipus-rex-review-welsh-national-opera-bartok-stravinsky-millennium-centre-cardiff": {
-    "headline": "Bluebeard’s Castle/Oedipus Rex review – Joe Hill-Gibbins brings Bartók and Stravinsky together in a gripping double bill",
-    "trail": "The gory, gruesome double bill pairs his claustrophobic staging of Bartók’s opera of dark symbolism with his brand new production of Stravinsky’s psychological drama"
+  "/stage/2026/sep/24/jess-and-morgs-deepfake-dance": {
+    "headline": "Jess and Morgs take on deepfakes in a new dance work: ‘This gap opens up of doubt and scepticism about everything’",
+    "trail": "Virtuosic movement and some green-screen magic unfurl the theatricality of high-stakes television interviews in the choreographers’ new work, which confronts the politics of deepfakes"
   },
   "/music/2026/sep/24/pete-byrne-frontman-of-british-new-wave-band-naked-eyes-dies-aged-74": {
-    "headline": "Remembering Pete Byrne, the Naked Eyes frontman whose duo scored US hits including Promises, Promises",
-    "trail": "Byrne, who has died aged 74, fronted the British new wave band, whose US hits also included their cover of Always Something There to Remind Me"
+    "headline": "Remembering Pete Byrne, the Naked Eyes frontman whose duo had US hits with their cover of Always Something There to Remind Me",
+    "trail": "The frontman of the British new wave band has died aged 74, leaving a run of US hits that also included Promises, Promises and more"
   },
   "/film/2026/sep/24/how-billy-wilder-conquered-hollywood-double-indemnity-some-like-it-hot-the-apartment": {
-    "headline": "From émigré roots to titan of modern cinema: new retrospective celebrates Billy Wilder’s career",
-    "trail": "‘I’m a writer but then nobody’s perfect’: how the father of film noir conquered Hollywood, penning classics such as Double Indemnity, Some Like It Hot and The Apartment"
+    "headline": "‘I’m a writer but then nobody’s perfect’: a new retrospective celebrates the film titan Billy Wilder",
+    "trail": "From émigré roots, the father of film noir conquered Hollywood and became a titan of modern cinema, penning classics such as Double Indemnity, Some Like It Hot and The Apartment"
   },
-  "/music/2026/sep/23/michael-kiwanuka-has-suffered-a-stroke-and-faces-long-tough-journey-to-recovery": {
-    "headline": "Michael Kiwanuka opens up about the ‘long, tough journey’ to recovery that lies ahead",
-    "trail": "The Mercury prize-winner reveals he has had a stroke, and that a ‘quite severe’ bleed was why he’d missed support slots with Mumford & Sons this year"
+  "/staying-scam-savvy-with-visa/2026/sep/22/music-ticket-scams-warning-signs": {
+    "headline": "Beat the Fomo and the fakes: a fan’s guide to spotting music ticket scammers",
+    "trail": "Spotting the signs matters most when you’ve failed to get tickets for your favourite gig – that’s when Fomo strikes, leaving disappointed and desperate fans at the mercy of scammers waiting to prey on them"
   },
-  "/the-good-energy-guide/2026/aug/03/how-green-is-your-renewable-electricity-tariff": {
-    "headline": "How to make sure your electricity tariff is as clean and green as possible",
-    "trail": "A 100 per cent renewable tariff may not mean 100 per cent renewable electricity. ‘Consumers believe they’re doing the right thing – often they’re not’"
-  },
-  "/the-good-energy-guide/2026/jul/31/are-solar-panels-worth-it-your-questions-answered": {
-    "headline": "Value, planning permission and more: an expert answers your top solar panel questions",
-    "trail": "Before investing in your own rooftop energy system, it’s wise to do your research – so we asked an expert whether solar panels are worth it, and more of the internet’s most-searched questions"
-  },
-  "/the-good-energy-guide/2026/jul/31/renewable-energy-quiz-how-much-do-you-know": {
-    "headline": "Solar panels or wind turbines: put your renewables knowledge to the test – quiz",
-    "trail": "Bright spark or low-power: find out how much you know about renewables, from your solar panels to your wind turbines, in our renewable energy quiz"
-  },
-  "/the-good-energy-guide/2026/aug/07/how-businesses-are-cutting-energy-costs-with-solar-power": {
-    "headline": "Meet the UK businesses discovering solar panels are an ideal way to regain energy equilibrium",
-    "trail": "‘Our operations are powered by solar’: companies are tackling energy hikes with technology. With two energy crises since 2021, disruption is the new norm"
+  "/staying-scam-savvy-with-visa/2026/sep/22/online-shoe-scam-warning-signs": {
+    "headline": "How to spot an online shoe scam before you part with your cash",
+    "trail": "My fashion industry friend fell for one – you don’t need to. Scammers pounce when Fomo drops our guard; here’s how to spot fake websites, marketplace dupes and other hoaxes"
   },
   "/fashion/2026/sep/24/max-mara-audacious-women-nonconformist-glamour-milan-fashion-week-chore-jacket": {
-    "headline": "Max Mara nods to the ‘nonconformist glamour’ of Amelia Earhart and other pioneers in Milan",
-    "trail": "In chore jackets and loose-fit trousers, the fashion house channels audacious women who are ‘going places with panache’ for its Milan show"
-  },
-  "/technology/2026/sep/23/meta-smart-vr-glasses": {
-    "headline": "Meta launches camera-free smart specs alongside new VR glasses",
-    "trail": "Meta’s new no-camera smart glasses and virtual reality spectacles arrive at a time of uncertainty for smart glasses, which are facing backlash over privacy concerns"
+    "headline": "Max Mara celebrates audacious women ‘going places with panache’ at its Milan show",
+    "trail": "In a collection featuring chore jackets and loose-fit trousers, the fashion house nods to the ‘nonconformist glamour’ of Amelia Earhart and other pioneers"
   },
   "/thefilter/2026/sep/23/how-to-keep-your-home-tidy": {
-    "headline": "Streamline your shoes and set up a ‘donation station’: professional organisers share their tidy-home tips",
-    "trail": "From never buying round containers to being strict with toiletries, we asked the experts for the home organisation hacks they swear by"
+    "headline": "Professional organisers share their secrets for a tidy home, from a ‘donation station’ to never buying round containers",
+    "trail": "We asked the experts for the home organisation hacks they swear by, whether it’s streamlining shoes or being strict with toiletries"
   },
   "/thefilter/2026/sep/23/best-cheap-budget-phones-tested-uk": {
-    "headline": "A new smartphone needn’t cost a fortune: the nine budget buys for £600 or less we rate most",
-    "trail": "The best cheap phones in 2026, tested: from Samsung, Google, Apple and more, these are our favourite lower-cost models – and how to buy a refurbished handset"
+    "headline": "A new smartphone needn’t cost a fortune: the best budget buys of 2026 for £600 or less, tested",
+    "trail": "From Samsung, Google, Apple and more, these are the nine lower-cost models we rate most – plus how to buy a refurbished handset"
   },
   "/thefilter/2026/sep/22/how-i-shop-with-tom-daley-i-am-obsessed-with-my-knitting-machine": {
-    "headline": "Knitting machines, scrapbooking and cheap chargers: How I Shop with Tom Daley",
-    "trail": "‘I am obsessed with my knitting machine’: the retired diver talks the Filter through scrapbooking, cheap chargers and trouser fails – and the everyday stuff celebrities buy"
+    "headline": "Retired diver Tom Daley on scrapbooking, cheap chargers and the knitting machine he loves",
+    "trail": "‘I am obsessed with my knitting machine!’ In How I Shop, the Filter finds out what everyday stuff celebrities buy, where they shop for food, the basic they scrimp on – and trouser fails"
   },
   "/thefilter/2026/sep/18/readers-best-secondhand-finds": {
-    "headline": "Charity-shop gems and Vinted bargains: the secondhand finds our readers still treasure",
-    "trail": "From vintage Gucci to a £5 rug and a salt duck, readers and the Filter team share their best buys. Plus, the fashion experts’ guide to women’s basics"
+    "headline": "From charity-shop gems to Vinted bargains: the vintage Gucci, £5 rug and salt duck readers still treasure",
+    "trail": "Readers and the Filter team share their best secondhand finds, a haul of gems and bargains worth hunting for. Plus, the fashion experts’ guide to women’s basics"
+  },
+  "/food/2026/sep/24/the-trouble-with-coffee-flavoured-drinks-mina-holland": {
+    "headline": "A coffee lover’s quest for a coffee-flavoured drink that comes close to the real thing",
+    "trail": "Our drinks columnist – a UK coffee lover – explores the world of canned lattes and flavoured protein drinks to find out whether any come close to the real thing"
   },
   "/food/2026/sep/23/what-to-cook-when-summer-meets-autumn": {
-    "headline": "The dishes to see you from summer into autumn",
-    "trail": "With the weather in transition, here is what to cook when summer meets autumn: dishes to bridge the gap between crisp salads and hearty stews"
+    "headline": "Seasonal cooking for the sweet spot where summer turns to autumn",
+    "trail": "With the weather in transition, here are some dishes to bridge the gap between crisp salads and hearty stews – what to cook when summer meets autumn"
   },
   "/food/2026/sep/24/autumn-fall-pie-recipes-pecan-pumpkin-plum-apple-crumble-adriann-ramirez": {
-    "headline": "A golden glow-up for autumn’s best ingredients: Adriann Ramirez’s pie recipes",
-    "trail": "Take your pick from pumpkin, pecan, quince, apple or plum: the pastry chef’s autumn pies give the season’s best ingredients a golden glow-up"
+    "headline": "A golden glow-up for autumn’s best ingredients: Adriann Ramirez’s seasonal pie recipes",
+    "trail": "The pastry chef’s autumn pie recipes make pumpkin, pecan, quince, apple or plum the star, turning the season’s best ingredients golden"
   },
   "/food/2026/sep/24/tomatoes-stuffed-with-breadcrumbs-chickpeas-and-herbs-recipe-rachel-roddy": {
-    "headline": "Ease into autumn with Rachel Roddy’s herby stuffed tomatoes",
-    "trail": "Tomatoes stuffed with breadcrumbs, chickpeas and herbs make a well-seasoned and comforting meal to ease you into the autumn months – here is Rachel Roddy’s recipe"
-  },
-  "/food/2026/sep/23/100-unusual-crisp-flavours-ranked-truly-awful-totally-scoffable": {
-    "headline": "Beyond ready salted: we rank 100 unusual crisp flavours to find the ones worth trying",
-    "trail": "Move over salt and vinegar and cheese and onion: gourmet crisps are everywhere, and our ranking runs from truly awful to totally scoffable. ‘They smell of urinal cakes’"
+    "headline": "Ease into autumn with Rachel Roddy’s comforting stuffed tomatoes",
+    "trail": "Tomatoes stuffed with breadcrumbs, chickpeas and herbs make a well-seasoned and comforting meal to ease you into the autumn months, in Rachel Roddy’s latest recipe"
   },
   "/money/2026/sep/23/couples-putting-off-divorce-due-to-cost-of-living-crisis-in-england-and-wales": {
-    "headline": "Divorce lawyers say cost of living crisis is keeping unhappy couples in their marriages",
-    "trail": "Unhappy couples are staying put, and financial pressures are suspected to be behind figures showing failed marriages are lasting longer in England and Wales"
+    "headline": "Divorce lawyers shed light on figures showing failed marriages in England and Wales are lasting longer",
+    "trail": "Financial pressures are suspected to be behind the figures, with divorce lawyers saying unhappy couples are staying put due to the cost of living crisis"
   },
   "/wellness/2026/sep/21/safer-sex-after-age-50": {
-    "headline": "A test and a talk with your partner: the guide to safer sex after 50",
-    "trail": "At 51, I want many more years of a healthy, happy sex life – so I decided to compile my own guide to having safer sex after age 50"
+    "headline": "Many more healthy, happy years: my guide to safer sex after 50",
+    "trail": "At 51, I want many more years of a healthy, happy sex life, so I decided to compile my own guide – and it starts with getting tested and talking to your partner"
   },
   "/lifeandstyle/2026/sep/20/dining-across-the-divide-chris-alex": {
-    "headline": "Dining across the divide: a Reform politician and an NHS worker look for common ground on renewables and tax",
-    "trail": "The pair had different takes on Nigel Farage – ‘He suggested the Clacton byelection was a vanity project. Obviously I disagree’ – and also put renewable energy and tax policies on the table"
+    "headline": "Dining across the divide: a Reform politician and an NHS worker share a table to talk Farage, renewable energy and tax",
+    "trail": "‘He suggested the Clacton byelection was a vanity project. Obviously I disagree’: the pair had different takes on Nigel Farage, but could they agree on renewable energy or tax policies"
   },
   "/lifeandstyle/2026/sep/20/this-is-how-we-do-it-as-a-catholic-monk-i-was-celibate-but-sex-with-orla-feels-so-natural": {
-    "headline": "This is how we do it: after leaving the monastery, Rory finds sex with Orla ‘feels so natural’",
-    "trail": "As a Catholic monk, Rory was celibate, and left the monastery after feeling lonely; with Orla, herself a Catholic, he’s been making up for lost time"
+    "headline": "This is how we do it: a former Catholic monk makes up for lost time with Orla",
+    "trail": "‘As a Catholic monk, I was celibate. But sex with Orla feels so natural’: Rory left the monastery after feeling lonely, and with Orla, herself a Catholic, he’s been making up for lost time"
   },
   "/money/2026/sep/23/mums-alzheimers-has-trapped-the-kids-natwest-cash": {
-    "headline": "The NatWest First Saver account set up at birth to fund the kids through university",
-    "trail": "My mother set up the account when the children were born and we planned to use it to fund them through university – but her Alzheimer’s has trapped the cash"
+    "headline": "The NatWest First Saver account Mum set up for the kids when they were born",
+    "trail": "We planned to use the account my mother set up at the children’s births to fund them through university – but her Alzheimer’s has trapped the cash"
   },
   "/money/live/2026/sep/22/whats-the-worst-company-youve-ever-dealt-with-ask-our-consumer-champion-anything": {
-    "headline": "Anna Tims, our consumer champion, answers your questions on AI chatbots and consumer protection",
-    "trail": "Tims, who solves readers’ consumer problems ranging from the devastating to the ridiculous in her weekly column, tackled getting a result without contacting a newspaper and how companies keep getting away with terrible customer service"
+    "headline": "Consumer champion Anna Tims answers your questions on AI chat bots, consumer protection and terrible customer service",
+    "trail": "In her weekly Guardian column she solves readers’ problems from the devastating to the ridiculous. She tackles ‘How do you get a result without contacting a newspaper?’ and how companies keep getting away with it"
   },
   "/society/2026/sep/22/the-rise-of-big-toothbrush": {
-    "headline": "People in the UK have never been more interested in oral health, and our mouths are now a lucrative market",
-    "trail": "Welcome to the rise of Big Toothbrush: you can now buy prebiotic toothpastes and brushes that cost up to £600. Yet we remain in the midst of a serious dental crisis"
+    "headline": "People in the UK are more interested in oral health than ever, from prebiotic toothpastes to brushes costing up to £600",
+    "trail": "Big Toothbrush is on the rise and our mouths have become such a lucrative market – yet we remain in the midst of a serious dental crisis"
   },
   "/money/2026/sep/22/flixbus-left-us-stranded-m23-after-a-police-swoop": {
-    "headline": "Our 90-minute wait on the M23 hard shoulder after a police swoop",
-    "trail": "Flixbus left us stranded on the motorway after the swoop, and the wait on the hard shoulder was terrifying with lorries thundering past"
+    "headline": "90 minutes on the M23 hard shoulder: a Flixbus journey after a police swoop",
+    "trail": "Flixbus left us stranded on the motorway after a police swoop, and the 90-minute wait on the hard shoulder was terrifying with lorries thundering past"
   },
   "/wellness/2026/sep/23/eye-irritation-care-expert": {
-    "headline": "Experts share the right way to get something out of your eye without making it worse",
-    "trail": "It’s natural to want to soothe eye irritation, and experts explain how to deal with it properly – because mishandling could lead to more problems, they warn"
+    "headline": "Experts share the safe way to get something out of your eye without making it worse",
+    "trail": "We asked experts for advice on how to deal with eye irritation properly. It’s natural to want to soothe it, but mishandling could lead to more problems, they warn"
   },
   "/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates": {
-    "headline": "Following Shaggy and Harry Styles into pilates: my perfect, if painful, month",
-    "trail": "When I realised I could no longer touch my toes, I joined the growing number of men taking up pilates – a perilous month that set my body ‘on fire’"
+    "headline": "Shaggy and Harry Styles are among a growing number of men taking up pilates – so I spent a month trying it",
+    "trail": "‘My body is on fire!’ When I realised I could no longer touch my toes, I decided to try it out – and found a perilous, painful, perfect month of pilates"
   },
   "/society/2026/sep/22/uk-doctors-simple-test-detect-womb-cancer-women-bleeding-menopause": {
-    "headline": "Non-invasive womb cancer test raises hopes of sparing thousands of lower-risk women internal procedures",
-    "trail": "UK doctors have developed the test, using urine and vaginal fluid samples, for women bleeding after menopause; it could spare lower-risk women internal ultrasounds and hysteroscopies"
+    "headline": "Non-invasive womb cancer test raises hopes of sparing thousands of lower-risk women internal checks",
+    "trail": "UK doctors have developed a test using urine and vaginal fluid samples for women bleeding after menopause, raising hopes thousands of lower-risk women could be spared internal ultrasounds and hysteroscopies"
   },
   "/fashion/2026/sep/23/jess-cartner-morley-on-fashion-in-praise-of-fun-clothes": {
-    "headline": "Every wardrobe needs a bit of mischief: Jess Cartner-Morley on fashion",
-    "trail": "The push to buy lasting, sustainable clothes is a good thing, but Jess Cartner-Morley makes the case for slightly silly clothes too"
+    "headline": "Jess Cartner-Morley on fashion: every wardrobe needs a bit of mischief",
+    "trail": "In praise of slightly silly clothes: the push to buy lasting, sustainable clothes is a good thing, but it should leave room for some mischief in every wardrobe"
   },
   "/fashion/2026/sep/23/fendi-maria-grazia-chiuri-collection-milan-fashion-week": {
-    "headline": "Maria Grazia Chiuri’s Fendi show celebrates Italian pop legend Raffaella Carrà",
-    "trail": "Diaphanous dresses and visible bras fill the Milan show, in which Carrà, the ‘incredible feminist’ of the 1970s, takes the lead"
+    "headline": "Maria Grazia Chiuri’s Fendi collection celebrates Italian pop legend Raffaella Carrà",
+    "trail": "Diaphanous dresses and visible bras fill the Milan show, which celebrates the ‘incredible feminist’ of the 1970s, as the Italian pop legend takes the lead in the collection"
   },
   "/fashion/2026/sep/23/sali-hughes-on-beauty-retinoids-proven-anti-ageing-formulas": {
-    "headline": "Sali Hughes picks great alternatives to retinoids for anyone who can’t use them",
-    "trail": "These proven anti-ageing formulas are the next best thing, so stop ‘pushing through the pain’ or ceaselessly searching for the ‘right retinol’"
+    "headline": "Sali Hughes on beauty: great proven anti-ageing alternatives for anyone who can’t use retinoids",
+    "trail": "There are some great alternatives, so stop ‘pushing through the pain’ or ceaselessly searching for the ‘right retinol’ – these proven formulas are the next best thing"
   },
   "/fashion/2026/sep/23/how-kylie-minogue-became-pop-chameleon-gold-hot-pants": {
-    "headline": "A new book charts how Kylie Minogue harnessed fashion, from 50p gold hot pants to Paul Smith suits",
-    "trail": "The star’s journey from Ramsay Street to global superstar, as one of pop’s ultimate chameleons, has cleverly harnessed the power of fashion to transform, subvert – and shock"
+    "headline": "A new book charts how fashion made Kylie Minogue one of pop’s ultimate chameleons",
+    "trail": "From 50p gold hot pants to Paul Smith suits, the star’s rise from Ramsay Street to global superstar has cleverly harnessed the power of fashion to transform, subvert – and shock"
   },
   "/travel/2026/sep/23/bologna-bolognina-italy-city-break-restaurants-hotels": {
-    "headline": "From rail workers’ quarter to artistic hub: Bologna’s Bolognina is transformed",
-    "trail": "Make tracks for this bustling, once industrial area of Bologna, now a vibrant hub with a thriving food and drink scene to explore"
+    "headline": "Bologna’s former rail workers’ quarter reinvents itself as a vibrant artistic hub",
+    "trail": "Make tracks for Bolognina: this once industrial area of Bologna has been transformed and is now bustling, with a thriving food and drink scene to explore"
   },
   "/travel/2026/sep/22/haute-provence-france-andy-goldsworthy-art-hike-sculpture": {
     "headline": "Nature and art meet on Andy Goldsworthy’s epic hiking trail in Haute-Provence",
-    "trail": "‘To sleep in a sculpture is a wonderful idea’: the celebrated land artist’s long-distance route in the south of France offers intrepid hikers an opportunity to immerse themselves in nature and art"
+    "trail": "‘To sleep in a sculpture is a wonderful idea’: a long-distance walking route in the south of France devised by the celebrated land artist lets intrepid hikers immerse themselves in nature and art"
   },
   "/travel/2026/sep/21/austria-slovenia-italy-three-country-hike-alpine-holiday": {
-    "headline": "Dramatic peaks and glorious meadows on an eight-day hike across Austria, Slovenia and Italy",
-    "trail": "The Alpe Adria loop is a walking trail that crisscrosses borders – three countries, one Alpine adventure – with charming places to stay along the way"
+    "headline": "Crisscrossing borders on the Alpe Adria loop, an eight-day walk through Austria, Slovenia and Italy",
+    "trail": "Three countries, one hike: this Alpine adventure on foot takes in dramatic peaks, glorious meadows and charming places to stay along the way"
   },
   "/lifeandstyle/2026/sep/24/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-266": {
-    "headline": "Long-haul flights, changing lights and a lot of Turkish cats: test yourself in the Thursday news quiz",
-    "trail": "Every Thursday brings a new test of your topical news trivia, pop culture and general knowledge – settle in and see how you fare"
+    "headline": "Long-haul flights, changing lights and a lot of Turkish cats feature in this Thursday’s news quiz",
+    "trail": "Test yourself on topical news trivia, pop culture and general knowledge every Thursday, and see how you fare with this week’s questions"
+  },
+  "/food/2026/sep/23/100-unusual-crisp-flavours-ranked-truly-awful-totally-scoffable": {
+    "headline": "Totally scoffable to truly awful: we rank 100 unusual crisp flavours to find the gourmet ones worth trying",
+    "trail": "‘They smell of urinal cakes!’ Move over ready salted, salt and vinegar and cheese and onion – gourmet crisps are everywhere, so which are actually worth trying"
   },
   "/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches": {
-    "headline": "Readers share their new search habits as AI Overviews reshape Google",
-    "trail": "‘I miss old Google’: a feature called AI Overviews has been a profound change, and the browsing habits of billions of people are shifting"
-  },
-  "/lifeandstyle/2026/sep/23/a-moment-that-changed-me-my-brother-gave-me-an-unexpected-gift-and-a-whole-new-life-at-sea": {
-    "headline": "My brother found a way to launch me back into the waves – and gave me a whole new life at sea",
-    "trail": "The water was my childhood playground but, as I grew up, my health left me landbound – until my brother’s unexpected gift. A moment that changed me"
+    "headline": "Readers share how their search habits are changing in the age of AI",
+    "trail": "The browsing habits of billions of people are shifting after a profound change from a feature called AI Overviews – though for some readers, ‘I miss old Google’"
   },
   "/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair": {
-    "headline": "Understanding the ‘poisonous tide’: how disinformation works and who is behind it",
-    "trail": "Whether produced by Russia, China or far-right influencers, deepfakes and disinfo are being used to spread deceitful narratives – and with them division and despair"
+    "headline": "Explained: how disinformation from Russia, China and far-right influencers takes hold",
+    "trail": "Tracing how deepfakes and disinfo are being used to spread deceitful narratives – a ‘poisonous tide’ that spreads division and despair, whether produced by Russia, China or far-right influencers"
   },
   "/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised": {
-    "headline": "Visualised: explaining the slowdown of public transport in London and other global cities",
-    "trail": "Public transport in global cities is slowing to a crawl, and experts fear for the future of London’s bus network as some commuters give up entirely – with worrying implications for the poorest in society"
+    "headline": "Visualised: the data explaining why buses in London and other global cities are slowing",
+    "trail": "London is not alone as public transport in global cities slows to a crawl; experts fear for its bus network’s future and some commuters are giving up entirely, with worrying implications for the poorest"
   },
   "/society/2026/sep/22/prisons-uk-organised-crime-good-lads-respectful-pia-sinha": {
-    "headline": "The truth about UK prisons and organised crime, from the fixer now leading the Prison Reform Trust: ‘They’re your good lads. Respectful. Keep their noses clean’",
-    "trail": "In more than two decades in the Prison Service, Pia Sinha gained a reputation as a fixer. Now she’s sounding the alarm about overcrowding and other problems"
+    "headline": "Pia Sinha brings a fixer’s reputation from more than two decades in the Prison Service to prison reform",
+    "trail": "Heading the Prison Reform Trust, she tells the truth on UK prisons and organised crime: ‘They’re your good lads. Respectful. Keep their noses clean’, and sounds the alarm on overcrowding and other problems"
   },
   "/education/2026/sep/24/did-you-sit-vocational-qualifications-in-the-past-and-more-recently-in-england-we-would-like-to-hear-from-you": {
-    "headline": "Share your experience of taking vocational qualifications in England, then and now",
-    "trail": "How did you find them, and did they help you reach the next stage in your education or secure a job? We would like to hear from you"
+    "headline": "Share your experience of vocational qualifications you sat in England, in the past and more recently",
+    "trail": "We would like to hear how you found them, and whether they were helpful in getting you to the next stage in your education or in securing a job"
   },
   "/lifeandstyle/2026/sep/23/tell-us-have-you-delayed-separating-or-divorcing-because-you-cant-afford-to": {
-    "headline": "We want to hear from couples whose finances have shaped when they separate or divorce",
-    "trail": "If you have delayed separating or divorcing, or stayed together or continued living together after separating because you can’t afford to live on your own, we’d like to hear from you"
+    "headline": "Tell us: share your experience of putting off a separation or divorce over money",
+    "trail": "We’d like to hear from people who have delayed separating or divorcing, or stayed together or continued living together after separating, because they can’t afford to live on their own"
   },
   "/music/2026/sep/24/do-you-enjoy-listening-to-music-on-cd-compact-disc": {
-    "headline": "Music on compact disc: share what you enjoy about the format",
-    "trail": "Whether you have only recently taken to CDs or are a die-hard compact disc fan, we’d like to hear what you like about listening to music this way"
+    "headline": "Compact disc fans, old and new: tell us why you listen to music on CDs",
+    "trail": "Whether it is a recent development or you are a die-hard compact disc fan, we want to know if you enjoy listening to music on CDs and what you like about the format"
   },
   "/technology/2026/sep/22/uk-tech-workers-do-you-want-to-join-a-trade-union": {
-    "headline": "UK tech workers, share your views on joining a trade union",
-    "trail": "We would like to hear from people working in tech industries in the UK about their views on joining a union, and whether they want to"
+    "headline": "Tell us your views on union membership if you work in UK tech",
+    "trail": "We would like to hear from people working in tech industries in the UK about their views on joining a trade union, and whether they want to join one"
+  },
+  "/world/2024/nov/08/tariffs-tech-and-taiwan-how-china-hopes-to-trump-proof-its-economy": {
+    "headline": "Xi Jinping readies China’s economy for four more years of Trump, from tariffs to tech and Taiwan",
+    "trail": "China hopes to Trump-proof its economy as Xi prepares for four more years of unpredictability, with $500bn worth of trade in the crosshairs of Donald Trump’s tariffs"
+  },
+  "/us-news/2025/apr/27/trump-tariffs-china-negotiations": {
+    "headline": "A path forward in China tariff negotiations, says Scott Bessent",
+    "trail": "The US treasury secretary says ‘there is a path’ with China over tariff negotiations, adding: ‘The Chinese will see this high tariff level is unsustainable for their business’"
+  },
+  "/world/2026/may/13/trump-china-summit-xi-jinping-talks": {
+    "headline": "Trump brings Elon Musk and Tim Cook to China for high-stakes summit with Xi Jinping",
+    "trail": "The US president lands with tech leaders to discuss trade, AI and Taiwan with the Chinese leader, as the Iran war looms over the talks"
+  },
+  "/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing": {
+    "headline": "Trump says he and Xi ‘settled a lot of different problems’ at their Beijing summit",
+    "trail": "Assessing what was actually achieved in Beijing: the US president has given little detail on solutions from the ‘stalemate summit’ with the Chinese leader"
+  },
+  "/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive": {
+    "headline": "Trump ends much-hyped summit with Xi in China as Iran, Taiwan and AI stay unresolved",
+    "trail": "The US president hails ‘fantastic’ deals, but details remain scarce after pageantry and little progress, with no breakthroughs on Iran, Taiwan or AI"
+  },
+  "/us-news/2016/dec/04/trump-foreign-policy-faces-scrutiny-as-team-defends-taiwan-phone-call": {
+    "headline": "Mike Pence moves to play down possibility of diplomatic rift with Beijing over Trump’s Taiwan actions",
+    "trail": "Hours after Pence tried to downplay the possibility that Trump could threaten a rift through actions last week, the president-elect sent tweets railing against China as his team runs damage control"
+  },
+  "/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority": {
+    "headline": "New York mayor Mamdani presses Washington to arrest Netanyahu should the Israeli PM visit the US",
+    "trail": "He says he does not have the authority to arrest Netanyahu himself, adding that the Israeli PM is the ‘architect of a horrific genocide’"
+  },
+  "/world/2010/mar/03/mahmoud-abbas-four-months-peace-israel": {
+    "headline": "Arab governments back US-brokered indirect peace talks between Mahmoud Abbas and Israel",
+    "trail": "The Palestinian president has been given four months to try the indirect talks with Israel, which are brokered by the US and backed by Arab governments"
+  },
+  "/world/2014/jul/09/israel-intercepts-gaza-rockets-heading-for-tel-aviv-live-updates": {
+    "headline": "Live: second day of Israel’s Gaza operation, with Palestinian casualties mounting",
+    "trail": "Updates as Israel intensifies its offensive, aimed at stopping rocket attacks from Gaza, on the second day of 'operation protective edge', and Palestinian casualties mount"
+  },
+  "/world/2016/dec/27/mahmoud-abbas-un-resolution-lays-groundwork-to-end-israeli-settlements": {
+    "headline": "Mahmoud Abbas hopes France conference can set timetable to stop further Israeli settlement building",
+    "trail": "The Palestinian president says the UN resolution lays groundwork to end Israeli settlements, as Israel pushes ahead with plans for further building"
+  },
+  "/us-news/2015/oct/18/john-kerry-confirms-meeting-with-palestinian-president-mahmoud-abbas": {
+    "headline": "John Kerry to hold separate meetings with Abbas and Netanyahu in bid to quell violence",
+    "trail": "The US secretary of state confirms he will meet the Palestinian president, Mahmoud Abbas, and the Israeli prime minister, Binyamin Netanyahu, separately"
+  },
+  "/world/2014/jul/04/funeral-of-palestinian-revenge-victim-live-updates": {
+    "headline": "Palestinian teenager Mohamed Abu Khdeir laid to rest – live updates",
+    "trail": "Follow live updates as the funeral takes place for Mohamed Abu Khdeir, a Palestinian teenager killed in a suspected revenge attack for the killing of three Israeli teenagers, amid rising sectarian tensions"
   },
   "/politics/2026/jun/16/tactical-voting-greens-lib-dems-labour-makerfield": {
-    "headline": "Green and Lib Dem voters’ willingness to vote tactically could be key to Labour victory in Makerfield",
-    "trail": "Left-leaning voters are more willing to back Labour’s Andy Burnham in Makerfield than Restore supporters are to vote for Reform"
+    "headline": "Green and Lib Dem tactical votes could help carry Andy Burnham to victory in Makerfield",
+    "trail": "Tactical voting by Greens and Lib Dems could be key to a Labour victory, with left-leaning voters more willing to back Andy Burnham than Restore supporters are to vote Reform"
   },
   "/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election": {
-    "headline": "Bullish Ed Davey says blocking Reform is the Lib Dems’ ‘moral responsibility’ ahead of snap election",
-    "trail": "Exclusive: Lib Dem leader is bullish as the party gears up for its conference and a snap election, despite static poll ratings and MPs’ frustrations"
+    "headline": "Ed Davey, bullish before conference, sees a ‘moral responsibility’ for Lib Dems to block Reform",
+    "trail": "Exclusive: Lib Dem leader is bullish ahead of party conference as the party gears up for a snap election, despite static poll ratings and MPs’ frustrations"
   },
   "/politics/2025/oct/19/support-for-reform-uk-surges-nigel-farage-among-british-indians": {
-    "headline": "Survey tracks changing politics of British Indians as Reform UK gains ground",
-    "trail": "Exclusive: The survey finds 13 per cent of British Indians back Nigel Farage’s party, compared with only 4 per cent at the last election"
+    "headline": "Reform UK broadens its appeal among British Indians, poll shows",
+    "trail": "Exclusive: Survey finds 13 per cent of British Indians now back Nigel Farage’s party, compared with only 4 per cent at the last election"
   },
   "/politics/2026/jul/27/labour-overtakes-reform-in-voter-poll-andy-burnham": {
-    "headline": "Labour takes poll lead over Reform for first time since March 2025",
+    "headline": "Labour moves ahead of Reform for the first time since March 2025, poll finds",
     "trail": "Labour is up four points to 28 per cent while Reform falls to 24 per cent, as Andy Burnham apparently wins favour for his cost of living focus"
   },
   "/politics/live/2026/jun/01/peter-mandelson-documents-published-keir-starmer-labour-latest-news-updates": {
-    "headline": "Hundreds of pages on Mandelson’s appointment as US ambassador are made public – as it happened",
-    "trail": "The published documents reveal Peter Mandelson’s unfiltered remarks to cabinet officials, including his description of Keir Starmer’s No 10 operation as ‘beleaguered and bereft’"
+    "headline": "Hundreds of pages of files on Mandelson’s appointment as US ambassador made public – as it happened",
+    "trail": "Peter Mandelson’s unfiltered remarks to cabinet officials are published, including his description of Keir Starmer’s No 10 operation as ‘beleaguered and bereft’"
   },
   "/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates": {
-    "headline": "Transition talks: Starmer meets probable successor Burnham away from No 10 – as it happened",
-    "trail": "The prime minister is said to have left Downing Street for a secret meeting with his probable successor, Andy Burnham, to discuss the transition"
-  },
-  "/business/2025/may/19/labour-great-britain-railways-south-western-lower-fares": {
-    "headline": "South Western becomes latest operator brought back into public ownership in Labour’s rail shake-up",
-    "trail": "There are questions about whether Labour’s changes will really fix Great Britain’s ailing railways, and whether they will lead to lower fares"
-  },
-  "/business/2022/jan/05/reduced-timetables-rail-network-great-britain": {
-    "headline": "Train services across Great Britain to be reduced by 16 January",
-    "trail": "Reduced timetables are to come in on all of Great Britain’s rail network, with the schedules implemented amid Covid staff shortages and falling passenger numbers"
-  },
-  "/uk-news/2026/jun/01/london-tube-strike-to-go-ahead-after-11th-hour-talks-fail-to-find-resolution": {
-    "headline": "About half of London Underground drivers take action in Tuesday’s tube strike",
-    "trail": "The walkout causes huge disruption, with many services hit, and a second strike is already scheduled for Thursday on the London tube"
-  },
-  "/uk-news/2025/sep/07/london-tube-users-warned-to-plan-for-disruption-as-strike-action-escalates": {
-    "headline": "Tube passengers in London urged to plan journeys ahead of strike action",
-    "trail": "Users are warned to plan for disruption as strike action escalates, bringing services to an early finish on Sunday and closing the underground entirely for four days from Monday"
-  },
-  "/uk-news/2025/sep/05/strikes-expected-london-tube-halt-four-days": {
-    "headline": "RMT members set to take action on London tube over pay and a 32-hour week",
-    "trail": "The strikes are expected to bring the tube to a halt for four days, and buses and trains are likely to be overcrowded"
-  },
-  "/business/2025/aug/20/crosscountry-passengers-face-strike-disruption-on-bank-holiday-weekend": {
-    "headline": "CrossCountry to run reduced timetable on Monday of bank holiday weekend",
-    "trail": "RMT action over pay and conditions means passengers face strike disruption, with no CrossCountry services on the Saturday of the bank holiday weekend"
-  },
-  "/business/2026/sep/13/uk-autumn-budget-healey-trump": {
-    "headline": "Tracing the UK’s economic conditions back to Trump as John Healey drafts his autumn budget",
-    "trail": "The perilous economic conditions facing the UK can be traced back to the US president, whose policies continue to inflate debt servicing costs"
-  },
-  "/business/2023/oct/16/uk-inflation-expected-to-fall-to-65-in-september": {
-    "headline": "Inflation in the UK expected to ease to 6.5 per cent in September from 6.7 per cent in August",
-    "trail": "The expected fall from 6.7 per cent in August signals that prices are still rising, as the higher cost of oil feeds through"
-  },
-  "/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves": {
-    "headline": "UK long-term borrowing costs reach highest level since 1998 after bond sell-off",
-    "trail": "Inflation fears fuelled by the Iran war and renewed uncertainty over Starmer’s leadership prompt the sell-off, posing a new threat to Labour’s spending plans"
-  },
-  "/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost": {
-    "headline": "GDP boost lifts Rachel Reeves’s prospects of staying in post, whoever wins Labour leadership battle",
-    "trail": "The chancellor suggests that if it ain’t broke, don’t fix it, as the fight to keep her job goes on"
-  },
-  "/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears": {
-    "headline": "Policymakers in Japan, US and UK meet this week to decide on interest rates",
-    "trail": "Surging inflation puts rates back in focus in major western economies, with the Iran war and turbulent global bond markets adding to pressure before this week’s decisions"
-  },
-  "/uk-news/2025/nov/26/rachel-reeves-targets-uks-wealthiest-in-26bn-tax-raising-budget": {
-    "headline": "Rachel Reeves axes two-child benefit cap and cuts energy bills in £26bn budget",
-    "trail": "The chancellor targets the UK’s wealthiest in the tax-raising budget, with the changes paid for by a mansion tax and freezing tax thresholds"
-  },
-  "/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority": {
-    "headline": "New York mayor Mamdani calls for US government to arrest Netanyahu on any visit to US",
-    "trail": "The mayor says he does not have the authority to arrest Netanyahu, adding that the Israeli PM is ‘architect of a horrific genocide’"
-  },
-  "/world/2009/sep/24/netanyahu-ahmadinejad-un-speech": {
-    "headline": "Israeli prime minister holds up Nazi plans for the Holocaust at UN in rebuke of Ahmadinejad",
-    "trail": "Netanyahu condemns and criticises the Iranian president in front of the UN general assembly, displaying copies of the Nazi plans as he speaks"
-  },
-  "/world/2014/jul/09/israel-intercepts-gaza-rockets-heading-for-tel-aviv-live-updates": {
-    "headline": "Palestinian casualties mount on second day of Israel’s Gaza offensive",
-    "trail": "Updates as Israel intensifies ‘operation protective edge’, its offensive aimed at stopping rocket attacks from Gaza, on the second day of the operation"
-  },
-  "/commentisfree/2021/may/16/whos-to-blame-for-reigniting-the-israel-palestine-conflict-take-your-pick-from-iranian-plots-to-us-weakness": {
-    "headline": "In the Israel-Palestine conflict, the question now is who can put out the flames",
-    "trail": "Take your pick of who is to blame for reigniting it, from Iranian plots to US weakness: a number of parties, from Trump to Netanyahu to Hamas, fanned the flames."
-  },
-  "/world/2026/aug/17/netanyahu-party-campaign-billboard-mamdani-iran-hezbollah": {
-    "headline": "Likud campaign billboard compares New York City mayor Zohran Mamdani to leaders of Iran and Hezbollah",
-    "trail": "The depiction by Netanyahu’s party is the latest move in a spat between Israel’s prime minister and the New York City mayor"
-  },
-  "/world/video/2012/sep/28/binyamin-netanyahu-iran-nuclear-video": {
-    "headline": "Israeli prime minister calls at UN for ‘red line’ to stop Iran’s nuclear programme – video",
-    "trail": "Watch Binyamin Netanyahu address the UN general assembly, where the Israeli prime minister urges the international community to halt Iran’s nuclear programme"
+    "headline": "Starmer and his probable successor Burnham hold talks on transition – as it happened",
+    "trail": "Prime minister Keir Starmer said to have left Downing Street for a secret meeting with Andy Burnham, away from No 10, to discuss the transition"
   },
   "/us-news/live/2026/aug/24/hakeem-jeffries-jared-kushner-democrats-midterm-elections-donald-trump-iran-war-sanctions-latest-news-updates": {
-    "headline": "California to take Trump administration back to court in bid to protect mail-in voting, Gavin Newsom says – as it happened",
-    "trail": "Newsom says the lawsuit aims to block ‘Orwellian rules’ meant to curb mail-in voting. This live blog is now closed."
+    "headline": "California will go back to court to defend mail-in voting from ‘Orwellian rules’, Gavin Newsom says – as it happened",
+    "trail": "Gavin Newsom says California will sue the Trump administration again to block ‘Orwellian rules’ meant to curb mail-in voting. This live blog is now closed."
   },
   "/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates": {
-    "headline": "Top Democrats speak out for mail-in voting over USPS system – as it happened",
-    "trail": "They decry a USPS system that could thwart mail-in voting, calling it a ‘dangerous power grab’. This live blog is now closed."
+    "headline": "Top Democrats stand up for mail-in voting, calling USPS system a ‘dangerous power grab’ – as it happened",
+    "trail": "Top Democrats decry a USPS system that could thwart mail-in voting, calling it a ‘dangerous power grab’. This live blog is now closed."
   },
   "/us-news/live/2026/aug/12/donald-trump-air-force-one-switch-politics-primaries-midterm-elections-results-latest-updates": {
-    "headline": "Karoline Leavitt set for new role as one of Trump’s ‘top outside advisors’, president says – as it happened",
-    "trail": "Donald Trump says Karoline Leavitt is leaving her role as his press secretary so she can spend more time with her family"
+    "headline": "Karoline Leavitt to spend more time with her family and become one of Trump’s ‘top outside advisors’, president says – as it happened",
+    "trail": "Donald Trump says his press secretary Karoline Leavitt is leaving the role to spend more time with her family and would become one of his ‘top outside advisors’"
   },
   "/us-news/live/2026/jul/31/donald-trump-cabinet-camp-david-iran-midterms-gaza-latest-news-updates": {
-    "headline": "Olympian David Hearn could see charges dropped after justice department says vandals did not damage reflecting pool – as it happened",
-    "trail": "The US attorney in Washington DC moves to dismiss the charges, telling the court that documents indicated ‘damage was the result of flawed installation’"
+    "headline": "US attorney seeks dismissal of charges against Olympian David Hearn as documents point to flawed installation, not vandals – as it happened",
+    "trail": "The justice department acknowledges reflecting pool damage was not caused by vandals, with the US attorney in Washington DC telling court documents indicated ‘damage was the result of flawed installation’"
   },
-  "/us-news/live/2025/feb/07/trump-us-politics-live-government-workers-union-sues-usaid-latest-updates": {
-    "headline": "Government workers’ union wins temporary court block on Trump administration’s bid to gut USAid – as it happened",
-    "trail": "Judge rules in response to the union’s lawsuit; union lawyers call Trump’s efforts a ‘violation of the separation of powers’. This blog is now closed."
+  "/us-news/live/2026/sep/17/donald-trump-democrats-republicans-russia-sanctions-us-politics-latest-news": {
+    "headline": "US Institute of Peace goes to court to keep Trump’s name off its headquarters – as it happened",
+    "trail": "The US Institute of Peace files an emergency motion to block the carving of Trump’s name into the facade of its headquarters. This live blog is now closed."
   },
   "/us-news/live/2026/aug/04/midterm-primary-elections-updates-michigan-senate": {
-    "headline": "Michigan Democrats vote in high-stakes primary for US Senate seat – as it happened",
-    "trail": "The high-stakes Democratic primary for Michigan’s US Senate seat is too close to call. This live blog is now closed."
+    "headline": "Michigan Democrats’ Senate primary is a contest too close to call – as it happened",
+    "trail": "The race in Michigan’s high-stakes Democratic primary for the US Senate seat is too close to call. This live blog is now closed."
   },
-  "/education/2022/oct/26/universities-us-canada-uk-sustainability-league-edinburgh-rank-emissions-targets": {
-    "headline": "Edinburgh leads UK universities with fourth place in sustainability league",
-    "trail": "Universities in the US and Canada beat the UK in the ranking, which comes as fears grow over emissions targets"
+  "/media/2018/feb/12/bbc-appoints-esme-wren-as-editor-of-newsnight": {
+    "headline": "Esme Wren returns to Newsnight as its new editor",
+    "trail": "The BBC appoints the head of politics and business at Sky News as editor, bringing her back to the programme where she started her TV career"
   },
-  "/education/2019/dec/06/newcastle-university-faces-student-backlash-over-stalkers-return": {
-    "headline": "Students push Newcastle University to reverse decision to readmit stalker",
-    "trail": "A petition calls for the reversal of the decision to readmit the offender, whose victim still studies there, as the university faces a student backlash"
+  "/media/2022/dec/03/bbc-chairman-criticises-emily-maitlis-newsnight-comments-on-dominic-cummings": {
+    "headline": "Richard Sharp sets out blueprint for improving the BBC",
+    "trail": "As he set out his blueprint for the broadcaster, the BBC chairman also criticised Emily Maitlis’ Newsnight comments on Dominic Cummings, remarking on coverage of the lockdown drive"
   },
-  "/education/2025/feb/07/uk-universities-open-campuses-india-financial-woes-at-home": {
-    "headline": "UK universities aim to tap into India’s huge domestic market with new campuses",
-    "trail": "Universities are looking to open branches in India amid financial woes at home, in the face of changing visa regimes and international competition"
+  "/media/2017/oct/01/itv-targets-newsnight-in-battle-for-late-night-viewers": {
+    "headline": "Nick Ferrari and Emma Barnett to host ITV’s new late-night weekday show",
+    "trail": "The network pins its hopes on the new weekday show hosted by the pair to challenge BBC2’s Newsnight in the battle for late-night viewers"
   },
-  "/education/2018/nov/29/call-to-expel-uk-students-take-part-initiation-rituals-ed-farmer": {
-    "headline": "Ed Farmer’s father urges zero-tolerance approach to student initiation rituals",
-    "trail": "He calls for UK students who take part in initiation rituals to be expelled; Ed died after a pub crawl in Newcastle"
+  "/media/2018/may/13/newsnight-should-not-have-likened-corbyn-to-lenin": {
+    "headline": "Graham Murdock makes the case for weighing what images carry at Newsnight",
+    "trail": "Letters: Newsnight should not have likened Corbyn to Lenin – ignoring the weight of connotations that images carry undermines the ‘sound news judgment’ the BBC claims to uphold, writes Graham Murdock"
   },
-  "/environment/2022/dec/09/chester-zoo-birth-malayan-tapir-nessa": {
-    "headline": "Newborn Malayan tapir Nessa to help efforts to protect rare species",
-    "trail": "Chester zoo hails the birth of the female calf as an ‘important moment’; fewer than 2,500 of the species remain in the wild"
+  "/media/2020/may/27/bbc-switches-emily-maitlis-in-newsnight-episode-over-cummings-remarks": {
+    "headline": "Katie Razzall steps in to host Newsnight episode",
+    "trail": "Razzall replaced Emily Maitlis for the episode after the Cummings remarks, with the BBC reprimanding the host over a ‘breach of impartiality rules’"
   },
-  "/education/2018/oct/25/family-of-newcastle-student-critical-of-university-over-death": {
-    "headline": "Ed Farmer’s family hold his university to account",
-    "trail": "The family of the Newcastle student, who died as a result of the ‘toxic effects’ of drinking at an initiation ceremony, are critical of the university"
+  "/tv-and-radio/2017/oct/20/itv-after-the-news-bbc-newsnight-ratings": {
+    "headline": "ITV’s After the News makes a strong start, improving its chances of a longer run",
+    "trail": "The current affairs show beats BBC’s Newsnight in the ratings, an early success that is a boost for ITV and improves the chance of its four-week run being extended"
   },
-  "/world/live/2025/dec/03/nato-vladimir-putin-russia-rejects-ukraine-peace-deal-volodymyr-zelenskyy-europe-live-latest-news-updates": {
-    "headline": "Mark Rutte says Nato is ‘ready to do what it takes’ to protect Europe – as it happened",
-    "trail": "Russia denies rejecting Ukraine peace plan, while Rutte’s response comes after Vladimir Putin’s comment that Russia was ‘ready’ for war with Europe"
+  "/technology/2019/jul/02/tiktok-under-investigation-over-child-data-use": {
+    "headline": "UK inquiry puts TikTok’s handling of children’s data to the test of the law",
+    "trail": "The UK inquiry is looking at whether the video-sharing app breaches data protection law in how it uses children’s data, putting TikTok under investigation"
   },
-  "/world/live/2026/jul/07/nato-summit-zelenskyy-trump-ukraine-rutte-defence-eu-spending-turkey-france-macron-le-pen-europe-latest-news-updates": {
-    "headline": "Le Pen case heads for appeal after today’s court ruling – Europe live as it happened",
-    "trail": "Far-right leader tells TV interview she will appeal against her conviction – against part of today’s ruling, which cast doubt on a presidential run – and run for French presidency"
+  "/uk-news/2026/apr/16/keir-starmer-social-media-firms-no-10-meeting": {
+    "headline": "Starmer presses Meta, TikTok, Google and X for real world changes at No 10",
+    "trail": "In a Downing Street meeting with senior figures from the firms, the PM tells social media companies: ‘Things can’t go on like this’"
   },
-  "/world/live/2025/aug/13/europe-leaders-ukraine-summit-zelenskyy-trump-putin-live-news-updates": {
-    "headline": "Trump hails ‘very good call’ with European leaders and floats idea of Putin-Zelenskyy meeting – Europe live",
-    "trail": "Proposal comes as the US president warns that ‘there will be severe consequences’ if Russia doesn’t agree to end the war"
+  "/technology/2022/sep/26/tiktok-fine-protect-children-privacy-uk-data-protection": {
+    "headline": "Data protection investigation could lead to £27m TikTok fine over children’s privacy",
+    "trail": "Investigation finds the video-sharing app may have breached UK data protection law between 2018 and 2020 by failing to protect children’s privacy"
   },
-  "/world/live/2026/feb/25/ukraine-russia-zelenskyy-putin-orban-eu-hungary-sanctions-germany-china-merz-jinping-continues-europe-latest-news": {
-    "headline": "Icelanders will have their say on opening talks to join the EU, PM says – as it happened",
-    "trail": "Kristrún Frostadóttir says the date for the referendum on EU accession talks is yet to be decided but it will be held ‘in the coming months’"
+  "/technology/2023/jan/16/prosecute-tech-chiefs-who-endanger-children-molly-russell-father": {
+    "headline": "Molly Russell’s father sees inquest as ‘unique’ opportunity to make online platforms safer",
+    "trail": "Ian Russell, speaking about the inquest into his daughter’s death, also says tech chiefs who endanger children should face prosecution"
   },
-  "/us-news/2024/nov/19/us-russia-ukraine-missile-attacks": {
-    "headline": "Kyiv turns US-made missiles on targets inside Russia",
-    "trail": "US and Europe fear escalation of Russian hybrid warfare amid the missile attacks, with officials ‘incredibly concerned’ as Moscow vows a response"
+  "/media/2024/nov/29/teenage-girls-are-feeling-vulnerable-fears-grow-over-online-beauty-filters": {
+    "headline": "Studies bring the effect of online beauty filters on children’s self-esteem into focus",
+    "trail": "Studies suggest filters that ape the effects of cosmetic surgery are harming children’s self-esteem, as fears grow: ‘Teenage girls are feeling vulnerable’"
   },
-  "/world/live/2025/aug/21/us-minimal-security-guarantees-ukraine-russia-diplomacy-europe-latest-updates-news": {
-    "headline": "German soldiers’ union head sets out what a long-term Ukraine deployment would take – as it happened",
-    "trail": "Col Andre Wuestner tells European Nato leaders they must ‘not be naive’ and would need to deploy tens of thousands of troops to the country for the long term"
+  "/uk-news/2025/mar/03/uk-information-commissioner-to-investigate-tiktok-reddit-children-data": {
+    "headline": "Information Commissioner’s Office puts TikTok and Reddit’s use of children’s data under scrutiny",
+    "trail": "The UK watchdog says that by looking into the two sites plus Imgur it aims to learn about the wider market"
   },
-  "/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics": {
-    "headline": "Trump and Xi meet face to face in the US, with AI high on the agenda",
-    "trail": "The US meeting brings the two leaders together amid deep distrust between US and China; fears persist about Trump ‘sucking up’ to Xi on Taiwan, and few concrete outcomes are anticipated"
+  "/world/2022/jun/28/former-nazi-camp-guard-josef-schutz-101-convicted-of-complicity-in-murders": {
+    "headline": "German court holds former Nazi camp guard, 101, to account for complicity in murders",
+    "trail": "Josef Schütz is convicted and given a five-year jail sentence in Germany, though the former guard is unlikely to be put behind bars"
   },
-  "/us-news/2025/jun/05/donald-trump-xi-jinping-china-phone-call-invitation-trade-tariffs": {
-    "headline": "Trade call with Xi Jinping ‘very good’, says Trump, as he accepts invitation to China",
-    "trail": "US president says he accepted the invitation to meet Xi Jinping in China during the first phone conversation between the leaders since January"
+  "/world/2022/dec/20/nazi-camp-secretary-irmgard-furchner-stutthof-germany": {
+    "headline": "Guilty verdict holds Stutthof camp secretary accountable for complicity in 10,500 murders",
+    "trail": "A court finds former Nazi camp secretary Irmgard Furchner, 97, who worked at Stutthof concentration camp during the second world war, guilty and hands down a two-year suspended sentence"
   },
-  "/world/2017/nov/09/donald-trump-china-act-faster-north-korea-threat": {
-    "headline": "Trump praises China and voices confidence in Beijing over North Korea",
-    "trail": "President is confident Beijing will defuse North Korea threat, and blames US for trade deficit, saying he does not blame Beijing ‘for taking advantage’ of US"
+  "/world/2021/oct/19/former-nazi-camp-secretary-trial-murders-11000-people-irmgard-furchner": {
+    "headline": "Trial begins for former Nazi camp secretary accused over murders of 11,000 people",
+    "trail": "Irmgard Furchner, who tried to flee last month, goes on trial accused of complicity in killings at Stutthof death camp"
   },
-  "/us-news/2018/mar/04/trump-tariffs-europe-china-russia-trade-war": {
-    "headline": "Trump aides set out the case for president’s tariffs move",
-    "trail": "British PM May expresses ‘deep concern’ in call with president, while Europe and China decry ‘trade war’ and a Senate Democrat says struggle with Europe would be ‘a boost for Russia’"
+  "/world/2026/jul/30/german-chancellor-friedrich-merz-chooses-pope-leo-encyclical-for-beach-read": {
+    "headline": "Friedrich Merz makes pope’s thinking on AI his holiday reading, passing over pacy potboiler",
+    "trail": "The German chancellor packs the papal guide Magnifica humanitas, an AI encyclical, as his popularity stands at a record low"
   },
-  "/us-news/2025/apr/27/trump-tariffs-china-negotiations": {
-    "headline": "Scott Bessent points to ‘a path’ with China in tariff negotiations",
-    "trail": "US treasury secretary says ‘there is a path’ and that ‘the Chinese will see this high tariff level is unsustainable for their business’"
+  "/world/2026/aug/12/germany-approves-lifting-curbs-spy-agencies-security-revolution": {
+    "headline": "Germany gives its spy agencies the reforms they asked for in security ‘revolution’",
+    "trail": "Approved reforms lift curbs on the intelligence services and meet their wishlist; the agencies say Germany lags behind allies and enemies"
   },
-  "/us-news/2019/may/10/us-briefing-china-trade-war-uber-ipo-and-fake-heiress-sentenced": {
-    "headline": "US briefing: Uber IPO, fake heiress sentenced and the cocaine that washed up on a small island",
-    "trail": "Friday’s top story: China trade war, as Trump administration imposes 25 per cent tariffs and Beijing vows to retaliate. Plus, what happened after half a tonne of cocaine washed up on a small island"
+  "/world/2026/sep/04/minorities-fear-first-far-right-win-in-german-state-election-saxony-anhalt-afd": {
+    "headline": "Minorities in Saxony-Anhalt speak out as they weigh their future before state election",
+    "trail": "Polls point to the AfD, which promises deportations, winning Saxony-Anhalt – a first far-right state election win; minorities fear ‘this could just be the beginning’ and people face an agonising choice: stay or go"
   }
 }

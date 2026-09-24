@@ -94,8 +94,9 @@ const wideCard = hasOddTail ? rest[rest.length - 1] : undefined;
 		margin-top: var(--space-2);
 	}
 
+	/* The first container sits straight under the nav with whitespace, no rule. */
 	.container--primary {
-		border-top-color: var(--section-border-primary);
+		border-top: 0;
 	}
 
 	/* --- title ----------------------------------------------------------- */
