@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"warn\": \"The rising cost of the 10-year gilt, nearing a 19-year high, is pushing up the upfront cost of government investment and narrowing chancellor John Healey’s room for manoeuvre ahead of next month’s budgetBusiness live – latest updatesInternational bodies warn of rising debt and borrowing risksBurnham stands by claim UK is ‘in hock’ to bond markets\""
+  },
+  {
+    "path": "/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"dire\": \"Violence in the Democratic Republic of the Congo continues to force people south to Tanganyika, where camps already shelter hundreds of thousands living in dire conditions\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\", \"devastated\": \"Abandoned, dismissed and gaslighted, ME sufferers have been betrayed as changes in guidance and science leave millions of devastated lives untouched – a social crisis behind closed doors, writes Guardian columnist George Monbiot\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"perilous\": \"It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like Trump\""
+  },
+  {
+    "path": "/society/2026/sep/22/the-rise-of-big-toothbrush",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"People in the UK are more interested in oral health than ever, and can now buy prebiotic toothpastes and toothbrushes costing up to £600 - though we remain in the midst of a serious dental crisis\""
+  },
+  {
+    "path": "/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"The rise comes as inflation fears fuelled by the Iran war and renewed uncertainty over Starmer's leadership prompt a bond sell-off, posing a new threat to Labour's spending plans\""
+  },
+  {
+    "path": "/education/2022/oct/26/universities-us-canada-uk-sustainability-league-edinburgh-rank-emissions-targets",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"It is the highest-ranked British institution, with UK universities behind their US and Canadian counterparts as fears grow over emissions targets\""
+  },
+  {
+    "path": "/world/2017/nov/09/donald-trump-china-act-faster-north-korea-threat",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"The president praised China rather than blaming it for the US trade deficit, saying he does not blame Beijing 'for taking advantage' of the US, and expects it to defuse the North Korea threat\""
+  }
+]
