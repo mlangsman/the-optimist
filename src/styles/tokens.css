@@ -209,6 +209,13 @@
 	--article-rail-gap: var(--space-5);
 }
 
+/* The Guardian widens the title column from 160px to 240px at `wide`. */
+@media (min-width: 1300px) {
+	:root {
+		--left-col: 240px;
+	}
+}
+
 /* Pillar theming. `data-pillar` is set on <html> per page and on each front
  * container, so one attribute recolours every kicker, link and rule below it. */
 [data-pillar='news'] {

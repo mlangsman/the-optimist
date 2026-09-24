@@ -10,7 +10,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "fetch": "tsx scripts/fetch.ts",
+    "fetch": "tsx scripts/fetch.ts --previews=api",
     "jobs": "tsx scripts/jobs.ts",
     "rewrite:api": "tsx scripts/rewrite-api.ts",
     "check": "tsx scripts/check.ts",

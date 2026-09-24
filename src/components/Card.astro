@@ -40,8 +40,9 @@ const { card, variant = 'medium', pillar = 'news', as: Heading = 'h3', eager = f
 const cardPillar = pillarForCard(card, pillar);
 const href = card.linked ? articleHref(card.path) : undefined;
 const showImage = Boolean(card.image);
-const showTrail = Boolean(card.trail) && (variant === 'splash' || variant === 'wide' || variant === 'medium');
-const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 'wide');
+// As on the Guardian's front, only the splash and full-width cards carry a
+// trail, and news cards carry no byline at all.
+const showTrail = Boolean(card.trail) && (variant === 'splash' || variant === 'wide');
 ---
 
 <article class:list={['card', `card--${variant}`]} data-pillar={cardPillar} data-linked={String(card.linked)}>
@@ -76,8 +77,6 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 			</Heading>
 
 			{showTrail && <p class="card__trail">{card.trail}</p>}
-
-			{showByline && <p class="card__byline">{card.byline}</p>}
 		</div>
 	</div>
 </article>
@@ -147,10 +146,11 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 		gap: var(--space-0);
 	}
 
+	/* Guardian card kickers are regular-weight sans, 15px rising to 17px. */
 	.card__kicker {
 		font-family: var(--font-sans);
-		font-size: var(--size-sans-14);
-		font-weight: 700;
+		font-size: var(--size-sans-15);
+		font-weight: 400;
 		line-height: 1.15;
 		/* Read --pillar directly, not a token that aliases it: an alias
 		   declared on :root resolves against :root's --pillar and inherits
@@ -165,21 +165,16 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 		color: var(--card-trail-text);
 	}
 
-	.card__byline {
-		font-family: var(--font-headline);
-		font-optical-sizing: auto;
-		font-style: italic;
-		font-weight: 400;
-		font-size: var(--size-headline-14);
-		line-height: var(--leading-sans);
-		color: var(--card-meta-text);
+	@media (min-width: 980px) {
+		.card__kicker {
+			font-size: var(--size-sans-17);
+		}
 	}
 
 	/* --- splash --------------------------------------------------------- */
+	/* headlineMedium28 → 34: the Guardian's splash is medium weight, not bold. */
 	.card--splash .card__headline {
-		font-weight: 700;
 		font-size: var(--size-headline-28);
-		line-height: var(--leading-headline-display);
 	}
 
 	.card--splash .card__trail {
@@ -211,14 +206,11 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 	}
 
 	@media (min-width: 980px) {
-		.card--splash .card__headline {
-			font-size: var(--size-headline-42);
-		}
 		.card--splash .card__media {
-			flex-basis: 60%;
+			flex-basis: 66%;
 		}
 		.card--splash .card__text {
-			flex-basis: 40%;
+			flex-basis: 34%;
 		}
 	}
 
@@ -242,10 +234,16 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 			min-width: 0;
 		}
 		.card--wide .card__headline {
-			font-size: var(--size-headline-28);
+			font-size: var(--size-headline-24);
 		}
 		.card--wide .card__trail {
 			font-size: var(--size-sans-15);
+		}
+	}
+
+	@media (min-width: 980px) {
+		.card--wide .card__headline {
+			font-size: var(--size-headline-28);
 		}
 	}
 
@@ -281,12 +279,6 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 		}
 	}
 
-	@media (min-width: 980px) {
-		.card--medium .card__headline {
-			font-size: var(--size-headline-24);
-		}
-	}
-
 	/* --- small (secondary containers, related rail) ---------------------- */
 	.card--small .card__headline {
 		font-size: var(--size-headline-17);
@@ -295,20 +287,22 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 	/* --- highlight (masthead strip) ------------------------------------- */
 	.card--highlight {
 		background: var(--highlights-card-background);
-		padding: var(--space-2);
+		padding: var(--space-3);
 		height: 100%;
 	}
 
 	.card--highlight .card__inner {
 		flex-direction: row-reverse;
 		align-items: flex-start;
-		gap: var(--space-2);
+		gap: var(--space-3);
 	}
 
+	/* The Guardian crops highlight thumbnails to a circle. */
 	.card--highlight .card__media {
 		flex: 0 0 auto;
-		width: 76px;
+		width: 80px;
 		aspect-ratio: 1 / 1;
+		border-radius: 50%;
 	}
 
 	.card--highlight .card__text {
@@ -327,7 +321,10 @@ const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 
 
 	@media (min-width: 740px) {
 		.card--highlight .card__media {
-			width: 92px;
+			width: 100px;
+		}
+		.card--highlight .card__headline {
+			font-size: var(--size-headline-20);
 		}
 	}
 </style>

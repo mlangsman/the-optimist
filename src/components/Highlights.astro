@@ -69,10 +69,11 @@ const { container } = Astro.props;
 	.highlights__list {
 		list-style: none;
 		display: flex;
+		gap: var(--space-5);
 		overflow-x: auto;
 		scroll-snap-type: x mandatory;
 		scrollbar-width: none;
-		padding: var(--space-2) 0;
+		padding: var(--space-3) 0;
 		/* Fade the trailing edge, as the Guardian does, so the row reads as scrollable. */
 		mask-image: linear-gradient(to right, #000 calc(100% - 48px), transparent);
 	}
@@ -83,15 +84,8 @@ const { container } = Astro.props;
 
 	.highlights__item {
 		flex: 0 0 auto;
-		width: min(78vw, 300px);
+		width: min(82vw, 340px);
 		scroll-snap-align: start;
-		padding: 0 var(--space-2);
-		border-left: 1px solid var(--highlights-container-separator);
-	}
-
-	.highlights__item:first-child {
-		border-left: 0;
-		padding-left: 0;
 	}
 
 	.highlights__arrow {
@@ -124,13 +118,19 @@ const { container } = Astro.props;
 
 	@media (min-width: 740px) {
 		.highlights__item {
-			width: 300px;
+			width: 360px;
 		}
 		.highlights__arrow--prev {
 			left: var(--space-1);
 		}
 		.highlights__arrow--next {
 			right: var(--space-1);
+		}
+	}
+
+	@media (min-width: 980px) {
+		.highlights__item {
+			width: 440px;
 		}
 	}
 </style>

@@ -161,7 +161,7 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 		text-decoration: underline;
 	}
 
-	.topbar__tag {
+	.topbar__links > .topbar__tag {
 		color: var(--brand-800);
 		font-weight: 400;
 	}
@@ -308,17 +308,17 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 		white-space: nowrap;
 	}
 
-	/* The pillar bar sits on the top edge of the item: shown for the current
-	   pillar, and slid into view on hover/focus for the others. */
+	/* The pillar bar sits on the bottom edge of the item: shown for the
+	   current pillar, and slid into view on hover/focus for the others. */
 	.pillars__link::before {
 		content: '';
 		position: absolute;
 		left: 0;
 		right: 0;
-		top: 0;
+		bottom: 0;
 		height: 4px;
 		background: var(--pillar-underline, var(--underline-news));
-		transform: translateY(-4px);
+		transform: translateY(4px);
 		transition: transform 0.15s ease-out;
 	}
 
@@ -339,18 +339,34 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 	@media (min-width: 740px) {
 		.pillars__link {
 			height: 48px;
-			padding: var(--space-2) var(--space-3) 0;
+			padding: var(--space-2) var(--space-6) 0 var(--space-3);
 			font-size: var(--size-headline-24);
 		}
 		.pillars__link::before {
 			height: 5px;
-			transform: translateY(-5px);
+			transform: translateY(5px);
+		}
+	}
+
+	/* From desktop each pillar is a wide block with the label at its left,
+	   the way the reference nav spaces them. */
+	@media (min-width: 980px) {
+		.pillars__link {
+			height: 56px;
+			min-width: 140px;
+			padding: var(--space-2) var(--space-10) 0 var(--space-3);
+		}
+	}
+
+	@media (min-width: 1300px) {
+		.pillars__link {
+			min-width: 160px;
 		}
 	}
 
 	/* --- sub-navigation ------------------------------------------------- */
 	.subnav {
-		background: var(--masthead-top-bar-background);
+		background: var(--masthead-nav-background);
 		border-top: 1px solid var(--masthead-nav-border);
 	}
 
@@ -360,7 +376,7 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 		gap: var(--space-4);
 		overflow-x: auto;
 		scrollbar-width: none;
-		min-height: 32px;
+		min-height: 36px;
 		align-items: center;
 	}
 
@@ -374,9 +390,9 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 
 	.subnav__link {
 		color: var(--masthead-text);
-		font-size: var(--size-sans-14);
+		font-size: var(--size-sans-15);
 		font-weight: 400;
-		line-height: 32px;
+		line-height: 36px;
 		text-decoration: none;
 		white-space: nowrap;
 	}
@@ -387,8 +403,13 @@ const subnav = SUBNAV_IDS.filter((id) => containers.has(id)).map((id) => ({
 	}
 
 	@media (min-width: 740px) {
+		.subnav__list {
+			min-height: 40px;
+			gap: var(--space-5);
+		}
 		.subnav__link {
-			font-size: var(--size-sans-15);
+			font-size: var(--size-sans-17);
+			line-height: 40px;
 		}
 	}
 </style>
