@@ -30,7 +30,7 @@ Guardian Content API        ──┘                 │
   - `scripts/tone.ts` is a mechanical lint with no model behind it. It fails the run on an unchanged or cosmetically edited headline where the original carried a setback ("warns" swapped for "says" and nothing else moved), on a rewritten headline still centred on a word of loss, harm, threat or fear, and on any preview with no rewrite at all. Quotations and house-style compounds such as "climate crisis" are exempt.
   - `scripts/check.ts` runs two model reviewers on each pair: a fact check (Haiku, thinking off) that demotes anything with an unsupported or altered claim, and a tone review (Sonnet, low effort) that judges the copy against `prompts/rewrite.md` as an editor would, and writes notes for the writer.
   - `scripts/revise.ts` sends every rewrite that failed a review back to the rewriter with the previous attempt and the notes, then `check.ts --only=failed` and `tone.ts` run again. Loop until clean. The daily routine does the same loop by hand.
-- **Tone.** `prompts/rewrite.md` holds the editorial rules: Guardian house style, optimism through emphasis and order, never through vocabulary or invention, and never a cosmetic edit.
+- **Tone.** `prompts/rewrite.md` holds the editorial rules: analyse each story for its upsides, build the headline entirely on the strongest one, move the setback to the standfirst, keep Guardian house style, never invent a fact, and never make a cosmetic edit.
 
 ## Running it
 
