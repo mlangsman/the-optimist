@@ -9,7 +9,7 @@
 import type { RawArticle, RawCard, RawContainer, RawData } from '../src/lib/types.js';
 import { dayFile, errorMessage, maybeHelp, parseArgs, resolveDate, runMain, writeJson, writeText } from './lib/cli.js';
 import { requireGuardianKey } from './lib/env.js';
-import { parseFront, titleFromId } from './lib/front.js';
+import { parseFront, sectionNameFor } from './lib/front.js';
 import {
   fetchItem,
   fetchPreview,
@@ -27,7 +27,7 @@ Usage:
 Options:
   --date=YYYY-MM-DD   Write into data/<date>/ instead of today (Europe/London).
   --front-only        Parse the front page only; no Content API calls, no key needed.
-  --max-preview=N     Cards kept per non-News container (default 8).
+  --max-preview=N     Cards kept per non-News container in api mode (default 8).
   --previews=MODE     dom (default): non-News cards use the headline already on the
                       front page, zero extra API calls. api: fetch headline + trail
                       for every card from the Content API (~150 calls).
@@ -54,7 +54,7 @@ function previewFromCard(card: RawCard): RawPreview | undefined {
   const preview: RawPreview = {
     path: card.path,
     url: `${GUARDIAN_ORIGIN}${card.path}`,
-    section: { id: sectionId, name: titleFromId(sectionId) },
+    section: { id: sectionId, name: sectionNameFor(sectionId) },
     headline: card.headline,
     tags: [],
   };
@@ -126,7 +126,8 @@ async function main(): Promise<void> {
   if (front.length === 0) {
     throw new Error('Parsed 0 containers from the front page — the markup has probably changed.');
   }
-  capPreviewCards(front, maxPreviewCards);
+  // The cap only protects the API request budget; DOM previews are free.
+  if (previewMode === 'api') capPreviewCards(front, maxPreviewCards);
 
   const articles: Record<string, RawArticle> = {};
   const previews: Record<string, RawPreview> = {};

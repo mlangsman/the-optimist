@@ -5,7 +5,7 @@
  * clone, CI, or a local build with no pipeline run) we fall back to the
  * checked-in fixture so the site always builds.
  */
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import type { Article, Card, FrontContainer, SiteData } from './types';
 
@@ -27,10 +27,11 @@ function readJson(relativePath: string): SiteData {
 export function loadSiteData(): SiteData {
 	if (cached) return cached;
 
-	try {
+	if (existsSync(resolve(process.cwd(), LATEST))) {
+		// A present-but-broken edition must fail the build, never silently ship the fixture.
 		cached = readJson(LATEST);
 		console.log(`[the-optimist] site data: ${LATEST}`);
-	} catch {
+	} else {
 		cached = readJson(FIXTURE);
 		console.log(`[the-optimist] site data: ${FIXTURE} (no ${LATEST} present)`);
 	}

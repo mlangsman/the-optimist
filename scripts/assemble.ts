@@ -143,7 +143,7 @@ function buildCard(
   raw: RawData,
   rewrites: Rewrites,
   articles: Record<string, Article>,
-  seed: { path: string; headline?: string; trail?: string; image?: Image },
+  seed: { path: string; headline?: string; image?: Image },
 ): Card {
   const { path } = seed;
   const source = rawSourceFor(raw, path);
@@ -159,7 +159,7 @@ function buildCard(
 
   if (source.sectionName) card.kicker = source.sectionName;
 
-  const trail = stripTags(rewritten?.trail) ?? stripTags(source.trail) ?? stripTags(seed.trail);
+  const trail = stripTags(rewritten?.trail) ?? stripTags(source.trail);
   if (trail) card.trail = trail;
 
   const image = seed.image ?? source.mainImage;
@@ -181,10 +181,8 @@ function buildArticle(
   const output = rewrites.article.get(path);
   const usable = output !== undefined && !checkFailed.has(path);
 
-  const original: Original & { bodyHtml: string } = {
-    ...buildOriginal(path, rawSourceFor(raw, path), rawArticle.headline),
-    bodyHtml: sanitiseHtml(rawArticle.bodyHtml),
-  };
+  const source = rawSourceFor(raw, path);
+  const original = buildOriginal(path, source, rawArticle.headline);
 
   const article: Article = {
     path,

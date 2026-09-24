@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { describe, it } from 'node:test';
-import { cardImageUrl, isArticlePath, parseFront, titleFromId } from './front.js';
+import { cardImageUrl, isArticlePath, parseFront, sectionNameFor, titleFromId } from './front.js';
 
 const fixture = readFileSync(
   fileURLToPath(new URL('../__fixtures__/front-sample.html', import.meta.url)),
@@ -14,20 +14,20 @@ const byId = new Map(containers.map((c) => [c.id, c]));
 describe('titleFromId', () => {
   it('turns kebab ids into titles', () => {
     assert.equal(titleFromId('news'), 'News');
-    assert.equal(titleFromId('more-top-stories'), 'More Top Stories');
+    assert.equal(titleFromId('more-top-stories'), 'More top stories');
   });
 
   it('strips the trailing hyphen', () => {
-    assert.equal(titleFromId('the-long-read-'), 'The Long Read');
+    assert.equal(titleFromId('the-long-read-'), 'The long read');
   });
 
   it('decodes &amp;', () => {
-    assert.equal(titleFromId('climate-crisis-&amp;-environment'), 'Climate Crisis & Environment');
-    assert.equal(titleFromId('business-&-technology'), 'Business & Technology');
+    assert.equal(titleFromId('climate-crisis-&amp;-environment'), 'Climate crisis & environment');
+    assert.equal(titleFromId('business-&-technology'), 'Business & technology');
   });
 
   it('upper-cases known acronyms', () => {
-    assert.equal(titleFromId('uk-news'), 'UK News');
+    assert.equal(titleFromId('uk-news'), 'UK news');
   });
 });
 
@@ -123,4 +123,13 @@ it('cardImageUrl asks the Guardian CDN for a 620px rendition', () => {
   assert.ok(out.includes('dpr=1'));
   assert.ok(out.includes('crop=1%3A1'));
   assert.equal(cardImageUrl('https://example.com/a.jpg?width=98'), 'https://example.com/a.jpg?width=98');
+});
+
+describe('sectionNameFor', () => {
+  it('maps Guardian section ids to their display names', () => {
+    assert.equal(sectionNameFor('commentisfree'), 'Opinion');
+    assert.equal(sectionNameFor('tv-and-radio'), 'TV & radio');
+    assert.equal(sectionNameFor('us-news'), 'US news');
+    assert.equal(sectionNameFor('some-new-section'), 'Some new section');
+  });
 });

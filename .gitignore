@@ -26,3 +26,5 @@ pnpm-debug.log*
 # pipeline
 data/*/raw.html
 scripts/__fixtures__/front-full.html
+data/*/raw.json
+data/*/jobs.json

@@ -70,7 +70,8 @@ export interface Article {
   related: Card[];
   /** 'headline-only' when the rewrite was skipped or failed the fact check. */
   status: ArticleStatus;
-  original: Original & { bodyHtml: string };
+  /** Headline, standfirst, byline and URL only — the original body is never persisted. */
+  original: Original;
 }
 
 /** The single input to the site build. Written to data/YYYY-MM-DD/site.json and copied to data/latest.json. */

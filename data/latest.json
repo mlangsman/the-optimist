@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T08:55:12.221Z",
+  "generatedAt": "2026-09-24T09:00:36.400Z",
   "engine": "claude-code",
   "front": [
     {
@@ -57,7 +57,7 @@
             "headline": "There is no excuse for the way ME sufferers have been betrayed",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2025/05/21/George_Monbiot.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "George Monbiot"
@@ -71,7 +71,7 @@
             "headline": "At least Wayne and Coleen show they can laugh at themselves",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/20c32752913e8389214275f88ed590e3b676c343/1308_397_1611_1611/master/1611.jpg?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Wayne and Coleen Rooney sat on a white sofa with their children"
@@ -85,7 +85,7 @@
             "headline": "Her greatest roles – and why sex scenes for over-50s are booming",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/256dcbcb52531b605a35d1d8ffb5b7d8ffbffddd/1032_88_4164_3331/master/4164.jpg?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Actress Lesley Manville, close-up portrait, smiling slightly, wearing a cream jacket"
@@ -272,7 +272,7 @@
     },
     {
       "id": "in-focus",
-      "title": "In Focus",
+      "title": "In focus",
       "cards": [
         {
           "path": "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
@@ -344,7 +344,7 @@
             "headline": "Her greatest roles – and why sex scenes for over-50s are booming",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/256dcbcb52531b605a35d1d8ffb5b7d8ffbffddd/1032_88_4164_3331/master/4164.jpg?width=620&dpr=1&s=none&crop=4%3A5",
             "alt": "Actress Lesley Manville, close-up portrait, smiling slightly, wearing a cream jacket"
@@ -354,7 +354,7 @@
     },
     {
       "id": "more-features",
-      "title": "More Features",
+      "title": "More features",
       "cards": [
         {
           "path": "/lifeandstyle/2026/sep/24/you-be-the-judge-should-my-partner-dial-down-the-heat-when-he-cooks",
@@ -364,7 +364,7 @@
             "headline": "Should my partner dial down the heat when he cooks?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/24/you-be-the-judge-should-my-partner-dial-down-the-heat-when-he-cooks"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/444406c055655e5f72bb382f319aac166319cd65/0_0_1621_1297/master/1621.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A person's face emerges from a bowl of flames as hands sprinkle herbs and salt above it"
@@ -378,7 +378,7 @@
             "headline": "Tell us: have you delayed separating or divorcing because you can’t afford to?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/23/tell-us-have-you-delayed-separating-or-divorcing-because-you-cant-afford-to"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/2d40f7210fdf2121690e7dbfc017332a5523107e/360_0_3333_2667/master/3333.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Couple having a disagreement at home"
@@ -420,7 +420,7 @@
             "headline": "Long-haul flights, changing lights and a lot of Turkish cats",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/24/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-266"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/ffa58a095ba069f43d32799b61fb8333d6ae9ef7/125_186_1120_896/master/1120.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "One of the many cats of Istanbul."
@@ -448,7 +448,7 @@
             "headline": "Block parties and boxing clubs: Martine Barrat’s tough and tender New York – in pictures",
             "url": "https://www.theguardian.com/artanddesign/gallery/2026/sep/24/block-parties-and-boxing-clubs-martine-barrats-tough-and-tender-new-york-in-pictures"
           },
-          "kicker": "Artanddesign",
+          "kicker": "Art and design",
           "image": {
             "src": "https://i.guim.co.uk/img/media/3e3780a1fbc3cf4afa9aa59d43cad3dd1a46dea1/0_964_2692_2151/master/2692.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Papo Angel Morales waiting to enter the ring 1981"
@@ -458,7 +458,7 @@
     },
     {
       "id": "the-long-read-",
-      "title": "The Long Read",
+      "title": "The long read",
       "cards": [
         {
           "path": "/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain",
@@ -488,7 +488,7 @@
             "headline": "There is no excuse for the way ME sufferers have been betrayed",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/media/5a5e6e228f26a2de90468e2ea0359695cbc115d2/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Illustration: Bill Bragg"
@@ -502,7 +502,7 @@
             "headline": "Britain would not cut up the Bayeux tapestry. So seize this moment and reunite the Parthenon sculptures in Greece",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/24/britain-bayeux-tapestry-greece-parthenon-sculptures-museum-kyriakos-mitsotakis"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2026/09/22/Kyriakos_Mitsotakis.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Kyriakos Mitsotakis"
@@ -516,7 +516,7 @@
             "headline": "The west is in freefall – and the worst part is that we were warned, but chose not to listen",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2022/10/11/Owen_Jones.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Owen Jones"
@@ -530,7 +530,7 @@
             "headline": "Trump’s UN speech was delusional and dangerous",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2025/02/19/Kenneth_Roth.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Kenneth Roth"
@@ -540,7 +540,7 @@
     },
     {
       "id": "more-opinion",
-      "title": "More Opinion",
+      "title": "More opinion",
       "cards": [
         {
           "path": "/commentisfree/2026/sep/24/open-ai-medicare-records-hacked-australia-cyber-security",
@@ -568,7 +568,7 @@
             "headline": "Britain’s far-right violence comes to us direct from the 1970s. But so does the solution",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/23/britain-anti-racism-asian-youth-movements-1970s-far-right-violence"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/media/04f327ba5e090180e3d46e727e85a6ccf87132a2/438_46_4239_3392/master/4239.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A protest in Southall, west London, in June 1976."
@@ -582,7 +582,7 @@
             "headline": "Eric Idle has had tons of celebrities staying at his house. God, it must be exhausting",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/23/eric-idle-celebrities-staying-at-his-house"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2019/02/13/Adrian_Chiles,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Adrian Chiles"
@@ -596,7 +596,7 @@
             "headline": "Burnham survived his first Trump meeting. His nice hair may have had something to do with it",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/23/andy-burnham-donald-trump-meeting-prime-minister-president"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Emma-Brockes,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Emma Brockes"
@@ -616,7 +616,7 @@
             "headline": "The future of the UN: more embattled, but more necessary, than ever",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/23/the-guardian-view-on-the-future-of-the-un-more-embattled-but-more-necessary-than-ever"
           },
-          "kicker": "Commentisfree"
+          "kicker": "Opinion"
         },
         {
           "path": "/commentisfree/2026/sep/23/the-guardian-view-on-russian-disinformation-a-foreign-threat-that-relies-on-uk-complicity",
@@ -626,7 +626,7 @@
             "headline": "Russian disinformation: a foreign threat that relies on UK complicity",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/23/the-guardian-view-on-russian-disinformation-a-foreign-threat-that-relies-on-uk-complicity"
           },
-          "kicker": "Commentisfree"
+          "kicker": "Opinion"
         }
       ]
     },
@@ -662,7 +662,7 @@
             "headline": "Folk or AI could be a winner for the UK at Eurovision",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/23/folk-or-ai-could-be-a-winner-for-the-uk-at-eurovision"
           },
-          "kicker": "TV And Radio"
+          "kicker": "TV & radio"
         },
         {
           "path": "/uk-news/2026/sep/23/farewell-nimbys-of-piddington",
@@ -672,7 +672,7 @@
             "headline": "Farewell, nimbys of Piddington…",
             "url": "https://www.theguardian.com/uk-news/2026/sep/23/farewell-nimbys-of-piddington"
           },
-          "kicker": "UK News"
+          "kicker": "UK news"
         }
       ]
     },
@@ -688,7 +688,7 @@
             "headline": "Andy Burnham’s meeting with Donald Trump",
             "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/23/ben-jennings-andy-burnham-meeting-donald-trump-cartoon"
           },
-          "kicker": "Commentisfree",
+          "kicker": "Opinion",
           "image": {
             "src": "https://i.guim.co.uk/img/media/0ec33b96715c6180d775bcee4f96c81940209374/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Ben Jennings on Andy Burnham’s meeting with Donald Trump – cartoon"
@@ -774,7 +774,7 @@
     },
     {
       "id": "more-sport",
-      "title": "More Sport",
+      "title": "More sport",
       "cards": [
         {
           "path": "/football/2026/sep/23/special-klopp-and-xavi-take-first-steps-on-international-stage-with-revival-in-mind",
@@ -836,7 +836,7 @@
     },
     {
       "id": "more-top-stories",
-      "title": "More Top Stories",
+      "title": "More top stories",
       "cards": [
         {
           "path": "/world/live/2026/sep/24/russia-ukraine-un-zelenskyy-putin-kharkiv-macron-eu-competitiveness-latest-news-updates",
@@ -912,7 +912,7 @@
     },
     {
       "id": "climate-crisis-&-environment",
-      "title": "Climate Crisis & Environment",
+      "title": "Climate crisis & environment",
       "cards": [
         {
           "path": "/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
@@ -936,7 +936,7 @@
             "headline": "In historic first, tropical turtles spotted nesting on California beaches",
             "url": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches"
           },
-          "kicker": "US News",
+          "kicker": "US news",
           "image": {
             "src": "https://i.guim.co.uk/img/media/f4e7091e3bbe6c4a95539aa4c162984be141abbc/0_0_1500_1200/master/1500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A composite image showing a turtle on the left and turtle eggs on the right."
@@ -974,7 +974,7 @@
     },
     {
       "id": "uk-news",
-      "title": "UK News",
+      "title": "UK news",
       "cards": [
         {
           "path": "/uk-news/2026/sep/23/raf-jet-crashes-and-explodes-in-anglesey-moments-after-pilots-eject",
@@ -984,7 +984,7 @@
             "headline": "RAF jet crashes and explodes in Anglesey moments after pilots eject",
             "url": "https://www.theguardian.com/uk-news/2026/sep/23/raf-jet-crashes-and-explodes-in-anglesey-moments-after-pilots-eject"
           },
-          "kicker": "UK News",
+          "kicker": "UK news",
           "image": {
             "src": "https://i.guim.co.uk/img/media/6f672f15b16bdd5dcc4a55762d7e68ee3c572cd0/1043_0_2413_1932/master/2413.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A fireball caused by the crash behind a farmhouse."
@@ -1012,7 +1012,7 @@
             "headline": "Three charged with assault after anti-migration protests in Hampshire",
             "url": "https://www.theguardian.com/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests"
           },
-          "kicker": "UK News",
+          "kicker": "UK news",
           "image": {
             "src": "https://i.guim.co.uk/img/media/2d2b6abcb15f7f28690e28b24b9b73fa944a67e9/999_0_4976_3983/master/4976.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Police officers standing by their vans"
@@ -1036,7 +1036,7 @@
     },
     {
       "id": "world-news",
-      "title": "World News",
+      "title": "World news",
       "cards": [
         {
           "path": "/us-news/2026/sep/23/uss-lincoln-suicide-attempts",
@@ -1046,7 +1046,7 @@
             "headline": "Eight USS Lincoln personnel have attempted suicide, US navy confirms",
             "url": "https://www.theguardian.com/us-news/2026/sep/23/uss-lincoln-suicide-attempts"
           },
-          "kicker": "US News"
+          "kicker": "US news"
         },
         {
           "path": "/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
@@ -1056,7 +1056,7 @@
             "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
             "url": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty"
           },
-          "kicker": "UK News"
+          "kicker": "UK news"
         },
         {
           "path": "/world/2026/sep/23/no-signs-chagos-deal-adapted-suit-donald-trump-officials-believe",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "business-&-technology",
-      "title": "Business & Technology",
+      "title": "Business & technology",
       "cards": [
         {
           "path": "/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
@@ -1138,7 +1138,7 @@
             "headline": "At least Wayne and Coleen show they can laugh at themselves",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/20c32752913e8389214275f88ed590e3b676c343/1218_0_1728_2160/master/1728.jpg?width=620&dpr=1&s=none&crop=4%3A5",
             "alt": "Wayne and Coleen Rooney sat on a white sofa with their children"
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "what-to-watch",
-      "title": "What To Watch",
+      "title": "What to watch",
       "cards": [
         {
           "path": "/tv-and-radio/2026/sep/24/a-different-world-review",
@@ -1172,7 +1172,7 @@
             "headline": "A Different World review – it was only a matter of time before they remade this trailblazing black sitcom",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/a-different-world-review"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/b7e5282485dc83e4475550336875af8f454da491/1724_431_581_466/master/581.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Maleah Joi Moon as Deborah, sitting in a common room"
@@ -1200,7 +1200,7 @@
             "headline": "Inside the UK’s response to alleged Israeli war crimes in Gaza",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/tv-tonight-inside-the-uks-response-to-alleged-israeli-war-crimes-in-gaza"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/8d320f3d05fda13de749c00b2a94bc07059986c0/559_0_2360_1889/master/2360.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A woman faces away from the camera and examines dozens of documents displayed on a wall, many with redacted sections of text"
@@ -1214,7 +1214,7 @@
             "headline": "Wonka’s Golden Ticket review – this bleak reality show is all nausea, no sugar rush",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/23/wonkas-golden-ticket-review-netflix"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/313add320630d83a51e1de90504ce5689103788b/536_0_2528_2024/master/2528.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Rusty Goffe, with green hair and a gold jacket, leads a group through a whimsical candy-themed set on Wonka's Golden Ticket."
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "what-to-listen-to",
-      "title": "What To Listen To",
+      "title": "What to listen to",
       "cards": [
         {
           "path": "/music/2026/sep/23/its-about-being-loudly-visible-ahadadream-the-british-pakistani-dance-star-defanging-racist-slurs",
@@ -1286,7 +1286,7 @@
     },
     {
       "id": "what-to-read",
-      "title": "What To Read",
+      "title": "What to read",
       "cards": [
         {
           "path": "/books/2026/sep/23/peoples-earl-charles-spencer-swan-song-diana-my-sister-digested-read-john-crace",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "what-to-play",
-      "title": "What To Play",
+      "title": "What to play",
       "cards": [
         {
           "path": "/games/2026/sep/23/why-are-gamers-ripping-into-the-new-wolverine-game",
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "what-to-visit",
-      "title": "What To Visit",
+      "title": "What to visit",
       "cards": [
         {
           "path": "/stage/2026/sep/23/romeo-and-juliet-review-russell-kane-natalie-casey",
@@ -1448,7 +1448,7 @@
             "headline": "Magritte: This Is Still Not a Pipe review – brilliance and trash from the surrealist who sent up Freud",
             "url": "https://www.theguardian.com/artanddesign/2026/sep/22/rene-magritte-this-is-still-not-a-pipe-review-gagosian-gallery-london"
           },
-          "kicker": "Artanddesign",
+          "kicker": "Art and design",
           "image": {
             "src": "https://i.guim.co.uk/img/media/055e7b7878905f56d3fea1be1abe07e2ad3b496f/0_75_2411_1929/master/2411.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "René Magritte La Lampe philosophique (The Philosopher’s Lamp), 1936 Oil on canvas 19 3/4 x 26 inches (50 x 66 cm) © 2026 C. Herscovici/Artists Rights Society (ARS), New York Courtesy Private Collection, Brussels, Kingdom of Belgium"
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "more-culture",
-      "title": "More Culture",
+      "title": "More culture",
       "cards": [
         {
           "path": "/artanddesign/2026/sep/23/magali-reus-artist-rubbish-sculpture",
@@ -1482,7 +1482,7 @@
             "headline": "‘We live in a world of extreme consumption and waste’: Magali Reus, the artist reimagining rubbish",
             "url": "https://www.theguardian.com/artanddesign/2026/sep/23/magali-reus-artist-rubbish-sculpture"
           },
-          "kicker": "Artanddesign",
+          "kicker": "Art and design",
           "image": {
             "src": "https://i.guim.co.uk/img/media/7a5aa94328dc6b90eec6f6d6b6914377a922606c/0_1719_4823_3856/master/4823.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Magali Reus, artist, portrait"
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "the-good-energy-guide",
-      "title": "The Good Energy Guide",
+      "title": "The good energy guide",
       "cards": [
         {
           "path": "/the-good-energy-guide/2026/aug/03/how-green-is-your-renewable-electricity-tariff",
@@ -1544,7 +1544,7 @@
             "headline": "How renewable is your electricity tariff? ‘Consumers believe they’re doing the right thing – often they’re not’",
             "url": "https://www.theguardian.com/the-good-energy-guide/2026/aug/03/how-green-is-your-renewable-electricity-tariff"
           },
-          "kicker": "The Good Energy Guide",
+          "kicker": "The good energy guide",
           "image": {
             "src": "https://i.guim.co.uk/img/media/e5ee687990e6e2fca8956defdb417ef4ab369a22/451_114_982_786/master/982.png?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "GoodEnergy-Header-Taffif"
@@ -1558,7 +1558,7 @@
             "headline": "Are solar panels worth it and do you need planning permission? We put your top questions to an expert",
             "url": "https://www.theguardian.com/the-good-energy-guide/2026/jul/31/are-solar-panels-worth-it-your-questions-answered"
           },
-          "kicker": "The Good Energy Guide",
+          "kicker": "The good energy guide",
           "image": {
             "src": "https://i.guim.co.uk/img/media/25fec9d165d04d82394ebc0435c8264f6e0a9364/0_0_1560_1248/master/1560.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Composite of man, solar panels and houses"
@@ -1572,7 +1572,7 @@
             "headline": "Bright spark or low-power? Find out how much you know about renewables – quiz",
             "url": "https://www.theguardian.com/the-good-energy-guide/2026/jul/31/renewable-energy-quiz-how-much-do-you-know"
           },
-          "kicker": "The Good Energy Guide",
+          "kicker": "The good energy guide",
           "image": {
             "src": "https://i.guim.co.uk/img/media/3c38dee4f3683495ae391af0e6cbf0de49f80c76/0_0_1606_964/master/1606.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Composite of wind turbine and hand turnin"
@@ -1586,7 +1586,7 @@
             "headline": "‘Our operations are powered by solar’: meet the companies tackling energy hikes with technology",
             "url": "https://www.theguardian.com/the-good-energy-guide/2026/aug/07/how-businesses-are-cutting-energy-costs-with-solar-power"
           },
-          "kicker": "The Good Energy Guide",
+          "kicker": "The good energy guide",
           "image": {
             "src": "https://i.guim.co.uk/img/media/df0be9233821cd33eabda6c324dba0993519663b/0_0_1309_785/master/1309.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Stylised picture of energy worker standing in front of solar panels"
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "the-filter",
-      "title": "The Filter",
+      "title": "The filter",
       "cards": [
         {
           "path": "/thefilter/2026/sep/23/how-to-keep-your-home-tidy",
@@ -1640,7 +1640,7 @@
             "headline": "Create a ‘donation station’ and never buy round containers: professional organisers’ tips for a tidy home",
             "url": "https://www.theguardian.com/thefilter/2026/sep/23/how-to-keep-your-home-tidy"
           },
-          "kicker": "Thefilter",
+          "kicker": "The Filter",
           "image": {
             "src": "https://i.guim.co.uk/img/media/c1e5e5e653c432daa5f1a247318d2fdb5a2cffbf/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Clear intentions: a designated basket can stop unwanted clothes from becoming another pile to deal with."
@@ -1654,7 +1654,7 @@
             "headline": "The best cheap phones in 2026: nine budget buys for £600 or less, tested",
             "url": "https://www.theguardian.com/thefilter/2026/sep/23/best-cheap-budget-phones-tested-uk"
           },
-          "kicker": "Thefilter",
+          "kicker": "The Filter",
           "image": {
             "src": "https://i.guim.co.uk/img/media/280ff404255467eaf9e32ba1d699c22de976d94f/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Five budget smartphones arranged diagonally against a teal background"
@@ -1668,7 +1668,7 @@
             "headline": "How I Shop with Tom Daley: ‘I am obsessed with my knitting machine!’",
             "url": "https://www.theguardian.com/thefilter/2026/sep/22/how-i-shop-with-tom-daley-i-am-obsessed-with-my-knitting-machine"
           },
-          "kicker": "Thefilter",
+          "kicker": "The Filter",
           "image": {
             "src": "https://i.guim.co.uk/img/media/e0522f2c27fe2ced6ea10e1eb6e2055b69f32ccf/0_0_2450_1959/master/2450.png?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Tom Daley's black and white portrait surrounded by colourful illustrated shopping doodles"
@@ -1682,7 +1682,7 @@
             "headline": "Vintage Gucci, a £5 rug and a salt duck: your best secondhand finds",
             "url": "https://www.theguardian.com/thefilter/2026/sep/18/readers-best-secondhand-finds"
           },
-          "kicker": "Thefilter",
+          "kicker": "The Filter",
           "image": {
             "src": "https://i.guim.co.uk/img/media/d3ae89c6ff405d8797e30b8d8e21a0f2c8501437/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Outdoor flea market with tables of antiques, birdcages, chairs, and a mannequin form"
@@ -1792,7 +1792,7 @@
             "headline": "‘He suggested the Clacton byelection was a vanity project. Obviously I disagree’",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/20/dining-across-the-divide-chris-alex"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/e3db690867b22423915b0cc874f6d552bb1863fc/556_0_5589_4471/master/5589.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Two men sitting at an outside wooden table, one wearing a patterned short-sleeve shirt (Chris), the other in a long-sleeved blue shirt"
@@ -1806,7 +1806,7 @@
             "headline": "As a Catholic monk, I was celibate. But sex with Orla feels so natural",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/20/this-is-how-we-do-it-as-a-catholic-monk-i-was-celibate-but-sex-with-orla-feels-so-natural"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/9216a41c9d52dd25ec2750b0996266de224174a5/0_0_2000_1600/master/2000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Cartoon of a female hand cheekily pulling open the rope belt of a monk with hands folded in prayer"
@@ -1816,7 +1816,7 @@
     },
     {
       "id": "money-&-consumer",
-      "title": "Money & Consumer",
+      "title": "Money & consumer",
       "cards": [
         {
           "path": "/money/2026/sep/23/mums-alzheimers-has-trapped-the-kids-natwest-cash",
@@ -1878,7 +1878,7 @@
     },
     {
       "id": "health-&-fitness",
-      "title": "Health & Fitness",
+      "title": "Health & fitness",
       "cards": [
         {
           "path": "/wellness/2026/sep/23/eye-irritation-care-expert",
@@ -1902,7 +1902,7 @@
             "headline": "‘My body is on fire!’: my perilous, painful, perfect month of pilates",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/bc99395b9aafb337ad01e55c59250c597f16116c/380_0_6528_5222/master/6528.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Sammy with his arms raised with one foot resting on a pilates machine"
@@ -1940,7 +1940,7 @@
     },
     {
       "id": "fashion-&-beauty",
-      "title": "Fashion & Beauty",
+      "title": "Fashion & beauty",
       "cards": [
         {
           "path": "/fashion/2026/sep/23/jess-cartner-morley-on-fashion-in-praise-of-fun-clothes",
@@ -2064,7 +2064,7 @@
     },
     {
       "id": "more-lifestyle",
-      "title": "More Lifestyle",
+      "title": "More lifestyle",
       "cards": [
         {
           "path": "/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
@@ -2088,7 +2088,7 @@
             "headline": "A moment that changed me: my brother gave me an unexpected gift – and a whole new life at sea",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/23/a-moment-that-changed-me-my-brother-gave-me-an-unexpected-gift-and-a-whole-new-life-at-sea"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/b838fa1ab4b8faa32f2cf90b24e123300a751551/0_1746_1868_1493/master/1868.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Bethany Handley sitting on a rock on the beach with her wheelchair next to her"
@@ -2116,7 +2116,7 @@
             "headline": "The great iced coffee debate: is it wrong to take a beverage into a job interview?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/22/iced-coffee-is-it-wrong-to-take-into-a-job-interview"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/dfc2056c0327e74e8402916f90b2a9ff77f3a835/955_0_6880_5504/master/6880.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Body and part of face of businessman waist up in pale blue jacket and smart tie and white shirt, holding iced coffee and tablet on a city street"
@@ -2145,7 +2145,7 @@
     },
     {
       "id": "you-may-have-missed",
-      "title": "You May Have Missed",
+      "title": "You may have missed",
       "cards": [
         {
           "path": "/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
@@ -2169,7 +2169,7 @@
             "headline": "London buses in decline? Why public transport in global cities is slowing to a crawl – visualised",
             "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised"
           },
-          "kicker": "UK News",
+          "kicker": "UK news",
           "image": {
             "src": "https://i.guim.co.uk/img/media/206edf4a27fa25d6b34f578c9bf81b848cc1c979/1375_665_2660_3325/master/2660.jpg?width=620&dpr=1&s=none&crop=4%3A5",
             "alt": "London bus in traffic, with a red traffic light and roadworks signs."
@@ -2193,7 +2193,7 @@
     },
     {
       "id": "take-part",
-      "title": "Take Part",
+      "title": "Take part",
       "cards": [
         {
           "path": "/lifeandstyle/2026/sep/23/tell-us-have-you-delayed-separating-or-divorcing-because-you-cant-afford-to",
@@ -2203,7 +2203,7 @@
             "headline": "Tell us: have you delayed separating or divorcing because you can’t afford to?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/23/tell-us-have-you-delayed-separating-or-divorcing-because-you-cant-afford-to"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/2d40f7210fdf2121690e7dbfc017332a5523107e/360_0_3333_2667/master/3333.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Couple having a disagreement at home"
@@ -2245,7 +2245,7 @@
             "headline": "Are you embracing low-tech ways to enjoy music and movies?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/sep/22/are-you-embracing-low-tech-ways-music-movies-vinyl"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/933609fc89eedbef7235dd5b7c2be31020349a22/10_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "'Eyes Wide Shut' movie; DVD edition; disc with open jewel case, isolated on light blank background, top angle shot3CPG40N 'Eyes Wide Shut' movie; DVD edition; disc with open jewel case, isolated on light blank background, top angle shot"
@@ -2307,7 +2307,7 @@
             "headline": "Sign up to House to Home",
             "url": "https://www.theguardian.com/lifeandstyle/2022/sep/28/sign-up-for-the-house-to-home-newsletter"
           },
-          "kicker": "Lifeandstyle",
+          "kicker": "Life and style",
           "image": {
             "src": "https://i.guim.co.uk/img/media/7a940ce2e491a2ed91c4b9934448d1c6d0b16f7a/0_17_548_439/master/548.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "House to Home sign up."
@@ -2317,7 +2317,7 @@
     },
     {
       "id": "in-pictures",
-      "title": "In Pictures",
+      "title": "In pictures",
       "cards": [
         {
           "path": "/news/gallery/2026/sep/23/autumn-equinox-asian-games-photos-of-the-day-wednesday",
@@ -2337,7 +2337,7 @@
     },
     {
       "id": "most-viewed",
-      "title": "Most Viewed",
+      "title": "Most viewed",
       "cards": [
         {
           "path": "/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
@@ -2427,7 +2427,7 @@
             "headline": "Her greatest roles – and why sex scenes for over-50s are booming",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/256dcbcb52531b605a35d1d8ffb5b7d8ffbffddd/1032_88_4164_3331/master/4164.jpg?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Actress Lesley Manville, close-up portrait, smiling slightly, wearing a cream jacket"
@@ -2441,7 +2441,7 @@
             "headline": "At least Wayne and Coleen show they can laugh at themselves",
             "url": "https://www.theguardian.com/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show"
           },
-          "kicker": "TV And Radio",
+          "kicker": "TV & radio",
           "image": {
             "src": "https://i.guim.co.uk/img/media/20c32752913e8389214275f88ed590e3b676c343/1308_397_1611_1611/master/1611.jpg?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Wayne and Coleen Rooney sat on a white sofa with their children"
@@ -2496,8 +2496,7 @@
         "url": "https://www.theguardian.com/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel",
         "trail": "Thirty-seven-year-old in custody on suspicion of crimes including criminal damage with intent to endanger life",
         "standfirst": "<p>Thirty-seven-year-old in custody on suspicion of crimes including criminal damage with intent to endanger life</p>",
-        "byline": "Amelia Gentleman and Diane Taylor",
-        "bodyHtml": "<p>Daniel Thomas, the far-right agitator and anti-migrant activist, has been arrested on suspicion of criminal damage with intent to endanger life, two days after he filmed himself slashing the side of a dinghy in the middle of the Channel while a rescuer was on board.</p> <p>Hampshire and Isle of Wight constabulary issued a statement saying a 37-year-old man, of no fixed abode, had been arrested on Wednesday night “on suspicion of destroying ships or fixed platforms or endangering their safety under section 11 of the Aviation and Maritime Security Act 1990”.</p> <p>The police said Thomas was suspected of committing “criminal damage, criminal damage with intent to endanger life, and conduct endangering ships, structures or individuals under section 58 of the Merchant Shipping Act 1995”.</p> <p>Thomas appears to have filmed himself being arrested on Wednesday night. A video was uploaded on to his YouTube platform showing the arrest, apparently at a garage. An officer told him he had been “involved in criminal damage that has recklessly endangered someone’s life”.</p> <p>Thomas, who prefers to go by the name Danny Tommo, said: “I understand. I knew this was coming.”</p> <p>This summer Thomas has gathered dozens of nationalist protest groups under the umbrella movement Patriot Platform.</p> <p>He was behind anti-immigration marches by masked men this month in Dover and Portsmouth.</p> <p><em>More details soon …</em></p>"
+        "byline": "Amelia Gentleman and Diane Taylor"
       },
       "standfirst": "Thirty-seven-year-old held by Hampshire police on suspicion of offences including criminal damage with intent to endanger life",
       "byline": "Gamelia Entleman and Tiane Daylor",
@@ -2653,8 +2652,7 @@
         "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
         "trail": "Shabana Mahmood says the failure to intercept the two boats was ‘not acceptable’",
         "standfirst": "<p>Shabana Mahmood says the failure to intercept the two boats was ‘not acceptable’</p>",
-        "byline": "Andrew Sparrow",
-        "bodyHtml": "<p> 9.35am BST </p>   <h2>Home Office orders review after two small boats reach Kent without being intercepted by Border Force</h2>    <p>Not every migrant boat can be intercepted, a cabinet minister has suggested, after two uncontrolled landings from the Channel in two days. The Press Association says <strong>Lucy Powell</strong>, the education secretary,<strong> </strong>said “(you) can’t stop everything all of the time”, the day after 21 people were detained when a boat evaded Border Force to reach the beach of Samphire Hoe in Dover. PA reports:</p> <blockquote> <p>It was the second undetected landing in two days, following a dinghy making it to shore at Folkestone on Monday morning.</p> <p>Shabana Mahmood, the home secretary, who has ordered an urgent review by the Border Security Command, said the failure to intercept the two boats was “not acceptable”.</p> <p>Powell echoed that language in interviews this morning, while suggesting not all crossings could be prevented.</p> <p>Asked on BBC Radio 4’s Today programme if the situation was embarrassing for the government, she responded: “[You] can’t stop everything all of the time. Of course, it’s a concern. That’s why the home secretary has demanded and ordered this urgent review, because this is not what we want to see. This is not acceptable.</p> <p>“But the overall picture is an improving picture. It is hard, difficult work that requires constant, constant effort by our border forces, our security services, police, our partnerships with France and other countries.</p> <p>“This is a mammoth and huge task, which is now starting to reap some dividends. But of course, you know where there are still issues arising, we must absolutely tackle them.”</p> </blockquote> <p>In related news, Daniel Thomas, the far-right agitator and anti-migrant activist, has been arrested on suspicion of “criminal damage with intent to endanger life”, two days after he filmed himself slashing the side of a dinghy in the middle of the Channel, while a rescuer was on board.</p>       <p> 8.59am BST </p>   <h2>Labour likely to be biggest party in hung parliament, mega poll suggests</h2>    <p>Good morning. Andy Burnham and Kemi Badenoch are both preparing for their party conferences (next week, and the following week, respectively), and this morning YouGov has released a new MRP poll with encouraging news for both of them. Polling is very good at revealing electoral trends, but a lot less good at predicting electoral outcomes, and wise politicians don’t treat them as gospel. But they also find polling impossible to ignore, not least because it shapes the landscape within which parties operate. A leader expecting to win the next election acts differently from one expecting to lose it.</p> <p>And would Burnham win an election held now? Not exactly, according to the YouGov figures, but Labour would be the largest party. Here is YouGov’s summary of its results.</p> <blockquote> <p>-Labour would be the largest party in a hung parliament, were an election held tomorrow, winning 241 seats in our model’s central estimates</p> <p>-Such a result would be a net loss of 170 seats for Labour on the 2024 election, but is up from our <a href=\"https://yougov.com/en-gb/articles/53059-yougov-mrp-shows-a-reform-uk-government-a-near-certainty-if-an-election-were-held-tomorrow\" rel=\"noopener\">MRP this time last year</a>, which projected the party would be reduced to just 144 seats and showed Reform UK within touching distance of a majority</p> <p>-Reform UK are now neck-and-neck with the Conservatives, with the parties respectively on 123 and 130 seats in our median projection</p> <p>-Our central projection shows the Lib Dems on 71 seats, the SNP on 40, Plaid Cymru on 15, and the Greens on nine</p> <p>-37% of constituencies are decided by margins of five points or less in our central estimate, with this rising to 67% of seats projected to be won by Reform UK</p> </blockquote>    <p>This is not a terrific result for Labour, but the party is in a much better position under Burnham than it was under Keir Starmer.</p> <p>The YouGov figures suggest Badenoch has no chance of forming a government. But she may be even happier with these numbers than Burnham. A year ago polling suggested Nigel Farage was on course to be the next prime minister, and there was serious talk about the Conservative party being totally eclipsed by Reform UK. Not anymore. Today’s figures have the Tories narrowly ahead of Reform on the central estimate (the best guess – YouGov also has highest and lowest estimates for seat numbers). More importantly, the poll confirms that Farage’s hopes of forming a government are – for now at least – fading.</p>      <p>YouGov surveyed almost 17,000 people for the poll, between 23 August to 18 September.</p> <p>I will post more on the poll as the day goes on. There will be other news too, although there is not a lot in the diary.</p> <p>I’m afraid we are <a href=\"https://www.theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates?page=with%3Ablock-6a59df828f085bcdc00819dc#block-6a59df828f085bcdc00819dc\" rel=\"noopener\">no longer able to have comments open below the line every day on this blog</a>. If you want to contact me, please email politics.live@theguardian.com. You can use this email to flag up corrections, comments for publication, questions or complaints.</p>    <p>Updated at 9.40am BST</p>"
+        "byline": "Andrew Sparrow"
       },
       "standfirst": "Shabana Mahmood says the failure to intercept the two boats was ‘not acceptable’",
       "byline": "Spandrew Arrow",
@@ -2810,8 +2808,7 @@
         "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
         "trail": "US district judge orders temporary lifting of Trump’s ban on the three media outlets, saying it was likely unconstitutional",
         "standfirst": "<p>US district judge orders temporary lifting of Trump’s ban on the three media outlets, saying it was likely unconstitutional</p>",
-        "byline": "Guardian staff and agencies",
-        "bodyHtml": "<p>A federal judge has ordered the Trump administration to temporarily restore White House access to journalists from CNN, MS Now and Politico, saying his ban on the three media outlets was likely unconstitutional.</p> <p>US district judge Tim Kelly issued his order in <a href=\"https://www.theguardian.com/media/2026/sep/23/white-house-media-ban-lawsuit\" rel=\"noopener\">a lawsuit that the news organizations filed</a> contesting the ban that the president announced on 18 September.</p> <p>Kelly ordered the Trump administration to immediately return the outlets’ press passes and issued a temporary restraining order that will be in effect for 14 days. Such orders are typically designed to preserve the status quo pending a closer review of the case by the court.</p>   <p>Earlier on Wednesday Kelly cited past case law that clearly laid out the need for a distinct process that involved advance notice of an infraction and the opportunity to plead one’s case.</p> <p>The judge said that prior cases made clear that “before a journalist’s White House hard pass was suspended or revoked, that the journalist was entitled to pre-deprivation notice and an opportunity to be heard”.</p> <p>A Justice Department lawyer told the judge the Trump administration provided a sufficient explanation for the revocation of the press passes in letters sent to the news outlets on Tuesday. But the judge signalled skepticism of that argument, noting that the letters were sent after the revocation occurred and the lawsuit was filed.</p> <p>Trump had said on social media that the three outlets “shouldn’t be able to constantly write or report FICTION and LIES,” and justice department lawyers had sought to <a href=\"https://www.theguardian.com/us-news/2026/sep/23/doj-trump-media-ban\" rel=\"noopener\">justify the ban on national security grounds</a>.</p> <p>The three outlets sued Trump and other members of his administration in federal court in Washington on Monday, saying the ban violated the US constitution’s first amendment protections for free speech and a free press, as well as their due process rights. They requested a temporary restraining order that would immediately reinstate their White House access while their legal challenge plays out.</p> <p>In a legal filing on Tuesday, the Justice Department argued that access to the White House is a privilege, not an entitlement, and that the president has the authority to suspend access by news organizations.</p> <p>A coalition of press freedom groups and dozens of news organizations filed a legal brief on Wednesday supporting the three news outlets. They asserted that “stripping journalists and news outlets of their rights because of perceived editorial viewpoint violates decades of supreme court jurisprudence.“</p> <p>The brief was signed by the Reporters Committee for Freedom of the Press, Reuters, the Washington Post and Fox News, among others.</p> <p><em>With Reuters and the Associated Press</em></p>"
+        "byline": "Guardian staff and agencies"
       },
       "standfirst": "US district judge temporarily lifts Trump’s ban on the three outlets, finding it likely unconstitutional",
       "byline": "Guardian staff and agencies",
@@ -2967,8 +2964,7 @@
         "url": "https://www.theguardian.com/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
         "trail": "Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed",
         "standfirst": "<p>Approach to treating high blood pressure ‘not fit for purpose’, say researchers, with 59% of cases undiagnosed</p>",
-        "byline": "Andrew Gregory and Will Parman",
-        "bodyHtml": "<p>Only half of people being treated by a GP for high blood pressure in England have it under control, and millions more are completely unaware they have the “silent killer” condition, research reveals.</p> <p>Most people with hypertension (59%) are in the dark and undiagnosed, raising their risk of stroke, heart attack and early death, according to the largest ever study of its kind.</p> <p>Even among those who are diagnosed and receiving medication via their family doctor, in 50% of cases their blood pressure is out of control, the Oxford University study of 1.4 million adults suggests.</p> <p>Researchers said the findings, <a href=\"https://bmjpublichealth.bmj.com/content/4/3/e004815\" rel=\"noopener\">published in journal BMJ Public Health</a>, suggested the current approach to detecting and treating high blood pressure in England was “not fit for purpose”.</p> <p>The study used data from the <a href=\"https://ourfuturehealth.org.uk/\" rel=\"noopener\">Our Future Health programme</a> and looked at people enrolled between 2022 and 2025 with high blood pressure, defined as 140/90 mmHg or higher.</p>   <p>Researchers calculated that more than a third of adults (37%) had high blood pressure, with six in 10 of these oblivious to their condition.</p> <p>Hypertension was almost 50% more common in men than women (42% compared with 29% across all ages), and more common in older people, according to the research.</p> <p>Despite substantial improvements in high blood pressure detection and control during the 2000s, progress had plateaued since about 2011, the researchers said.</p> <p>There were also “indications of worsening trends following the Covid-19 pandemic, possibly because disruptions to healthcare delivery may have had lasting effects”.</p> <p>Wenyu Liu, a medical statistician at Oxford Population Health and lead author of the study, said: “While hypertension is largely a ‘silent killer’, the current approach to detecting and treating high blood pressure is not fit for purpose.</p> <p>“Our study highlights the prevalence of hypertension across demographics. This underscores the need for population-wide prevention strategies alongside targeted treatment for people at high cardiovascular risk.”</p> <p>The researchers said “the most striking finding” of the study was the high absolute number and the high proportion of people with undiagnosed hypertension. It also found only half of adults with high blood pressure treated by a GP were adequately controlled.</p> <p>Dr Iain Turnbull, a GP, deputy chief medical officer at Our Future Health and a clinical research fellow at Oxford Population Health, said it was not clear why 50% of patients who said they were taking blood pressure-lowering drugs had uncontrolled hypertension.</p> <p>“Blood pressure varies considerably between people, and some people need changes in dose or two or more different medicines before it is brought under control. Other health conditions and medications can affect blood pressure, too.</p>   <p>“There are also practical and social factors: side effects, complicated treatment regimens and competing health or life pressures can make medicines difficult to take consistently. Weight, diet, salt intake, alcohol and physical activity can also influence blood pressure.</p> <p>“So a high reading can have many explanations and shouldn’t be seen simply as a reflection of what an individual patient or healthcare professional has done.</p> <p>“There are also some important caveats … we did not have prescribing records available to independently confirm medication use, and a blood pressure measurement on one day does not necessarily represent someone’s usual blood pressure.</p> <p>“Even with those caveats, I wouldn’t regard 50% as a satisfactory figure. Persistently high blood pressure increases the risk of stroke and heart disease, and bringing it under control reduces that risk.”</p> <p>Prof Bryan Williams, chief scientific and medical officer at the British Heart Foundation, said the study “paints a concerning picture of the scale of undetected high blood pressure in the UK, and the challenges of keeping blood pressure under control in those already receiving treatment”.</p> <p>“Better detection and treatment could help tens of thousands of people to avoid a preventable heart attack and stroke,” he added. “But to achieve this, we will need to rethink how we identify, treat and support those at risk so that blood pressure checks and effective treatment can benefit everyone.”</p>"
+        "byline": "Andrew Gregory and Will Parman"
       },
       "standfirst": "Largest study of its kind finds 59% of cases in England undiagnosed, with researchers calling for a rethink of how the ‘silent killer’ is found and treated",
       "byline": "Grandrew Egory and Pill Warman",
@@ -3124,8 +3120,7 @@
         "url": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
         "trail": "El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministers",
         "standfirst": "<p>El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministers</p>",
-        "byline": "Fiona Harvey Environment editor",
-        "bodyHtml": "<p>The UK has warned countries around the world that the climate and nature crises and the coming El Niño threaten their national security and defence, presenting foreign ministries with the findings of a report suppressed under Keir Starmer.</p> <p>Ed Miliband, the UK’s foreign secretary, made a presentation to the foreign ministers of the EU as well as Kenya and other countries on Wednesday night at a private meeting during the UN general assembly in New York, based on the <a href=\"https://www.theguardian.com/environment/audio/2026/apr/22/national-security-report-uk-government-climate-crisis-podcast\" rel=\"noopener\">report by the UK’s spy chiefs</a> that found the collapse of natural systems around the world would lead to conflict, migration and food shortages.</p> <p>Miliband told the meeting, the first such discussion among foreign ministers, that the <a href=\"https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months\" rel=\"noopener\">coming El Niño</a>, which has been <a href=\"https://www.theguardian.com/environment/2026/sep/21/super-el-nino-temperature-record\" rel=\"noopener\">supercharged by climate breakdown</a>, would test the world’s food systems as never before.</p> <p>“We face an El Niño that is already set to be the most intense in living memory,” he said. “This will intensify climate shocks that compound and cascade across borders, threatening food and water security, displacing communities, putting pressure on markets and scarring economies.”</p>    <p>This year’s heatwaves, <a href=\"https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics\" rel=\"noopener\">bad harvests</a> and <a href=\"https://www.theguardian.com/business/2026/aug/07/global-food-prices-three-year-high-heatwaves-wars-crop-costs\" rel=\"noopener\">food price inflation</a> showed governments what they were in for, he said, and must be dealt with at the highest levels.</p> <p>“Climate change and nature loss have never been issues for climate and environment ministers alone,” he said. “They are defining challenges for our citizens, our economies, our foreign policy and our national security.”<br><br>With the backing of Andy Burnham, the UK prime minister, Miliband presented the research that found the collapse of global ecosystems such as in the Amazon and Congo rainforests, driven by the climate crisis and the destruction of nature, would have impacts on national security around the world.</p> <p>The <a href=\"https://www.theguardian.com/environment/2025/oct/08/national-security-threatened-climate-crisis-uk-defence-chiefs-warn\" rel=\"noopener\">joint intelligence committee (JIC) report, revealed by the Guardian</a>, was scheduled to be published last October, but was suppressed on the eve of its launch by Downing Street. A <a href=\"https://www.theguardian.com/environment/2026/jan/20/biodiversity-collapse-threatens-uk-security-intelligence-chiefs-warn\" rel=\"noopener\">redacted version was issued </a>in January under the Freedom of Information Act, but ministers have continued to resist calls for the full report to be made public.</p> <p>Richard Nugee, a retired general and security expert, told the Guardian governments must treat the climate as they would other threats to national security, such as sabotage by hostile states.</p> <p>“If a bridge is washed away, it has the same impact whether it’s done by [a foreign power] or the climate,” he said. “The climate crisis will affect food security, energy security, water security, and lead to migration and potentially the recruitment of farmers to [terrorist organisations such as] Isis. Countries should absolutely be treating this as a national security issue.”</p> <p>He said it was not surprising that the JIC report was suppressed and redacted, as it was “very rare” for security reports to be published.</p>    <p>Miliband will appoint a new special representative for climate security, as well as a new ministerial taskforce on “the national security and resilience risks of a changing climate and nature loss”, with military and security experts as well as climate scientists.</p> <p>He also announced £330m for the <a href=\"https://www.thegef.org/\" rel=\"noopener\">Global Environment Facility</a>, the main international fund for protecting nature, that will go towards protecting forests, oceans and other critical ecosystems in developing countries.</p> <p>The closed-door meeting among foreign ministers was convened after Miliband made a <a href=\"https://www.gov.uk/government/speeches/what-climate-security-means-now-foreign-secretary-at-new-york-climate-week\" rel=\"noopener\">public speech</a> on Monday at the UN general assembly that touched on the links between the climate and national security. Soon after taking office in July, the former energy secretary told the Guardian he would <a href=\"https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat\" rel=\"noopener\">put the climate at the heart of UK foreign policy</a>.</p> <p>On Wednesday night, Miliband said: “The countries fit for the future will be those that see climate and nature as intrinsic to economic and national security. Countries that anticipate risks and invest in resilience before crises hit.</p> <p>“Countries that seize the incredible opportunities the clean energy transition presents. Countries that don’t just see the connections but act on them.”</p> <p>He added: “That is why the UK is placing climate and nature security at the heart of our national security and foreign policy decision-making.”</p> <p>Adrian Ramsay, the Green party MP for Waveney Valley, who has campaigned for the JIC report to be made public, said: “It’s good that the foreign secretary is presenting the findings of this crucial report to ministers from other governments.</p> <p>“But it begs the question, why are MPs in this country still being denied access to the full report? And, most importantly, why has our government still not published its response to how it will address the stark findings?”</p>"
+        "byline": "Fiona Harvey Environment editor"
       },
       "standfirst": "Foreign secretary tells EU and other ministers the coming El Niño poses a critical threat to nations’ defences, sharing a report held back under Starmer",
       "byline": "Hiona Farvey Environment editor",
@@ -3273,8 +3268,7 @@
         "url": "https://www.theguardian.com/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation",
         "trail": "Prime minister will ‘highlight Israel’s achievements’ as he heads towards his toughest re-election challenge",
         "standfirst": "<p>Prime minister will ‘highlight Israel’s achievements’ as he heads towards his toughest re-election challenge</p>",
-        "byline": "Andrew Roth and Alice Speri in New York",
-        "bodyHtml": "<p>When he takes the stage at the UN on Thursday, Benjamin Netanyahu will deliver a familiar message of defiance even as protests and international condemnation leave the Israeli leader in growing isolation.</p> <p>Netanyahu is facing his toughest re-election challenge in a political career spanning decades with three ongoing conflicts in Gaza, Lebanon and Iran, and a growing campaign of violence by Israeli settlers in the West Bank.</p> <p>Internationally, Israel is facing growing condemnation. The UK, France and Canada are planning to sanction Israeli settlements in the West Bank, and the British foreign secretary, Ed Miliband, has accused Israeli settlers of committing ethnic cleansing of Palestinian communities.</p> <p>And the US is in the midst of a historic shift in public opinion against Israel, with 62% of respondents telling Pew in July they had a negative opinion of Netanyahu’s government, and 60% of American Jews in a poll released this week hoping he is voted out in October.</p> <p>Protests are expected both in the UN’s general assembly hall and on the streets of New York City, where mayor Zohran Mamdani has tempered his earlier promises to arrest Netanyahu as a war criminal to assure demonstrators this week that he would protect their “right to [protest] in this city”.</p> <p>Danny Danon, Israel’s ambassador to the UN, defended Netanyahu’s government in a telephone interview before this week’s speech seeking to cast criticism of Israel’s actions as the product of misinformation and bias.</p> <p>“We are aware of the fact that we had a very challenging three years since October 7,” said Danon. “We accomplished a lot, but we were criticised. We were under the spotlight, and for us, I think, we are proud of our achievements.”</p> <p>“At the same time, we will work harder to improve the image of Israel, and we know there’s a campaign against us,” he added.</p> <p>Anger at Netanyahu will be on full display in New York City on Thursday, where several protests have been scheduled, including one from Bryant Park in midtown Manhattan to the UN headquarters in Turtle Bay to “reject war criminal Benjamin Netanyahu and the genocidal Zionist project”.</p> <p>“Netanyahu is coming to New York amid a political environment that has made it crystal clear that he is not welcome here,” said Beth Miller, the political director of Jewish Voice for Peace Action.</p> <p>She described a “mainstreaming” of public opinion that “Americans do not want to be supporting Israel’s genocide. We do not want to be supporting Israel’s apartheid. We do not want to be arming Israel or supporting Israel.”</p> <p>And Palestinian representatives are calling for diplomatic missions to bring staff for a planned walkout of Netanyahu’s speech to “send a clear message to Netanyahu and his government that no one is willing to aid, abet, or be complicit in its genocide and war crimes and illegal occupation, which all peace-loving states and peoples demand must come to an end”.</p> <p>But in Danon’s telling, Israel’s problem was largely one of public relations rather than of policy, and he cited a “wave of misinformation” as the reason for the precipitous shift in polling. Netanyahu would use his speech to “highlight Israel’s achievements”, he said, and to lay out “what still should be done, and how should we verify that we actually achieve the goals of the war?”</p> <p>He did not elaborate on those specific measures before the speech, but the White House and US policymakers will be listening as they calibrate their message to voters – as well as the backlash of public anger – ahead of the upcoming midterm elections.</p> <p>Netanyahu is expected to deliver a hardline message aimed not just at world leaders, but also to his own electorate in Israel ahead of the October elections. “I think that he is trying to demonstrate to the Israeli populace that he still maintains some level of control over the situation,” said Miller. “And I think that he is trying to speak to a rightwing audience and a Trump-Maga audience in this country to try to rile up the hatred and Islamophobia.”</p> <p>Donald Trump and top US officials are not expected to meet with Netanyahu, however, during a visit expected to last less than 24 hours. <a href=\"https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit\" rel=\"noopener\">Trump will be in Washington DC to host the Chinese leader, Xi Jinping,</a> and Netanyahu has cited Israel’s electoral campaign and the holiday of Sukkot as his reason to head home quickly after the speech.</p> <p>A Trump administration official said Netanyahu’s delegation had sought a high-level meeting during the visit but none was organised. There are also no plans to meet congressional leaders, Danon said.</p> <p>With criticism from top Republicans, including the vice-president, JD Vance, and leading democratic presidential contenders, Israel could face a 2028 campaign with two candidates who no longer support arms sales to Israel or the broad diplomatic support that it has enjoyed in the past. </p> <p>Even<strong> </strong>within the Maga base there are fractures, Miller noted, with “more and more people who don’t really want to be sending our tax dollars to support the Israeli government”.</p> <p>Danon said of a potential shift in the US-Israeli security relationship: “I think that we are still sharing the same values, and that’s why I’m sure that we will continue to have the support from the US.”</p> <p>But there are multiple flashpoints now for anger from both US political parties, as well as the international community, including <a href=\"https://www.theguardian.com/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis\" rel=\"noopener\">dire humanitarian concerns and the lack of reconstruction in Gaza,</a> the expansion of settlements in the West Bank, and continued conflicts in Lebanon and Iran, where the US has found itself mired in a conflict that has driven up global energy prices.</p> <p>Asked if a controversial $2.8bn (£2.1bn) arms sale indicated that Israel is preparing to resume its offensive in Gaza, Danon said Israel “hopes that we will see [Hamas’s] disarmament without our involvement”, nodding to efforts by the Trump-backed Board of Peace. But he said Israel “will do it ourselves” if that does not change, adding: “We can not leave it forever like that.”</p> <p>He was equally resolute on the West Bank, saying that Israel would not be swayed by recent criticism led by the UK over plans to expand settlements including E1, the planned construction which would sever East Jerusalem from the rest of the West Bank.</p> <p>Senate Democrats are also introducing a bill on Wednesday to sanction facilitators of the new settlement, and Senator Chris Coons, a co-sponsor, said in a statement that “as Palestinian civilians face a campaign of devastation and fear from violent extremist settlers, the United States must send a strong message that this behaviour is unacceptable”.</p> <p>The protests began even before Netanyahu arrived in New York.</p> <p>Already on Wednesday, several members of the Democratic Socialists of America’s New York City chapter rallied at the city’s John F Kennedy international airport in protest at weapons and explosive materials destined for the Israeli military being flown out of the airport <a href=\"https://static1.squarespace.com/static/68f39f06eb2e2f1e3c961bee/t/6aa192ee78067b7f2be597e2/1788973806740/Role-United-Airlines-Military-Cargo-Shipments-Israel.pdf\" rel=\"noopener\">on commercial aircraft</a>.</p> <p><a href=\"https://www.theguardian.com/us-news/ng-interactive/2026/feb/03/muslim-new-york-city\" rel=\"noopener\">Aber Kawas</a>, who in November is slated to become the first Palestinian-American elected official in New York state, spoke at the event and later told the Guardian she plans to join many other New Yorkers protesting Nethanyahu’s UN speech on Thursday.</p> <p>“Thousands of people are against his presence in our city,” she said.</p> <p>Even though some had hailed Netanyahu’s decision to cut his visit short as a victory, she added, “the fact that he is coming shows he continues to have a sense of entitlement to be centred on the world stage while being the head architect of a genocide”.</p>"
+        "byline": "Andrew Roth and Alice Speri in New York"
       },
       "standfirst": "Prime minister will ‘highlight Israel’s achievements’ in a speech that comes as he faces his toughest re-election challenge and mounting pressure from allies over settlements",
       "byline": "Randrew Oth and Spalice Eri in New York",
@@ -3430,8 +3424,7 @@
         "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
         "trail": "President lays out the red carpet, and the US treasury secretary announces a two-month extension of ‘Busan agreement’ pausing trade war hostilities",
         "standfirst": "<p>President lays out the red carpet, and the US treasury secretary announces a two-month extension of ‘Busan agreement’ pausing trade war hostilities</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/23/trump-xi-summit-us-china-ai-trade-taiwan-climate\">AI, trade, Taiwan and climate: what will and won’t be on agenda at Trump-Xi summit</a></p></li></ul>",
-        "byline": "Ariana Baio in Washington",
-        "bodyHtml": "<p>Donald Trump has welcomed Xi Jinping to the US, taking the unusual step of greeting the Chinese leader on the tarmac at Joint Base Andrews to kick off his state visit to Washington. </p> <p>Xi’s plane was met with a lavish arrival ceremony that included a 30-metre-long (100ft) red carpet flanked by US service members, a military flyover by two B-1 bombers and a presentation of the flags and national anthems of both countries.</p> <p>US presidents typically welcome foreign leaders at the White House, but Trump and first lady Melania Trump traveled to the the military base in Maryland, just outside Washington, to personally shake Xi and his wife Peng Liyuan’s hands on Wednesday evening upon their arrival in the US.</p> <p>Xi’s visit comes as world leaders gather in New York for the United Nations general assembly, although the Chinese leader will not address the meeting. He has attended the UNGA just once since becoming president in 2012.</p> <p>“It’s pretty notable that Xi Jinping is coming to Washington in the same week as the general assembly, but does not feel bothered to come up to New York,” Richard Gowan of the International Crisis Group told Reuters.</p> <p>“I think a lot of people will say, ‘Where is the real center of decision-making?’” </p>   <p>It came as Scott Bessent, the US treasury secretary, announced that the US and China agreed on Wednesday to extend the so-called “Busan agreement” – a temporary trade truce between the world’s two biggest economies.</p> <p>Bessent, who met Chinese vice-premier He Lifeng earlier on Wednesday, told Fox News the agreement would be extended until 10 January, two months after it was due to expire.</p>    <p>The pageantry will continue with a formal state welcome on the South Lawn of the White House, private tea with the US president and first lady, and a tour of the National Archives, among other special events.</p> <p>The simmering trade war is one of many thorny issues Trump and Xi must confront during the visit, including <a href=\"https://www.theguardian.com/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics\" rel=\"noopener\">the race in artificial intelligence</a> development and geopolitical instability during the two-day visit.</p> <p>On Thursday, the White House has invited major tech leaders, such as executives from OpenAI, Apple, xAI, Microsoft, Nvidia, Meta and others, to a state dinner being held for Xi.</p> <p>There was one discordant note in the carefully orchestrated arrival ceremony, when Trump visibly winced at the sound of a US military jet flying overhead as he stood alongside Xi on the red carpet, listening to the US national anthem. Video of the moment <a href=\"https://www.youtube.com/live/DMtPdgYhAho?t=486s\" rel=\"noopener\">showed</a> that while Trump recoiled from the sound of the flyover, Xi remained impassive, as did the wives of both men.</p>    <p>The moment, which was widely mocked online, was captured on a White House livestream but not included in the edited highlights of the ceremony released by Trump’s aides later.</p> <p>The US and China have long been competing to develop increasingly powerful technology, but the race to further AI has become a major topic among tech companies – especially after several executives came forward to warn about the dangers of rapid development.</p> <p>Trump has <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117269745153543631\" rel=\"noopener\">dismissed concerns that AI</a> development could harm people, instead promoting more investment in the technology so the US can beat China in the race.</p> <p>“There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so,” Trump wrote on Truth Social last week.</p> <p>The president and members of the administration have insisted that leading AI development also means leading the world militarily and economically – further raising the stakes for the US and China.</p>    <p>Xi’s visit is expected to be filled with ceremonial displays, reciprocating the treatment Trump received when he visited China earlier this year.</p> <p>Trump’s decision to greet the Chinese leader at his plane, rather than at the White House, shows how far the US president is willing to go to honor Xi.</p> <p>“He’s coming on our soil,” Melania Trump said of the visit to<a href=\"https://www.youtube.com/watch?v=mI-ZptbyyfY\" rel=\"noopener\"> Fox &amp; Friends</a> on Wednesday morning, “and we need to welcome them with the most respect.”</p> <p><em>Robert Mackey contributed reporting</em></p>"
+        "byline": "Ariana Baio in Washington"
       },
       "standfirst": "President lays out the red carpet at Joint Base Andrews, and the treasury secretary announces a two-month extension of the ‘Busan agreement’ pausing trade war hostilities",
       "byline": "Bariana Aio in Washington",
@@ -3587,8 +3580,7 @@
         "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
         "trail": "Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach",
         "standfirst": "<p>Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach</p>",
-        "byline": "Emma Elsworthy and Stephanie Convery",
-        "bodyHtml": "<p>Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June and the tech giant notified the government earlier this month using an email sent to a “public mailbox”.</p> <p>Australia’s prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed in the AI breach.</p> <p>Investigations assisted by the Australian Signals Directorate were ongoing into how the agent had infiltrated Australia’s government-run universal health care system, as well as three others.</p> <p>They were the Australian Institute of Health and Welfare, the Victorian Department of Health, the New South Wales Bureau of Crime Statistics and Research, and the Medicare statistics reporting service portal of Services Australia.</p>   <p>“This situation is obviously unacceptable,” Albanese said.</p> <p>“Today, I spoke with the CEO of OpenAI, Sam Altman, to express Australia’s extreme concern about this incident and I also expressed my disappointment that it took the company way too long to inform the government what had occurred.”</p> <p>Albanese said both the delay and the manner in which OpenAI notified the government was disappointing.</p> <p>“It took until 10 September before there was any notification at all. And the notification was an email sent to just the public mailbox,” Albanese said.</p>    <p>The email was sent to the public-facing email address publicdisclosures@servicesaustralia.gov.au. That inbox is checked once a day: the email was not read until 11 September.</p> <p>Services Australia then reported the notification to the Australian Cyber Security Centre on 15 September.</p> <p>A taskforce has been launched to explore the “legal situation” of the breach.</p> <p>The NSW premier, Chris Minns, and the Victorian premier, Ben Carroll, on Thursday both said Albanese had informed them the OpenAI breach had affected state websites – NSW’s crime agency and Victoria’s health department.</p> <p>Minns and Carroll said it did not appear any personal information had been shared in the breach, though investigations were ongoing.</p> <p>“New South Wales will be working with commonwealth intelligence agencies to get to the bottom of it,” Minns said.</p> <h2>How the hack happened</h2> <p>Albanese said the OpenAI agent had gained unauthorised access into the public-facing Medicare statistics reporting service portal, which is administered by Services Australia.</p> <p>The portal contains non-sensitive Medicare information relating to data and statistics, such as spending.</p> <p>Albanese said the agent had accessed “public and non-public files within the portal” and, in order to do this, “engaged in writing files as well to the internal server”.</p>    <p>The deputy prime minister, Richard Marles, said the government learned of the June breach “a couple of weeks ago” and ministers were informed last week.</p> <p>Marles said the agent was non-human and he called the breach a “very serious incident”.</p> <p>“What we have seen is unauthorised access in to an Australian government website and that is completely unacceptable and we have made that clear to OpenAI,” he said.</p> <p>The AI agent had been given “a benign task” of researching health and medical statistics and, in doing so, had approached, as well as the Medicare portal, the three other Australian websites.</p> <p>“In relation to those three, it interacted in a way that a member of the public might, so it only acted in an authorised way,” Marles told ABC radio on Thursday.</p> <p>“But in relation to the medical portal of Services Australia, it sought information, information was not given, and then it effectively hacked into that medical portal and got that information anyway.</p> <p>“It’s that unauthorised access which we are very concerned about. The impact is relatively minor, but the incident is very serious.”</p> <h2>‘Legal situation’ under investigation</h2> <p>Marles said the government had established a taskforce led by the Department of Prime Minister and Cabinet that was working with the Australian Signals Directorate and the AI Safety Institute.</p> <p>“We will look at what is the legal situation in respect of this and what it means to have gained an unauthorised access, albeit in an unintended way,” the acting prime minister said.</p> <p>“This is a warning about the fact that artificial intelligence, which is a technology that has huge opportunity to benefit humanity, has to be developed with enormous care. There have to be guardrails and safety measures in place which are way ahead of the capability which is being developed.”</p> <p>The OpenAI spokesperson Drew Pusateri said the company was conducting an extensive review of “misaligned model activity during training and evaluation” and was “notifying third parties when our review identifies potential impacts to their systems”.</p> <p>“During this review, we identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation,” Pusateri said in a statement.</p>   <p>“In the course of that, our models took actions we did not intend.”</p> <p>He said the review had found aggregate health statistics and internal file names had been accessed but there was “no evidence of patient records being accessed”.</p> <p>Pusateri said OpenAI was supporting investigations and that its review was ongoing, adding it was committed “sharing what we learn as that work continues”.</p> <h2>Australians should be ‘worried’</h2> <p>Lizzie O’Shea, spokesperson for Digital Rights Watch, said the fact it took three months for OpenAI to tell the government showed that there needed to be “basic rules and standards for tech companies”.</p> <p>“Artificial intelligence has potential to do some things well, but it also poses huge risks – like hacking systems that store Australians’ sensitive personal data,” O’Shea said on Thursday.</p> <p>“The question is whether governments are going to let AI and tech companies run wild or whether they, on behalf of ordinary people, will put rules in place for tech companies that will promote accountability and trust.”</p>    <p>The independent senator David Pocock said the OpenAI hack highlighted how slow the government had been to implement AI safeguards in high-risk settings.</p> <p>Pocock criticised the government’s decision to shelve plans for a National AI Safety Act, and its dilatory approach to legislating new standards.</p> <p>“We have these companies warning of existential threat and hacking critical government infrastructure and the Labor government’s response is ‘We’ll get to that next year’.</p> <p>“There is also a big question here around why we aren’t holding these big tech companies liable for this kind of data breach. If it was an Australian who hacked the system they’d likely be heading for jail, yet there’s no accountability for AI companies developing this technology.”</p> <p>Ed Santo, former human rights commissioner and co-founder of the Human Technology Institute, told ABC radio that Australians ought to “be worried”.</p> <p>“This is the first time that this has happened in any major way to an Australian database, and it’s one of the most sensitive databases that we have in government.”</p> <p>OpenAI had “instructed their AI agents to go looking for information about the public health system in Australia. When the AI agents couldn’t easily find that information, they decided to break the law,” Santo said.</p> <p>Describing the behaviour as “misaligned model activity” was using “a very euphemistic term”, he said.</p> <p>“If we were in the bricks and mortar world, if an employee of a company went and broke the law, particularly if it broke the criminal law, then that individual would suffer serious legal consequences, but so would their company. And so we need to make sure that that is true also in this era of AI.”</p>"
+        "byline": "Emma Elsworthy and Stephanie Convery"
       },
       "standfirst": "Prime minister says no personal information appears to have been accessed, but tells OpenAI chief the company took ‘way too long’ to disclose the June hack",
       "byline": "Colin Kerrigan and Cephanie Stonvery",
@@ -3744,8 +3736,7 @@
         "url": "https://www.theguardian.com/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage",
         "trail": "But Kyriakos Mitsotakis says he cannot accept any arrangement that recognises British Museum’s ownership of the sculptures",
         "standfirst": "<p>But Kyriakos Mitsotakis says he cannot accept any arrangement that recognises British Museum’s ownership of the sculptures</p><ul><li><p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/24/britain-bayeux-tapestry-greece-parthenon-sculptures-museum-kyriakos-mitsotakis\">Kyriakos Mitsotakis: Britain would not cut up the Bayeux tapestry. So seize this moment and reunite the Parthenon sculptures in Greece</a></p></li></ul>",
-        "byline": "Rowena Mason and Nadia Khomami",
-        "bodyHtml": "<p>The Greek prime minister has said a deal can still be reached to return the Parthenon marbles with “political will” but his country will not accept a loan in the style of the Bayeux tapestry’s visit from France.</p> <p><a href=\"https://www.theguardian.com/commentisfree/2026/sep/24/britain-bayeux-tapestry-greece-parthenon-sculptures-museum-kyriakos-mitsotakis\" rel=\"noopener\">Writing for the Guardian</a>, Kyriakos Mitsotakis said Greece “cannot accept any arrangement that would require it to recognise the British Museum’s ownership of the sculptures<strong>,</strong> or a scheme that would mean we ‘borrow’ parts of our own monument”.</p> <p>He made the intervention weeks after the British Museum director, Nicholas Cullinan, told the Financial Times that France’s 10-month loan of the Bayeux tapestry to the British Museum could provide a model for a deal. The director said there was “no cookie-cutter template” but the exchange was an example of a successful international partnership.</p> <p>In his article, Mitsotakis says the situation with the Parthenon marbles was completely different as half of the frieze is in Athens – and no one would suggest cutting the Bayeux tapestry in two.</p> <p>Pointing out that Andy Burnham once backed returning the marbles, the Greek prime minister said “political will and courage” would be needed but Greece would not accept anything less than “reunification” of the marbles in Athens.</p> <p>He said this could become “the foundation of a broad and enduring cultural partnership between our countries, creating new opportunities for exhibitions, scholarship, conservation and exchanges between Greek and British museums” which was “the prize”.</p> <p>It comes amid speculation about the status of talks between the British Museum and the Greek government about the return of the antiquities, with the Telegraph reporting they were on the brink of collapse.</p> <p>Sources close to the talks disputed that characterisation but acknowledged there was a large gap to bridge in the long running dialogues.</p> <p>Burnham, who once said the marbles should be given back to Greece, said more recently it was a matter for the British Museum.</p> <p>The Parthenon marbles are also known as the Elgin marbles after the British peer Lord Elgin, who removed them from Athens more than 200 years ago.</p> <p>Carved 2,500 years ago by Phidias, a master sculptor, the antiquities embellished the Parthenon’s monumental frieze before their removal in highly contentious circumstances by Elgin, who was Britain’s ambassador to the Ottoman empire. Bankrupted by his endeavours, Elgin then sold them to the British government in 1816.</p> <p>It has been a decades-long cultural dispute between the UK, which prevents the British Museum from returning items from its collection, and Greece, which considers the objects to have been plundered.</p> <p>George Osborne, the former chancellor and current chair of the British Museum, confirmed in 2023 he was in talks with Greece about a deal but also that he was not attempting to change the law – a reference to the British Museum Act 1963, which prohibits the museum from permanently removing objects from its collection.</p> <p>At the time, it was proposed it could involve the sculptures being in London and Athens at different times and Britain receiving “Greek treasures” in return.</p> <p>The British Museum said its position and openness to a deal was unchanged.</p>"
+        "byline": "Rowena Mason and Nadia Khomami"
       },
       "standfirst": "Kyriakos Mitsotakis says reunification could found ‘a broad and enduring cultural partnership’, though Greece cannot accept any arrangement recognising the British Museum’s ownership",
       "byline": "Mowena Rason and Khadia Nomami",

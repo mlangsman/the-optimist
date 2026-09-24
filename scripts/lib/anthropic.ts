@@ -46,8 +46,11 @@ export function checkModel(env: NodeJS.ProcessEnv = process.env): string {
   return env.OPTIMIST_CHECK_MODEL?.trim() || CHECK_MODEL;
 }
 
-/** A full rewritten body plus headline, standfirst and captions. */
-export const ARTICLE_MAX_TOKENS = 8000;
+/**
+ * A full rewritten body plus headline, standfirst and captions. Adaptive
+ * thinking is billed inside this cap, so leave room for a 3,000-word feature.
+ */
+export const ARTICLE_MAX_TOKENS = 16000;
 /** A headline and a 20–35 word trail. */
 export const PREVIEW_MAX_TOKENS = 400;
 /** A boolean and a short list of issues. */

@@ -8,7 +8,7 @@ import type { AnyNode } from 'domhandler';
 import type { Image, RawCard, RawContainer } from '../../src/lib/types.js';
 
 /** Words that should stay upper-cased when a container id is turned into a title. */
-const ACRONYMS = new Set(['uk', 'us', 'usa', 'eu', 'ai', 'tv', 'nhs', 'bbc', 'mp', 'mps']);
+const ACRONYMS = new Set(['uk', 'us', 'usa', 'eu', 'un', 'ai', 'tv', 'nhs', 'bbc', 'mp', 'mps', 'f1', 'nfl', 'nba']);
 
 /**
  * The highlights strip above #news has no id, only an inline custom property.
@@ -28,7 +28,55 @@ const CARD_ANCHOR_SELECTOR = 'a[data-link-name*="card-@"], a[data-link-name="art
 /** Matches the /YYYY/mon/DD/ segment every Guardian article path contains. */
 const DATE_SEGMENT = /\/\d{4}\/[a-z]{3}\/\d{1,2}\//;
 
-/** "climate-crisis-&amp;-environment" -> "Climate Crisis & Environment", "the-long-read-" -> "The Long Read". */
+/**
+ * Guardian section ids whose display name is not derivable from the slug.
+ * Anything not listed falls back to sentence-casing the slug.
+ */
+const SECTION_NAMES: Readonly<Record<string, string>> = {
+  commentisfree: 'Opinion',
+  'tv-and-radio': 'TV & radio',
+  artanddesign: 'Art and design',
+  lifeandstyle: 'Life and style',
+  'global-development': 'Global development',
+  'australia-news': 'Australia news',
+  'uk-news': 'UK news',
+  'us-news': 'US news',
+  thefilter: 'The Filter',
+  'the-filter': 'The Filter',
+  news: 'News',
+  world: 'World',
+  football: 'Football',
+  sport: 'Sport',
+  music: 'Music',
+  film: 'Film',
+  books: 'Books',
+  stage: 'Stage',
+  games: 'Games',
+  food: 'Food',
+  travel: 'Travel',
+  money: 'Money',
+  fashion: 'Fashion',
+  science: 'Science',
+  technology: 'Technology',
+  business: 'Business',
+  environment: 'Environment',
+  politics: 'Politics',
+  society: 'Society',
+  education: 'Education',
+  media: 'Media',
+  culture: 'Culture',
+  law: 'Law',
+  cities: 'Cities',
+  wellness: 'Wellness',
+  inequality: 'Inequality',
+  weather: 'Weather',
+};
+
+/**
+ * Sentence-case a container or section slug the way the Guardian labels it:
+ * "climate-crisis-&amp;-environment" -> "Climate crisis & environment",
+ * "the-long-read-" -> "The long read", "uk-news" -> "UK news".
+ */
 export function titleFromId(id: string): string {
   const cleaned = id
     .replace(/&amp;/g, '&')
@@ -37,12 +85,18 @@ export function titleFromId(id: string): string {
   const words = cleaned.split('-').filter((w) => w.length > 0);
   if (words.length === 0) return id;
   return words
-    .map((word) => {
+    .map((word, index) => {
       if (word === '&') return '&';
-      if (ACRONYMS.has(word.toLowerCase())) return word.toUpperCase();
-      return word.charAt(0).toUpperCase() + word.slice(1);
+      const lower = word.toLowerCase();
+      if (ACRONYMS.has(lower)) return lower.toUpperCase();
+      return index === 0 ? lower.charAt(0).toUpperCase() + lower.slice(1) : lower;
     })
     .join(' ');
+}
+
+/** Display name for a Guardian section id (the first path segment of a content path). */
+export function sectionNameFor(sectionId: string): string {
+  return SECTION_NAMES[sectionId.toLowerCase()] ?? titleFromId(sectionId);
 }
 
 /**
