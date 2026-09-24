@@ -215,8 +215,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'What strikes Owen Jones most: how many saw what was coming' is a teaser that states neither the argument nor the demand it implies (rules 4 and 6); turn it to face forward on the warnings that were given, e.g. that those who saw it coming should be heard."
+      ]
     }
   },
   {
@@ -255,10 +257,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'the human toll is a question of injustice' keeps the deaths as the headline's subject (rules 1 and 6); turn the editorial's injustice argument into the forward-facing demand it implies."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1683,6 +1683,56 @@
   },
   {
     "path": "/sport/2026/sep/16/colin-kaepernick-nfl-owners-ed-sheeran-macklemore-tour",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/sep/24/hanging-on-by-a-thread-11th-hour-decision-to-protect-endangered-birds-from-sa-space-project-plans-welcomed",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2026/sep/23/india-lost-art-public-debate-uttar-pradesh",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath",
     "kind": "preview",
     "ok": true,
     "issues": [],

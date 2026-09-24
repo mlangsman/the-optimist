@@ -4,7 +4,7 @@
     "kind": "article",
     "field": "standfirst",
     "severity": "warning",
-    "issue": "standfirst leans on \"warns\": \"The NUJ says government must step in and TUC delegates back intervention; the BBC cuts local specialist correspondent roles in a plan to save £500m, and the union warns it ‘risks entering inescapable doom spiral’\""
+    "issue": "standfirst leans on \"warns\": \"The NUJ says the government must step in as further cuts hit TV and radio, including 350 to 400 hours of audio and local specialist correspondent roles, in a plan to save £500m and shed up to 2,000 jobs; the union warns the BBC ‘risks entering inescapable doom spiral’\""
   },
   {
     "path": "/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates",
@@ -12,13 +12,6 @@
     "field": "trail",
     "severity": "warning",
     "issue": "trail leans on \"row\": \"Israeli prime minister Benjamin Netanyahu takes the stage after Mahmoud Abbas, longtime president of the Palestinian Authority, earlier gave his speech via a pre-recorded video for the second year in a row\""
-  },
-  {
-    "path": "/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Humanitarian aid organisations to benefit from Macklemore’s Free Palestine tour\""
   },
   {
     "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
@@ -32,14 +25,14 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"freefall\", \"warned\", \"worst\": \"How many saw what was coming strikes Guardian columnist Owen Jones most. The west is in freefall after western leaders’ endless pursuit of wealth and power, and the worst part is that we were warned\""
+    "issue": "trail leans on \"freefall\", \"warned\", \"worst\": \"The west is in freefall after western leaders’ endless pursuit of wealth and power, says the Guardian columnist, and the worst part is that we were warned but chose not to listen\""
   },
   {
     "path": "/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"Journalist Elle Hunt asks whether buying friends on an app is likely to help solve a crisis of loneliness, arguing that shortcuts work against the rewards of friendship\""
+    "issue": "trail leans on \"crisis\": \"Authentic relationships can surely only be forged when you’re not expecting a return on your money, says the journalist, asking whether buying friends on an app is likely to help solve a crisis of loneliness\""
   },
   {
     "path": "/society/2026/sep/24/how-labour-could-solve-the-youth-jobs-crisis",
@@ -53,7 +46,7 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fear\": \"Ukrainians in the UK fear homelessness over the host scheme funding cuts, which reduce the monthly payments to people who house refugees from next year\""
+    "issue": "trail leans on \"fear\": \"Payments to people who house refugees fall from £350 to £100 from next year, and Ukrainians in the UK fear homelessness over the host scheme funding cuts\""
   },
   {
     "path": "/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
@@ -67,7 +60,7 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"furious\": \"Your favourite band’s favourite band unleash furious originality fuelled by cathartic aggression – monstrous noise whose precise instrumental source always remains discomfitingly unclear\""
+    "issue": "trail leans on \"furious\": \"Your favourite band’s favourite band unleash furious originality fuelled by cathartic aggression and absurdist confessions – monstrous noise whose precise instrumental source always remains discomfitingly unclear\""
   },
   {
     "path": "/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america",
@@ -81,14 +74,14 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"devastating\": \"‘How do you get a result without contacting a newspaper?’ She solves readers’ consumer problems, from the devastating to the ridiculous, and explains how companies keep getting away with terrible customer service\""
+    "issue": "trail leans on \"devastating\": \"‘How do you get a result without contacting a newspaper?’ In her weekly Guardian column she solves readers’ consumer problems, from the devastating to the ridiculous – and explains how companies keep getting away with terrible customer service\""
   },
   {
     "path": "/society/2026/sep/22/the-rise-of-big-toothbrush",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"The rise of Big Toothbrush: how our mouths became such a lucrative market – even as we remain in the midst of a serious dental crisis\""
+    "issue": "trail leans on \"crisis\": \"Prebiotic toothpastes and brushes costing up to £600 mark the rise of Big Toothbrush and how our mouths became such a lucrative market – yet we remain in the midst of a serious dental crisis\""
   },
   {
     "path": "/wellness/2026/sep/23/eye-irritation-care-expert",
@@ -116,7 +109,7 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"threat\": \"The US president has directed the Pentagon to match Russia and China in nuclear weapons testing, a threat made after Russian nuclear-powered weapons tests and shortly before the meeting\""
+    "issue": "trail leans on \"threat\": \"The US president makes the threat after Russian nuclear-powered weapons tests and shortly before his meeting with the Chinese leader\""
   },
   {
     "path": "/media/2026/may/18/bbc-staff-strike-director-general-matt-brittin-first-day",
@@ -133,13 +126,6 @@
     "issue": "trail leans on \"threat\", \"warns\": \"The corporation says no final decision has been taken on replacing local radio with 5 Live broadcasts, as a union warns more than 700 jobs are under threat\""
   },
   {
-    "path": "/media/2010/oct/28/bbc-strike-nuj-christmas",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"threatens\": \"The NUJ, going it alone, calls two 48-hour strikes at the BBC from next week and threatens Christmas disruption. By Mark Sweney\""
-  },
-  {
     "path": "/us-news/2026/sep/13/trump-5000-dividend-pledge",
     "kind": "preview",
     "field": "trail",
@@ -151,7 +137,7 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"warning\": \"Business leaders make the case for a change of course, warning of ‘supertanker GB’ heading for the rocks and the risk of further harm to the economy\""
+    "issue": "trail leans on \"warning\": \"Business leaders make the case for Tory MPs to shift position, warning of ‘supertanker GB’ heading for the rocks and the risk of further harm to the economy\""
   },
   {
     "path": "/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
