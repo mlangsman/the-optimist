@@ -3,7 +3,7 @@
  *
  *   npx tsx scripts/results-from-parts.ts [--date=YYYY-MM-DD]
  *
- * Reads data/<date>/engine/previews.json  — { "<content path>": {headline, trail?} }
+ * Reads data/<date>/engine/previews.json  — { "<content path>": {headline, trail?, progress?, upside?} }
  *   and data/<date>/engine/article-*.json — { id, output: ArticleJobOutput }
  * Parts are keyed by content path / job id, never by position, so re-running
  * fetch or jobs cannot attach a rewrite to the wrong story.
@@ -66,6 +66,13 @@ async function main(): Promise<void> {
       const output: PreviewJobOutput = { headline: part?.headline ?? job.input.headline };
       const trail = part?.trail ?? stripTags(job.input.trail);
       if (trail) output.trail = trail;
+      const progress = part?.progress?.trim();
+      if (progress) output.progress = progress;
+      if (typeof part?.upside === 'number' && Number.isInteger(part.upside) && part.upside >= 0 && part.upside <= 3) {
+        output.upside = part.upside;
+      } else if (part && part.upside !== undefined) {
+        process.stderr.write(`Warning: ${job.path} has upside ${JSON.stringify(part.upside)}; expected 0–3 — ignored\n`);
+      }
       if (part) changed++;
       else missing.push(job.path);
       results.push({ id: job.id, kind: 'preview', output });

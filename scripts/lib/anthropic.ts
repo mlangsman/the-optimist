@@ -116,8 +116,9 @@ export const ARTICLE_OUTPUT_SCHEMA: JsonSchema = {
     standfirst: { type: ['string', 'null'] },
     bodyHtml: { type: 'string' },
     captions: { type: 'array', items: { type: 'string' } },
+    progress: { type: ['string', 'null'] },
   },
-  required: ['headline', 'standfirst', 'bodyHtml', 'captions'],
+  required: ['headline', 'standfirst', 'bodyHtml', 'captions', 'progress'],
   additionalProperties: false,
 };
 
@@ -127,8 +128,10 @@ export const PREVIEW_OUTPUT_SCHEMA: JsonSchema = {
   properties: {
     headline: { type: 'string' },
     trail: { type: ['string', 'null'] },
+    progress: { type: ['string', 'null'] },
+    upside: { type: 'integer', enum: [0, 1, 2, 3] },
   },
-  required: ['headline', 'trail'],
+  required: ['headline', 'trail', 'progress', 'upside'],
   additionalProperties: false,
 };
 
@@ -191,8 +194,9 @@ export function renderJobInput(job: Job, revision?: Revision): string {
         'TRAIL:',
         job.input.trail ?? '(none)',
         '',
-        'Rewrite the headline and the trail. Return {"headline": string, "trail": string | null};' +
-          ' use null for the trail only when there is none to rewrite.',
+        'Rewrite the headline and the trail, write the progress line and score the upside. Return' +
+          ' {"headline": string, "trail": string | null, "progress": string | null, "upside": 0 | 1 | 2 | 3};' +
+          ' use null for the trail only when there is none to rewrite, and for progress when the copy reports none.',
       ].join('\n') + suffix
     );
   }
@@ -219,7 +223,8 @@ export function renderJobInput(job: Job, revision?: Revision): string {
     job.input.bodyHtml,
     '',
     `Return exactly ${captions.length} caption${captions.length === 1 ? '' : 's'}, ` +
-      'in the same order as the input. Use null for the standfirst only when there is none to rewrite.',
+      'in the same order as the input. Use null for the standfirst only when there is none to rewrite,' +
+      ' and for progress when the copy reports no response or progress.',
   ].join('\n') + suffix;
 }
 
@@ -316,11 +321,15 @@ const ArticleOutput = z.object({
   standfirst: z.union([z.string(), z.null()]),
   bodyHtml: z.string().min(1),
   captions: z.array(z.string()),
+  // Optional so hand-written claude-code parts from before the progress line still parse.
+  progress: z.union([z.string(), z.null()]).optional(),
 });
 
 const PreviewOutput = z.object({
   headline: z.string().min(1),
   trail: z.union([z.string(), z.null()]),
+  progress: z.union([z.string(), z.null()]).optional(),
+  upside: z.number().int().min(0).max(3).optional(),
 });
 
 const CheckOutput = z.object({
@@ -386,6 +395,8 @@ export function parseRewriteOutput(job: Job, text: string): JobResult {
     };
     const standfirst = optional(parsed.data.standfirst);
     if (standfirst !== undefined) output.standfirst = standfirst;
+    const progress = optional(parsed.data.progress ?? null);
+    if (progress !== undefined) output.progress = progress;
     return { id: job.id, kind: 'article', output };
   }
 
@@ -396,6 +407,9 @@ export function parseRewriteOutput(job: Job, text: string): JobResult {
   const output: PreviewJobOutput = { headline: parsed.data.headline.trim() };
   const trail = optional(parsed.data.trail);
   if (trail !== undefined) output.trail = trail;
+  const progress = optional(parsed.data.progress ?? null);
+  if (progress !== undefined) output.progress = progress;
+  if (parsed.data.upside !== undefined) output.upside = parsed.data.upside;
   return { id: job.id, kind: 'preview', output };
 }
 

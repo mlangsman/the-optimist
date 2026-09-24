@@ -99,7 +99,7 @@ describe('buildRewriteRequest', () => {
     const schema = schemaOf(params);
     assert.equal(schema.type, 'object');
     assert.equal(schema.additionalProperties, false);
-    assert.deepEqual(schema.required, ['headline', 'standfirst', 'bodyHtml', 'captions']);
+    assert.deepEqual(schema.required, ['headline', 'standfirst', 'bodyHtml', 'captions', 'progress']);
     const properties = schema.properties as Record<string, Record<string, unknown>>;
     assert.deepEqual(properties.standfirst?.type, ['string', 'null']);
     assert.deepEqual(properties.captions, { type: 'array', items: { type: 'string' } });
@@ -108,7 +108,7 @@ describe('buildRewriteRequest', () => {
   it('sends a closed json_schema matching PreviewJobOutput', () => {
     const schema = schemaOf(buildRewriteRequest(previewJob, SYSTEM));
     assert.equal(schema.additionalProperties, false);
-    assert.deepEqual(schema.required, ['headline', 'trail']);
+    assert.deepEqual(schema.required, ['headline', 'trail', 'progress', 'upside']);
     const properties = schema.properties as Record<string, Record<string, unknown>>;
     assert.deepEqual(properties.trail?.type, ['string', 'null']);
   });
@@ -188,6 +188,17 @@ describe('parseRewriteOutput', () => {
     const result = parseRewriteOutput(previewJob, JSON.stringify({ headline: 'Card', trail: null }));
     assert.ok(!('error' in result));
     assert.deepEqual(result.output, { headline: 'Card' });
+  });
+
+  it('keeps a preview\'s progress line and upside score, and rejects an out-of-range score', () => {
+    const result = parseRewriteOutput(
+      previewJob,
+      JSON.stringify({ headline: 'Card', trail: null, progress: ' Councils act. ', upside: 2 }),
+    );
+    assert.ok(!('error' in result));
+    assert.deepEqual(result.output, { headline: 'Card', progress: 'Councils act.', upside: 2 });
+    const bad = parseRewriteOutput(previewJob, JSON.stringify({ headline: 'Card', trail: null, upside: 5 }));
+    assert.ok('error' in bad);
   });
 
   it('rejects a missing key', () => {

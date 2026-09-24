@@ -9,6 +9,8 @@
  *   2. A headline whose centre of gravity is still a word of loss, harm,
  *      threat or fear (the brief's "third rule"), or a standfirst, trail or
  *      opening paragraph leaning on the same vocabulary.
+ *   3. A headline stretched long to hold every step of the response — a
+ *      warning, since the brief wants short, warm headlines.
  *
  * Quoted spans are exempt: a quote is a fact, and the brief says quotes stay.
  * Everything here is pure so scripts/lib/tone.test.ts can pin it down.
@@ -86,6 +88,12 @@ export const DOOM_TERMS: readonly string[] = [
  * not here.
  */
 export const ALLOWED_PHRASES: readonly string[] = ['climate crisis', 'cost of living crisis'];
+
+/**
+ * A rewritten headline longer than this many words, and longer than the
+ * original, reads like a list of procedural steps rather than a headline.
+ */
+export const HEADLINE_MAX_WORDS = 14;
 
 /** A rewrite sharing at least this fraction of its tokens with the original is a cosmetic edit. */
 export const COSMETIC_EDIT_THRESHOLD = 0.85;
@@ -186,6 +194,14 @@ function lint(path: string, kind: Job['kind'], copy: Copy): ToneIssue[] {
       'headline',
       cosmeticSeverity,
       `headline is a cosmetic edit of the original (${Math.round(headlineOverlap * 100)} per cent of the words are the same): "${rewrite}"`,
+    );
+  }
+  const words = tokens(withoutQuotes(rewrite)).length;
+  if (words > HEADLINE_MAX_WORDS && words > tokens(withoutQuotes(original)).length) {
+    add(
+      'headline',
+      'warning',
+      `headline is ${words} words; keep it to ${HEADLINE_MAX_WORDS} or fewer and move the detail to the trail: "${rewrite}"`,
     );
   }
   const headlineDoom = doomTerms(rewrite);

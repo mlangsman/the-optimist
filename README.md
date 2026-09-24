@@ -31,7 +31,10 @@ Guardian Content API        ──┘                 │
   - `scripts/check.ts` runs two model reviewers on each pair: a fact check (Haiku, thinking off) that demotes anything with an unsupported or altered claim, and a tone review (Sonnet, low effort) that judges the copy against `prompts/rewrite.md` as an editor would, and writes notes for the writer.
   - `scripts/revise.ts` sends every rewrite that failed a review back to the rewriter with the previous attempt and the notes, then `check.ts --only=failed` and `tone.ts` run again. Loop until clean. The daily routine does the same loop by hand.
 - **Dropped stories.** `data/<date>/drop.json` (optional) maps content paths to a reason; `scripts/assemble.ts` leaves those stories out of the front page, article pages and related rails. The daily routine fills it with the stories too bleak for the paper to run.
-- **Tone.** `prompts/rewrite.md` holds the editorial rules: analyse each story for its upsides, build the headline entirely on the strongest one, move the setback to the standfirst, keep Guardian house style, never invent a fact, and never make a cosmetic edit.
+- **Ranking.** Every preview carries an `upside` score (0–3) from the engine; `assemble` ranks the cards in each container by it, strongest first, with the Guardian's order breaking ties.
+- **What's going right.** `fetch` also runs one Content API search for recent stories from constructive sections (`raw.candidates`). The engine picks the genuinely good news into `data/<date>/going-right.json`; `jobs` gives each a preview job and `assemble` shows them as a container straight after the News block.
+- **What's being done.** Every rewrite carries a `progress` line naming who is acting and how, built only from the copy and fact-checked with the rest. It runs under a "What's being done" label on the bigger cards and at the top of each article.
+- **Tone.** `prompts/rewrite.md` holds the editorial rules: analyse each story for its upsides, build the headline entirely on the strongest one, move the setback to the standfirst, keep headlines short (eight to 12 words, 14 at most) and about people and outcomes, keep Guardian house style, never invent a fact, and never make a cosmetic edit.
 
 ## Running it
 

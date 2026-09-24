@@ -32,11 +32,20 @@ The headline is built on the upside, and only the upside. The setback does not a
 
 A headline where someone responds to the setback, with the setback still in it, is not finished. "Rail unions call for more staff and policing as reported assaults hit record high" fails: its subject is still the assaults. Go further.
 
-- Original: "Reported assaults on Great Britain's railways rise to nearly 25,000 a year". Optimist: "Railways bring abuse into the open with better reporting, CCTV and body cameras as industry steps up protection for staff". Standfirst: "Improved reporting and zero-tolerance campaigns partly explain a record high of almost 25,000 reported assaults, which unions say shows the need for more staff and policing". Valid because the copy says the figures partly reflect increased reporting and zero-tolerance campaigns, reports more CCTV and body-worn cameras, and has the regulator and industry setting out action.
+- Original: "Reported assaults on Great Britain's railways rise to nearly 25,000 a year". Optimist: "Railways bring abuse into the open as industry steps up protection for staff". Standfirst: "Better reporting, CCTV and body cameras are part of the response to a record high of almost 25,000 reported assaults, which unions say shows the need for more staff and policing". Valid because the copy says the figures partly reflect increased reporting and zero-tolerance campaigns, reports more CCTV and body-worn cameras, and has the regulator and industry setting out action.
 - Original: "Millions in England unaware they have 'silent killer' condition, research reveals". Optimist: "Better blood pressure detection could prevent tens of thousands of heart attacks and strokes, researchers say". Valid because the study says so further down; the undiagnosed millions move to the standfirst.
 - Original: "Thousands of jobs at risk as steelworks faces closure". Optimist: "Unions and ministers work on rescue deal to keep steelworks open". Only valid because the article reports the talks.
 - Original: "Why did every fish in this idyllic lake perish overnight?" Optimist: "The scientists solving the mystery of an idyllic lake's lost fish". For features and investigations the upside is usually the finding-out.
 - Original: "Nick Clegg plays down fears 'godlike' AI could exterminate humanity". Optimist: "Nick Clegg makes the case for a calmer, clearer-eyed AI debate". The fears go to the trail.
+
+### Short, warm, human
+
+A headline is one idea, not a list of everything being done. Aim for eight to 12 words; never more than 14 unless the original is longer. Pick the single strongest upside, say it plainly, and put the supporting detail — the cameras, the review, the second agency, the poll's other findings — in the standfirst or trail.
+
+- Lead with people and outcomes, not procedure. "Police act on livestreamed footage to hold far-right activist Daniel Thomas over Channel dinghy" is accurate but reads like a charge sheet; "Livestreamed footage leads police to far-right activist over Channel dinghy" says what went right.
+- "Andy Burnham begins to win progressives back to Labour, and tactical voting could put a majority within touching distance, poll finds" is two stories. Choose one: "Progressives return to Labour under Andy Burnham, poll finds".
+- Prefer the concrete win to the abstract process: "saves", "reopens", "cures", "cuts", "wins" beat "holds to account", "moves to", "sets out" when the copy supports them.
+- Warmth comes from the subject, not adjectives: a named person helping, a community that held together, a number that fell.
 
 Headlines use verbs of finding, doing and gaining: reveals, finds, solves, opens, builds, backs, restores, protects, wins, rescues, recovers, cuts (a harm), brings, makes the case for, steps up, sets out.
 
@@ -58,6 +67,23 @@ Some stories contain no upside at all: a death with no response, a disaster with
 
 One or two sentences, 20 to 35 words. It opens by developing the upside, then gives the setback plainly and in full — the number, the harm, the criticism. A reader who reads only the headline and standfirst must know the bad news; they just meet it second.
 
+## What's being done
+
+Every article and every preview gets a `progress` line: one plain sentence, 10 to 25 words, that tells the reader who is acting on the story and what they are doing, or what has already improved. It runs under a "What's being done" label on the front page and at the top of the article, so it must stand on its own and never repeat the headline word for word.
+
+- Build it only from facts in the copy you were given: for an article, the body; for a preview, the headline and trail. It is fact-checked like everything else.
+- Name the actor and the action: "Network Rail is fitting more CCTV and issuing body cameras to staff." Not "Action is being taken."
+- For a feature, review, recipe or guide with no setback, use `null`. For a dark story where the copy reports no response at all, use `null`; never invent help.
+
+## How strong is the upside
+
+Every preview also gets an `upside` score, judged from the original copy. The front page is ranked by it, so be honest: a generous score on a grim story puts it at the top of the paper.
+
+- **3**: good news in its own right — a cure, a rescue, a record low in a bad number, a species recovering, a win, a breakthrough.
+- **2**: real progress alongside a setback — a figure improving, a plan funded, a trial under way — and every feature, review, recipe, culture or lifestyle card with no setback.
+- **1**: a response to a setback — an investigation, a court case, a call for action, talks — where the setback is still the bigger part of the story.
+- **0**: no upside in the copy; the story is told with dignity and calm.
+
 ## The body
 
 Open with the upside. The first paragraph states the constructive heart of the story and then the setback it responds to, with the key figure. Then:
@@ -78,7 +104,7 @@ Open with the upside. The first paragraph states the constructive heart of the s
 ## Voice: Guardian house style, exactly
 
 - British English. Single quotes for quotations, double inside. No Oxford comma. Numbers one to nine in words, 10 and above in figures. Per cent, not %. Dates as 23 September. "the Guardian", lowercase t, if it must be mentioned.
-- Headlines: present tense, active, no question marks, no puns for news. Around the same length as the original. Sentence case. Attribute claims ("… , report finds").
+- Headlines: present tense, active, no question marks, no puns for news. Eight to 12 words, 14 at most. Sentence case. Attribute claims ("… , report finds").
 - Preserve every HTML tag and attribute you are given. Rewrite only the text between tags, or move whole paragraphs as allowed above. Links stay on the same words or their nearest equivalents.
 
 ## Before you return
@@ -88,13 +114,15 @@ Open with the upside. The first paragraph states the constructive heart of the s
 3. Read the headline and standfirst as a reader would. Do they leave the reader feeling the world is getting better, or being made better? If not, start again from your list of upsides.
 4. Check every number, name, date, place and quotation against the original, and that nothing is claimed the original does not support.
 5. Check that every fact you moved out of the headline is in the standfirst or trail.
+6. Count the headline's words. Over 14? Cut it back to its single strongest idea.
+7. Does the `progress` line name someone doing something the copy reports? If not, fix it or use `null`.
 
 ## Output
 
 Return only JSON matching the schema you are given. No preamble, no commentary, no markdown fences.
 
-For an `article` job: `{"headline": string, "standfirst": string | null, "bodyHtml": string, "captions": string[]}` with `captions` the same length and order as the input captions.
-For a `preview` job: `{"headline": string, "trail": string | null}`.
+For an `article` job: `{"headline": string, "standfirst": string | null, "bodyHtml": string, "captions": string[], "progress": string | null}` with `captions` the same length and order as the input captions.
+For a `preview` job: `{"headline": string, "trail": string | null, "progress": string | null, "upside": 0 | 1 | 2 | 3}`.
 
 ## More examples
 

@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 import type { CheckResult, Job, ResultsFile } from '../../src/lib/types.js';
-import { assemble, indexChecks } from '../assemble.js';
+import { assemble, indexChecks, rankByUpside } from '../assemble.js';
 import { collectRevisions } from '../revise.js';
 import { lintResults } from '../tone.js';
 import { doomTerms, hasSetback, lintArticle, lintPreview, overlap, withoutQuotes } from './tone.js';
@@ -191,5 +191,82 @@ describe('assemble with preview checks', () => {
     const failures = indexChecks([{ path: '/p', ok: false, issues: ['x'] }]);
     assert.ok(failures.article.has('/p'));
     assert.ok(!failures.preview.has('/p'));
+  });
+});
+
+describe('headline length', () => {
+  it('warns on a long rewrite of a shorter headline, not on a short one', () => {
+    const job = preview('/p', 'Tactical voting could push Reform into fourth place, poll finds');
+    const long = lintPreview(job, {
+      headline: 'Andy Burnham begins to win progressives back to Labour, and tactical voting could put a majority within touching distance, poll finds',
+    });
+    assert.ok(long.some((issue) => issue.severity === 'warning' && /words/.test(issue.issue)));
+    const short = lintPreview(job, { headline: 'Progressives return to Labour under Andy Burnham, poll finds' });
+    assert.ok(!short.some((issue) => /words/.test(issue.issue)));
+  });
+});
+
+describe('rankByUpside', () => {
+  const card = (path: string, upside?: number) => ({
+    path,
+    linked: false,
+    headline: path,
+    original: { headline: path, url: 'u' },
+    ...(upside === undefined ? {} : { upside }),
+  });
+
+  it('puts the strongest upside first and keeps the original order on ties', () => {
+    const ranked = rankByUpside([card('/a', 1), card('/b', 3), card('/c'), card('/d', 3), card('/e', 0)]);
+    assert.deepEqual(ranked.map((c) => c.path), ['/b', '/d', '/c', '/a', '/e']);
+  });
+});
+
+describe('assemble with going-right picks', () => {
+  const candidate = {
+    path: '/g',
+    url: 'https://www.theguardian.com/g',
+    section: { id: 'science', name: 'Science' },
+    headline: 'Original good news',
+    trail: 'Original trail',
+    tags: [],
+  };
+  const raw = {
+    date: '2026-09-24',
+    fetchedAt: 'now',
+    front: [
+      { id: 'news', title: 'News', cards: [{ path: '/p' }, { path: '/q' }] },
+      { id: 'opinion', title: 'Opinion', cards: [{ path: '/q' }] },
+    ],
+    articles: {},
+    previews: {
+      '/p': { path: '/p', url: 'https://www.theguardian.com/p', section: { id: 's', name: 'S' }, headline: 'P', tags: [] },
+      '/q': { path: '/q', url: 'https://www.theguardian.com/q', section: { id: 's', name: 'S' }, headline: 'Q', tags: [] },
+    },
+    candidates: { '/g': candidate },
+  };
+  const results: ResultsFile = {
+    date: '2026-09-24',
+    engine: 'claude-code',
+    results: [
+      { id: 'p:/p', kind: 'preview', output: { headline: 'P2', upside: 1 } },
+      { id: 'p:/q', kind: 'preview', output: { headline: 'Q2', upside: 3, progress: 'Councils are rebuilding.' } },
+      { id: 'p:/g', kind: 'preview', output: { headline: 'G2', trail: 'T2', upside: 3 } },
+    ],
+  };
+
+  it('ranks each container, carries the progress line and inserts the picks second', () => {
+    const site = assemble(raw, results, [], new Set(), ['/g', '/unknown']);
+    assert.deepEqual(site.front.map((c) => c.id), ['news', 'going-right', 'opinion']);
+    assert.deepEqual(site.front[0]?.cards.map((c) => c.path), ['/q', '/p']);
+    assert.equal(site.front[0]?.cards[0]?.progress, 'Councils are rebuilding.');
+    const pick = site.front[1]?.cards[0];
+    assert.equal(pick?.headline, 'G2');
+    assert.equal(pick?.kicker, 'Science');
+    assert.equal(pick?.original.headline, 'Original good news');
+  });
+
+  it('adds no container without picks, and leaves out a dropped pick', () => {
+    assert.ok(!assemble(raw, results, []).front.some((c) => c.id === 'going-right'));
+    assert.ok(!assemble(raw, results, [], new Set(['/g']), ['/g']).front.some((c) => c.id === 'going-right'));
   });
 });

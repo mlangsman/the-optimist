@@ -121,6 +121,17 @@ const wideCard = hasOddTail ? rest[rest.length - 1] : undefined;
 		color: var(--section-title-secondary);
 	}
 
+	/* "What's going right" is The Optimist's own container: a pale brand tint
+	   and a brand-coloured title so it reads as the paper's signature section. */
+	.container#going-right {
+		background: var(--brand-900);
+		border-top: 3px solid var(--brand-400);
+	}
+
+	.container#going-right .container__title h2 {
+		color: var(--brand-400);
+	}
+
 	/* From leftCol the title sits in its own column with a rule to its right,
 	   exactly as the Guardian's front containers do. */
 	@media (min-width: 1140px) {
