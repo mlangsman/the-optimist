@@ -9,32 +9,39 @@
  *
  * `card.linked === false` renders exactly the same markup minus that anchor —
  * a plain, non-interactive `<article>`.
+ *
+ * Variants map onto the Guardian's card sizes inside a flexible/general container:
+ *   splash     the first story: headline column left, big picture right
+ *   wide       a full-width row: text left, picture right, smaller than splash
+ *   medium     half-width row: picture left, text right
+ *   small      quarter-width: picture on top (secondary containers, related rail)
+ *   highlight  the masthead strip: text left, square thumbnail right
  */
 import type { Card } from '../lib/types';
 import type { Pillar } from '../lib/data';
 import { pillarForCard } from '../lib/data';
 import { articleHref } from '../lib/url';
 
-type Variant = 'lead' | 'standard' | 'small' | 'strip';
+type Variant = 'splash' | 'wide' | 'medium' | 'small' | 'highlight';
 
 interface Props {
 	card: Card;
-	/** Visual size. `lead` is the first card of the primary container. */
 	variant?: Variant;
 	/** Pillar inherited from the container; a card's kicker can override it. */
 	pillar?: Pillar;
 	/** Heading level so each container keeps a sane outline. */
 	as?: 'h2' | 'h3' | 'h4';
-	/** Load the image eagerly (the lead card only). */
+	/** Load the image eagerly (the splash only). */
 	eager?: boolean;
 }
 
-const { card, variant = 'standard', pillar = 'news', as: Heading = 'h3', eager = false } = Astro.props;
+const { card, variant = 'medium', pillar = 'news', as: Heading = 'h3', eager = false } = Astro.props;
 
 const cardPillar = pillarForCard(card, pillar);
 const href = card.linked ? articleHref(card.path) : undefined;
 const showImage = Boolean(card.image);
-const showTrail = Boolean(card.trail) && variant !== 'strip';
+const showTrail = Boolean(card.trail) && (variant === 'splash' || variant === 'wide' || variant === 'medium');
+const showByline = Boolean(card.byline) && (variant === 'splash' || variant === 'wide');
 ---
 
 <article class:list={['card', `card--${variant}`]} data-pillar={cardPillar} data-linked={String(card.linked)}>
@@ -70,7 +77,7 @@ const showTrail = Boolean(card.trail) && variant !== 'strip';
 
 			{showTrail && <p class="card__trail">{card.trail}</p>}
 
-			{card.byline && variant !== 'strip' && <p class="card__byline">{card.byline}</p>}
+			{showByline && <p class="card__byline">{card.byline}</p>}
 		</div>
 	</div>
 </article>
@@ -79,8 +86,8 @@ const showTrail = Boolean(card.trail) && variant !== 'strip';
 	.card {
 		position: relative;
 		display: flex;
+		width: 100%;
 		background: var(--card-background);
-		padding-bottom: var(--space-4);
 	}
 
 	.card__inner {
@@ -88,6 +95,7 @@ const showTrail = Boolean(card.trail) && variant !== 'strip';
 		flex-direction: column;
 		gap: var(--space-2);
 		width: 100%;
+		min-width: 0;
 	}
 
 	/* Whole-card click target. Sits above the content but below nothing else,
@@ -98,24 +106,19 @@ const showTrail = Boolean(card.trail) && variant !== 'strip';
 		z-index: 2;
 	}
 
-	.card[data-linked='true']:hover {
-		background: var(--card-background-hover);
-	}
-
 	.card[data-linked='true']:hover .card__headline-text,
 	.card:focus-within .card__headline-text {
 		text-decoration: underline;
 		text-decoration-thickness: 1px;
-		text-underline-offset: 2px;
+		text-underline-offset: 3px;
 	}
 
 	/* --- media ---------------------------------------------------------- */
 	.card__media {
 		background: var(--card-media-background);
-		/* Sample images are 620x372. Fixing the ratio stops the grid reflowing
-		   while images load. */
 		aspect-ratio: 5 / 3;
 		overflow: hidden;
+		flex: 0 0 auto;
 	}
 
 	.card__media img {
@@ -128,15 +131,17 @@ const showTrail = Boolean(card.trail) && variant !== 'strip';
 	.card__text {
 		display: flex;
 		flex-direction: column;
-		gap: var(--space-1);
+		gap: var(--space-2);
+		min-width: 0;
 	}
 
 	.card__headline {
 		font-family: var(--font-headline);
-		font-weight: 700;
+		font-optical-sizing: auto;
+		font-weight: 500;
 		line-height: var(--leading-headline);
 		color: var(--card-headline-text);
-		font-size: var(--size-headline-20);
+		font-size: var(--size-headline-17);
 		display: flex;
 		flex-direction: column;
 		gap: var(--space-0);
@@ -161,83 +166,168 @@ const showTrail = Boolean(card.trail) && variant !== 'strip';
 	}
 
 	.card__byline {
-		font-family: var(--font-sans);
-		font-size: var(--size-sans-12);
+		font-family: var(--font-headline);
+		font-optical-sizing: auto;
+		font-style: italic;
+		font-weight: 400;
+		font-size: var(--size-headline-14);
 		line-height: var(--leading-sans);
 		color: var(--card-meta-text);
-		font-style: italic;
 	}
 
-	/* --- lead ----------------------------------------------------------- */
-	.card--lead .card__headline {
+	/* --- splash --------------------------------------------------------- */
+	.card--splash .card__headline {
+		font-weight: 700;
 		font-size: var(--size-headline-28);
+		line-height: var(--leading-headline-display);
 	}
 
-	.card--lead .card__trail {
+	.card--splash .card__trail {
 		font-size: var(--size-sans-15);
 	}
 
 	@media (min-width: 740px) {
-		/* row-reverse puts the text on the left and the image on the right,
-		   matching the Guardian's flexible/general lead card. */
-		.card--lead .card__inner {
+		/* row-reverse puts the text on the left and the picture on the right,
+		   matching the Guardian's splash card. */
+		.card--splash .card__inner {
 			flex-direction: row-reverse;
 			align-items: flex-start;
 			gap: var(--space-5);
 		}
-		.card--lead .card__media {
-			flex: 1 1 58%;
+		.card--splash .card__media {
+			flex: 1 1 62%;
 			min-width: 0;
 		}
-		.card--lead .card__text {
-			flex: 1 1 42%;
+		.card--splash .card__text {
+			flex: 1 1 38%;
 			min-width: 0;
 		}
-		.card--lead .card__headline {
+		.card--splash .card__headline {
 			font-size: var(--size-headline-34);
 		}
-		.card--lead .card__trail {
+		.card--splash .card__trail {
 			font-size: var(--size-sans-17);
 		}
 	}
 
 	@media (min-width: 980px) {
-		.card--lead .card__headline {
+		.card--splash .card__headline {
 			font-size: var(--size-headline-42);
+		}
+		.card--splash .card__media {
+			flex-basis: 60%;
+		}
+		.card--splash .card__text {
+			flex-basis: 40%;
 		}
 	}
 
-	/* --- standard ------------------------------------------------------- */
+	/* --- wide ----------------------------------------------------------- */
+	.card--wide .card__headline {
+		font-size: var(--size-headline-24);
+	}
+
 	@media (min-width: 740px) {
-		.card--standard .card__headline {
+		.card--wide .card__inner {
+			flex-direction: row-reverse;
+			align-items: flex-start;
+			gap: var(--space-5);
+		}
+		.card--wide .card__media {
+			flex: 1 1 50%;
+			min-width: 0;
+		}
+		.card--wide .card__text {
+			flex: 1 1 50%;
+			min-width: 0;
+		}
+		.card--wide .card__headline {
+			font-size: var(--size-headline-28);
+		}
+		.card--wide .card__trail {
+			font-size: var(--size-sans-15);
+		}
+	}
+
+	/* --- medium --------------------------------------------------------- */
+	.card--medium .card__inner {
+		flex-direction: row;
+		align-items: flex-start;
+		gap: var(--space-3);
+	}
+
+	.card--medium .card__media {
+		flex: 0 0 36%;
+		min-width: 0;
+	}
+
+	.card--medium .card__text {
+		flex: 1 1 auto;
+	}
+
+	.card--medium .card__headline {
+		font-size: var(--size-headline-17);
+	}
+
+	@media (min-width: 740px) {
+		.card--medium .card__inner {
+			gap: var(--space-4);
+		}
+		.card--medium .card__media {
+			flex-basis: 48%;
+		}
+		.card--medium .card__headline {
 			font-size: var(--size-headline-20);
 		}
 	}
 
-	/* --- small (secondary containers) ------------------------------------ */
+	@media (min-width: 980px) {
+		.card--medium .card__headline {
+			font-size: var(--size-headline-24);
+		}
+	}
+
+	/* --- small (secondary containers, related rail) ---------------------- */
 	.card--small .card__headline {
 		font-size: var(--size-headline-17);
 	}
 
-	.card--small .card__trail {
-		font-size: var(--size-sans-12);
+	/* --- highlight (masthead strip) ------------------------------------- */
+	.card--highlight {
+		background: var(--highlights-card-background);
+		padding: var(--space-2);
+		height: 100%;
 	}
 
-	/* --- strip (highlights) ---------------------------------------------- */
-	.card--strip {
-		padding-bottom: var(--space-2);
+	.card--highlight .card__inner {
+		flex-direction: row-reverse;
+		align-items: flex-start;
+		gap: var(--space-2);
 	}
 
-	.card--strip .card__media {
-		aspect-ratio: 5 / 3;
+	.card--highlight .card__media {
+		flex: 0 0 auto;
+		width: 76px;
+		aspect-ratio: 1 / 1;
 	}
 
-	.card--strip .card__headline {
+	.card--highlight .card__text {
+		flex: 1 1 auto;
+		gap: var(--space-1);
+	}
+
+	.card--highlight .card__kicker {
+		color: var(--highlights-card-kicker-text);
+	}
+
+	.card--highlight .card__headline {
 		font-size: var(--size-headline-17);
-		font-weight: 700;
+		color: var(--highlights-card-headline);
 	}
 
-	.card--strip .card__kicker {
-		font-size: var(--size-sans-12);
+	@media (min-width: 740px) {
+		.card--highlight .card__media {
+			width: 92px;
+		}
 	}
 </style>

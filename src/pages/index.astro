@@ -5,7 +5,8 @@ import { PRIMARY_CONTAINER_ID, STRIP_CONTAINER_ID, frontContainers, loadSiteData
 import { DISCLAIMER, SITE_NAME, formatDate } from '../lib/constants';
 
 const site = loadSiteData();
-const containers = frontContainers();
+// The highlights strip is rendered inside the masthead, not as a body container.
+const containers = frontContainers().filter((container) => container.id !== STRIP_CONTAINER_ID);
 const edition = formatDate(site.date);
 ---
 
@@ -14,11 +15,7 @@ const edition = formatDate(site.date);
 
 	{
 		containers.map((container) => (
-			<Container
-				container={container}
-				level={container.id === PRIMARY_CONTAINER_ID ? 'primary' : 'secondary'}
-				variant={container.id === STRIP_CONTAINER_ID ? 'strip' : 'grid'}
-			/>
+			<Container container={container} level={container.id === PRIMARY_CONTAINER_ID ? 'primary' : 'secondary'} />
 		))
 	}
 </Layout>

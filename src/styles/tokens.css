@@ -108,11 +108,23 @@
 	--notice-background: var(--neutral-97);
 	--focus-halo: var(--brand-500);
 
+	/* The masthead highlights strip — values verbatim from the Guardian's
+	 * --highlights-* custom properties on the news-themed front. */
+	--highlights-container-background: var(--neutral-100);
+	--highlights-container-border: var(--neutral-60); /* #999999 */
+	--highlights-container-separator: var(--neutral-86);
+	--highlights-card-background: #fff4f2;
+	--highlights-card-headline: #c70000;
+	--highlights-card-kicker-text: var(--neutral-7);
+
 	/* ---------------------------------------------------------------------
 	 * Type stacks
 	 *
 	 * Free lookalikes for the Guardian's proprietary faces:
-	 *   GH Guardian Headline      -> Merriweather      (700/800)
+	 *   GH Guardian Headline      -> Newsreader        (variable, opsz 6..72; 500/700/800, 400i)
+	 *                                a Scotch-roman news face whose display cuts
+	 *                                carry the same weight and contrast the
+	 *                                Guardian's headline face and wordmark do
 	 *   Guardian Text Egyptian    -> Source Serif 4    (400/600/400i)
 	 *   Guardian Text Sans        -> Source Sans 3     (400/600/700)
 	 *
@@ -120,7 +132,7 @@
 	 * licensed the real faces, self-host them and uncomment the @font-face
 	 * block at the bottom of this file, then point the stacks at those names.
 	 * ------------------------------------------------------------------ */
-	--font-headline: 'Merriweather', 'GH Guardian Headline', 'Guardian Egyptian Web', Georgia, serif;
+	--font-headline: 'Newsreader', 'GH Guardian Headline', 'Guardian Egyptian Web', Georgia, serif;
 	--font-body: 'Source Serif 4', 'GuardianTextEgyptian', 'Guardian Text Egyptian Web', Georgia, serif;
 	--font-sans: 'Source Sans 3', 'GuardianTextSans', 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
@@ -146,7 +158,10 @@
 	--size-sans-17: 1.0625rem;
 	--size-sans-20: 1.25rem;
 
+	/* Guardian headline presets run at 1.15; the display face reads a touch
+	 * tighter at 1.1 for the larger sizes, matching the reference's splash. */
 	--leading-headline: 1.15;
+	--leading-headline-display: 1.1;
 	--leading-body: 1.4;
 	--leading-sans: 1.3;
 
@@ -186,6 +201,8 @@
 	--measure: 620px; /* body copy reading measure */
 	--gutter: 10px; /* the Guardian's column gutter */
 	--page-padding: 10px;
+	/* Front container title column from the `leftCol` breakpoint. */
+	--left-col: 160px;
 
 	/* Article left rail (byline + date) from the `desktop` breakpoint up. */
 	--article-rail: 180px;

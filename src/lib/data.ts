@@ -62,8 +62,30 @@ export function articleByPath(path: string): Article | undefined {
  */
 export const PRIMARY_CONTAINER_ID = 'news';
 
-/** The compact horizontal strip container. */
+/** The compact horizontal strip container, rendered inside the masthead. */
 export const STRIP_CONTAINER_ID = 'highlights';
+
+/**
+ * Containers offered in the masthead's sub-navigation, in this order, when the
+ * edition has them. Mirrors the Guardian's "UK news · World · Climate crisis …"
+ * row beneath the pillars.
+ */
+export const SUBNAV_IDS: readonly string[] = [
+	'uk-news',
+	'world-news',
+	'climate-crisis-&-environment',
+	'business-&-technology',
+	'opinion',
+	'sport',
+	'culture',
+	'lifestyle',
+	'the-long-read-',
+	'food',
+	'travel',
+	'money-&-consumer',
+	'health-&-fitness',
+	'in-pictures',
+];
 
 /**
  * Map a container id to a pillar so cards can pick up a pillar colour.

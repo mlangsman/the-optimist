@@ -1,0 +1,136 @@
+---
+/**
+ * The highlights strip: a horizontally scrolling row of small cards that sits
+ * inside the masthead between the top bar and the brand band, exactly where the
+ * Guardian's own `highlights` container lives in its `<header>`.
+ *
+ * No JS is required to use it (it is a native horizontal scroller); the two
+ * arrow buttons are progressive enhancement and stay hidden without JS.
+ */
+import Card from './Card.astro';
+import type { FrontContainer } from '../lib/types';
+
+interface Props {
+	container: FrontContainer;
+}
+
+const { container } = Astro.props;
+---
+
+<section class="highlights" aria-label={container.title} data-pillar="news">
+	<div class="gutter highlights__inner">
+		<ul class="highlights__list" data-highlights-scroller>
+			{
+				container.cards.map((card) => (
+					<li class="highlights__item">
+						<Card card={card} variant="highlight" pillar="news" as="h2" />
+					</li>
+				))
+			}
+		</ul>
+		<button class="highlights__arrow highlights__arrow--prev" type="button" aria-label="Scroll highlights back" hidden>
+			<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.5" /></svg>
+		</button>
+		<button class="highlights__arrow highlights__arrow--next" type="button" aria-label="Scroll highlights forward" hidden>
+			<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.5" /></svg>
+		</button>
+	</div>
+</section>
+
+<script>
+	const scroller = document.querySelector<HTMLElement>('[data-highlights-scroller]');
+	const prev = document.querySelector<HTMLButtonElement>('.highlights__arrow--prev');
+	const next = document.querySelector<HTMLButtonElement>('.highlights__arrow--next');
+	if (scroller && prev && next) {
+		const step = () => Math.max(240, scroller.clientWidth * 0.8);
+		const update = () => {
+			const max = scroller.scrollWidth - scroller.clientWidth - 1;
+			prev.hidden = scroller.scrollLeft <= 0;
+			next.hidden = scroller.scrollLeft >= max;
+		};
+		prev.addEventListener('click', () => scroller.scrollBy({ left: -step(), behavior: 'smooth' }));
+		next.addEventListener('click', () => scroller.scrollBy({ left: step(), behavior: 'smooth' }));
+		scroller.addEventListener('scroll', update, { passive: true });
+		window.addEventListener('resize', update);
+		update();
+	}
+</script>
+
+<style>
+	.highlights {
+		background: var(--highlights-container-background);
+		border-bottom: 1px solid var(--highlights-container-border);
+	}
+
+	.highlights__inner {
+		position: relative;
+	}
+
+	.highlights__list {
+		list-style: none;
+		display: flex;
+		overflow-x: auto;
+		scroll-snap-type: x mandatory;
+		scrollbar-width: none;
+		padding: var(--space-2) 0;
+		/* Fade the trailing edge, as the Guardian does, so the row reads as scrollable. */
+		mask-image: linear-gradient(to right, #000 calc(100% - 48px), transparent);
+	}
+
+	.highlights__list::-webkit-scrollbar {
+		display: none;
+	}
+
+	.highlights__item {
+		flex: 0 0 auto;
+		width: min(78vw, 300px);
+		scroll-snap-align: start;
+		padding: 0 var(--space-2);
+		border-left: 1px solid var(--highlights-container-separator);
+	}
+
+	.highlights__item:first-child {
+		border-left: 0;
+		padding-left: 0;
+	}
+
+	.highlights__arrow {
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		width: 36px;
+		height: 36px;
+		border-radius: 50%;
+		border: 0;
+		background: var(--brand-400);
+		color: var(--neutral-100);
+		display: grid;
+		place-items: center;
+		cursor: pointer;
+		box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+	}
+
+	.highlights__arrow[hidden] {
+		display: none;
+	}
+
+	.highlights__arrow--prev {
+		left: 0;
+	}
+
+	.highlights__arrow--next {
+		right: 0;
+	}
+
+	@media (min-width: 740px) {
+		.highlights__item {
+			width: 300px;
+		}
+		.highlights__arrow--prev {
+			left: var(--space-1);
+		}
+		.highlights__arrow--next {
+			right: var(--space-1);
+		}
+	}
+</style>

@@ -74,20 +74,25 @@ const credit = image?.credit;
 		margin-bottom: var(--space-1);
 	}
 
+	/* Guardian news headline: headlineMedium34, 40 at desktop. */
 	.article-header__headline {
 		font-family: var(--font-headline);
-		font-weight: 700;
+		font-optical-sizing: auto;
+		font-weight: 500;
 		font-size: var(--size-headline-34);
 		line-height: var(--leading-headline);
 		color: var(--neutral-7);
 		max-width: 46rem;
 	}
 
+	/* The standfirst is set in the headline face at medium weight, as on
+	   theguardian.com, not in the body face. */
 	.article-header__standfirst {
-		font-family: var(--font-body);
-		font-size: var(--size-sans-20); /* 20px */
-		line-height: 1.35;
-		font-weight: 600;
+		font-family: var(--font-headline);
+		font-optical-sizing: auto;
+		font-size: var(--size-headline-20);
+		line-height: 1.3;
+		font-weight: 500;
 		color: var(--neutral-20);
 		max-width: var(--measure);
 		margin-top: var(--space-4);

@@ -149,11 +149,15 @@ function buildCard(
   const source = rawSourceFor(raw, path);
   const fallbackHeadline = source.headline ?? seed.headline ?? path;
   const rewritten = rewrites.preview.get(path);
+  const article = articles[path];
+  const linked = article?.status === 'rewritten';
 
+  // A linked card shows the full rewrite's headline, so the front page and the
+  // article it opens never disagree about what the story is.
   const card: Card = {
     path,
-    linked: articles[path]?.status === 'rewritten',
-    headline: rewritten?.headline ?? fallbackHeadline,
+    linked,
+    headline: (linked ? article.headline : undefined) ?? rewritten?.headline ?? fallbackHeadline,
     original: buildOriginal(path, source, fallbackHeadline),
   };
 
