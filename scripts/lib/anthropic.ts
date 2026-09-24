@@ -35,6 +35,8 @@ import { requireAnthropicKey } from './env.js';
 export const REWRITE_MODEL = 'claude-sonnet-5';
 /** Fact-check model: cheap, and deliberately run with thinking off. */
 export const CHECK_MODEL = 'claude-haiku-4-5';
+/** Tone-review model: a judgement call, so the rewrite model at low effort. */
+export const TONE_MODEL = 'claude-sonnet-5';
 
 /** REWRITE_MODEL unless OPTIMIST_REWRITE_MODEL overrides it. */
 export function rewriteModel(env: NodeJS.ProcessEnv = process.env): string {
@@ -46,6 +48,11 @@ export function checkModel(env: NodeJS.ProcessEnv = process.env): string {
   return env.OPTIMIST_CHECK_MODEL?.trim() || CHECK_MODEL;
 }
 
+/** TONE_MODEL unless OPTIMIST_TONE_MODEL overrides it. */
+export function toneModel(env: NodeJS.ProcessEnv = process.env): string {
+  return env.OPTIMIST_TONE_MODEL?.trim() || TONE_MODEL;
+}
+
 /**
  * A full rewritten body plus headline, standfirst and captions. Adaptive
  * thinking is billed inside this cap, so leave room for a 3,000-word feature.
@@ -55,6 +62,8 @@ export const ARTICLE_MAX_TOKENS = 16000;
 export const PREVIEW_MAX_TOKENS = 400;
 /** A boolean and a short list of issues. */
 export const CHECK_MAX_TOKENS = 2000;
+/** The same verdict shape, with room for a low-effort think first. */
+export const TONE_MAX_TOKENS = 4000;
 
 /* ---------- Client ---------- */
 
@@ -144,21 +153,48 @@ export function maxTokensFor(kind: Job['kind']): number {
 
 /* ---------- Requests ---------- */
 
+/**
+ * A previous attempt and the editor's notes on it, for a revision. The notes
+ * come from the fact check and the tone review (scripts/check.ts).
+ */
+export interface Revision {
+  previous: ArticleJobOutput | PreviewJobOutput;
+  notes: string[];
+}
+
+function renderRevision(revision: Revision): string {
+  return [
+    '',
+    'YOUR PREVIOUS ATTEMPT was sent back by the editor. Its JSON was:',
+    JSON.stringify(revision.previous),
+    '',
+    "EDITOR'S NOTES:",
+    ...revision.notes.map((note) => `- ${note}`),
+    '',
+    'Address every note. Start again from the ORIGINAL copy above, not from your previous attempt:' +
+      ' find the constructive element the notes point to and build the headline around it.' +
+      ' Every fact must still come from the original.',
+  ].join('\n');
+}
+
 /** The job input as labelled sections. Kept free of dates, ids and anything else volatile. */
-export function renderJobInput(job: Job): string {
+export function renderJobInput(job: Job, revision?: Revision): string {
+  const suffix = revision === undefined ? '' : `\n${renderRevision(revision)}`;
   if (job.kind === 'preview') {
-    return [
-      'KIND: preview',
-      '',
-      'HEADLINE:',
-      job.input.headline,
-      '',
-      'TRAIL:',
-      job.input.trail ?? '(none)',
-      '',
-      'Rewrite the headline and the trail. Return {"headline": string, "trail": string | null};' +
-        ' use null for the trail only when there is none to rewrite.',
-    ].join('\n');
+    return (
+      [
+        'KIND: preview',
+        '',
+        'HEADLINE:',
+        job.input.headline,
+        '',
+        'TRAIL:',
+        job.input.trail ?? '(none)',
+        '',
+        'Rewrite the headline and the trail. Return {"headline": string, "trail": string | null};' +
+          ' use null for the trail only when there is none to rewrite.',
+      ].join('\n') + suffix
+    );
   }
 
   const { captions } = job.input;
@@ -184,7 +220,7 @@ export function renderJobInput(job: Job): string {
     '',
     `Return exactly ${captions.length} caption${captions.length === 1 ? '' : 's'}, ` +
       'in the same order as the input. Use null for the standfirst only when there is none to rewrite.',
-  ].join('\n');
+  ].join('\n') + suffix;
 }
 
 /**
@@ -200,6 +236,7 @@ export function buildRewriteRequest(
   job: Job,
   systemPrompt: string,
   model: string = rewriteModel(),
+  revision?: Revision,
 ): Anthropic.MessageCreateParamsNonStreaming {
   return {
     model,
@@ -214,7 +251,7 @@ export function buildRewriteRequest(
       // high-effort think would truncate it; an article has room to think.
       ...(job.kind === 'preview' ? { effort: 'low' as const } : {}),
     },
-    messages: [{ role: 'user', content: renderJobInput(job) }],
+    messages: [{ role: 'user', content: renderJobInput(job, revision) }],
     // No assistant prefill: current models reject a trailing assistant turn here.
   };
 }
@@ -235,6 +272,34 @@ export function buildCheckRequest(
     max_tokens: CHECK_MAX_TOKENS,
     system: systemPrompt,
     output_config: { format: { type: 'json_schema', schema: CHECK_OUTPUT_SCHEMA } },
+    messages: [
+      {
+        role: 'user',
+        content: ['ORIGINAL:', original, '', 'REWRITE:', rewrite].join('\n'),
+      },
+    ],
+  };
+}
+
+/**
+ * Params for one tone review. The system prompt is the review rubric followed
+ * by the rewrite brief, which is the same for every job, so it carries the
+ * cache breakpoint; the pair under review sits in `messages`. Adaptive
+ * thinking at low effort: this is a judgement, not a transcription, but the
+ * verdict is short.
+ */
+export function buildToneRequest(
+  original: string,
+  rewrite: string,
+  systemPrompt: string,
+  model: string = toneModel(),
+): Anthropic.MessageCreateParamsNonStreaming {
+  return {
+    model,
+    max_tokens: TONE_MAX_TOKENS,
+    system: [{ type: 'text', text: systemPrompt, cache_control: { type: 'ephemeral' } }],
+    thinking: { type: 'adaptive' },
+    output_config: { format: { type: 'json_schema', schema: CHECK_OUTPUT_SCHEMA }, effort: 'low' },
     messages: [
       {
         role: 'user',

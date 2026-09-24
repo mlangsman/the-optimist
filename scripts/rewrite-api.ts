@@ -134,7 +134,8 @@ export function buildLookup(
   return (customId: string): Job | undefined => byCustomId.get(customId);
 }
 
-function stopReasonError(message: Anthropic.Message): string | undefined {
+/** Why a response cannot be used, or undefined when it can. */
+export function stopReasonError(message: Anthropic.Message): string | undefined {
   if (message.stop_reason === 'max_tokens') return 'response hit max_tokens before finishing';
   if (message.stop_reason === 'refusal') {
     return `model refused${message.stop_details?.explanation ? `: ${message.stop_details.explanation}` : ''}`;

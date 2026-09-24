@@ -4,6 +4,8 @@ import type { Job } from '../../src/lib/types.js';
 import {
   ARTICLE_MAX_TOKENS,
   CHECK_MODEL,
+  TONE_MAX_TOKENS,
+  buildToneRequest,
   PREVIEW_MAX_TOKENS,
   REWRITE_MODEL,
   SONNET_5_BATCH_PRICES,
@@ -478,5 +480,38 @@ describe('buildLookup', () => {
     assert.equal(lookup('legacy-custom-id')?.id, previewJob.id);
     assert.equal(lookup(batchCustomId(articleJob, 0))?.id, articleJob.id);
     assert.equal(lookup('nope'), undefined);
+  });
+});
+
+describe('buildRewriteRequest with a revision', () => {
+  const params = buildRewriteRequest(previewJob, SYSTEM, 'claude-sonnet-5', {
+    previous: { headline: 'Bleak headline', trail: 'Trail' },
+    notes: ['Editor: "bleak" is the centre of gravity'],
+  });
+  const content = params.messages[0]?.content;
+
+  it('keeps the original copy and appends the previous attempt and the notes', () => {
+    assert.equal(typeof content, 'string');
+    assert.match(String(content), /HEADLINE:\nCard headline/);
+    assert.match(String(content), /YOUR PREVIOUS ATTEMPT/);
+    assert.match(String(content), /"Bleak headline"/);
+    assert.match(String(content), /- Editor: "bleak" is the centre of gravity/);
+  });
+
+  it('leaves the cached system prompt untouched', () => {
+    assert.deepEqual(params.system, buildRewriteRequest(previewJob, SYSTEM, 'claude-sonnet-5').system);
+  });
+});
+
+describe('buildToneRequest', () => {
+  const params = buildToneRequest('ORIG', 'NEW', 'RUBRIC', 'claude-sonnet-5');
+
+  it('caches the rubric, thinks at low effort and returns the verdict schema', () => {
+    assert.ok(Array.isArray(params.system));
+    assert.deepEqual(params.system[0]?.cache_control, { type: 'ephemeral' });
+    assert.equal(params.max_tokens, TONE_MAX_TOKENS);
+    assert.deepEqual(params.thinking, { type: 'adaptive' });
+    assert.equal(params.output_config?.effort, 'low');
+    assert.equal(params.messages[0]?.content, 'ORIGINAL:\nORIG\n\nREWRITE:\nNEW');
   });
 });

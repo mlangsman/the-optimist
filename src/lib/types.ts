@@ -178,10 +178,28 @@ export interface ResultsFile {
   results: JobResult[];
 }
 
-/** Output of the fact-check pass (scripts/check.ts). */
+/** One reviewer's verdict on one piece of copy. */
+export interface Verdict {
+  ok: boolean;
+  /** One short sentence per problem, quoting the offending words. */
+  issues: string[];
+}
+
+/**
+ * Output of the review pass (scripts/check.ts), one per rewritten job.
+ *
+ * `ok`/`issues` is the fact check: a failure means the rewrite is not
+ * published (an article goes headline-only, a preview falls back to the
+ * original). `tone` is the editorial review against prompts/rewrite.md: a
+ * failure never blocks publication on its own, but scripts/revise.ts and the
+ * daily routine send the copy back with the notes until it passes.
+ */
 export interface CheckResult {
   path: string;
+  /** Defaults to 'article' when absent (older check.json files). */
+  kind?: 'article' | 'preview';
   ok: boolean;
   /** Claims in the rewrite not supported by, or contradicting, the original. */
   issues: string[];
+  tone?: Verdict;
 }

@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { describe, it } from 'node:test';
 import type { Job, ResultsFile } from '../../src/lib/types.js';
-import { buildPairs, checkOne, mapWithConcurrency } from '../check.js';
+import { buildPairs, checkOne, mapWithConcurrency, mergeChecks } from '../check.js';
 
 const articleJob: Job = {
   id: 'a:/world/2026/sep/24/one',
@@ -51,9 +51,21 @@ const results: ResultsFile = {
 describe('buildPairs', () => {
   const pairs = buildPairs([articleJob, failedJob, previewJob], results);
 
-  it('pairs only article jobs that have a successful rewrite', () => {
-    assert.equal(pairs.length, 1);
-    assert.equal(pairs[0]?.path, articleJob.path);
+  it('pairs every job that has a successful rewrite, articles and previews', () => {
+    assert.deepEqual(
+      pairs.map((pair) => [pair.kind, pair.path]),
+      [
+        ['article', articleJob.path],
+        ['preview', previewJob.path],
+      ],
+    );
+  });
+
+  it('pairs a preview as headline + trail', () => {
+    const pair = pairs[1];
+    assert.ok(pair);
+    assert.equal(pair.original, 'Card\n\nTrail');
+    assert.equal(pair.rewrite, 'Card rewrite');
   });
 
   it('strips tags from both sides', () => {
@@ -90,7 +102,9 @@ describe('mapWithConcurrency', () => {
 });
 
 describe('checkOne', () => {
-  const pair = { path: '/p', original: 'ORIGINAL', rewrite: 'REWRITE' };
+  const pair = { path: '/p', kind: 'article' as const, original: 'ORIGINAL', rewrite: 'REWRITE' };
+  const factsOnly = { checkModel: 'claude-haiku-4-5' };
+  const both = { checkModel: 'claude-haiku-4-5', tone: { model: 'claude-sonnet-5', systemPrompt: 'TONE' } };
 
   it('reads a structured verdict back', async () => {
     const client = {
@@ -102,8 +116,31 @@ describe('checkOne', () => {
         }),
       },
     } as never;
-    const result = await checkOne(client, pair, 'claude-haiku-4-5');
-    assert.deepEqual(result, { path: '/p', ok: false, issues: ['40 became 14'] });
+    const result = await checkOne(client, pair, factsOnly);
+    assert.deepEqual(result, { path: '/p', kind: 'article', ok: false, issues: ['40 became 14'] });
+  });
+
+  it('runs the tone review on the same pair and keeps the two verdicts apart', async () => {
+    const client = {
+      messages: {
+        create: async (params: { model: string; system: unknown }) => ({
+          content: [
+            {
+              type: 'text',
+              text:
+                params.model === 'claude-sonnet-5'
+                  ? '{"ok":false,"issues":["headline is centred on bleak"]}'
+                  : '{"ok":true,"issues":[]}',
+            },
+          ],
+          stop_reason: 'end_turn',
+          usage: { input_tokens: 5, output_tokens: 3 },
+        }),
+      },
+    } as never;
+    const result = await checkOne(client, pair, both);
+    assert.equal(result.ok, true);
+    assert.deepEqual(result.tone, { ok: false, issues: ['headline is centred on bleak'] });
   });
 
   it('fails closed when the call throws', async () => {
@@ -114,8 +151,24 @@ describe('checkOne', () => {
         },
       },
     } as never;
-    const result = await checkOne(client, pair, 'claude-haiku-4-5');
+    const result = await checkOne(client, pair, both);
     assert.equal(result.ok, false);
     assert.match(String(result.issues[0]), /socket hang up/);
+    assert.equal(result.tone?.ok, false);
+  });
+});
+
+describe('mergeChecks', () => {
+  it('replaces re-run verdicts by kind and path, keeps the rest', () => {
+    const previous = [
+      { path: '/a', kind: 'article' as const, ok: true, issues: [] },
+      { path: '/a', kind: 'preview' as const, ok: false, issues: ['x'] },
+      { path: '/b', ok: true, issues: [] },
+    ];
+    const fresh = [{ path: '/a', kind: 'preview' as const, ok: true, issues: [] }];
+    const merged = mergeChecks(previous, fresh);
+    assert.equal(merged.length, 3);
+    assert.deepEqual(merged[1], fresh[0]);
+    assert.deepEqual(merged[2], previous[2]);
   });
 });

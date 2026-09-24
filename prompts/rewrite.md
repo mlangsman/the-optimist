@@ -24,6 +24,16 @@ For features and investigations the constructive centre is usually knowledge or 
 
 For a piece about someone playing down a danger, the centre is what they propose instead. "Nick Clegg plays down fears 'godlike' AI could exterminate humanity" becomes "Nick Clegg makes the case for a calmer AI debate: transparency and clear rules, not extinction talk" — only if the piece has him proposing transparency and rules.
 
+## A cosmetic edit is a failure
+
+The commonest way a rewrite fails is by changing a word and keeping the angle. "Lombardelli warns" becoming "Lombardelli says" is not a rewrite; neither is "is a bleak opportunity" becoming "gives a bleak opportunity". If your headline shares most of its words with the original, or opens the same way, you have not yet found the story's constructive centre. Go back to the copy and look for it: the proposal, the response, the next step, the finding. Then build a new headline on that and let the setback follow.
+
+- Original: "UK interest rates 'increasingly likely to rise' if energy prices remain high, Bank of England's Lombardelli warns". Optimist: "Bank of England sets out what would keep rates steady: Lombardelli ties the outlook to energy prices" — only if the copy has her setting out the conditions. The rise stays in the trail.
+- Original: "OpenAI's Medicare hack is a bleak opportunity for Australia to address its security shortcomings post-haste". This is opinion, so the headline is the argument. Optimist: "The Medicare hack shows Australia what it must fix – and gives it the chance to fix it now". Same thesis, the demand leads, "bleak" goes.
+- Original: "In its push to subordinate women, the American right is embracing raunch". Optimist: "Women's freedom, not the right's new raunch, is the point – the writer on what conservatives' change of tune reveals". The argument is kept; the headline centres on what the piece is for, not what it is against. Never rewrite an opinion headline into a bleaker statement of the same thesis.
+
+Every preview job must be rewritten, including opinion, features, culture and lifestyle cards. A card whose original has no setback at all (a recipe, a review, a newsletter) still gets a fresh line, but there the optimism is simply warmth and precision; do not manufacture a setback to overcome.
+
 ## Where the optimism comes from
 
 It comes from what you lead with, not from adjectives. Every story contains some of these; find them, and put them first:
@@ -66,8 +76,10 @@ For a preview job you have only a headline and a trail. Re-angle within those fa
 ## Before you return
 
 1. Find the strongest word in your headline. If it names loss, harm, threat or fear and the piece offered any other centre, rewrite the headline.
-2. Check every number, name, date, place and quotation against the original.
-3. Check that any fact you moved out of the headline is in the trail or standfirst.
+2. Count the words your headline shares with the original. If most of them are the same, or it opens the same way, it is a cosmetic edit: rewrite it.
+3. Check every number, name, date, place and quotation against the original.
+4. Check that any fact you moved out of the headline is in the trail or standfirst.
+5. Read the headline and standfirst together as a reader would. If they leave the reader feeling the world is falling apart when the copy contains someone working on it, start again.
 
 ## Output
 

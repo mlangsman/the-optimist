@@ -7,10 +7,11 @@
  *   and data/<date>/engine/article-*.json — { id, output: ArticleJobOutput }
  * Parts are keyed by content path / job id, never by position, so re-running
  * fetch or jobs cannot attach a rewrite to the wrong story.
- * A preview without an entry passes through unchanged (original headline/trail).
- * An article without a part, or with an invalid one, becomes an error result
- * (published headline-only by assemble.ts). Every part is validated with the
- * same parser the API engine uses.
+ * A preview without an entry passes through unchanged (original headline/trail),
+ * which is the Guardian's framing verbatim — so the run fails and lists them
+ * unless --allow-missing is given. An article without a part, or with an
+ * invalid one, becomes an error result (published headline-only by
+ * assemble.ts). Every part is validated with the same parser the API engine uses.
  */
 import { readdirSync } from 'node:fs';
 import { join } from 'node:path';
@@ -19,7 +20,13 @@ import { parseRewriteOutput } from './lib/anthropic.js';
 import { dayFile, errorMessage, maybeHelp, parseArgs, readJson, resolveDate, runMain, writeJson } from './lib/cli.js';
 import { stripTags } from './lib/html.js';
 
-const HELP = `scripts/results-from-parts.ts — assemble results.json from engine/ parts\n\nOptions:\n  --date=YYYY-MM-DD\n  --help\n`;
+const HELP = `scripts/results-from-parts.ts — assemble results.json from engine/ parts
+
+Options:
+  --date=YYYY-MM-DD
+  --allow-missing     Exit 0 even when previews have no part (they pass through unchanged).
+  --help
+`;
 
 type PreviewParts = Record<string, Partial<PreviewJobOutput>>;
 interface ArticlePart {
@@ -52,6 +59,7 @@ async function main(): Promise<void> {
 
   const results: JobResult[] = [];
   let changed = 0;
+  const missing: string[] = [];
   for (const job of jobs.jobs) {
     if (job.kind === 'preview') {
       const part = previewParts[job.path];
@@ -59,6 +67,7 @@ async function main(): Promise<void> {
       const trail = part?.trail ?? stripTags(job.input.trail);
       if (trail) output.trail = trail;
       if (part) changed++;
+      else missing.push(job.path);
       results.push({ id: job.id, kind: 'preview', output });
     } else {
       const output = articleParts.get(job.id);
@@ -78,6 +87,14 @@ async function main(): Promise<void> {
   writeJson(out, file);
   const errors = results.filter((r) => 'error' in r);
   process.stdout.write(`${out}: ${results.length} results, ${changed} previews rewritten, ${articleParts.size} article parts, ${errors.length} errors\n`);
+  if (missing.length > 0) {
+    process.stdout.write(`${missing.length} previews have no part in engine/previews.json and would ship the Guardian headline as is:\n`);
+    for (const path of missing) process.stdout.write(`  ${path}\n`);
+    if (!args.flags.has('allow-missing')) {
+      process.stdout.write('Write them and rerun, or pass --allow-missing.\n');
+      process.exitCode = 1;
+    }
+  }
   for (const failure of errors) if ('error' in failure) process.stdout.write(`  ${failure.id}: ${failure.error}\n`);
 }
 

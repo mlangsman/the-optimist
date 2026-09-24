@@ -14,6 +14,8 @@
     "jobs": "tsx scripts/jobs.ts",
     "rewrite:api": "tsx scripts/rewrite-api.ts",
     "check": "tsx scripts/check.ts",
+    "tone": "tsx scripts/tone.ts",
+    "revise": "tsx scripts/revise.ts",
     "assemble": "tsx scripts/assemble.ts",
     "test": "node --import tsx --test scripts/**/*.test.ts",
     "typecheck": "tsc --noEmit -p tsconfig.json && astro check",

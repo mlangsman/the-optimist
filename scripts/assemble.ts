@@ -58,7 +58,8 @@ Output:
   data/latest.json           a copy, which the Astro site reads
 
 Anything without a usable rewrite — a missing result, an engine error, or a
-failed fact check — is published headline-only with an empty body.
+failed fact check — is published headline-only with an empty body. A preview
+that failed its fact check falls back to the original headline and trail.
 `;
 
 /** Lookup of rewrite outputs by job id, ignoring results that carried an error. */
@@ -68,7 +69,28 @@ interface Rewrites {
   errors: number;
 }
 
-function indexResults(results: ResultsFile): Rewrites {
+/** Paths whose fact check failed, per job kind. Tone verdicts never gate. */
+interface CheckFailures {
+  article: ReadonlySet<string>;
+  preview: ReadonlySet<string>;
+}
+
+export function indexChecks(checks: readonly CheckResult[]): CheckFailures {
+  const article = new Set<string>();
+  const preview = new Set<string>();
+  for (const check of checks) {
+    if (check.ok) continue;
+    ((check.kind ?? 'article') === 'article' ? article : preview).add(check.path);
+  }
+  return { article, preview };
+}
+
+/**
+ * Index the usable rewrites. A rewrite whose fact check failed is left out
+ * here, so every reader below falls back to the original the same way it
+ * would for a missing or errored result.
+ */
+function indexResults(results: ResultsFile, failed: CheckFailures): Rewrites {
   const article = new Map<string, ArticleJobOutput>();
   const preview = new Map<string, PreviewJobOutput>();
   let errors = 0;
@@ -79,8 +101,11 @@ function indexResults(results: ResultsFile): Rewrites {
       continue;
     }
     const path = result.id.slice(result.id.indexOf(':') + 1);
-    if (result.kind === 'article') article.set(path, result.output);
-    else preview.set(path, result.output);
+    if (result.kind === 'article') {
+      if (!failed.article.has(path)) article.set(path, result.output);
+    } else if (!failed.preview.has(path)) {
+      preview.set(path, result.output);
+    }
   }
   return { article, preview, errors };
 }
@@ -175,15 +200,10 @@ function buildCard(
   return card;
 }
 
-function buildArticle(
-  raw: RawData,
-  rewrites: Rewrites,
-  checkFailed: ReadonlySet<string>,
-  rawArticle: RawArticle,
-): Article {
+function buildArticle(raw: RawData, rewrites: Rewrites, rawArticle: RawArticle): Article {
   const { path } = rawArticle;
   const output = rewrites.article.get(path);
-  const usable = output !== undefined && !checkFailed.has(path);
+  const usable = output !== undefined;
 
   const source = rawSourceFor(raw, path);
   const original = buildOriginal(path, source, rawArticle.headline);
@@ -253,12 +273,11 @@ export function assemble(
   results: ResultsFile,
   checks: readonly CheckResult[],
 ): SiteData {
-  const rewrites = indexResults(results);
-  const checkFailed = new Set(checks.filter((check) => !check.ok).map((check) => check.path));
+  const rewrites = indexResults(results, indexChecks(checks));
 
   const articles: Record<string, Article> = {};
   for (const rawArticle of Object.values(raw.articles)) {
-    articles[rawArticle.path] = buildArticle(raw, rewrites, checkFailed, rawArticle);
+    articles[rawArticle.path] = buildArticle(raw, rewrites, rawArticle);
   }
   // Related rails need the article map to exist first so `linked` is accurate.
   for (const rawArticle of Object.values(raw.articles)) {
@@ -321,11 +340,12 @@ async function main(): Promise<void> {
   const rewritten = all.filter((article) => article.status === 'rewritten').length;
   const cards = site.front.reduce((total, container) => total + container.cards.length, 0);
   const failedChecks = checks.filter((check) => !check.ok).length;
+  const failedTone = checks.filter((check) => check.tone?.ok === false).length;
 
   process.stdout.write(
     `${out} (+ ${latest}): ${site.front.length} containers, ${cards} cards, ` +
       `${all.length} articles (${rewritten} rewritten, ${all.length - rewritten} headline-only), ` +
-      `engine ${site.engine}, ${failedChecks} failed checks\n`,
+      `engine ${site.engine}, ${failedChecks} failed fact checks, ${failedTone} failed tone reviews\n`,
   );
 }
 
