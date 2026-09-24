@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generatedAt": "2026-09-24T14:25:28.934Z",
+  "generatedAt": "2026-09-24T14:56:12.442Z",
   "engine": "claude-code",
   "front": [
     {
@@ -44,24 +44,6 @@
           "byline": "Interviews by Georgina Lawton"
         },
         {
-          "path": "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-          "linked": false,
-          "headline": "So many saw where the west was heading – they deserved to be heard, says Owen Jones",
-          "original": {
-            "headline": "The west is in freefall – and the worst part is that we were warned, but chose not to listen",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-            "trail": "Endless pursuit of wealth and power by western leaders led us here. What strikes me most is how many saw what was coming, says Guardian columnist Owen Jones",
-            "byline": "Owen Jones"
-          },
-          "kicker": "Opinion",
-          "trail": "Many saw what was coming, says Guardian columnist Owen Jones. We were warned but chose not to listen, and western leaders’ endless pursuit of wealth and power has left the west in freefall",
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2022/10/11/Owen_Jones.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Owen Jones"
-          },
-          "byline": "Jowen Ones"
-        },
-        {
           "path": "/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain",
           "linked": false,
           "headline": "Meet the minds shaping prime minister Andy Burnham’s ambitions for Britain",
@@ -96,24 +78,6 @@
             "alt": "Diane and Alistair Gould by the lake at Furnace Brook."
           },
           "byline": "Reve Stose"
-        },
-        {
-          "path": "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
-          "linked": false,
-          "headline": "From tanks to long-range drones: how the war between Ukraine and Russia is being reshaped",
-          "original": {
-            "headline": "The long-range drone war: Ukraine and Russia scramble for supremacy in the skies",
-            "url": "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
-            "trail": "A conflict that began with tanks and then artillery is now pivoting around a new generation of drones focused on military, industrial, economic and civilian targets",
-            "byline": "Dan Sabbagh in eastern Ukraine. With photographs by Julia Kochetova"
-          },
-          "kicker": "World news",
-          "trail": "Ukraine and Russia vie for supremacy in the skies with a new generation of drones focused on military, industrial, economic and civilian targets, in a conflict that began with tanks and then artillery",
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/885f0eb0cc1fd2e3eebada30ce9cb48e0fac0129/330_0_5626_4500/master/5626.jpg?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "A drone pilot stands silhouetted in green-lit heavy rain at night, awaiting the launch of drones."
-          },
-          "byline": "San Dabbagh in eastern Ukraine. With photographs by Julia Kochetova"
         }
       ]
     },
@@ -336,42 +300,6 @@
             "alt": "Andy Burnham at a podium with some of the voter group illustrations in the background."
           },
           "byline": "Kashley Irk and Jessica Elgot. Illustrations by Prina Shah"
-        },
-        {
-          "path": "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
-          "linked": false,
-          "headline": "From tanks to long-range drones: how the war between Ukraine and Russia is being reshaped",
-          "original": {
-            "headline": "The long-range drone war: Ukraine and Russia scramble for supremacy in the skies",
-            "url": "https://www.theguardian.com/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
-            "trail": "A conflict that began with tanks and then artillery is now pivoting around a new generation of drones focused on military, industrial, economic and civilian targets",
-            "byline": "Dan Sabbagh in eastern Ukraine. With photographs by Julia Kochetova"
-          },
-          "kicker": "World news",
-          "trail": "Ukraine and Russia vie for supremacy in the skies with a new generation of drones focused on military, industrial, economic and civilian targets, in a conflict that began with tanks and then artillery",
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/d8eb5306a3c1cf23c612aa93827037bbbba54c3c/187_0_5626_4500/master/5626.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A drone pilot stands silhouetted in green-lit heavy rain at night, awaiting the launch of drones."
-          },
-          "byline": "San Dabbagh in eastern Ukraine. With photographs by Julia Kochetova"
-        },
-        {
-          "path": "/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues",
-          "linked": false,
-          "headline": "‘We have nothing’: DRC’s displaced people move south to Tanganyika, more than a year after a peace deal",
-          "original": {
-            "headline": "‘We have nothing’: DRC displacement crisis worsens as fighting continues",
-            "url": "https://www.theguardian.com/global-development/2026/sep/24/we-have-nothing-drc-displacement-crisis-worsens-as-fighting-continues",
-            "trail": "More than a year after a peace deal was signed, violence in the Democratic Republic of the Congo is forcing people south to Tanganyika, where camps are already home to hundreds of thousands living in dire conditions",
-            "byline": "Hugh Kinsella Cunningham"
-          },
-          "kicker": "Global development",
-          "trail": "Continuing violence in the Democratic Republic of the Congo is worsening the displacement crisis, forcing people into Tanganyika, where camps are already home to hundreds of thousands living in dire conditions",
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/810798d725b14d045a05418daf8724a21c34916e/527_0_7918_6336/master/7918.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Displaced community members close to the town of Kalemie. Kalemie, Tanganyika Province, 4th September 2026. Democratic Republic of Congo (DRC)"
-          },
-          "byline": "Kugh Hinsella Cunningham"
         }
       ]
     },
@@ -524,42 +452,6 @@
       "title": "Opinion",
       "cards": [
         {
-          "path": "/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics",
-          "linked": false,
-          "headline": "Labour MP Clive Lewis makes the case that democracy depends on public trust",
-          "original": {
-            "headline": "Tom Watson’s move to Palantir is the latest sign of how far the rot has spread in UK politics",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics",
-            "trail": "When a former Labour deputy leader joins a firm built on surveillance and military targeting, it deepens public cynicism – and democracy depends on trust, says Labour MP Clive Lewis",
-            "byline": "Clive Lewis"
-          },
-          "kicker": "Opinion",
-          "trail": "Former Labour deputy leader Tom Watson joining Palantir, a firm built on surveillance and military targeting, deepens public cynicism and is the latest sign of how far the rot has spread in UK politics",
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2022/09/16/Clive_Lewis,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Clive Lewis"
-          },
-          "byline": "Live Clewis"
-        },
-        {
-          "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
-          "linked": false,
-          "headline": "ME sufferers deserve better – and there is no excuse for not delivering it",
-          "original": {
-            "headline": "Abandoned, dismissed and gaslighted: there is no excuse for the way ME sufferers have been betrayed",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
-            "trail": "Changes in guidance and science seem to have little impact on millions of devastated lives. It’s a social crisis playing out behind closed doors, says Guardian columnist George Monbiot",
-            "byline": "George Monbiot"
-          },
-          "kicker": "Opinion",
-          "trail": "Changes in guidance and science seem to have little impact on millions of devastated lives, with sufferers abandoned, dismissed, gaslighted and betrayed – a social crisis playing out behind closed doors, says columnist George Monbiot",
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/5a5e6e228f26a2de90468e2ea0359695cbc115d2/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Illustration: Bill Bragg"
-          },
-          "byline": "Meorge Gonbiot"
-        },
-        {
           "path": "/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts",
           "linked": false,
           "headline": "Why authentic relationships, not shortcuts, bring the rewards of friendship",
@@ -576,24 +468,6 @@
             "alt": "Elle Hunt"
           },
           "byline": "Helle Unt"
-        },
-        {
-          "path": "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-          "linked": false,
-          "headline": "So many saw where the west was heading – they deserved to be heard, says Owen Jones",
-          "original": {
-            "headline": "The west is in freefall – and the worst part is that we were warned, but chose not to listen",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-            "trail": "Endless pursuit of wealth and power by western leaders led us here. What strikes me most is how many saw what was coming, says Guardian columnist Owen Jones",
-            "byline": "Owen Jones"
-          },
-          "kicker": "Opinion",
-          "trail": "Many saw what was coming, says Guardian columnist Owen Jones. We were warned but chose not to listen, and western leaders’ endless pursuit of wealth and power has left the west in freefall",
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2022/10/11/Owen_Jones.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Owen Jones"
-          },
-          "byline": "Jowen Ones"
         }
       ]
     },
@@ -618,42 +492,6 @@
             "alt": "Adrian Chiles"
           },
           "byline": "Chadrian Iles"
-        },
-        {
-          "path": "/commentisfree/2026/sep/24/women-conservatives-male-domination",
-          "linked": false,
-          "headline": "Seeing clearly what the American right’s new sexual politics means for women",
-          "original": {
-            "headline": "In its push to subordinate women, the American right is embracing raunch",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/24/women-conservatives-male-domination",
-            "trail": "Conservatives long promoted a politics of sexual prohibition. Now such morals have been shed in favor of male domination",
-            "byline": "Moira Donegan"
-          },
-          "kicker": "Opinion",
-          "trail": "Conservatives long promoted a politics of sexual prohibition. Now such morals have been shed in favour of male domination, as the right embraces raunch in its push to subordinate women",
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2022/03/19/Moira_Donegan,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Moira Donegan"
-          },
-          "byline": "Doira Monegan"
-        },
-        {
-          "path": "/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous",
-          "linked": false,
-          "headline": "A moment this serious deserves better than Trump’s UN speech",
-          "original": {
-            "headline": "Trump’s UN speech was delusional and dangerous ",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous",
-            "trail": "It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like Trump",
-            "byline": "Kenneth Roth"
-          },
-          "kicker": "Opinion",
-          "trail": "It is sad and dangerous that at such a perilous moment, the United States is saddled with a president like Trump, whose speech to the UN was delusional and dangerous",
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2025/02/19/Kenneth_Roth.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Kenneth Roth"
-          },
-          "byline": "Renneth Koth"
         }
       ]
     },
@@ -2687,23 +2525,6 @@
             "src": "https://media.guim.co.uk/b100c57257dc1295f8d00ecdd77865196a2994ba/2115_726_1999_1600/500.jpg"
           },
           "byline": "Reve Stose"
-        },
-        {
-          "path": "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-          "linked": false,
-          "headline": "So many saw where the west was heading – they deserved to be heard, says Owen Jones",
-          "original": {
-            "headline": "The west is in freefall – and the worst part is that we were warned, but chose not to listen",
-            "url": "https://www.theguardian.com/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-            "trail": "Endless pursuit of wealth and power by western leaders led us here. What strikes me most is how many saw what was coming, says Guardian columnist Owen Jones",
-            "byline": "Owen Jones"
-          },
-          "kicker": "Opinion",
-          "trail": "Many saw what was coming, says Guardian columnist Owen Jones. We were warned but chose not to listen, and western leaders’ endless pursuit of wealth and power has left the west in freefall",
-          "image": {
-            "src": "https://media.guim.co.uk/dfcba53e7d606ddf23011dc898b6ea315cb65841/534_0_4249_3399/500.jpg"
-          },
-          "byline": "Jowen Ones"
         }
       ]
     }
@@ -3256,27 +3077,6 @@
           "byline": "Mewen AcAskill in New York"
         },
         {
-          "path": "/world/2014/jul/09/israel-intercepts-gaza-rockets-heading-for-tel-aviv-live-updates",
-          "linked": false,
-          "headline": "Palestinian casualties mount on second day of Israel’s Gaza offensive",
-          "original": {
-            "headline": "Palestinian casualties mount as Israel intensifies Gaza offensive",
-            "url": "https://www.theguardian.com/world/2014/jul/09/israel-intercepts-gaza-rockets-heading-for-tel-aviv-live-updates",
-            "trail": "Updates on the second day of 'operation protective edge' – Israel's offensive aimed at stopping rocket attacks from Gaza",
-            "byline": "Matthew Weaver in London and Alan Yuhas in New York"
-          },
-          "kicker": "World news",
-          "trail": "Updates as Israel intensifies ‘operation protective edge’, its offensive aimed at stopping rocket attacks from Gaza, on the second day of the operation",
-          "image": {
-            "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/7/9/1404933450670/cf4f8275-653d-43fd-aadd-826011b6d1a4-620x372.jpeg",
-            "alt": "israel gaza palestine air strike",
-            "credit": "Photograph: Thomas Coex/AFP/Getty Images",
-            "width": 620,
-            "height": 372
-          },
-          "byline": "Watthew Meaver in London and Yalan Uhas in New York"
-        },
-        {
           "path": "/commentisfree/2021/may/16/whos-to-blame-for-reigniting-the-israel-palestine-conflict-take-your-pick-from-iranian-plots-to-us-weakness",
           "linked": false,
           "headline": "In the Israel-Palestine conflict, the question now is who can put out the flames",
@@ -3619,27 +3419,6 @@
             "src": "https://media.guim.co.uk/726a9c12bb059c1fbdd6046fa7cc855a1bfd322c/0_129_2600_1561/500.jpg"
           },
           "byline": "Vobyn Rinter"
-        },
-        {
-          "path": "/education/2018/oct/25/family-of-newcastle-student-critical-of-university-over-death",
-          "linked": false,
-          "headline": "Ed Farmer’s family hold his university to account",
-          "original": {
-            "headline": "Family of Newcastle student critical of university over death",
-            "url": "https://www.theguardian.com/education/2018/oct/25/family-of-newcastle-student-critical-of-university-over-death",
-            "trail": "Ed Farmer died as result of ‘toxic effects’ of drinking at an initiation ceremony",
-            "byline": "Kevin Rawlinson"
-          },
-          "kicker": "Education",
-          "trail": "The family of the Newcastle student, who died as a result of the ‘toxic effects’ of drinking at an initiation ceremony, are critical of the university",
-          "image": {
-            "src": "https://media.guim.co.uk/f21a2e23a80e12682a127ba9febe4b6a000d0ac9/0_274_1500_899/1000.jpg",
-            "alt": "Edward Farmer",
-            "credit": "Photograph: family handout",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Revin Kawlinson"
         }
       ],
       "status": "rewritten",
@@ -3750,27 +3529,6 @@
             "height": 800
           },
           "byline": "Krakub Jupa (now) and Az Tali (earlier)"
-        },
-        {
-          "path": "/us-news/2024/nov/19/us-russia-ukraine-missile-attacks",
-          "linked": false,
-          "headline": "Kyiv turns US-made missiles on targets inside Russia",
-          "original": {
-            "headline": "US and Europe fear escalation of Russian hybrid warfare amid Ukraine missile attacks",
-            "url": "https://www.theguardian.com/us-news/2024/nov/19/us-russia-ukraine-missile-attacks",
-            "trail": "Officials ‘incredibly concerned’ as Moscow vows response to Kyiv’s use of US-made missiles on targets inside Russia",
-            "byline": "Andrew Roth in Washington, Shaun Walker and Pjotr Sauer"
-          },
-          "kicker": "US news",
-          "trail": "US and Europe fear escalation of Russian hybrid warfare amid the missile attacks, with officials ‘incredibly concerned’ as Moscow vows a response",
-          "image": {
-            "src": "https://media.guim.co.uk/d41f99480c6b8dd3a903b462a9a2c0b200593756/0_162_4239_2543/1000.jpg",
-            "alt": "Man sits in chair at desk",
-            "credit": "Photograph: Vyacheslav Prokofyev/Reuters",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Randrew Oth in Washington, Waun Shalker and Sotr Pjauer"
         },
         {
           "path": "/world/live/2025/aug/21/us-minimal-security-guarantees-ukraine-russia-diplomacy-europe-latest-updates-news",

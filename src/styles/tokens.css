@@ -32,18 +32,22 @@
 	--neutral-97: #f6f6f6;
 	--neutral-100: #ffffff;
 
-	/* Palette — `brand` (the Guardian blue) */
-	--brand-100: #001536;
-	--brand-300: #041f4a;
-	--brand-400: #052962;
-	--brand-500: #0077b6;
-	--brand-600: #506991;
-	--brand-800: #c1d8fc;
+	/* Palette — `brand`. The Optimist's key colour is a dusky rose, #735560;
+	 * the other steps are shades and tints of the same hue, keeping the
+	 * Guardian's step names so every component reads them unchanged. White
+	 * on brand-400 is 6.6:1, on brand-300 8.6:1. */
+	--brand-100: #2e2025;
+	--brand-300: #5a414b;
+	--brand-400: #735560;
+	--brand-500: #a4687d; /* focus halo */
+	--brand-600: #967883; /* rules on brand-400 */
+	--brand-800: #eedfe4; /* light text/links on brand-400 */
+	--brand-900: #f7f0f2; /* pale tint for quiet surfaces */
 
 	/* Palette — pillars. The `*-400`/`*-300` steps are the ones the Guardian
 	 * uses for kickers and links on a white background. */
-	--pillar-news: #c70000; /* news[400] */
-	--pillar-news-dark: #ab0613; /* news[300] — link colour on white */
+	--pillar-news: #a12d4e; /* raspberry, in the key colour's family; 7:1 on white */
+	--pillar-news-dark: #86223f; /* link colour on white */
 	--pillar-opinion: #e05e00; /* opinion[450] */
 	--pillar-opinion-dark: #c74600; /* opinion[300] */
 	--pillar-sport: #0077b6; /* sport[400] */
@@ -80,20 +84,17 @@
 	--section-title: var(--neutral-7); /* --article-section-title #121212 */
 	--section-title-secondary: var(--neutral-20); /* #333333 */
 
-	/* The real Guardian runs a darker strip above the nav
-	 * (--masthead-top-bar-background #041F4A over --masthead-nav-background
-	 * #052962). The brief specifies #052962 for the bar, so that is the main
-	 * surface and brand-300 is kept for the thin strip above it. */
+	/* A darker strip (brand-300) runs above the nav, which is the key colour. */
 	--masthead-top-bar-background: var(--brand-300);
 	--masthead-nav-background: var(--brand-400);
-	--masthead-nav-border: var(--brand-600); /* --masthead-nav-lines #506991 */
+	--masthead-nav-border: var(--brand-600);
 	--masthead-text: var(--neutral-100);
 	--masthead-link-hover: var(--brandAlt-400);
-	--brandAlt-400: #ffe500;
+	--brandAlt-400: #f6c85f; /* warm gold: hover accent on the brand bars */
 
 	/* Brighter pillar steps, used only for the nav underline bars — matching
 	 * the inline --pillar-underline values in the reference markup. */
-	--underline-news: #ff5943;
+	--underline-news: #f29bb4;
 	--underline-opinion: #ff7f0f;
 	--underline-sport: #00b2ff;
 	--underline-culture: #eacca0;
@@ -105,7 +106,7 @@
 	--footer-border: var(--brand-600);
 
 	--caption-text: var(--neutral-46);
-	--notice-background: var(--neutral-97);
+	--notice-background: var(--brand-900);
 	--focus-halo: var(--brand-500);
 
 	/* The masthead highlights strip — values verbatim from the Guardian's
@@ -113,8 +114,8 @@
 	--highlights-container-background: var(--neutral-100);
 	--highlights-container-border: var(--neutral-60); /* #999999 */
 	--highlights-container-separator: var(--neutral-86);
-	--highlights-card-background: #fff4f2;
-	--highlights-card-headline: #c70000;
+	--highlights-card-background: var(--brand-900);
+	--highlights-card-headline: var(--pillar-news);
 	--highlights-card-kicker-text: var(--neutral-7);
 
 	/* ---------------------------------------------------------------------

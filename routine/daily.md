@@ -14,10 +14,11 @@ You are the rewrite engine for The Optimist. Run once, produce today's edition, 
    - the fact check (`CHECK_SYSTEM_PROMPT`): `ok: false` with one issue per problem for any rewrite that adds, drops or changes a fact, number, name, date or quote;
    - the tone review (`TONE_SYSTEM_PROMPT`, judged against `prompts/rewrite.md`): `tone: {ok, issues}`. Be as hard on your own copy as the prompt asks: a cosmetic edit fails, and a headline that still mentions the setback at all fails when the copy offered an upside to build on instead.
    Then revise every job that failed either verdict, starting again from the original copy and addressing each note, update the parts, and rerun steps 4 to 6 for those jobs. Stop after three rounds; anything still failing the fact check ships headline-only (or, for a preview, as the original), and anything still failing tone is left as the best attempt and listed in the run summary.
-7. `npm run assemble` — writes `data/<date>/site.json` and `data/latest.json`.
-8. `npm run build` — must succeed.
-9. Prune folders under `data/` older than 30 days.
-10. Commit `data/` only, with the message `Edition <date>`, and push to `main`. GitHub Actions deploys the site.
+7. Drop what is too depressing to run. After review, list every story whose copy offers no genuine upside — death, violence, casualties or suffering with no response in the copy, an opinion piece of pure despair or condemnation, or a rewrite whose upside reads as spin — in `data/<date>/drop.json` as `{ "<content path>": "one-sentence reason" }`. Keep culture, lifestyle, sport and any story with a real response, next step or progress. Expect around 5–15 a day; `assemble` leaves these out of the front page, the article pages and the related rails.
+8. `npm run assemble` — writes `data/<date>/site.json` and `data/latest.json`.
+9. `npm run build` — must succeed.
+10. Prune folders under `data/` older than 30 days.
+11. Commit `data/` only, with the message `Edition <date>`, and push to `main`. GitHub Actions deploys the site.
 
 ## Rules
 

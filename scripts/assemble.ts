@@ -52,6 +52,7 @@ Input:
   data/<date>/raw.json       from scripts/fetch.ts        (required)
   data/<date>/results.json   from the rewrite engine      (required)
   data/<date>/check.json     from scripts/check.ts        (optional)
+  data/<date>/drop.json      { "<path>": "reason" }       (optional)
 
 Output:
   data/<date>/site.json      SiteData
@@ -60,6 +61,9 @@ Output:
 Anything without a usable rewrite — a missing result, an engine error, or a
 failed fact check — is published headline-only with an empty body. A preview
 that failed its fact check falls back to the original headline and trail.
+A path listed in drop.json is left out entirely: its front cards, its article
+page and any related-rail card pointing at it. A container left with no cards
+is removed.
 `;
 
 /** Lookup of rewrite outputs by job id, ignoring results that carried an error. */
@@ -272,30 +276,38 @@ export function assemble(
   raw: RawData,
   results: ResultsFile,
   checks: readonly CheckResult[],
+  dropped: ReadonlySet<string> = new Set(),
 ): SiteData {
   const rewrites = indexResults(results, indexChecks(checks));
+  const kept = Object.values(raw.articles).filter((rawArticle) => !dropped.has(rawArticle.path));
 
   const articles: Record<string, Article> = {};
-  for (const rawArticle of Object.values(raw.articles)) {
+  for (const rawArticle of kept) {
     articles[rawArticle.path] = buildArticle(raw, rewrites, rawArticle);
   }
   // Related rails need the article map to exist first so `linked` is accurate.
-  for (const rawArticle of Object.values(raw.articles)) {
+  for (const rawArticle of kept) {
     const article = articles[rawArticle.path];
-    if (article) article.related = buildRelatedCards(raw, rewrites, rawArticle);
+    if (article) {
+      article.related = buildRelatedCards(raw, rewrites, rawArticle).filter((card) => !dropped.has(card.path));
+    }
   }
 
-  const front: FrontContainer[] = raw.front.map((container) => ({
-    id: container.id,
-    title: container.title,
-    cards: container.cards.map((card: RawCard) =>
-      buildCard(raw, rewrites, articles, {
-        path: card.path,
-        ...(card.headline === undefined ? {} : { headline: card.headline }),
-        ...(card.image === undefined ? {} : { image: card.image }),
-      }),
-    ),
-  }));
+  const front: FrontContainer[] = raw.front
+    .map((container) => ({
+      id: container.id,
+      title: container.title,
+      cards: container.cards
+        .filter((card: RawCard) => !dropped.has(card.path))
+        .map((card: RawCard) =>
+          buildCard(raw, rewrites, articles, {
+            path: card.path,
+            ...(card.headline === undefined ? {} : { headline: card.headline }),
+            ...(card.image === undefined ? {} : { image: card.image }),
+          }),
+        ),
+    }))
+    .filter((container) => container.cards.length > 0);
 
   return {
     date: raw.date,
@@ -317,6 +329,19 @@ function readChecks(file: string): CheckResult[] {
   }
 }
 
+function readDropped(file: string): Set<string> {
+  try {
+    const dropped = readJson<Record<string, string>>(file, 'drop.json');
+    if (typeof dropped !== 'object' || dropped === null || Array.isArray(dropped)) {
+      throw new Error('drop.json must be an object mapping content path to reason');
+    }
+    return new Set(Object.keys(dropped));
+  } catch (error) {
+    if (errorMessage(error).startsWith('Missing drop.json')) return new Set();
+    throw error;
+  }
+}
+
 async function main(): Promise<void> {
   const args = parseArgs();
   maybeHelp(args, HELP);
@@ -329,7 +354,9 @@ async function main(): Promise<void> {
   );
   const checks = readChecks(dayFile(date, 'check.json'));
 
-  const site = assemble(raw, results, checks);
+  const dropped = readDropped(dayFile(date, 'drop.json'));
+
+  const site = assemble(raw, results, checks, dropped);
 
   const out = dayFile(date, 'site.json');
   writeJson(out, site);
@@ -345,7 +372,8 @@ async function main(): Promise<void> {
   process.stdout.write(
     `${out} (+ ${latest}): ${site.front.length} containers, ${cards} cards, ` +
       `${all.length} articles (${rewritten} rewritten, ${all.length - rewritten} headline-only), ` +
-      `engine ${site.engine}, ${failedChecks} failed fact checks, ${failedTone} failed tone reviews\n`,
+      `engine ${site.engine}, ${failedChecks} failed fact checks, ${failedTone} failed tone reviews, ` +
+      `${dropped.size} stories dropped\n`,
   );
 }
 

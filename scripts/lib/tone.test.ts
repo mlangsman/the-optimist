@@ -174,6 +174,19 @@ describe('assemble with preview checks', () => {
     assert.equal(tone.front[0]?.cards[0]?.headline, 'Rewritten');
   });
 
+  it('leaves a dropped story out of the front and removes a container left empty', () => {
+    const twoContainers = {
+      ...raw,
+      front: [
+        { id: 'news', title: 'News', cards: [{ path: '/p' }, { path: '/q' }] },
+        { id: 'opinion', title: 'Opinion', cards: [{ path: '/p' }] },
+      ],
+    };
+    const site = assemble(twoContainers, results, [], new Set(['/p']));
+    assert.deepEqual(site.front.map((container) => container.id), ['news']);
+    assert.deepEqual(site.front[0]?.cards.map((card) => card.path), ['/q']);
+  });
+
   it('keeps an article-kind failure away from the preview of the same path', () => {
     const failures = indexChecks([{ path: '/p', ok: false, issues: ['x'] }]);
     assert.ok(failures.article.has('/p'));
