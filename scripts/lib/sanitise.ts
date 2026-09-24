@@ -9,6 +9,9 @@ import type { Element } from 'domhandler';
 
 const GUARDIAN_BASE = 'https://www.theguardian.com';
 
+/** Zero-width and joiner characters that carry no content. */
+const INVISIBLE = /[\u200b\u200c\u200d\u2060\ufeff]/g;
+
 /** Tag -> attributes kept on it. Everything not listed here is removed. */
 const ALLOWED: Readonly<Record<string, readonly string[]>> = {
   p: [],
@@ -90,7 +93,8 @@ export function absoluteHttps(href: string | undefined): string | undefined {
  */
 export function sanitiseHtml(html: string): string {
   if (!html) return '';
-  const $ = cheerio.load(html, null, false);
+  // Guardian bodies carry zero-width "watermark" characters; they break copy/paste and search.
+  const $ = cheerio.load(html.replace(INVISIBLE, ''), null, false);
 
   // Deepest-first, so unwrapping a parent cannot resurrect a child we already handled.
   const elements = $('*').toArray().reverse() as Element[];
@@ -101,6 +105,12 @@ export function sanitiseHtml(html: string): string {
     if (!tag) continue;
 
     if (DROP_WITH_CONTENT.has(tag) || tag.includes('-')) {
+      node.remove();
+      continue;
+    }
+
+    // Interactive/embed figures have no image; without their iframe they are just a stray link.
+    if (tag === 'figure' && node.find('img').length === 0) {
       node.remove();
       continue;
     }

@@ -69,7 +69,7 @@ function extractImage($: cheerio.CheerioAPI, anchor: cheerio.Cheerio<AnyNode>): 
   const src = img.attr('src')?.trim();
   if (!src || !/^https?:\/\//i.test(src)) return undefined;
 
-  const image: Image = { src };
+  const image: Image = { src: cardImageUrl(src) };
   const alt = normaliseWhitespace(img.attr('alt') ?? '');
   if (alt) image.alt = alt;
 
@@ -133,6 +133,22 @@ function parseCards($: cheerio.CheerioAPI, section: cheerio.Cheerio<AnyNode>): R
  * Parse the Guardian UK front page into ordered containers of cards.
  * Containers with no article-like cards (thrashers, ad slots, trending topics) are dropped.
  */
+/**
+ * Front-page cards link to tiny renditions (width=98 for the highlights strip).
+ * The Guardian image CDN resizes on request, so ask for a card-sized one instead.
+ */
+export function cardImageUrl(src: string): string {
+  try {
+    const url = new URL(src);
+    if (url.hostname !== 'i.guim.co.uk') return src;
+    url.searchParams.set('width', '620');
+    url.searchParams.set('dpr', '1');
+    return url.toString();
+  } catch {
+    return src;
+  }
+}
+
 export function parseFront(html: string): RawContainer[] {
   const $ = cheerio.load(html);
   const containers: RawContainer[] = [];

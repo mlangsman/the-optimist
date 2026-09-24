@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { describe, it } from 'node:test';
-import { isArticlePath, parseFront, titleFromId } from './front.js';
+import { cardImageUrl, isArticlePath, parseFront, titleFromId } from './front.js';
 
 const fixture = readFileSync(
   fileURLToPath(new URL('../__fixtures__/front-sample.html', import.meta.url)),
@@ -115,4 +115,12 @@ describe('parseFront', () => {
   it('returns an empty list for html with no containers', () => {
     assert.deepEqual(parseFront('<html><body><p>nothing here</p></body></html>'), []);
   });
+});
+
+it('cardImageUrl asks the Guardian CDN for a 620px rendition', () => {
+  const out = cardImageUrl('https://i.guim.co.uk/img/media/abc/0_0_5000_4000/master/5000.jpg?width=98&dpr=2&s=none&crop=1%3A1');
+  assert.ok(out.includes('width=620'));
+  assert.ok(out.includes('dpr=1'));
+  assert.ok(out.includes('crop=1%3A1'));
+  assert.equal(cardImageUrl('https://example.com/a.jpg?width=98'), 'https://example.com/a.jpg?width=98');
 });

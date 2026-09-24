@@ -33,3 +33,15 @@ export function applyCaptions(bodyHtml: string, captions: readonly string[]): st
   });
   return $.root().html() ?? bodyHtml;
 }
+
+/**
+ * A standfirst as plain text: the first paragraph only. Guardian standfirsts are
+ * HTML and sometimes carry a trailing <ul> of related links we never want.
+ */
+export function standfirstText(html: string | undefined): string | undefined {
+  if (html === undefined) return undefined;
+  const $ = cheerio.load(html, null, false);
+  const first = $('p').first();
+  const text = (first.length > 0 ? first.text() : $.root().text()).replace(/\s+/g, ' ').trim();
+  return text.length > 0 ? text : undefined;
+}

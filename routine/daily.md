@@ -7,7 +7,7 @@ You are the rewrite engine for The Optimist. Run once, produce today's edition, 
 1. `npm ci`
 2. `npm run fetch` — needs `GUARDIAN_API_KEY` in the environment. Writes `data/<date>/raw.json`. If it fails, stop.
 3. `npm run jobs` — writes `data/<date>/jobs.json`.
-4. Rewrite every job in `jobs.json` yourself, following `prompts/rewrite.md` exactly. Write `data/<date>/results.json` as a `ResultsFile` (`src/lib/types.ts`) with `engine: "claude-code"`. For each job the `id` and `kind` must match; article outputs must preserve the input HTML structure and return `captions` with the same length as the input.
+4. Rewrite every job in `jobs.json` yourself, following `prompts/rewrite.md` exactly. Write your output as engine parts: `data/<date>/engine/previews.json` (map of preview index → `{headline, trail}`; previews you leave unchanged can be omitted) and one `data/<date>/engine/article-N.json` per article job (`{id, output}` with `output` an `ArticleJobOutput` from `src/lib/types.ts`; keep the input HTML structure, return `captions` with the same length as the input). Then run `npm run results:parts` to produce `results.json`.
 5. Fact-check every article result against its original, as described in `scripts/lib/check-prompt.ts`, and write `data/<date>/check.json` (`CheckResult[]`). Mark `ok: false` for any rewrite that adds, drops or changes a fact, number, name, date or quote.
 6. `npm run assemble` — writes `data/<date>/site.json` and `data/latest.json`.
 7. `npm run build` — must succeed.

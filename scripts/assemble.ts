@@ -35,7 +35,7 @@ import {
 } from './lib/cli.js';
 import { pseudonymiseByline } from './lib/bylines.js';
 import { webUrlFor } from './lib/guardian-api.js';
-import { applyCaptions, stripTags } from './lib/html.js';
+import { applyCaptions, stripTags, standfirstText } from './lib/html.js';
 import { sanitiseHtml } from './lib/sanitise.js';
 
 const HELP = `
@@ -200,12 +200,13 @@ function buildArticle(
 
   if (usable && output) {
     article.headline = output.headline;
-    const standfirst = output.standfirst ?? rawArticle.standfirst;
+    const standfirst = standfirstText(output.standfirst ?? rawArticle.standfirst);
     if (standfirst) article.standfirst = standfirst;
     article.bodyHtml = sanitiseHtml(applyCaptions(output.bodyHtml, output.captions));
   } else {
     article.headline = rewrites.preview.get(path)?.headline ?? rawArticle.headline;
-    if (rawArticle.standfirst) article.standfirst = rawArticle.standfirst;
+    const standfirst = standfirstText(rawArticle.standfirst);
+    if (standfirst) article.standfirst = standfirst;
     article.bodyHtml = '';
   }
 

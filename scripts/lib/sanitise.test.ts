@@ -80,11 +80,20 @@ describe('sanitiseHtml', () => {
     assert.equal(out.includes('srcset'), false);
     assert.ok(out.includes('<figcaption>Cap</figcaption>'));
 
-    assert.equal(sanitiseHtml('<figure><img src="data:image/png;base64,AAA"></figure>'), '<figure></figure>');
+    assert.equal(sanitiseHtml('<figure><img src="data:image/png;base64,AAA"></figure>'), '');
   });
 
   it('handles empty input', () => {
     assert.equal(sanitiseHtml(''), '');
     assert.equal(sanitiseHtml('   '), '');
   });
+});
+
+it('drops figures without an image and strips zero-width characters', () => {
+  const html = '<p>Ke​ep</p><figure class="interactive"><a href="https://x.test/">Interactive</a></figure><figure><img src="https://i.guim.co.uk/a.jpg" alt="a"><figcaption>c</figcaption></figure>';
+  const out = sanitiseHtml(html);
+  assert.equal(out.includes('Interactive'), false);
+  assert.equal(out.includes('​'), false);
+  assert.equal(out.includes('Keep'), true);
+  assert.equal(out.includes('<figcaption>c</figcaption>'), true);
 });
