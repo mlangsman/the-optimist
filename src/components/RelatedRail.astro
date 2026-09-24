@@ -1,0 +1,105 @@
+---
+/**
+ * "Related stories" — a rail of cards at the foot of an article.
+ * Related cards are always unlinked (no rewritten article exists for them),
+ * so every card renders as a plain, non-interactive `<article>`.
+ */
+import Card from './Card.astro';
+import type { Card as CardData } from '../lib/types';
+import type { Pillar } from '../lib/data';
+
+interface Props {
+	cards: CardData[];
+	pillar?: Pillar;
+	title?: string;
+}
+
+const { cards, pillar = 'news', title = 'Related stories' } = Astro.props;
+const items = cards.map((card) => ({ ...card, linked: false }));
+---
+
+{
+	items.length > 0 && (
+		<section class="related" aria-labelledby="related-title">
+			<h2 class="related__title" id="related-title">
+				{title}
+			</h2>
+			<ul class="related__list">
+				{items.map((card) => (
+					<li class="related__cell">
+						<Card card={card} variant="small" pillar={pillar} as="h3" />
+					</li>
+				))}
+			</ul>
+		</section>
+	)
+}
+
+<style>
+	.related {
+		margin-top: var(--space-10);
+		border-top: 1px solid var(--section-border-primary);
+		padding-top: var(--space-2);
+	}
+
+	.related__title {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		font-size: var(--size-headline-20);
+		line-height: var(--leading-headline);
+		color: var(--section-title);
+		margin-bottom: var(--space-3);
+	}
+
+	.related__list {
+		list-style: none;
+		display: grid;
+		grid-template-columns: minmax(0, 1fr);
+	}
+
+	.related__cell {
+		display: flex;
+		min-width: 0;
+		padding: var(--space-3) var(--gutter) 0;
+	}
+
+	.related__cell:nth-child(n + 2) {
+		border-top: 1px solid var(--card-border-top);
+	}
+
+	@media (min-width: 740px) {
+		.related__list {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+		.related__cell {
+			border-left: 1px solid var(--card-border-supporting);
+		}
+		.related__cell:nth-child(2n + 1) {
+			border-left: 0;
+		}
+		.related__cell:nth-child(n + 2) {
+			border-top: 0;
+		}
+		.related__cell:nth-child(n + 3) {
+			border-top: 1px solid var(--card-border-top);
+		}
+	}
+
+	@media (min-width: 980px) {
+		.related__list {
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+		}
+		.related__cell:nth-child(2n + 1) {
+			border-left: 1px solid var(--card-border-supporting);
+		}
+		.related__cell:nth-child(4n + 1) {
+			border-left: 0;
+		}
+		.related__cell:nth-child(n + 3) {
+			border-top: 0;
+		}
+		.related__cell:nth-child(n + 5) {
+			border-top: 1px solid var(--card-border-top);
+		}
+	}
+</style>

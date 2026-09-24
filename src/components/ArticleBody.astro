@@ -1,0 +1,135 @@
+---
+/**
+ * Renders the rewritten body HTML.
+ *
+ * The markup comes from the pipeline as a trusted, tag-restricted string
+ * (p, h2, blockquote, figure, ul/li, a) and is injected with `set:html`, so
+ * every rule below must be `:global` — Astro cannot add scope attributes to
+ * markup it did not compile.
+ */
+interface Props {
+	html: string;
+}
+
+const { html } = Astro.props;
+---
+
+<div class="article-body"><Fragment set:html={html} /></div>
+
+<style>
+	.article-body {
+		max-width: var(--measure);
+		padding-top: var(--space-5);
+		font-family: var(--font-body);
+		font-size: var(--size-body-17);
+		line-height: var(--leading-body);
+		color: var(--neutral-7);
+	}
+
+	@media (min-width: 980px) {
+		.article-body {
+			margin-left: calc(var(--article-rail) + var(--article-rail-gap));
+		}
+	}
+
+	.article-body :global(p) {
+		margin: 0 0 var(--space-4);
+	}
+
+	.article-body :global(h2) {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		font-size: var(--size-headline-20);
+		line-height: var(--leading-headline);
+		margin: var(--space-6) 0 var(--space-2);
+	}
+
+	.article-body :global(h3) {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		font-size: var(--size-headline-17);
+		line-height: var(--leading-headline);
+		margin: var(--space-5) 0 var(--space-2);
+	}
+
+	/* Links are underlined in the pillar colour, as on theguardian.com. */
+	.article-body :global(a) {
+		color: var(--pillar-strong);
+		text-decoration: underline;
+		text-decoration-thickness: 1px;
+		text-underline-offset: 2px;
+	}
+
+	.article-body :global(a:hover) {
+		text-decoration-thickness: 2px;
+	}
+
+	.article-body :global(strong),
+	.article-body :global(b) {
+		font-weight: 600;
+	}
+
+	.article-body :global(ul),
+	.article-body :global(ol) {
+		margin: 0 0 var(--space-4);
+		padding-left: var(--space-5);
+	}
+
+	.article-body :global(li) {
+		margin-bottom: var(--space-2);
+	}
+
+	.article-body :global(blockquote) {
+		margin: 0 0 var(--space-4);
+		padding-left: var(--space-4);
+		border-left: 4px solid var(--pillar);
+		font-family: var(--font-headline);
+		font-size: var(--size-headline-20);
+		line-height: 1.25;
+		font-weight: 700;
+		color: var(--neutral-20);
+	}
+
+	.article-body :global(blockquote p) {
+		margin-bottom: var(--space-2);
+	}
+
+	.article-body :global(blockquote cite) {
+		display: block;
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		font-style: normal;
+		font-weight: 400;
+		color: var(--neutral-46);
+	}
+
+	/* Figures break out of the reading measure at wider viewports. */
+	.article-body :global(figure) {
+		margin: 0 0 var(--space-5);
+	}
+
+	.article-body :global(figure img) {
+		width: 100%;
+		height: auto;
+		background: var(--card-media-background);
+	}
+
+	.article-body :global(figcaption) {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		line-height: var(--leading-sans);
+		color: var(--caption-text);
+		padding-top: var(--space-1);
+	}
+
+	.article-body :global(figcaption span) {
+		color: var(--neutral-60);
+	}
+
+	.article-body :global(code) {
+		font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+		font-size: 0.9em;
+		background: var(--neutral-97);
+		padding: 0 var(--space-1);
+	}
+</style>

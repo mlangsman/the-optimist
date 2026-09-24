@@ -1,0 +1,151 @@
+---
+import type { GetStaticPaths } from 'astro';
+import Layout from '../../components/Layout.astro';
+import ArticleHeader from '../../components/ArticleHeader.astro';
+import ArticleBody from '../../components/ArticleBody.astro';
+import RelatedRail from '../../components/RelatedRail.astro';
+import type { Article } from '../../lib/types';
+import { articleEntries, pillarFor } from '../../lib/data';
+import { DISCLAIMER, HEADLINE_ONLY_NOTICE, SITE_NAME } from '../../lib/constants';
+import { articleRouteParam } from '../../lib/url';
+
+export const getStaticPaths = (() =>
+	articleEntries().map(([path, article]) => ({
+		params: { path: articleRouteParam(path) },
+		props: { article },
+	}))) satisfies GetStaticPaths;
+
+interface Props {
+	article: Article;
+}
+
+const { article } = Astro.props;
+
+const pillar = pillarFor(article.section.id);
+const isHeadlineOnly = article.status === 'headline-only';
+const originalByline = article.original.byline;
+---
+
+<Layout title={article.headline} description={article.standfirst} pillar={pillar}>
+	<article class="article" data-status={article.status}>
+		<ArticleHeader article={article} />
+
+		{
+			isHeadlineOnly ? (
+				<div class="article__notice-wrap">
+					<aside class="notice" aria-label="Rewrite status">
+						<p class="notice__text">{HEADLINE_ONLY_NOTICE}</p>
+						<p class="notice__detail">
+							The headline and standfirst above come from the original article. Read it in full at the
+							source:
+						</p>
+						<p>
+							<a class="notice__link" href={article.original.url} rel="noopener noreferrer" target="_blank">
+								{article.original.headline}
+							</a>
+						</p>
+					</aside>
+				</div>
+			) : (
+				<ArticleBody html={article.bodyHtml} />
+			)
+		}
+
+		<footer class="article-footer">
+			<p class="article-footer__adapted">
+				Adapted by {SITE_NAME} from{' '}
+				<a href={article.original.url} rel="noopener noreferrer" target="_blank">
+					{originalByline ? `an article by ${originalByline} for the Guardian` : 'an article for the Guardian'}
+				</a>.
+			</p>
+			<p class="article-footer__disclaimer">{DISCLAIMER}</p>
+		</footer>
+
+		<RelatedRail cards={article.related} pillar={pillar} />
+	</article>
+</Layout>
+
+<style>
+	.article {
+		padding-bottom: var(--space-10);
+	}
+
+	/* --- headline-only notice -------------------------------------------- */
+	.article__notice-wrap {
+		padding-top: var(--space-5);
+	}
+
+	@media (min-width: 980px) {
+		.article__notice-wrap {
+			margin-left: calc(var(--article-rail) + var(--article-rail-gap));
+		}
+	}
+
+	.notice {
+		max-width: var(--measure);
+		background: var(--notice-background);
+		border-left: 4px solid var(--pillar);
+		padding: var(--space-4);
+		font-family: var(--font-sans);
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-2);
+	}
+
+	.notice__text {
+		font-size: var(--size-sans-17);
+		font-weight: 700;
+		line-height: var(--leading-sans);
+		color: var(--neutral-20);
+	}
+
+	.notice__detail {
+		font-size: var(--size-sans-14);
+		line-height: var(--leading-sans);
+		color: var(--neutral-38);
+	}
+
+	.notice__link {
+		font-size: var(--size-sans-15);
+		font-weight: 600;
+		color: var(--pillar-strong);
+		text-decoration: underline;
+		text-underline-offset: 2px;
+	}
+
+	/* --- provenance footer ------------------------------------------------ */
+	.article-footer {
+		max-width: var(--measure);
+		margin-top: var(--space-6);
+		padding-top: var(--space-3);
+		border-top: 1px solid var(--straight-lines);
+		font-family: var(--font-sans);
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-2);
+	}
+
+	@media (min-width: 980px) {
+		.article-footer {
+			margin-left: calc(var(--article-rail) + var(--article-rail-gap));
+		}
+	}
+
+	.article-footer__adapted {
+		font-size: var(--size-sans-15);
+		line-height: var(--leading-sans);
+		color: var(--neutral-20);
+	}
+
+	.article-footer__adapted a {
+		color: var(--pillar-strong);
+		text-decoration: underline;
+		text-underline-offset: 2px;
+	}
+
+	.article-footer__disclaimer {
+		font-size: var(--size-sans-12);
+		line-height: var(--leading-sans);
+		color: var(--neutral-46);
+	}
+</style>

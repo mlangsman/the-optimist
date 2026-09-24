@@ -1,0 +1,72 @@
+---
+import Layout from '../components/Layout.astro';
+import { SITE_NAME } from '../lib/constants';
+import { withBase } from '../lib/url';
+---
+
+<Layout title="Page not found" description={`This page does not exist on ${SITE_NAME}.`} pillar="news">
+	<div class="notfound">
+		<p class="notfound__kicker">Error 404</p>
+		<h1 class="notfound__headline">This page does not exist</h1>
+		<p class="notfound__body">
+			{SITE_NAME} rebuilds from scratch every day, and only the stories in the current edition have pages. A
+			link from an older edition will land here.
+		</p>
+		<ul class="notfound__links">
+			<li><a href={withBase('/')}>Go to the front page</a></li>
+			<li><a href={withBase('/about')}>About this site</a></li>
+		</ul>
+	</div>
+</Layout>
+
+<style>
+	.notfound {
+		max-width: var(--measure);
+		padding: var(--space-10) 0 var(--space-24);
+	}
+
+	.notfound__kicker {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		font-weight: 700;
+		color: var(--pillar);
+		margin-bottom: var(--space-1);
+	}
+
+	.notfound__headline {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		font-size: var(--size-headline-34);
+		line-height: var(--leading-headline);
+	}
+
+	@media (min-width: 740px) {
+		.notfound__headline {
+			font-size: var(--size-headline-40);
+		}
+	}
+
+	.notfound__body {
+		font-family: var(--font-body);
+		font-size: var(--size-body-17);
+		line-height: var(--leading-body);
+		margin-top: var(--space-4);
+	}
+
+	.notfound__links {
+		list-style: none;
+		margin-top: var(--space-5);
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-2);
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-17);
+	}
+
+	.notfound__links a {
+		color: var(--pillar-strong);
+		font-weight: 700;
+		text-decoration: underline;
+		text-underline-offset: 2px;
+	}
+</style>

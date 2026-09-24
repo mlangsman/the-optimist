@@ -1,0 +1,1429 @@
+{
+  "date": "2026-09-24",
+  "fetchedAt": "2026-09-24T08:22:44.563Z",
+  "front": [
+    {
+      "id": "highlights",
+      "title": "Highlights",
+      "cards": [
+        {
+          "path": "/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain",
+          "headline": "The people shaping Andy Burnham’s grand plans for Britain",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/41d7af8da37ca55ed0a60faee582c0eda3152b25/0_0_5000_4000/master/5000.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+            "alt": "Graphic illustration shows a statue of Andy Burnham carved out of a huge lump of white rock, with people, tiny in comparison, climbing the rock towards his figure"
+          }
+        },
+        {
+          "path": "/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
+          "headline": "Why did every fish in this idyllic lake perish overnight?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1eec3c08b7f27cbe99a91222bb9b9455924eb22f/3086_1878_2202_2203/master/2202.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+            "alt": "Diane and Alistair Gould by the lake at Furnace Brook."
+          }
+        },
+        {
+          "path": "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
+          "headline": "Ukraine and Russia vie for supremacy in the skies",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/885f0eb0cc1fd2e3eebada30ce9cb48e0fac0129/330_0_5626_4500/master/5626.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+            "alt": "A drone pilot stands silhouetted in green-lit heavy rain at night, awaiting the launch of drones."
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
+          "headline": "There is no excuse for the way ME sufferers have been betrayed",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2025/05/21/George_Monbiot.png?width=98&dpr=1&s=none&crop=1%3A1",
+            "alt": "George Monbiot"
+          }
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show",
+          "headline": "At least Wayne and Coleen show they can laugh at themselves",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/20c32752913e8389214275f88ed590e3b676c343/1308_397_1611_1611/master/1611.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+            "alt": "Wayne and Coleen Rooney sat on a white sofa with their children"
+          }
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons",
+          "headline": "Her greatest roles – and why sex scenes for over-50s are booming",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/256dcbcb52531b605a35d1d8ffb5b7d8ffbffddd/1032_88_4164_3331/master/4164.jpg?width=98&dpr=1&s=none&crop=1%3A1",
+            "alt": "Actress Lesley Manville, close-up portrait, smiling slightly, wearing a cream jacket"
+          }
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "cards": [
+        {
+          "path": "/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
+          "headline": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d19a32d6a77bb1262e0295d4661b6f15b2f2ca73/61_0_5058_4047/master/5058.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Miliband at the UN security council on Wednesday. The foreign secretary later briefed fellow foreign ministers about the UK climate report."
+          }
+        },
+        {
+          "path": "/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
+          "headline": "Judge orders Trump White House to restore access to CNN, MS Now and Politico",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/36ddd457efca4547aedac1772d5d8dea18f7c503/454_0_4219_3376/master/4219.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "A Secret Service officer stands on the White House lawn, with a crane visible above the roof"
+          }
+        },
+        {
+          "path": "/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
+          "headline": "Labour likely to be biggest party in hung parliament, mega poll suggests",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/2f8cb2ded3660b27926d78994de23ebac0a20f8b/408_0_1914_1532/master/1914.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Andy Burnham addresses the UN general assembly"
+          }
+        },
+        {
+          "path": "/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+          "headline": "Millions in England unaware they have ‘silent killer’ condition, research reveals",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/dd16f1da40b5257810a4803658b554187cae221e/424_0_2688_2150/master/2688.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "A doctor wearing a stethoscope checks a patient's blood pressure; the patient has offered their forearm, which is bound in an inflatable cuff, while the doctor rests the bell on the forearmFile photo dated 10/09/14 of a GP checking a patient's blood pressure. Only half of people being treated by their GP for high blood pressure have it under control, according to new data for England. Analysis by Oxford University of 1.4 million adults also found most people across England with the condition are unaware they have it, increasing their risk of stroke, heart attack and early death. Issue date: Wednesday September 23, 2026. PA Photo. Photo credit should read: Anthony Devlin/PA Wire"
+          }
+        },
+        {
+          "path": "/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england",
+          "headline": "Pupils to be offered vocational GCSEs in radical shake-up of system in England",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/3e86adb79c560b532ed4f1eb8d5295f2ef3d0586/820_0_4331_3465/master/4331.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "A student using a spirit level on a wooden frame under a teacher's guidance"
+          }
+        },
+        {
+          "path": "/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation",
+          "headline": "Benjamin Netanyahu to deliver defiant UN speech while facing protests and political isolation",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/c9c73f588f4837881f12e2b6db078c8f3fa50730/0_0_5000_4000/master/5000.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Orthodox Jewish protesters demonstrate in midtown Manhattan on the second day of the UN general assembly Signs describe Israel's prime minister as a war criminal, condemning the occupation of Palestine and refer to 78 years of bloodshed involving Arabs and Jews"
+          }
+        },
+        {
+          "path": "/politics/2026/sep/23/tories-target-universal-credit-claimants-plan-condemned-fast-track-to-poverty",
+          "headline": "Tories target universal credit claimants in plan condemned as ‘fast track to poverty’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/43101317caa7ad058bdf8ce395a42dc0d602dcfb/0_0_1247_998/master/1247.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Kemi Badenoch, in a black blazer and yellow top, adjusts her sunglasses"
+          }
+        },
+        {
+          "path": "/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman",
+          "headline": "Albanese says OpenAI agent hacked Australia's Medicare and took months to disclose breach",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Anthony Albanese Sam Altman"
+          }
+        },
+        {
+          "path": "/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage",
+          "headline": "Greek PM: deal to return Parthenon marbles could still be reached with ‘political will and courage’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/2ab41ef770f7eaa6fe24932a2b3206036248abda/848_0_6336_5070/master/6336.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "A crowd of people observe the Parthenon marbles, on display in the British Museum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "in-focus",
+      "title": "In Focus",
+      "cards": [
+        {
+          "path": "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
+          "headline": "The long-range drone war: Ukraine and Russia scramble for supremacy in the skies",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/885f0eb0cc1fd2e3eebada30ce9cb48e0fac0129/330_0_5626_4500/master/5626.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "A drone pilot stands silhouetted in green-lit heavy rain at night, awaiting the launch of drones."
+          }
+        },
+        {
+          "path": "/environment/2026/sep/24/world-warms-up-insects-moving-northwards-uk",
+          "headline": "A bumper year for bugs: as the world warms up, insects are moving northwards",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/914b59db1e3b0e81a2bbbd121a17fc4cb9e70d5f/955_0_3392_2714/master/3392.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Hummingbird hawk-moth (Macroglossum stellatarum) hovering and feeding on pink flowers, showing its long proboscis and distinctive orange wings"
+          }
+        },
+        {
+          "path": "/world/2026/sep/24/israel-water-shortages-destruction-gaza-treatment-plants-pollution-sanitation-crisis",
+          "headline": "Israel facing water shortages caused by destruction of Gaza’s treatment plants",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6967079caa25fed26eddc59a77b0a56695226817/0_0_6880_5504/master/6880.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "A person fills a bottle from an emergency water storage tank tap in Jerusalem"
+          }
+        }
+      ]
+    },
+    {
+      "id": "features",
+      "title": "Features",
+      "cards": [
+        {
+          "path": "/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
+          "headline": "‘The eels were climbing out of the water to die’: why did every fish in this idyllic lake perish overnight?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bdc59a5559a14c0eb90f99a4c2e6638818d0bc8e/1565_5_3505_4382/master/3505.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "Diane and Alistair Gould by the lake at Furnace Brook."
+          }
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons",
+          "headline": "‘My first screen kiss was in a cowshed!’ Lesley Manville on her greatest roles – and why sex scenes for over-50s are booming",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/256dcbcb52531b605a35d1d8ffb5b7d8ffbffddd/1032_88_4164_3331/master/4164.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "Actress Lesley Manville, close-up portrait, smiling slightly, wearing a cream jacket"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more-features",
+      "title": "More Features",
+      "cards": [
+        {
+          "path": "/lifeandstyle/2026/sep/24/you-be-the-judge-should-my-partner-dial-down-the-heat-when-he-cooks",
+          "headline": "Should my partner dial down the heat when he cooks?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/444406c055655e5f72bb382f319aac166319cd65/0_0_1621_1297/master/1621.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "A person's face emerges from a bowl of flames as hands sprinkle herbs and salt above it"
+          }
+        },
+        {
+          "path": "/books/2026/sep/23/peoples-earl-charles-spencer-swan-song-diana-my-sister-digested-read-john-crace",
+          "headline": "‘And you will be the People’s Earl’ – Charles Spencer’s Swan Song: Diana, My Sister, digested by John Crace",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/13914a795fc0d908ee2d652abcb80db03b437a09/1401_721_4099_3279/master/4099.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "A customer holds a copy of Charles Spencer's memoir about Diana, Princess of Wales with a photo of the brother and sister on the back cover"
+          }
+        },
+        {
+          "path": "/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre",
+          "headline": "‘Stranger Things was a train you can’t jump off’: Gaten Matarazzo on his return to the stage",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/72bb1209c436165c610df1145fd20d462b349c59/409_0_2918_2334/master/2918.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "RENT cast members gather around a table during rehearsal"
+          }
+        },
+        {
+          "path": "/environment/2026/sep/24/mass-sardine-die-off-pits-survival-of-south-africas-penguins-against-fishers-livelihoods",
+          "headline": "Mass sardine die-off pits survival of South Africa’s penguins against fishers’ livelihoods",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b0442cb7456e30fa09806e40a26e1b95f4ea8450/311_0_3849_3079/master/3849.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "An African penguin walks towards to camera on a sunny beach."
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/24/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-266",
+          "headline": "Long-haul flights, changing lights and a lot of Turkish cats",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/ffa58a095ba069f43d32799b61fb8333d6ae9ef7/125_186_1120_896/master/1120.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "One of the many cats of Istanbul."
+          }
+        },
+        {
+          "path": "/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+          "headline": "‘That’s so AI!’ What gen Alpha’s biggest insult tells us",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6237bf6949f5c64abe45403b03845126a726c70a/627_240_4096_3279/master/4096.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Girls in school uniforms huddled together, backs to the camera, on a grassy field"
+          }
+        },
+        {
+          "path": "/artanddesign/gallery/2026/sep/24/block-parties-and-boxing-clubs-martine-barrats-tough-and-tender-new-york-in-pictures",
+          "headline": "Block parties and boxing clubs: Martine Barrat’s tough and tender New York – in pictures",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/3e3780a1fbc3cf4afa9aa59d43cad3dd1a46dea1/0_964_2692_2151/master/2692.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Papo Angel Morales waiting to enter the ring 1981"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-long-read-",
+      "title": "The Long Read",
+      "cards": [
+        {
+          "path": "/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain",
+          "headline": "Labour’s last chance? The people shaping Andy Burnham’s grand plans for Britain",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/41d7af8da37ca55ed0a60faee582c0eda3152b25/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Graphic illustration shows a statue of Andy Burnham carved out of a huge lump of white rock, with people, tiny in comparison, climbing the rock towards his figure"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opinion",
+      "title": "Opinion",
+      "cards": [
+        {
+          "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
+          "headline": "Abandoned, dismissed and gaslighted: there is no excuse for the way ME sufferers have been betrayed",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/5a5e6e228f26a2de90468e2ea0359695cbc115d2/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Illustration: Bill Bragg"
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/24/britain-bayeux-tapestry-greece-parthenon-sculptures-museum-kyriakos-mitsotakis",
+          "headline": "Britain would not cut up the Bayeux tapestry. So seize this moment and reunite the Parthenon sculptures in Greece",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2026/09/22/Kyriakos_Mitsotakis.png?width=150&dpr=1&s=none&crop=1%3A1",
+            "alt": "Kyriakos Mitsotakis"
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
+          "headline": "The west is in freefall – and the worst part is that we were warned, but chose not to listen",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2022/10/11/Owen_Jones.png?width=80&dpr=1&s=none&crop=1%3A1",
+            "alt": "Owen Jones"
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/23/trump-un-speech-delusional-dangerous",
+          "headline": "Trump’s UN speech was delusional and dangerous",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2025/02/19/Kenneth_Roth.png?width=80&dpr=1&s=none&crop=1%3A1",
+            "alt": "Kenneth Roth"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more-opinion",
+      "title": "More Opinion",
+      "cards": [
+        {
+          "path": "/commentisfree/2026/sep/24/open-ai-medicare-records-hacked-australia-cyber-security",
+          "headline": "OpenAI’s Medicare hack is a bleak opportunity for Australia to address its security shortcomings post-haste",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2025/05/15/Van_Badham.png?width=80&dpr=1&s=none&crop=1%3A1",
+            "alt": "Van Badham"
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/23/britain-anti-racism-asian-youth-movements-1970s-far-right-violence",
+          "headline": "Britain’s far-right violence comes to us direct from the 1970s. But so does the solution",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/04f327ba5e090180e3d46e727e85a6ccf87132a2/438_46_4239_3392/master/4239.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "A protest in Southall, west London, in June 1976."
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/23/eric-idle-celebrities-staying-at-his-house",
+          "headline": "Eric Idle has had tons of celebrities staying at his house. God, it must be exhausting",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2019/02/13/Adrian_Chiles,_L.png?width=80&dpr=1&s=none&crop=1%3A1",
+            "alt": "Adrian Chiles"
+          }
+        },
+        {
+          "path": "/commentisfree/2026/sep/23/andy-burnham-donald-trump-meeting-prime-minister-president",
+          "headline": "Burnham survived his first Trump meeting. His nice hair may have had something to do with it",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Emma-Brockes,-L.png?width=80&dpr=1&s=none&crop=1%3A1",
+            "alt": "Emma Brockes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "editorials",
+      "title": "Editorials",
+      "cards": [
+        {
+          "path": "/commentisfree/2026/sep/23/the-guardian-view-on-the-future-of-the-un-more-embattled-but-more-necessary-than-ever",
+          "headline": "The future of the UN: more embattled, but more necessary, than ever"
+        },
+        {
+          "path": "/commentisfree/2026/sep/23/the-guardian-view-on-russian-disinformation-a-foreign-threat-that-relies-on-uk-complicity",
+          "headline": "Russian disinformation: a foreign threat that relies on UK complicity"
+        }
+      ]
+    },
+    {
+      "id": "letters",
+      "title": "Letters",
+      "cards": [
+        {
+          "path": "/education/2026/sep/23/stop-the-ofsted-inspections-that-are-harming-teachers",
+          "headline": "Stop the Ofsted inspections that are harming teachers"
+        },
+        {
+          "path": "/music/2026/sep/23/picking-a-side-on-ed-sheeran-israel-and-palestine",
+          "headline": "Picking a side on Ed Sheeran, Israel and Palestine"
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/23/folk-or-ai-could-be-a-winner-for-the-uk-at-eurovision",
+          "headline": "Folk or AI could be a winner for the UK at Eurovision"
+        },
+        {
+          "path": "/uk-news/2026/sep/23/farewell-nimbys-of-piddington",
+          "headline": "Farewell, nimbys of Piddington…"
+        }
+      ]
+    },
+    {
+      "id": "cartoon",
+      "title": "Cartoon",
+      "cards": [
+        {
+          "path": "/commentisfree/picture/2026/sep/23/ben-jennings-andy-burnham-meeting-donald-trump-cartoon",
+          "headline": "Andy Burnham’s meeting with Donald Trump",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/0ec33b96715c6180d775bcee4f96c81940209374/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Ben Jennings on Andy Burnham’s meeting with Donald Trump – cartoon"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "title": "Sport",
+      "cards": [
+        {
+          "path": "/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
+          "headline": "Anger at Tuchel over World Cup exit exposes biggest obstacle to England success",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/0af7e1e8c2d774c3f607b4a4649772ff9cffe6fb/202_0_2020_1616/master/2020.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Thomas Tuchel and Jordan Henderson gesture from the touchline against Argentina with Nicolás Tagliafico in front of them"
+          }
+        },
+        {
+          "path": "/sport/2026/sep/24/england-rugby-prem-deal-12-months-world-cup",
+          "headline": "England yet to reap rewards of £264m deal with Rugby World Cup only a year away",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/53bea0902d09a0628b8011c43996209a0a31a98e/188_0_3198_2559/master/3198.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Harlequins’ Will Hobson scores a try against Northampton"
+          }
+        },
+        {
+          "path": "/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league",
+          "headline": "‘It’s not in us’: Gordon backs Tuchel over England's possession problem",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e07ebc008355e9b3193de2e1545e93d1e9b27f68/135_0_2687_2151/master/2687.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Anthony Gordon (left) and Morgan Gibbs-White battle for possession during an England training session"
+          }
+        },
+        {
+          "path": "/football/2026/sep/23/chelsea-austria-vienna-womens-champions-league-match-report",
+          "headline": "Kaptein fantastic strikes early as Chelsea battle past Austria Vienna",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d51e8153dcc2e7a52181bdf23cb91280a384b42c/274_0_3755_3006/master/3755.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Wieke Kaptein (left) and Veerle Buurman celebrate after the former’s decisive goal"
+          }
+        },
+        {
+          "path": "/sport/2026/sep/23/warwickshire-county-championship-division-one-title-olly-hannon-dalby",
+          "headline": "Warwickshire ‘in the groove’ as County Championship title destiny calls",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bcb85b2bcae5bd022984a56943045b73a73c23b5/915_0_3414_2733/master/3414.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Olly Hannon-Dalby is congratulated on taking a wicket by teammates"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more-sport",
+      "title": "More Sport",
+      "cards": [
+        {
+          "path": "/football/2026/sep/23/special-klopp-and-xavi-take-first-steps-on-international-stage-with-revival-in-mind",
+          "headline": "Netherlands v Germany: Klopp and Xavi begin revival projects with derby",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/ea2873ca3d909b919713c8fb46838bb1f0b6d25b/0_0_5000_4002/master/5000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Germany and Netherland head coaches Jürgen Klopp and Xavi Hernandez smile during separate national team training sessions"
+          }
+        },
+        {
+          "path": "/sport/2026/sep/23/lewis-hamilton-formula-one-end-season-middle-east-azerbaijan-qatar-abu-dhabi-grand-prix",
+          "headline": "‘I want to go’: Hamilton hopes F1 is able to end season in Middle East",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d2d88d77404892153ad241ed9d4443524a2340d9/398_0_3962_3169/master/3962.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Lewis Hamilton speaks to the media before the Azerbaijan Grand Prix"
+          }
+        },
+        {
+          "path": "/sport/2026/sep/23/filip-hrgovic-moses-itauma-ibf-world-heavyweight-title-fight-boxing",
+          "headline": "‘I had a headache for days’: Hrgovic reveals brutal toll of Itauma world title fight",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/2149f0ecee23e6f8db50269f78adf8c4964e69e2/567_109_4446_3556/master/4446.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Filip Hrgovic poses after winning the IBF world heavyweight title against Moses Itauma."
+          }
+        },
+        {
+          "path": "/sport/2026/sep/23/former-nfl-star-antonio-brown-to-avoid-possibility-of-30-years-in-prison-with-plea-deal",
+          "headline": "Former NFL star Brown to avoid possible 30 years in prison with plea deal",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d7dc99c042bfba6e1e8397e4b0c2d61da6b9a4fc/150_0_3407_2726/master/3407.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Antonio Brown wears large silver headphones and a diamond chain, looking off to the side"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more-top-stories",
+      "title": "More Top Stories",
+      "cards": [
+        {
+          "path": "/world/live/2026/sep/24/russia-ukraine-un-zelenskyy-putin-kharkiv-macron-eu-competitiveness-latest-news-updates",
+          "headline": "Russia strikes Ukraine hours after Zelenskyy’s UN speech",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/3e7d7ba1e4925048c98df15cbf65dc4ab4221b64/79_0_1666_1333/master/1666.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "A Ukrainian rescuer works next to burnt-out cars at the site of an air attack in Kyiv"
+          }
+        },
+        {
+          "path": "/world/2026/sep/24/elif-eralp-germany-zohran-mamdani-mayor-berlin-die-linke",
+          "headline": "Elif Eralp: ‘Germany’s Zohran Mamdani’ who vows to be a mayor for all Berliners",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/039d527b112fbe29199eafc3352b9a598801dfe9/1365_0_6827_5464/master/6827.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Elif Eralp smiles broadly at a press conference, looking to the side"
+          }
+        },
+        {
+          "path": "/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage",
+          "headline": "‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4a6626810103c1e9e1f4510cfe996cfe77e6191f/448_0_4483_3587/master/4483.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Rooks fly over the River Bure"
+          }
+        },
+        {
+          "path": "/us-news/2026/sep/23/uss-lincoln-suicide-attempts",
+          "headline": "Eight USS Lincoln personnel have attempted suicide, US navy confirms",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/7ca69eef43171e60c4ddf25e1a71c02c3b804e2c/0_0_5000_4000/master/5000.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Aircraft carrier in water with city in the distance."
+          }
+        },
+        {
+          "path": "/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
+          "headline": "Global bond sell-off deepens amid fears US economy may be running too hot – business live",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d5d302d855ab51fea79f2217753ba557e77ba0fe/0_0_4625_3700/master/4625.jpg?width=120&dpr=1&s=none&crop=5%3A4",
+            "alt": "Stock market screens at the New York Stock Exchange."
+          }
+        }
+      ]
+    },
+    {
+      "id": "climate-crisis-&-environment",
+      "title": "Climate Crisis & Environment",
+      "cards": [
+        {
+          "path": "/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
+          "headline": "Bats originated in Europe, rewriting mammals’ family tree, study reveals",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/c23704295d502a23bb394ea59e4340c385393645/614_150_3418_2735/master/3418.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Hypsignathus_monstrosus_3_Sarah Olson_Wildlife Conservation Society Canada hammer-headed fruit bat, Republic of Congo"
+          }
+        },
+        {
+          "path": "/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
+          "headline": "In historic first, tropical turtles spotted nesting on California beaches",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/f4e7091e3bbe6c4a95539aa4c162984be141abbc/0_0_1500_1200/master/1500.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "A composite image showing a turtle on the left and turtle eggs on the right."
+          }
+        },
+        {
+          "path": "/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
+          "headline": "UK to join EU ocean science scheme to better predict extreme weather events",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/3acdb78ed68c2933fb82a16cdebf528c5b21c5e6/527_0_3832_3065/master/3832.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Snowcapped mountains and sea ice along Svalbard's coastline near Longyearbyen, Norway"
+          }
+        },
+        {
+          "path": "/community/gallery/2026/sep/23/typhoon-dujuan-japan-floods-landslides-storms-gallery-in-pictures",
+          "headline": "Floods, landslides and storms: Typhoon Dujuan ravages Japan – in pictures",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/2677ceb1cc927a808c0dc8d48d9d324e226ec454/332_0_3305_2645/master/3305.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "An aerial view shows major flooding in Sakura, Japan"
+          }
+        }
+      ]
+    },
+    {
+      "id": "uk-news",
+      "title": "UK News",
+      "cards": [
+        {
+          "path": "/uk-news/2026/sep/23/raf-jet-crashes-and-explodes-in-anglesey-moments-after-pilots-eject",
+          "headline": "RAF jet crashes and explodes in Anglesey moments after pilots eject",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6f672f15b16bdd5dcc4a55762d7e68ee3c572cd0/1043_0_2413_1932/master/2413.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "A fireball caused by the crash behind a farmhouse."
+          }
+        },
+        {
+          "path": "/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
+          "headline": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4dbc8fb2d4422331ec4389b62becb2d99cb02c84/899_239_4361_3488/master/4361.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "An anti-Brexit protester outside the Houses of Parliament."
+          }
+        },
+        {
+          "path": "/uk-news/2026/sep/23/gosport-people-charged-anti-migration-protests",
+          "headline": "Three charged with assault after anti-migration protests in Hampshire",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/2d2b6abcb15f7f28690e28b24b9b73fa944a67e9/999_0_4976_3983/master/4976.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Police officers standing by their vans"
+          }
+        },
+        {
+          "path": "/society/2026/sep/23/save-the-children-officially-warned-by-regulator-over-staff-put-at-risk-in-yemen",
+          "headline": "Save the Children officially warned by regulator over staff put at risk in Yemen",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/5530ba44dac6dc8d0b6a6f9e0c4164a7b1668b6b/143_0_900_720/master/900.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Children displaced by war wait to collect food aid at a camp for internally displaced people near Aden, Yemen, on 23 September 2026."
+          }
+        }
+      ]
+    },
+    {
+      "id": "world-news",
+      "title": "World News",
+      "cards": [
+        {
+          "path": "/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+          "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands"
+        },
+        {
+          "path": "/world/2026/sep/23/no-signs-chagos-deal-adapted-suit-donald-trump-officials-believe",
+          "headline": "No signs Chagos deal can be adapted to suit Trump, say UK officials"
+        },
+        {
+          "path": "/world/2026/sep/23/harvey-weinstein-sentencing-prison",
+          "headline": "Harvey Weinstein sentenced to 15 years after sexual assault conviction"
+        },
+        {
+          "path": "/world/2026/sep/23/madrid-police-teargas-protesters-disabled-woman-evicted",
+          "headline": "Police use teargas on protesters as disabled woman, 87, evicted from Madrid home"
+        }
+      ]
+    },
+    {
+      "id": "business-&-technology",
+      "title": "Business & Technology",
+      "cards": [
+        {
+          "path": "/politics/2026/sep/24/uk-losing-billions-in-eu-trade-due-to-mismatched-product-rules",
+          "headline": "UK losing up to £6.5bn a year in EU trade due to mismatched product rules"
+        },
+        {
+          "path": "/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
+          "headline": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies"
+        },
+        {
+          "path": "/business/2026/sep/23/pay-rent-eat-or-keep-warm-growing-numbers-face-hard-choices-as-housing-benefit-gap-grows",
+          "headline": "Pay rent, eat or keep warm? Growing numbers face hard choices as housing benefit gap grows"
+        },
+        {
+          "path": "/business/2026/sep/23/legal-and-general-to-cut-1000-jobs-by-mid-2027",
+          "headline": "Legal & General to cut 1,000 jobs by mid-2027"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "title": "Culture",
+      "cards": [
+        {
+          "path": "/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show",
+          "headline": "The Real Rooneys review – at least Wayne and Coleen’s reality show proves they can laugh at themselves",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/20c32752913e8389214275f88ed590e3b676c343/1218_0_1728_2160/master/1728.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "Wayne and Coleen Rooney sat on a white sofa with their children"
+          }
+        },
+        {
+          "path": "/music/2026/sep/23/michael-kiwanuka-has-suffered-a-stroke-and-faces-long-tough-journey-to-recovery",
+          "headline": "Michael Kiwanuka says he faces ‘long, tough journey’ to recovery from stroke",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b07dbc67c7003ab87530f5fc72efedcc4ed7c470/0_331_2738_2189/master/2738.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "Onstage at Hammersmith Eventim Apollo, wearing a woolly hat and a frankly wonderful cardigan that's brown with gold diamond shapes, a bearded Michael Kiwanuka plays guitar and sings"
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-to-watch",
+      "title": "What To Watch",
+      "cards": [
+        {
+          "path": "/tv-and-radio/2026/sep/24/a-different-world-review",
+          "headline": "A Different World review – it was only a matter of time before they remade this trailblazing black sitcom",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b7e5282485dc83e4475550336875af8f454da491/1724_431_581_466/master/581.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Maleah Joi Moon as Deborah, sitting in a common room"
+          }
+        },
+        {
+          "path": "/film/2026/sep/24/forgotten-island-review-best-friends-forever-trapped-in-soulless-animation-dreamworks",
+          "headline": "Forgotten Island review – best friends forever trapped in frantic DreamWorks animation",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4473f5f0f5a946aac7ca506a1d3be6f3966c567e/250_0_2500_2000/master/2500.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Animated characters Jo and Raissa stand smiling amid a colorful mushroom village, one with bat-like wings"
+          }
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/24/tv-tonight-inside-the-uks-response-to-alleged-israeli-war-crimes-in-gaza",
+          "headline": "Inside the UK’s response to alleged Israeli war crimes in Gaza",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/8d320f3d05fda13de749c00b2a94bc07059986c0/559_0_2360_1889/master/2360.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "A woman faces away from the camera and examines dozens of documents displayed on a wall, many with redacted sections of text"
+          }
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/23/wonkas-golden-ticket-review-netflix",
+          "headline": "Wonka’s Golden Ticket review – this bleak reality show is all nausea, no sugar rush",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/313add320630d83a51e1de90504ce5689103788b/536_0_2528_2024/master/2528.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Rusty Goffe, with green hair and a gold jacket, leads a group through a whimsical candy-themed set on Wonka's Golden Ticket."
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-to-listen-to",
+      "title": "What To Listen To",
+      "cards": [
+        {
+          "path": "/music/2026/sep/23/its-about-being-loudly-visible-ahadadream-the-british-pakistani-dance-star-defanging-racist-slurs",
+          "headline": "‘It’s about being loudly visible’: Ahadadream, the British-Pakistani dance star defanging racist slurs",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/317c93773b4bd27441fa9236ad4b8cd5d4c8a5b2/668_285_2413_1931/master/2413.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Ahadadream photographed this month in Lahore, Pakistan."
+          }
+        },
+        {
+          "path": "/music/2026/sep/23/roomful-of-teeth-gabriel-kahane-review",
+          "headline": "Roomful of Teeth/Kahane review – twisty and tuneful songs with a darkly comic edge",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/ebdf3b9e7ce492bde6f908056df66de6316a8bfc/36_351_3606_2885/master/3606.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Roomful of Teeth singers perform at microphones on stage, wearing colorful outfits"
+          }
+        },
+        {
+          "path": "/stage/2026/sep/23/shelagh-delaney-lost-play-catch-me-who-can-toby-jones",
+          "headline": "Another taste of honey: Shelagh Delaney’s long-lost play about a teenage truant is a little gem",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/0178d1d210709f05f4d31cd4a8dca07f95cad842/149_526_1876_1500/master/1876.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Playwright Shelagh Delaney in a black and white image with a cigarette in her hand, pictured in 1960"
+          }
+        },
+        {
+          "path": "/music/2026/sep/23/fire-in-my-mouth-review-royal-festival-hall-wolfe-alsop-philharmonia",
+          "headline": "Fire in My Mouth review – Wolfe’s multimedia oratorio tells its tragic story with focus and power",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b7b62cbac4da9f5e76eefba0395b895b5d7599b1/150_0_3750_3000/master/3750.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Performers in white blouses and dark pinafores raise knives above their heads, from Fire In My Mouth"
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-to-read",
+      "title": "What To Read",
+      "cards": [
+        {
+          "path": "/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america",
+          "headline": "Exit Party by Emily St John Mandel review – alternate visions of post-crisis America",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/a0d4ec574401a1cf512623d67e19e1c91392d36b/258_1234_5382_4306/master/5382.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Emily St John Mandel."
+          }
+        },
+        {
+          "path": "/books/live/2026/sep/23/booker-prize-2026-ask-our-books-team-anything-about-this-years-contenders",
+          "headline": "‘Why no female lead characters this year?’: The Guardian’s book team answered your questions",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/f91952b0dd4ae1794f2f538006c1746fa351b025/0_0_5000_4000/master/5000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Guardian books editors Liese Spencer, Justine Jordan and Charlotte Northedge"
+          }
+        },
+        {
+          "path": "/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview",
+          "headline": "John Green got an astronomical following after publishing The Fault in Our Stars. What came next? ‘I’m still competing for clicks’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/94d3c3dd7795baabec817235d9c44a88bb572c2f/0_237_3819_3055/master/3819.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "A man wearing glasses poses for a portrait outside"
+          }
+        },
+        {
+          "path": "/books/2026/sep/23/britains-slave-traders-by-william-a-pettigrew-review-the-inconvenient-truth",
+          "headline": "Britain’s Slave Traders by William A Pettigrew review – the inconvenient truth",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1ea5feb2b7d5ae904e7d1d6852c3439309845872/0_0_4640_3712/master/4640.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "The blindfolded statue of Edward Colston in Bristol"
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-to-play",
+      "title": "What To Play",
+      "cards": [
+        {
+          "path": "/games/2026/sep/23/why-are-gamers-ripping-into-the-new-wolverine-game",
+          "headline": "Why fans are digging their claws into Wolverine over its patronising gameplay",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/a7ae8a7d178fd983965b51ae3afb0c7876c211f6/518_2_2298_1838/master/2298.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "A game still of Wolverine with claws extended attacks an armed soldier amid flying sparks in an industrial setting"
+          }
+        },
+        {
+          "path": "/games/2026/sep/21/silent-hill-townfall-review-screen-burn",
+          "headline": "Silent Hill: Townfall review – shame and suffering on the Scottish coast",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6a407a3dce63ff4b494042d57fa9728698b26451/266_0_1405_1125/master/1405.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "In Silent Hill: Townfall, a bearded man in glasses reads a glowing red device in darkness"
+          }
+        },
+        {
+          "path": "/games/2026/sep/22/control-resonant-review-save-new-york-from-paranormal-phenomena",
+          "headline": "Control Resonant review – save New York from paranormal phenomena",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4687ad260a2979c6ac4af115d32c28345b832a39/285_0_1350_1080/master/1350.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "In Control, a person shoots fire from their hand at a monstrous red creature in a rainy city"
+          }
+        },
+        {
+          "path": "/games/2026/sep/16/small-but-mighty-remembering-nintendos-purple-cube-of-joy",
+          "headline": "Small but mighty! Remembering the GameCube, Nintendo’s purple box of delights",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6db716d0053e7ed43e953210c8c4e48ed33913e3/38_0_2000_1600/master/2000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Two women holding the purple GameCube console and controller at an event in Tokyo in August 2001"
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-to-visit",
+      "title": "What To Visit",
+      "cards": [
+        {
+          "path": "/stage/2026/sep/23/romeo-and-juliet-review-russell-kane-natalie-casey",
+          "headline": "Romeo and Juliet review – Russell Kane and Natalie Casey turn love’s young dream into a midlife fling",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1ab760a92187240bc9c9eca9049f647510228185/634_281_1042_834/master/1042.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Russell Kane and Natalie Casey in Romeo and Juliet at the New Vic, Newcastle-under-Lyme."
+          }
+        },
+        {
+          "path": "/music/2026/sep/21/bluebeards-castle-oedipus-rex-review-welsh-national-opera-bartok-stravinsky-millennium-centre-cardiff",
+          "headline": "Bluebeard’s Castle/Oedipus Rex review – gory, gruesome and gripping double bill",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/117cb3e40757532534ca6fe8e522dac789a52511/1251_665_6010_4808/master/6010.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Christine Rice as Judith, wearing a blood-splattered wedding dress and Nathan Berg as Bluebeard, holding her arms in Welsh National Opera’s Bluebeard’s Castle."
+          }
+        },
+        {
+          "path": "/artanddesign/2026/sep/22/rene-magritte-this-is-still-not-a-pipe-review-gagosian-gallery-london",
+          "headline": "Magritte: This Is Still Not a Pipe review – brilliance and trash from the surrealist who sent up Freud",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/055e7b7878905f56d3fea1be1abe07e2ad3b496f/0_75_2411_1929/master/2411.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "René Magritte La Lampe philosophique (The Philosopher’s Lamp), 1936 Oil on canvas 19 3/4 x 26 inches (50 x 66 cm) © 2026 C. Herscovici/Artists Rights Society (ARS), New York Courtesy Private Collection, Brussels, Kingdom of Belgium"
+          }
+        },
+        {
+          "path": "/stage/2026/sep/22/catarina-and-the-beauty-of-killing-fascists-review-fury-europe",
+          "headline": "Catarina and the Beauty of Killing Fascists review – It caused fury across Europe. In the UK? Laughter and coughing",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/0515a83a484be286bde94f35631454ad71656a0f/0_813_1400_1120/master/1400.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Production image of the cast of the play Catarina and the Beauty of Killing Fascists"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more-culture",
+      "title": "More Culture",
+      "cards": [
+        {
+          "path": "/artanddesign/2026/sep/23/magali-reus-artist-rubbish-sculpture",
+          "headline": "‘We live in a world of extreme consumption and waste’: Magali Reus, the artist reimagining rubbish",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/7a5aa94328dc6b90eec6f6d6b6914377a922606c/0_1719_4823_3856/master/4823.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Magali Reus, artist, portrait"
+          }
+        },
+        {
+          "path": "/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+          "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/fc289c258eadbad95d77a0ab2f37b1b7dcedaa40/0_0_2399_1920/master/2399.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Dolly Parton sings into a headset microphone, gesturing with both hands raised on stage"
+          }
+        },
+        {
+          "path": "/music/2026/sep/23/the-living-dead-we-can-watch-janis-joplin-perform-or-reunite-the-beatles-but-who-are-the-real-winners-here",
+          "headline": "The living dead: we can watch ‘Janis Joplin’ perform or reunite the Beatles, but who are the real winners here?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/9e0ebaa2ded5cbfaef92c197a02be8ff644b04ef/357_0_2810_2248/master/2810.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Four digital Abba avatars perform on stage during the Abba Voyage concert under blue lighting"
+          }
+        },
+        {
+          "path": "/stage/2026/sep/24/banned-anti-fascist-play-1936-returns-melbourne-till-the-day-i-die-clifford-odets",
+          "headline": "Australia banned this anti-fascist play in 1936 at the request of the Nazis. Ninety years on, it’s being staged again",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4183ef98fccd23e80e90356aa0467b5eedaa3d7d/392_0_5000_4002/master/5000.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Theatre-makers Mark Wilson and Katie Sfetkidis"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-good-energy-guide",
+      "title": "The Good Energy Guide",
+      "cards": [
+        {
+          "path": "/the-good-energy-guide/2026/aug/03/how-green-is-your-renewable-electricity-tariff",
+          "headline": "How renewable is your electricity tariff? ‘Consumers believe they’re doing the right thing – often they’re not’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e5ee687990e6e2fca8956defdb417ef4ab369a22/451_114_982_786/master/982.png?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "GoodEnergy-Header-Taffif"
+          }
+        },
+        {
+          "path": "/the-good-energy-guide/2026/jul/31/are-solar-panels-worth-it-your-questions-answered",
+          "headline": "Are solar panels worth it and do you need planning permission? We put your top questions to an expert",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/25fec9d165d04d82394ebc0435c8264f6e0a9364/0_0_1560_1248/master/1560.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Composite of man, solar panels and houses"
+          }
+        },
+        {
+          "path": "/the-good-energy-guide/2026/jul/31/renewable-energy-quiz-how-much-do-you-know",
+          "headline": "Bright spark or low-power? Find out how much you know about renewables – quiz",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/3c38dee4f3683495ae391af0e6cbf0de49f80c76/0_0_1606_964/master/1606.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Composite of wind turbine and hand turnin"
+          }
+        },
+        {
+          "path": "/the-good-energy-guide/2026/aug/07/how-businesses-are-cutting-energy-costs-with-solar-power",
+          "headline": "‘Our operations are powered by solar’: meet the companies tackling energy hikes with technology",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/df0be9233821cd33eabda6c324dba0993519663b/0_0_1309_785/master/1309.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Stylised picture of energy worker standing in front of solar panels"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lifestyle",
+      "title": "Lifestyle",
+      "cards": [
+        {
+          "path": "/travel/2026/sep/24/helsinki-finland-underground-city-swimming-pool",
+          "headline": "Taking a deep dive in Helsinki’s subterranean city",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/ef61f1dee0c43b9b1ddaaf41f4da70a0282ceb08/75_0_2000_1600/master/2000.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "A man swims a lap in a pool with a mottled, white-rock ceiling"
+          }
+        },
+        {
+          "path": "/technology/2026/sep/23/meta-smart-vr-glasses",
+          "headline": "Meta debuts no-camera smart glasses and virtual reality spectacles",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6c2319791e7dca3053f313c79e1833d7d470bd71/83_423_2172_1737/master/2172.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "Three styles of Ray-Ban Meta Gen 3 glasses pictured on a white background."
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-filter",
+      "title": "The Filter",
+      "cards": [
+        {
+          "path": "/thefilter/2026/sep/23/how-to-keep-your-home-tidy",
+          "headline": "Create a ‘donation station’ and never buy round containers: professional organisers’ tips for a tidy home",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/c1e5e5e653c432daa5f1a247318d2fdb5a2cffbf/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Clear intentions: a designated basket can stop unwanted clothes from becoming another pile to deal with."
+          }
+        },
+        {
+          "path": "/thefilter/2026/sep/23/best-cheap-budget-phones-tested-uk",
+          "headline": "The best cheap smartphones in 2026: nine budget buys for £600 or less, tested",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/280ff404255467eaf9e32ba1d699c22de976d94f/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Five budget smartphones arranged diagonally against a teal background"
+          }
+        },
+        {
+          "path": "/thefilter/2026/sep/22/how-i-shop-with-tom-daley-i-am-obsessed-with-my-knitting-machine",
+          "headline": "How I Shop with Tom Daley: ‘I am obsessed with my knitting machine!’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e0522f2c27fe2ced6ea10e1eb6e2055b69f32ccf/0_0_2450_1959/master/2450.png?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Tom Daley's black and white portrait surrounded by colourful illustrated shopping doodles"
+          }
+        },
+        {
+          "path": "/thefilter/2026/sep/18/readers-best-secondhand-finds",
+          "headline": "Vintage Gucci, a £5 rug and a salt duck: your best secondhand finds",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d3ae89c6ff405d8797e30b8d8e21a0f2c8501437/0_0_5000_4000/master/5000.jpg?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Outdoor flea market with tables of antiques, birdcages, chairs, and a mannequin form"
+          }
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Food",
+      "cards": [
+        {
+          "path": "/food/2026/sep/24/tomatoes-stuffed-with-breadcrumbs-chickpeas-and-herbs-recipe-rachel-roddy",
+          "headline": "Rachel Roddy’s recipe for tomatoes stuffed with breadcrumbs, chickpeas and herbs",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/ec3e4d7de683a14fedabca4f22968f9d216468cb/0_110_3024_2419/master/3024.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Rachel Roddy’s tomatoes stuffed with breadcrumbs, chickpeas and herbs"
+          }
+        },
+        {
+          "path": "/food/2026/sep/23/100-unusual-crisp-flavours-ranked-truly-awful-totally-scoffable",
+          "headline": "‘They smell of urinal cakes!’: 100 unusual crisp flavours, ranked – from truly awful to totally scoffable",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/39309b3947cb554740b1dc03dc7d357756a43bba/0_2494_8561_6849/master/8561.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "A man lies on top of packets of crisps."
+          }
+        },
+        {
+          "path": "/food/2026/sep/23/how-to-turn-leftover-roast-chicken-into-coronation-chicken-recipe",
+          "headline": "How to turn leftover roast chicken into a brilliant midweek meal – recipe",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/8c590fc5404e5b41255fe8aaf0d54cdf9ec1e2b6/111_0_2835_2268/master/2835.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Overhead view of a plate with shredded coronation chicken topped with almonds, beside fresh coriander"
+          }
+        },
+        {
+          "path": "/food/2026/sep/23/kenji-morimoto-recipes-gochujang-corn-fritters-oyster-mushrooms-butter-bean-mash",
+          "headline": "Kenji Morimoto’s gochujang corn fritters and oyster mushrooms with butter bean mash – recipes",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/43b6e0fc2102da9728e65b626a8ae53e958ec186/965_4238_4110_3286/master/4110.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Kenji Morimoto's gochujang corn fritters with lime pickle yoghurt."
+          }
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "cards": [
+        {
+          "path": "/money/2026/sep/23/couples-putting-off-divorce-due-to-cost-of-living-crisis-in-england-and-wales",
+          "headline": "Unhappy couples staying put due to cost of living crisis, say divorce lawyers",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/91368d75802a968c691f976c23ab9eae8f7229d1/394_0_4560_3648/master/4560.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "A couple arguing in the street"
+          }
+        },
+        {
+          "path": "/wellness/2026/sep/21/safer-sex-after-age-50",
+          "headline": "Get tested and talk to your partner: how to have safer sex after age 50",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/a06912e30997b88252372531ae75e35950c32a4e/236_0_4287_3430/master/4287.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Black and white image of man and woman kissing."
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/20/dining-across-the-divide-chris-alex",
+          "headline": "‘He suggested the Clacton byelection was a vanity project. Obviously I disagree’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e3db690867b22423915b0cc874f6d552bb1863fc/556_0_5589_4471/master/5589.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Two men sitting at an outside wooden table, one wearing a patterned short-sleeve shirt (Chris), the other in a long-sleeved blue shirt"
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/20/this-is-how-we-do-it-as-a-catholic-monk-i-was-celibate-but-sex-with-orla-feels-so-natural",
+          "headline": "As a Catholic monk, I was celibate. But sex with Orla feels so natural",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/9216a41c9d52dd25ec2750b0996266de224174a5/0_0_2000_1600/master/2000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Cartoon of a female hand cheekily pulling open the rope belt of a monk with hands folded in prayer"
+          }
+        }
+      ]
+    },
+    {
+      "id": "money-&-consumer",
+      "title": "Money & Consumer",
+      "cards": [
+        {
+          "path": "/money/2026/sep/23/mums-alzheimers-has-trapped-the-kids-natwest-cash",
+          "headline": "Mum’s Alzheimer’s has trapped the kids’ NatWest cash",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/892e7d3007ca9d1f4b2f0a4df94f02eabf1f35d7/953_0_5679_4542/master/5679.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "A page from the NatWest website saying Want a bank account that rewards you."
+          }
+        },
+        {
+          "path": "/money/live/2026/sep/22/whats-the-worst-company-youve-ever-dealt-with-ask-our-consumer-champion-anything",
+          "headline": "‘How do you get a result without contacting a newspaper?’: your questions for our consumer champion answered",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/998d8394600a2c8dc6c154ff9c6496c9dc76b6b2/0_0_2000_1600/master/2000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Anna Tims, the Guardian’s consumer champion"
+          }
+        },
+        {
+          "path": "/society/2026/sep/22/the-rise-of-big-toothbrush",
+          "headline": "The rise of Big Toothbrush: how did our mouths become such a lucrative market?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bcedb0675401e252dffdc2ca65a69f0fef036205/0_0_2501_2000/master/2501.png?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Illustration of a huge black computerised toothbrush lording it over a small ordinary toothbrush"
+          }
+        },
+        {
+          "path": "/money/2026/sep/22/flixbus-left-us-stranded-m23-after-a-police-swoop",
+          "headline": "Flixbus left us stranded on the M23 after a police swoop",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1904f30855271b05fd91d4519b170d5f9b9bf0c7/252_0_7560_6048/master/7560.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Bright green parked Flixbus coach with reflections of clouds and buildings."
+          }
+        }
+      ]
+    },
+    {
+      "id": "health-&-fitness",
+      "title": "Health & Fitness",
+      "cards": [
+        {
+          "path": "/wellness/2026/sep/23/eye-irritation-care-expert",
+          "headline": "Something in your eye? Here’s how to get it out – without making it worse",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1b41fb31970d712218e1ba0332605bf712e0f078/0_0_5202_4160/master/5202.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "woman pulls back lower lid and looks up while using eyedrops"
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates",
+          "headline": "‘My body is on fire!’: my perilous, painful, perfect month of pilates",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bc99395b9aafb337ad01e55c59250c597f16116c/380_0_6528_5222/master/6528.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Sammy with his arms raised with one foot resting on a pilates machine"
+          }
+        },
+        {
+          "path": "/society/2026/sep/22/uk-doctors-simple-test-detect-womb-cancer-women-bleeding-menopause",
+          "headline": "UK doctors develop non-invasive test for womb cancer in women bleeding after menopause",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bfdcc2487817ca210741eff955fa6c5b9ae81faa/311_0_4678_3743/master/4678.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Doctor in white coat in discussion with patient."
+          }
+        },
+        {
+          "path": "/science/video/2026/sep/22/from-paleo-to-intermittent-fasting-are-any-diets-actually-good-for-us",
+          "headline": "From paleo to intermittent fasting: are any diets actually good for us?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b8f62fec2d613046ca24660f8bb5a1bd18319a93/661_0_6630_5304/master/6630.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "As diet trends proliferate on social media, it can be hard to work out which are backed by science and which should be ignored. From paleo to keto, raw food to intermittent fasting, each attracts a tribe of ardent followers. Now Daniel Lieberman, professor of biological sciences at Harvard University, has written a book to try to cut through the noise. In Fed Up, he uses his background as an evolutionary anthropologist to scrutinise the evidence, turning himself into a guinea pig in the process and trying various diets. In this podcast, he tells Ian Sample which one has remained part of his routine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fashion-&-beauty",
+      "title": "Fashion & Beauty",
+      "cards": [
+        {
+          "path": "/fashion/2026/sep/23/jess-cartner-morley-on-fashion-in-praise-of-fun-clothes",
+          "headline": "Jess Cartner-Morley on fashion: in praise of slightly silly clothes",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/fe8d8de8e60a219d4dd5210fa19161189dae057e/0_0_5000_4000/master/5000.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "A model wears zebra-print trousers with black leather jacket, scarf, sunglasses and pink mules, all against a maroon studio backdrop"
+          }
+        },
+        {
+          "path": "/fashion/2026/sep/23/fendi-maria-grazia-chiuri-collection-milan-fashion-week",
+          "headline": "Italian pop legend takes the lead in Maria Grazia Chiuri’s Fendi collection",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/515097a18552efc17204a82f8ed139a2a2eb9b39/104_122_3449_2757/master/3449.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Model wearing an orange, patterned, shirt dress, unbuttoned to her mid-torso to expose a lace bra, walks in the Fendi show at Milan fashion week."
+          }
+        },
+        {
+          "path": "/fashion/2026/sep/23/sali-hughes-on-beauty-retinoids-proven-anti-ageing-formulas",
+          "headline": "Sali Hughes on beauty: if you can’t use retinoids, these proven anti-ageing formulas are the next best thing",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6d910cfb0e1f42a96b3972ecf6ffbcd171fa7cdb/112_124_5078_4063/master/5078.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Photo of a tube of retinol with stop symbol (red circle with line through it) imposed on top"
+          }
+        },
+        {
+          "path": "/fashion/2026/sep/23/how-kylie-minogue-became-pop-chameleon-gold-hot-pants",
+          "headline": "From 50p gold hot pants to Paul Smith suits: how Kylie Minogue became one of pop’s ultimate chameleons",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e286f4f87d12b796dd8bf5001573439073eb39cc/271_0_2050_1639/master/2050.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Woman with blond shoulder length hair singing, wearing gold vest and gold hot pants and gold strappy heels, sitting on a stage with hands behind her on the floor and knees up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "cards": [
+        {
+          "path": "/travel/2026/sep/23/bologna-bolognina-italy-city-break-restaurants-hotels",
+          "headline": "Bolognina: make tracks for Bologna’s bustling former rail workers’ quarter",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4ff724b296673b7059bcc883deb5f90c72e88426/126_0_3780_3024/master/3780.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Mercato Albani Bollore bar, Bolognina, Bolonga, Italy"
+          }
+        },
+        {
+          "path": "/travel/2026/sep/22/haute-provence-france-andy-goldsworthy-art-hike-sculpture",
+          "headline": "‘To sleep in a sculpture is a wonderful idea’: a hike along Andy Goldsworthy’s epic art trail in Haute-Provence",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/dd066d2e8008a7f311ceaabf414c7eda5d0a04e3/688_0_6880_5504/master/6880.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "Sentinel, Andy Goldsworthy, 1999, Col du Defens, Alpes de haute Provence, France The work Sentinels, which is part of the Refuge d'art project, is a2HR14NJ Sentinel, Andy Goldsworthy, 1999, Col du Defens, Alpes de haute Provence, France The work Sentinels, which is part of the Refuge d'art project, is a"
+          }
+        },
+        {
+          "path": "/travel/2026/sep/21/austria-slovenia-italy-three-country-hike-alpine-holiday",
+          "headline": "Three countries, one hike: an Alpine adventure in Austria, Slovenia and Italy",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b882b957e06d1e3501586cebb959f0bac80b45e6/200_0_3736_2989/master/3736.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "View of a village with white houses and a steepled church, flanked by forest and mountains"
+          }
+        },
+        {
+          "path": "/travel/2026/sep/20/best-mountain-huts-europe",
+          "headline": "10 of the best mountain huts in Europe: bunkrooms, bothies and bonhomie",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/97bc1a8be9e637dc9ee04260e4c42028dd2a7de8/58_0_4320_3456/master/4320.jpg?width=200&dpr=1&s=none&crop=5%3A4",
+            "alt": "A silver dome-shaped building on a rocky mountaintop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more-lifestyle",
+      "title": "More Lifestyle",
+      "cards": [
+        {
+          "path": "/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
+          "headline": "Readers tell us how they search the internet in the age of AI",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/master/3623.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "an ad reads 'AI Mode'"
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/23/a-moment-that-changed-me-my-brother-gave-me-an-unexpected-gift-and-a-whole-new-life-at-sea",
+          "headline": "A moment that changed me: my brother gave me an unexpected gift – and a whole new life at sea",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b838fa1ab4b8faa32f2cf90b24e123300a751551/0_1746_1868_1493/master/1868.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Bethany Handley sitting on a rock on the beach with her wheelchair next to her"
+          }
+        },
+        {
+          "path": "/environment/2026/sep/23/country-diary-an-autumn-bounty-of-fruits-is-well-on-its-way",
+          "headline": "An autumn bounty of fruits is well on its way",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/43c1140b5404046b17f47aeb85757f698d8999ea/333_0_3333_2667/master/3333.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Sloes growing in the heart of Teifi Marshes"
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/22/iced-coffee-is-it-wrong-to-take-into-a-job-interview",
+          "headline": "The great iced coffee debate: is it wrong to take a beverage into a job interview?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/dfc2056c0327e74e8402916f90b2a9ff77f3a835/955_0_6880_5504/master/6880.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Body and part of face of businessman waist up in pale blue jacket and smart tie and white shirt, holding iced coffee and tablet on a city street"
+          }
+        }
+      ]
+    },
+    {
+      "id": "documentary",
+      "title": "Documentary",
+      "cards": [
+        {
+          "path": "/environment/video/2026/sep/22/prison-letters-the-teenager-writing-letters-to-jailed-climate-activists-documentary",
+          "headline": "Prison Letters: the teenager writing letters to jailed climate activists – documentary",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2026/09/18/Prison_Letter_Loop--0fa54247-c4d8-4c4f-a6e1-7bc3d4a484bf-1.1.0000000.jpg?width=465&dpr=1&s=none&crop=5%3A4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "you-may-have-missed",
+      "title": "You May Have Missed",
+      "cards": [
+        {
+          "path": "/world/2026/sep/23/how-the-poisonous-tide-of-disinformation-stokes-division-and-sows-despair",
+          "headline": "How the ‘poisonous tide’ of disinformation spreads division and despair",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/8cce2a578edde29cfa1fc702728fdc4d7b4c2f24/0_0_3750_3000/master/3750.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "A deepfake title image from the Russian documentary Olympics Has Fallen, using an image of Tom Cruise, alongside images of government officials, to suggest Cruise participated in the making of the documentary (he did not)"
+          }
+        },
+        {
+          "path": "/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
+          "headline": "London buses in decline? Why public transport in global cities is slowing to a crawl – visualised",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/206edf4a27fa25d6b34f578c9bf81b848cc1c979/1375_665_2660_3325/master/2660.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "London bus in traffic, with a red traffic light and roadworks signs."
+          }
+        },
+        {
+          "path": "/society/2026/sep/22/prisons-uk-organised-crime-good-lads-respectful-pia-sinha",
+          "headline": "The truth about UK prisons and organised crime: ‘They’re your good lads. Respectful. Keep their noses clean’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6bc87cb53726a5cbfec4d76a90cb2f3249090c3d/776_0_2970_3712/master/2970.jpg?width=465&dpr=1&s=none&crop=4%3A5",
+            "alt": "Pia Sinha poses in a navy suit against a dark grey wall."
+          }
+        }
+      ]
+    },
+    {
+      "id": "take-part",
+      "title": "Take Part",
+      "cards": [
+        {
+          "path": "/lifeandstyle/2026/sep/23/tell-us-have-you-delayed-separating-or-divorcing-because-you-cant-afford-to",
+          "headline": "Tell us: have you delayed separating or divorcing because you can’t afford to?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/2d40f7210fdf2121690e7dbfc017332a5523107e/360_0_3333_2667/master/3333.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Couple having a disagreement at home"
+          }
+        },
+        {
+          "path": "/technology/2026/sep/22/uk-tech-workers-do-you-want-to-join-a-trade-union",
+          "headline": "UK tech workers: do you want to join a trade union?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/db05d15613eea51421b54c74416bf8532ac0f63f/390_0_2874_2299/master/2874.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "FILE PHOTO: Woman holds smartphone with Meta logo in front of a displayed Facebook's new rebrand logo Meta in this illustration picture taken October 28, 2021. REUTERS/Dado Ruvic/Illustration/File Photo/File Photo"
+          }
+        },
+        {
+          "path": "/culture/2026/sep/22/have-you-got-a-question-for-judi-dench",
+          "headline": "Have you got a question for Judi Dench?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4f789c1e0a732c9eefcaafee60bb0feec1739bc5/70_0_2563_2050/master/2563.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "\"Finding Harmony: A King's Vision\" Windsor Castle Premiere - ArrivalsWINDSOR, ENGLAND - JANUARY 28: Dame Judi Dench attends the \"Finding Harmony: A King's Vision\" Windsor Castle Premiere at Windsor Castle on January 28, 2026 in Windsor, England. (Photo by Samir Hussein/WireImage)"
+          }
+        },
+        {
+          "path": "/lifeandstyle/2026/sep/22/are-you-embracing-low-tech-ways-music-movies-vinyl",
+          "headline": "Are you embracing low-tech ways to enjoy music and movies?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/933609fc89eedbef7235dd5b7c2be31020349a22/10_0_5000_4000/master/5000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "'Eyes Wide Shut' movie; DVD edition; disc with open jewel case, isolated on light blank background, top angle shot3CPG40N 'Eyes Wide Shut' movie; DVD edition; disc with open jewel case, isolated on light blank background, top angle shot"
+          }
+        }
+      ]
+    },
+    {
+      "id": "newsletters",
+      "title": "Newsletters",
+      "cards": [
+        {
+          "path": "/global/2022/sep/20/sign-up-for-the-first-edition-newsletter-our-free-news-email",
+          "headline": "Sign up for the First Edition newsletter",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1296f6c00eb025aed12539235dcd2a08515643c7/0_0_5000_3000/master/5000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "First Edition"
+          }
+        },
+        {
+          "path": "/info/2024/oct/10/sign-up-for-the-filter-newsletter-our-free-weekly-buying-advice",
+          "headline": "Sign up our free weekly buying advice newsletter",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e5269c957a8e19da44d76b53f349b8d5a3b6a98f/0_0_5000_3000/master/5000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "The Filter"
+          }
+        },
+        {
+          "path": "/food/2019/jul/09/sign-up-for-the-feast-newsletter-our-free-guardian-food-email",
+          "headline": "Sign up for the Feast newsletter",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/0edfd4ddd15717271a97f651cd955949b153b31b/0_0_5000_3000/master/5000.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "Feast"
+          }
+        },
+        {
+          "path": "/lifeandstyle/2022/sep/28/sign-up-for-the-house-to-home-newsletter",
+          "headline": "Sign up to House to Home",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/7a940ce2e491a2ed91c4b9934448d1c6d0b16f7a/0_17_548_439/master/548.jpg?width=86&dpr=1&s=none&crop=5%3A4",
+            "alt": "House to Home sign up."
+          }
+        }
+      ]
+    },
+    {
+      "id": "in-pictures",
+      "title": "In Pictures",
+      "cards": [
+        {
+          "path": "/news/gallery/2026/sep/23/autumn-equinox-asian-games-photos-of-the-day-wednesday",
+          "headline": "Autumn equinox and Asian Games",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/830892bb52716ff2d32ffd4ed78bf2c5e33e740b/0_0_5000_4000/master/5000.png?width=465&dpr=1&s=none&crop=5%3A4",
+            "alt": "Glastonbury Tor's stone tower atop a grassy hill silhouetted against a fiery orange sunrise"
+          }
+        }
+      ]
+    },
+    {
+      "id": "most-viewed",
+      "title": "Most Viewed",
+      "cards": [
+        {
+          "path": "/society/2026/sep/23/approach-to-high-blood-pressure-in-england-not-fit-for-purpose",
+          "headline": "Millions in England unaware they have ‘silent killer’ condition, research reveals"
+        },
+        {
+          "path": "/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
+          "headline": "UK shares findings of damning climate crisis national security report suppressed under Starmer"
+        },
+        {
+          "path": "/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
+          "headline": "‘The eels were climbing out of the water to die’: why did every fish in this idyllic lake perish overnight?"
+        },
+        {
+          "path": "/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
+          "headline": "Judge orders Trump White House to restore access to CNN, MS Now and Politico"
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/24/lesley-manville-interview-mum-marble-hall-mysteries-oedipus-liaisons",
+          "headline": "‘My first screen kiss was in a cowshed!’ Lesley Manville on her greatest roles – and why sex scenes for over-50s are booming"
+        },
+        {
+          "path": "/tv-and-radio/2026/sep/24/the-real-rooneys-review-wayne-and-coleen-reality-show",
+          "headline": "The Real Rooneys review – at least Wayne and Coleen’s reality show proves they can laugh at themselves"
+        },
+        {
+          "path": "/books/2026/sep/23/peoples-earl-charles-spencer-swan-song-diana-my-sister-digested-read-john-crace",
+          "headline": "‘And you will be the People’s Earl’ – Charles Spencer’s Swan Song: Diana, My Sister, digested by John Crace"
+        },
+        {
+          "path": "/politics/2026/sep/23/tories-target-universal-credit-claimants-plan-condemned-fast-track-to-poverty",
+          "headline": "Tories target universal credit claimants in plan condemned as ‘fast track to poverty’"
+        }
+      ]
+    }
+  ],
+  "articles": {},
+  "previews": {}
+}

@@ -1,0 +1,229 @@
+---
+/**
+ * Masthead — modelled on the Guardian's `<header data-component="header">`:
+ * a dark top strip, the wordmark on the brand-blue nav surface, and a pillar
+ * list whose items carry a coloured underline bar and 1px vertical separators.
+ *
+ * The reference nav uses a checkbox + label for its expanding menu; we have no
+ * menu to expand, so there is no JS and no interactive control here at all.
+ */
+import { PILLAR_NAV, SITE_NAME, formatDate } from '../lib/constants';
+import { loadSiteData } from '../lib/data';
+import { frontAnchor, withBase } from '../lib/url';
+
+const site = loadSiteData();
+const today = formatDate(site.date);
+const homeHref = withBase('/');
+
+// All five pillars always appear, but only anchor to a container the current
+// edition actually rendered — otherwise the link would scroll nowhere.
+const containerIds = new Set(site.front.map((container) => container.id));
+const navItems = PILLAR_NAV.map((item) => ({
+	...item,
+	href: containerIds.has(item.id) ? frontAnchor(item.id) : homeHref,
+	present: containerIds.has(item.id),
+}));
+---
+
+<header class="masthead" data-component="header">
+	<div class="topbar">
+		<div class="gutter topbar__inner">
+			<p class="topbar__date">{today}</p>
+			<p class="topbar__tag">AI-rewritten &middot; facts unchanged</p>
+		</div>
+	</div>
+
+	<div class="brandbar">
+		<div class="gutter brandbar__inner">
+			<a class="wordmark" href={homeHref}>
+				<span class="wordmark__text">{SITE_NAME}</span>
+			</a>
+		</div>
+	</div>
+
+	<nav class="pillars" aria-label="Sections">
+		<div class="gutter">
+			<ul class="pillars__list">
+				{
+					navItems.map((item) => (
+						<li class="pillars__item" data-pillar={item.id} data-in-edition={String(item.present)}>
+							<a class="pillars__link" href={item.href}>
+								{item.label}
+							</a>
+						</li>
+					))
+				}
+			</ul>
+		</div>
+	</nav>
+</header>
+
+<style>
+	.masthead {
+		background: var(--masthead-nav-background);
+		color: var(--masthead-text);
+		font-family: var(--font-sans);
+	}
+
+	/* --- thin top strip ------------------------------------------------- */
+	.topbar {
+		background: var(--masthead-top-bar-background);
+	}
+
+	.topbar__inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: var(--space-4);
+		min-height: 28px;
+		padding-top: var(--space-1);
+		padding-bottom: var(--space-1);
+	}
+
+	.topbar__date,
+	.topbar__tag {
+		font-size: var(--size-sans-12);
+		line-height: var(--leading-sans);
+		color: var(--masthead-text);
+	}
+
+	.topbar__tag {
+		color: var(--brand-800);
+		text-align: right;
+	}
+
+	/* --- wordmark ------------------------------------------------------- */
+	.brandbar__inner {
+		display: flex;
+		justify-content: flex-start;
+		padding-top: var(--space-3);
+		padding-bottom: var(--space-2);
+	}
+
+	.wordmark {
+		text-decoration: none;
+		color: var(--masthead-text);
+		display: inline-block;
+	}
+
+	/* Logo-sized italic serif, stepping across the same breakpoints the
+	   Guardian steps its wordmark SVG at (152 → 324px wide). */
+	.wordmark__text {
+		display: block;
+		font-family: var(--font-headline);
+		font-style: italic;
+		font-weight: 800;
+		line-height: 1;
+		letter-spacing: -0.01em;
+		font-size: 2rem; /* 32px */
+	}
+
+	@media (min-width: 480px) {
+		.wordmark__text {
+			font-size: 2.625rem; /* 42px */
+		}
+	}
+
+	@media (min-width: 740px) {
+		.brandbar__inner {
+			justify-content: flex-end;
+			padding-top: var(--space-5);
+		}
+		.wordmark__text {
+			font-size: 3.5rem; /* 56px */
+		}
+	}
+
+	@media (min-width: 980px) {
+		.wordmark__text {
+			font-size: 4.5rem; /* 72px */
+		}
+	}
+
+	@media (min-width: 1140px) {
+		.wordmark__text {
+			font-size: 5.25rem; /* 84px */
+		}
+	}
+
+	/* --- pillar nav ----------------------------------------------------- */
+	.pillars {
+		border-top: 1px solid var(--masthead-nav-border);
+		border-bottom: 1px solid var(--masthead-nav-border);
+	}
+
+	.pillars__list {
+		display: flex;
+		list-style: none;
+		/* Horizontal scroll is confined to the nav strip so the page itself
+		   never scrolls sideways at 375px. */
+		overflow-x: auto;
+		scrollbar-width: none;
+	}
+
+	.pillars__list::-webkit-scrollbar {
+		display: none;
+	}
+
+	.pillars__item {
+		position: relative;
+		flex: 0 0 auto;
+	}
+
+	/* 1px separators between pillars, as in the reference nav. */
+	.pillars__item + .pillars__item::before {
+		content: '';
+		position: absolute;
+		left: 0;
+		top: 0;
+		bottom: 0;
+		border-left: 1px solid var(--masthead-nav-border);
+	}
+
+	.pillars__link {
+		position: relative;
+		display: flex;
+		align-items: center;
+		height: 34px;
+		padding: 0 var(--space-2);
+		color: var(--masthead-text);
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-15);
+		font-weight: 700;
+		line-height: 1;
+		text-decoration: none;
+		white-space: nowrap;
+	}
+
+	/* The pillar bar: hidden until hover/focus, then slides up into view. */
+	.pillars__link::after {
+		content: '';
+		position: absolute;
+		left: var(--space-2);
+		bottom: 0;
+		width: calc(100% - var(--space-4));
+		height: 4px;
+		background: var(--pillar-underline, var(--underline-news));
+		transform: translateY(4px);
+		transition: transform 0.15s ease-out;
+	}
+
+	.pillars__link:hover::after,
+	.pillars__link:focus-visible::after {
+		transform: translateY(0);
+	}
+
+	@media (min-width: 740px) {
+		.pillars__link {
+			height: 40px;
+			padding: 0 var(--space-3);
+			font-size: var(--size-sans-17);
+		}
+		.pillars__link::after {
+			left: var(--space-3);
+			width: calc(100% - var(--space-6));
+			height: 5px;
+			transform: translateY(5px);
+		}
+	}
+</style>

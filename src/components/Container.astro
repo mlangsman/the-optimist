@@ -1,0 +1,224 @@
+---
+/**
+ * A front-page container.
+ *
+ * Mirrors the Guardian's `<section id="news" data-container-level="Primary">`:
+ * a titled block with a top rule, side rules, and a card grid whose columns are
+ * separated by thin vertical hairlines.
+ *
+ * Cards are `<li>` children of a `<ul>`, as in the reference markup — the
+ * wrapper also keeps the grid rules inside this component's style scope
+ * (Astro scoped styles do not reach a child component's root element).
+ */
+import Card from './Card.astro';
+import type { FrontContainer } from '../lib/types';
+import type { Pillar } from '../lib/data';
+import { pillarFor } from '../lib/data';
+
+interface Props {
+	container: FrontContainer;
+	/** `primary` gets the lead card and the darker top rule. */
+	level?: 'primary' | 'secondary';
+	/** `strip` is the compact horizontal treatment used by `highlights`. */
+	variant?: 'grid' | 'strip';
+}
+
+const { container, level = 'secondary', variant = 'grid' } = Astro.props;
+
+const pillar: Pillar = pillarFor(container.id);
+const isPrimary = level === 'primary';
+
+// The primary container leads with one large card; the rest fill the grid.
+const [leadCard, ...restCards] = isPrimary && variant === 'grid' ? container.cards : [];
+const gridCards = isPrimary && variant === 'grid' ? restCards : container.cards;
+const cardVariant = variant === 'strip' ? 'strip' : isPrimary ? 'standard' : 'small';
+const titleId = `${container.id}-title`;
+---
+
+<section
+	class:list={['container', `container--${level}`, `container--${variant}`]}
+	id={container.id}
+	data-pillar={pillar}
+	data-container-level={level}
+	aria-labelledby={titleId}
+>
+	<div class="container__title">
+		<h2 id={titleId}>{container.title}</h2>
+	</div>
+
+	{
+		leadCard && (
+			<div class="container__lead">
+				<Card card={leadCard} variant="lead" pillar={pillar} as="h3" eager />
+			</div>
+		)
+	}
+
+	<ul class:list={['grid', variant === 'strip' && 'grid--strip']}>
+		{
+			gridCards.map((card) => (
+				<li class="grid__cell">
+					<Card card={card} variant={cardVariant} pillar={pillar} as="h3" />
+				</li>
+			))
+		}
+	</ul>
+</section>
+
+<style>
+	.container {
+		margin-top: var(--space-6);
+		background: var(--front-container-background);
+		/* Side rules, as the Guardian's `.decoration` column draws them. */
+		border-left: 1px solid var(--section-border);
+		border-right: 1px solid var(--section-border);
+		padding: 0 var(--gutter) var(--space-4);
+	}
+
+	/* --- title ----------------------------------------------------------- */
+	.container__title {
+		border-top: 1px solid var(--section-border-primary);
+		padding: var(--space-1) 0 var(--space-3);
+	}
+
+	.container--secondary .container__title {
+		border-top-color: var(--section-border);
+	}
+
+	.container__title h2 {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		line-height: var(--leading-headline);
+		font-size: var(--size-headline-20);
+		color: var(--section-title);
+		max-width: 74%;
+	}
+
+	.container--primary .container__title h2 {
+		font-size: var(--size-headline-24);
+	}
+
+	.container--secondary .container__title h2 {
+		color: var(--section-title-secondary);
+	}
+
+	@media (min-width: 740px) {
+		.container--primary .container__title h2 {
+			font-size: var(--size-headline-28);
+		}
+	}
+
+	/* --- lead card ------------------------------------------------------- */
+	.container__lead {
+		padding-bottom: var(--space-4);
+		border-bottom: 1px solid var(--card-border-top);
+		margin-bottom: var(--space-4);
+	}
+
+	/* --- grid ------------------------------------------------------------ */
+	.grid {
+		list-style: none;
+		display: grid;
+		grid-template-columns: minmax(0, 1fr);
+	}
+
+	.grid__cell {
+		display: flex;
+		padding: var(--space-3) var(--gutter) 0;
+		min-width: 0;
+	}
+
+	/* Horizontal rules between rows — one column, so every card but the first. */
+	.grid__cell:nth-child(n + 2) {
+		border-top: 1px solid var(--card-border-top);
+	}
+
+	@media (min-width: 740px) {
+		.grid {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+
+		/* Thin vertical dividers between columns. */
+		.grid__cell {
+			border-left: 1px solid var(--card-border-supporting);
+		}
+		.grid__cell:nth-child(2n + 1) {
+			border-left: 0;
+		}
+
+		/* Rules above the second row onwards (2 columns). */
+		.grid__cell:nth-child(n + 2) {
+			border-top: 0;
+		}
+		.grid__cell:nth-child(n + 3) {
+			border-top: 1px solid var(--card-border-top);
+		}
+	}
+
+	@media (min-width: 980px) {
+		.grid {
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+		}
+
+		.grid__cell:nth-child(2n + 1) {
+			border-left: 1px solid var(--card-border-supporting);
+		}
+		.grid__cell:nth-child(4n + 1) {
+			border-left: 0;
+		}
+
+		/* Rules above the second row onwards (4 columns). */
+		.grid__cell:nth-child(n + 3) {
+			border-top: 0;
+		}
+		.grid__cell:nth-child(n + 5) {
+			border-top: 1px solid var(--card-border-top);
+		}
+	}
+
+	/* --- strip variant (highlights) --------------------------------------- */
+	.container--strip {
+		margin-top: var(--space-4);
+	}
+
+	.grid--strip {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+
+	.grid--strip .grid__cell {
+		border-top: 0;
+		border-left: 0;
+		padding-top: var(--space-2);
+	}
+
+	.grid--strip .grid__cell:nth-child(2n + 1) {
+		border-left: 0;
+	}
+
+	@media (min-width: 740px) {
+		.grid--strip {
+			grid-template-columns: repeat(4, minmax(0, 1fr));
+		}
+		.grid--strip .grid__cell {
+			border-left: 1px solid var(--card-border-supporting);
+		}
+		.grid--strip .grid__cell:first-child {
+			border-left: 0;
+		}
+		.grid--strip .grid__cell:nth-child(n + 3) {
+			border-top: 0;
+		}
+	}
+
+	@media (min-width: 980px) {
+		.grid--strip .grid__cell:nth-child(2n + 1) {
+			border-left: 1px solid var(--card-border-supporting);
+		}
+		.grid--strip .grid__cell:first-child {
+			border-left: 0;
+		}
+		.grid--strip .grid__cell:nth-child(n + 5) {
+			border-top: 0;
+		}
+	}
+</style>

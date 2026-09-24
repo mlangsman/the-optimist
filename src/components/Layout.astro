@@ -1,0 +1,92 @@
+---
+import '../styles/tokens.css';
+import '../styles/global.css';
+import Masthead from './Masthead.astro';
+import Footer from './Footer.astro';
+import { SITE_NAME } from '../lib/constants';
+import type { Pillar } from '../lib/data';
+import { withBase } from '../lib/url';
+
+interface Props {
+	/** Page title, without the site name suffix. */
+	title: string;
+	description?: string;
+	/** Colours pillar-tinted elements for this page. */
+	pillar?: Pillar;
+	/** Full-bleed pages (the front) manage their own gutters. */
+	wide?: boolean;
+}
+
+const { title, description, pillar = 'news', wide = false } = Astro.props;
+
+const fullTitle = title === SITE_NAME ? SITE_NAME : `${title} | ${SITE_NAME}`;
+const canonical = new URL(Astro.url.pathname, Astro.site ?? 'https://example.invalid').toString();
+const faviconSvg = withBase('/favicon.svg');
+const faviconIco = withBase('/favicon.ico');
+---
+
+<!doctype html>
+<html lang="en-GB" data-pillar={pillar}>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{fullTitle}</title>
+		{description && <meta name="description" content={description} />}
+		<link rel="canonical" href={canonical} />
+		<link rel="icon" type="image/svg+xml" href={faviconSvg} />
+		<link rel="icon" href={faviconIco} sizes="any" />
+		<meta name="generator" content={Astro.generator} />
+
+		<!-- Free lookalikes for the Guardian's proprietary faces. Swap the
+		     stacks in src/styles/tokens.css to change them in one place. -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			rel="stylesheet"
+			href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,700;0,800;1,700;1,800&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"
+		/>
+	</head>
+	<body>
+		<a class="skip-link" href="#main">Skip to main content</a>
+		<Masthead />
+		<main id="main" class={wide ? 'main main--wide' : 'main'}>
+			<slot />
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.main {
+		width: 100%;
+		max-width: var(--max-width);
+		margin: 0 auto;
+		padding: 0 var(--page-padding) var(--space-10);
+		background: var(--front-container-background);
+	}
+
+	/* The Guardian rules the left and right edges of the centred column once
+	   there is room for the rule to sit outside the content. */
+	@media (min-width: 740px) {
+		.main {
+			padding: 0 var(--space-5) var(--space-16);
+			border-left: 1px solid var(--straight-lines);
+			border-right: 1px solid var(--straight-lines);
+		}
+	}
+
+	/* The front page is built from containers that draw their own side rules,
+	   so the page wrapper must not draw a second pair 20px outside them. */
+	.main--wide {
+		padding-bottom: var(--space-10);
+	}
+
+	@media (min-width: 740px) {
+		.main--wide {
+			border-left: 0;
+			border-right: 0;
+			padding-left: var(--page-padding);
+			padding-right: var(--page-padding);
+		}
+	}
+</style>

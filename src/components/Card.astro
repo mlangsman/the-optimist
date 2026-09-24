@@ -1,0 +1,243 @@
+---
+/**
+ * A front-page / related-rail card.
+ *
+ * Structure follows the Guardian's own card: a positioned `<article>` root with
+ * a single empty, absolutely-positioned `<a>` overlaying it that carries the
+ * href and an aria-label of the full headline, so the whole card is one click
+ * target and the headline text is not itself a link.
+ *
+ * `card.linked === false` renders exactly the same markup minus that anchor —
+ * a plain, non-interactive `<article>`.
+ */
+import type { Card } from '../lib/types';
+import type { Pillar } from '../lib/data';
+import { pillarForCard } from '../lib/data';
+import { articleHref } from '../lib/url';
+
+type Variant = 'lead' | 'standard' | 'small' | 'strip';
+
+interface Props {
+	card: Card;
+	/** Visual size. `lead` is the first card of the primary container. */
+	variant?: Variant;
+	/** Pillar inherited from the container; a card's kicker can override it. */
+	pillar?: Pillar;
+	/** Heading level so each container keeps a sane outline. */
+	as?: 'h2' | 'h3' | 'h4';
+	/** Load the image eagerly (the lead card only). */
+	eager?: boolean;
+}
+
+const { card, variant = 'standard', pillar = 'news', as: Heading = 'h3', eager = false } = Astro.props;
+
+const cardPillar = pillarForCard(card, pillar);
+const href = card.linked ? articleHref(card.path) : undefined;
+const showImage = Boolean(card.image);
+const showTrail = Boolean(card.trail) && variant !== 'strip';
+---
+
+<article class:list={['card', `card--${variant}`]} data-pillar={cardPillar} data-linked={String(card.linked)}>
+	{
+		href && (
+			<a class="card__link" href={href} aria-label={card.headline}>
+				<span class="visually-hidden">{card.headline}</span>
+			</a>
+		)
+	}
+
+	<div class="card__inner">
+		{
+			showImage && card.image && (
+				<div class="card__media">
+					<img
+						src={card.image.src}
+						alt={card.image.alt ?? ''}
+						width={card.image.width ?? 620}
+						height={card.image.height ?? 372}
+						loading={eager ? 'eager' : 'lazy'}
+						decoding="async"
+					/>
+				</div>
+			)
+		}
+
+		<div class="card__text">
+			<Heading class="card__headline">
+				{card.kicker && <span class="card__kicker">{card.kicker}</span>}
+				<span class="card__headline-text">{card.headline}</span>
+			</Heading>
+
+			{showTrail && <p class="card__trail">{card.trail}</p>}
+
+			{card.byline && variant !== 'strip' && <p class="card__byline">{card.byline}</p>}
+		</div>
+	</div>
+</article>
+
+<style>
+	.card {
+		position: relative;
+		display: flex;
+		background: var(--card-background);
+		padding-bottom: var(--space-4);
+	}
+
+	.card__inner {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-2);
+		width: 100%;
+	}
+
+	/* Whole-card click target. Sits above the content but below nothing else,
+	   so the card has exactly one focusable element. */
+	.card__link {
+		position: absolute;
+		inset: 0;
+		z-index: 2;
+	}
+
+	.card[data-linked='true']:hover {
+		background: var(--card-background-hover);
+	}
+
+	.card[data-linked='true']:hover .card__headline-text,
+	.card:focus-within .card__headline-text {
+		text-decoration: underline;
+		text-decoration-thickness: 1px;
+		text-underline-offset: 2px;
+	}
+
+	/* --- media ---------------------------------------------------------- */
+	.card__media {
+		background: var(--card-media-background);
+		/* Sample images are 620x372. Fixing the ratio stops the grid reflowing
+		   while images load. */
+		aspect-ratio: 5 / 3;
+		overflow: hidden;
+	}
+
+	.card__media img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	/* --- text ----------------------------------------------------------- */
+	.card__text {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-1);
+	}
+
+	.card__headline {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		line-height: var(--leading-headline);
+		color: var(--card-headline-text);
+		font-size: var(--size-headline-20);
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-0);
+	}
+
+	.card__kicker {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		font-weight: 700;
+		line-height: 1.15;
+		/* Read --pillar directly, not a token that aliases it: an alias
+		   declared on :root resolves against :root's --pillar and inherits
+		   that literal colour, ignoring the card's own data-pillar. */
+		color: var(--pillar);
+	}
+
+	.card__trail {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		line-height: var(--leading-sans);
+		color: var(--card-trail-text);
+	}
+
+	.card__byline {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-12);
+		line-height: var(--leading-sans);
+		color: var(--card-meta-text);
+		font-style: italic;
+	}
+
+	/* --- lead ----------------------------------------------------------- */
+	.card--lead .card__headline {
+		font-size: var(--size-headline-28);
+	}
+
+	.card--lead .card__trail {
+		font-size: var(--size-sans-15);
+	}
+
+	@media (min-width: 740px) {
+		/* row-reverse puts the text on the left and the image on the right,
+		   matching the Guardian's flexible/general lead card. */
+		.card--lead .card__inner {
+			flex-direction: row-reverse;
+			align-items: flex-start;
+			gap: var(--space-5);
+		}
+		.card--lead .card__media {
+			flex: 1 1 58%;
+			min-width: 0;
+		}
+		.card--lead .card__text {
+			flex: 1 1 42%;
+			min-width: 0;
+		}
+		.card--lead .card__headline {
+			font-size: var(--size-headline-34);
+		}
+		.card--lead .card__trail {
+			font-size: var(--size-sans-17);
+		}
+	}
+
+	@media (min-width: 980px) {
+		.card--lead .card__headline {
+			font-size: var(--size-headline-42);
+		}
+	}
+
+	/* --- standard ------------------------------------------------------- */
+	@media (min-width: 740px) {
+		.card--standard .card__headline {
+			font-size: var(--size-headline-20);
+		}
+	}
+
+	/* --- small (secondary containers) ------------------------------------ */
+	.card--small .card__headline {
+		font-size: var(--size-headline-17);
+	}
+
+	.card--small .card__trail {
+		font-size: var(--size-sans-12);
+	}
+
+	/* --- strip (highlights) ---------------------------------------------- */
+	.card--strip {
+		padding-bottom: var(--space-2);
+	}
+
+	.card--strip .card__media {
+		aspect-ratio: 5 / 3;
+	}
+
+	.card--strip .card__headline {
+		font-size: var(--size-headline-17);
+		font-weight: 700;
+	}
+
+	.card--strip .card__kicker {
+		font-size: var(--size-sans-12);
+	}
+</style>

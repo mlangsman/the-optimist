@@ -1,0 +1,1143 @@
+{
+	"date": "2026-09-24",
+	"generatedAt": "2026-09-24T06:15:00.000Z",
+	"engine": "claude-code",
+	"front": [
+		{
+			"id": "highlights",
+			"title": "Highlights",
+			"cards": [
+				{
+					"path": "/news/2026/sep/24/placeholder-highlight-one",
+					"linked": false,
+					"kicker": "Live",
+					"headline": "Placeholder highlight one",
+					"trail": "Compact strip card.",
+					"image": {
+						"src": "https://picsum.photos/seed/111/620/372",
+						"alt": "Placeholder image for: Placeholder highlight one.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Noor Halberd",
+					"original": {
+						"headline": "Placeholder highlight one, as originally published",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Placeholder Reporter",
+						"url": "https://www.theguardian.com/news/2026/sep/24/placeholder-highlight-one"
+					}
+				},
+				{
+					"path": "/sport/2026/sep/24/placeholder-highlight-two",
+					"linked": false,
+					"kicker": "Sport",
+					"headline": "Placeholder highlight two",
+					"trail": "Compact strip card.",
+					"image": {
+						"src": "https://picsum.photos/seed/112/620/372",
+						"alt": "Placeholder image for: Placeholder highlight two.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Wren Castellan",
+					"original": {
+						"headline": "Placeholder highlight two, as originally published",
+						"trail": "Placeholder source trail text.",
+						"byline": "Our Placeholder Correspondent",
+						"url": "https://www.theguardian.com/sport/2026/sep/24/placeholder-highlight-two"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-highlight-three",
+					"linked": false,
+					"kicker": "Culture",
+					"headline": "Placeholder highlight three",
+					"trail": "Compact strip card.",
+					"image": {
+						"src": "https://picsum.photos/seed/113/620/372",
+						"alt": "Placeholder image for: Placeholder highlight three.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Osk Pellendine",
+					"original": {
+						"headline": "Placeholder highlight three, as originally published",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Sample Staff Writer",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-highlight-three"
+					}
+				},
+				{
+					"path": "/lifeandstyle/2026/sep/24/placeholder-highlight-four",
+					"linked": false,
+					"kicker": "Lifestyle",
+					"headline": "Placeholder highlight four",
+					"trail": "Compact strip card.",
+					"image": {
+						"src": "https://picsum.photos/seed/114/620/372",
+						"alt": "Placeholder image for: Placeholder highlight four.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Marty Grovewell",
+					"original": {
+						"headline": "Placeholder highlight four, as originally published",
+						"trail": "Placeholder source trail text.",
+						"byline": "The Placeholder Desk",
+						"url": "https://www.theguardian.com/lifeandstyle/2026/sep/24/placeholder-highlight-four"
+					}
+				}
+			]
+		},
+		{
+			"id": "news",
+			"title": "News",
+			"cards": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-solar-canopies-over-car-parks",
+					"linked": true,
+					"kicker": "Environment",
+					"headline": "Placeholder city covers every car park with solar canopies",
+					"trail": "Sample trail text describing a made-up municipal scheme that exists only to fill this card.",
+					"image": {
+						"src": "https://picsum.photos/seed/101/620/372",
+						"alt": "Placeholder image for: Placeholder city covers every car park with solar canopies.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Harina Myde",
+					"original": {
+						"headline": "Placeholder city approves solar canopy scheme for municipal car parks",
+						"trail": "Placeholder source trail text.",
+						"standfirst": "A placeholder standfirst that sets up the sample story in one or two clauses, exactly as the Guardian does.",
+						"byline": "A Placeholder Reporter",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-solar-canopies-over-car-parks"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-night-buses-return-to-sample-county",
+					"linked": true,
+					"kicker": "Transport",
+					"headline": "Night buses return to sample county after placeholder funding deal",
+					"trail": "Sample trail text about a fictional transport announcement, included to test two-line trails on the front page.",
+					"image": {
+						"src": "https://picsum.photos/seed/102/620/372",
+						"alt": "Placeholder image for: Night buses return to sample county after placeholder funding deal.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Delun Ochra",
+					"original": {
+						"headline": "Sample county restores night bus network under new funding agreement",
+						"trail": "Placeholder source trail text.",
+						"standfirst": "Another placeholder standfirst, slightly longer, so the layout is tested against a realistic range of lengths.",
+						"byline": "Our Placeholder Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-night-buses-return-to-sample-county"
+					}
+				},
+				{
+					"path": "/environment/2026/sep/24/placeholder-river-declared-swimmable-again",
+					"linked": true,
+					"kicker": "Rivers",
+					"headline": "Placeholder river declared swimmable again after sample clean-up",
+					"trail": "Sample trail text for a fictional water quality story.",
+					"image": {
+						"src": "https://picsum.photos/seed/103/620/372",
+						"alt": "Placeholder image for: Placeholder river declared swimmable again after sample clean-up.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Mira Vantel",
+					"original": {
+						"headline": "Placeholder river meets bathing water standard for first time in decades",
+						"trail": "Placeholder source trail text.",
+						"standfirst": "A placeholder standfirst for the river story.",
+						"byline": "A Sample Staff Writer",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-river-declared-swimmable-again"
+					}
+				},
+				{
+					"path": "/education/2026/sep/24/placeholder-school-library-reopens",
+					"linked": true,
+					"kicker": "Education",
+					"headline": "Sample school library reopens with placeholder evening hours",
+					"trail": "Sample trail text about a fictional school library, used to check card spacing.",
+					"image": {
+						"src": "https://picsum.photos/seed/104/620/372",
+						"alt": "Placeholder image for: Sample school library reopens with placeholder evening hours.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ossian Brede",
+					"original": {
+						"headline": "Sample school reopens library and extends opening hours into the evening",
+						"trail": "Placeholder source trail text.",
+						"standfirst": "A placeholder standfirst for the library story.",
+						"byline": "The Placeholder Desk",
+						"url": "https://www.theguardian.com/education/2026/sep/24/placeholder-school-library-reopens"
+					}
+				},
+				{
+					"path": "/society/2026/sep/24/placeholder-repair-cafes-spread-across-sample-region",
+					"linked": true,
+					"kicker": "Society",
+					"headline": "Repair cafes spread across sample region in placeholder wave",
+					"trail": "Sample trail text about fictional community repair workshops.",
+					"image": {
+						"src": "https://picsum.photos/seed/105/620/372",
+						"alt": "Placeholder image for: Repair cafes spread across sample region in placeholder wave.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Calla Windrow",
+					"original": {
+						"headline": "Community repair cafes open across sample region",
+						"trail": "Placeholder source trail text.",
+						"standfirst": "A placeholder standfirst for the repair cafe story.",
+						"byline": "A Fictional Contributor",
+						"url": "https://www.theguardian.com/society/2026/sep/24/placeholder-repair-cafes-spread-across-sample-region"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-rail-line-reopens-after-sample-works",
+					"linked": true,
+					"kicker": "Transport",
+					"headline": "Placeholder rail line reopens after sample engineering works",
+					"trail": "Sample trail text for the story whose rewrite was skipped.",
+					"image": {
+						"src": "https://picsum.photos/seed/106/620/372",
+						"alt": "Placeholder image for: Placeholder rail line reopens after sample engineering works.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Teodor Nasby",
+					"original": {
+						"headline": "Placeholder rail line reopens following scheduled engineering works",
+						"trail": "Placeholder source trail text.",
+						"standfirst": "A placeholder standfirst carried over from the source article.",
+						"byline": "Placeholder Political Editor",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-rail-line-reopens-after-sample-works"
+					}
+				},
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			]
+		},
+		{
+			"id": "opinion",
+			"title": "Opinion",
+			"cards": [
+				{
+					"path": "/commentisfree/2026/sep/24/placeholder-opinion-one",
+					"linked": false,
+					"kicker": "Opinion",
+					"headline": "A placeholder columnist argues something reasonable and unremarkable",
+					"trail": "Sample trail text for an opinion card.",
+					"image": {
+						"src": "https://picsum.photos/seed/115/620/372",
+						"alt": "Placeholder image for: A placeholder columnist argues something reasonable and unremarkable.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Elin Thrace",
+					"original": {
+						"headline": "A placeholder column, as originally published",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Fictional Contributor",
+						"url": "https://www.theguardian.com/commentisfree/2026/sep/24/placeholder-opinion-one"
+					}
+				},
+				{
+					"path": "/commentisfree/2026/sep/24/placeholder-opinion-two",
+					"linked": false,
+					"kicker": "Opinion",
+					"headline": "Second placeholder column about a fictional policy question",
+					"trail": "Sample trail text for an opinion card.",
+					"image": {
+						"src": "https://picsum.photos/seed/116/620/372",
+						"alt": "Placeholder image for: Second placeholder column about a fictional policy question.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Bram Oakhollow",
+					"original": {
+						"headline": "A second placeholder column",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Political Editor",
+						"url": "https://www.theguardian.com/commentisfree/2026/sep/24/placeholder-opinion-two"
+					}
+				},
+				{
+					"path": "/commentisfree/2026/sep/24/placeholder-opinion-three",
+					"linked": false,
+					"kicker": "Opinion",
+					"headline": "Third placeholder column, on the subject of nothing in particular",
+					"trail": "Sample trail text for an opinion card.",
+					"image": {
+						"src": "https://picsum.photos/seed/117/620/372",
+						"alt": "Placeholder image for: Third placeholder column, on the subject of nothing in particular.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Sena Quillfield",
+					"original": {
+						"headline": "A third placeholder column",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/commentisfree/2026/sep/24/placeholder-opinion-three"
+					}
+				},
+				{
+					"path": "/commentisfree/2026/sep/24/placeholder-opinion-four",
+					"linked": false,
+					"kicker": "Letters",
+					"headline": "Placeholder letters on a made-up consultation",
+					"trail": "Sample trail text for a letters card.",
+					"image": {
+						"src": "https://picsum.photos/seed/118/620/372",
+						"alt": "Placeholder image for: Placeholder letters on a made-up consultation.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Dov Ainsworth",
+					"original": {
+						"headline": "Placeholder letters page",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/commentisfree/2026/sep/24/placeholder-opinion-four"
+					}
+				},
+				{
+					"path": "/commentisfree/2026/sep/24/placeholder-opinion-five",
+					"linked": false,
+					"kicker": "Opinion",
+					"headline": "Fifth placeholder column with a slightly longer sample headline for wrapping",
+					"trail": "Sample trail text for an opinion card.",
+					"image": {
+						"src": "https://picsum.photos/seed/119/620/372",
+						"alt": "Placeholder image for: Fifth placeholder column with a slightly longer sample headline for wrapping.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Petra Lumsden",
+					"original": {
+						"headline": "A fifth placeholder column",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/commentisfree/2026/sep/24/placeholder-opinion-five"
+					}
+				},
+				{
+					"path": "/commentisfree/2026/sep/24/placeholder-opinion-six",
+					"linked": false,
+					"kicker": "Editorial",
+					"headline": "Placeholder editorial: the view on sample matters",
+					"trail": "Sample trail text for an editorial card.",
+					"image": {
+						"src": "https://picsum.photos/seed/120/620/372",
+						"alt": "Placeholder image for: Placeholder editorial: the view on sample matters.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Kit Vanbrough",
+					"original": {
+						"headline": "Placeholder editorial",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/commentisfree/2026/sep/24/placeholder-opinion-six"
+					}
+				}
+			]
+		}
+	],
+	"articles": {
+		"/environment/2026/sep/24/placeholder-solar-canopies-over-car-parks": {
+			"path": "/environment/2026/sep/24/placeholder-solar-canopies-over-car-parks",
+			"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-solar-canopies-over-car-parks",
+			"section": {
+				"id": "environment",
+				"name": "Environment"
+			},
+			"publishedAt": "2026-09-24T05:30:00.000Z",
+			"headline": "Placeholder city covers every car park with solar canopies",
+			"standfirst": "A placeholder standfirst that sets up the sample story in one or two clauses, exactly as the Guardian does.",
+			"bodyHtml": "<p>Placeholder opening paragraph for the solar canopy story. This text exists only to exercise the article layout and contains no real reporting, no real people and no real claims. It runs long enough to show how the body serif sits against the measure.</p>\n<p>A second placeholder paragraph continues the sample copy. Sample bodies keep the same tag structure as the source article, so the renderer sees paragraphs, subheadings, figures, block quotes and <a href=\"https://example.invalid/placeholder-link\">an inline link</a> exactly as it would in production.</p>\n<h2>A placeholder subheading</h2>\n<p>Third paragraph. The subheading above checks that <code>h2</code> elements inside the rewritten body pick up the headline serif rather than the body serif, and that the spacing above them is larger than the spacing below.</p>\n<figure><img src=\"https://picsum.photos/seed/121/620/372\" alt=\"Placeholder inline illustration for the solar canopy story.\" width=\"620\" height=\"372\" /><figcaption>Placeholder caption describing the sample photograph above. <span class=\"element-image__credit\">Photograph: Placeholder Images</span></figcaption></figure>\n<p>Fourth paragraph, after the inline figure. Figure captions are set 14px grey sans, and the figure itself breaks out to the full column width rather than the reading measure.</p>\n<blockquote><p>This is a placeholder pull quote, written to occupy the space a real quotation would take up.</p><cite>A placeholder spokesperson</cite></blockquote>\n<p>Fifth paragraph, following the pull quote. Block quotes are indented with a pillar-coloured rule on the left and set slightly larger than the surrounding body copy.</p>\n<ul><li>First placeholder list item.</li><li>Second placeholder list item.</li><li>Third placeholder list item.</li></ul>\n<p>Sixth and final placeholder paragraph. Nothing above was written by, about or for any real person, organisation or event.</p>",
+			"byline": "Harina Myde",
+			"mainImage": {
+				"src": "https://picsum.photos/seed/122/620/372",
+				"alt": "Placeholder main image for: Placeholder city covers every car park with solar canopies.",
+				"credit": "Photograph: Placeholder Images",
+				"width": 620,
+				"height": 372
+			},
+			"related": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			],
+			"status": "rewritten",
+			"original": {
+				"headline": "Placeholder city approves solar canopy scheme for municipal car parks",
+				"trail": "Placeholder source trail text.",
+				"standfirst": "A placeholder standfirst that sets up the sample story in one or two clauses, exactly as the Guardian does.",
+				"byline": "A Placeholder Reporter",
+				"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-solar-canopies-over-car-parks",
+				"bodyHtml": "<p>Placeholder source paragraph for the solar canopy story, standing in for the original Guardian text.</p>\n<p>A second placeholder source paragraph. Retained only so the fact-check pass has something to compare against.</p>"
+			}
+		},
+		"/uk-news/2026/sep/24/placeholder-night-buses-return-to-sample-county": {
+			"path": "/uk-news/2026/sep/24/placeholder-night-buses-return-to-sample-county",
+			"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-night-buses-return-to-sample-county",
+			"section": {
+				"id": "uk-news",
+				"name": "UK news"
+			},
+			"publishedAt": "2026-09-24T06:30:00.000Z",
+			"headline": "Night buses return to sample county after placeholder funding deal",
+			"standfirst": "Another placeholder standfirst, slightly longer, so the layout is tested against a realistic range of lengths.",
+			"bodyHtml": "<p>Placeholder opening paragraph for the night bus story. This text exists only to exercise the article layout and contains no real reporting, no real people and no real claims. It runs long enough to show how the body serif sits against the measure.</p>\n<p>A second placeholder paragraph continues the sample copy. Sample bodies keep the same tag structure as the source article, so the renderer sees paragraphs, subheadings, figures, block quotes and <a href=\"https://example.invalid/placeholder-link\">an inline link</a> exactly as it would in production.</p>\n<h2>A placeholder subheading</h2>\n<p>Third paragraph. The subheading above checks that <code>h2</code> elements inside the rewritten body pick up the headline serif rather than the body serif, and that the spacing above them is larger than the spacing below.</p>\n<figure><img src=\"https://picsum.photos/seed/123/620/372\" alt=\"Placeholder inline illustration for the night bus story.\" width=\"620\" height=\"372\" /><figcaption>Placeholder caption for the inline photograph. <span class=\"element-image__credit\">Photograph: Placeholder Images</span></figcaption></figure>\n<p>Fourth paragraph, after the inline figure. Figure captions are set 14px grey sans, and the figure itself breaks out to the full column width rather than the reading measure.</p>\n<blockquote><p>A second placeholder quotation, long enough to wrap onto more than one line at the reading measure.</p><cite>A placeholder council leader</cite></blockquote>\n<p>Fifth paragraph, following the pull quote. Block quotes are indented with a pillar-coloured rule on the left and set slightly larger than the surrounding body copy.</p>\n<ul><li>First placeholder list item.</li><li>Second placeholder list item.</li><li>Third placeholder list item.</li></ul>\n<p>Sixth and final placeholder paragraph. Nothing above was written by, about or for any real person, organisation or event.</p>",
+			"byline": "Delun Ochra",
+			"mainImage": {
+				"src": "https://picsum.photos/seed/124/620/372",
+				"alt": "Placeholder main image for: Night buses return to sample county after placeholder funding deal.",
+				"credit": "Photograph: Placeholder Images",
+				"width": 620,
+				"height": 372
+			},
+			"related": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			],
+			"status": "rewritten",
+			"original": {
+				"headline": "Sample county restores night bus network under new funding agreement",
+				"trail": "Placeholder source trail text.",
+				"standfirst": "Another placeholder standfirst, slightly longer, so the layout is tested against a realistic range of lengths.",
+				"byline": "Our Placeholder Correspondent",
+				"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-night-buses-return-to-sample-county",
+				"bodyHtml": "<p>Placeholder source paragraph for the night bus story, standing in for the original Guardian text.</p>\n<p>A second placeholder source paragraph. Retained only so the fact-check pass has something to compare against.</p>"
+			}
+		},
+		"/environment/2026/sep/24/placeholder-river-declared-swimmable-again": {
+			"path": "/environment/2026/sep/24/placeholder-river-declared-swimmable-again",
+			"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-river-declared-swimmable-again",
+			"section": {
+				"id": "environment",
+				"name": "Environment"
+			},
+			"publishedAt": "2026-09-24T07:30:00.000Z",
+			"headline": "Placeholder river declared swimmable again after sample clean-up",
+			"standfirst": "A placeholder standfirst for the river story.",
+			"bodyHtml": "<p>Placeholder opening paragraph for the river clean-up story. This text exists only to exercise the article layout and contains no real reporting, no real people and no real claims. It runs long enough to show how the body serif sits against the measure.</p>\n<p>A second placeholder paragraph continues the sample copy. Sample bodies keep the same tag structure as the source article, so the renderer sees paragraphs, subheadings, figures, block quotes and <a href=\"https://example.invalid/placeholder-link\">an inline link</a> exactly as it would in production.</p>\n<h2>A placeholder subheading</h2>\n<p>Third paragraph. The subheading above checks that <code>h2</code> elements inside the rewritten body pick up the headline serif rather than the body serif, and that the spacing above them is larger than the spacing below.</p>\n<figure><img src=\"https://picsum.photos/seed/125/620/372\" alt=\"Placeholder inline illustration for the river clean-up story.\" width=\"620\" height=\"372\" /><figcaption>Placeholder caption describing a sample stretch of water. <span class=\"element-image__credit\">Photograph: Placeholder Images</span></figcaption></figure>\n<p>Fourth paragraph, after the inline figure. Figure captions are set 14px grey sans, and the figure itself breaks out to the full column width rather than the reading measure.</p>\n<blockquote><p>A third placeholder quotation, standing in for something a real source might have said.</p><cite>A placeholder volunteer</cite></blockquote>\n<p>Fifth paragraph, following the pull quote. Block quotes are indented with a pillar-coloured rule on the left and set slightly larger than the surrounding body copy.</p>\n<ul><li>First placeholder list item.</li><li>Second placeholder list item.</li><li>Third placeholder list item.</li></ul>\n<p>Sixth and final placeholder paragraph. Nothing above was written by, about or for any real person, organisation or event.</p>",
+			"byline": "Mira Vantel",
+			"mainImage": {
+				"src": "https://picsum.photos/seed/126/620/372",
+				"alt": "Placeholder main image for: Placeholder river declared swimmable again after sample clean-up.",
+				"credit": "Photograph: Placeholder Images",
+				"width": 620,
+				"height": 372
+			},
+			"related": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			],
+			"status": "rewritten",
+			"original": {
+				"headline": "Placeholder river meets bathing water standard for first time in decades",
+				"trail": "Placeholder source trail text.",
+				"standfirst": "A placeholder standfirst for the river story.",
+				"byline": "A Sample Staff Writer",
+				"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-river-declared-swimmable-again",
+				"bodyHtml": "<p>Placeholder source paragraph for the river clean-up story, standing in for the original Guardian text.</p>\n<p>A second placeholder source paragraph. Retained only so the fact-check pass has something to compare against.</p>"
+			}
+		},
+		"/education/2026/sep/24/placeholder-school-library-reopens": {
+			"path": "/education/2026/sep/24/placeholder-school-library-reopens",
+			"url": "https://www.theguardian.com/education/2026/sep/24/placeholder-school-library-reopens",
+			"section": {
+				"id": "education",
+				"name": "Education"
+			},
+			"publishedAt": "2026-09-24T08:30:00.000Z",
+			"headline": "Sample school library reopens with placeholder evening hours",
+			"standfirst": "A placeholder standfirst for the library story.",
+			"bodyHtml": "<p>Placeholder opening paragraph for the school library story. This text exists only to exercise the article layout and contains no real reporting, no real people and no real claims. It runs long enough to show how the body serif sits against the measure.</p>\n<p>A second placeholder paragraph continues the sample copy. Sample bodies keep the same tag structure as the source article, so the renderer sees paragraphs, subheadings, figures, block quotes and <a href=\"https://example.invalid/placeholder-link\">an inline link</a> exactly as it would in production.</p>\n<h2>A placeholder subheading</h2>\n<p>Third paragraph. The subheading above checks that <code>h2</code> elements inside the rewritten body pick up the headline serif rather than the body serif, and that the spacing above them is larger than the spacing below.</p>\n<figure><img src=\"https://picsum.photos/seed/127/620/372\" alt=\"Placeholder inline illustration for the school library story.\" width=\"620\" height=\"372\" /><figcaption>Placeholder caption for the library photograph. <span class=\"element-image__credit\">Photograph: Placeholder Images</span></figcaption></figure>\n<p>Fourth paragraph, after the inline figure. Figure captions are set 14px grey sans, and the figure itself breaks out to the full column width rather than the reading measure.</p>\n<blockquote><p>A fourth placeholder quotation for layout purposes only.</p><cite>A placeholder head teacher</cite></blockquote>\n<p>Fifth paragraph, following the pull quote. Block quotes are indented with a pillar-coloured rule on the left and set slightly larger than the surrounding body copy.</p>\n<ul><li>First placeholder list item.</li><li>Second placeholder list item.</li><li>Third placeholder list item.</li></ul>\n<p>Sixth and final placeholder paragraph. Nothing above was written by, about or for any real person, organisation or event.</p>",
+			"byline": "Ossian Brede",
+			"mainImage": {
+				"src": "https://picsum.photos/seed/128/620/372",
+				"alt": "Placeholder main image for: Sample school library reopens with placeholder evening hours.",
+				"credit": "Photograph: Placeholder Images",
+				"width": 620,
+				"height": 372
+			},
+			"related": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			],
+			"status": "rewritten",
+			"original": {
+				"headline": "Sample school reopens library and extends opening hours into the evening",
+				"trail": "Placeholder source trail text.",
+				"standfirst": "A placeholder standfirst for the library story.",
+				"byline": "The Placeholder Desk",
+				"url": "https://www.theguardian.com/education/2026/sep/24/placeholder-school-library-reopens",
+				"bodyHtml": "<p>Placeholder source paragraph for the school library story, standing in for the original Guardian text.</p>\n<p>A second placeholder source paragraph. Retained only so the fact-check pass has something to compare against.</p>"
+			}
+		},
+		"/society/2026/sep/24/placeholder-repair-cafes-spread-across-sample-region": {
+			"path": "/society/2026/sep/24/placeholder-repair-cafes-spread-across-sample-region",
+			"url": "https://www.theguardian.com/society/2026/sep/24/placeholder-repair-cafes-spread-across-sample-region",
+			"section": {
+				"id": "society",
+				"name": "Society"
+			},
+			"publishedAt": "2026-09-24T09:30:00.000Z",
+			"headline": "Repair cafes spread across sample region in placeholder wave",
+			"standfirst": "A placeholder standfirst for the repair cafe story.",
+			"bodyHtml": "<p>Placeholder opening paragraph for the repair cafe story. This text exists only to exercise the article layout and contains no real reporting, no real people and no real claims. It runs long enough to show how the body serif sits against the measure.</p>\n<p>A second placeholder paragraph continues the sample copy. Sample bodies keep the same tag structure as the source article, so the renderer sees paragraphs, subheadings, figures, block quotes and <a href=\"https://example.invalid/placeholder-link\">an inline link</a> exactly as it would in production.</p>\n<h2>A placeholder subheading</h2>\n<p>Third paragraph. The subheading above checks that <code>h2</code> elements inside the rewritten body pick up the headline serif rather than the body serif, and that the spacing above them is larger than the spacing below.</p>\n<figure><img src=\"https://picsum.photos/seed/129/620/372\" alt=\"Placeholder inline illustration for the repair cafe story.\" width=\"620\" height=\"372\" /><figcaption>Placeholder caption for the workshop photograph. <span class=\"element-image__credit\">Photograph: Placeholder Images</span></figcaption></figure>\n<p>Fourth paragraph, after the inline figure. Figure captions are set 14px grey sans, and the figure itself breaks out to the full column width rather than the reading measure.</p>\n<blockquote><p>A fifth placeholder quotation, included so every rewritten fixture article has one.</p><cite>A placeholder organiser</cite></blockquote>\n<p>Fifth paragraph, following the pull quote. Block quotes are indented with a pillar-coloured rule on the left and set slightly larger than the surrounding body copy.</p>\n<ul><li>First placeholder list item.</li><li>Second placeholder list item.</li><li>Third placeholder list item.</li></ul>\n<p>Sixth and final placeholder paragraph. Nothing above was written by, about or for any real person, organisation or event.</p>",
+			"byline": "Calla Windrow",
+			"mainImage": {
+				"src": "https://picsum.photos/seed/130/620/372",
+				"alt": "Placeholder main image for: Repair cafes spread across sample region in placeholder wave.",
+				"credit": "Photograph: Placeholder Images",
+				"width": 620,
+				"height": 372
+			},
+			"related": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			],
+			"status": "rewritten",
+			"original": {
+				"headline": "Community repair cafes open across sample region",
+				"trail": "Placeholder source trail text.",
+				"standfirst": "A placeholder standfirst for the repair cafe story.",
+				"byline": "A Fictional Contributor",
+				"url": "https://www.theguardian.com/society/2026/sep/24/placeholder-repair-cafes-spread-across-sample-region",
+				"bodyHtml": "<p>Placeholder source paragraph for the repair cafe story, standing in for the original Guardian text.</p>\n<p>A second placeholder source paragraph. Retained only so the fact-check pass has something to compare against.</p>"
+			}
+		},
+		"/uk-news/2026/sep/24/placeholder-rail-line-reopens-after-sample-works": {
+			"path": "/uk-news/2026/sep/24/placeholder-rail-line-reopens-after-sample-works",
+			"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-rail-line-reopens-after-sample-works",
+			"section": {
+				"id": "uk-news",
+				"name": "UK news"
+			},
+			"publishedAt": "2026-09-24T010:30:00.000Z",
+			"headline": "Placeholder rail line reopens after sample engineering works",
+			"standfirst": "A placeholder standfirst carried over from the source article.",
+			"bodyHtml": "",
+			"byline": "Teodor Nasby",
+			"mainImage": {
+				"src": "https://picsum.photos/seed/131/620/372",
+				"alt": "Placeholder main image for: Placeholder rail line reopens after sample engineering works.",
+				"credit": "Photograph: Placeholder Images",
+				"width": 620,
+				"height": 372
+			},
+			"related": [
+				{
+					"path": "/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings",
+					"linked": false,
+					"kicker": "Environment",
+					"headline": "Orchard planted on placeholder sidings in sample town",
+					"trail": "Sample trail text for an unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/107/620/372",
+						"alt": "Placeholder image for: Orchard planted on placeholder sidings in sample town.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Juno Feltmark",
+					"original": {
+						"headline": "Community orchard planted on disused railway sidings",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Environment Editor",
+						"url": "https://www.theguardian.com/environment/2026/sep/24/placeholder-orchard-planted-on-disused-sidings"
+					}
+				},
+				{
+					"path": "/culture/2026/sep/24/placeholder-museum-drops-entry-fee",
+					"linked": false,
+					"kicker": "Museums",
+					"headline": "Sample museum drops entry fee for placeholder trial year",
+					"trail": "Sample trail text for another unlinked card.",
+					"image": {
+						"src": "https://picsum.photos/seed/108/620/372",
+						"alt": "Placeholder image for: Sample museum drops entry fee for placeholder trial year.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Pike Arundell",
+					"original": {
+						"headline": "Sample museum scraps entry charge for trial period",
+						"trail": "Placeholder source trail text.",
+						"byline": "A Stand-in Columnist",
+						"url": "https://www.theguardian.com/culture/2026/sep/24/placeholder-museum-drops-entry-fee"
+					}
+				},
+				{
+					"path": "/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op",
+					"linked": false,
+					"kicker": "Business",
+					"headline": "Placeholder village shop reopens as a sample co-operative",
+					"trail": "Sample trail text for a fictional small business story.",
+					"image": {
+						"src": "https://picsum.photos/seed/109/620/372",
+						"alt": "Placeholder image for: Placeholder village shop reopens as a sample co-operative.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Rosalind Mew",
+					"original": {
+						"headline": "Village shop reopens under community ownership",
+						"trail": "Placeholder source trail text.",
+						"byline": "Placeholder Sports Writer",
+						"url": "https://www.theguardian.com/business/2026/sep/24/placeholder-village-shop-reopens-as-co-op"
+					}
+				},
+				{
+					"path": "/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns",
+					"linked": false,
+					"kicker": "Cycling",
+					"headline": "New cycle path links two sample towns in placeholder scheme",
+					"trail": "Sample trail text for the last card in the news container.",
+					"image": {
+						"src": "https://picsum.photos/seed/110/620/372",
+						"alt": "Placeholder image for: New cycle path links two sample towns in placeholder scheme.",
+						"credit": "Placeholder Images",
+						"width": 620,
+						"height": 372
+					},
+					"byline": "Ivo Sandgate",
+					"original": {
+						"headline": "New cycle path connects two towns",
+						"trail": "Placeholder source trail text.",
+						"byline": "Sample Arts Correspondent",
+						"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-cycle-path-links-two-sample-towns"
+					}
+				}
+			],
+			"status": "headline-only",
+			"original": {
+				"headline": "Placeholder rail line reopens following scheduled engineering works",
+				"trail": "Placeholder source trail text.",
+				"standfirst": "A placeholder standfirst carried over from the source article.",
+				"byline": "Placeholder Political Editor",
+				"url": "https://www.theguardian.com/uk-news/2026/sep/24/placeholder-rail-line-reopens-after-sample-works",
+				"bodyHtml": "<p>Placeholder source paragraph for the rail reopening story, standing in for the original Guardian text.</p>\n<p>A second placeholder source paragraph. Retained only so the fact-check pass has something to compare against.</p>"
+			}
+		}
+	}
+}

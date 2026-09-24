@@ -1,0 +1,172 @@
+---
+/**
+ * Standard Guardian news-article header: kicker, serif headline, standfirst,
+ * a byline/date meta column pinned to the left from the `desktop` breakpoint,
+ * and the main image with its caption and credit.
+ */
+import type { Article } from '../lib/types';
+import { formatDateTime } from '../lib/constants';
+
+interface Props {
+	article: Article;
+}
+
+const { article } = Astro.props;
+
+const published = formatDateTime(article.publishedAt);
+const image = article.mainImage;
+const caption = image?.alt;
+const credit = image?.credit;
+---
+
+<header class="article-header">
+	<div class="article-header__titles">
+		<p class="article-header__kicker">{article.section.name}</p>
+		<h1 class="article-header__headline">{article.headline}</h1>
+		{article.standfirst && <p class="article-header__standfirst">{article.standfirst}</p>}
+	</div>
+
+	<div class="article-header__meta">
+		{article.byline && <p class="article-header__byline">{article.byline}</p>}
+		<p class="article-header__date">
+			<time datetime={article.publishedAt}>{published}</time>
+		</p>
+	</div>
+
+	{
+		image && (
+			<figure class="article-header__figure">
+				<img
+					src={image.src}
+					alt={image.alt ?? ''}
+					width={image.width ?? 620}
+					height={image.height ?? 372}
+					loading="eager"
+					decoding="async"
+				/>
+				{(caption || credit) && (
+					<figcaption>
+						{caption && <span class="article-header__caption">{caption}</span>}
+						{credit && <span class="article-header__credit">{credit}</span>}
+					</figcaption>
+				)}
+			</figure>
+		)
+	}
+</header>
+
+<style>
+	.article-header {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr);
+		gap: var(--space-4) 0;
+		padding-top: var(--space-4);
+	}
+
+	/* --- titles ---------------------------------------------------------- */
+	.article-header__kicker {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		font-weight: 700;
+		line-height: var(--leading-sans);
+		color: var(--pillar);
+		text-transform: none;
+		margin-bottom: var(--space-1);
+	}
+
+	.article-header__headline {
+		font-family: var(--font-headline);
+		font-weight: 700;
+		font-size: var(--size-headline-34);
+		line-height: var(--leading-headline);
+		color: var(--neutral-7);
+		max-width: 46rem;
+	}
+
+	.article-header__standfirst {
+		font-family: var(--font-body);
+		font-size: var(--size-sans-20); /* 20px */
+		line-height: 1.35;
+		font-weight: 600;
+		color: var(--neutral-20);
+		max-width: var(--measure);
+		margin-top: var(--space-4);
+	}
+
+	@media (min-width: 740px) {
+		.article-header__headline {
+			font-size: var(--size-headline-40);
+		}
+	}
+
+	/* --- byline / date --------------------------------------------------- */
+	.article-header__meta {
+		border-top: 1px solid var(--straight-lines);
+		padding-top: var(--space-2);
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-1);
+	}
+
+	.article-header__byline {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-17);
+		font-weight: 700;
+		line-height: var(--leading-sans);
+		color: var(--pillar-strong);
+	}
+
+	.article-header__date {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		line-height: var(--leading-sans);
+		color: var(--neutral-46);
+	}
+
+	/* --- main image ------------------------------------------------------ */
+	.article-header__figure img {
+		width: 100%;
+		height: auto;
+		background: var(--card-media-background);
+	}
+
+	.article-header__figure figcaption {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-14);
+		line-height: var(--leading-sans);
+		color: var(--caption-text);
+		padding-top: var(--space-1);
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--space-1) var(--space-2);
+	}
+
+	.article-header__credit {
+		color: var(--neutral-60);
+	}
+
+	/* --- desktop: meta moves into a left rail ---------------------------- */
+	@media (min-width: 980px) {
+		.article-header {
+			grid-template-columns: var(--article-rail) minmax(0, var(--measure)) minmax(0, 1fr);
+			column-gap: var(--article-rail-gap);
+		}
+
+		.article-header__titles {
+			grid-column: 2 / 4;
+			grid-row: 1;
+		}
+
+		.article-header__meta {
+			grid-column: 1;
+			grid-row: 2;
+			border-top: 1px solid var(--straight-lines);
+			padding-right: var(--space-4);
+		}
+
+		.article-header__figure {
+			grid-column: 2 / 4;
+			grid-row: 2;
+		}
+	}
+</style>

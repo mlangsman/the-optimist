@@ -1,0 +1,263 @@
+/*
+ * Design tokens for The Optimist.
+ *
+ * SOURCE: values copied verbatim from `@guardian/source` v13.1.0 `foundations`
+ * (palette, space, breakpoints, typography). The package ships its typography
+ * as Emotion `css` template strings and its palette as JS objects, neither of
+ * which can be consumed from an Astro `<style>` block (plain CSS, no CSS-in-JS
+ * runtime). So the values are transcribed here as custom properties instead,
+ * and `@guardian/source` stays a build-time reference rather than a runtime
+ * dependency. Regenerate by reading `@guardian/source/foundations`:
+ *
+ *   node --input-type=module -e "import * as f from '@guardian/source/foundations'; \
+ *     console.log(JSON.stringify({news: f.news, neutral: f.neutral, space: f.space}, null, 2))"
+ *
+ * Everything below is light theme only — the site ships no dark theme.
+ */
+
+:root {
+	/* ---------------------------------------------------------------------
+	 * Palette — @guardian/source `neutral`
+	 * ------------------------------------------------------------------ */
+	--neutral-0: #000000;
+	--neutral-7: #121212;
+	--neutral-10: #1a1a1a;
+	--neutral-20: #333333;
+	--neutral-38: #545454;
+	--neutral-46: #707070;
+	--neutral-60: #999999;
+	--neutral-73: #bababa;
+	--neutral-86: #dcdcdc;
+	--neutral-93: #ededed;
+	--neutral-97: #f6f6f6;
+	--neutral-100: #ffffff;
+
+	/* Palette — `brand` (the Guardian blue) */
+	--brand-100: #001536;
+	--brand-300: #041f4a;
+	--brand-400: #052962;
+	--brand-500: #0077b6;
+	--brand-600: #506991;
+	--brand-800: #c1d8fc;
+
+	/* Palette — pillars. The `*-400`/`*-300` steps are the ones the Guardian
+	 * uses for kickers and links on a white background. */
+	--pillar-news: #c70000; /* news[400] */
+	--pillar-news-dark: #ab0613; /* news[300] — link colour on white */
+	--pillar-opinion: #e05e00; /* opinion[450] */
+	--pillar-opinion-dark: #c74600; /* opinion[300] */
+	--pillar-sport: #0077b6; /* sport[400] */
+	--pillar-sport-dark: #005689; /* sport[300] */
+	--pillar-culture: #6b5840; /* culture[300] */
+	--pillar-culture-dark: #574835; /* culture[200] */
+	--pillar-lifestyle: #7d0068; /* lifestyle[300] */
+	--pillar-lifestyle-dark: #650054; /* lifestyle[200] */
+
+	/* The active pillar. Set per container/article; everything pillar-tinted
+	 * reads from these two, so one declaration recolours a whole block. */
+	--pillar: var(--pillar-news);
+	--pillar-strong: var(--pillar-news-dark);
+
+	/* ---------------------------------------------------------------------
+	 * Semantic colours — named after the Guardian's own DCR custom properties
+	 * (see scripts/__fixtures__/front-full.html)
+	 * ------------------------------------------------------------------ */
+	--background: var(--neutral-100);
+	--front-container-background: var(--neutral-100);
+	--card-background: transparent;
+	--card-background-hover: rgba(18, 18, 18, 0.06);
+	--card-headline-text: var(--neutral-7); /* --card-headline #121212 */
+	--card-trail-text: var(--neutral-46); /* --card-trail-text #707070 */
+	--card-meta-text: var(--neutral-46); /* --card-footer-text #707070 */
+	--card-border-top: var(--neutral-73); /* #bababa — rule above each card row */
+	--card-border-supporting: var(--neutral-86); /* #dcdcdc — vertical column rule */
+	--card-media-background: var(--neutral-97);
+
+	--straight-lines: var(--neutral-86); /* #dcdcdc — the Guardian's rule colour */
+	--article-border: var(--neutral-86);
+	--section-border: var(--neutral-86); /* container side rules */
+	--section-border-primary: var(--neutral-20); /* #333333 — primary container top rule */
+	--section-title: var(--neutral-7); /* --article-section-title #121212 */
+	--section-title-secondary: var(--neutral-20); /* #333333 */
+
+	/* The real Guardian runs a darker strip above the nav
+	 * (--masthead-top-bar-background #041F4A over --masthead-nav-background
+	 * #052962). The brief specifies #052962 for the bar, so that is the main
+	 * surface and brand-300 is kept for the thin strip above it. */
+	--masthead-top-bar-background: var(--brand-300);
+	--masthead-nav-background: var(--brand-400);
+	--masthead-nav-border: var(--brand-600); /* --masthead-nav-lines #506991 */
+	--masthead-text: var(--neutral-100);
+	--masthead-link-hover: var(--brandAlt-400);
+	--brandAlt-400: #ffe500;
+
+	/* Brighter pillar steps, used only for the nav underline bars — matching
+	 * the inline --pillar-underline values in the reference markup. */
+	--underline-news: #ff5943;
+	--underline-opinion: #ff7f0f;
+	--underline-sport: #00b2ff;
+	--underline-culture: #eacca0;
+	--underline-lifestyle: #ffabdb;
+
+	--footer-background: var(--brand-400);
+	--footer-text: var(--neutral-100);
+	--footer-link: var(--neutral-100);
+	--footer-border: var(--brand-600);
+
+	--caption-text: var(--neutral-46);
+	--notice-background: var(--neutral-97);
+	--focus-halo: var(--brand-500);
+
+	/* ---------------------------------------------------------------------
+	 * Type stacks
+	 *
+	 * Free lookalikes for the Guardian's proprietary faces:
+	 *   GH Guardian Headline      -> Merriweather      (700/800)
+	 *   Guardian Text Egyptian    -> Source Serif 4    (400/600/400i)
+	 *   Guardian Text Sans        -> Source Sans 3     (400/600/700)
+	 *
+	 * Swap the whole site's typography by redefining these three. If you have
+	 * licensed the real faces, self-host them and uncomment the @font-face
+	 * block at the bottom of this file, then point the stacks at those names.
+	 * ------------------------------------------------------------------ */
+	--font-headline: 'Merriweather', 'GH Guardian Headline', 'Guardian Egyptian Web', Georgia, serif;
+	--font-body: 'Source Serif 4', 'GuardianTextEgyptian', 'Guardian Text Egyptian Web', Georgia, serif;
+	--font-sans: 'Source Sans 3', 'GuardianTextSans', 'Guardian Text Sans Web', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+	/* ---------------------------------------------------------------------
+	 * Type scale — @guardian/source typography presets
+	 * ------------------------------------------------------------------ */
+	--size-headline-14: 0.875rem;
+	--size-headline-17: 1.0625rem;
+	--size-headline-20: 1.25rem;
+	--size-headline-24: 1.5rem;
+	--size-headline-28: 1.75rem;
+	--size-headline-34: 2.125rem;
+	--size-headline-40: 2.5rem; /* article headline at >=740px */
+	--size-headline-42: 2.625rem;
+	--size-headline-50: 3.125rem;
+
+	--size-body-15: 0.9375rem;
+	--size-body-17: 1.0625rem;
+
+	--size-sans-12: 0.75rem;
+	--size-sans-14: 0.875rem;
+	--size-sans-15: 0.9375rem;
+	--size-sans-17: 1.0625rem;
+	--size-sans-20: 1.25rem;
+
+	--leading-headline: 1.15;
+	--leading-body: 1.4;
+	--leading-sans: 1.3;
+
+	/* ---------------------------------------------------------------------
+	 * Space — @guardian/source `space` / `remSpace`
+	 * ------------------------------------------------------------------ */
+	--space-0: 0.125rem; /* 2px  */
+	--space-1: 0.25rem; /* 4px  */
+	--space-2: 0.5rem; /* 8px  */
+	--space-3: 0.75rem; /* 12px */
+	--space-4: 1rem; /* 16px */
+	--space-5: 1.25rem; /* 20px */
+	--space-6: 1.5rem; /* 24px */
+	--space-8: 2rem; /* 32px */
+	--space-9: 2.25rem; /* 36px */
+	--space-10: 2.5rem; /* 40px */
+	--space-12: 3rem; /* 48px */
+	--space-16: 4rem; /* 64px */
+	--space-24: 6rem; /* 96px */
+
+	/* ---------------------------------------------------------------------
+	 * Layout
+	 *
+	 * Breakpoints are @guardian/source `breakpoints`. CSS custom properties
+	 * cannot be used inside `@media` preludes, so the media queries throughout
+	 * the components hard-code these same numbers; they are recorded here as
+	 * documentation and for any JS that needs them.
+	 *
+	 *   tablet 740 | desktop 980 | leftCol 1140 | wide 1300
+	 * ------------------------------------------------------------------ */
+	--bp-tablet: 740px;
+	--bp-desktop: 980px;
+	--bp-leftcol: 1140px;
+	--bp-wide: 1300px;
+
+	--max-width: 1300px;
+	--measure: 620px; /* body copy reading measure */
+	--gutter: 10px; /* the Guardian's column gutter */
+	--page-padding: 10px;
+
+	/* Article left rail (byline + date) from the `desktop` breakpoint up. */
+	--article-rail: 180px;
+	--article-rail-gap: var(--space-5);
+}
+
+/* Pillar theming. `data-pillar` is set on <html> per page and on each front
+ * container, so one attribute recolours every kicker, link and rule below it. */
+[data-pillar='news'] {
+	--pillar: var(--pillar-news);
+	--pillar-strong: var(--pillar-news-dark);
+	--pillar-underline: var(--underline-news);
+}
+[data-pillar='opinion'] {
+	--pillar: var(--pillar-opinion);
+	--pillar-strong: var(--pillar-opinion-dark);
+	--pillar-underline: var(--underline-opinion);
+}
+[data-pillar='sport'] {
+	--pillar: var(--pillar-sport);
+	--pillar-strong: var(--pillar-sport-dark);
+	--pillar-underline: var(--underline-sport);
+}
+[data-pillar='culture'] {
+	--pillar: var(--pillar-culture);
+	--pillar-strong: var(--pillar-culture-dark);
+	--pillar-underline: var(--underline-culture);
+}
+[data-pillar='lifestyle'] {
+	--pillar: var(--pillar-lifestyle);
+	--pillar-strong: var(--pillar-lifestyle-dark);
+	--pillar-underline: var(--underline-lifestyle);
+}
+
+/* ---------------------------------------------------------------------------
+ * Self-hosted font alternative (commented out).
+ *
+ * Drop woff2 files into `public/fonts/`, uncomment, and change the three
+ * `--font-*` stacks above to lead with these family names. Nothing else in the
+ * codebase references a font family directly.
+ *
+ * @font-face {
+ *   font-family: 'Optimist Headline';
+ *   src: url('/fonts/optimist-headline-bold.woff2') format('woff2');
+ *   font-weight: 700;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ * @font-face {
+ *   font-family: 'Optimist Headline';
+ *   src: url('/fonts/optimist-headline-bold-italic.woff2') format('woff2');
+ *   font-weight: 700;
+ *   font-style: italic;
+ *   font-display: swap;
+ * }
+ * @font-face {
+ *   font-family: 'Optimist Body';
+ *   src: url('/fonts/optimist-body-regular.woff2') format('woff2');
+ *   font-weight: 400;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ * @font-face {
+ *   font-family: 'Optimist Sans';
+ *   src: url('/fonts/optimist-sans-regular.woff2') format('woff2');
+ *   font-weight: 400;
+ *   font-style: normal;
+ *   font-display: swap;
+ * }
+ *
+ * NOTE: a self-hosted path must be prefixed with the configured base path when
+ * the site is served from a subdirectory. Astro rewrites `url()` in bundled CSS
+ * for assets under `src/`, but NOT for absolute paths into `public/` — so use
+ * `/the-optimist/fonts/...` (or set BASE_PATH=/) if you self-host.
+ * ------------------------------------------------------------------------ */

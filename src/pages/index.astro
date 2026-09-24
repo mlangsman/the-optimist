@@ -1,0 +1,24 @@
+---
+import Layout from '../components/Layout.astro';
+import Container from '../components/Container.astro';
+import { PRIMARY_CONTAINER_ID, STRIP_CONTAINER_ID, frontContainers, loadSiteData } from '../lib/data';
+import { DISCLAIMER, SITE_NAME, formatDate } from '../lib/constants';
+
+const site = loadSiteData();
+const containers = frontContainers();
+const edition = formatDate(site.date);
+---
+
+<Layout title={SITE_NAME} description={DISCLAIMER} pillar="news" wide>
+	<h1 class="visually-hidden">{SITE_NAME} — front page for {edition}</h1>
+
+	{
+		containers.map((container) => (
+			<Container
+				container={container}
+				level={container.id === PRIMARY_CONTAINER_ID ? 'primary' : 'secondary'}
+				variant={container.id === STRIP_CONTAINER_ID ? 'strip' : 'grid'}
+			/>
+		))
+	}
+</Layout>
