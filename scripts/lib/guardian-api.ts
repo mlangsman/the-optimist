@@ -76,6 +76,14 @@ const contentSchema = z.object({
   elements: z.array(elementSchema).optional(),
 });
 
+const searchResponseSchema = z.object({
+  response: z.object({
+    status: z.string(),
+    results: z.array(contentSchema).optional(),
+    message: z.string().optional(),
+  }),
+});
+
 const itemResponseSchema = z.object({
   response: z.object({
     status: z.string(),
@@ -339,4 +347,51 @@ export async function fetchPreview(path: string, apiKey: string): Promise<RawPre
     );
   }
   return toPreview(data.response.content);
+}
+
+/** Sections where constructive stories most often run: progress in science, health, climate, development. */
+export const CANDIDATE_SECTIONS: readonly string[] = [
+  'science',
+  'environment',
+  'global-development',
+  'society',
+  'technology',
+  'world',
+  'uk-news',
+  'education',
+];
+
+/** Tones that are never good news in their own right: opinion, live blogs, obituaries. */
+const CANDIDATE_EXCLUDED_TAGS: ReadonlySet<string> = new Set([
+  'tone/comment',
+  'tone/minutebyminute',
+  'tone/obituaries',
+  'type/liveblog',
+]);
+
+/**
+ * Recent news from constructive sections, headline + trail only, in one
+ * request. The engine reads them and picks the genuinely good news for the
+ * "What's going right" container; nothing here judges tone.
+ */
+export async function fetchCandidates(apiKey: string, fromDate: string, pageSize = 100): Promise<RawPreview[]> {
+  const url = buildUrl('/search', apiKey, {
+    section: CANDIDATE_SECTIONS.join('|'),
+    'from-date': fromDate,
+    'order-by': 'newest',
+    'page-size': String(pageSize),
+    type: 'article',
+    'show-fields': PREVIEW_FIELDS,
+    'show-tags': 'tone,type',
+  });
+  const data = await requestJson(url, searchResponseSchema);
+  if (data.response.status !== 'ok') {
+    throw new Error(
+      `Guardian API search returned status "${data.response.status}"` +
+        (data.response.message ? `: ${data.response.message}` : ''),
+    );
+  }
+  return (data.response.results ?? [])
+    .map(toPreview)
+    .filter((preview) => !preview.tags.some((tag) => CANDIDATE_EXCLUDED_TAGS.has(tag)));
 }

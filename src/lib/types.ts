@@ -37,6 +37,10 @@ export interface Card {
   headline: string;
   /** Rewritten trail text (standfirst-style excerpt). */
   trail?: string;
+  /** One line on the response or progress in the story ("What's being done"), from the copy's own facts. */
+  progress?: string;
+  /** The engine's 0–3 score for how strong the story's genuine upside is; the front is ranked by it. */
+  upside?: number;
   image?: Image;
   /** Pseudonymised byline (see scripts/bylines.ts). */
   byline?: string;
@@ -61,6 +65,8 @@ export interface Article {
   publishedAt: string;
   headline: string;
   standfirst?: string;
+  /** One line on the response or progress in the story ("What's being done"), from the copy's own facts. */
+  progress?: string;
   /** Rewritten body. Same tag structure as the original (p, h2, blockquote, figure, ul/li, a). */
   bodyHtml: string;
   /** Pseudonymised byline. */
@@ -127,6 +133,13 @@ export interface RawData {
   articles: Record<string, RawArticle>;
   /** Headline + trail for every other card and related item, keyed by path. */
   previews: Record<string, Pick<RawArticle, 'path' | 'url' | 'section' | 'headline' | 'trail' | 'byline' | 'mainImage' | 'tags'>>;
+  /**
+   * Recent Guardian stories from constructive sections (science, environment,
+   * global development and so on), headline + trail only. The engine picks the
+   * genuinely good news among them for the "What's going right" container
+   * (data/<date>/going-right.json). Absent in older raw.json files.
+   */
+  candidates?: Record<string, Pick<RawArticle, 'path' | 'url' | 'section' | 'headline' | 'trail' | 'byline' | 'mainImage' | 'tags'>>;
 }
 
 /* ---------- Rewrite engine contract ---------- */
@@ -153,11 +166,22 @@ export interface ArticleJobOutput {
   standfirst?: string;
   bodyHtml: string;
   captions: string[];
+  /** "What's being done": one sentence, 10–25 words, on the response or progress the body reports. Omit when there is none. */
+  progress?: string;
 }
 
 export interface PreviewJobOutput {
   headline: string;
   trail?: string;
+  /** "What's being done": one sentence on the response or progress the headline and trail report. Omit when there is none. */
+  progress?: string;
+  /**
+   * How strong the story's genuine upside is, judged from the original copy:
+   * 0 none (a dark story, told with dignity), 1 a response to a setback,
+   * 2 real progress alongside a setback, 3 good news in its own right. Pure
+   * features, culture and lifestyle score 2. The front is ranked by it.
+   */
+  upside?: number;
 }
 
 export type JobResult =

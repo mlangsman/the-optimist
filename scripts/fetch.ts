@@ -11,6 +11,7 @@ import { dayFile, errorMessage, maybeHelp, parseArgs, resolveDate, runMain, writ
 import { requireGuardianKey } from './lib/env.js';
 import { parseFront, sectionNameFor } from './lib/front.js';
 import {
+  fetchCandidates,
   fetchItem,
   fetchPreview,
   getRequestCount,
@@ -31,6 +32,7 @@ Options:
   --previews=MODE     dom (default): non-News cards use the headline already on the
                       front page, zero extra API calls. api: fetch headline + trail
                       for every card from the Content API (~150 calls).
+  --no-candidates     Skip the "What's going right" candidate search (one request).
   --help              Show this message.
 
 Output:
@@ -60,6 +62,13 @@ function previewFromCard(card: RawCard): RawPreview | undefined {
   };
   if (card.image) preview.mainImage = card.image;
   return preview;
+}
+
+/** YYYY-MM-DD `days` before `date`. */
+function daysBefore(date: string, days: number): string {
+  const d = new Date(`${date}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() - days);
+  return d.toISOString().slice(0, 10);
 }
 
 const BROWSER_HEADERS: Record<string, string> = {
@@ -209,6 +218,22 @@ async function main(): Promise<void> {
     }
   }
 
+  // 3. Candidates for "What's going right": recent stories from constructive
+  // sections that are not already on the front. One search request.
+  const candidates: Record<string, RawPreview> = {};
+  if (!frontOnly && !args.flags.has('no-candidates')) {
+    try {
+      const onFront = new Set<string>([...Object.keys(articles), ...Object.keys(previews)]);
+      for (const container of front) for (const card of container.cards) onFront.add(card.path);
+      for (const candidate of await fetchCandidates(apiKey, daysBefore(date, 2))) {
+        if (!onFront.has(candidate.path)) candidates[candidate.path] = candidate;
+      }
+    } catch (error) {
+      failures++;
+      process.stderr.write(`  skip candidates: ${errorMessage(error)}\n`);
+    }
+  }
+
   // A container whose every card failed is no longer a container.
   const keptFront = front.filter((container) => container.cards.length > 0);
 
@@ -218,6 +243,7 @@ async function main(): Promise<void> {
     front: keptFront,
     articles,
     previews,
+    candidates,
   };
   const out = dayFile(date, 'raw.json');
   writeJson(out, raw);
@@ -226,6 +252,7 @@ async function main(): Promise<void> {
   process.stdout.write(
     `${out}: ${keptFront.length} containers, ${cardCount} cards, ` +
       `${Object.keys(articles).length} articles, ${Object.keys(previews).length} previews, ` +
+      `${Object.keys(candidates).length} going-right candidates, ` +
       `${getRequestCount()} requests, ${failures} failures${frontOnly ? ' (front-only)' : ''}\n`,
   );
   for (const container of keptFront) {

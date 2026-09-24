@@ -49,6 +49,16 @@ const cardCount = site.front.reduce((total, container) => total + container.card
 				published as headline-only with a notice saying so and a link to the original.
 			</p>
 
+			<h2>What leads, and why</h2>
+			<p>
+				{SITE_NAME} carries the same stories as the Guardian&rsquo;s front page, but not always in the same
+				order. Each story is scored on how much genuine progress its own reporting describes, and the strongest
+				lead each section. &ldquo;What&rsquo;s going right&rdquo; gathers recent Guardian stories that are good
+				news in their own right. The &ldquo;What&rsquo;s being done&rdquo; line on a story names who is acting on
+				it, drawn only from the original reporting. Stories too bleak to reframe honestly are left out rather
+				than spun.
+			</p>
+
 			<h2>How it is built</h2>
 			<p>
 				A scheduled job reads the Guardian front page, sends each article through the rewrite engine, checks

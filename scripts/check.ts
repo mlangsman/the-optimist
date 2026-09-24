@@ -104,14 +104,14 @@ export function buildPairs(jobs: readonly Job[], results: ResultsFile): CheckPai
         path: job.path,
         kind: 'article',
         original: plain(job.input.headline, job.input.standfirst, job.input.bodyHtml),
-        rewrite: plain(result.output.headline, result.output.standfirst, result.output.bodyHtml),
+        rewrite: plain(result.output.headline, result.output.standfirst, result.output.progress, result.output.bodyHtml),
       });
     } else if (job.kind === 'preview' && result.kind === 'preview') {
       pairs.push({
         path: job.path,
         kind: 'preview',
         original: plain(job.input.headline, job.input.trail),
-        rewrite: plain(result.output.headline, result.output.trail),
+        rewrite: plain(result.output.headline, result.output.trail, result.output.progress),
       });
     }
   }

@@ -34,6 +34,7 @@ import {
   writeJson,
 } from './lib/cli.js';
 import { pseudonymiseByline } from './lib/bylines.js';
+import { GOING_RIGHT_ID, GOING_RIGHT_TITLE, readGoingRight, validPicks } from './lib/going-right.js';
 import { webUrlFor } from './lib/guardian-api.js';
 import { applyCaptions, stripTags, standfirstText } from './lib/html.js';
 import { sanitiseHtml } from './lib/sanitise.js';
@@ -53,6 +54,7 @@ Input:
   data/<date>/results.json   from the rewrite engine      (required)
   data/<date>/check.json     from scripts/check.ts        (optional)
   data/<date>/drop.json      { "<path>": "reason" }       (optional)
+  data/<date>/going-right.json  ["<path>", ...]           (optional)
 
 Output:
   data/<date>/site.json      SiteData
@@ -64,6 +66,11 @@ that failed its fact check falls back to the original headline and trail.
 A path listed in drop.json is left out entirely: its front cards, its article
 page and any related-rail card pointing at it. A container left with no cards
 is removed.
+
+Cards within each container are ranked by the engine's upside score (3 first,
+0 last), stable, so the Guardian's order breaks ties. The picks in
+going-right.json become a "What's going right" container placed straight
+after the News block.
 `;
 
 /** Lookup of rewrite outputs by job id, ignoring results that carried an error. */
@@ -138,7 +145,7 @@ function rawSourceFor(raw: RawData, path: string): RawSource {
       ...(article.mainImage === undefined ? {} : { mainImage: article.mainImage }),
     };
   }
-  const preview = raw.previews[path];
+  const preview = raw.previews[path] ?? raw.candidates?.[path];
   if (preview) {
     return {
       url: preview.url,
@@ -195,6 +202,11 @@ function buildCard(
   const trail = stripTags(rewritten?.trail) ?? stripTags(source.trail);
   if (trail) card.trail = trail;
 
+  // The article's own progress line is written from the full body, so it wins.
+  const progress = (linked ? article.progress : undefined) ?? rewritten?.progress;
+  if (progress) card.progress = progress;
+  if (rewritten?.upside !== undefined) card.upside = rewritten.upside;
+
   const image = seed.image ?? source.mainImage;
   if (image) card.image = image;
 
@@ -228,6 +240,8 @@ function buildArticle(raw: RawData, rewrites: Rewrites, rawArticle: RawArticle):
     article.headline = output.headline;
     const standfirst = standfirstText(output.standfirst ?? rawArticle.standfirst);
     if (standfirst) article.standfirst = standfirst;
+    const progress = output.progress ?? rewrites.preview.get(path)?.progress;
+    if (progress) article.progress = progress;
     article.bodyHtml = sanitiseHtml(applyCaptions(output.bodyHtml, output.captions));
   } else {
     article.headline = rewrites.preview.get(path)?.headline ?? rawArticle.headline;
@@ -264,11 +278,24 @@ function buildRelatedCards(raw: RawData, rewrites: Rewrites, rawArticle: RawArti
     if (related.section.name) card.kicker = related.section.name;
     const trail = stripTags(rewritten?.trail) ?? originalTrail;
     if (trail) card.trail = trail;
+    if (rewritten?.upside !== undefined) card.upside = rewritten.upside;
     if (related.mainImage) card.image = related.mainImage;
     const byline = pseudonymiseByline(related.byline);
     if (byline) card.byline = byline;
     return card;
   });
+}
+
+/**
+ * Highest upside first. Stable, so cards with the same score (or none) keep
+ * the Guardian's order; an unscored card sits between 1 and 2.
+ */
+export function rankByUpside(cards: readonly Card[]): Card[] {
+  const score = (card: Card): number => card.upside ?? 1.5;
+  return cards
+    .map((card, index) => ({ card, index }))
+    .sort((a, b) => score(b.card) - score(a.card) || a.index - b.index)
+    .map(({ card }) => card);
 }
 
 /** Pure core: raw + results (+ checks) in, SiteData out. */
@@ -277,6 +304,7 @@ export function assemble(
   results: ResultsFile,
   checks: readonly CheckResult[],
   dropped: ReadonlySet<string> = new Set(),
+  goingRight: readonly string[] = [],
 ): SiteData {
   const rewrites = indexResults(results, indexChecks(checks));
   const kept = Object.values(raw.articles).filter((rawArticle) => !dropped.has(rawArticle.path));
@@ -307,7 +335,25 @@ export function assemble(
           }),
         ),
     }))
+    .map((container) => ({ ...container, cards: rankByUpside(container.cards) }))
     .filter((container) => container.cards.length > 0);
+
+  // "What's going right": the engine's picks from the candidate search. A pick
+  // whose rewrite failed its fact check still runs, on the original headline.
+  const onFront = new Set(front.flatMap((container) => container.cards.map((card) => card.path)));
+  const picks = validPicks(raw, goingRight).filter((path) => !dropped.has(path) && !onFront.has(path));
+  if (picks.length > 0) {
+    const cards = picks.map((path) => {
+      const candidate = raw.candidates?.[path];
+      return buildCard(raw, rewrites, articles, {
+        path,
+        ...(candidate?.mainImage === undefined ? {} : { image: candidate.mainImage }),
+      });
+    });
+    // Straight after the News block; the highlights strip above it lives in the masthead.
+    const news = front.findIndex((container) => container.id === 'news');
+    front.splice(news === -1 ? Math.min(1, front.length) : news + 1, 0, { id: GOING_RIGHT_ID, title: GOING_RIGHT_TITLE, cards });
+  }
 
   return {
     date: raw.date,
@@ -356,7 +402,9 @@ async function main(): Promise<void> {
 
   const dropped = readDropped(dayFile(date, 'drop.json'));
 
-  const site = assemble(raw, results, checks, dropped);
+  const goingRight = readGoingRight(dayFile(date, 'going-right.json'));
+
+  const site = assemble(raw, results, checks, dropped, goingRight);
 
   const out = dayFile(date, 'site.json');
   writeJson(out, site);

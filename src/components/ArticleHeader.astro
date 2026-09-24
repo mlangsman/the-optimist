@@ -24,6 +24,13 @@ const credit = image?.credit;
 		<p class="article-header__kicker">{article.section.name}</p>
 		<h1 class="article-header__headline">{article.headline}</h1>
 		{article.standfirst && <p class="article-header__standfirst">{article.standfirst}</p>}
+		{
+			article.progress && (
+				<p class="article-header__progress">
+					<span class="article-header__progress-label">What’s being done</span> {article.progress}
+				</p>
+			)
+		}
 	</div>
 
 	<div class="article-header__meta">
@@ -96,6 +103,24 @@ const credit = image?.credit;
 		color: var(--neutral-20);
 		max-width: var(--measure);
 		margin-top: var(--space-4);
+	}
+
+	.article-header__progress {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-17);
+		line-height: var(--leading-sans);
+		color: var(--neutral-20);
+		max-width: var(--measure);
+		margin-top: var(--space-4);
+		padding: var(--space-3) var(--space-4);
+		background: var(--brand-900);
+		border-left: 4px solid var(--brand-400);
+	}
+
+	.article-header__progress-label {
+		display: block;
+		font-weight: 700;
+		color: var(--brand-400);
 	}
 
 	@media (min-width: 740px) {

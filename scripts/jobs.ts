@@ -7,6 +7,7 @@
  */
 import type { Job, JobsFile, RawData } from '../src/lib/types.js';
 import { dayFile, maybeHelp, parseArgs, readJson, resolveDate, runMain, writeJson } from './lib/cli.js';
+import { readGoingRight, validPicks } from './lib/going-right.js';
 import { extractCaptions, stripTags } from './lib/html.js';
 
 const HELP = `
@@ -20,6 +21,7 @@ Options:
   --help              Show this message.
 
 Input:   data/<date>/raw.json
+         data/<date>/going-right.json   (optional) picks from raw.candidates
 Output:  data/<date>/jobs.json
 
 Article jobs rewrite headline + standfirst + body + captions. Preview jobs
@@ -45,7 +47,7 @@ export function isRewritable(tags: readonly string[]): boolean {
 }
 
 /** Build the job list for a parsed raw.json. Pure — exported for testing. */
-export function buildJobs(raw: RawData): Job[] {
+export function buildJobs(raw: RawData, goingRight: readonly string[] = []): Job[] {
   const jobs: Job[] = [];
 
   // Full rewrites: News block articles we are allowed to rewrite.
@@ -85,6 +87,10 @@ export function buildJobs(raw: RawData): Job[] {
   for (const preview of Object.values(raw.previews)) {
     addPreview(preview.path, preview.headline, preview.trail);
   }
+  for (const path of validPicks(raw, goingRight)) {
+    const candidate = raw.candidates?.[path];
+    if (candidate) addPreview(candidate.path, candidate.headline, candidate.trail);
+  }
 
   return jobs;
 }
@@ -103,7 +109,10 @@ async function main(): Promise<void> {
   const date = resolveDate(args);
   const raw = readJson<RawData>(dayFile(date, 'raw.json'), 'raw.json (run scripts/fetch.ts first)');
 
-  const jobs = buildJobs(raw);
+  const goingRight = readGoingRight(dayFile(date, 'going-right.json'));
+  const unknown = goingRight.filter((path) => !validPicks(raw, [path]).length);
+  for (const path of unknown) process.stderr.write(`Warning: going-right.json pick ${path} is not in raw.candidates — ignored\n`);
+  const jobs = buildJobs(raw, goingRight);
   const jobsFile: JobsFile = { date, systemPromptPath: SYSTEM_PROMPT_PATH, jobs };
   const out = dayFile(date, 'jobs.json');
   writeJson(out, jobsFile);
