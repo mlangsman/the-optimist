@@ -12,6 +12,8 @@ import type {
   ArticleJobOutput,
   Card,
   CheckResult,
+  ContextFile,
+  ContextItem,
   FrontContainer,
   Image,
   Original,
@@ -36,6 +38,7 @@ import {
 import { pseudonymiseByline } from './lib/bylines.js';
 import { GOING_RIGHT_ID, GOING_RIGHT_TITLE, readGoingRight, validPicks } from './lib/going-right.js';
 import { webUrlFor } from './lib/guardian-api.js';
+import { readContext } from './jobs.js';
 import { applyCaptions, stripTags, standfirstText } from './lib/html.js';
 import { sanitiseHtml } from './lib/sanitise.js';
 
@@ -55,6 +58,7 @@ Input:
   data/<date>/check.json     from scripts/check.ts        (optional)
   data/<date>/drop.json      { "<path>": "reason" }       (optional)
   data/<date>/going-right.json  ["<path>", ...]           (optional)
+  data/<date>/context.json   from scripts/context.ts      (optional)
 
 Output:
   data/<date>/site.json      SiteData
@@ -67,11 +71,19 @@ A path listed in drop.json is left out entirely: its front cards, its article
 page and any related-rail card pointing at it. A container left with no cards
 is removed.
 
-Cards within each container are ranked by the engine's upside score (3 first,
-0 last), stable, so the Guardian's order breaks ties. The picks in
-going-right.json become a "What's going right" container placed straight
-after the News block.
+Cards within each container are ranked by the engine's upside score (3 first),
+stable, so the Guardian's order breaks ties, and then held to the floor: a
+card scoring 0 never reaches the front or a related rail, and a card scoring 1
+runs only beneath a card scoring 2 or more in the same container, never in
+the highlights strip. The picks in going-right.json become a "What's going
+right" container placed straight after the News block.
 `;
+
+/** The container whose cards sit in the masthead; only real good news belongs there. */
+export const HIGHLIGHTS_ID = 'highlights';
+
+/** What an unscored card counts as: a response to a setback, no better. */
+const UNSCORED_UPSIDE = 1;
 
 /** Lookup of rewrite outputs by job id, ignoring results that carried an error. */
 interface Rewrites {
@@ -205,7 +217,10 @@ function buildCard(
   // The article's own progress line is written from the full body, so it wins.
   const progress = (linked ? article.progress : undefined) ?? rewritten?.progress;
   if (progress) card.progress = progress;
-  if (rewritten?.upside !== undefined) card.upside = rewritten.upside;
+  // Likewise the article's upside score is judged from the whole body, where
+  // the upsides live; the preview's is judged from two Guardian sentences.
+  const upside = (linked ? article.upside : undefined) ?? rewritten?.upside;
+  if (upside !== undefined) card.upside = upside;
 
   const image = seed.image ?? source.mainImage;
   if (image) card.image = image;
@@ -216,7 +231,29 @@ function buildCard(
   return card;
 }
 
-function buildArticle(raw: RawData, rewrites: Rewrites, rawArticle: RawArticle): Article {
+/**
+ * The "Also in the Guardian" line ships only when it cites an item the context
+ * step actually fetched for this article, so every added fact has a source the
+ * fact check has seen. An uncited line is dropped, never shown.
+ */
+export function resolveContext(
+  output: ArticleJobOutput['context'],
+  items: readonly ContextItem[],
+): Article['context'] | undefined {
+  if (!output) return undefined;
+  const text = output.text.trim();
+  if (!text) return undefined;
+  const source = items.find((item) => item.url === output.sourceUrl || webUrlFor(item.path) === output.sourceUrl);
+  if (!source) return undefined;
+  return { text, sourceUrl: source.url, sourceHeadline: source.headline };
+}
+
+function buildArticle(
+  raw: RawData,
+  rewrites: Rewrites,
+  rawArticle: RawArticle,
+  contextFor: ReadonlyMap<string, readonly ContextItem[]>,
+): Article {
   const { path } = rawArticle;
   const output = rewrites.article.get(path);
   const usable = output !== undefined;
@@ -242,6 +279,9 @@ function buildArticle(raw: RawData, rewrites: Rewrites, rawArticle: RawArticle):
     if (standfirst) article.standfirst = standfirst;
     const progress = output.progress ?? rewrites.preview.get(path)?.progress;
     if (progress) article.progress = progress;
+    if (output.upside !== undefined) article.upside = output.upside;
+    const context = resolveContext(output.context, contextFor.get(path) ?? []);
+    if (context) article.context = context;
     article.bodyHtml = sanitiseHtml(applyCaptions(output.bodyHtml, output.captions));
   } else {
     article.headline = rewrites.preview.get(path)?.headline ?? rawArticle.headline;
@@ -291,11 +331,56 @@ function buildRelatedCards(raw: RawData, rewrites: Rewrites, rawArticle: RawArti
  * the Guardian's order; an unscored card sits between 1 and 2.
  */
 export function rankByUpside(cards: readonly Card[]): Card[] {
-  const score = (card: Card): number => card.upside ?? 1.5;
+  const score = (card: Card): number => card.upside ?? UNSCORED_UPSIDE;
   return cards
     .map((card, index) => ({ card, index }))
     .sort((a, b) => score(b.card) - score(a.card) || a.index - b.index)
     .map(({ card }) => card);
+}
+
+/** How many cards the floor took out of the front, by reason. */
+export interface FloorReport {
+  /** Cards scoring 0: never shown. */
+  belowFloor: number;
+  /** Cards scoring 1 (or unscored) with nothing stronger above them, or in highlights. */
+  weak: number;
+}
+
+/**
+ * Rank a container and hold it to the floor. A story with no upside is not
+ * run; a story whose only upside is a response to its setback runs only in
+ * the shadow of something stronger, and never in the highlights strip, so no
+ * container — however small — leads on bad news.
+ */
+export function selectForFront(containerId: string, cards: readonly Card[], report?: FloorReport): Card[] {
+  const ranked = rankByUpside(cards);
+  const kept: Card[] = [];
+  let strongerAbove = false;
+  for (const card of ranked) {
+    const upside = card.upside ?? UNSCORED_UPSIDE;
+    if (upside <= 0) {
+      if (report) report.belowFloor++;
+      continue;
+    }
+    if (upside >= 2) {
+      strongerAbove = true;
+      kept.push(card);
+      continue;
+    }
+    if (strongerAbove && containerId !== HIGHLIGHTS_ID) {
+      kept.push(card);
+    } else if (report) {
+      report.weak++;
+    }
+  }
+  return kept;
+}
+
+/** Related rails carry the same floor: a card scoring 0 is not shown anywhere. */
+export function aboveFloor(cards: readonly Card[], report?: FloorReport): Card[] {
+  const kept = cards.filter((card) => (card.upside ?? UNSCORED_UPSIDE) > 0);
+  if (report) report.belowFloor += cards.length - kept.length;
+  return kept;
 }
 
 /** Pure core: raw + results (+ checks) in, SiteData out. */
@@ -305,19 +390,25 @@ export function assemble(
   checks: readonly CheckResult[],
   dropped: ReadonlySet<string> = new Set(),
   goingRight: readonly string[] = [],
+  context: ContextFile['context'] = {},
+  report: FloorReport = { belowFloor: 0, weak: 0 },
 ): SiteData {
   const rewrites = indexResults(results, indexChecks(checks));
   const kept = Object.values(raw.articles).filter((rawArticle) => !dropped.has(rawArticle.path));
+  const contextFor = new Map(Object.entries(context));
 
   const articles: Record<string, Article> = {};
   for (const rawArticle of kept) {
-    articles[rawArticle.path] = buildArticle(raw, rewrites, rawArticle);
+    articles[rawArticle.path] = buildArticle(raw, rewrites, rawArticle, contextFor);
   }
   // Related rails need the article map to exist first so `linked` is accurate.
   for (const rawArticle of kept) {
     const article = articles[rawArticle.path];
     if (article) {
-      article.related = buildRelatedCards(raw, rewrites, rawArticle).filter((card) => !dropped.has(card.path));
+      article.related = aboveFloor(
+        rankByUpside(buildRelatedCards(raw, rewrites, rawArticle).filter((card) => !dropped.has(card.path))),
+        report,
+      );
     }
   }
 
@@ -335,11 +426,12 @@ export function assemble(
           }),
         ),
     }))
-    .map((container) => ({ ...container, cards: rankByUpside(container.cards) }))
+    .map((container) => ({ ...container, cards: selectForFront(container.id, container.cards, report) }))
     .filter((container) => container.cards.length > 0);
 
   // "What's going right": the engine's picks from the candidate search. A pick
   // whose rewrite failed its fact check still runs, on the original headline.
+  // A pick scoring 0 is a scoring error, not good news, and is left out.
   const onFront = new Set(front.flatMap((container) => container.cards.map((card) => card.path)));
   const picks = validPicks(raw, goingRight).filter((path) => !dropped.has(path) && !onFront.has(path));
   if (picks.length > 0) {
@@ -350,9 +442,16 @@ export function assemble(
         ...(candidate?.mainImage === undefined ? {} : { image: candidate.mainImage }),
       });
     });
-    // Straight after the News block; the highlights strip above it lives in the masthead.
-    const news = front.findIndex((container) => container.id === 'news');
-    front.splice(news === -1 ? Math.min(1, front.length) : news + 1, 0, { id: GOING_RIGHT_ID, title: GOING_RIGHT_TITLE, cards });
+    const shown = aboveFloor(cards, report);
+    if (shown.length > 0) {
+      // Straight after the News block; the highlights strip above it lives in the masthead.
+      const news = front.findIndex((container) => container.id === 'news');
+      front.splice(news === -1 ? Math.min(1, front.length) : news + 1, 0, {
+        id: GOING_RIGHT_ID,
+        title: GOING_RIGHT_TITLE,
+        cards: shown,
+      });
+    }
   }
 
   return {
@@ -363,6 +462,7 @@ export function assemble(
     articles,
   };
 }
+
 
 function readChecks(file: string): CheckResult[] {
   try {
@@ -403,8 +503,10 @@ async function main(): Promise<void> {
   const dropped = readDropped(dayFile(date, 'drop.json'));
 
   const goingRight = readGoingRight(dayFile(date, 'going-right.json'));
+  const context = readContext(dayFile(date, 'context.json'));
 
-  const site = assemble(raw, results, checks, dropped, goingRight);
+  const floor: FloorReport = { belowFloor: 0, weak: 0 };
+  const site = assemble(raw, results, checks, dropped, goingRight, context, floor);
 
   const out = dayFile(date, 'site.json');
   writeJson(out, site);
@@ -421,7 +523,8 @@ async function main(): Promise<void> {
     `${out} (+ ${latest}): ${site.front.length} containers, ${cards} cards, ` +
       `${all.length} articles (${rewritten} rewritten, ${all.length - rewritten} headline-only), ` +
       `engine ${site.engine}, ${failedChecks} failed fact checks, ${failedTone} failed tone reviews, ` +
-      `${dropped.size} stories dropped\n`,
+      `${dropped.size} stories dropped, ${floor.belowFloor} cards below the floor (upside 0), ` +
+      `${floor.weak} upside-1 cards with nothing stronger above them left out\n`,
   );
 }
 

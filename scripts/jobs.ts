@@ -5,8 +5,8 @@
  *
  * Writes data/<date>/jobs.json.
  */
-import type { Job, JobsFile, RawData } from '../src/lib/types.js';
-import { dayFile, maybeHelp, parseArgs, readJson, resolveDate, runMain, writeJson } from './lib/cli.js';
+import type { ContextFile, Job, JobsFile, RawData } from '../src/lib/types.js';
+import { dayFile, errorMessage, maybeHelp, parseArgs, readJson, resolveDate, runMain, writeJson } from './lib/cli.js';
 import { readGoingRight, validPicks } from './lib/going-right.js';
 import { extractCaptions, stripTags } from './lib/html.js';
 
@@ -22,6 +22,7 @@ Options:
 
 Input:   data/<date>/raw.json
          data/<date>/going-right.json   (optional) picks from raw.candidates
+         data/<date>/context.json       (optional) earlier coverage from scripts/context.ts
 Output:  data/<date>/jobs.json
 
 Article jobs rewrite headline + standfirst + body + captions. Preview jobs
@@ -47,12 +48,17 @@ export function isRewritable(tags: readonly string[]): boolean {
 }
 
 /** Build the job list for a parsed raw.json. Pure — exported for testing. */
-export function buildJobs(raw: RawData, goingRight: readonly string[] = []): Job[] {
+export function buildJobs(
+  raw: RawData,
+  goingRight: readonly string[] = [],
+  context: ContextFile['context'] = {},
+): Job[] {
   const jobs: Job[] = [];
 
   // Full rewrites: News block articles we are allowed to rewrite.
   for (const article of Object.values(raw.articles)) {
     if (!isRewritable(article.tags)) continue;
+    const items = context[article.path] ?? [];
     jobs.push({
       id: `a:${article.path}`,
       kind: 'article',
@@ -62,6 +68,7 @@ export function buildJobs(raw: RawData, goingRight: readonly string[] = []): Job
         ...(article.standfirst === undefined ? {} : { standfirst: article.standfirst }),
         bodyHtml: article.bodyHtml,
         captions: extractCaptions(article.bodyHtml),
+        ...(items.length === 0 ? {} : { context: items }),
       },
     });
   }
@@ -95,6 +102,20 @@ export function buildJobs(raw: RawData, goingRight: readonly string[] = []): Job
   return jobs;
 }
 
+/** The context step's output, or {} when it did not run. Throws on a malformed file. */
+export function readContext(file: string): ContextFile['context'] {
+  try {
+    const parsed = readJson<ContextFile>(file, 'context.json');
+    if (typeof parsed?.context !== 'object' || parsed.context === null || Array.isArray(parsed.context)) {
+      throw new Error('context.json must hold { date, context: { "<path>": ContextItem[] } }');
+    }
+    return parsed.context;
+  } catch (error) {
+    if (errorMessage(error).startsWith('Missing context.json')) return {};
+    throw error;
+  }
+}
+
 /** Very rough token estimate: characters / 4. */
 export function estimateTokens(jobs: readonly Job[]): number {
   let chars = 0;
@@ -112,7 +133,8 @@ async function main(): Promise<void> {
   const goingRight = readGoingRight(dayFile(date, 'going-right.json'));
   const unknown = goingRight.filter((path) => !validPicks(raw, [path]).length);
   for (const path of unknown) process.stderr.write(`Warning: going-right.json pick ${path} is not in raw.candidates — ignored\n`);
-  const jobs = buildJobs(raw, goingRight);
+  const context = readContext(dayFile(date, 'context.json'));
+  const jobs = buildJobs(raw, goingRight, context);
   const jobsFile: JobsFile = { date, systemPromptPath: SYSTEM_PROMPT_PATH, jobs };
   const out = dayFile(date, 'jobs.json');
   writeJson(out, jobsFile);

@@ -22,6 +22,7 @@ import { z } from 'zod';
 import type {
   ArticleJobOutput,
   CheckResult,
+  ContextItem,
   Job,
   JobResult,
   PreviewJobOutput,
@@ -117,8 +118,15 @@ export const ARTICLE_OUTPUT_SCHEMA: JsonSchema = {
     bodyHtml: { type: 'string' },
     captions: { type: 'array', items: { type: 'string' } },
     progress: { type: ['string', 'null'] },
+    upside: { type: 'integer', enum: [0, 1, 2, 3] },
+    context: {
+      type: ['object', 'null'],
+      properties: { text: { type: 'string' }, sourceUrl: { type: 'string' } },
+      required: ['text', 'sourceUrl'],
+      additionalProperties: false,
+    },
   },
-  required: ['headline', 'standfirst', 'bodyHtml', 'captions', 'progress'],
+  required: ['headline', 'standfirst', 'bodyHtml', 'captions', 'progress', 'upside', 'context'],
   additionalProperties: false,
 };
 
@@ -222,10 +230,34 @@ export function renderJobInput(job: Job, revision?: Revision): string {
     'BODY HTML:',
     job.input.bodyHtml,
     '',
+    ...renderContext(job.input.context ?? []),
     `Return exactly ${captions.length} caption${captions.length === 1 ? '' : 's'}, ` +
       'in the same order as the input. Use null for the standfirst only when there is none to rewrite,' +
-      ' and for progress when the copy reports no response or progress.',
+      ' and for progress when the copy reports no response or progress. Score the upside from the whole body.' +
+      ' Return {"text", "sourceUrl"} for context only when one CONTEXT item reports a concrete response or' +
+      ' improvement, built from that item alone; otherwise null.',
   ].join('\n') + suffix;
+}
+
+/**
+ * Earlier Guardian coverage, one block per item. Each carries the URL the
+ * rewriter must cite and the excerpt that is the only text it may draw on.
+ */
+function renderContext(items: readonly ContextItem[]): string[] {
+  if (items.length === 0) return ['CONTEXT: (none)', ''];
+  const lines = [`CONTEXT (${items.length} earlier Guardian piece${items.length === 1 ? '' : 's'} on this story; excerpts only):`];
+  items.forEach((item, index) => {
+    lines.push(
+      '',
+      `[${index + 1}] ${item.url}`,
+      `Published: ${item.publishedAt.slice(0, 10)}`,
+      `Headline: ${item.headline}`,
+      ...(item.trail ? [`Trail: ${item.trail}`] : []),
+      `Excerpt: ${item.excerpt}`,
+    );
+  });
+  lines.push('');
+  return lines;
 }
 
 /**
@@ -323,6 +355,10 @@ const ArticleOutput = z.object({
   captions: z.array(z.string()),
   // Optional so hand-written claude-code parts from before the progress line still parse.
   progress: z.union([z.string(), z.null()]).optional(),
+  upside: z.number().int().min(0).max(3).optional(),
+  context: z
+    .union([z.object({ text: z.string().min(1), sourceUrl: z.string().url() }), z.null()])
+    .optional(),
 });
 
 const PreviewOutput = z.object({
@@ -397,6 +433,13 @@ export function parseRewriteOutput(job: Job, text: string): JobResult {
     if (standfirst !== undefined) output.standfirst = standfirst;
     const progress = optional(parsed.data.progress ?? null);
     if (progress !== undefined) output.progress = progress;
+    if (parsed.data.upside !== undefined) output.upside = parsed.data.upside;
+    // The context line is optional and additive, so an uncited one is dropped
+    // rather than costing the whole rewrite; assemble.ts applies the same rule.
+    const context = parsed.data.context;
+    if (context && context.text.trim() && (job.input.context ?? []).some((item) => item.url === context.sourceUrl)) {
+      output.context = { text: context.text.trim(), sourceUrl: context.sourceUrl };
+    }
     return { id: job.id, kind: 'article', output };
   }
 

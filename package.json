@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "fetch": "tsx scripts/fetch.ts --previews=api",
+    "context": "tsx scripts/context.ts",
     "jobs": "tsx scripts/jobs.ts",
     "rewrite:api": "tsx scripts/rewrite-api.ts",
     "check": "tsx scripts/check.ts",

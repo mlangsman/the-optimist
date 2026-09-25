@@ -43,6 +43,22 @@ const articleJob: Job = {
   },
 };
 
+const articleJobWithContext: Job = {
+  ...articleJob,
+  input: {
+    ...articleJob.input,
+    context: [
+      {
+        path: '/c',
+        url: 'https://www.theguardian.com/c',
+        headline: 'Ministers fund assessors',
+        publishedAt: '2026-08-01T09:00:00Z',
+        excerpt: 'Ministers have funded 200 more assessors.',
+      },
+    ],
+  },
+};
+
 const previewJob: Job = {
   id: 'p:/world/2026/sep/24/other',
   kind: 'preview',
@@ -99,10 +115,19 @@ describe('buildRewriteRequest', () => {
     const schema = schemaOf(params);
     assert.equal(schema.type, 'object');
     assert.equal(schema.additionalProperties, false);
-    assert.deepEqual(schema.required, ['headline', 'standfirst', 'bodyHtml', 'captions', 'progress']);
+    assert.deepEqual(schema.required, ['headline', 'standfirst', 'bodyHtml', 'captions', 'progress', 'upside', 'context']);
     const properties = schema.properties as Record<string, Record<string, unknown>>;
     assert.deepEqual(properties.standfirst?.type, ['string', 'null']);
     assert.deepEqual(properties.captions, { type: 'array', items: { type: 'string' } });
+    assert.deepEqual(properties.upside, { type: 'integer', enum: [0, 1, 2, 3] });
+    assert.deepEqual(properties.context?.type, ['object', 'null']);
+  });
+
+  it('renders the context items with their URLs and excerpts, or says there are none', () => {
+    assert.match(String(buildRewriteRequest(articleJob, SYSTEM).messages[0]?.content), /CONTEXT: \(none\)/);
+    const text = String(buildRewriteRequest(articleJobWithContext, SYSTEM).messages[0]?.content);
+    assert.match(text, /CONTEXT \(1 earlier Guardian piece on this story; excerpts only\):/);
+    assert.match(text, /\[1\] https:\/\/www\.theguardian\.com\/c\nPublished: 2026-08-01\nHeadline: Ministers fund assessors\nExcerpt: Ministers have funded 200 more assessors\./);
   });
 
   it('sends a closed json_schema matching PreviewJobOutput', () => {
@@ -176,6 +201,25 @@ describe('parseRewriteOutput', () => {
     assert.equal(result.id, articleJob.id);
     assert.equal(result.kind, 'article');
     assert.deepEqual(result.output, valid);
+  });
+
+  it('keeps an article\'s upside and a cited context line, and drops an uncited or empty one', () => {
+    const cited = { text: ' Ministers have funded 200 more assessors. ', sourceUrl: 'https://www.theguardian.com/c' };
+    const result = parseRewriteOutput(articleJobWithContext, JSON.stringify({ ...valid, upside: 2, context: cited }));
+    assert.ok(!('error' in result) && result.kind === 'article');
+    assert.equal(result.output.upside, 2);
+    assert.deepEqual(result.output.context, { text: 'Ministers have funded 200 more assessors.', sourceUrl: cited.sourceUrl });
+
+    const uncited = parseRewriteOutput(articleJobWithContext, JSON.stringify({ ...valid, context: { ...cited, sourceUrl: 'https://www.theguardian.com/elsewhere' } }));
+    assert.ok(!('error' in uncited));
+    assert.ok(!('context' in uncited.output));
+    const noItems = parseRewriteOutput(articleJob, JSON.stringify({ ...valid, context: cited }));
+    assert.ok(!('error' in noItems));
+    assert.ok(!('context' in noItems.output));
+    const empty = parseRewriteOutput(articleJobWithContext, JSON.stringify({ ...valid, context: null }));
+    assert.ok(!('error' in empty));
+    assert.ok(!('context' in empty.output));
+    assert.ok('error' in parseRewriteOutput(articleJob, JSON.stringify({ ...valid, upside: 4 })));
   });
 
   it('maps a null standfirst to undefined rather than null', () => {
