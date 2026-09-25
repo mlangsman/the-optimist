@@ -1,44 +1,121 @@
 [
   {
-    "path": "/environment/2026/sep/24/explainer-uk-climate-crisis-national-security-report-suppressed",
+    "path": "/music/2026/sep/25/michael-kiwanuka-life-after-devastating-stroke",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"catastrophic\", \"collapsing\": \"An explainer sets out why a suppressed report on UK climate security matters, after warnings about the catastrophic effects of collapsing ecosystems went unpublished under the previous prime minister.\""
+    "issue": "trail leans on \"devastating\": \"In his only interview, the Mercury prize winner talks about the ‘poignancy’ of releasing the album his devastating stroke shelved; he has not been able to go home since falling ill last summer.\""
   },
   {
-    "path": "/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts",
+    "path": "/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"Elle Hunt says apps promising to sell friendship work against real connection, at a time when many people are experiencing a crisis of loneliness.\""
+    "issue": "trail leans on \"fury\": \"The Oscar-winner’s casting as Aslan has brought roars of fury from US evangelical commentators on the Christian right. Don’t they have more pressing issues?\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/25/exercise-bad-bodies-ai-brains-students-tech-health",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"We must not entrust tech companies with our long-term health, says Prof Devi Sridhar, chair of global public health at the University of Edinburgh. Most of her students use AI; she fears its corrosive effects.\""
   },
   {
     "path": "/society/2026/sep/24/how-labour-could-solve-the-youth-jobs-crisis",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"Letters: readers respond to an editorial with ideas for Labour to create job opportunities for today's young people, amid the youth jobs crisis.\""
+    "issue": "trail leans on \"crisis\": \"Letters: Readers respond to an editorial on creating opportunities for today’s young people, with ideas on how Labour could solve the youth jobs crisis.\""
   },
   {
-    "path": "/sport/2026/sep/24/tyson-fury-anthony-joshua-cardiff-principality-stadium-december-boxing",
+    "path": "/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fury\": \"Tyson Fury will face Anthony Joshua in Cardiff on 11 December, after one of the biggest bouts in British boxing history was finally agreed.\""
+    "issue": "trail leans on \"warned\": \"The pope gave a landmark speech on AI development and Europe’s future during his first visit to France, in which he warned against AI – Europe live.\""
   },
   {
-    "path": "/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics",
+    "path": "/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fears\": \"Fears persist about Trump 'sucking up' to Xi on Taiwan, though few concrete outcomes are expected from their meeting.\""
+    "issue": "trail leans on \"fear\": \"Farmers who have worked to boost nature say they face uncertainty – and some fear they will have to reverse it – after sustainability funding ran out after just six hours: ‘We can’t ride this storm.’\""
   },
   {
-    "path": "/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
+    "path": "/environment/2026/sep/24/explainer-uk-climate-crisis-national-security-report-suppressed",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"collapse\": \"A ceasefire between the US and Iran is at the point of collapse after almost a week of tit-for-tat strikes that have escalated tensions across the Gulf region, with the fight for control of the strait continuing.\""
+    "issue": "trail leans on \"catastrophic\", \"collapsing\": \"We explain the significance of the report, whose warnings about the catastrophic effects of vital ecosystems collapsing were suppressed and not published under the previous prime minister.\""
+  },
+  {
+    "path": "/media/2026/sep/24/bbc-doom-spiral-cuts-hit-tv-and-radio",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"The union warns the BBC ‘risks entering inescapable doom spiral’ as further cuts hit TV and radio, with the corporation cutting local specialist correspondent roles as part of the plan.\""
+  },
+  {
+    "path": "/staying-scam-savvy-with-visa/2026/sep/22/music-ticket-scams-warning-signs",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"This guide sets out the warning signs of a ticket scam. Failed to get tickets for a favourite gig? That's when Fomo strikes and scammers wait to prey on disappointed and desperate fans\""
+  },
+  {
+    "path": "/money/live/2026/sep/22/whats-the-worst-company-youve-ever-dealt-with-ask-our-consumer-champion-anything",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"The consumer champion, who solves readers' problems from the devastating to the ridiculous, also tackled how to get a result without contacting a newspaper and how companies keep getting away with terrible customer service\""
+  },
+  {
+    "path": "/wellness/2026/sep/23/eye-irritation-care-expert",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"Their advice shows how to deal with eye irritation properly: it's natural to want to soothe it, but mishandling could lead to more problems, experts warn\""
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/23/my-body-is-on-fire-my-perilous-painful-perfect-month-of-pilates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"perilous\": \"A growing number of men are taking up pilates, and after realising I could no longer touch my toes, I joined them for a perilous, painful month: 'My body is on fire'\""
+  },
+  {
+    "path": "/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Public transport in global cities is slowing to a crawl, and experts fear for the future of London's bus network as some commuters give up entirely, with worrying implications for the poorest\""
+  },
+  {
+    "path": "/football/live/2025/jan/24/premier-league-wsl-team-news-transfers-football-news-live",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blow\": \"Antony heads to Real Betis for a medical as Manchester United cut their losses on the winger, though not by much, while Tottenham rue a Solanke blow and another key injury.\""
+  },
+  {
+    "path": "/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"A UK interest rate rise is 'increasingly likely' with high energy prices, as the BoE deputy governor cites risks, inflation fears hit bonds and US 30-year yields reach their highest since 2004.\""
+  },
+  {
+    "path": "/business/live/2023/feb/08/uk-housing-market-sees-marked-slowdown-as-recession-fears-ebb-ftse-100-high-business-live",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blow\": \"The blue-chip index climbed as the CMA dealt a blow to Microsoft's Activision takeover and Turkey's stock market halted trading after its main index dropped 7 per cent.\""
+  },
+  {
+    "path": "/politics/2022/may/04/dup-donaldson-criticised-over-stormont-boycott-threat",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"The DUP leader is accused of holding the region to ransom with his boycott threat, a vow not to revive power sharing until the Brexit protocol is ditched.\""
   }
 ]
