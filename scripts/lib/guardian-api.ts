@@ -8,7 +8,7 @@
  * The API key is never logged: error messages are built from a redacted URL.
  */
 import { z } from 'zod';
-import type { Image, RawArticle, RawData } from '../../src/lib/types.js';
+import type { ContextItem, Image, RawArticle, RawData } from '../../src/lib/types.js';
 
 export type RawPreview = RawData['previews'][string];
 export type RawRelated = RawArticle['related'][number];
@@ -34,6 +34,7 @@ const fieldsSchema = z
     standfirst: z.string().optional(),
     trailText: z.string().optional(),
     body: z.string().optional(),
+    bodyText: z.string().optional(),
     byline: z.string().optional(),
     thumbnail: z.string().optional(),
   })
@@ -319,7 +320,8 @@ export function webUrlFor(path: string): string {
 export async function fetchItem(path: string, apiKey: string): Promise<RawArticle> {
   const url = buildUrl(path, apiKey, {
     'show-fields': ITEM_FIELDS,
-    'show-tags': 'contributor,tone,type',
+    // Keyword tags drive the context search (scripts/context.ts).
+    'show-tags': 'contributor,keyword,tone,type',
     'show-elements': 'image',
     'show-related': 'true',
   });
@@ -394,4 +396,88 @@ export async function fetchCandidates(apiKey: string, fromDate: string, pageSize
   return (data.response.results ?? [])
     .map(toPreview)
     .filter((preview) => !preview.tags.some((tag) => CANDIDATE_EXCLUDED_TAGS.has(tag)));
+}
+
+/* ---------- context: earlier coverage of one story ---------- */
+
+/** Fields for a context search: enough to cite and to fact-check against. */
+const CONTEXT_FIELDS = 'headline,trailText,bodyText';
+/** Enough of the body to hold the response or progress the piece leads on. */
+export const CONTEXT_EXCERPT_CHARS = 1_500;
+/** Tags that mark a piece as no source for a context line: opinion, letters, live blogs, obituaries. */
+const CONTEXT_EXCLUDED_TAGS: ReadonlySet<string> = new Set([...CANDIDATE_EXCLUDED_TAGS, 'tone/letters']);
+
+/**
+ * The tag filter for a context search, in the form the Content API's `tag`
+ * parameter takes. Keyword tags only, in the order the API gave them (most
+ * relevant first), with a section's umbrella tag ("society/society") left out
+ * because it matches everything in the section. The first two are joined with
+ * "," (AND), which is what keeps the results on this story rather than on the
+ * whole beat; with one tag, that tag alone. Undefined when there is nothing
+ * to search on.
+ */
+export function contextTagQuery(tags: readonly string[]): string | undefined {
+  const keywords = tags.filter((tag) => {
+    if (/^(contributor|tone|type|series|profile|publication|newspaper-book|newspaper-book-section|tracking|campaign)\//.test(tag)) return false;
+    const [section, rest] = tag.split('/');
+    return section !== undefined && rest !== undefined && rest !== section;
+  });
+  return keywords.length === 0 ? undefined : keywords.slice(0, 2).join(',');
+}
+
+/**
+ * Earlier Guardian pieces on the same story: one search, the article itself
+ * left out, opinion and live blogs left out, newest first. Each item carries
+ * an excerpt of its body, which is the only text a context line may be built
+ * from and the text the fact check verifies it against.
+ */
+export async function fetchContext(
+  apiKey: string,
+  tagQuery: string,
+  options: { fromDate: string; exclude?: ReadonlySet<string>; limit?: number; pageSize?: number },
+): Promise<ContextItem[]> {
+  const url = buildUrl('/search', apiKey, {
+    tag: tagQuery,
+    'from-date': options.fromDate,
+    'order-by': 'newest',
+    'page-size': String(options.pageSize ?? 10),
+    type: 'article',
+    'show-fields': CONTEXT_FIELDS,
+    'show-tags': 'tone,type',
+  });
+  const data = await requestJson(url, searchResponseSchema);
+  if (data.response.status !== 'ok') {
+    throw new Error(
+      `Guardian API search returned status "${data.response.status}"` +
+        (data.response.message ? `: ${data.response.message}` : ''),
+    );
+  }
+  const exclude = options.exclude ?? new Set<string>();
+  return (data.response.results ?? [])
+    .filter((content) => !(content.tags ?? []).some((tag) => CONTEXT_EXCLUDED_TAGS.has(tag.id)))
+    .map(toContextItem)
+    .filter((item) => !exclude.has(item.path) && item.excerpt.length > 0)
+    .slice(0, options.limit ?? 5);
+}
+
+function toContextItem(content: Content): ContextItem {
+  const item: ContextItem = {
+    path: contentPath(content),
+    url: content.webUrl,
+    headline: content.fields?.headline ?? content.webTitle ?? '',
+    publishedAt: content.webPublicationDate ?? '',
+    excerpt: excerptOf(content.fields?.bodyText ?? ''),
+  };
+  const trail = content.fields?.trailText;
+  if (trail) item.trail = trail;
+  return item;
+}
+
+/** The opening of a body text, cut at a sentence end where one falls inside the cap. */
+export function excerptOf(text: string, max = CONTEXT_EXCERPT_CHARS): string {
+  const clean = text.replace(/\s+/g, ' ').trim();
+  if (clean.length <= max) return clean;
+  const head = clean.slice(0, max);
+  const end = Math.max(head.lastIndexOf('. '), head.lastIndexOf('? '), head.lastIndexOf('! '));
+  return end > max / 2 ? head.slice(0, end + 1) : `${head.trimEnd()}…`;
 }

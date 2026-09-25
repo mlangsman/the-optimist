@@ -9,6 +9,8 @@ A daily mirror of the Guardian's UK front page, rewritten with an optimistic poi
 ```
 Guardian front page (HTML)  ──►  fetch  ──►  raw.json
 Guardian Content API        ──┘                 │
+                                           context  ──►  context.json   (earlier Guardian coverage)
+                                                │
                                               jobs  ──►  jobs.json
                                                             │
                               rewrite engine (one of two)   ▼
@@ -27,14 +29,15 @@ Guardian Content API        ──┘                 │
 - **Scope.** The front page's News block is fetched in full and rewritten (headline, standfirst, body, captions). Every other front-page card, and the related stories on each article, gets a rewritten headline and trail only and is not linked. One level of depth.
 - **Engines.** The rewrite step reads `jobs.json` and writes `results.json`. Anything that honours that contract is an engine. `scripts/rewrite-api.ts` is the reference implementation on the Anthropic API (Sonnet 5 via the Batch API, structured outputs, prompt caching). The daily run uses Claude Code itself as the engine, on a scheduled cloud routine, so there is no API bill.
 - **Review.** Three passes look at every rewrite, previews included, and nothing false or half-hearted ships:
-  - `scripts/tone.ts` is a mechanical lint with no model behind it. It fails the run on an unchanged or cosmetically edited headline where the original carried a setback ("warns" swapped for "says" and nothing else moved), on a rewritten headline still centred on a word of loss, harm, threat or fear, and on any preview with no rewrite at all. Quotations and house-style compounds such as "climate crisis" are exempt.
+  - `scripts/tone.ts` is a mechanical lint with no model behind it. It fails the run on an unchanged or cosmetically edited headline where the original carried a setback ("warns" swapped for "says" and nothing else moved), on a rewritten headline still centred on a word of loss, harm, threat or fear, and on any preview with no rewrite at all. It warns on a headline whose subject or object is the setback itself (cuts, delay, wait, surge, closure and the like) and on a score that contradicts the copy (a 0 with a "What's being done" line, a 3 built on doom). Quotations and house-style compounds such as "climate crisis" are exempt.
   - `scripts/check.ts` runs two model reviewers on each pair: a fact check (Haiku, thinking off) that demotes anything with an unsupported or altered claim, and a tone review (Sonnet, low effort) that judges the copy against `prompts/rewrite.md` as an editor would, and writes notes for the writer.
-  - `scripts/revise.ts` sends every rewrite that failed a review back to the rewriter with the previous attempt and the notes, then `check.ts --only=failed` and `tone.ts` run again. Loop until clean. The daily routine does the same loop by hand.
+  - `scripts/revise.ts` sends every rewrite that failed a review back to the rewriter with the previous attempt and the notes, then `check.ts --only=failed` and `tone.ts` run again. Loop until clean. The daily routine does the same loop, with the reviews run in separate subagents so the writer never grades its own copy.
 - **Dropped stories.** `data/<date>/drop.json` (optional) maps content paths to a reason; `scripts/assemble.ts` leaves those stories out of the front page, article pages and related rails. The daily routine fills it with the stories too bleak for the paper to run.
-- **Ranking.** Every preview carries an `upside` score (0–3) from the engine; `assemble` ranks the cards in each container by it, strongest first, with the Guardian's order breaking ties.
+- **Ranking and the floor.** Every preview and every article carries an `upside` score (0–3) from the engine; an article's score, judged from its whole body, is the one its card uses. `assemble` ranks the cards in each container by it, strongest first, with the Guardian's order breaking ties, and then holds the front to a floor: a card scoring 0 never runs, on the front or in a related rail, and a card scoring 1 runs only beneath a card scoring 2 or more in the same container, never in the highlights strip. A story with no honest upside is left out rather than strained; the brief says so in as many words.
 - **What's going right.** `fetch` also runs one Content API search for recent stories from constructive sections (`raw.candidates`). The engine picks the genuinely good news into `data/<date>/going-right.json`; `jobs` gives each a preview job and `assemble` shows them as a container straight after the News block.
 - **What's being done.** Every rewrite carries a `progress` line naming who is acting and how, built only from the copy and fact-checked with the rest. It runs under a "What's being done" label at the top of each article.
-- **Tone.** `prompts/rewrite.md` holds the editorial rules: analyse each story for its upsides, build the headline entirely on the strongest one, move the setback to the standfirst, keep headlines short (eight to 12 words, 14 at most) and about people and outcomes, keep Guardian house style, never invent a fact, and never make a cosmetic edit.
+- **Also in the Guardian.** `scripts/context.ts` runs one Content API search per News article, on its keyword tags, for recent Guardian pieces on the same story, and stores each with an excerpt of its opening (`data/<date>/context.json`). The engine may add one `context` line, 10–30 words, built only from one item's excerpt and citing its URL; it runs under the progress line with a link to the piece, and the fact check verifies it against the excerpt. The headline, standfirst and body never draw on it. Nothing comes from the open web: every fact on the site is checkable against Guardian copy under the same terms.
+- **Tone.** `prompts/rewrite.md` holds the editorial rules: analyse each story for its upsides, build the headline entirely on the strongest one, move the setback to the standfirst, keep headlines short (eight to 12 words, 14 at most) and about people and outcomes, keep Guardian house style, never invent a fact, never make a cosmetic edit, and score a weak response (a postponed review, a call for action, a report that only sizes a problem) honestly rather than stretching it into a headline.
 
 ## Running it
 
@@ -42,6 +45,7 @@ Guardian Content API        ──┘                 │
 cp .env.example .env        # add GUARDIAN_API_KEY (and ANTHROPIC_API_KEY for the api engine)
 npm install
 npm run fetch               # data/<today>/raw.json      (--front-only needs no key)
+npm run context             # data/<today>/context.json  (optional; earlier Guardian coverage per News article)
 npm run jobs                # data/<today>/jobs.json
 npm run rewrite:api         # data/<today>/results.json  (or produce it with another engine)
 npm run tone                # data/<today>/tone.json     (no key needed; exits 1 on errors)

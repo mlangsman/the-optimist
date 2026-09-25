@@ -31,6 +31,16 @@ const credit = image?.credit;
 				</p>
 			)
 		}
+		{
+			article.context && (
+				<p class="article-header__context">
+					<span class="article-header__context-label">Also in the Guardian</span> {article.context.text}{' '}
+					<a class="article-header__context-source" href={article.context.sourceUrl} rel="noopener">
+						{article.context.sourceHeadline}
+					</a>
+				</p>
+			)
+		}
 	</div>
 
 	<div class="article-header__meta">
@@ -121,6 +131,29 @@ const credit = image?.credit;
 		display: block;
 		font-weight: 700;
 		color: var(--brand-400);
+	}
+
+	/* "Also in the Guardian": drawn from earlier coverage, so it always links its source. */
+	.article-header__context {
+		font-family: var(--font-sans);
+		font-size: var(--size-sans-15, var(--size-sans-17));
+		line-height: var(--leading-sans);
+		color: var(--neutral-20);
+		max-width: var(--measure);
+		margin-top: var(--space-2);
+		padding: var(--space-2) var(--space-4);
+		border-left: 4px solid var(--straight-lines);
+	}
+
+	.article-header__context-label {
+		display: block;
+		font-weight: 700;
+		color: var(--neutral-20);
+	}
+
+	.article-header__context-source {
+		color: var(--pillar-strong, var(--pillar));
+		text-decoration: underline;
 	}
 
 	@media (min-width: 740px) {

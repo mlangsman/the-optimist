@@ -100,11 +100,27 @@ export function buildPairs(jobs: readonly Job[], results: ResultsFile): CheckPai
     const result = outputs.get(job.id);
     if (!result || 'error' in result) continue;
     if (job.kind === 'article' && result.kind === 'article') {
+      // The context line is checked against the excerpt it cites, which rides
+      // along in ORIGINAL under its own label; an uncited line has no source
+      // text at all, so the fact check reports it as unsupported.
+      const context = result.output.context;
+      const source = context ? (job.input.context ?? []).find((item) => item.url === context.sourceUrl) : undefined;
       pairs.push({
         path: job.path,
         kind: 'article',
-        original: plain(job.input.headline, job.input.standfirst, job.input.bodyHtml),
-        rewrite: plain(result.output.headline, result.output.standfirst, result.output.progress, result.output.bodyHtml),
+        original: plain(
+          job.input.headline,
+          job.input.standfirst,
+          job.input.bodyHtml,
+          source ? `CONTEXT SOURCE (${source.url}): ${source.headline}. ${source.excerpt}` : undefined,
+        ),
+        rewrite: plain(
+          result.output.headline,
+          result.output.standfirst,
+          result.output.progress,
+          result.output.bodyHtml,
+          context ? `CONTEXT: ${context.text}` : undefined,
+        ),
       });
     } else if (job.kind === 'preview' && result.kind === 'preview') {
       pairs.push({

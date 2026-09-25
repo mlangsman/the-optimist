@@ -57,6 +57,15 @@ export interface FrontContainer {
 
 export type ArticleStatus = 'rewritten' | 'headline-only';
 
+/** A context line as published: the text, and the Guardian piece it is drawn from. */
+export interface ArticleContext {
+  /** 10–30 words, built only from the cited piece. */
+  text: string;
+  /** Absolute theguardian.com URL of the cited piece. */
+  sourceUrl: string;
+  sourceHeadline: string;
+}
+
 export interface Article {
   path: string;
   url: string;
@@ -67,6 +76,14 @@ export interface Article {
   standfirst?: string;
   /** One line on the response or progress in the story ("What's being done"), from the copy's own facts. */
   progress?: string;
+  /** The engine's 0–3 upside score, judged from the full body. Wins over the preview's on the card. */
+  upside?: number;
+  /**
+   * "Also in the Guardian": one line drawn from earlier Guardian coverage of
+   * the same story (scripts/context.ts), with the piece it came from. Shown
+   * under the progress line; never part of the headline, standfirst or body.
+   */
+  context?: ArticleContext;
   /** Rewritten body. Same tag structure as the original (p, h2, blockquote, figure, ul/li, a). */
   bodyHtml: string;
   /** Pseudonymised byline. */
@@ -144,12 +161,37 @@ export interface RawData {
 
 /* ---------- Rewrite engine contract ---------- */
 
+/**
+ * One earlier Guardian piece on the same story, found by scripts/context.ts.
+ * The engine may draw one context line from it; the fact check verifies that
+ * line against `excerpt`, so nothing outside the excerpt may be used.
+ */
+export interface ContextItem {
+  path: string;
+  /** Absolute theguardian.com URL. */
+  url: string;
+  headline: string;
+  trail?: string;
+  /** ISO 8601 */
+  publishedAt: string;
+  /** The opening of the piece's body text, plain, capped (see scripts/context.ts). */
+  excerpt: string;
+}
+
+/** data/<date>/context.json: earlier coverage per article job, keyed by content path. */
+export interface ContextFile {
+  date: string;
+  context: Record<string, ContextItem[]>;
+}
+
 export interface ArticleJobInput {
   headline: string;
   standfirst?: string;
   bodyHtml: string;
   /** Figure captions found in bodyHtml, in order. */
   captions: string[];
+  /** Earlier Guardian coverage of the same story, when scripts/context.ts ran. */
+  context?: ContextItem[];
 }
 
 export interface PreviewJobInput {
@@ -168,6 +210,18 @@ export interface ArticleJobOutput {
   captions: string[];
   /** "What's being done": one sentence, 10–25 words, on the response or progress the body reports. Omit when there is none. */
   progress?: string;
+  /**
+   * How strong the story's genuine upside is, judged from the full body with
+   * the same 0–3 scale as a preview. The front-page card uses this over the
+   * preview's score. The front drops 0 and demotes 1.
+   */
+  upside?: number;
+  /**
+   * "Also in the Guardian": at most one line, 10–30 words, built only from the
+   * `excerpt` of one item in the job's `context`, citing that item's `url`.
+   * Omit when no item reports a concrete response or improvement.
+   */
+  context?: { text: string; sourceUrl: string };
 }
 
 export interface PreviewJobOutput {

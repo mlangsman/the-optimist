@@ -90,6 +90,45 @@ export const DOOM_TERMS: readonly string[] = [
 export const ALLOWED_PHRASES: readonly string[] = ['climate crisis', 'cost of living crisis'];
 
 /**
+ * Words that name a setback rather than a verdict on it: the vocabulary of
+ * the headlines that get past DOOM_TERMS ("BBC cuts roles", "project may
+ * slip", "years-long wait", "diagnosis surge"). A warning, not an error,
+ * because some are wins in the right sentence ("cuts emissions", "deficit
+ * halves"); the routine fixes every warning where the word was the writer's
+ * own choice.
+ */
+export const SETBACK_TERMS: readonly string[] = [
+  'axe',
+  'axed',
+  'axes',
+  'closure',
+  'closures',
+  'cut',
+  'cuts',
+  'deficit',
+  'delay',
+  'delayed',
+  'delays',
+  'job cuts',
+  'job losses',
+  'layoffs',
+  'loss',
+  'losses',
+  'redundancies',
+  'risk',
+  'risks',
+  'shortage',
+  'shortages',
+  'slip',
+  'slips',
+  'suppressed',
+  'surge',
+  'surges',
+  'wait',
+  'waits',
+];
+
+/**
  * A rewritten headline longer than this many words, and longer than the
  * original, reads like a list of procedural steps rather than a headline.
  */
@@ -143,16 +182,25 @@ export function overlap(a: string, b: string): number {
   return shared / longer.length;
 }
 
-/** Doom terms that appear in the text outside quotation marks and allowed phrases. */
-export function doomTerms(text: string): string[] {
+function termsIn(text: string, terms: readonly string[]): string[] {
   let scan = withoutQuotes(text).toLowerCase();
   for (const phrase of ALLOWED_PHRASES) scan = scan.split(phrase).join(' ');
   const found: string[] = [];
-  for (const term of DOOM_TERMS) {
+  for (const term of terms) {
     const pattern = new RegExp(`(^|[^a-z])${term.replace(/ /g, '\\s+')}(?=$|[^a-z])`, 'i');
     if (pattern.test(scan)) found.push(term);
   }
   return found;
+}
+
+/** Doom terms that appear in the text outside quotation marks and allowed phrases. */
+export function doomTerms(text: string): string[] {
+  return termsIn(text, DOOM_TERMS);
+}
+
+/** Setback terms that appear in the text outside quotation marks. */
+export function setbackTerms(text: string): string[] {
+  return termsIn(text, SETBACK_TERMS);
 }
 
 function firstParagraph(bodyHtml: string): string | undefined {
@@ -164,6 +212,8 @@ interface Copy {
   headline: { original: string; rewrite: string };
   secondary?: { field: 'standfirst' | 'trail'; original?: string; rewrite?: string };
   opening?: { rewrite: string };
+  upside?: number;
+  progress?: string;
 }
 
 /**
@@ -208,6 +258,28 @@ function lint(path: string, kind: Job['kind'], copy: Copy): ToneIssue[] {
   if (headlineDoom.length > 0) {
     add('headline', 'error', `headline is centred on ${headlineDoom.map((t) => `"${t}"`).join(', ')}: "${rewrite}"`);
   }
+  const headlineSetback = setbackTerms(rewrite);
+  if (headlineSetback.length > 0) {
+    add(
+      'headline',
+      'warning',
+      `headline has the setback as its subject or object (${headlineSetback.map((t) => `"${t}"`).join(', ')}); ` +
+        `build it on the upside or score the story honestly and let the front drop it: "${rewrite}"`,
+    );
+  }
+
+  // The score and the copy must agree: a 0 with someone named as acting is a
+  // response the writer found and then ignored; a 3 built on doom is spin.
+  if (copy.upside === 0 && copy.progress) {
+    add(
+      'headline',
+      'warning',
+      `upside is 0 but the progress line names a response ("${copy.progress}"); score it 1 or more, or set progress to null`,
+    );
+  }
+  if (copy.upside === 3 && headlineDoom.length > 0) {
+    add('headline', 'warning', `upside is 3 but the headline is built on ${headlineDoom.map((t) => `"${t}"`).join(', ')}`);
+  }
 
   if (copy.secondary?.rewrite) {
     const { field, rewrite: text } = copy.secondary;
@@ -233,6 +305,8 @@ export function lintPreview(job: Extract<Job, { kind: 'preview' }>, output: Prev
   return lint(job.path, 'preview', {
     headline: { original: job.input.headline, rewrite: output.headline },
     secondary,
+    ...(output.upside === undefined ? {} : { upside: output.upside }),
+    ...(output.progress === undefined ? {} : { progress: output.progress }),
   });
 }
 
@@ -247,6 +321,8 @@ export function lintArticle(job: Extract<Job, { kind: 'article' }>, output: Arti
     headline: { original: job.input.headline, rewrite: output.headline },
     secondary,
     ...(opening === undefined ? {} : { opening: { rewrite: opening } }),
+    ...(output.upside === undefined ? {} : { upside: output.upside }),
+    ...(output.progress === undefined ? {} : { progress: output.progress }),
   });
 }
 
