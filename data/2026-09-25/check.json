@@ -1,6 +1,95 @@
 [
   {
-    "path": "/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+    "path": "/uk-news/2026/sep/25/noah-woods-died-leaving-playground-gap-fence-inquest",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The opening paragraph ('Noah Woods, a three-year-old boy who was found dead in a pond ... had left the play area through a gap in the fence') leads with the death, as the original does, when rule 3 requires it to lead with the upside; open with the family's tribute or the 1,300 people who joined the search.",
+        "There is no progress line, but the original reports a response (a large-scale police search joined by about 1,300 members of the public, and an inquest opened by the assistant coroner Jyoti Gill); rule 8 allows absence only when no response is reported."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel",
+    "kind": "article",
+    "ok": false,
+    "issues": [
+      "The standfirst 'Prosecutors allege ... while an emergency responder was onboard' attributes the emergency responder detail to prosecutors; in the original it is the paper's own description of the footage, and the prosecutor Kevin Lucie only says the boat was 'being supported by the RNLI'."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The standfirst opens with the setback ('Prosecutors allege the 37-year-old slashed an adrift boat of migrants with a knife') rather than the upside (rule 3); open with the court and prosecution acting, e.g. the refusal of bail and the crown court hearing on 29 September.",
+        "The opening paragraph ('has appeared before magistrates and pleaded not guilty ... after he was filmed apparently slashing a boat') keeps the original's lead almost word for word instead of leading with the upside (rules 2 and 3); lead with the livestreamed footage leading to his arrest and the refusal of bail.",
+        "The progress line 'magistrates refused him bail' repeats the headline 'Court refuses bail' (rule 8); name a different action, such as the CPS and Hampshire police bringing the case to a crown court hearing on 29 September."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
+    "kind": "article",
+    "ok": false,
+    "issues": [
+      "The standfirst 'arrives next week' turns a hedge into a certainty; the original says Athwal 'is expected to arrive in post next week'.",
+      "The progress line states 'Treasury officials are working ‘at pace’ on options for consumer support' as fact, dropping the attribution; the original says 'Treasury sources have said' officials are working 'at pace'."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/sep/25/jeffrey-donaldson-should-get-more-than-10-years-jail-for-child-sexual-abuse-court-told",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Prosecutors seek more than 10 years’ jail for ex-DUP leader Jeffrey Donaldson' keeps the original's subject and angle ('should get more than 10 years jail ..., court told'), changing only the wording (rule 2); build on another element, such as the victims' voices being heard in court or sentencing due next month."
+      ]
+    }
+  },
+  {
+    "path": "/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/sep/25/woman-who-accused-jay-z-of-raping-her-aged-13-says-claims-were-false",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The progress line 'the case over Manchester City’s charges has ended in a guilty verdict' adds that the case has ended; the original reports only that reports are emerging of a guilty verdict on almost all charges."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Verdict on Manchester City charges begins to emerge' keeps the original's subject (a verdict emerging) and only strips out the news (rule 2); if a headline built on accountability is not possible, say plainly what the verdict was.",
+        "The progress line 'Reports are emerging that the case ... has ended in a guilty verdict' restates the headline and trail and names no one acting (rule 8); the copy reports no response, so it should be null."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2026/sep/25/noah-woods-died-leaving-playground-gap-fence-inquest",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -10,7 +99,101 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+    "path": "/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'over alleged Channel dinghy slashing' keeps the harm in the headline (rule 1); drop it to the trail and let the court's action carry the headline.",
+        "The trail opens with the setback ('The activist, who was filmed appearing to slash a boat with a blade') and then the not-guilty plea, with no upside first (rule 3).",
+        "The progress line 'A court has refused bail to Daniel Thomas' repeats the headline almost word for word (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Labour manifesto writer Ravinder Athwal hired by Healey from Flint Global' is the original ('Healey appoints Labour manifesto writer') turned into the passive with the words swapped, keeping the same subject and angle (rule 2); build on what the appointment brings, such as his experience in Keir Starmer's team.",
+        "The progress line 'Healey has appointed economist Ravinder Athwal' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Andrew Bailey ... says persistently high oil and gas prices would make it hard to resist pressure to raise rates' restates the trail's warning under 'What's being done' and credits no response (rule 8); the copy reports none, so it should be null."
+      ]
+    }
+  },
+  {
+    "path": "/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Declassified brings Labour conference press pass decision into the open' makes the setback (the rejection, disguised as a 'decision') the object of the headline (rule 1); the only upside the copy offers is Declassified speaking up, which is weak, and this should be scored low rather than strained.",
+        "The progress line 'Declassified ... is publicly reporting that three of its journalists were denied Labour conference passes' repeats the headline's idea and is not a response to the setback (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2026/sep/25/jeffrey-donaldson-should-get-more-than-10-years-jail-for-child-sexual-abuse-court-told",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail 'as he is sentenced for child sexual abuse' says sentencing is taking place; the original says only that the court was told he 'should get' more than 10 years, meaning sentence has yet to be passed."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Court hears case for jailing Jeffrey Donaldson for more than 10 years' keeps the original's subject and angle ('Jeffrey Donaldson should get more than 10 years jail ..., court told'), only reworded (rule 2)."
+      ]
+    }
+  },
+  {
+    "path": "/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The progress line 'Mosques are receiving £66m' presents the funding as ongoing; the original says mosques were 'given' £66m."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Home Office gives mosques a record £66m in emergency security funding' shares most of its words and its angle with the original ('Mosques given £66m in emergency security funds'), with the passive simply made active (rule 2); build on the Home Office stepping up protection.",
+        "The progress line 'Mosques are receiving £66m in emergency security money from the Home Office' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/music/2026/sep/25/woman-who-accused-jay-z-of-raping-her-aged-13-says-claims-were-false",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Jay-Z allegation was false, says woman who filed and dropped lawsuit' reorders the original ('Woman who accused Jay-Z ... says claims were false') and keeps its subject and angle (rule 2); build on Jay-Z's denial being borne out, for example.",
+        "The progress line 'her claims were false' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/sep/25/sienna-miller-and-dominic-west-interview-war",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -20,7 +203,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel",
+    "path": "/lifeandstyle/2026/sep/25/adults-lego-remote-control-cars-sewing",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -30,7 +213,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+    "path": "/commentisfree/2026/sep/25/britain-unemployed-young-people-labour-plans-alan-milburn",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -40,7 +223,19 @@
     }
   },
   {
-    "path": "/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
+    "path": "/music/2026/sep/25/michael-kiwanuka-life-after-devastating-stroke",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Michael Kiwanuka is releasing the album his stroke shelved and sharing his experience ... in his only interview' repeats the headline 'opens up as he finally releases his long-shelved new album' (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/film/2026/sep/25/my-dad-was-a-monster-sara-karloff-on-reviving-frankenstein-95-years-on",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -50,7 +245,75 @@
     }
   },
   {
-    "path": "/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+    "path": "/global-development/ng-interactive/2026/sep/25/we-skate-on-the-rooftops-of-damaged-buildings-a-day-in-the-life-a-skateboarder-in-gaza",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line 'Rajab al-Reefi is teaching children in Gaza to skate' repeats the headline (rule 8); use null or a distinct fact from the copy.",
+        "Trail opens 'A day in the life of the skateboarder, who skates on the rooftops of damaged buildings' and goes straight to the hardships, so it does not open by developing the upside (rule 3); lead with bringing joy to children, then the damage and scarcity."
+      ]
+    }
+  },
+  {
+    "path": "/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line 'Margaret Atwood has given C$1m to a university to establish a chair in avian biology named after Graeme Gibson' repeats the headline (rule 8); for a feature with no setback it should be null."
+      ]
+    }
+  },
+  {
+    "path": "/media/2026/sep/25/bbc-sport-digital-revamp-raises-questions-over-purpose",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'Staff speak up for minority sports' turns the ORIGINAL's 'some staff fear' the approach will leave minority sports behind into staff generally advocating for them; the ORIGINAL reports only that some staff fear this."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Staff speak up for minority sports in BBC Sport's digital revamp' still has the staff criticism of the revamp as its subject (rule 1); build on the digital revamp itself and move the fears to the trail.",
+        "Progress line 'some staff are raising concerns for minority sports and older viewers' restates the criticism rather than naming a response (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'take matters into their own hands over toxic waste' keeps the harm in the headline (rule 1); build on the residents' action sparking national calls for a clean-up and leave the toxic waste to the trail.",
+        "Progress line 'Fed-up residents of Gospić have decided to take matters into their own hands' repeats the headline (rule 8); use the national calls for a clean-up or say something distinct."
+      ]
+    }
+  },
+  {
+    "path": "/music/2026/sep/25/mnek-music-interview-uzoechi-osisioma-emenike-bulldozer-album",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'written smash hits for Beyoncé' conflates two separate facts; the ORIGINAL says he writes smash hits and 'has written for Beyoncé', not that his Beyoncé songs were smash hits."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line 'MNEK ... is back with a new album and says he is finally ready to enjoy himself' repeats the headline's 'returns with a new album' (rule 8); for a profile with no response to report, use null.",
+        "The quote 'I'm a fat Black gay man. Try selling that', which carries the prejudice behind his solo struggles, is dropped from the headline-and-trail pair (rule 5); keep its substance in the trail."
+      ]
+    }
+  },
+  {
+    "path": "/thefilter/2026/sep/25/womens-autumn-wardrobe-updates-2026",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -60,7 +323,19 @@
     }
   },
   {
-    "path": "/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
+    "path": "/lifeandstyle/2026/sep/25/can-dating-coach-help-you-win-at-love",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'many are paying thousands to find partners' states as fact what the ORIGINAL only poses as a question ('Would you pay thousands...?'); the ORIGINAL says many singles are hiring coaches, not that many pay thousands."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -70,7 +345,19 @@
     }
   },
   {
-    "path": "/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
+    "path": "/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'They explain ...: 'In our deepest hearts we are voyeurs'' attributes the quote to the experts and insiders collectively; the ORIGINAL does not attribute it to them."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/25/ai-anxiety-comedy",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -80,7 +367,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/25/experience-brain-surgeon-dropped-skull-floor",
+    "path": "/food/2026/sep/25/i-have-a-blowtorch-at-uni-what-do-students-eat-apart-from-pesto-pasta",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -90,7 +377,19 @@
     }
   },
   {
-    "path": "/environment/2026/sep/24/explainer-uk-climate-crisis-national-security-report-suppressed",
+    "path": "/commentisfree/ng-interactive/2026/sep/25/andy-burnham-utilities-public-ownership-nationalisation-thames-water",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line 'setting out how utilities such as Thames Water could be run for the public benefit' repeats the headline's 'utilities run for the public benefit' (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/commentisfree/2026/sep/25/liberal-democrats-localism-single-issue-politics-ed-davey-local-democracy",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -100,7 +399,7 @@
     }
   },
   {
-    "path": "/global-development/ng-interactive/2026/sep/24/first-theres-the-gruelling-task-of-trying-to-charge-my-laptop-a-day-in-the-life-of-a-university-lecturer-in-gaza",
+    "path": "/uk-news/2026/sep/25/digested-week-nigella-lawson-bake-off-charles-spencer-dolly-parton",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -110,117 +409,20 @@
     }
   },
   {
-    "path": "/society/2026/sep/24/her-mental-health-deteriorated-family-forced-to-wait-years-for-autism-diagnosis",
+    "path": "/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Trail opens with the setback, 'The Oscar-winner's casting as Aslan has brought roars of fury from US evangelical commentators' (rule 3); open with the casting or Gerwig's adaptation and give the fury second.",
+        "Headline 'Meryl Streep voices Narnia's wise lion in Greta Gerwig's The Magician's Nephew' drops the writer's argument rather than turning it forward (rule 6); build on the case that the Christian right has more pressing issues."
+      ]
     }
   },
   {
-    "path": "/politics/2026/sep/24/labour-majority-five-progressive-voter-types-charts",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/media/2026/sep/24/play-school-returns-as-bbc-pushes-quality-childrens-programmes",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/tv-and-radio/2026/sep/24/streaming-services-inflation-ads",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/lifeandstyle/2026/sep/25/leading-questions-i-love-my-life-but-how-can-i-balance-it-all",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/commentisfree/2026/sep/24/tom-watson-palantir-uk-politics",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/commentisfree/2026/sep/25/berlin-political-star-europe-hope-housing-germany",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/nils-pratley-on-finance/2026/sep/24/vistry-is-the-laggard-in-a-housebuilding-sector-full-of-cracks",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/global/commentisfree/2026/sep/24/last-ditch-bar-lesbian-massachusetts-viral",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/commentisfree/2026/sep/24/west-freefall-warned-wealth-power",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/commentisfree/2026/sep/24/crisis-loneliness-buying-friends-on-an-app-shortcuts",
+    "path": "/commentisfree/2026/sep/25/exercise-bad-bodies-ai-brains-students-tech-health",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -235,8 +437,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'The Guardian view on a supersized El Niño: injustice, not just weather' restates the diagnosis rather than turning the editorial's argument into the forward-facing demand it implies, that the injustice behind the toll be addressed (rule 6).",
+        "Trail opens 'Hundreds of thousands are expected to die and millions to go hungry' with no upside first (rule 3); open with the argument that human folly, unlike weather, can be tackled, then the toll."
+      ]
     }
   },
   {
@@ -245,8 +450,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'an admirable goal for youth jobs' changes the editorial's argument, which questions how the new qualifications will help and 'why now?', into praise (rule 6); turn it forward as the demand that ministers show how the GCSEs will cut youth unemployment."
+      ]
     }
   },
   {
@@ -255,8 +462,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Progress line 'Readers are responding to an editorial with ideas on creating opportunities for young people to build careers' repeats the headline (rule 8)."
+      ]
     }
   },
   {
@@ -265,8 +474,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Progress line 'Dr Gillian McIver and Don Macdonald are calling for apprenticeships to be made more accessible' repeats the headline's case for opening up apprenticeships (rule 8)."
+      ]
     }
   },
   {
@@ -290,7 +501,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/24/portugal-wales-nations-league-match-report",
+    "path": "/sport/2026/sep/25/kimi-antonelli-hits-wall-as-george-russell-takes-f1-azerbaijan-gp-pole",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -300,7 +511,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/24/jos-buttler-injury-and-kusal-mendis-century-derail-england-as-sri-lanka-level-odi-series",
+    "path": "/sport/live/2026/sep/25/warwickshire-v-leicestershire-somerset-v-surrey-and-more-county-cricket-final-round-day-two-live",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -310,7 +521,21 @@
     }
   },
   {
-    "path": "/sport/2026/sep/24/george-russell-kimi-antonelli-azerbaijan-grand-prix-formula-one-title-race",
+    "path": "/football/2026/sep/25/sebastien-pocognoli-scotland-scottish-fa-slovenia",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Pocognoli deserves time to make his mark as Scotland head coach' opens the same way and keeps the ORIGINAL's subject ('Pocognoli deserves time but…'), a cosmetic edit (rule 2); turn the writer's argument forward, e.g. what the Scottish FA and coach can prove together.",
+        "The standfirst opens with the setback, 'Scotland’s unproven head coach represents a gamble' (rule 3); it must open with the upside, the case for giving him time, and give the gamble second.",
+        "The progress line 'The Scottish FA has appointed Pocognoli… a decision the writer calls a gamble' restates the setback rather than naming anyone acting on it (rule 8); for an opinion piece with no reported response, leave it out."
+      ]
+    }
+  },
+  {
+    "path": "/sport/2026/sep/25/england-new-zealand-womens-rugby-union-red-roses",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -320,7 +545,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
+    "path": "/football/2026/sep/25/australia-socceroos-brazil-irankunda-international-friendly-match-report",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -330,7 +555,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/24/alcaraz-tops-the-bill-as-the-laver-cup-returns-to-london-still-aiming-to-prove-its-worth",
+    "path": "/football/2026/sep/25/kieron-dyer-southend-manager-interview",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -340,7 +565,33 @@
     }
   },
   {
-    "path": "/sport/2026/sep/24/tyson-fury-anthony-joshua-cardiff-principality-stadium-december-boxing",
+    "path": "/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'UN hears Netanyahu defend Israel’s war in Gaza as ‘opposite of genocide’' keeps the ORIGINAL's subject and angle (Netanyahu's claim about the war) and only reorders and swaps 'calls' for 'defend', a cosmetic edit (rule 2); the preview offers no response to build on, so score it 0 or 1 and write a calm, plain line rather than a reworded original."
+      ]
+    }
+  },
+  {
+    "path": "/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The standfirst opens with the setback, 'They call the delays ‘scandalous’ after four integrated care boards imposed a two-year minimum wait' (rule 3); the upside must lead and the wait follow.",
+        "The progress line 'Patient groups are publicly challenging the ‘scandalous’ delays' repeats the headline's 'Patient groups stand up for' (rule 8), and criticism is not a response to the waits; with no response in the preview copy it should be absent.",
+        "Headline and standfirst together leave the reader with a two-year minimum wait and 'scandalous' delays and nothing being made better (rule 3); the preview copy offers only critics speaking up, an upside of 1 at most, so do not stretch 'stand up for' into a headline built on it."
+      ]
+    }
+  },
+  {
+    "path": "/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -350,103 +601,171 @@
     }
   },
   {
-    "path": "/sport/2026/sep/24/northampton-lead-prem-charge-but-history-shows-title-defence-will-be-no-simple-task",
+    "path": "/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
     "kind": "preview",
     "ok": true,
     "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Pope Leo used a landmark speech in France to argue that technology must remain at the service of humans' repeats the headline's 'Technology ‘must remain at service of humans’, Pope Leo says' (rule 8); the copy reports no response, so it should be absent."
+      ]
+    }
+  },
+  {
+    "path": "/us-news/live/2026/sep/25/trump-xi-summit-national-archives-media-politics-live",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'Xi Jinping visits vault holding Declaration of Independence before leaving Washington' states the tour and departure as settled fact; the ORIGINAL says only that Xi 'is expected to depart DC after touring' the vault."
+    ],
     "tone": {
       "ok": true,
       "issues": []
     }
   },
   {
-    "path": "/sport/2026/sep/24/shaun-edwards-mum-memory-england-women-rugby-red-roses",
+    "path": "/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'English farmers are speaking out about the uncertainty they face' repeats the headline's 'English farmers speak out' (rule 8) and names no one acting on the funding shortfall; with no response in the copy it should be absent.",
+        "'English farmers speak out for their efforts to boost nature' is vague (speaking out is not an outcome); build on what the copy shows farmers have done, their work to boost nature, and keep the funding running out after six hours in the trail."
+      ]
     }
   },
   {
-    "path": "/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
+    "path": "/environment/2026/sep/24/explainer-uk-climate-crisis-national-security-report-suppressed",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'An explainer sets out the report’s warnings…' credits the explainer itself as a response, which the ORIGINAL does not report (rule 8); with no one acting on the report in the copy, it should be absent."
+      ]
     }
   },
   {
-    "path": "/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran",
+    "path": "/environment/2026/sep/25/skylarks-sandwich-terns-birdies-on-reserve-created-from-golf-course-uk",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'the new birdies there' keeps the golf pun in the trail, a pun for news (rule 4); say 'new arrivals' or 'new species' plainly."
+      ]
     }
   },
   {
-    "path": "/world/2026/sep/24/russia-could-attack-a-nato-country-within-months-danish-intelligence-says",
+    "path": "/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Mexico’s Baja California region lies in the path of Hurricane Polo' keeps the ORIGINAL's subject and angle (the hurricane bearing down on Baja California) and only reorders it, a cosmetic edit (rule 2). The copy has no response to build on, so score it 0 and state the storm calmly, without the dramatic 'barrels towards' kept in the trail."
+      ]
     }
   },
   {
-    "path": "/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
+    "path": "/uk-news/2026/sep/25/cyber-attack-dyfed-powys-police-may-accessed-staff-information",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Dyfed-Powys police says public data was not affected by cyber-attack' still names the cyber-attack in the headline (rule 1); build the headline on the reassurance alone, that public data is safe, and name the attack in the trail.",
+        "The standfirst opens with the setback, 'the incident disrupted ‘some non-emergency systems’' (rule 3); lead with public data being unaffected.",
+        "The progress line 'police is informing the public, saying… but not public data' repeats the headline (rule 8) and describes a statement, not action on the attack."
+      ]
     }
   },
   {
-    "path": "/education/2026/sep/24/indian-oil-gas-heir-professor-sustainability-newcastle-university-anant-ambani",
+    "path": "/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback, 'Somerset officials instead agreed a deal with a London-based real estate company, and the council rejected the residents’ bid' (rule 3); develop the upside first, the residents' £1m effort, then give the rejection.",
+        "The progress line 'Frome residents raised £1m towards their bid' repeats the headline (rule 8), and the fundraising does not act on the rejection; with no response in the copy it should be absent.",
+        "'Frome locals raise £1m for Mayday Saxonvale homes and park scheme' presents a bid that the ORIGINAL says was rejected as a live win, so headline and trail read as a hope that the trail then withdraws (rule 3); consider whether this is an honest 1."
+      ]
     }
   },
   {
-    "path": "/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
+    "path": "/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'reduces diagnosis from eight weeks to two hours, NHS England says' attributes the eight-weeks-to-two-hours claim (and the 'gamechanging' label) to NHS England; the ORIGINAL states the reduction itself and attributes to NHS England only that the test can be done on the operating table and is being piloted in five centres."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'NHS England is piloting the test… in five centres' repeats the headline 'NHS England pilots two-hour brain tumour test in five centres' (rule 8); use it for the operating-table detail or the eight-weeks-to-two-hours gain instead.",
+        "'NHS England pilots…' leads with the procedure when the copy offers a concrete outcome, diagnosis cut from eight weeks to two hours (rule 7); lead with the outcome, e.g. 'Brain tumour test cuts diagnosis from eight weeks to two hours'."
+      ]
     }
   },
   {
-    "path": "/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage",
+    "path": "/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Theranos founder's move to halfway home reportedly set for next year' keeps the ORIGINAL's subject and angle (Holmes's reported transfer) with words swapped, a cosmetic edit (rule 2).",
+        "The progress line 'reportedly due to move to a halfway home' repeats the headline and names no one acting on anything (rule 8); use null, as the copy reports no response."
+      ]
     }
   },
   {
-    "path": "/environment/2026/sep/24/world-warms-up-insects-moving-northwards-uk",
+    "path": "/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Critics take on Meloni over cap on foreign children in classrooms' keeps the ORIGINAL's angle (Meloni criticised over the cap) and puts the cap in the headline, a cosmetic edit (rules 1 and 2); the copy's only upside is the critics themselves, so build a forward-facing line on what they argue or score it honestly as a 1.",
+        "The progress line 'Critics are publicly challenging Meloni's decree' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Tall, dark and hated: the plan to modernise ‘Paris’s ugliest building’' opens exactly as the ORIGINAL and keeps its subject and 'hated' framing, a cosmetic edit (rule 2).",
+        "The progress line 'A modernisation project has been drawn up ... though clashes over pricing have put it on hold' names no actor doing anything and restates the stalled setback, so it is not a 'What's being done' line (rule 8); use null."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/sep/25/saudi-arabia-intercepts-houthi-missiles-oil-prices-climbs",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Saudi interceptions stop wave of Houthi missiles aimed at Taif and Yanbu' keeps the ORIGINAL's subject and opening (Saudi Arabia intercepting a wave of Houthi missiles) with words swapped, a cosmetic edit (rule 2).",
+        "The progress line 'Saudi Arabia intercepted the Houthi missiles aimed at Taif and the Yanbu area' repeats the headline (rule 8)."
+      ]
     }
   },
   {
@@ -455,68 +774,12 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/technology/2026/sep/24/construction-largest-supercomputer-delayed",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/uk-news/2026/sep/24/reported-assaults-britains-railways-rise-record-high",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/24/trump-brazil-election-interference",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/24/man-105-investigated-nazi-pow-camp-murders",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/24/twins-sentenced-to-death-and-jail-iran-un-appeal",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'as corporation seeks to save £500m' keeps the cost-cutting setback in the headline in an 'as' clause (rule 1); lead on the union's stand alone and move the savings plan to the trail.",
+        "'Union stands up for BBC TV and radio' still has the cuts as its object, and the headline and trail together leave a sense of decline (doom spiral, further cuts) with only a union warning as response (rule 3); this is at most a 1.",
+        "The progress line 'A union is warning publicly against further cuts to BBC TV and radio' repeats the headline (rule 8)."
+      ]
     }
   },
   {
@@ -525,8 +788,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'The UK watchdog fined TikTok £12.7m in 2023 ... and the app has dropped its appeal' repeats the headline's fine and dropped appeal (rule 8); give a distinct line or null."
+      ]
     }
   },
   {
@@ -535,8 +800,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'UK policymakers prepare budget amid oil price rise and global bond selloff' keeps the setback in the headline after 'amid' and keeps the ORIGINAL's subject (UK policymakers under pressure before the budget), a cosmetic edit (rules 1 and 2).",
+        "Headline and trail ('less room' for manoeuvre, rising borrowing costs) leave the reader with a sense of decline (rule 3); if the copy offers no upside, score it 0 and write it plainly rather than reordering the ORIGINAL."
+      ]
     }
   },
   {
@@ -545,12 +813,28 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Vistry unveils further plan to lower costs after poor summer home sales' is the brief's own failing example with the setback ('poor summer home sales') after 'after' and a cost-cutting plan as its point (rules 1 and 2); the copy has no real upside, so score it 0 or 1.",
+        "'plan to lower costs' softens the ORIGINAL's cost-cutting plan including job losses in the headline (rule 5).",
+        "The progress line 'Vistry has unveiled a further cost-cutting plan, blaming poor summer sales' repeats the headline and credits a cost-cutting plan as a response (rule 8)."
+      ]
     }
   },
   {
-    "path": "/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
+    "path": "/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Liam Neeson is bringing Catherine Corless's exposure ... to the screen' repeats the headline's point that Corless's work inspired Neeson's film (rule 8); name a distinct action from the copy or use null."
+      ]
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/sep/25/the-moment-the-seven-best-films-to-watch-on-tv-this-week",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -560,7 +844,7 @@
     }
   },
   {
-    "path": "/artanddesign/2026/sep/25/ai-weiwei-unveils-mushrooms-new-public-artwork-tallawoladah-lawn-sydney-mca",
+    "path": "/tv-and-radio/2026/sep/25/tv-tonight-play-for-today-joe-lycett-arms-walking-dead",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -570,7 +854,31 @@
     }
   },
   {
-    "path": "/artanddesign/2026/sep/24/beverly-buchanan-review-spike-island-bristol",
+    "path": "/tv-and-radio/2026/sep/25/the-seven-best-shows-to-stream-this-week",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'Also on the list: Kill Jackie' presents Kill Jackie as a separate entry from the Catherine Zeta-Jones cocaine-dealer thriller; the ORIGINAL does not say they are different shows."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/sep/24/play-school-returns-as-bbc-pushes-quality-childrens-programmes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'The BBC is bringing back Play School as part of a push for quality children's programming' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/music/2026/sep/25/add-to-playlist-the-defiant-queer-dancehall-of-destin-conrad-and-the-weeks-best-new-tracks",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -580,7 +888,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/24/global-release-announced-for-acclaimed-gaza-documentary-naza",
+    "path": "/music/2026/sep/25/jae-stephens-audacity-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -590,7 +898,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/24/wallace-gromit-auction-aardman-stop-motion-puppets-animators",
+    "path": "/music/2026/sep/25/norma-tanega-aida-pavletich-saturday-dancer-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -600,7 +908,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/24/oscar-movie-contenders-predictions",
+    "path": "/music/2026/sep/25/honegger-jeanne-d-arc-au-bucher-album-review-lukas-vasilek-czech-philharmonic-five-stars",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -610,47 +918,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/24/team-moms-baseball-kim-kardashian-paramount-youth-sports",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/music/2026/sep/24/u2-announce-new-album-carnaval-de-luz-featuring-final-recording-by-dolly-parton",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/culture/2026/sep/24/the-chicks-20-greatest-songs-ranked",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/music/2026/sep/24/gilla-band-pugnello-review-five-stars",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/music/2026/sep/25/australian-musician-julia-jacklin-fourth-album-the-gem-review",
+    "path": "/books/2026/sep/25/the-best-recent-and-thrillers-review-roundup",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -670,7 +938,7 @@
     }
   },
   {
-    "path": "/books/2026/sep/24/exit-party-by-emily-st-john-mandel-review-alternate-visions-of-post-crisis-america",
+    "path": "/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -680,17 +948,7 @@
     }
   },
   {
-    "path": "/books/live/2026/sep/23/booker-prize-2026-ask-our-books-team-anything-about-this-years-contenders",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview",
+    "path": "/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -705,12 +963,16 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback, 'blockbuster games are increasingly taking the challenge out of playing', rather than the upside (rule 3); open with players pushing back in defence of challenge.",
+        "The progress line 'Players are pushing back against blockbuster games' repeats the headline's 'push back' (rule 8); name a distinct actor or action from the copy, or drop it.",
+        "The headline 'Wolverine fans push back' keeps the original's subject and angle, fans attacking Wolverine, with the words swapped (rule 2); build it on players championing challenging play."
+      ]
     }
   },
   {
-    "path": "/games/2026/sep/21/silent-hill-townfall-review-screen-burn",
+    "path": "/stage/2026/sep/25/phil-wang-uh-oh-review-soho-theatre-walthamstow-london",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -720,7 +982,7 @@
     }
   },
   {
-    "path": "/games/2026/sep/22/control-resonant-review-save-new-york-from-paranormal-phenomena",
+    "path": "/artanddesign/2026/sep/25/turner-prize-the-week-in-art",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -730,7 +992,7 @@
     }
   },
   {
-    "path": "/artanddesign/2026/sep/24/nicole-eisenman-review-artist-sculptor-sadie-coles-london-royal-academy-arts",
+    "path": "/stage/2026/sep/25/the-farmers-wife-review-theatre-by-the-lake-keswick",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -740,7 +1002,7 @@
     }
   },
   {
-    "path": "/artanddesign/2026/sep/24/rachel-kneebone-review-wallace-collection-london",
+    "path": "/artanddesign/2026/sep/24/beverly-buchanan-review-spike-island-bristol",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -750,7 +1012,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/24/three-men-in-a-boat-review-rose-theatre-kingston-upon-thames",
+    "path": "/music/2026/sep/25/post-your-questions-for-the-pogues",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -760,37 +1022,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/24/stranger-things-gaten-matarazzo-rent-tom-stoppard-theatre",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/artanddesign/2026/sep/24/greek-pm-deal-to-return-parthenon-marbles-could-still-be-reached-with-political-will-and-courage",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/music/2026/sep/24/pete-byrne-frontman-of-british-new-wave-band-naked-eyes-dies-aged-74",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/film/2026/sep/24/how-billy-wilder-conquered-hollywood-double-indemnity-some-like-it-hot-the-apartment",
+    "path": "/artanddesign/2026/sep/25/ai-weiwei-unveils-mushrooms-new-public-artwork-tallawoladah-lawn-sydney-mca",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -820,13 +1052,25 @@
     }
   },
   {
-    "path": "/fashion/2026/sep/24/bob-mackie-obituary",
+    "path": "/food/2026/sep/25/the-lure-of-the-loo-restaurant-bathroom-design",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
       "ok": true,
       "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/25/experience-brain-surgeon-dropped-skull-floor",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Three neurosurgeons carried out a risky 16-hour operation to fix the writer' repeats the headline 'three neurosurgeons and a risky 16-hour operation fixed me' (rule 8); give a distinct point or use null for this personal feature."
+      ]
     }
   },
   {
@@ -860,7 +1104,7 @@
     }
   },
   {
-    "path": "/thefilter/2026/sep/18/readers-best-secondhand-finds",
+    "path": "/food/2026/sep/25/belgian-buns-recipe-benjamina-ebuehi",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -871,36 +1115,6 @@
   },
   {
     "path": "/food/2026/sep/24/the-trouble-with-coffee-flavoured-drinks-mina-holland",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/food/2026/sep/23/what-to-cook-when-summer-meets-autumn",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/food/2026/sep/24/autumn-fall-pie-recipes-pecan-pumpkin-plum-apple-crumble-adriann-ramirez",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/food/2026/sep/24/tomatoes-stuffed-with-breadcrumbs-chickpeas-and-herbs-recipe-rachel-roddy",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -925,8 +1139,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Divorce lawyers link longer-lasting failed marriages to financial pressures' keeps the original's subject and angle, lawyers blaming the cost of living for couples staying put, with only the words changed (rule 2); the copy offers little upside, so give a calm, plain line with a new angle or score it 0 or 1.",
+        "The headline puts 'failed marriages' at its centre, so the setback is still the point (rule 1); the preview gives no response to build on, so this is at most a 1 and should not be stretched."
+      ]
     }
   },
   {
@@ -950,13 +1167,27 @@
     }
   },
   {
+    "path": "/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Capital gains tax explained, with the case for and against another rise\" is a cosmetic edit (rule 2): it opens the same way and keeps the ORIGINAL's subject and angle, swapping 'how it works' and 'pros and cons' for synonyms; give the explainer a fresh, precise line, for example built on what the chancellor is weighing."
+      ]
+    }
+  },
+  {
     "path": "/money/2026/sep/23/mums-alzheimers-has-trapped-the-kids-natwest-cash",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"The NatWest First Saver account meant to fund the children through university\" is a verbless teaser that withholds the story and implies the setback through 'meant to' (rule 4, clickbait; house style asks for present-tense, active headlines); state plainly what the reader is asking about, calmly, since the copy reports no resolution."
+      ]
     }
   },
   {
@@ -965,28 +1196,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/society/2026/sep/22/the-rise-of-big-toothbrush",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/money/2026/sep/22/flixbus-left-us-stranded-m23-after-a-police-swoop",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line \"answered questions on AI chatbots and consumer protection\" repeats the headline \"answers your questions on AI chatbots and consumer protection\" (rule 8); for a Q&A with no setback it should be null."
+      ]
     }
   },
   {
@@ -1020,37 +1233,39 @@
     }
   },
   {
+    "path": "/fashion/2026/sep/25/bayeux-tapestry-fashion-medieval-experts",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/sep/24/bob-mackie-obituary",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
     "path": "/fashion/2026/sep/24/max-mara-audacious-women-nonconformist-glamour-milan-fashion-week-chore-jacket",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"Max Mara's 'nonconformist glamour'\" attributes the quoted phrase to Max Mara; the ORIGINAL says the clothes nod to the 'nonconformist glamour' of Amelia Earhart and other pioneers."
+    ],
     "tone": {
       "ok": true,
       "issues": []
     }
   },
   {
-    "path": "/fashion/2026/sep/23/jess-cartner-morley-on-fashion-in-praise-of-fun-clothes",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/fashion/2026/sep/23/fendi-maria-grazia-chiuri-collection-milan-fashion-week",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/fashion/2026/sep/23/sali-hughes-on-beauty-retinoids-proven-anti-ageing-formulas",
+    "path": "/travel/2026/sep/25/readers-favourite-autumn-days-out-uk",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1080,7 +1295,19 @@
     }
   },
   {
-    "path": "/travel/2026/sep/21/austria-slovenia-italy-three-country-hike-alpine-holiday",
+    "path": "/lifeandstyle/2026/sep/25/after-a-fiery-summer-im-choosing-resilient-crops-to-future-proof-my-garden",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"which is why, after a fiery summer, I'm choosing resilient crops\" adds a causal link the ORIGINAL does not state; it says only that after a fiery summer the writer is choosing resilient crops and that many options are hardy, low-maintenance and delicious."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/sep/25/country-diary-never-mind-the-bayeux-this-is-where-the-battle-of-stamford-bridge-took-place-960-years-ago-today",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1100,7 +1327,7 @@
     }
   },
   {
-    "path": "/food/2026/sep/23/100-unusual-crisp-flavours-ranked-truly-awful-totally-scoffable",
+    "path": "/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1110,7 +1337,19 @@
     }
   },
   {
-    "path": "/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
+    "path": "/global-development/ng-interactive/2026/sep/24/first-theres-the-gruelling-task-of-trying-to-charge-my-laptop-a-day-in-the-life-of-a-university-lecturer-in-gaza",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line \"Mahmoud ... overcomes internet cuts and power outages to provide his students with an education\" repeats the headline's idea and the trail's first sentence almost verbatim (rule 8); it adds nothing under 'What's being done'."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1120,7 +1359,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/24/greenland-trump-us-security-agreement-relief",
+    "path": "/money/2026/sep/25/people-in-the-shetlands-or-the-outer-hebrides-how-are-you-coping-with-the-diesel-prices",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1130,20 +1369,12 @@
     }
   },
   {
-    "path": "/world/2026/sep/24/ukraine-russia-war-long-range-air-war-arms-race",
+    "path": "/uk-news/2026/sep/24/tell-us-have-you-been-assaulted-on-great-britains-railways",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/community/live/2026/sep/24/reader-qa-ask-our-reporting-team-about-whos-spending-what-on-the-midterms",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'We would like to hear from passengers and members of the public' narrows the callout's audience; the ORIGINAL simply asks 'have you been assaulted' without restricting who may respond."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1152,15 +1383,17 @@
   {
     "path": "/education/2026/sep/24/did-you-sit-vocational-qualifications-in-the-past-and-more-recently-in-england-we-would-like-to-hear-from-you",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'Whether you sat them in the past or more recently' changes the ORIGINAL's 'in the past and more recently', which may be seeking people who sat both."
+    ],
     "tone": {
       "ok": true,
       "issues": []
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/23/tell-us-have-you-delayed-separating-or-divorcing-because-you-cant-afford-to",
+    "path": "/science/2026/sep/25/have-you-taken-glp-1s-for-a-year-weight-loss",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1170,7 +1403,32 @@
     }
   },
   {
-    "path": "/music/2026/sep/24/do-you-enjoy-listening-to-music-on-cd-compact-disc",
+    "path": "/uk-news/2026/sep/25/man-in-batman-costume-chases-down-suspected-norwich-handbag-thief",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Stolen Norwich handbag retrieved by man in Batman costume' is a passive headline opening on the theft; the brief asks for active headlines, so lead with the man acting, eg the Batman-costumed man chasing down the suspect.",
+        "The progress line 'A man dressed as Batman ... chased down the suspected thief and retrieved the bag' repeats the headline and trail (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/football/live/2023/sep/29/wsl-returns-premier-league-team-news-and-more-weekend-football-countdown-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'WSL returns as Antony prepares to resume training at Manchester United' just reorders the ORIGINAL's two clauses (rule 2) and joins two stories in one headline (rule 7); pick the single strongest idea, eg the WSL's return."
+      ]
+    }
+  },
+  {
+    "path": "/football/live/2024/nov/01/premier-league-wsl-fa-cup-manchester-united-amorim-chelsea-newcastle-arsenal-live",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1180,7 +1438,163 @@
     }
   },
   {
-    "path": "/politics/2026/sep/24/rory-stewart-strange-newsnight-moment-stare-goes-viral",
+    "path": "/football/live/2025/jan/24/premier-league-wsl-team-news-transfers-football-news-live",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'Tottenham rue a Solanke blow and another key injury' turns them into two separate setbacks; the ORIGINAL has the Solanke blow as Tottenham's 'another key injury'."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Real Betis are set to give Antony a medical as the winger heads towards a move from Manchester United' repeats the headline (rule 8); with no response to report, use null."
+      ]
+    }
+  },
+  {
+    "path": "/football/live/2022/feb/11/premier-league-team-news-womens-super-league-wsl-chelsea-v-arsenal-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Middlesbrough and Derby strike agreement as WSL builds to Chelsea v Arsenal' joins two stories in one headline (rule 7); keep the single strongest idea, the Middlesbrough-Derby agreement.",
+        "The progress line 'Middlesbrough and Derby struck up an agreement in the EFL as WSL sides built up to Chelsea v Arsenal' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/football/live/2023/oct/13/euro-2024-qualifying-scotlands-var-outrage-england-v-australia-wsl-football-news-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Beth Mead nears long-awaited Arsenal return as Sheffield Wednesday name Danny Rohl' joins two stories (rule 7); keep one, eg Beth Mead's long-awaited return.",
+        "The progress line 'Beth Mead moved closer to a return for Arsenal, and Sheffield Wednesday appointed Danny Rohl' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/football/live/2026/mar/27/world-cup-playoffs-heartbreak-and-joy-england-v-uruguay-football-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Klopp hails Salah's impact at Liverpool as England prepare to face Uruguay' joins two stories (rule 7); keep the single strongest idea, Klopp's tribute to Salah.",
+        "The progress line 'Klopp hailed Salah's impact at Liverpool while Iran's footballers paid tribute' repeats the headline (rule 8); the copy reports no response, so it should be null."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'John Healey is preparing for his first budget as the latest public finance data is published' repeats the headline (rule 8) and names no response to the deficit.",
+        "'as July public finance figures land' is a coy stand-in rather than a real upside; the budget preparation is the only next step in the copy, so keep the headline plainly on it."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The headline 'Fiscal rules will stand firm' states as fact what the ORIGINAL reports only as Healey saying he will stick firmly to fiscal rules."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Fiscal rules will stand firm' is an unattributed claim; the brief requires headlines to attribute claims, eg 'Healey says'.",
+        "'John Healey champions growth' keeps the ORIGINAL's subject and angle ('John Healey backs growth') with a swapped verb (rule 2).",
+        "The progress line 'Chancellor John Healey says he will stick firmly to fiscal rules while backing growth' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Roadmap to 3 per cent defence spending target to come in next year's review' is the deferral itself dressed as a next step; the delay is still the point of the headline (rule 1), and the copy offers no stronger upside.",
+        "The progress line 'The roadmap ... will be set out in next year's review' repeats the headline and credits a deferral as a response (rule 8); use null."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/jul/31/john-healey-budget-late-october",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Late October budget to 'spread money and power' around UK, Healey promises' keeps the ORIGINAL's subject, words and angle, only reordered (rule 2).",
+        "The progress line 'Healey has set the budget for late October, promising to spread money and power around the UK' repeats the headline and the ORIGINAL's headline almost word for word (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'August borrowing figures set the scene for Healey's budget next month' keeps the ORIGINAL's subject (August borrowing ahead of the budget) and only softens the words (rule 2); 'set the scene' is a euphemism, not an upside."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "'Burnham's growth pledge meets first test as Healey is urged to be bold' reorders the ORIGINAL's headline clauses with the same subject and angle (rule 2)."
+      ]
+    }
+  },
+  {
+    "path": "/business/live/2025/jun/16/oil-price-rise-adverse-shock-global-economy-israel-iran-inflation-petrol-business-live-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Iran is reported to be seeking talks with Israel, sending the FTSE 100 close to a record high' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/business/live/2024/mar/22/uk-interest-rate-cuts-bank-of-england-governor-uk-retail-sales-business-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'The prospect of several interest rate cuts this year is boosting shares, taking the FTSE 100 near a record high' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1190,7 +1604,33 @@
     }
   },
   {
-    "path": "/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims",
+    "path": "/business/live/2023/feb/08/uk-housing-market-sees-marked-slowdown-as-recession-fears-ebb-ftse-100-high-business-live",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'The blue-chip index climbed as the CMA dealt a blow to Microsoft's Activision takeover' links the rise to the CMA ruling; the ORIGINAL reports them as separate items, with the rise attributed to inflation hopes."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Hopes that inflation has peaked lifted the blue-chip FTSE 100 share index to a record high' repeats the headline (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/business/live/2023/nov/07/uk-house-prices-rise-october-halifax-inflation-interest-rates-recession-business-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'The City expects UK interest rate cuts next summer' repeats the headline 'City expects lower interest rates next summer'; drop it or name who is acting."
+      ]
+    }
+  },
+  {
+    "path": "/business/live/2023/feb/06/uk-car-sales-january-ftse-markets-geopolitical-worries-britishvolt-bank-of-england-business-live",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1200,7 +1640,32 @@
     }
   },
   {
-    "path": "/society/2026/aug/28/adhd-autism-costs-england-running-out-of-control-nhs-alliance",
+    "path": "/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 2: 'Badenoch lays claim to the thinking behind most of Jenrick's ideas' keeps the ORIGINAL's subject and angle (Badenoch on Jenrick's ideas) with swapped words.",
+        "Rule 8: the progress line 'Badenoch is making the case that most of Jenrick's ideas are her own thoughts repackaged' repeats the headline and reports no response."
+      ]
+    }
+  },
+  {
+    "path": "/politics/live/2026/jan/14/pmqs-live-digital-id-cards-keir-starmer-kemi-badenoch-labour-conservatives-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'Simon Foster is weighing a report ... before deciding Craig Guildford's fate' restates the headline's 'careful consideration' of the report rather than adding what is being done."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2013/sep/24/labour-conference-ed-milibands-speech-politics-live-blog",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1210,7 +1675,71 @@
     }
   },
   {
-    "path": "/society/2025/may/29/up-to-25-million-people-in-england-could-have-adhd-says-nhs",
+    "path": "/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'Scotland Yard has launched an inquiry into alleged overseas donations' repeats the headline 'Scotland Yard investigates alleged overseas donations'."
+      ]
+    }
+  },
+  {
+    "path": "/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'New PM Burnham sets out 'clear diagnosis' of UK' says he set out a diagnosis of the UK; the ORIGINAL says he says he has a 'clear diagnosis of what has gone wrong' with the UK."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 3: the standfirst opens with the setback 'Brexit brought a 'decade of low growth'' instead of the upside; lead with the tribute to Starmer or the new PM's diagnosis and give the setback second.",
+        "Rule 8: the progress line 'says he has a clear diagnosis of what has gone wrong with the UK' repeats the headline's 'clear diagnosis' and names no action."
+      ]
+    }
+  },
+  {
+    "path": "/politics/live/2026/jan/21/keir-starmer-donald-trump-greenland-uk-politics-live-latest-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'The House of Lords is debating amendments to a bill that could ban under-16s from having social media' repeats the headline 'Peers debate bill that could keep under-16s off social media'."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2022/may/04/dup-donaldson-criticised-over-stormont-boycott-threat",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 1/2: 'Critics challenge DUP's Jeffrey Donaldson over his stance' keeps the ORIGINAL's subject and angle ('Donaldson criticised') with swapped words; the criticism is still the headline.",
+        "Rule 8: the progress line 'Critics are challenging Jeffrey Donaldson over his vow' repeats the headline and credits criticism as a response."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2026/jun/22/jeffrey-donaldson-found-guilty-of-child-sexual-offences-including",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'A court has convicted Jeffrey Donaldson of 18 offences' repeats the headline 'ends in conviction of Jeffrey Donaldson'."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2026/jul/17/jeffrey-donaldson-to-appeal-against-conviction-for-child-sexual-offences",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1220,7 +1749,71 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/may/14/antidepressants-pregnancy-not-raise-childrens-risk-autism-adhd-stud",
+    "path": "/politics/2021/may/03/sir-jeffrey-donaldson-launches-campaign-dup-leader",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'Sir Jeffrey Donaldson has launched a campaign to lead the DUP, standing against Edwin Poots' repeats the headline 'Donaldson takes on Poots'."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2021/jun/21/jeffrey-donaldson-seeks-leadership-of-dup-after-poots-resignation",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'basing his appeal on opposing post-Brexit customs checks' repeats the headline 'Opposition to post-Brexit customs checks at heart of Donaldson's DUP leadership bid' and reports no response."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2026/jun/23/dup-jeffrey-donaldson-denunciation",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 2: 'Denunciation of 'wicked deceiver' Jeffrey Donaldson comes from his own party' reorders the ORIGINAL's headline and keeps its subject (the DUP denouncing Donaldson); build on the party's move to distance itself.",
+        "Rule 8: the progress line 'The DUP is seeking to distance the party from Jeffrey Donaldson' repeats the ORIGINAL headline and restates the rewrite's headline."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2019/jun/30/hate-crime-22-mosques-receive-funding-security-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 2: 'Government scheme funded hate crime security at 22 mosques last year' is the ORIGINAL headline minus 'Just'; it keeps the low-uptake figure as its point. Build on the scheme's existence as capacity instead.",
+        "Rule 8: the progress line 'A government scheme funded hate crime security at 22 mosques last year' repeats the headline word for word."
+      ]
+    }
+  },
+  {
+    "path": "/news/2025/nov/07/uk-mosques-soaring-attacks-british-muslim-trust-flags-christian-nationalist-slogans",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 1: 'documents flags and Christian nationalist slogans in mosque attacks' keeps the attacks as the headline's object; build on the British Muslim Trust's monitoring and move the attacks to the trail.",
+        "Rule 3: the trail opens with the setback 'Between July and October, 25 buildings were targeted in 27 attacks' rather than the upside.",
+        "Rule 8: the progress line 'The British Muslim Trust is recording attacks on UK mosques' repeats the headline."
+      ]
+    }
+  },
+  {
+    "path": "/society/2024/oct/10/religious-hate-crimes-at-record-levels-in-england-and-wales-official-figures-show",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1230,387 +1823,33 @@
     }
   },
   {
-    "path": "/society/2026/aug/26/autism-adhd-care-complaints-england-triple-five-years",
+    "path": "/uk-news/2019/mar/18/uk-muslim-leaders-seek-funding-for-mosque-security",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Rule 7: 'Muslim leaders call for action on bigotry as Warsi seeks mosque security funds' joins two stories; keep the single strongest idea (the call for action or the demand for security funds).",
+        "Rule 3: the trail opens with the setback ''systemic Islamophobia' fuels terror attacks' rather than the upside.",
+        "Rule 8: the progress line 'Muslim leaders have written to the Guardian calling for action on bigotry, and Lady Warsi is demanding more mosque security funds' repeats the headline."
+      ]
     }
   },
   {
-    "path": "/society/2024/apr/04/nhs-faces-avalanche-of-demand-for-autism-and-adhd-services-thinktank-warns",
+    "path": "/world/2024/oct/20/uk-mosques-win-record-security-funding-from-hate-scheme",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Rule 8: the progress line 'The places of worship security scheme issued almost £3m to mosques' repeats the headline 'Almost £3m in record security funding goes to UK mosques'."
+      ]
     }
   },
   {
-    "path": "/us-news/2026/sep/23/trump-xi-ai-trade-geopolitics",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2025/jun/05/donald-trump-xi-jinping-china-phone-call-invitation-trade-tariffs",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2025/oct/29/trump-pentagon-us-nuclear-weapons",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2026/jul/23/trump-administration-trade-tariffs",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/technology/2026/sep/22/ai-doomsday-trump-xi",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2025/sep/25/mahmoud-abbas-israel-genocide-un-speech",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2025/sep/26/benjamin-netanyahu-un-speech-gaza",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2024/sep/27/we-are-winning-benjamin-netanyahu-defies-calls-for-a-ceasefire-in-un-speech",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2025/sep/26/israeli-loudspeakers-broadcast-netanyahu-speech-to-un-gaza",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2024/apr/25/mps-call-for-clarity-over-post-brexit-border-checks-on-eu-plant-and-food-products",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2025/may/22/government-considers-sale-of-brexit-border-checkpoint-in-kent-reports",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2021/dec/29/uk-steel-industry-braces-for-slump-in-trade-as-us-eu-tariffs-abolished",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2025/may/21/brexit-food-control-post-at-portsmouth-may-have-to-be-demolished-says-port-director",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2021/jan/08/percy-pigs-in-ireland-hit-by-brexit-red-tape-as-m-and-s-warns-of-tariffs",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2021/sep/02/brexit-uk-food-drink-exports-eu-disastrous-decline",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2025/jul/30/us-brazil-lula-trump-tariffs",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2026/jul/16/brazil-us-tariffs",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2025/dec/08/us-attack-venezuela-risks-vietnam-style-conflict-lula-adviser",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2025/sep/23/brazil-president-lula-un-speech",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/science/2025/aug/12/uk-recovers-position-horizon-europe-science-research-eu-brexit",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2021/apr/08/almost-all-dutch-made-astrazeneca-doses-will-stay-in-eu-says-brussels",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/politics/2019/jan/16/business-leaders-warn-of-supertanker-gb-heading-for-the-rocks",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/uk-news/2022/feb/14/uk-scottish-government-agree-green-freeports-scotland",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/jul/15/spain-gibraltar-celebrate-deal-signed-border-controls-uk-territory",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/jul/13/us-iran-war-missile-strikes-news-attacks-strait-of-hormuz",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/jul/05/iran-control-strait-of-hormuz-ali-khamenei-funeral",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/apr/13/strait-of-hormuz-blockade-what-why-explained-navy-trump-iran",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/mar/15/uk-china-japan-countries-debating-strait-of-hormuz-ships-iran-you-now",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/23/japan-rice-new-strains-rising-heat-climate",
+    "path": "/society/2023/oct/05/record-rise-hate-crimes-transgender-people-reported-england-and-wales",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1625,128 +1864,78 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'Fossil fuels to be phased out in Germany by 2045 under first such pledge' only reorders the original's clauses into the passive, keeping its subject and angle and dropping Germany as the actor (rule 2); keep 'Germany pledges' as the active subject and find a fresh angle, e.g. the campaigners' 'notable shift away from oil and gas'.",
+        "Progress line 'Germany has pledged for the first time to phase out fossil fuels, with a target of 2045' repeats the headline (rule 8)."
+      ]
     }
   },
   {
     "path": "/environment/2026/sep/24/hanging-on-by-a-thread-11th-hour-decision-to-protect-endangered-birds-from-sa-space-project-plans-welcomed",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'The welcomed decision protects the Eyre peninsula site' is an inference: the ORIGINAL says the decision protects endangered birds from the space project plans, not that it protects the site."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline keeps the threat in 'Birds 'hanging on by a thread'' when the upside (the 11th-hour protection) can carry it alone; move the precarious status to the standfirst (rule 1).",
+        "Progress line 'An 11th-hour decision protects endangered birds on the Eyre peninsula from space project plans in SA' repeats the headline (rule 8); name who made or welcomed the decision if the copy allows, otherwise drop it."
+      ]
     }
   },
   {
-    "path": "/environment/2026/sep/23/bats-originated-in-europe-disease-study-reveals-aoe",
+    "path": "/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "'without air conditioning' in the headline is unsupported: the ORIGINAL only quotes 'We wanted to prove we didn't need air conditioning' and says the airport is cooled by natural ventilation.",
+      "'instead of air conditioning' in the progress line is likewise unsupported by the ORIGINAL, which does not state the terminal has no air conditioning."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line 'Roland Garros airport on Réunion island uses its ceiling design to funnel a tropical breeze into the terminal' repeats the headline and standfirst (rule 8); for a feature with no setback it should be null."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'Rescued moon bears get a piano concert from Rick Wakeman in Vietnam' is a cosmetic reorder of the original, sharing nearly all its words and angle (rule 2), and it demotes the named person acting; build on Wakeman's aim of raising awareness for bears still caged at 'bile farms' or keep him as the subject with a fresh line.",
+        "Progress line 'Rick Wakeman played at a moon bear sanctuary in Vietnam' repeats the headline (rule 8)."
+      ]
     }
   },
   {
-    "path": "/global-development/2026/sep/23/india-lost-art-public-debate-uttar-pradesh",
+    "path": "/world/2026/sep/24/greenland-trump-us-security-agreement-relief",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Progress line 'Greenlanders hope the agreement signed this week will be a step towards independence' repeats the headline and names a hope, not someone acting (rule 8); name who signed the agreement if the copy supports it, or drop the line."
+      ]
     }
   },
   {
-    "path": "/science/2026/sep/23/archaeologists-clues-suburban-life-roman-times-bath",
+    "path": "/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/uk-news/2026/sep/24/police-arrest-far-right-activist-daniel-thomas-after-dinghy-slashed-channel",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/business/2026/sep/25/uk-food-drink-trade-deficit-homegrown-produce-national-security",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
-    "kind": "article",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Progress line 'Experts are working on a DNA database of UK dogs that could identify breeds involved in crimes' repeats the headline and standfirst (rule 8); it needs a distinct action or should be dropped."
+      ]
     }
   }
 ]
