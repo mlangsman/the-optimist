@@ -12,13 +12,15 @@
   {
     "path": "/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel",
     "kind": "article",
-    "ok": false,
-    "issues": [
-      "\"Magistrates have refused bail\" attributes the refusal to magistrates; the ORIGINAL says only that Thomas \"was refused bail\" at Basingstoke magistrates court and does not say who decided it."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Opening paragraph leads with the setback ('who was filmed apparently slashing a boat in the Channel with a blade while an emergency responder was onboard') before the upside, breaking rule 3; open with the court refusing bail and the crown court hearing.",
+        "Headline 'refused bail and sent to crown court' strings two procedural steps together with 'and' (rule 7); keep the single strongest idea, the court refusing bail, or build on the RNLI supporting the migrants' boat.",
+        "Progress line 'a hearing will take place at Portsmouth crown court on 29 September' repeats the headline's 'sent to crown court' and the standfirst (rule 8); name a distinct action, such as the prosecutor setting out the case or police holding his phone."
+      ]
     }
   },
   {
@@ -39,9 +41,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "\"Court hears victims' accounts at pre-sentencing hearing\" is procedural (rule 7); build on the prosecutors seeking a jail term of more than 10 years, which is the concrete step towards justice in the copy.",
-        "The standfirst opens with the harm, \"how childhood abuse by Donaldson ... affected their lives\", and gives the more-than-10-years case second (rule 3); open with the prosecution's call for more than 10 years and then the abuse.",
-        "The opening paragraph leads with how the women \"have been affected by the abuse\" rather than the upside (rule 3); lead with the prosecution's case and the sentencing next month."
+        "Progress line ends 'Donaldson is expected to be sentenced next month', repeating the headline's 'faces sentencing next month' (rule 8); keep it to the prosecution's case on the aggravating factor."
       ]
     }
   },
@@ -73,7 +73,8 @@
     "tone": {
       "ok": false,
       "issues": [
-        "\"Manchester City guilty on almost all charges, reports say – live reaction\" keeps the ORIGINAL's subject and angle and only reorders its words (rule 2); build on the charges being upheld against the club, i.e. the case holding the club to account."
+        "Headline 'Reported guilty verdict holds Manchester City to account on almost all charges' keeps the original's subject and wording (guilty verdict, almost all charges) and swaps in a phrase: a cosmetic edit (rule 2).",
+        "'holds Manchester City to account' is the procedural construction rule 7 warns against when the copy offers a concrete outcome, the reported guilty verdict itself; say that plainly."
       ]
     }
   },
@@ -95,7 +96,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "No progress line although the ORIGINAL reports a response, the court refusing bail and the charges being brought (rule 8); add one, e.g. that the court has refused Thomas bail while he contests the charges."
+        "Progress line 'the court has refused him bail while he denies the charges' repeats the headline 'Court refuses bail' (rule 8); name a distinct action from the copy, such as the charges being brought."
       ]
     }
   },
@@ -112,29 +113,27 @@
   {
     "path": "/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'The Bank of England governor sets out the Iran war's effect' attributes the Iran war link to Bailey; the ORIGINAL states the Iran war drives diesel prices in its own voice and attributes to Bailey only the remark about persistently high oil and gas prices.",
+      "'with UK diesel near a record high' drops the ORIGINAL's causal claim that the Iran war 'drives' the UK diesel price to near record high, and folds it into Bailey's remarks."
+    ],
     "tone": {
       "ok": false,
       "issues": [
-        "\"Andrew Bailey sets out Bank of England thinking on energy prices\" is a vague, procedural headline that hides what he actually said, which was about raising interest rates (rules 5 and 7); where the copy has no genuine upside, state Bailey's warning calmly and plainly.",
-        "The trail opens with the setback (\"would make it hard to resist pressure to raise interest rates\") and has no constructive element before it (rule 3)."
+        "Headline 'persistently high oil and gas prices would make rate rise hard to resist' still carries the setback (high prices, a rate rise) as its whole subject (rule 1).",
+        "The headline lifts the ORIGINAL's trail almost word for word ('would make it hard to resist pressure to raise interest rates'), keeping the original's angle: a cosmetic edit (rule 2). If the copy offers no upside, lead calmly with the governor setting out the outlook rather than on the rate rise."
       ]
     }
   },
   {
     "path": "/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "\"The media organisation reports that Labour has rejected its journalists from the party conference for the third year\" attributes the third-year rejection to Declassified; the ORIGINAL states it as fact in its own voice and attributes only the three denied passes to the organisation."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "\"Declassified says three of its journalists denied Labour conference passes\" keeps the ORIGINAL's subject and angle and adds only an attribution (rule 2); the setback, the denial of passes, is still the whole point of the headline (rule 1).",
-        "Headline and trail together leave only the exclusion, with nothing constructive (rule 3); if Declassified speaking up is the only upside, the story is at most a 1 and should be scored that way rather than published as a reworded original."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -145,21 +144,19 @@
     "tone": {
       "ok": false,
       "issues": [
-        "No progress line although the ORIGINAL reports a response, prosecutors asking the court to jail Donaldson for more than 10 years (rule 8); add one naming the prosecutors and what they are asking for."
+        "Progress line 'Prosecutors are asking the court to jail the former DUP leader for more than 10 years' repeats the headline almost word for word (rule 8); name a distinct action, such as prosecutors arguing the age gap is an aggravating factor."
       ]
     }
   },
   {
     "path": "/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "\"after the Southport disorder, which the government's anti-Islamophobia partner says highlights the hostility Muslims face\" attaches the claim to the Southport disorder; the ORIGINAL says it is the record £66m funding that highlights the hostility Muslims face."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": false,
       "issues": [
-        "No progress line although the ORIGINAL reports a clear response, the Home Office giving mosques a record £66m in emergency security funds (rule 8); add one naming the Home Office and the funding."
+        "Progress line 'The Home Office has given mosques a record £66m in emergency security funds' restates the headline 'Home Office steps up protection for mosques with record emergency funds' (rule 8); it needs to add something the headline does not say, or be dropped."
       ]
     }
   },
@@ -226,10 +223,8 @@
   {
     "path": "/global-development/ng-interactive/2026/sep/25/we-skate-on-the-rooftops-of-damaged-buildings-a-day-in-the-life-a-skateboarder-in-gaza",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "\"where, he says, 'we skate on the rooftops of damaged buildings' and finding boards and safe spaces is a daily challenge\" attributes both the quote and the daily-challenge claim to Rajab al-Reefi; the ORIGINAL does not say who is quoted and states the daily challenge in its own voice."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": true,
       "issues": []
@@ -248,16 +243,13 @@
   {
     "path": "/media/2026/sep/25/bbc-sport-digital-revamp-raises-questions-over-purpose",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "\"with the corporation's purpose in focus\" says the revamp is deliberately focused on the BBC's purpose; the ORIGINAL says the revamp \"poses wider questions about purpose of the corporation\".",
-      "\"BBC Sport embarks on a digital revamp\" says the revamp is only now beginning; the ORIGINAL does not say when it started."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": false,
       "issues": [
-        "\"BBC Sport embarks on a digital revamp with the corporation's purpose in focus\" keeps the ORIGINAL's subject (the revamp) and turns \"poses wider questions about purpose\" into a euphemism (rule 2); build on what the revamp does and how it reaches audiences, if the copy supports that.",
-        "The trail opens with the setback (\"poses wider questions about the BBC's purpose, as some staff fear...\") rather than with the upside (rule 3)."
+        "Headline 'What BBC Sport's digital revamp means for minority sports and older viewers' is built on the staff fears (minority sports and older viewers left behind), so the threat is still its subject (rule 1); build on the revamp itself.",
+        "Trail opens with the setback ('poses wider questions about the corporation's purpose, with some staff fearing…') and gives no upside first (rule 3)."
       ]
     }
   },
@@ -269,7 +261,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "The progress line \"Illegal dumping of toxic waste in Gospić has sparked national calls in Croatia for a clean-up\" names no actor, has the dumping as its subject and repeats the trail (rule 8); name the residents and what they are doing about the flytipping."
+        "Progress line 'have decided to act themselves' repeats the headline 'take matters into their own hands' (rule 8); use the national calls for a clean-up or say concretely what the residents did."
       ]
     }
   },
@@ -381,8 +373,8 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'Surely the Christian right has more pressing issues than Meryl Streep's Aslan' is a cosmetic edit (rule 2): it keeps the ORIGINAL's angle and wording, turning the rhetorical question into a sneer.",
-        "The headline is still about the Christian right's anger (rule 1); build it on Streep voicing Narnia's wise lion in Greta Gerwig's adaptation of The Magician's Nephew, and put the evangelical fury in the trail."
+        "For an opinion piece the headline 'Meryl Streep voices Narnia's wise lion…' drops the writer's argument rather than turning it forward (rule 6); make the case that critics have more pressing issues than Streep's casting.",
+        "Trail opens with the setback ('has angered the Christian right, leading to roars of fury') rather than the upside (rule 3), and ends on a question."
       ]
     }
   },
@@ -399,13 +391,14 @@
   {
     "path": "/commentisfree/2026/sep/24/the-guardian-view-on-a-supersized-el-nino-a-natural-phenomenon-and-human-folly-are-a-lethal-combination",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'tackle the injustice, not just the weather' presents the editorial as calling for action on injustice and the weather; the ORIGINAL says only that 'this is not just about weather patterns, but about injustice'."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline and trail swap the ORIGINAL's clauses ('not just weather, but injustice' moved up, 'lethal combination' moved down) and keep its angle: a cosmetic edit (rule 2).",
+        "The editorial's argument is not turned into the forward-facing demand it implies, tackling the injustice behind the El Niño's toll (rule 6); the trail opens on 'a lethal combination' and ends on deaths and hunger, with no upside first (rule 3)."
+      ]
     }
   },
   {
@@ -434,10 +427,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "The trail opens with 'the low uptake of apprenticeship schemes', so the setback comes first (rule 3); lead with the letter-writers arguing apprenticeships should be made more accessible."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -483,17 +474,11 @@
   {
     "path": "/football/2026/sep/25/sebastien-pocognoli-scotland-scottish-fa-slovenia",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'a chance for the Scottish FA to prove their credentials' weakens the ORIGINAL's 'Scottish FA must also prove their credentials' from an obligation into an opportunity."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'Time for Pocognoli, and a chance for the Scottish FA to prove their credentials' is a cosmetic reordering of the ORIGINAL's two-part headline, joined by 'and' (rules 2 and 7); keep one idea, that Pocognoli deserves time.",
-        "'a chance for' softens the writer's argument that the Scottish FA 'must' prove their credentials (rule 6).",
-        "'Time for Pocognoli' is ambiguous and could read as his time being up (rule 4)."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -529,15 +514,12 @@
   {
     "path": "/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'Critics of Gaza war' narrows the ORIGINAL, which says only that the Israeli PM 'attacks critics', without specifying critics of the war."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": false,
       "issues": [
-        "'Critics of Gaza war and New York mayor targeted' is ambiguous: it can read as critics of both the war and the mayor (rule 4); the passive 'targeted in' also breaks the active-headline style.",
-        "The headline keeps the ORIGINAL's angle of Netanyahu attacking critics, just recast in the passive (rule 2); if the copy has no upside, write a calm, plain active headline instead."
+        "Headline 'addresses Israel's war in Gaza and Zohran Mamdani' joins two separate stories with 'and' (rule 7) and is vague; pick one idea and state it plainly."
       ]
     }
   },
@@ -547,11 +529,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'Soaring demand ... leads to two-year minimum wait' keeps the setback as the headline's subject and uses 'surge'/'wait' language (rules 1 and 3); build on patient groups speaking up about the delays, or score it a 1.",
-        "The headline reorders the ORIGINAL's facts without changing its angle (rule 2)."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -602,7 +581,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "The trail opens with 'the catastrophic effects of vital ecosystems collapsing' and ends on the suppression, so the reader meets decline first (rule 3); lead with the report's warnings now coming to light after going unpublished under the previous prime minister."
+        "Headline 'What the UK's climate national security report reveals, and why it matters' keeps the ORIGINAL's angle ('Why is … significant?') with the words swapped: a cosmetic edit (rule 2). Knowledge counts as an upside only when the copy shows it being acted on, and it is not here."
       ]
     }
   },
@@ -634,31 +613,25 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'Public data was not affected' is past tense and gives no clue what happened, which reads as reassurance rather than news (rule 4); make it a present-tense headline that says what the force reports, for example that it has contained the attack to non-emergency systems, as the copy supports."
+        "Headline 'public data is not affected by cyber incident' still names the attack (rule 1), and the trail's opening 'says public data was not affected' repeats the headline instead of developing it."
       ]
     }
   },
   {
     "path": "/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'£1m community bid' implies the bid was worth £1m; the ORIGINAL says locals raised £1m for the scheme."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'loses out to London firm' puts the setback in the headline (rule 1); build on the upside that Frome locals raised £1m for a community regeneration scheme, and put the council's rejection in the trail."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
     "path": "/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'NHS England is piloting the test' makes NHS England the body running the pilot; the ORIGINAL says only that NHS England says the test 'is being piloted in five centres'."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": true,
       "issues": []
@@ -672,7 +645,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'11-year sentence reduced several times since 2022' leads with background about her prison sentence and is passive and agentless, while the real development, her reported transfer to a halfway home next year, is pushed down to the trail (rules 1 and 4); lead with the transfer."
+        "'Halfway home transfer next year reported for Theranos founder Elizabeth Holmes' is the ORIGINAL headline's words reordered into a passive noun stack, breaking the active present-tense headline voice (rule 4) and reading as a cosmetic edit (rule 2); lead plainly with Holmes and the reported transfer, with the reduced sentences in the trail."
       ]
     }
   },
@@ -684,8 +657,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'Critics say Meloni is worried about losing far-right voters' just lifts the ORIGINAL's standfirst into the headline and keeps the angle of critics attacking the PM (rule 2).",
-        "The headline carries the criticism, and the decree itself, the actual news, is missing from it (rules 1 and 5); state the decree plainly and attribute the critics' reading in the trail."
+        "'Meloni decree caps foreign children in classrooms and bans burqa in schools' makes the restrictive measures themselves the subject of the headline (rule 1), leaving headline and trail with no sense of progress (rule 3); build on the critics holding the PM to account and her reported worry about losing voters."
       ]
     }
   },
@@ -704,14 +676,12 @@
     "kind": "preview",
     "ok": false,
     "issues": [
-      "The headline 'Alternative Saudi oil route and Taif defended against wave of Houthi missiles' states the targets as fact, whereas the ORIGINAL attributes the claim that the missiles were aimed at Taif and the Yanbu area to the Saudi-led coalition in Yemen.",
-      "'Alternative Saudi oil route' drops 'main'; the ORIGINAL calls the Yanbu area on the Red Sea 'the main alternative route for Saudi oil'."
+      "'Saudi Arabia intercepts missiles aimed at Taif and Yanbu, Saudi-led coalition says' attributes the interception to the coalition, whereas the ORIGINAL attributes to the coalition only the statement of where the missiles were aimed."
     ],
     "tone": {
       "ok": false,
       "issues": [
-        "'defended against wave of Houthi missiles' keeps the threat in the headline (rule 1); build it on the interception alone, eg Saudi Arabia protecting Taif and its main Red Sea oil route, and give the missiles in the standfirst.",
-        "'Alternative Saudi oil route and Taif defended' is an agentless passive headline that drops Saudi Arabia, the actor, breaking house style (active headlines, lead with who acted); name Saudi Arabia as the subject."
+        "The trail opens with 'The Yanbu area on the Red Sea is the main alternative route for Saudi oil', stressing the threat rather than opening with the upside (rule 3); open the trail with the interception and give the one-week oil high second."
       ]
     }
   },
@@ -723,8 +693,8 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'Union speaks up for BBC TV and radio amid £500m savings plan' keeps the cuts in the headline after 'amid' and dresses the union's criticism up as an upside (rules 1 and 3); the copy offers no response beyond the warning, so this is a 0 or 1 and needs a plain headline, not a strained one.",
-        "The standfirst opens with the setback ('risks entering inescapable doom spiral ... further cuts hit TV and radio') rather than an upside (rule 3)."
+        "'BBC's £500m savings plan reaches local specialist correspondent roles' is still the job cuts as the point of the headline, with 'reaches' a euphemism for cuts (rules 1 and 5); the brief names 'BBC cuts local correspondent roles' as a failing headline, so either find a real upside or score it 0 or 1 plainly.",
+        "The trail opens with 'The corporation is cutting local specialist correspondent roles' rather than any upside, so headline and trail read as decline (rule 3)."
       ]
     }
   },
@@ -751,13 +721,14 @@
   {
     "path": "/business/2026/sep/24/housebuilder-vistry-slashes-profit-forecasts-as-losses-balloon",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'Poor summer home sales' drops 'private'; the ORIGINAL says the firm blamed poor summer sales of private homes."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Poor summer sales of private homes behind Vistry's cost-cutting plan' keeps the setback (poor sales, cost-cutting) as the headline's subject (rule 1); the brief names 'Vistry unveils cost-cutting plan, including job cuts' as failing, so lead with any response the copy offers or score it honestly low.",
+        "The trail 'sharply cut its profit forecasts as its losses grow rapidly' gives only decline, with no upside first (rule 3)."
+      ]
     }
   },
   {
@@ -806,10 +777,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "The progress line 'TV heads hope the revamped Play School will win over parents looking for quality shows' restates the trail's hope rather than naming anyone doing anything (rule 8); either name the BBC's action on children's programming without repeating the headline, or use null."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1065,13 +1034,13 @@
   {
     "path": "/money/2026/sep/23/couples-putting-off-divorce-due-to-cost-of-living-crisis-in-england-and-wales",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "The headline 'Money worries may be keeping unhappy couples together, say divorce lawyers' adds a hedge ('may'); the ORIGINAL has the lawyers saying unhappy couples are staying put due to the cost of living crisis."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Divorce lawyers say cost of living crisis is keeping unhappy couples in place' is the ORIGINAL headline reworded with the same subject and angle (rule 2); if the copy has no upside, say so with a score of 0 or 1 rather than a cosmetic reorder."
+      ]
     }
   },
   {
@@ -1347,10 +1316,8 @@
   {
     "path": "/football/live/2025/jan/24/premier-league-wsl-team-news-transfers-football-news-live",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'Tottenham rue another key injury: a Solanke blow for Spurs' states that the Solanke blow is the injury, a link the ORIGINAL does not make; it lists 'Solanke blow for Spurs' and 'Tottenham rues another key injury' separately."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": true,
       "issues": []
@@ -1414,23 +1381,18 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'No date for 3 per cent defence spending target in Healey's budget' still carries the setback and is a cosmetic rewording of the ORIGINAL's headline (rules 1 and 2); build on the roadmap for raising defence's share of GDP coming in next year's review.",
-        "The trail opens with the deferral rather than an upside (rule 3); lead with the roadmap and next year's review, then the missing date."
+        "'Roadmap for increasing defence share of GDP set for next year's review' dresses the deferral up as a plan: the delay is still the point of the headline (rule 1) and it is a procedural step rather than an outcome (rule 7); this is at most a 1 and should be scored as such."
       ]
     }
   },
   {
     "path": "/business/2026/jul/31/john-healey-budget-late-october",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'Healey's pledge for late October' turns the ORIGINAL's scheduling fact (Healey 'sets budget for late October') into a pledge, and the REWRITE no longer states that he set the budget date."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'Healey's pledge for late October: a budget that shares money and power' keeps the ORIGINAL's subject and angle with words swapped and reordered (rule 2), and the verbless label construction is weaker than an active present-tense headline such as Healey setting a late-October budget to spread money and power around the UK."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1439,10 +1401,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'Tax rises now 'inevitable' in next month's budget, say some economists' swaps one setback for another as the headline subject (rule 1) and leaves the reader feeling worse (rule 3); the ORIGINAL's next step, Healey's budget next month, is the element to build on, with the £18bn borrowing and the tax forecast in the trail."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1498,10 +1458,8 @@
   {
     "path": "/business/live/2023/nov/07/uk-house-prices-rise-october-halifax-inflation-interest-rates-recession-business-live",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'The oil price also drops as the City expects interest rate cuts in 2024' ties the oil price fall to rate expectations; the ORIGINAL reports the oil price drop separately and links only the fall in bond yields to the City expecting cuts."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": true,
       "issues": []
@@ -1525,7 +1483,8 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'Badenoch claims Tory party was close to bankruptcy when she took over' promotes a harm into the headline, making it bleaker than the ORIGINAL's (rules 1 and 3); lead on Badenoch setting out her own position (Jenrick's ideas mostly 'my thoughts repackaged') and give the near-bankruptcy claim in the trail."
+        "'Badenoch lays claim to Jenrick's ideas as mostly \"my thoughts repackaged\"' keeps the ORIGINAL's subject and angle with words swapped (rule 2), and 'lays claim to' adds a sneer the ORIGINAL does not carry (rule 4).",
+        "The trail 'In live coverage of UK politics, the Tory leader, who took over last year, also claims ... when she did so' is clumsy and gives no upside first (rule 3)."
       ]
     }
   },
@@ -1582,12 +1541,14 @@
   {
     "path": "/politics/2022/may/04/dup-donaldson-criticised-over-stormont-boycott-threat",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline's 'Stormont power-sharing vow' obscures that the ORIGINAL's vow is a boycott threat not to revive power sharing until the Brexit protocol is ditched, and could be read as a vow in favour of power sharing."
+    ],
     "tone": {
       "ok": false,
       "issues": [
-        "'DUP's Jeffrey Donaldson ties Stormont power sharing to ditching of Brexit protocol' breaks rule 2: it keeps the ORIGINAL's subject (Donaldson and his boycott threat) and restates the threat in neutral words; the threat is still the point of the headline (rule 1). The only material in the copy is the critics holding him to account; if that cannot carry a headline, score the story 0 or 1 rather than disguising the threat."
+        "'Critics challenge DUP leader Jeffrey Donaldson over Stormont power-sharing vow' is the ORIGINAL's criticism angle turned from passive to active (rule 2), and softens 'boycott threat' into 'power-sharing vow' in the headline (rule 5)."
       ]
     }
   },
@@ -1637,10 +1598,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'Democratic Unionists denounce former leader Jeffrey Donaldson as a 'wicked deceiver'' breaks rule 2: it keeps the ORIGINAL's subject and angle (the DUP distancing itself from Donaldson) and swaps 'seeks to distance' for 'denounce'; it also keeps the scandal's insult as the headline's point. The copy offers little else, so either build on the party's response to the conviction without the insult or score it honestly as a 1."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1649,10 +1608,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "The standfirst opens 'Funding under the scheme reached just 22 mosques last year', which is the setback, and breaks rule 3: the standfirst must first develop the upside (the scheme and the security funding it offers) and give the low uptake and Prevent distrust second."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1663,8 +1620,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "'British Muslim Trust figures bring attacks on UK mosques into the open' breaks rule 1: the attacks are still the subject in all but grammar, and the brief says knowledge counts as an upside only when the copy shows it acted on, which it does not. 'Bring into the open' also borrows the rail example's better-reporting angle, which this copy does not support, since it calls the attacks 'soaring'. This is a 0 or 1 story; score it honestly.",
-        "The standfirst opens 'According to the trust, 25 buildings were targeted in 27 attacks', which is the setback, and breaks rule 3."
+        "'British Muslim Trust counts 27 attacks on UK mosques between July and October' keeps the attacks as the point of the headline with the trust as a grammatical subject only (rule 2); the brief says counting a problem is not an upside unless it is acted on, so score it honestly low rather than recasting it."
       ]
     }
   },
@@ -1684,10 +1640,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "'Muslim leaders call for action on bigotry' breaks rule 1: the harm ('bigotry') is still the object of the headline when the copy offers Lady Warsi's demand for more security funds for UK mosques, which could lead without it. Both are only calls, so score the story 1."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1733,10 +1687,8 @@
   {
     "path": "/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "'Réunion's airport terminal' implies it is the island's only airport; the ORIGINAL names only 'Roland Garros airport on Réunion island'."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": true,
       "issues": []
@@ -1745,12 +1697,17 @@
   {
     "path": "/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'a sanctuary's rescued moon bears' drops the number: the ORIGINAL says the concert was performed to 150 rescued moon bears.",
+      "'a sanctuary' and 'the sanctuary' drop the place: the ORIGINAL says the sanctuary is in Vietnam, which appears nowhere in the REWRITE."
+    ],
     "tone": {
       "ok": false,
       "issues": [
-        "'to raise awareness of caged animals' breaks rules 1 and 5 in reverse: the rewrite has moved a harm (animals in cages) into the headline and pushed the ORIGINAL's upside, the '150 rescued moon bears', down to the standfirst. Lead with Wakeman playing to the 150 rescued moon bears, and keep the bile-farm cages in the standfirst."
+        "'Former Yes musician gives a piano recital for a sanctuary's rescued moon bears' keeps the ORIGINAL's subject and angle and only swaps words ('performs piano concert' to 'gives a piano recital', 'Rick Wakeman' to 'Former Yes musician'), a cosmetic edit under rule 2; build it on the person and the outcome, eg Rick Wakeman playing for 150 bears rescued to a Vietnam sanctuary.",
+        "'The former Yes musician plays at the sanctuary to raise awareness of animals that remain stuck in cages at 'bile farms'' repeats the ORIGINAL standfirst almost word for word, a cosmetic edit under rule 2; develop the upside of the 150 rescued bears first, then state the bears still caged at bile farms.",
+        "The headline replaces the named person 'Rick Wakeman' with 'Former Yes musician' and drops the concrete '150' and 'Vietnam', leaving a vaguer, less human line than the ORIGINAL offered; lead with the named musician and the 150 rescued bears."
       ]
     }
   },
