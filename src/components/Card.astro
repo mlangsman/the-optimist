@@ -43,9 +43,6 @@ const showImage = Boolean(card.image);
 // As on the Guardian's front, only the splash and full-width cards carry a
 // trail, and news cards carry no byline at all.
 const showTrail = Boolean(card.trail) && (variant === 'splash' || variant === 'wide');
-// The "What's being done" line is The Optimist's own addition: it runs on
-// every card big enough to hold it.
-const showProgress = Boolean(card.progress) && variant !== 'small' && variant !== 'highlight';
 ---
 
 <article class:list={['card', `card--${variant}`]} data-pillar={cardPillar} data-linked={String(card.linked)}>
@@ -80,14 +77,6 @@ const showProgress = Boolean(card.progress) && variant !== 'small' && variant !=
 			</Heading>
 
 			{showTrail && <p class="card__trail">{card.trail}</p>}
-
-			{
-				showProgress && (
-					<p class="card__progress">
-						<span class="card__progress-label">What’s being done</span> {card.progress}
-					</p>
-				)
-			}
 		</div>
 	</div>
 </article>
@@ -174,21 +163,6 @@ const showProgress = Boolean(card.progress) && variant !== 'small' && variant !=
 		font-size: var(--size-sans-14);
 		line-height: var(--leading-sans);
 		color: var(--card-trail-text);
-	}
-
-	.card__progress {
-		font-family: var(--font-sans);
-		font-size: var(--size-sans-14);
-		line-height: var(--leading-sans);
-		color: var(--neutral-20);
-		border-left: 3px solid var(--brand-400);
-		padding-left: var(--space-2);
-	}
-
-	.card__progress-label {
-		display: block;
-		font-weight: 700;
-		color: var(--brand-400);
 	}
 
 	@media (min-width: 980px) {

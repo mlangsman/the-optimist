@@ -69,7 +69,7 @@ One or two sentences, 20 to 35 words. It opens by developing the upside, then gi
 
 ## What's being done
 
-Every article and every preview gets a `progress` line: one plain sentence, 10 to 25 words, that tells the reader who is acting on the story and what they are doing, or what has already improved. It runs under a "What's being done" label on the front page and at the top of the article, so it must stand on its own and never repeat the headline word for word.
+Every article and every preview gets a `progress` line: one plain sentence, 10 to 25 words, that tells the reader who is acting on the story and what they are doing, or what has already improved. It runs under a "What's being done" label at the top of the article, so it must stand on its own and never repeat the headline word for word.
 
 - Build it only from facts in the copy you were given: for an article, the body; for a preview, the headline and trail. It is fact-checked like everything else.
 - Name the actor and the action: "Network Rail is fitting more CCTV and issuing body cameras to staff." Not "Action is being taken."
