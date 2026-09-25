@@ -1,7 +1,7 @@
 {
   "/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live": {
-    "headline": "Manchester City guilty on almost all charges, reports say – live reaction",
-    "trail": "Rolling report: get updates and reaction as news emerges of a reported guilty verdict on almost all of the charges against Manchester City.",
+    "headline": "Reported guilty verdict holds Manchester City to account on almost all charges – live",
+    "trail": "Rolling report: reports are emerging that Manchester City have been found guilty on almost all charges – get updates and reaction as the news emerges.",
     "progress": null,
     "upside": 1
   },
@@ -12,9 +12,9 @@
     "upside": 0
   },
   "/uk-news/2026/sep/25/daniel-thomas-court-charged-criminal-damage-dinghy-channel": {
-    "headline": "Court refuses bail to far-right activist Daniel Thomas",
-    "trail": "Thomas now faces charges after being filmed appearing to slash a boat with a blade in the Channel; he has pleaded not guilty and denies the charges.",
-    "progress": null,
+    "headline": "Court refuses bail to far-right activist Daniel Thomas over Channel dinghy",
+    "trail": "Charges have been brought against the far-right activist, who was filmed appearing to slash a boat with a blade in the Channel; he has pleaded not guilty and denies them.",
+    "progress": "Thomas has been charged over the alleged dinghy slashing, and the court has refused him bail while he denies the charges.",
     "upside": 1
   },
   "/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury": {
@@ -24,27 +24,27 @@
     "upside": 2
   },
   "/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates": {
-    "headline": "Andrew Bailey sets out Bank of England thinking on energy prices – business live",
-    "trail": "The Bank of England governor says persistently high oil and gas prices would make it hard to resist pressure to raise interest rates, as the Iran war drives UK diesel near a record high.",
-    "progress": null,
-    "upside": 1
-  },
-  "/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates": {
-    "headline": "Declassified says three of its journalists denied Labour conference passes – UK politics live",
-    "trail": "The media organisation reports that Labour has rejected its journalists from the party conference for the third year, with three of them denied media passes.",
+    "headline": "Bailey: persistently high oil and gas prices would make rate rise hard to resist",
+    "trail": "The Bank of England governor sets out the Iran war’s effect: persistently high oil and gas prices would make it hard to resist pressure to raise interest rates, with UK diesel near a record high.",
     "progress": null,
     "upside": 0
+  },
+  "/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates": {
+    "headline": "Declassified puts Labour conference press access in the spotlight – UK politics live",
+    "trail": "The media organisation reports that three of its journalists were denied media passes, as Labour rejects Declassified journalists from its party conference for the third year.",
+    "progress": null,
+    "upside": 1
   },
   "/uk-news/2026/sep/25/jeffrey-donaldson-should-get-more-than-10-years-jail-for-child-sexual-abuse-court-told": {
     "headline": "Prosecutors make case for jailing Jeffrey Donaldson for more than 10 years",
     "trail": "The age difference between the former Democratic Unionist party leader and his victims of child sexual abuse is an aggravating factor, prosecutors told the court.",
-    "progress": null,
+    "progress": "Prosecutors are asking the court to jail the former DUP leader for more than 10 years for child sexual abuse.",
     "upside": 1
   },
   "/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder": {
     "headline": "Home Office steps up protection for mosques with record emergency funds",
-    "trail": "Mosques have been given a record £66m in emergency security funds after the Southport disorder, which the government’s anti-Islamophobia partner says highlights the hostility Muslims face.",
-    "progress": null,
+    "trail": "The record £66m in emergency security funds follows the Southport disorder, and the government’s anti-Islamophobia partner says the sum highlights the hostility Muslims face.",
+    "progress": "The Home Office has given mosques a record £66m in emergency security funds after the Southport disorder.",
     "upside": 2
   },
   "/music/2026/sep/25/woman-who-accused-jay-z-of-raping-her-aged-13-says-claims-were-false": {
@@ -85,7 +85,7 @@
   },
   "/global-development/ng-interactive/2026/sep/25/we-skate-on-the-rooftops-of-damaged-buildings-a-day-in-the-life-a-skateboarder-in-gaza": {
     "headline": "Rajab al-Reefi teaches Gaza’s children to skate to ‘bring some joy’",
-    "trail": "A day in the life of a skateboarder in Gaza, where, he says, ‘we skate on the rooftops of damaged buildings’ and finding boards and safe spaces is a daily challenge.",
+    "trail": "A day in the life of a skateboarder in Gaza: ‘We skate on the rooftops of damaged buildings’, and finding boards and safe spaces is a daily challenge.",
     "progress": null,
     "upside": 2
   },
@@ -96,15 +96,15 @@
     "upside": 3
   },
   "/media/2026/sep/25/bbc-sport-digital-revamp-raises-questions-over-purpose": {
-    "headline": "BBC Sport embarks on a digital revamp with the corporation’s purpose in focus",
-    "trail": "The revamp poses wider questions about the BBC’s purpose, as some staff fear the digital approach will pull it towards a commercial model built around football, leaving minority sports and older TV viewers behind.",
+    "headline": "What BBC Sport’s digital revamp means for minority sports and older viewers",
+    "trail": "BBC Sport’s digital revamp poses wider questions about the corporation’s purpose, with some staff fearing it will pull the BBC towards a commercial model built around football, leaving minority sports and older TV viewers behind.",
     "progress": null,
-    "upside": 1
+    "upside": 0
   },
   "/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic": {
     "headline": "Fed-up residents of Croatian town Gospić take matters into their own hands",
     "trail": "Their action follows years of illegal mass flytipping in the town, where the illegal dumping of toxic waste has sparked national calls for a clean-up.",
-    "progress": "Illegal dumping of toxic waste in Gospić has sparked national calls in Croatia for a clean-up.",
+    "progress": "Gospić residents, fed up with years of illegal mass flytipping, have decided to act themselves, amid national calls for a clean-up.",
     "upside": 2
   },
   "/music/2026/sep/25/mnek-music-interview-uzoechi-osisioma-emenike-bulldozer-album": {
@@ -168,8 +168,8 @@
     "upside": 2
   },
   "/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig": {
-    "headline": "Surely the Christian right has more pressing issues than Meryl Streep’s Aslan",
-    "trail": "The Oscar-winner is voicing Narnia’s wise lion in Greta Gerwig’s adaptation of The Magician’s Nephew, a casting that has drawn roars of fury from US evangelical commentators.",
+    "headline": "Meryl Streep voices Narnia’s wise lion in Greta Gerwig’s The Magician’s Nephew",
+    "trail": "The Oscar-winner’s casting as Aslan has angered the Christian right, leading to roars of fury from US evangelical commentators. Don’t they have more pressing issues?",
     "progress": null,
     "upside": 2
   },
@@ -180,8 +180,8 @@
     "upside": 1
   },
   "/commentisfree/2026/sep/24/the-guardian-view-on-a-supersized-el-nino-a-natural-phenomenon-and-human-folly-are-a-lethal-combination": {
-    "headline": "The Guardian view on a supersized El Niño: tackle the injustice, not just the weather",
-    "trail": "Editorial: This is not just about weather patterns but about injustice – human folly combining with a natural phenomenon, as hundreds of thousands are expected to die and millions to go hungry.",
+    "headline": "The Guardian view on a supersized El Niño: not just weather, but injustice",
+    "trail": "Editorial: A natural phenomenon and human folly are a lethal combination, and this is about injustice as well as weather patterns. Hundreds of thousands are expected to die, millions to go hungry.",
     "progress": null,
     "upside": 0
   },
@@ -199,7 +199,7 @@
   },
   "/education/2026/sep/24/apprenticeships-need-to-be-made-more-accessible": {
     "headline": "Readers make the case for opening up apprenticeships to more people",
-    "trail": "Letters: Dr Gillian McIver and Don Macdonald respond to an article on the low uptake of apprenticeship schemes, arguing they need to be made more accessible.",
+    "trail": "Letters: Dr Gillian McIver and Don Macdonald argue that apprenticeships need to be made more accessible, responding to an article on the low uptake of apprenticeship schemes.",
     "progress": null,
     "upside": 1
   },
@@ -228,8 +228,8 @@
     "upside": 2
   },
   "/football/2026/sep/25/sebastien-pocognoli-scotland-scottish-fa-slovenia": {
-    "headline": "Time for Pocognoli, and a chance for the Scottish FA to prove their credentials",
-    "trail": "Scotland’s head coach deserves time, though as an unproven appointment he represents a gamble by an organisation that could do without another embarrassing episode.",
+    "headline": "Why Pocognoli deserves time as Scotland’s head coach",
+    "trail": "Scotland’s unproven head coach deserves time, but he represents a gamble by an organisation who could do without another embarrassing episode, and the Scottish FA must also prove their credentials.",
     "progress": null,
     "upside": 1
   },
@@ -252,16 +252,16 @@
     "upside": 2
   },
   "/us-news/2026/sep/24/netanyahu-un-speech-mahmoud-abbas": {
-    "headline": "Critics of Gaza war and New York mayor targeted in Netanyahu’s UN speech",
-    "trail": "The Israeli prime minister called Israel’s war in Gaza the ‘opposite of genocide’ and called the New York mayor, Zohran Mamdani, ‘antisemitic’ in an inflammatory address.",
+    "headline": "Netanyahu’s UN speech addresses Israel’s war in Gaza and Zohran Mamdani",
+    "trail": "In an inflammatory address, the Israeli PM called Israel’s war in Gaza the ‘opposite of genocide’, attacked critics and called the New York mayor, Zohran Mamdani, ‘antisemitic’.",
     "progress": null,
     "upside": 0
   },
   "/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments": {
-    "headline": "Soaring demand for ADHD and autism diagnoses leads to two-year minimum wait",
-    "trail": "Four integrated care boards in England have imposed the minimum wait for assessments due to demand for diagnoses, and patient groups call the delays ‘scandalous’.",
+    "headline": "Patient groups speak up for people seeking ADHD and autism assessments",
+    "trail": "They call the delays ‘scandalous’ after four integrated care boards in England imposed a two-year minimum wait for ADHD and autism assessments, a step taken due to soaring demand for diagnoses.",
     "progress": null,
-    "upside": 0
+    "upside": 1
   },
   "/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits": {
     "headline": "World Cup ad deals drive record profits for David Beckham’s company",
@@ -289,7 +289,7 @@
   },
   "/environment/2026/sep/24/explainer-uk-climate-crisis-national-security-report-suppressed": {
     "headline": "What the UK’s climate national security report reveals, and why it matters",
-    "trail": "The report warns of the catastrophic effects of vital ecosystems collapsing – warnings that were suppressed and not published under the previous prime minister.",
+    "trail": "The report’s warnings are coming to light after being suppressed and not published under the previous prime minister; they set out the catastrophic effects of vital ecosystems collapsing.",
     "progress": null,
     "upside": 1
   },
@@ -306,33 +306,33 @@
     "upside": 0
   },
   "/uk-news/2026/sep/25/cyber-attack-dyfed-powys-police-may-accessed-staff-information": {
-    "headline": "Public data was not affected, Dyfed-Powys police says",
-    "trail": "With public data unaffected, the Welsh force says a cyber-attack disrupted ‘some non-emergency systems’, and the attack ‘may have accessed staff information’.",
+    "headline": "Dyfed-Powys police says public data is not affected by cyber incident",
+    "trail": "The Welsh force says public data was not affected, but the cyber-attack disrupted ‘some non-emergency systems’ and ‘may have accessed staff information’.",
     "progress": null,
     "upside": 1
   },
   "/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale": {
-    "headline": "Frome residents’ £1m community bid for Mayday Saxonvale loses out to London firm",
-    "trail": "Locals raised £1m for the regeneration scheme involving homes and a park, but Somerset officials agreed a deal with a London-based real estate company instead, a decision called ‘devastating’.",
+    "headline": "Frome locals raise £1m for homes-and-park regeneration scheme",
+    "trail": "Locals raised £1m for the Mayday Saxonvale scheme involving homes and a park, but in a ‘devastating’ decision the council rejected their bid and Somerset officials agreed a deal with a London-based real estate company.",
     "progress": null,
     "upside": 1
   },
   "/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours": {
-    "headline": "‘Gamechanging’ test speeds brain tumour diagnosis from eight weeks to two hours",
+    "headline": "Brain tumour patients can be diagnosed in two hours with ‘gamechanging’ test",
     "trail": "NHS England says the test can be done while the patient is on the operating table and is being piloted in five centres around the country.",
-    "progress": "NHS England is piloting the test in five centres around the country.",
+    "progress": "NHS England says the test is being piloted in five centres around the country.",
     "upside": 3
   },
   "/us-news/2026/sep/24/theranos-elizabeth-holmes-transfer-halfway-home": {
-    "headline": "Theranos founder Elizabeth Holmes’s 11-year sentence reduced several times since 2022",
-    "trail": "The Theranos founder, who was sentenced to prison in 2022, is reportedly to be transferred to a halfway home next year.",
+    "headline": "Halfway home transfer next year reported for Theranos founder Elizabeth Holmes",
+    "trail": "Holmes was sentenced to 11 years in prison in 2022 but has since seen her sentence reduced several times, and is reportedly to be transferred next year.",
     "progress": null,
     "upside": 0
   },
   "/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools": {
-    "headline": "Critics say Meloni is worried about losing far-right voters at next year’s elections",
-    "trail": "They accuse the Italian PM of ‘running scared’ with a decree that caps foreign children in classrooms and also bans the burqa in schools.",
-    "progress": null,
+    "headline": "Meloni decree caps foreign children in classrooms and bans burqa in schools",
+    "trail": "Critics accuse the Italian PM of ‘running scared’ and say the decree shows she is worried about losing far-right voters in next year’s elections.",
+    "progress": "Critics are accusing Meloni of ‘running scared’ with the cap on foreign children in classrooms.",
     "upside": 1
   },
   "/world/2026/sep/25/tour-montparnasse-renovation-halted-paris": {
@@ -342,16 +342,16 @@
     "upside": 0
   },
   "/world/2026/sep/25/saudi-arabia-intercepts-houthi-missiles-oil-prices-climbs": {
-    "headline": "Alternative Saudi oil route and Taif defended against wave of Houthi missiles",
-    "trail": "Saudi Arabia intercepted the missiles, which the Saudi-led coalition in Yemen said were aimed at Taif and the Yanbu area on the Red Sea; oil climbed to a one-week high.",
+    "headline": "Saudi Arabia intercepts missiles aimed at Taif and Yanbu, Saudi-led coalition says",
+    "trail": "The Yanbu area on the Red Sea is the main alternative route for Saudi oil; the interception of the wave of Houthi missiles came as oil climbed to a one-week high.",
     "progress": null,
     "upside": 2
   },
   "/media/2026/sep/24/bbc-doom-spiral-cuts-hit-tv-and-radio": {
-    "headline": "Union speaks up for BBC TV and radio amid £500m savings plan",
-    "trail": "It says the corporation ‘risks entering inescapable doom spiral’ as further cuts hit TV and radio, including local specialist correspondent roles, as part of a plan to save £500m.",
+    "headline": "BBC’s £500m savings plan reaches local specialist correspondent roles",
+    "trail": "The corporation is cutting local specialist correspondent roles as further cuts hit TV and radio, and a union warns the BBC ‘risks entering inescapable doom spiral’.",
     "progress": null,
-    "upside": 1
+    "upside": 0
   },
   "/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform": {
     "headline": "UK watchdog’s £12.7m fine on TikTok stands after video app drops appeal",
@@ -366,8 +366,8 @@
     "upside": 0
   },
   "/business/2026/sep/24/housebuilder-vistry-slashes-profit-forecasts-as-losses-balloon": {
-    "headline": "Poor summer home sales behind Vistry’s job losses and cost cuts, housebuilder says",
-    "trail": "The housebuilder has sharply cut its profit forecasts as its losses grow rapidly, and has set out a further cost-cutting plan that includes job losses.",
+    "headline": "Poor summer sales of private homes behind Vistry’s cost-cutting plan, housebuilder says",
+    "trail": "The housebuilder has sharply cut its profit forecasts as its losses grow rapidly, and has unveiled a further cost-cutting plan that includes job losses.",
     "progress": null,
     "upside": 0
   },
@@ -397,8 +397,8 @@
   },
   "/media/2026/sep/24/play-school-returns-as-bbc-pushes-quality-childrens-programmes": {
     "headline": "BBC revives Play School after four decades in push for quality children’s TV",
-    "trail": "The revamped show is back after four decades, and TV heads hope it will win over parents seeking quality shows amid concerns about addictive online content.",
-    "progress": "TV heads hope the revamped Play School will win over parents looking for quality shows.",
+    "trail": "TV heads hope the revamped show, back after four decades, will win over parents seeking quality shows amid concerns about addictive online content.",
+    "progress": null,
     "upside": 2
   },
   "/music/2026/sep/25/add-to-playlist-the-defiant-queer-dancehall-of-destin-conrad-and-the-weeks-best-new-tracks": {
@@ -552,8 +552,8 @@
     "upside": 2
   },
   "/money/2026/sep/23/couples-putting-off-divorce-due-to-cost-of-living-crisis-in-england-and-wales": {
-    "headline": "Money worries may be keeping unhappy couples together, say divorce lawyers",
-    "trail": "Financial pressures are suspected to be behind figures showing failed marriages in England and Wales are lasting longer, with lawyers saying couples are staying put due to the cost of living crisis",
+    "headline": "Divorce lawyers say cost of living crisis is keeping unhappy couples in place",
+    "trail": "Financial pressures are suspected to be behind figures that show failed marriages in England and Wales are lasting longer than before.",
     "progress": null,
     "upside": 0
   },
@@ -720,8 +720,8 @@
     "upside": 2
   },
   "/football/live/2025/jan/24/premier-league-wsl-team-news-transfers-football-news-live": {
-    "headline": "Real Betis line up medical for Antony as winger nears United exit",
-    "trail": "Manchester United cut their losses on the winger, though not by much, while Tottenham rue another key injury: a Solanke blow for Spurs",
+    "headline": "Real Betis await Antony for medical: football news – as it happened",
+    "trail": "Antony heads to Real Betis for a medical as Manchester United cut their losses on the winger, though not by much. Elsewhere, a Solanke blow for Spurs, and Tottenham rue another key injury.",
     "progress": null,
     "upside": 2
   },
@@ -756,20 +756,20 @@
     "upside": 1
   },
   "/business/2026/aug/28/john-healey-uk-defence-spending-target-budget": {
-    "headline": "No date for 3 per cent defence spending target in Healey's budget",
-    "trail": "The roadmap for increasing the department's share of GDP will be deferred until next year's review, so the budget will not set a date for reaching the target",
+    "headline": "Roadmap for increasing defence share of GDP set for next year's review",
+    "trail": "Next year's review will take up the roadmap for increasing the department's share of GDP, deferred until then; Healey's budget will duck setting a date for the 3 per cent defence spending target.",
     "progress": null,
-    "upside": 0
+    "upside": 1
   },
   "/business/2026/jul/31/john-healey-budget-late-october": {
-    "headline": "Healey's pledge for late October: a budget that shares money and power",
-    "trail": "The chancellor has promised to 'spread money and power' around the UK, but will have to find money for Burnham's policies while sticking to fiscal rules as borrowing costs rise",
+    "headline": "Budget set for late October to 'spread money and power' around UK, Healey promises",
+    "trail": "Healey has set the date and made the pledge, but the chancellor will have to find money for Burnham's policies while sticking to fiscal rules as borrowing costs rise.",
     "progress": null,
     "upside": 1
   },
   "/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets": {
-    "headline": "Tax rises now 'inevitable' in next month's budget, say some economists",
-    "trail": "The UK borrowed £18bn in August, a figure that puts pressure on the chancellor, John Healey, before his budget next month",
+    "headline": "Healey's decisions on tax come into focus ahead of next month's budget",
+    "trail": "Healey's budget is due next month. The UK borrowed £18bn in August, putting pressure on him, and some economists say it is now 'inevitable' that the chancellor will need to raise taxes in it.",
     "progress": null,
     "upside": 0
   },
@@ -805,7 +805,7 @@
   },
   "/business/live/2023/nov/07/uk-house-prices-rise-october-halifax-inflation-interest-rates-recession-business-live": {
     "headline": "UK government bond yields fall as City expects lower rates next summer",
-    "trail": "The oil price also drops as the City expects interest rate cuts in 2024, though German recession risks rise as factories struggle and the country's factory output falls again.",
+    "trail": "The oil price also drops, and UK interest rate cuts are expected in 2024. German recession risks rise, however, as factories struggle and German factory output falls again.",
     "progress": null,
     "upside": 2
   },
@@ -816,8 +816,8 @@
     "upside": 0
   },
   "/politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live": {
-    "headline": "Badenoch claims Tory party was close to bankruptcy when she took over",
-    "trail": "In live coverage of UK politics, the Tory leader, who took over last year, also says Jenrick's ideas are mostly 'my thoughts repackaged'.",
+    "headline": "Badenoch lays claim to Jenrick's ideas as mostly 'my thoughts repackaged'",
+    "trail": "In live coverage of UK politics, the Tory leader, who took over last year, also claims the party was close to bankruptcy when she did so.",
     "progress": null,
     "upside": 0
   },
@@ -852,10 +852,10 @@
     "upside": 2
   },
   "/politics/2022/may/04/dup-donaldson-criticised-over-stormont-boycott-threat": {
-    "headline": "DUP's Jeffrey Donaldson ties Stormont power sharing to ditching of Brexit protocol",
-    "trail": "The DUP leader is criticised over his Stormont boycott threat and accused of holding the region to ransom with his vow not to revive power sharing until the protocol is ditched.",
+    "headline": "Critics challenge DUP leader Jeffrey Donaldson over Stormont power-sharing vow",
+    "trail": "Critics accuse the DUP leader of holding the region to ransom with his Stormont boycott threat, a vow not to revive power sharing until the Brexit protocol is ditched.",
     "progress": null,
-    "upside": 0
+    "upside": 1
   },
   "/uk-news/2026/jun/22/jeffrey-donaldson-found-guilty-of-child-sexual-offences-including": {
     "headline": "Trial that gripped Northern Ireland ends in conviction of Jeffrey Donaldson",
@@ -882,22 +882,22 @@
     "upside": 2
   },
   "/politics/2026/jun/23/dup-jeffrey-donaldson-denunciation": {
-    "headline": "Democratic Unionists denounce former leader Jeffrey Donaldson as a 'wicked deceiver'",
-    "trail": "The denunciation, as the DUP seeks to distance the party from him, comes after the former Democratic Unionist leader was convicted of child sexual offences.",
+    "headline": "DUP denunciation seeks to put distance between party and Jeffrey Donaldson",
+    "trail": "The party's denunciation of its former leader as a 'wicked deceiver' comes after Donaldson, the former Democratic Unionist leader, was convicted of child sexual offences.",
     "progress": null,
     "upside": 1
   },
   "/uk-news/2019/jun/30/hate-crime-22-mosques-receive-funding-security-uk": {
     "headline": "Government scheme offers mosques funding for security against hate crime",
-    "trail": "Funding under the scheme reached just 22 mosques last year, with distrust of the Prevent scheme among the reasons cited for the lack of uptake.",
+    "trail": "The government scheme funds hate crime security at mosques, but just 22 were given funding last year, with distrust of the Prevent scheme among reasons cited for the lack of uptake.",
     "progress": null,
     "upside": 1
   },
   "/news/2025/nov/07/uk-mosques-soaring-attacks-british-muslim-trust-flags-christian-nationalist-slogans": {
-    "headline": "British Muslim Trust figures bring attacks on UK mosques into the open",
-    "trail": "According to the trust, 25 buildings were targeted in 27 attacks between July and October, with flags and Christian nationalist slogans featuring in the soaring attacks.",
+    "headline": "British Muslim Trust counts 27 attacks on UK mosques between July and October",
+    "trail": "According to the trust, 25 buildings were targeted in the 27 attacks, and flags and Christian nationalist slogans feature in the soaring attacks on UK mosques.",
     "progress": null,
-    "upside": 1
+    "upside": 0
   },
   "/society/2024/oct/10/religious-hate-crimes-at-record-levels-in-england-and-wales-official-figures-show": {
     "headline": "Official figures set out the scale of religious hate crime in England and Wales",
@@ -906,9 +906,9 @@
     "upside": 0
   },
   "/uk-news/2019/mar/18/uk-muslim-leaders-seek-funding-for-mosque-security": {
-    "headline": "Muslim leaders call for action on bigotry in letter to the Guardian",
-    "trail": "Lady Warsi also demands more security funds for UK mosques, as the leaders, writing to the Guardian, say 'systemic Islamophobia' fuels terror attacks.",
-    "progress": "Lady Warsi is pressing for more security funding for mosques across the UK.",
+    "headline": "Lady Warsi demands more security funds for UK mosques",
+    "trail": "Muslim leaders, in a letter to the Guardian, call for action on bigotry and say 'systemic Islamophobia' fuels terror attacks.",
+    "progress": "Muslim leaders have written a letter to the Guardian calling for action on bigotry.",
     "upside": 1
   },
   "/world/2024/oct/20/uk-mosques-win-record-security-funding-from-hate-scheme": {
@@ -936,15 +936,15 @@
     "upside": 3
   },
   "/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion": {
-    "headline": "How a ceiling design funnels a tropical breeze through Réunion's airport terminal",
-    "trail": "'We wanted to prove we didn't need air conditioning': Roland Garros airport on Réunion island is cooled by natural ventilation, its ceiling funnelling a light tropical breeze into the terminal.",
+    "headline": "The ceiling that funnels a tropical breeze into an airport terminal on Réunion",
+    "trail": "Roland Garros airport on Réunion island is cooled by natural ventilation, its ceiling design funnelling a light tropical breeze into the terminal: 'We wanted to prove we didn't need air conditioning.'",
     "progress": null,
     "upside": 2
   },
   "/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary": {
-    "headline": "Rick Wakeman plays Vietnam sanctuary concert to raise awareness of caged animals",
-    "trail": "The former Yes musician performs piano to 150 rescued moon bears at the sanctuary, highlighting animals that remain stuck in cages at 'bile farms'.",
-    "progress": null,
+    "headline": "Former Yes musician gives a piano recital for a sanctuary’s rescued moon bears",
+    "trail": "The former Yes musician plays at the sanctuary to raise awareness of animals that remain stuck in cages at 'bile farms'.",
+    "progress": "Former Yes musician Rick Wakeman is raising awareness of animals that remain stuck in cages at 'bile farms'.",
     "upside": 2
   },
   "/world/2026/sep/24/greenland-trump-us-security-agreement-relief": {

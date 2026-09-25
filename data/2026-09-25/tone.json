@@ -7,18 +7,11 @@
     "issue": "trail leans on \"devastating\": \"In his only interview, the Mercury prize winner talks about the ‘poignancy’ of releasing the album his devastating stroke shelved; he has not been able to go home since falling ill last summer.\""
   },
   {
-    "path": "/media/2026/sep/25/bbc-sport-digital-revamp-raises-questions-over-purpose",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"fear\": \"The revamp poses wider questions about the BBC’s purpose, as some staff fear the digital approach will pull it towards a commercial model built around football, leaving minority sports and older TV viewers behind.\""
-  },
-  {
     "path": "/film/2026/sep/25/meryl-streep-aslan-magicians-nephew-cs-lewis-greta-gerwig",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fury\": \"The Oscar-winner is voicing Narnia’s wise lion in Greta Gerwig’s adaptation of The Magician’s Nephew, a casting that has drawn roars of fury from US evangelical commentators.\""
+    "issue": "trail leans on \"fury\": \"The Oscar-winner’s casting as Aslan has angered the Christian right, leading to roars of fury from US evangelical commentators. Don’t they have more pressing issues?\""
   },
   {
     "path": "/commentisfree/2026/sep/25/exercise-bad-bodies-ai-brains-students-tech-health",
@@ -33,13 +26,6 @@
     "field": "trail",
     "severity": "warning",
     "issue": "trail leans on \"crisis\": \"Letters: Readers respond to an editorial on creating opportunities for today’s young people, with ideas on how Labour could solve the youth jobs crisis.\""
-  },
-  {
-    "path": "/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"wait\"); build it on the upside or score the story honestly and let the front drop it: \"Soaring demand for ADHD and autism diagnoses leads to two-year minimum wait\""
   },
   {
     "path": "/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
@@ -60,21 +46,14 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"catastrophic\", \"collapsing\", \"warns\": \"The report warns of the catastrophic effects of vital ecosystems collapsing – warnings that were suppressed and not published under the previous prime minister.\""
+    "issue": "trail leans on \"catastrophic\", \"collapsing\": \"The report’s warnings are coming to light after being suppressed and not published under the previous prime minister; they set out the catastrophic effects of vital ecosystems collapsing.\""
   },
   {
-    "path": "/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
+    "path": "/media/2026/sep/24/bbc-doom-spiral-cuts-hit-tv-and-radio",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"‘Gamechanging’ test speeds brain tumour diagnosis from eight weeks to two hours\""
-  },
-  {
-    "path": "/business/2026/sep/24/housebuilder-vistry-slashes-profit-forecasts-as-losses-balloon",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"cuts\", \"job losses\", \"losses\"); build it on the upside or score the story honestly and let the front drop it: \"Poor summer home sales behind Vistry’s job losses and cost cuts, housebuilder says\""
+    "issue": "trail leans on \"warns\": \"The corporation is cutting local specialist correspondent roles as further cuts hit TV and radio, and a union warns the BBC ‘risks entering inescapable doom spiral’.\""
   },
   {
     "path": "/staying-scam-savvy-with-visa/2026/sep/22/music-ticket-scams-warning-signs",
@@ -116,7 +95,14 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"blow\": \"Manchester United cut their losses on the winger, though not by much, while Tottenham rue another key injury: a Solanke blow for Spurs\""
+    "issue": "trail leans on \"blow\": \"Antony heads to Real Betis for a medical as Manchester United cut their losses on the winger, though not by much. Elsewhere, a Solanke blow for Spurs, and Tottenham rue another key injury.\""
+  },
+  {
+    "path": "/business/2026/jul/31/john-healey-budget-late-october",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Budget set for late October to 'spread money and power' around UK, Healey promises\""
   },
   {
     "path": "/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
@@ -137,6 +123,6 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"threat\": \"The DUP leader is criticised over his Stormont boycott threat and accused of holding the region to ransom with his vow not to revive power sharing until the protocol is ditched.\""
+    "issue": "trail leans on \"threat\": \"Critics accuse the DUP leader of holding the region to ransom with his Stormont boycott threat, a vow not to revive power sharing until the Brexit protocol is ditched.\""
   }
 ]
