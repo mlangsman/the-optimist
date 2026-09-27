@@ -1,0 +1,121 @@
+[
+  {
+    "path": "/australia-news/2026/sep/25/five-great-reads-a-week-in-gaza-the-queen-of-toddler-tv-bunkering-down",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Five Great Reads: the queen of toddler TV, bunkering down and a week in Gaza\""
+  },
+  {
+    "path": "/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Gavin Bazunu boycotts Ireland's Israel match 'as a person of principle'\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/25/the-guardian-view-on-the-2026-booker-shortlist-what-it-takes-to-be-a-man",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Editorial: this year's Booker contenders each grapple with modern masculinity, reflecting what the paper calls a crisis in masculinity today.\""
+  },
+  {
+    "path": "/environment/2026/sep/24/explainer-uk-climate-crisis-national-security-report-suppressed",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"catastrophic\", \"collapsing\", \"warned\": \"The report warned of catastrophic effects from vital ecosystems collapsing, but was not published under the previous prime minister.\""
+  },
+  {
+    "path": "/stage/2026/sep/25/slam-frank-musical-off-broadway",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"slam\": \"The creators and stars of Slam Frank on their off-Broadway hit, which reimagines the Holocaust victim as a pansexual rapper\""
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/26/derek-zhao-best-phone-picture-san-francisco",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"‘I was mesmerised by how the fog turned the tower into a monolith’: Derek Zhao on his best phone picture\""
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/26/blind-date-miklos-minnie",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Blind date: ‘I do wish I hadn’t stepped on that dog – but she assured me it was OK’\""
+  },
+  {
+    "path": "/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Peace deal signed as oil prices fall – as it happened\""
+  },
+  {
+    "path": "/society/2025/dec/15/europe-housing-costs-new-pandemic-barcelona-mayor-eu-funding",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Jaume Collboni likens Europe's soaring housing costs to a 'new pandemic', as the EU prepares to tackle the crisis facing 17 city leaders.\""
+  },
+  {
+    "path": "/housing-network/2017/feb/17/hard-brexit-worse-housing-crisis-eu-eib",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\", \"warns\": \"Without low-cost EU loans or vital building workers after a hard Brexit, the writer warns the UK's housing crisis will deepen.\""
+  },
+  {
+    "path": "/world/2025/jan/20/a-vicious-circle-how-the-roof-blew-off-spains-housing-crisis",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\", \"spiral\": \"Investigation finds neighbourhoods losing character as rents spiral and cities report a boom in short-term lets and housing speculation — deepening Spain's housing crisis.\""
+  },
+  {
+    "path": "/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Gamechanging' brain tumour test reduces diagnosis from eight weeks to two hours\""
+  },
+  {
+    "path": "/science/2026/sep/25/earth-microbes-survive-conditions-enceladus-saturn-moon-ocean-study",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Earth microbes survive simulated conditions of Saturn moon's ocean\""
+  },
+  {
+    "path": "/environment/2026/sep/25/skylarks-sandwich-terns-birdies-on-reserve-created-from-golf-course-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Skylarks and sandwich terns among new arrivals at reserve created from 'boring old golf course'\""
+  },
+  {
+    "path": "/uk-news/2026/sep/25/man-in-batman-costume-chases-down-suspected-norwich-handbag-thief",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Man in Batman costume chases down suspected Norwich handbag thief\""
+  },
+  {
+    "path": "/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We wanted to prove we didn't need air conditioning': the airport cooled by natural ventilation\""
+  },
+  {
+    "path": "/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"DNA database of UK dogs could help police collar criminals\""
+  }
+]
