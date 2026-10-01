@@ -1,0 +1,65 @@
+[
+  {
+    "path": "/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+    "kind": "article",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"loss\"); build it on the upside or score the story honestly and let the front drop it: \"Scientists record one-fifth loss of Switzerland's glacier ice in five years\""
+  },
+  {
+    "path": "/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"loss\"); build it on the upside or score the story honestly and let the front drop it: \"Scientists record one-fifth loss of Switzerland's glacier ice in five years\""
+  },
+  {
+    "path": "/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"Alpine regions in Europe are experiencing extreme glacier collapse, driven by the heat-trapping effects of fossil fuel pollution.\""
+  },
+  {
+    "path": "/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risks\"); build it on the upside or score the story honestly and let the front drop it: \"South-east Asia's young, hyper-connected populations face AI election risks\""
+  },
+  {
+    "path": "/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Some experts fear AI could be weaponised in south-east Asia, home to nations with predominately young, hyper-connected populations.\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/30/humans-or-ai-bots-uk-civil-service",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"A civil servant warns that rapidly expanding AI use in government is numbing departments to its profound dangers, and challenges readers to try arguing with a faceless digital bureaucrat.\""
+  },
+  {
+    "path": "/sport/2026/sep/30/anthony-joshua-tyson-fury-boxing-peter-fury",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fury\": \"Anthony Joshua and Tyson Fury traded quips at a lively London press conference, where Joshua revealed he has been speaking with Fury's uncle Peter.\""
+  },
+  {
+    "path": "/world/2024/apr/19/g7-opposes-full-scale-military-operation-rafah-civilians-gaza",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"catastrophic\", \"warned\": \"G7 ministers have warned that a full-scale offensive in Gaza's southernmost city would be catastrophic for civilians there.\""
+  },
+  {
+    "path": "/environment/2025/dec/15/alpine-glaciers-rate-extinction-climate-crisis",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"loss\"); build it on the upside or score the story honestly and let the front drop it: \"Eight years: that's how soon Alpine glacier loss could peak\""
+  }
+]
