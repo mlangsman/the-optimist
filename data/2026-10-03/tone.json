@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/us-news/ng-interactive/2026/oct/01/peta-wool-protests",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Peta claimed victory when fashion stopped using fur – so why are they back hijacking catwalks?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/02/experience-allergic-to-the-cold",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Experience: I’m allergic to the cold\""
+  },
+  {
+    "path": "/education/2023/apr/10/nasuwt-members-call-for-ofsted-abolition-to-end-reign-of-terror",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"NASUWT members call for Ofsted abolition to end ‘reign of terror’\""
+  },
+  {
+    "path": "/world/2018/may/02/france-to-tighten-security-at-protests-after-may-day-violence",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"France to tighten security at protests after May Day violence\""
+  },
+  {
+    "path": "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is unchanged from the original: \"Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction\""
+  },
+  {
+    "path": "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"Capital city submerged in waist-high flood water, while elsewhere Hurricane Nolo threatens Hawaii’s Big Island\""
+  },
+  {
+    "path": "/environment/2023/aug/02/aftermath-of-typhoon-doksuri-brought-beijing-floods-meteorologists-explain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Aftermath of Typhoon Doksuri brought Beijing floods, meteorologists explain\""
+  }
+]

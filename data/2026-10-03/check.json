@@ -1,0 +1,1716 @@
+[
+  {
+    "path": "/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/oct/02/school-inspections-england-ofsted-overhaul-complaints",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/burnham-law-pension-triple-lock",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/palestine-action-activists-whips-hammers-guards-elbit-bristol",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/student-protests-shut-schools-across-france",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/charged-alleged-terror-plot-manchester-jewish-community",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/oct/02/school-inspections-england-ofsted-overhaul-complaints",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/ann-widdecombe-suspect-charged-with-planning-terror-act-against-nigel-farage",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Cosmetic edit: the rewritten headline 'Police charge Widdecombe murder suspect over terror act against Nigel Farage' shares nearly all its substantive words with the original ('Widdecombe murder suspect ... terror act against Nigel Farage') and only swaps passive 'suspect charged' for active 'Police charge'. It does not rebuild around a genuine upside the way the companion article version does (which leads with 'detectives' tireless work' from the investigation); the setback (murder/terror plot) remains effectively the subject, just reordered."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/burnham-law-pension-triple-lock",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/aviation-security-flydubai-flight-israel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/palestine-action-activists-whips-hammers-guards-elbit-bristol",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/student-protests-shut-schools-across-france",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/02/war-review-george-kay-sienna-miller-dominic-west",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/zack-polanski-brighton-byelection-wave-goodbye",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/02/scotland-castles-boom-traitors-style-events",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/ng-interactive/2026/oct/02/feeling-wired-the-truth-about-nervous-system-resets",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/02/best-clothes-steamer-iron",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/02/mark-herman-brassed-off-andy-burnham-royal-albert-hall",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/02/celebrities-grey-hair-olivia-colman-lisa-bonet-women-ageism-workplace-dye",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/02/nations-league-roundup-france-italy-northern-ireland-ukraine-belgium",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/03/brisbane-2032-olympic-games-emblem-leaked-official-youtube",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/02/brydon-carse-charged-by-cricket-regulator-over-arrest-on-night-out",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/02/mercedes-russell-antonelli-f1-return-malaysia",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/rumours-demise-exaggerated-haters-bang-on-marina-hyde-final-column",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/green-party-anti-zionism-motion-attempt-tell-jews-how-to-think",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/andy-burnham-labour-talk-big-changes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/02/richard-e-grant-celebrity-traitors-eccentricity",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/parthenon-marbles-british-museum-greece-bayeux-tapestry",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/the-guardian-view-on-the-conservative-conference-a-party-still-searching-for-a-purpose",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/the-guardian-view-on-barack-obamas-new-podcast-all-the-presidents-books",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/englishness-is-not-defined-by-ethnicity",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/02/utilities-are-public-services-and-should-not-be-run-as-businesses",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/02/other-countries-learn-from-their-elders-wisdom-so-could-britain",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/andy-burnham-ultimate-test-will-be-whether-peoples-lives-improve",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/03/we-want-action-fijian-climate-activist-sends-message-ahead-of-un-talks-in-pacific",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/02/andy-burnham-meetings-manchester-city-owners-lib-dems",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/02/open-source-tree-map-berlin-water-urban-forest",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/02/falling-glass-and-decapitated-plants-the-race-to-protect-edinburgh-botanic-gardens-plants",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales-plaid-cymru",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/polanski-green-leader-authority-byelection-holborn-pancras",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/02/tesco-supermarket-paid-safe-leave-domestic-abuse",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/02/starbucks-urged-close-stores-in-chinas-xinjiang",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/02/will-slot-machine-tax-result-in-shop-closures-job-losses",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/erasure-vince-clarke-andy-bell-interview",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/02/cameron-winter-carnegie-hall-review-paul-thomas-anderson",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/02/ross-mcelwee-adrian-remake-devastating-new-documentary",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/grouper-liz-harris-tour-helen-band-lindas-head-interview",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/greg-freeman-all-set-the-bone-review-ambitious-alt-country-double-album-spreads-its-talents-a-touch-thin",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/add-to-playlist-the-beautiful-breakneck-chaos-of-heavensouls-and-the-weeks-best-new-tracks",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/tra-phaidin-clochs-clai-review-giddy-galway-gang-burst-the-boundaries-of-folk-music",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/02/the-best-recent-poetry-review-roundup",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/01/what-were-reading-sebastian-barry-china-mieville-readers-and-derek-owusu-on-the-books-they-enjoyed-in-september",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/sep/30/pushing-buttons-zach-cregger-resident-evil-film-adaptation",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/02/pastoral-review-pam-tanowitz-barbican-london-beethoven",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/wagner-parsifal-review-royal-opera-house-london-titov-hrusa-gerhaher",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/02/renoir-cool-britannia-90s-aphrodite-national-gallery-tate-ashmolean-the-week-in-art",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/02/hay-fever-review-richard-e-grant-christine-baranski-wyndhams-theatre-london",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/olivia-dean-ive-seen-it-plagiarism",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/02/starchitects-go-home-albania-building-boom-edi-rama",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/02/cronos-venom-heavy-metal-conrad-lant",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-chefs-are-pairing-food-with-sherry-wine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-sherry-wine-deserves-a-place-on-your-drinks-list",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/wellness/2026/oct/02/how-healthy-are-berries-smoothies-bowls",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/02/brimful-of-personality-fashion-silly-little-hats",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2025/feb/23/best-vibrators-bullet-rabbit-wand",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/sep/29/best-walking-trekking-poles-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/sep/29/how-to-lead-more-analogue-life",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/02/autumn-cocktails-recipes-vodka-martini-garibaldi-shrub-campari",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/02/flourless-walnut-date-espresso-cake-helen-goh-recipe",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/sep/30/the-best-dishes-to-come-out-of-a-roasting-tin",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/01/us-news-obsession-what-should-i-do-advice",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/01/you-be-the-judge-should-my-girlfriend-let-me-put-up-my-football-calendar-in-her-flat",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/30/a-moment-that-changed-me-mother-fell-off-mountain-my-life-began-again",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/28/dennis-the-terrier-farted-on-jilly-coopers-sofa",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/01/the-zero-bills-home-how-one-family-is-beating-the-energy-price-hikes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/29/mac-mini-m6-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/01/20-fascinating-facts-about-hair-why-baldness-is-super-masculine-and-a-pubic-bush-could-be-a-cheating-detector",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/wellness/2026/sep/28/pregnant-pet-aversion",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/wellness/2026/sep/27/glp-1s-hair-loss",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/02/schiaparelli-daniel-roseberry-aerodynamic-surrealist-glamour-paris-show-fashion",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/ng-interactive/2026/oct/01/peta-wool-protests",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "Rewrite trail states the runway-storming tactics were 'used in its fight against fur in the 2000s'; the original only says Peta claimed victory on fur (separately) and separately that it has revived naughts-era runway-storming tactics for wool — it never explicitly links those tactics to the fur campaign. Plausible but not stated."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/01/fashion-john-galliano-zara-collection-launches-after-met-controversy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('The Galliano x Zara collection has launched, with the designer's 2011 antisemitic remarks fuelling backlash among critics') names no actor doing anything constructive and no response — it just restates the launch and the backlash already given in the trail, so it fails the 'what's being done' test (vague / repeats the setback)."
+      ]
+    }
+  },
+  {
+    "path": "/travel/2026/oct/02/readers-tips-holidays-germany-berlin-cologne-rail-pass",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/oct/01/dorset-walk-jurassic-coast-lyme-regis-west-bay",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/sep/30/best-renovated-railway-station-pubs-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/sep/29/saunas-cinnamon-buns-and-coastal-scenery-on-the-new-rail-route-from-malmo-to-oslo",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/02/experience-allergic-to-the-cold",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "Rewrite recasts the first-person 'Experience' column in the third person and introduces the pronoun 'her' for the writer; the given original (first-person, 'I'/'my') does not state the writer's gender, so 'her' is an added detail not supported by the text provided."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/02/dream-of-garden-greenhouse-coldframe-will-do",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/ng-interactive/2026/oct/01/united-astrology-conference",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/01/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-267",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/01/the-celebrity-traitors-review-bbc",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/01/hitler-lazy-criminal-slept-until-noon-rise-nazis-wrong",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/02/tell-us-what-happened-after-you-froze-your-eggs",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/02/people-in-the-uk-how-is-the-cost-of-diesel-affecting-you",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/sep/30/has-direct-experience-of-a-recent-climate-event-changed-your-mind-about-the-climate-crisis",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/sep/28/we-would-like-to-hear-your-stories-of-loneliness",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2023/jun/16/former-ofsted-chief-school-inspections-should-change-after-headteacher-death",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2023/apr/10/nasuwt-members-call-for-ofsted-abolition-to-end-reign-of-terror",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "Headline 'Teaching unions unite behind call to abolish Ofsted' overstates coordination: the original says NASUWT's call 'follows NEU in calling for change' — two separate unions making similar calls at different times, not a stated joint/united campaign."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('NASUWT members are calling for Ofsted's abolition, following the NEU's call for change') restates the same fact already carried by the headline, adding no distinct 'what's being done' information — repeats the headline's content rather than naming a fresh action."
+      ]
+    }
+  },
+  {
+    "path": "/education/2023/apr/23/ofsted-chief-amanda-spielman-admits-to-culture-of-fear-around-englands-school-inspections",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/sep/21/ofsted-inspections-are-damaging-our-health-say-headteachers",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2019/jan/16/ofsted-to-reform-school-inspections-in-bid-to-tackle-off-rolling",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/may/01/ofsted-inspections-destruction-criticised-union-head-paul-whiteman-naht",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/sep/29/andy-burnham-labour-conference-pension-triple-lock-social-care",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('Pollsters find a plurality of voters support Burnham's social care funding plan, suggesting he could win the public argument amid lobbying efforts') just re-words the headline and trail claim rather than naming who is acting and what they are doing — a poll finding restated twice is not a 'what's being done' line."
+      ]
+    }
+  },
+  {
+    "path": "/money/2016/nov/06/triple-lock-pension-should-scrapped-mps-generational-inequalities",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/sep/22/britain-pensions-triple-lock-andy-burnham",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('A rescue effort regained control of the aircraft after the cockpit assault that sent it dropping 17,000ft') is a close paraphrase of the headline ('Daring rescue regains control of flight 1073 after cockpit attack') with no new information — a near-verbatim repeat of the headline, which the brief explicitly disallows."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/sep/30/what-we-know-alleged-stabbing-pilot-copilot-flight-israel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('The pilot accused of the attack was arrested after the flydubai plane made an emergency landing in Saudi Arabia') is essentially a restatement of the headline ('Pilot arrested after flydubai plane's emergency landing in Saudi Arabia') with the same two facts reordered — no distinct 'what's being done' content."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('Baptista Júnior's new book recounts the 2022 meeting where he fought against the coup, as Bolsonaro's son now challenges Lula for the presidency') largely repeats the headline ('New book lifts the lid on a military chief's fight against Bolsonaro's coup') and the trail's Lula/Bolsonaro's-son detail, without adding a distinct response or action."
+      ]
+    }
+  },
+  {
+    "path": "/world/2022/oct/02/luiz-inacio-lula-da-silva-the-former-shoe-shine-boy-hoping-to-reclaim-brazils-presidency",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2023/jan/06/brazil-first-lady-shaken-condition-presidential-palace-bolsonaro",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2022/oct/27/the-guardian-view-on-brazils-election-bolsonaros-return-would-cost-us-all",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2017/jul/07/g20-protests-hamburg-altona-messehalle",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2020/jan/09/france-strikes-nurses-teachers-and-lawyers-join-pension-protests",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2021/aug/09/france-extends-covid-health-pass-weekend-protests-pass-sanitaire",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Progress line ('The pass sanitaire also covers hospital visits, part of the daily access the extension preserves for pass holders') names no actor or action being taken — it just restates a capacity detail already given in the trail, rather than telling the reader who is acting and what they are doing, which the brief requires."
+      ]
+    }
+  },
+  {
+    "path": "/world/2018/may/02/france-to-tighten-security-at-protests-after-may-day-violence",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "Progress line asserts security is being increased 'specifically to prevent a repeat of the May Day clashes'; the original only says the government is tightening security and vowing to counter Black bloc activists ahead of the 1968 anniversary — the specific causal framing ('specifically... repeat of') is an inferred certainty the original does not state."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2022/feb/25/prominent-russians-join-protests-against-ukraine-war-amid-1800-arrests-putin",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2018/dec/04/french-government-to-suspend-fuel-tax-increase-say-reports",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/dec/02/global-heating-and-other-human-activity-are-making-asias-floods-more-lethal",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/article/2024/aug/16/the-place-i-love-is-in-flames-the-people-living-and-working-in-extreme-heat",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2022/sep/17/drought-floods-pakistan-devastation-climate-crisis",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "Progress line states 'Thai authorities have given Bangkok disaster-zone status' - ORIGINAL (headline+trail) never says who declared the disaster zone; this specific attribution is invented, not supported by the given original."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Cosmetic edit: headline reuses nearly the same words and subject as the original ('Bangkok', 'disaster zone', 'flooding/flood-hit', 'rainstorms shift direction/course'), just reordered with a different verb.",
+        "Headline still carries the setback via 'Flood-hit' as the lead descriptor, when the copy's disaster-zone response could have been led with directly and the flooding left to the standfirst."
+      ]
+    }
+  },
+  {
+    "path": "/world/2025/nov/30/indonesia-thailand-floods",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2023/aug/02/aftermath-of-typhoon-doksuri-brought-beijing-floods-meteorologists-explain",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "ORIGINAL's central claim - that the aftermath of Typhoon Doksuri brought Beijing floods, as meteorologists explain - is dropped entirely from the headline, trail and progress line. This is not a minor omission: it is the main subject of the original and is replaced with a broader, unattributed claim about 'China's extreme weather' generally."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/01/hero-pilot-stabbed-flydubai-plane-flight-israel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/01/british-sikh-activist-jagtar-singh-johal-released-delhi-jail-india",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2026/oct/02/one-green-shoot-at-a-time-the-women-restoring-mangrove-forests-in-the-oil-ravaged-niger-delta",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/01/thursday-briefing-the-long-long-wait-for-a-male-contraceptive-pill-may-soon-be-over",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/01/naomi-campbell-wins-legal-challenge-charity-trustee-ban",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Cosmetic edit: headline keeps almost all the same words and the same subject as the original ('Naomi Campbell', 'charity trustee ban', 'legal challenge'), merely swapping the verb (wins -> overturns) and reordering the clause.",
+        "Progress line ('successfully challenged the Charity Commission's decision to disqualify her as a trustee') just restates the headline's action rather than adding new information about what is being done."
+      ]
+    }
+  }
+]
