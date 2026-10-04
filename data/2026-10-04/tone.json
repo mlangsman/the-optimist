@@ -1,0 +1,429 @@
+[
+  {
+    "path": "/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"warning\": \"OpenAI has scrapped a new model release after researchers raised safety concerns during internal testing, and paused training of its most advanced systems, but safety leader David Robinson has resigned, warning the firm's culture is 'broken' and AI companies are not careful enough.\""
+  },
+  {
+    "path": "/world/2026/oct/04/flydubai-co-pilot-time-in-australia-being-investigated-security-agencies-ntwnfb",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"disaster\""
+  },
+  {
+    "path": "/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Tories plan to extend cuts beyond £47bn already pledged, leak reveals\""
+  },
+  {
+    "path": "/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Tories plan to extend cuts beyond £47bn already pledged, leak reveals\""
+  },
+  {
+    "path": "/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"David Robinson joins other insiders in urging the AI industry to take more care over rapidly developing technology, after resigning and warning that OpenAI's culture is 'broken'.\""
+  },
+  {
+    "path": "/media/2026/oct/03/russell-t-davies-interview-doctor-who-fierce-fandom-love-grief",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"The screenwriter, who revived Doctor Who and turned British queer life into landmark drama, has faced hate from homophobes and Whovians alike. One person turned up at his house, he says, and fear drives him to keep a knife by the door.\""
+  },
+  {
+    "path": "/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Badenoch returns to Conservative conference much stronger than a year ago\""
+  },
+  {
+    "path": "/books/2026/oct/03/robert-p-jones-backslide-interview",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Robert P Jones argues that declining white Christian influence has fuelled the alliance with Trump, and says now is the right time to compare US politics to the Nazi era, warning it is reshaping US democracy.\""
+  },
+  {
+    "path": "/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"For years, eating was something to control, fear or regret – until I hunted my first deer and started to see fat, hunger and my own body in a different light.\""
+  },
+  {
+    "path": "/football/2026/oct/03/decline-and-fall-who-will-believe-in-raheem-sterling-now",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"The former England winger could face a prison term next month, and his career collapse has raised many questions.\""
+  },
+  {
+    "path": "/sport/2026/oct/03/bristol-northampton-prem-match-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Louis Rees-Zammit scores two tries as Bristol defeat champions Northampton\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horrific\": \"Political, legal and cultural equality for women is the only solution, the writer says. Public outcry to punish the alleged perpetrators in the horrific Cornell case misses the point in a rape-prone society.\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/02/the-guardian-view-on-barack-obamas-new-podcast-all-the-presidents-books",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guardian view on Barack Obama's new podcast: all the president's books\""
+  },
+  {
+    "path": "/world/2026/oct/03/spain-housing-protest",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Demonstrators who say 'this can't go on' marched through Madrid and other Spanish cities after new legislation failed to pass amid Spain's housing crisis\""
+  },
+  {
+    "path": "/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Greece returns priceless relics and suggests UK should follow suit on Parthenon marbles\""
+  },
+  {
+    "path": "/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"spiralling\": \"Romans have embraced the Fiat 500, the Vespa and even tuk-tuks, but authorities say the golf cart trade risks spiralling out of control, while operators say they are being unfairly targeted\""
+  },
+  {
+    "path": "/environment/2026/oct/04/whales-australia-humpback-highway-boat-propellor-strikes",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Images show deep cuts and damage to tails and fins, as whales face growing risk of boat and propellor strikes, with experts warning the migrating species often cannot avoid a collision.\""
+  },
+  {
+    "path": "/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\", \"warn\": \"The floods, which have turned streets into stagnant lakes and killed 40 people, have prompted the disaster declaration, as experts warn extreme flooding will only worsen across south-east Asia.\""
+  },
+  {
+    "path": "/environment/2026/oct/03/country-diary-the-breathtaking-sight-of-a-tuna-taking-flight-in-british-waters",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Country diary: the breathtaking sight of tuna taking flight in British waters\""
+  },
+  {
+    "path": "/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"UK urged to act on Polymarket bets on whether HSBC and Lloyds will fail\""
+  },
+  {
+    "path": "/business/2026/oct/02/tesco-supermarket-paid-safe-leave-domestic-abuse",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Tesco becomes first supermarket to offer paid 'safe leave' for domestic abuse victims\""
+  },
+  {
+    "path": "/film/2026/oct/03/a-statement-film-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A Statement review – outstanding climate change dramedy about a 1980 meeting\""
+  },
+  {
+    "path": "/music/2026/oct/02/tra-phaidin-clochs-clai-review-giddy-galway-gang-burst-the-boundaries-of-folk-music",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Trá Pháidín: Cloch's Claí review – Galway collective burst the boundaries of folk music\""
+  },
+  {
+    "path": "/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Playing video games with my 22-year-old son has brought me to tears\""
+  },
+  {
+    "path": "/stage/2026/oct/03/deepfake-review-ingenious-interview-with-a-pm-who-dances-around-every-issue",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Deepfake review – ingenious interview with a PM who dances around every issue\""
+  },
+  {
+    "path": "/music/2026/oct/02/wagner-parsifal-review-royal-opera-house-london-titov-hrusa-gerhaher",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Parsifal review – bunkers, CCTV and fembots in elusive vision of Wagner’s mystical masterpiece\""
+  },
+  {
+    "path": "/stage/2026/oct/02/pastoral-review-pam-tanowitz-barbican-london-beethoven",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Pam Tanowitz: Pastoral review – Beethoven explodes into bright bursts of gorgeous dance\""
+  },
+  {
+    "path": "/culture/2026/oct/02/how-claudia-winkleman-became-tvs-perfect-bad-gameshow-host",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guide #263: how Claudia Winkleman became TV’s perfect ‘bad’ gameshow host\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/03/mirna-abass-best-phone-picture-egypt",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘I waited patiently, hoping he might make the jump’: Mirna Abass’s best phone picture\""
+  },
+  {
+    "path": "/film/2026/oct/01/you-can-see-everything-movie-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"You Can See Everything review – Nathan Fielder’s Elizabeth Holmes doc is a modern masterpiece of deceit\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-chefs-are-pairing-food-with-sherry-wine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘It truly comes alive at the table’: why chefs are singing the praises of sherry\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-sherry-wine-deserves-a-place-on-your-drinks-list",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Love at first sip: why sherry will always be at the top of my drinks list\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"From spritzes to sours: how sherry is becoming mixology’s hottest ingredient\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A spotlight on sherry: Britain’s storied history with the Spanish wine\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/03/blind-date-shahar-stephen",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Blind date: ‘He asked if my disco ball tattoo was an onion’\""
+  },
+  {
+    "path": "/thefilter/2025/feb/23/best-vibrators-bullet-rabbit-wand",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘It could get an orgasm out of a cabbage’: the best vibrators, tested\""
+  },
+  {
+    "path": "/thefilter/2026/sep/29/best-walking-trekking-poles-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I hiked 100 miles to find the best walking poles, here are my favourites\""
+  },
+  {
+    "path": "/food/2026/oct/03/vegetarian-endive-au-gratin-recipe-henry-harris",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Henry Harris’s recipe for vegetarian endive au gratin\""
+  },
+  {
+    "path": "/food/2026/oct/02/autumn-cocktails-recipes-vodka-martini-garibaldi-shrub-campari",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A vodkatini, a garibaldi and a shrub – your essential autumn cocktails – recipes\""
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/30/a-moment-that-changed-me-mother-fell-off-mountain-my-life-began-again",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\", \"horror\": \"A bad breakup had made me afraid I would be mired in anger for ever. But on that family hike, in our fear and horror as we awaited the air ambulance, my old hurts took on a different hue.\""
+  },
+  {
+    "path": "/lifeandstyle/2026/sep/28/dennis-the-terrier-farted-on-jilly-coopers-sofa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The pet I’ll never forget: Dennis the terrier – who once farted on Jilly Cooper’s sofa\""
+  },
+  {
+    "path": "/environment/2026/oct/01/the-zero-bills-home-how-one-family-is-beating-the-energy-price-hikes",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The zero-bills home: how one family is beating the energy price hikes\""
+  },
+  {
+    "path": "/money/2026/oct/03/bayeux-tapestry-glastonbury-top-tips-tricks-hottest-tickets",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"From the Bayeux tapestry to Glastonbury: top tips and tricks to grab the hottest tickets\""
+  },
+  {
+    "path": "/society/2026/oct/01/20-fascinating-facts-about-hair-why-baldness-is-super-masculine-and-a-pubic-bush-could-be-a-cheating-detector",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"20 fascinating facts about hair: why baldness is super-masculine – and a pubic bush could be a ‘cheating detector’\""
+  },
+  {
+    "path": "/fashion/2026/oct/02/celebrities-grey-hair-olivia-colman-lisa-bonet-women-ageism-workplace-dye",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Olivia Colman and Lisa Bonet are among the stars going grey, but workplace ageism means many women still fear ditching the dye.\""
+  },
+  {
+    "path": "/fashion/2026/oct/02/brimful-of-personality-fashion-silly-little-hats",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Brimful of personality: the rise of fashion’s ‘silly little hats’\""
+  },
+  {
+    "path": "/fashion/2026/oct/02/schiaparelli-daniel-roseberry-aerodynamic-surrealist-glamour-paris-show-fashion",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Daniel Roseberry adds ‘aerodynamic’ edge to Schiaparelli’s surrealist glamour at Paris show\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/03/hiking-glyndwrs-way-wales",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"In the footsteps of Wales’s heroic rebel prince: hiking Glyndŵr’s Way\""
+  },
+  {
+    "path": "/travel/2026/oct/02/readers-tips-holidays-germany-berlin-cologne-rail-pass",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I travelled all over the country on a €63 monthly rail pass: readers’ favourite holidays in Germany\""
+  },
+  {
+    "path": "/travel/2026/oct/01/dorset-walk-jurassic-coast-lyme-regis-west-bay",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Stepping back in time: a historic walk along Dorset’s Jurassic Coast\""
+  },
+  {
+    "path": "/travel/2026/sep/30/best-renovated-railway-station-pubs-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘Delays are always welcome’: 10 of the best railway station pubs in England\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/03/why-do-cats-miaow-and-whats-the-most-powerful-pokemon-the-kids-quiz",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Why do cats miaow and what's the most powerful Pokémon? The kids' quiz\""
+  },
+  {
+    "path": "/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The US midterm races that will decide control of Congress, mapped\""
+  },
+  {
+    "path": "/society/2026/oct/02/tell-us-what-happened-after-you-froze-your-eggs",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tell us what happened after you froze your eggs\""
+  },
+  {
+    "path": "/law/2025/dec/18/jury-scrapping-plans-are-madness-labour-mps-tell-starmer",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"A letter from 39 Labour backbenchers, who call the plans 'madness', threatens rebellion over proposals to scrap jury trials to expedite the court backlog in England and Wales.\""
+  },
+  {
+    "path": "/law/2025/nov/20/why-government-curtail-jury-trials-england-wales-brian-leveson",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"The proposals respond to court backlogs that Sir Brian Leveson warns could lead to 'total system collapse', though the right to trial by jury is seen as a bedrock of the justice system.\""
+  },
+  {
+    "path": "/law/2026/jul/31/andy-burnham-signals-scrap-plans-curb-jury-trials",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Burnham signals he will scrap plans to curb jury trials\""
+  },
+  {
+    "path": "/law/2025/nov/26/labour-plan-slash-jury-trials-keir-starmer-past-calls-expand",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"They warn the plan would create more miscarriages of justice, and lead to more unfairness for Black, Asian and minority ethnic defendants.\""
+  },
+  {
+    "path": "/society/2023/nov/23/which-public-services-will-suffer-most-to-pay-for-tory-tax-cuts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Criminal justice, schools and councils face cuts to pay for Tory tax cuts\""
+  },
+  {
+    "path": "/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"catastrophic\": \"US government adviser Paul Christiano joins OpenAI's non-profit foundation, warning that the firm is not on track to reduce the risk of 'catastrophic' loss of control and flagging risks to the AI industry.\""
+  },
+  {
+    "path": "/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"'I was fighting for my life': Indian pilot hailed as hero recalls cockpit attack\""
+  }
+]
