@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/business/2023/feb/24/apples-pears-uk-food-shortage-farmers-leeks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"shortage\"); build it on the upside or score the story honestly and let the front drop it: \"Supermarket pay could trigger apple and pear shortage, growers say\""
+  },
+  {
+    "path": "/money/2024/sep/18/warning-social-media-videos-exploited-scammers-clone-voices",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Starling Bank research examines risk of scammers cloning voices from social media videos\""
+  }
+]
