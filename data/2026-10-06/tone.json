@@ -1,0 +1,191 @@
+[
+  {
+    "path": "/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jeffrey Archer, former Conservative politician and novelist, dies aged 86\""
+  },
+  {
+    "path": "/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"The snap election gives Spanish voters a direct say on tackling the country's housing crisis, after rightwing parties voted down the emergency legislation aimed at addressing it.\""
+  },
+  {
+    "path": "/politics/2026/oct/05/tory-shadow-minister-luton-no-go-zones-white-people-blake-stephenson",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tory shadow minister claims Luton has 'no-go zones' where 'white people won't go'\""
+  },
+  {
+    "path": "/business/2026/oct/05/sainsburys-morrisons-merger-talks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Sainsbury's and Morrisons 'held talks this year' on multibillion-pound merger\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/05/pierre-review-channel-4-david-harewood-british-crime-drama",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Pierre review - David Harewood's twisty noir is an instant crime classic\""
+  },
+  {
+    "path": "/film/2026/oct/05/club-kid-review-jordan-firstmans-movie-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Club Kid review - Jordan Firstman's heartfelt comedy is irresistible\""
+  },
+  {
+    "path": "/film/2026/oct/05/the-yellow-tie-review-sergiu-celibidache-biopic-conductor-live-music",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"The Yellow Tie review - John Malkovich gives major hauteur as legendary record-hating maestro\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/05/aditya-chakrabortty-and-yanis-varoufakis-dissect-democracy-best-podcasts-of-the-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Aditya Chakrabortty and Yanis Varoufakis dissect democracy: best podcasts of the week\""
+  },
+  {
+    "path": "/music/2026/oct/04/the-scottish-ensemble-review-milton-court-london-david-fennessy-js-bach-arvo-part",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Scottish Ensemble review – singular sounds from an ever-adventurous string orchestra\""
+  },
+  {
+    "path": "/music/2026/oct/04/elvis-costello-honest-playlist-sinatra-clash-kelis-pink-floyd-bob-dylan",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I can't listen to Pink Floyd - I find their music dreary': Elvis Costello's honest playlist\""
+  },
+  {
+    "path": "/music/2026/oct/04/the-undertones-review-corn-exchange-edinburgh-derry",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"The Undertones review - silver-haired fans get Teenage Kicks once more\""
+  },
+  {
+    "path": "/music/2026/oct/05/sleeping-beauties-by-david-byrne-review-a-quirky-journey-through-the-afterlife-of-invention",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sleeping Beauties by David Byrne review – a quirky journey through the afterlife of invention\""
+  },
+  {
+    "path": "/books/2026/oct/03/i-thought-if-im-going-to-die-im-going-to-write-a-book-first-pachinko-author-min-jin-lee",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I thought, if I'm going to die, I'm going to write a book first': Pachinko author Min Jin Lee\""
+  },
+  {
+    "path": "/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"For years, eating was something to control, fear or regret, but after I hunted my first deer, I began to see fat, hunger and my own body in a different light.\""
+  },
+  {
+    "path": "/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"Sparked by the 2022 invasion, the boom is now under threat from the force and frequency of Russian attacks, which have incinerated novels and destroyed warehouses.\""
+  },
+  {
+    "path": "/money/2026/oct/02/people-in-the-uk-how-is-the-cost-of-diesel-affecting-you",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"People in the UK: how is the rising cost of diesel affecting your work?\""
+  },
+  {
+    "path": "/society/2026/oct/02/tell-us-what-happened-after-you-froze-your-eggs",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: what happened after you froze your eggs?\""
+  },
+  {
+    "path": "/society/2018/jun/02/nhs-cancer-patients-failing-to-be-correctly-monitored",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"NHS cancer patients 'failing to be correctly monitored'\""
+  },
+  {
+    "path": "/politics/2026/jul/10/ann-widdecombe-uncompromising-politician-who-embraced-tv-fame",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ann Widdecombe: uncompromising politician who embraced TV fame\""
+  },
+  {
+    "path": "/politics/2021/oct/08/former-tory-minister-james-brokenshire-dies-aged-53",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Former Tory minister James Brokenshire dies aged 53\""
+  },
+  {
+    "path": "/world/2022/may/07/lula-launches-campaign-to-reclaim-brazilian-presidency-from-bolsanaro",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lula launches campaign to reclaim Brazilian presidency from Bolsonaro\""
+  },
+  {
+    "path": "/world/2019/feb/01/it-smells-dirty-scandals-loom-over-bolsonaro-after-first-month-in-office",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\": \"The far-right Brazilian president has been plagued by scandal and disaster, though it appears not to trouble his supporters.\""
+  },
+  {
+    "path": "/world/2026/apr/10/japan-sanae-takaichi-release-more-oil-reserves-iran-war",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Japan, which is heavily dependent on Middle East oil, is releasing more of its reserves for the second time since the Iran war began, as concern over the energy crisis grows.\""
+  },
+  {
+    "path": "/us-news/2026/sep/13/trump-5000-dividend-pledge",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"outrage\": \"The plan to give US adults $5,000 has been met with incredulity across the political spectrum, as well as outrage.\""
+  },
+  {
+    "path": "/world/2024/jan/26/world-changing-too-fast-organic-farmers-french-protests",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\", \"fury\": \"France was taken by surprise by the scale and fury of the grassroots demonstrations, which come amid crisis in the organic farming sector.\""
+  },
+  {
+    "path": "/culture/2026/mar/21/battle-of-hastings-discovery-research-england-history",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'A fascinating discovery': research challenges Battle of Hastings narrative\""
+  },
+  {
+    "path": "/uk-news/2026/oct/04/porridge-making-championship-golden-spurtle-scotland",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Oat of this world: cooks descend on Scotland for ultimate porridge making contest\""
+  }
+]
