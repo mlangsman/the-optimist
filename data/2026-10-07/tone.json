@@ -1,0 +1,170 @@
+[
+  {
+    "path": "/world/2026/oct/06/unemployment-and-the-rise-of-the-nazis",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Letter: John Plowright reflects on how unemployment was viewed by Germans, and the fear the KPD sparked, before the Nazis' rise to power.\""
+  },
+  {
+    "path": "/sport/2026/oct/06/f1-drivers-face-unhealthy-singapore-air-as-super-el-nino-fuels-wildfire-haze",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"F1 drivers face 'unhealthy' Singapore air as 'super' El Niño fuels wildfire haze\""
+  },
+  {
+    "path": "/business/2026/oct/07/ikea-to-pilot-online-buyback-service-for-secondhand-furniture",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ikea to pilot online buyback service for secondhand furniture\""
+  },
+  {
+    "path": "/business/2026/oct/06/paramount-warner-bros-skydance-merger",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Paramount completes $111bn acquisition of Warner Bros to build new Skydance media empire\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"From spritzes to sours: how sherry is becoming mixology's hottest ingredient\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A spotlight on sherry: Britain's storied history with the Spanish wine\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/07/alice-zaslavskys-shortcut-beetroot-baked-risotto-recipe-food",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Alice Zaslavsky's shortcut beetroot baked risotto – recipe\""
+  },
+  {
+    "path": "/food/2026/oct/06/how-to-maximise-the-umami-in-mushrooms",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to maximise the umami in mushrooms\""
+  },
+  {
+    "path": "/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'They call every week': the phishing attacks targeting past victims\""
+  },
+  {
+    "path": "/fashion/2026/oct/02/brimful-of-personality-fashion-silly-little-hats",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Brimful of personality: the rise of fashion's 'silly little hats'\""
+  },
+  {
+    "path": "/travel/2026/oct/06/walking-the-shropshire-way",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Fine scenery, historic towns and great pubs: a weekend walk on the Shropshire Way\""
+  },
+  {
+    "path": "/technology/2026/oct/06/tell-us-do-you-use-ai-agents-to-manage-your-finances",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Tell us how you use AI agents to manage your finances\""
+  },
+  {
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in the UK struggling to find work?\""
+  },
+  {
+    "path": "/world/2026/oct/05/tell-us-have-foxes-caused-friction-among-neighbours-where-you-live",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: have foxes caused friction among neighbours where you live?\""
+  },
+  {
+    "path": "/politics/2022/aug/26/liz-truss-tories-disarray-energy-crisis-urged-spell-out-plans-help",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Some MPs backing leadership frontrunner Liz Truss are urging her to spell out plans for soaring bills, showing signs of jitters over her lack of response amid wider Tory disarray over the energy crisis.\""
+  },
+  {
+    "path": "/business/2022/aug/30/gypsies-travellers-fear-missing-out-energy-bills-support",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Thousands of Gypsies and Travellers living in park homes across Great Britain fear missing out on the £400 energy bill support.\""
+  },
+  {
+    "path": "/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Israeli ministers announce plans for new illegal settlements in Gaza and West Bank\""
+  },
+  {
+    "path": "/world/2026/aug/13/israeli-troops-force-families-from-homes-amid-settler-terror-campaign-in-west-bank",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Israeli troops force families from homes amid settler terror campaign in West Bank\""
+  },
+  {
+    "path": "/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Israeli military plans to transfer law enforcement in occupied West Bank to police\""
+  },
+  {
+    "path": "/world/2012/dec/14/reuters-accuse-israel-soldier-assault-camermen",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Reuters accuses Israeli soldiers of assaulting cameramen in Hebron\""
+  },
+  {
+    "path": "/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cambridge University defends its mental health support for Jason Arday\""
+  },
+  {
+    "path": "/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cambridge agrees to hold independent inquiry into Jason Arday appointment\""
+  },
+  {
+    "path": "/sport/2026/jul/23/people-are-looking-at-scotland-for-good-fun-glasgow-prepares-for-commonwealth-games",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'People are looking at Scotland for good fun': Glasgow prepares for Commonwealth Games\""
+  },
+  {
+    "path": "/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The future is bright': breeding programme brings world's heaviest insect back from the brink\""
+  }
+]
