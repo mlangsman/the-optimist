@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/science/2026/oct/07/margaret-hamilton-moon-computer-software",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"alarm\": \"Her software compensated for a hardware-related problem revealed by an alarm indicating an emergency during the 1969 landing, an achievement that later earned her the Presidential Medal of Freedom; Margaret Hamilton has died aged 90.\""
+  },
+  {
+    "path": "/environment/2026/oct/08/world-must-change-food-avoid-biodiversity-collapse-wwf",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"Their recovery shows the trend can be turned around when action is taken, WWF says, as it urges the world to change how it produces food to avoid biodiversity collapse.\""
+  },
+  {
+    "path": "/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"María del Carmen Abascal's eviction from her Madrid apartment, after more than seven decades there, set off a wave of protests against Spain's housing crisis; she has died aged 87.\""
+  },
+  {
+    "path": "/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"For years, eating was something to control, fear or regret, until I hunted my first deer and started to see fat, hunger and my own body in a different light.\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/07/a-moment-that-changed-me-greek-version-strictly",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"I was gripped by fear and ached all over, still recovering from cancer treatment - but Dancing With the Stars became a joyous celebration of survival.\""
+  },
+  {
+    "path": "/education/2026/apr/23/schools-forced-to-cut-back-on-support-for-send-pupils-in-england-poll-finds",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cut\"); build it on the upside or score the story honestly and let the front drop it: \"Poll finds schools forced to cut support for Send pupils\""
+  },
+  {
+    "path": "/education/2026/sep/06/schools-england-report-surge-send-applications",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"surge\"); build it on the upside or score the story honestly and let the front drop it: \"More children in England set to gain Send support as plans surge\""
+  },
+  {
+    "path": "/science/video/2009/jul/14/apollo-11-eagle-moon-landing",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\": \"Neil Armstrong skilfully pilots Apollo 11's lunar module Eagle down to the moon's surface, narrowly avoiding disaster.\""
+  }
+]
