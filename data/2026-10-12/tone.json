@@ -1,0 +1,478 @@
+[
+  {
+    "path": "/society/2026/oct/12/failure-fit-tags-offenders-unmonitored-england-wales",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"crisis\""
+  },
+  {
+    "path": "/society/2026/oct/12/failure-fit-tags-offenders-unmonitored-england-wales",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"In England and Wales, 1,600 tags also lost signal for more than two weeks in the first half of the year, the report found, highlighting the scale of the probation crisis.\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/12/pine-cones-glitter-and-a-hip-hop-head-for-sale-red-hot-artists-reveal-their-frieze-stunners",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Pine cones, glitter and a hip-hop head for sale: red-hot artists reveal their Frieze stunners\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/12/valentino-through-the-eyes-of-portuguese-artist-joana-vasconcelos",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Enough of this suffering!' Joana Vasconcelos on why she is fed up with women's art defined by pain\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/11/the-party-review-itvx-thriller-elizabeth-day-book-adaptation-sarah-soleman",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Party review – this pacey, perfectly cast thriller is enormous fun\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/11/the-guardian-view-on-the-us-russia-and-the-international-criminal-court-trumps-assault-on-the-rule-of-law-intensifies",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guardian view on the US, Russia and the international criminal court: Trump's assault on the rule of law intensifies\""
+  },
+  {
+    "path": "/sport/2026/oct/11/antonelli-one-win-from-title-after-verstappen-wins-singapore-f1-gp",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Kimi Antonelli says he can taste F1 glory after Verstappen wins Singapore GP\""
+  },
+  {
+    "path": "/sport/2026/oct/11/record-breaking-quartet-put-australia-in-full-control-against-south-africa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Record-breaking quartet put Australia in full control against South Africa\""
+  },
+  {
+    "path": "/world/2026/oct/12/indonesia-earthquake-mosque-warning-systems-loundspeakers",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"Already used to broadcast the call to prayer, the loudspeakers are being tested over five years to see whether they can also warn hard-to-reach communities of earthquakes.\""
+  },
+  {
+    "path": "/world/2026/oct/11/deaths-migrant-boat-capsizes-djibouti",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"At least 139 die, including children, after migrant boat capsizes off Djibouti\""
+  },
+  {
+    "path": "/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Health agency urges at-risk groups to get the flu vaccine\""
+  },
+  {
+    "path": "/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Halloweenmas': how the spooky one-nighter turned into a month-long spectacular\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/11/tv-tonight-david-tennant-stars-in-a-brutally-brilliant-prison-drama",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"TV tonight: David Tennant stars in a brutally brilliant prison drama\""
+  },
+  {
+    "path": "/music/2026/oct/09/add-to-playlist-the-fizzing-fuzz-pop-racket-of-pushbike-and-the-weeks-best-new-tracks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Add to playlist: Pushbike’s fizzing fuzz-pop racket leads the week’s best new tracks\""
+  },
+  {
+    "path": "/music/2026/oct/09/branford-marsalis-quartet-and-dianne-reeves-dedicated-to-you-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Branford Marsalis Quartet and Dianne Reeves: Dedicated to You review – an eloquent Coltrane tribute\""
+  },
+  {
+    "path": "/music/2026/oct/09/jess-williamson-a-mile-south-of-heaven-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jess Williamson: A Mile South of Heaven review – alt-country singer’s love-hate affair with LA\""
+  },
+  {
+    "path": "/music/2026/oct/09/shostakovich-symphony-no-8-album-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Shostakovich Symphony No 8 album review – a remarkable and resonant recording of the composer’s cry of despair\""
+  },
+  {
+    "path": "/books/2026/oct/11/the-fiction-im-interested-in-is-political-ian-rankin-on-his-new-novel-about-the-super-rich",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘The crime fiction I’m interested in is political’: Ian Rankin on his new novel about the super-rich\""
+  },
+  {
+    "path": "/books/2026/oct/10/people-forgot-i-existed-audrey-niffenegger-on-taking-14-years-to-write-a-sequel-to-the-time-travelers-wife",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘People forgot I existed’: Audrey Niffenegger on taking 14 years to write a sequel to The Time Traveler’s Wife\""
+  },
+  {
+    "path": "/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Silver Pines review – a stylish neo-noir detective drama\""
+  },
+  {
+    "path": "/music/2026/oct/11/eugene-onegin-review-leeds-grand-theatre",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Eugene Onegin review – passion and pathos as Tchaikovsky’s opera moves into the oligarch era\""
+  },
+  {
+    "path": "/stage/2026/oct/11/the-prime-of-miss-jean-brodie-review-muriel-spark-royal-lyceum-edinburgh-tour",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Prime of Miss Jean Brodie review – Muriel Spark’s extraordinary heroine made more extraordinary still\""
+  },
+  {
+    "path": "/stage/2026/oct/11/the-haunting-of-hill-house-review-richmond-theatre-tour",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Haunting of Hill House review – a slick and spooky fright night\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/11/roy-lichtenstein-exhibition-whitney-museum",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘What could be discovered? What is new there?’: blockbuster exhibition celebrates Roy Lichtenstein\""
+  },
+  {
+    "path": "/culture/2026/oct/11/juliet-stevenson-interview-10-chaotic-questions",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Juliet Stevenson: ‘Do I have a nemesis? Where do we start? Putin, Musk, Trump, Erdoğan, Modi, Netanyahu’\""
+  },
+  {
+    "path": "/news/2026/oct/11/manchester-based-composer-creates-requiem-to-honour-enslaved-africans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Manchester-based composer creates requiem to honour enslaved Africans\""
+  },
+  {
+    "path": "/better-thinking-with-remarkable/2026/sep/14/how-till-lauer-creates-award-winning-new-yorker-covers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘I start the simple way – by putting pen to paper’: how illustrator Till Lauer creates award-winning New Yorker covers\""
+  },
+  {
+    "path": "/better-thinking-with-remarkable/2026/sep/02/what-i-learned-from-reducing-my-screen-time",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Deeper conversations, more creativity: what I learned from radically reducing my screen time\""
+  },
+  {
+    "path": "/better-thinking-with-remarkable/2026/sep/02/how-writing-by-hand-can-boost-creativity-and-better-ideas",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Fewer distractions, freer thinking: why putting pen to paper can help you have better ideas\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/11/dining-across-the-divide-edward-martin",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Dining across the divide: ‘He says net zero is a waste of money as we’ll hit 3C anyway. I think that’s nihilistic’\""
+  },
+  {
+    "path": "/travel/2026/oct/11/best-spa-towns-europe-autumn-wellbeing-holiday",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Healing waters: 10 of the best spa towns in Europe for a restorative autumn break\""
+  },
+  {
+    "path": "/thefilter/2026/oct/09/the-filter-uk-turns-two-favourite-products-tried-tested",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"The Filter turns two: 31 things we loved this year, from cloud-like duvets to the perfect running shoe\""
+  },
+  {
+    "path": "/food/2026/oct/11/how-to-make-pumpkin-soup-recipe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"How to make pumpkin soup - recipe\""
+  },
+  {
+    "path": "/food/2026/oct/10/tarte-vaudoise-a-la-creme-recipe-henry-harris",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Henry Harris' recipe for tarte Vaudoise à la creme\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'At our age we get to wake up and say: What are we doing today? Let's make love'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/11/the-moment-i-knew-he-wore-a-tutu-to-make-my-siblings-laugh",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The moment I knew: We were babysitting my younger siblings and he wore a tutu to make them laugh\""
+  },
+  {
+    "path": "/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK motorists can now see live fuel prices on Google Maps\""
+  },
+  {
+    "path": "/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Study finds Covid, Brexit and Truss mini-budget led to lasting decline in mental health\""
+  },
+  {
+    "path": "/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Privileged and proud: how nepo babies took fashion month by storm\""
+  },
+  {
+    "path": "/fashion/2026/oct/08/picture-pawfect-how-dogs-took-over-the-catwalk-and-stole-the-fashion-week-spotlight",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'My dog's built her own fashion community': how canine companions stole the fashion week spotlight\""
+  },
+  {
+    "path": "/culture/2026/oct/08/why-i-picked-a-naked-frock-as-dress-of-the-year-fashion-musuem-bath",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's not about sex but empowerment': why I picked a 'naked' frock as dress of the year\""
+  },
+  {
+    "path": "/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I hitchhiked from Sydney to Perth, and found comfort in the company of strangers\""
+  },
+  {
+    "path": "/travel/2026/oct/09/readers-favourite-wellbeing-holidays-europe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'A candlelit spa, followed by an ice-cold plunge and a nightcap': readers' favourite European wellbeing breaks\""
+  },
+  {
+    "path": "/travel/2026/oct/08/design-dutch-city-eindhoven-arty-break",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Vibrant, design-led and surprisingly green': why the Dutch city of Eindhoven is perfect for a relaxed arty break\""
+  },
+  {
+    "path": "/us-news/2026/oct/10/men-standing-up-to-rape-culture",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Six men on how they plan to stand up against rape culture\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/10/strength-stretches-expert-tips-to-make-you-a-better-runner",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Expert tips to make you a better runner - start slow, enlist a friend, choose strength over stretches\""
+  },
+  {
+    "path": "/money/2026/oct/10/storm-proof-home-roof-garden-pipes-flooding-winter",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to storm-proof your home, from roof tiles to garden fences\""
+  },
+  {
+    "path": "/membership/2026/oct/11/its-not-just-about-circling-things-on-a-map-how-our-journalists-use-and-corroborate-satellite-imagery",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's not just about circling things on a map': how our journalists use and corroborate satellite imagery\""
+  },
+  {
+    "path": "/uk-news/2026/oct/09/tell-us-your-financial-hopes-and-concerns-ahead-of-the-budget",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us your financial hopes and concerns ahead of the budget\""
+  },
+  {
+    "path": "/education/2026/oct/09/tell-us-affected-university-strikes-edinburgh-dundee-nottingham",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Tell us: have you been affected by the Edinburgh, Dundee or Nottingham strikes?\""
+  },
+  {
+    "path": "/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: have you been monitored or assessed by AI at work?\""
+  },
+  {
+    "path": "/world/2024/dec/08/trump-calls-ceasefire-ukraine-casualty-figures",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Trump calls for 'immediate ceasefire' in Ukraine after meeting Zelenskyy\""
+  },
+  {
+    "path": "/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Twelve killed and hundreds injured in Houthi attack at Riyadh airport\""
+  },
+  {
+    "path": "/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Andy Burnham says UK could 'go all the way' by rejoining EU\""
+  },
+  {
+    "path": "/society/2026/jul/30/more-prisoners-england-and-wales-recalled-than-released",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"More prisoners in England and Wales are recalled than released for first time\""
+  },
+  {
+    "path": "/society/2023/oct/16/thousands-of-prisoners-in-england-and-wales-could-be-released-up-to-18-days-early",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Government to release thousands of prisoners in England and Wales up to 18 days early\""
+  },
+  {
+    "path": "/politics/2024/oct/12/labour-warned-22bn-shortfall-will-last-years-without-higher-taxes-or-cuts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Closing £22bn shortfall will need tax rises or cuts for years, says Resolution Foundation\""
+  },
+  {
+    "path": "/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Green party votes to adopt policy that equates Zionism with racism\""
+  },
+  {
+    "path": "/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote\""
+  },
+  {
+    "path": "/politics/2026/sep/02/green-party-members-back-zack-polanski-to-stand-in-london-byelection",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Green party members back Zack Polanski to stand in London byelection\""
+  },
+  {
+    "path": "/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"UK politics: Green MP Siân Berry says opponents of Zionism motion were 'persuaded' not to fight it because of byelection – as it happened\""
+  },
+  {
+    "path": "/politics/2026/sep/11/zack-polanski-selected-green-party-holborn-st-pancras-byelection",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"People ‘incensed’ by North Sea plans can vote Green, says Zack Polanski\""
+  },
+  {
+    "path": "/politics/2026/oct/05/zack-polanski-may-rue-lack-of-leadership-when-greens-needed-him-to-act",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Zack Polanski may regret not using his influence when Greens needed him to act\""
+  },
+  {
+    "path": "/technology/2025/sep/13/uk-workers-wary-of-ai-despite-starmers-push-to-increase-uptake-survey-finds",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"Exclusive survey finds workers remain wary: a third do not tell bosses when they use the tools, and half think AI threatens the social structure.\""
+  },
+  {
+    "path": "/technology/2025/nov/04/experts-find-flaws-hundreds-tests-check-ai-safety-effectiveness",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Experts find flaws in hundreds of tests that check AI safety and effectiveness\""
+  },
+  {
+    "path": "/uk-news/2025/dec/29/family-pay-tribute-to-girl-2-who-died-after-falling-into-pond-on-christmas-day",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Family pay tribute to girl, 2, who died after falling into pond on Christmas Day\""
+  },
+  {
+    "path": "/politics/2025/jul/20/government-launches-orgreave-inquiry-40-years-after-clashes-at-miners-strike",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Government launches Orgreave inquiry, 40 years after clashes at miners' strike\""
+  },
+  {
+    "path": "/uk-news/2026/jun/23/south-yorkshire-police-video-officers-teenage-girls-rotherham",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"South Yorkshire police cleared after video of officers appearing to shove teenage girls\""
+  }
+]
