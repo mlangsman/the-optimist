@@ -1,0 +1,1666 @@
+{
+  "date": "2026-10-13",
+  "engine": "claude-code",
+  "results": [
+    {
+      "id": "a:/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+      "kind": "article",
+      "output": {
+        "headline": "Burnham makes the case for closer EU ties and a £10bn boost",
+        "bodyHtml": "<p>Andy Burnham has promised a “serious dialogue” over Britain’s long-term place in Europe, framing next month’s Brussels summit as a possible first step towards EU membership, as he said the existing relationship “is not good enough”.</p> <p>The prime minister said Britain must take a “clear-eyed rational look” at its long-term relationship with the bloc to boost economic growth and control immigration, which needed to go beyond Labour’s existing red lines.</p> <p>The next “reset” summit will take place on 20 November, ending months of uncertainty, with the two sides seeking to sign deals on food and drink, youth mobility and emissions trading, which Burnham hopes could provide a £10bn-a-year boost to the economy.</p> <p>One EU diplomat said a deal on the three “significant but modest” issues needed to be approved as a test of the UK’s good faith so both sides could get on with the “real reset” in the longer-term relationship.</p> <p>Sources on both sides believe they will be able to get other issues over the line at the summit next month, suggesting that a food and phytosanitary agreement would have been reached in July if the summit had gone ahead on its original date.</p> <p>Burnham pledged to raise concerns with his EU counterparts over possible protectionist “Made in Europe” trade rules, after the UK remained braced for a possible row amid industry fears they could lock out UK manufacturers.</p> <p>Burnham moved to clarify that he did not think Russian interference in the 2016 Brexit campaign had affected the final result, after he raised questions about the legitimacy of the outcome in comments at the weekend.</p> <p>Downing Street said the prime minister “absolutely” accepted the Brexit referendum result and believed it to be legitimate, while the foreign minister, Stephen Doughty, said it was clear Russia had attempted to interfere but had failed.</p> <p>In a statement to MPs, the first since the party conference recess, an otherwise confident-sounding Burnham said it would be a “major dereliction of duty” for his government to turn away from exploring closer relations with the EU.</p> <p>“We should not turn our backs on this opportunity and I hope all sides of this house will get behind the government’s efforts to land a positive outcome,” he said.</p> <p>“I believe our chances of doing so will be enhanced by being open to a discussion about our relationship with the EU in the longer term. If we are serious about promoting growth, controlling immigration, upholding our values and security, it is a conversation we must have.</p> <p>“Sticking with the status quo is not good enough for Britain. Worse, it would be a major dereliction of duty to turn away. We need to take a calm, clear-eyed, rational look at the world as it is today to consider what is best for our country.</p> <p>“Our immediate priority is securing a successful outcome at the summit, and I believe we should then set up a serious dialogue about the different options for our relationship in the long term.”</p> <p>Burnham denied he was reopening the Brexit debate, insisting he respected the referendum result, but added that he wanted to take a “pragmatic approach” to boost economic growth and improve cooperation on migration.</p> <p>Burnham rejected suggestions from Kemi Badenoch, the Conservative leader, that he may have been loose with his language, after facing questions over his remarks on a podcast on Sunday that Russia had interfered over Brexit.</p> <p>“It is a matter of record that Russian actors sought to interfere in the 2019 general election, and we think it is inconceivable that this was the first time,” he said.</p> <p>Burnham had said on Sunday it was clear that <a href=\"https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote?CMP=Share_iOSApp_Other\">Russia had interfered in the 2016 Brexit referendum</a> after he sought answers when he arrived in No 10. He did not disclose who gave him the assessment, what evidence it was based on or, crucially, whether any interference had affected the result.</p> <p>In his statement, Burnham told MPs they were right to raise the question of the “loss of immigration control” that came with Brexit, as Labour grapples with continuing public concern over the issue, and suggested Brussels recognised this.</p> <p>The UK is excluded from Eurodac, a database that holds biometric and ID data to identify asylum seekers and irregular migrants, and exited the Dublin regulation, a legal mechanism to return refugees to the European country through which they had first entered or transited.</p> <p>But while the prime minister told MPs a return to free movement was “not on the table” in his discussions with the EU, and said he would honour Keir Starmer’s manifesto red lines, he was unable to rule it out for a post-election future.</p> <p>Issues still to be resolved include a transition period for grains grown in the UK using recently approved fungicides not yet licensed in the EU. This would allow farmers harvesting this year to sell stockpiles next year even with the different regulations.</p> <p>The thorniest issue remains the youth mobility programme, allowing EU and British citizens under 30 to live, work or study in each other’s countries for up to three years. The two sides are at odds over the overall numbers, as well as the tuition fees students would pay at British universities.</p> <p>The biggest current risk to the UK of not aligning more fully with the EU is being locked out of the new Made in Europe initiative – aimed primarily at imports from China in strategic sectors such as renewable energy, nuclear and electric cars – which will block British-made components being used in EU supply chains.</p> <p>But Brussels is, at least, open to discussing the issue, and it may be part of the summit statement – a joint text agreed by both sides. The UK has the support of the Netherlands, Poland and Italy for inclusion in the scheme, but France in particular has posed a stumbling block.</p> <p>EU sources have insisted there can be no agreement on the issue with the UK at the summit, because the bloc is yet to agree its own position on the proposals. EU lawmakers hope to agree a position on a key proposal, the Industrial Accelerator Act, in December.</p> <p>Burnham acknowledged that Made in Europe presented “risks” to British manufacturing, perhaps in an attempt to address some concerns inside government that Downing Street hasn’t been prioritising the issue.</p> <p>He said: “It is important that we get to an arrangement here that works for both the UK and the EU. After all, we’re both trying to deal with the same issue, which is Chinese exports and the damaging effect that is having on our industry.”</p>",
+        "captions": [],
+        "standfirst": "<p>Burnham says next month’s EU summit could unlock £10bn a year in deals, as the UK works through friction with Brussels over new trade rules and he moves to clarify his Russian interference claims.</p>",
+        "progress": "Burnham has pledged to raise concerns over EU trade rules with his counterparts, as both sides work towards a deal at next month's summit.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist",
+      "kind": "article",
+      "output": {
+        "headline": "Scrutiny of student 'super app's China-linked servers prompts calls for transparency",
+        "bodyHtml": "<p>After the Guardian approached ZyMix about its server contract, the company rewrote its privacy policy and removed mention of Tencent (Frankfurt), which the policy had said stored user-generated content and messages. Tencent’s Shenzhen-based parent, Tencent Holdings, was added to a US military blacklist in January 2026 over its alleged affiliation to the People’s Liberation Army.</p> <p>A new messaging and payment “super app” marketed at British students uses servers owned by a Chinese company that has been put on a US military blacklist for its alleged affiliation to the People’s Liberation Army.</p> <p>ZyMix, which is being pushed on university campuses as the UK’s first super app designed “for gen Z”, combining chat, payments and community features, has a contract with a German-based subsidiary of Tencent Holdings, a Chinese conglomerate in Shenzhen.</p> <p>Tencent Holdings was added in January 2026 to the US Department of Defense’s (DoD) list of Chinese military companies, which is formally known as the section 1260H list.</p> <p>The citation on the DoD list says that the company, which is a gaming and social media conglomerate, is indirectly affiliated to the Chinese People’s Liberation Army.</p> <p>The blacklist is part of a US attempt to counteract what it regards as Beijing’s efforts to increase its military power by using technology from Chinese firms, universities and research programmes.</p> <p>The DoD is prohibited from entering into, renewing or extending contracts for goods, services or technology with any entity on the list although wider sanctions are not automatic.</p> <p>A Tencent spokesperson said: “Tencent’s inclusion on this list is clearly a mistake. We are not a military company or supplier. Unlike sanctions or export controls, this listing has no impact on our business. We will nonetheless work with the Department of Defense to address any misunderstanding.”</p> <p>China’s footprint in higher education in the UK has become a controversial issue. MI5 recently warned British universities <a href=\"https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities\">to cut ties</a> with the China General Technology Research Institute.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing\">MI5 China alert will send chill through UK’s cash-strapped universities</a> </p> </aside> <p>The domestic intelligence service claimed it was secretly channelling funding from Beijing’s intelligence apparatus to UK-linked academics to improve the technical espionage capabilities of China’s ministry of state security.</p> <p>The link between the Chinese-owned infrastructure and ZyMix was initially disclosed in the company’s privacy policy at the time of its launch last week.</p> <p>The policy now states that users’ personal data is stored and processed primarily in the United Kingdom and the EU, adding that “some of our service providers are located in other countries, including the United States”.</p> <p>It goes on to say that “auxiliary infrastructure providers, hosted in the EU, receive only encrypted user messages and limited technical data, such as technical statistics, licence validation when the app starts”.</p> <p>A spokesperson said: “As a newly launched startup, we are updating our privacy notice as we develop our services, including clarifying that Tencent, Twilio and the other providers concerned are used solely for performance testing.”</p> <p>The spokesperson added: “Our agreement is with Tencent Cloud Europe BV, which we use for auxiliary services, rather than as the provider that stores ZyMix user data. We take our obligations under UK data protection law seriously.”</p> <p>The new privacy policy invites those who wish to know the identity of their suppliers to request the information from the company.</p> <p>In response to a request from the Guardian, Tarique Ghaffur, a former assistant commissioner at the Metropolitan police, who described himself as a security consultant for ZyMix, responded.</p> <p>He said: “We have reviewed your request as against our private privacy [sic] you mentioned. Unfortunately, at the present time for reasons of commercial confidentiality, contractual obligations and legal privileges, we are not able to provide you with the requested information.”</p> <p>Fraser Sampson, a professor of security and national governance and formerly the UK’s biometrics and surveillance camera commissioner, said he was “sceptical when ‘commercial confidentiality’ arguments are used to duck basic policy questions and amending policy on the fly is never reassuring”.</p> <p>He added: “When companies ask us for our personal data, they should expect us to ask them where it’s being kept, for what purpose(s) and who they’re going to share it with – and be prepared to answer fully.”</p> <p>Sam Dunning, the director of the UK-China Transparency NGO, said: “There are serious questions about whether ZyMix have taken due care before launching this product.”</p> <p>A spokesperson for ZyMix said: “Whilst still in its beta stage, the ZyMix app has been developed to fully comply with all UK data, privacy and financial regulations.”</p> <p>ZyMix is heavily targeting the university market and is offering £200 to £400 a month to people who agree to be brand ambassadors on campuses. Staff roles have also been advertised in the UK by ZyMix for Mandarin-speaking applicants.</p> <p>One advert on LinkedIn for the job of operations manager (Mandarin speaking) required “excellent written and verbal communication skills in both English and Mandarin (required for daily communication with the China team)”.</p> <p>Separately, a distinct company appeared to be recruiting on behalf of ZyMix on WeChat, the Chinese instant messaging service, saying: “The product, R&amp;D, design and testing team is in Greater China, with branch-company bases covering: Taipei / Shenzhen / Guangzhou / Hangzhou / Chengdu / Zhengzhou.”</p> <p>Ghaffur said that Flicknmix, the UK company that publishes the ZyMix app, “does not have any subsidiaries or branch offices in China. Our aim is to create opportunities within the UK”. A spokesperson for ZyMix described it as “British born”.</p>",
+        "captions": [],
+        "standfirst": "<p>ZyMix removed mentions of Tencent, the Chinese conglomerate linked by the US to the People’s Liberation Army, from its privacy policy after the Guardian asked about its Chinese-owned server contract.</p>",
+        "progress": "Fraser Sampson and the UK-China Transparency NGO are pressing ZyMix for transparency over its Chinese-linked server contract.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/politics/2026/oct/12/nigel-farage-adviser-influential-role-polling-firm-chris-bruni-lowe",
+      "kind": "article",
+      "output": {
+        "headline": "Polling body demands answers over hidden Farage-linked consultant's role",
+        "bodyHtml": "<p>The Guardian can reveal that a close adviser to Nigel Farage had an influential role at a national polling company despite not being publicly associated with the firm.</p> <p>Several sources who have worked at Redfield &amp; Wilton Strategies said Chris Bruni-Lowe, Farage’s private pollster for many years, played an important role in its operations and used it to develop potential campaign strategies.</p> <p>The firm, founded in 2020, is owned by Bruno Rodrigues, a lawyer. Its main public face was Philip van Scheltinga, a Harvard graduate.</p> <p>Former employees have now revealed the important role of Bruni-Lowe, who sometimes went by the name “Chris Redfield”, under which <a href=\"https://www.washingtonpost.com/lifestyle/kanye-west-presidential-campaign/2020/07/18/7e043434-c905-11ea-8ffe-372be8d82298_story.html\">quotes were published</a> by the Washington Post newspaper. As the Covid pandemic grew and the UK entered lockdown, the company’s polls received increasing coverage, even while the source of the firm’s polling expertise was unclear.</p> <p>As well as ordering UK and US voter intention polls, sources said Bruni-Lowe directed research on issues such as council spending, and appeared “obsessed” with producing a dossier which he suggested could be sold to political parties.</p> <p>Bruni-Lowe’s role at the company will amplify questions about transparency in the polling industry, given his longstanding association with Farage at a time of intense scrutiny over the party’s use of polls to shape its political narrative.</p> <p>The rules of the British Polling Council do not require pollsters to state any political affiliations, but they have strict guidelines on how they must declare who has commissioned and paid for any polling.</p> <p>In a statement, Rodrigues, the company’s sole director, said there had never been “an institutional, polling, research, commissioning or financial relationship” between Redfield &amp; Wilton and Reform UK or Farage.</p> <p>He said Bruni-Lowe had worked as a “consultant” from mid-2020 until late 2022, and returned “voluntarily” in the summer of 2025 to train interns. Rodrigues added that Bruni-Lowe was “an important and highly valued member” of the team.</p> <p>Sources said Bruni-Lowe, who some employees said had been known as “Chris Redfield”, was heavily involved in the company’s polling operations.</p> <p>Rodrigues said the surname Redfield was used as an email account convention within the organisation, citing other examples of “Philip Redfield” and “Bruno Redfield”. He said: “It was not a device created specifically for Chris and it did not conceal his identity from people working within the company.”</p> <p>Nonetheless, the situation was confusing enough that at least one newspaper, the Washington Post, attributed quotes to that name, while notes taken by one former employee during an oral induction in the summer of 2021, and seen by the Guardian, described “boss – Chris Redfield is COO essentially”.</p> <p>Rodrigues said: “He was never presented to staff as the company’s chief operating officer and staff were never instructed to treat him as such.” He added that Van Scheltinga, as director of research, led the “day-to-day operation”.</p> <p>The Guardian can also reveal that Dan Jukes, then a senior adviser to Farage, sought to promote Redfield &amp; Wilton’s work in 2020, looking to place exclusive polls in publications including the Guardian, which turned down the offer.</p> <p>Jukes stepped down as Farage’s chief of staff recently over a scandal in which undercover reporters posed as potential overseas donors to Reform UK. Footage published by Channel 4 News showed the co-founder of polling firm JL Partners, James Johnson, apparently acknowledging that Jukes had commissioned polling funded by an overseas donor. </p> <p>The polling had appeared in newspapers without any reference to the party, with JL Partners acknowledging “weaknesses” in its procedures.</p> <p>Jukes denies wrongdoing and Reform UK has said the party itself did not commission the work. On Wednesday, Reform announced that an internal inquiry had <a href=\"https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation\">cleared the officials of breaking the law</a>. The matter remains under police investigation.</p> <p>Redfield &amp; Wilton started producing polls in 2020 with little information about the people behind the company. During its publicly active years before it became less visible in late 2024, its voter intention polls frequently appeared in politically influential newsletters from Politico, the Times, and the New Statesman.</p> <p>Bruni-Lowe ran Farage’s 2015 election campaign, helped test messaging for the formation of the Brexit party and advised on the 2019 local elections campaign, as well as having produced private polling for Farage since at least 2014, apart from during a brief period of working for Rishi Sunak before the 2024 election. In his book on political strategy, he writes of having worked for “organisations and candidates of all political persuasions”.</p> <p>He is considered to be part of Farage’s inner circle and was close enough to the Reform UK leader to have been present on a trip to party donor Christopher Harborne’s Thai wellness retreat at Christmas in 2022 to mark the crypto billionaire’s 60th birthday.</p>    <p>Other guests photographed at the meeting include Farage’s unpaid aide and convicted fraudster George Cottrell. </p> <p>In May 2023, Van Scheltinga and Bruni-Lowe were photographed having drinks at a Mayfair restaurant with Farage, Cottrell and Richard Tice, the Reform UK deputy leader.</p>    <p>Rodrigues said: “The existence of personal or social meetings involving individuals associated with the company does not establish a corporate relationship between Redfield &amp; Wilton Strategies and Reform UK.”</p> <p>While much of Redfield &amp; Wilton’s published polling related to voter intentions in the UK and the US, sources said Bruni-Lowe had its staff develop a “dossier” on local authority performance between autumn 2024 and spring 2025.</p> <p>One source said he suggested the firm’s work could be sold to political parties, and that Bruni-Lowe appeared “obsessed” with the dossier. Research by employees included freedom of information requests to councils to find expenditure on translation services.</p> <p>Rodrigues said the FOI project was a “commercial research project” and translation services were just one of “several dozen categories” examined by the company in a project led by Van Scheltinga. He added that none of the research was supplied to Reform or Farage.</p> <p>The company’s other work, sources said, included polling in Montenegro, Hungary, Hong Kong and the Bahamas, as well as research about attitudes in the UK to gold and cryptocurrencies.</p> <p>Employees were not always told exactly how their work would be used. According to one former employee, they were told their work on a foreign election would be for the Telegraph, but the polling never appeared in the newspaper. Another said they believed their work on cryptocurrencies was for a client.</p> <div class=\"element element-callout\" data-campaign-id=\"5f50fa70-f3d9-4e68-86f9-c4f6d2993fa4\" > </div>  <p>One unusual piece of work by the company was an October 2021 submission to an inquiry into central bank digital currencies (CBDCs) carried out by the House of Lords economic affairs committee. The company cited polling it said “was self-funded internally by Redfield &amp; Wilton Strategies Ltd for the purpose of this submission”.</p> <p>The submission said the scepticism of the British public over the UK government’s capacity for innovation meant “it is strategically important that alternatives to a CBDC from the private sector, including those that are already in use, are also given the opportunity to be developed further”.</p> <p>According to a person who worked at the company at the time of the submission, “all of the crypto stuff came down from Chris [Bruni-Lowe]”.</p> <p>One online profile for Rodrigues, a solicitor based in London, refers to him holding a directorship of an “innovative market research firm”. However, according to former employees, he had a limited role in the day-to-day running of Redfield &amp; Wilton. One source said that at a rare in-person meeting Rodrigues was “paraded around on a laptop on a Zoom call”.</p> <p>Van Scheltinga was frequently quoted giving analysis of the company’s polling and wrote columns for the Times and Telegraph.</p> <p>Van Scheltinga was the listed contact for the company with the British Polling Council, the trade body for pollsters, but one industry source said he never attended BPC meetings. This led to demands from the BPC for a representative of the group to appear before them: that was ultimately Rodrigues, the nominal director, who maintained “total silence”, according to the industry source.</p> <p>Bruni-Lowe declined to comment. Van Scheltinga did not respond to requests for comment.</p>",
+        "captions": [],
+        "standfirst": "<p>Former employees of Redfield &amp; Wilton Strategies have revealed that Chris Bruni-Lowe, Farage’s private pollster for many years, held an unpublicised, influential role at the firm, using it to develop potential campaign tactics, sources say.</p>",
+        "progress": "The British Polling Council demanded a representative appear before it after the firm’s contact never attended BPC meetings, though Rodrigues maintained ‘total silence’.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "kind": "article",
+      "output": {
+        "headline": "IMF sets out global exposure to an AI share market correction",
+        "bodyHtml": "<p>The International Monetary Fund has set out how an AI share price crash rippling out across global markets could affect world financial stability.</p> <p>In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies, along with their increasing debt pile, as one reason why risks in the system are ‘elevated’.</p> <p>‘The consequences of an AI correction could be global,’ the IMF warned. Aside from the US, Asian markets would be most exposed, while the UK and euro area are potentially more insulated – though their investors with exposure to the US would still be hit.</p> <p>An AI crash was one of three ‘salient risks’ to stability identified by the IMF, alongside <a href=\"https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield\">rising government borrowing costs</a> and the threat of a big cyber-attack.</p> <p>The IMF called this trio of factors ‘plausible near-term catalysts for a sharp tightening of financial conditions and market turmoil’.</p> <p>The IMF’s analysis underlined the interconnected nature of big AI companies, and the high levels of borrowing being undertaken to fund investment in the sector.</p> <p>‘Weaker or less durable investment and profitability in AI could trigger a correction in AI-related asset prices, exacerbated by rising leverage, concentrated exposures and circular financing arrangements,’ it said.</p> <p>Such a reassessment would then ‘sharply reduce investment, trigger equity market corrections, and tighten financial conditions, with global spillovers’.</p> <p>The ‘magnificent seven’ big tech stocks – Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla – account for more than 35 per cent of the S&amp;P 500 share index in the US, up from 12 per cent a decade ago, and their total market capitalisation has increased by more than 50 per cent in the past two years.</p> <p>Yet the IMF also warned of ‘growing evidence’ that the successful rollout of AI ‘may not require investment on the massive scale being undertaken by “hyperscaler” firms’, and that ‘potential economic gains may not be as large as expected’.</p> <p>The hyperscalers are the companies building the underlying infrastructure for the AI rollout, including many vast datacentres. They include Amazon Web Services, Google, Meta and Oracle.</p> <p>The IMF also highlighted the growing leverage, or borrowing, that underpins the current boom and could amplify the effects of a crash.</p> <p>In particular, it identified soaring debts contracted by the companies themselves, hedge fund investment in the sector, and retail investors borrowing to speculate in AI stocks.</p> <p>In the event of an AI-led market downturn, ‘these growing sources of leverage heighten the potential for forced selling and surges in equity volatility’, it said.</p> <p>It also pointed to the prevalence of <a href=\"https://www.theguardian.com/business/2025/oct/08/openai-multibillion-dollar-deals-exuberance-circular-nvidia-amd\">‘circular financing’ deals</a>, tying stronger AI companies to weaker partners in the same sector, and potentially exacerbating the impact of a share price correction.</p> <p>It identified $300bn (£227bn) worth of transactions between hyperscalers and ‘weaker AI firms’ in just the past three years, supplemented by $650bn in debt, in exchange for $1.4tn in future financial commitments.</p>",
+        "captions": [],
+        "standfirst": "<p>The UK and euro area are potentially more insulated than the US and Asia, the IMF says, as it flags AI valuations and debt, rising borrowing costs and cyber-attack exposure as factors that could unsettle markets.</p>",
+        "upside": 1,
+        "context": {
+          "text": "Britain's chancellor, John Healey, is on course to reduce the budget deficit this year and again in 2027.",
+          "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades"
+        }
+      }
+    },
+    {
+      "id": "a:/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
+      "kind": "article",
+      "output": {
+        "headline": "Government clears £5bn Send debt, guarantees 90 per cent of debts to March 2026",
+        "bodyHtml": "<p>The government has already cleared more than £5bn in historic council Send debts, but councils forecast that remaining pressures could become “catastrophic”, with debts reaching a record £10bn over the next 18 months, as a result of rapid growth in demand for special educational needs and disability (Send) support in English schools.</p> <p>A <a href=\"https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications\">surge in requests</a> has led authorities to predict they will re-accrue that £5bn figure by April, and double it by 2028.</p> <p>The recent acceleration in applications for education, health and care plans (EHCPs), which mandate support for conditions such as speech and learning difficulties, autism or ADHD, is thought to partly reflect a rush by parents and schools to <a href=\"https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england\">secure support</a> before the government’s changes to Send provision take effect.</p> <p>The prospect of council finances being overwhelmed by schools’ Send spending reflects similar concerns in the NHS and the benefit system over the strain the rising prevalence of mental health and neurodevelopmental conditions has put on public services.</p> <figure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/datawrapper/embed/WJvVE/1/\" data-alt=\"graphic of Send deficit forecast\"> <a href=\"https://interactive.guim.co.uk/datawrapper/embed/WJvVE/1/\">Interactive</a> </figure> <p>The government-commissioned Fonagy report, published last week, found the increase in these conditions was <a href=\"https://www.theguardian.com/society/2026/oct/09/fonagy-review-snowflakes-young-people-mental-health\">real and a cause of distress</a> to many who have them, but the resulting demand for support <a href=\"https://www.theguardian.com/society/2026/oct/09/nhs-fonagy-review-autism-adhd-mental-health-conditions-care\">would be unsustainable</a> without introducing new ways to manage the pressure on public services.</p> <p>Ministers have agreed to pay 90% of English top tier councils’ Send debts accumulated to March 2026, but it is unclear how far future Send debts will be covered. Ministers have previously said future debt support would be “appropriate and proportionate” but that it would “not be unlimited”.</p> <p>A government spokesperson said: “We inherited a Send system under immense strain, and have always recognised that both deficits and EHCP applications will continue to rise before our reforms are fully rolled out.</p> <p>“On top of grants to pay off 90% of council deficits, we’re investing billions to make sure every community has easy, early access to specialists like speech and language therapists, and so councils can deliver their tailored local reform plans.</p> <p>“Fixing the Send system will take time and councils will need further support with deficits, so we will set out the details before March 2028.”</p> <p>The County Councils Network (CCN), which published the forecasts on Tuesday, said the overspending was not the fault of councils and called on ministers to guarantee future Send debts run up by local authorities, some of whom would be otherwise left effectively bankrupt as a result of meeting their legal duties.</p> <p>Linden Kemkaran, the CCN’s Send spokesperson, said: “These deficits have not accumulated because councils have chosen to spend recklessly: they are the result of having to meet rapidly growing statutory demand, which has only intensified this year, without funding keeping pace.</p> <p>“If councils are left carrying billions of pounds of Send debt, it will not just be a problem for local authorities. Taxpayers and local communities will ultimately bear the consequences as councils face impossible choices about how to protect frontline services while managing debts that have accrued through no fault of their own.</p> <p>She added: “As well as councils absorbing skyrocketing costs, children and young people will face increasingly long waits for support and educational outcomes will continue to flatline. New ministers now need to provide certainty that they will deliver the full package of reforms needed to ensure the system works much better for young people, schools and councils.”</p> <p>The government’s reforms aim to gradually replace the current system in England with a <a href=\"https://www.theguardian.com/education/2026/sep/06/minister-looks-to-essex-school-blueprint-transform-send-provision\">more inclusive approach of Send support</a> in mainstream schools that in principle obviates the need for an EHCP. However, parents appear to be rushing to secure formal support now to avoid any future uncertainty.</p> <p>Without a ministerial guarantee to wipe future overspending, councils say they are at risk of bankruptcy when those accumulated debts – currently kept off town hall balance sheets under a special “override” arrangement with the Treasury – go back on to the books in April 2028 when the override is due to expire.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence\">Headteachers threaten strike ballots after losing confidence in Ofsted</a> </p> </aside> <p>The CCN said anything less than a ministerial commitment to pay down 90% of future Send debt would be a “financial catastrophe” for councils – and some authorities would struggle with solvency even if they retained just 10% of their Send debts.</p> <p>Publicly available internal reports by local authorities show a number are predicting overspends of more than £100m in 2026-27 alone. Hampshire county council is forecasting a £200m deficit for this year. Others include Surrey, East Sussex, Kent, Worcestershire and Norfolk county councils.</p> <p>The EHCPs are legal documents agreed between local authorities and families in England detailing the support required for children and young people up to the age of 25, allowing access to extra funding or places in special schools.</p> <p>In January, the number of young people with EHCPs reached 718,000, after a 12.5% increase over the past 12 months. This was the largest year on year increase since the plans were introduced in 2014. An additional 1.3 million young people have <a href=\"https://www.theguardian.com/education/2026/jun/11/pupils-england-special-educational-needs\">identified special needs</a>, according to <a href=\"https://explore-education-statistics.service.gov.uk/find-statistics/special-educational-needs-in-england/2025-26\">official data</a>.</p> <p>Many councils are anticipating annual double digit increases over the next three years, with several now projecting that at the current rates of increase, nearly one in 10 pupils will have an EHCP by 2029.</p> <p>The Fonagy report said the growth in EHCPs had “substantially outpaced the capacity” of the education system to respond. Of the 105,300 statutory assessments carried out in 2024, 94% resulted in the award of an EHCP.</p> <p>Owen Mapley, the chief executive of the Chartered Institute of Public Finance and Accountancy, said: “The continued escalation of Send deficits exposes a serious failure to align statutory responsibilities with funding levels. Local government chief financial officers have been calling attention to this disconnect for years as it undermines proper financial management practice.”</p>",
+        "captions": [],
+        "standfirst": "<p>The government has already cleared £5bn of council Send debt and is investing in specialist support, as councils forecast a ‘catastrophic’ shortfall reaching £10bn by 2028.</p>",
+        "progress": "Ministers have cleared £5bn of council Send debt, agreed to fund 90 per cent of debts to March 2026, and are investing in specialist support.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study",
+      "kind": "article",
+      "output": {
+        "headline": "Lead researcher calls on doctors to tell patients ‘I believe you’",
+        "bodyHtml": "<p>Melanie Sloan, the study’s lead author, is calling on doctors to stop assuming patients’ symptoms are psychological, after a study found women with autoimmune conditions are up to 74% more likely than men to be told their symptoms are psychological or psychosomatic, and face much longer waits for a diagnosis and treatment.</p> <p>Hundreds of millions of people – about one in 10 globally – are affected by autoimmune conditions, which can cause a range of health issues including fatigue, muscle pain and rashes.</p> <p>But research by the University of Cambridge and University of East Anglia suggests a stark gender divide when it comes to how signs of the conditions are handled by doctors.</p> <p>Women are more likely to have their conditions wrongly attributed to psychiatric causes, more likely to have symptoms misdiagnosed as psychosomatic, and more likely to experience delays in getting a diagnosis, according to the study.</p> <p>The lead author, Melanie Sloan, said: “The damage caused to women by these types of misdiagnosis can be very long lasting in terms of trusting doctors and their own self-esteem.”</p> <p>Sloan, a researcher in the department of public health and primary care at Cambridge and UEA, said some women were forced to wait years before finally getting a diagnosis, causing long delays to treatment for their condition.</p> <p>Sloan said the findings “highlight that psychological or mental health explanations can be given too soon”.</p> <p>She added: “This is true for both sexes, but our study suggests that females may be particularly vulnerable to these types of misdiagnoses.</p> <p>“It is really important that symptoms are not automatically assumed to be psychological and for doctors to just say, ‘I believe you,’ to patients with symptoms that the doctors cannot see.”</p> <p>The study, published in the <a href=\"https://www.thelancet.com/journals/eclinm/home\">Lancet eClinicalMedicine</a> journal, included more than 6,600 people with autoimmune conditions. Most were female and from the UK.</p> <p>Patients listed their main condition, with almost a quarter of the women having autoimmune thyroid disease, which can cause the gland to become underactive – known as Hashimoto’s disease – or overactive, known as Graves’ disease. Hashimoto’s disease can cause weight gain, hair loss, fatigue and joint pain, while the symptoms of Graves’ disease include bulging eyes, palpitations and weight loss.</p> <p>One in seven women in the study had systemic lupus, which can cause tiredness, rashes and muscle pain.</p> <p>Among male patients, rheumatoid arthritis, vasculitis and antiphospholipid syndrome (APS), also known as “sticky blood” syndrome, were the most common conditions.</p> <p>Researchers found 43% of women reported being told their condition was down to a psychiatric cause compared with a third of men (33%).</p> <p>A third (34%) of women also reported having symptoms misdiagnosed as psychosomatic – meaning they were triggered or worsened by stress or anxiety – compared with 22% of men.</p> <p>Overall, after accounting for factors including age, disease group, continent and household finances, researchers said women were 46% more likely to report having received a psychiatric misdiagnosis, and 74% more likely to report a psychosomatic misdiagnosis than men.</p> <p>Researchers also found women reported much longer periods between the onset of symptoms and receiving a diagnosis, as well as more healthcare consultations. Among men, the most frequently reported time to diagnosis was less than three months. Among women, it was one to two years.</p> <p>Autoimmune conditions, which happen when the immune system attacks the body by mistake, can be complex to diagnose as they often present with symptoms common in the wider population.</p> <p>The study team said “broader diagnostic challenges affect both sexes” but “females may face additional disadvantages”.</p> <p>They added: “Historical biases in medicine may persist, including positioning females as less credible and emotional reporters of symptoms than males.”</p> <p>Shaista Tayabali, a patient affected by an autoimmune condition who was part of the research team and a co-author of the study, said: “The differences between the sexes in misdiagnoses for people with autoimmune diseases is stark.</p> <p>“The fact that females reported higher rates of psychiatric and psychosomatic misdiagnoses than males … suggests that historical gender biases remain a challenging aspect of the diagnostic journey.</p> <p>“Although labels such as hysteria are outdated, and fortunately rarely used nowadays, as women we still often have a harder time having our symptoms believed and therefore addressed accurately.”</p>",
+        "captions": [],
+        "standfirst": "<p>Melanie Sloan, the study’s lead author, calls for doctors to stop assuming symptoms are psychological, as Cambridge research finds women up to 74% more likely than men to be misdiagnosed and wait longer for diagnosis.</p>",
+        "progress": "Lead author Melanie Sloan says doctors should tell patients, ‘I believe you’, instead of assuming symptoms are psychological.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+      "kind": "article",
+      "output": {
+        "headline": "Breaking Bad costars celebrate RJ Mitte's legacy as disability advocate",
+        "bodyHtml": "<p>“It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,” Mitte’s representatives said in a statement. “Drawing from his own experience living with cerebral palsy, Mitte brought authenticity to the role and built a platform on disability awareness and inclusion.”</p> <p>Offscreen, Mitte was an outspoken advocate for disability representation in entertainment, and served in various philanthropic roles, including as an ambassador for United Cerebral Palsy and as president of the Mitte Foundation.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/lifeandstyle/2016/dec/23/rj-mitte-by-13-i-was-the-main-breadwinner-for-my-family-it-was-scary-but-necessary\">RJ Mitte: ‘By 13, I was the main breadwinner for my family. It was scary but necessary’</a> </p> </aside> <p>The <a href=\"https://www.theguardian.com/tv-and-radio/breaking-bad\">Breaking Bad</a> actor RJ Mitte died on Monday aged 34, his representatives confirmed.</p> <p>Mitte died in Brownsville, <a href=\"https://www.theguardian.com/us-news/texas\">Texas</a>. No cause of death was given.</p> <p>The Brownsville Police Department said no foul play was suspected and the investigation into his death was ongoing. Cameron County justice of the peace, Cyndi Hinojosa told the Associated Press that an autopsy would be performed.</p> <p>From the age of 15, Mitte played Walter White Jr, the son of <a href=\"https://www.theguardian.com/tv-and-radio/bryan-cranston\">Bryan Cranston</a>’s high school chemistry teacher turned drug kingpin, on 56 episodes of the acclaimed AMC show, which is <a href=\"https://www.theguardian.com/tv-and-radio/2019/sep/16/100-best-tv-shows-of-the-21st-century\">often</a> <a href=\"https://www.theguardian.com/tv-and-radio/2018/jan/20/breaking-bad-10-years-on-tv-is-still-in-walter-whites-shadow\">cited</a> as one of the best television programs of all time.</p> <p>Mitte had cerebral palsy, a condition he shared with his Breaking Bad character.</p> <p>In 2015, he <a href=\"https://www.theguardian.com/tv-and-radio/2015/jan/07/rj-mitte-walt-jr-nothing-compare-to-breaking-bad-cerebal-palsy\">spoke to the Guardian</a> about being a disabled actor who plays disabled characters.</p> <p>“You accept the risks and you accept these will be the parts you play. But it’s all about how you play those parts – you have to show the inner strength that people have.”</p> <p>Mitte’s costars paid tribute to him after news of his death broke, including Bryan Cranston <a href=\"https://www.instagram.com/p/DeasvPaxoaA/\">who wrote a lengthy tribute on Instagram</a>.</p> <p>“I’m in deep despair as I write this tonight,” Cranston wrote. “RJ Mitte, my sweet son on Breaking Bad has died. I met him when he was only 14 years old when he was cast as Walter White Jr, a part he played with such joy and enthusiasm. Born with cerebral palsy, he never – ever – allowed that challenge to be an excuse for anything. He met the demanding shooting schedule head on with great determination. Always listening to the advice that his TV parents (Anna Gunn and myself) gave him – but being a teenager, sometimes mischievously ignoring the counsel in order to learn the hard way… He was one of the stars of a hit TV show – but still a kid.</p> <p>“That kid was pretty raw when we started shooting the pilot in February of 2007, but little by little we watched him grow into a really fine actor. He parlayed his experience on the show to be a vocal advocate for performers with disabilities, and was the head of a philanthropic organization with a focus on helping the disabled community. All that promise and potential now is such a loss.”</p> <p>Cranston said he “thoroughly enjoyed being with him throughout the years on the series, and after the spotlight on Breaking Bad dimmed… I’ll miss you, son.”</p> <p>Aaron Paul, who played Jesse Pinkman, said in a statement: “I am at a loss. I am heartbroken over this news. RJ, I love you my friend. You will be missed.”</p> <p>Dean Norris, who played Walt Jr’s uncle Hank Schrader, <a href=\"https://www.instagram.com/p/DeaR8aiS0xq/\">wrote</a> on social media: “Though RJ didn’t play my TV son, I always looked out for him as a young kid on set. He was a sweetheart of a young man and will be greatly missed. This is so heartbreaking, I can’t believe it. Thinking of him and his family.”</p> <p>In addition to Breaking Bad, Mitte had roles on several series, including Switched at Birth and The Guardians of Justice. Just days before his death, he was <a href=\"https://people.com/rj-mitte-s-first-audition-was-an-anti-meth-commercial-before-breaking-bad-12166545\">promoting</a> his new movie, Talking to Strangers, billed as a “<a href=\"https://www.instagram.com/talkingtostrangersmovie/\">romantic tragedy</a>”.</p> <p>Earlier this month, Mitte <a href=\"https://www.youtube.com/watch?v=s-Udo76fRso\">appeared</a> on the Joe Vulpis Podcast, speaking in depth about his time on Breaking Bad. He noted his character was based on a real-life friend of the show’s creator, <a href=\"https://www.theguardian.com/tv-and-radio/vince-gilligan\">Vince Gilligan</a>.</p> <p>“It really felt real playing this character and getting into the groove with this character,” Mitte said.</p> <p>Born in 1992, Mitte was raised in Mississippi by adoptive parents. In a <a href=\"https://www.theguardian.com/lifeandstyle/2016/dec/23/rj-mitte-by-13-i-was-the-main-breadwinner-for-my-family-it-was-scary-but-necessary\">2016 interview</a> with the Guardian, he said he found out he was adopted when he was eight years old.</p> <p>“My step-brother told me. He’d overheard my mum and my stepdad at the time talking about it, and he threw it in my face. But I didn’t really care. It didn’t seem relevant, because I never once in my life felt unloved or like I was a burden.”</p>",
+        "captions": [],
+        "standfirst": "Bryan Cranston led tributes from Breaking Bad costars to RJ Mitte, calling him ‘my sweet son’, after the actor and disability rights advocate died in Brownsville, Texas, aged 34.",
+        "progress": "Breaking Bad costars including Bryan Cranston, Aaron Paul and Dean Norris are publicly honouring Mitte's acting and disability advocacy.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/food/2026/oct/13/whale-meat-curry-1920s-seafood-recipes-narrowing-uk-culinary-culture",
+      "kind": "article",
+      "output": {
+        "headline": "Food historian cooks her way through a century of Britain’s seafood recipes",
+        "bodyHtml": "<p>In days gone by, the UK’s domestic cooks were an adventurous lot when it came to seafood, prepared to dish up anything from an oyster cocktail to whale meat curry.</p> <p>Ruth Thurstan, from the University of Exeter, has studied more than 1,000 fish and shellfish recipes published in the British version of the lifestyle magazine <a href=\"https://www.goodhousekeeping.com/uk/\">Good Housekeeping</a> from 1923 to the present, charting how tastes have changed over the last century. Her investigation suggests tastes have become much narrower.</p> <p>She found that 67 species had been included in recipes over the last 100 years but, since the 1970s, the ‘big five’ – cod, haddock, tuna, salmon and prawns – have dominated, accounting for more than 60 per cent of all mentions. The number of recipes featuring delicacies such as oysters, flatfish and herring have plunged.</p> <p>Thurstan said: ‘For decades, British cooks have turned to published recipes for inspiration about what to put on the dinner table. I wondered whether these everyday sources could tell us how our relationship with fish has changed over time.’</p> <p>She said there were three broad phases:</p> <ul> <li><p>Pre-1970s: A diverse mix of species in recipes. No single group ruled but flatfish, herring and oyster were prominent. Recipes emphasised domestic skills, economy and preparing whole fish.</p></li> <li><p>The 1970s shift: A decline in diversity of fish species in recipes, with increased focus on the ‘big five’.</p></li> <li><p>1980s-present: ‘Big five’ present in the majority of recipes, with a decline of other species – though not all have vanished entirely.</p></li> </ul> <p>Recipes from the 1920s and 30s that Thurstan found included oyster cocktail, lobster canapes and halibut steaks in milk. The 1940s – when rationing was in force – featured recipes by the then Ministry of Food explicitly encouraging the consumption of fish and other protein sources – including a recipe for curried whale meat.</p> <p>In the 1960s, recipes included plaice véronique and chilled prawn soup. Cooks of the 70s were asked to consider rustling up cod roe on toast and tuna soured cream quiche. There was also a sharp increase in recipes mentioning tinned fish.</p> <p>Recipes in the 1990s featured the likes of herb-crusted salmon and prawn and peanut noodles while more ‘aspirational’ dishes in the 2020s have included golden hasselback salmon, gochujang sticky cod and miso prawn skewers.</p> <p>‘The results reveal a striking story of change,’ said Thurstan, whose research is conducted at the <a href=\"https://74n5c4m7.r.eu-west-1.awstrack.me/L0/https:%2F%2Fecologyconservation.exeter.ac.uk%2F/1/010201a12065930b-5f1a4deb-c217-478d-951b-82298b816a92-000000/gEU1xx2h7SVEfB3tAR_UaIQjlNw=473\">Centre for Ecology and Conservation</a> within Exeter’s Penryn Campus in Cornwall.</p> <p>‘This wasn’t simply a case of fewer species being available – herring, oyster and lobster can all still be bought – but it reflects a genuine narrowing of what readers were being shown and encouraged to cook.’</p> <p>According to the Marine Stewardship Council, <a href=\"https://www.msc.org/uk/what-you-can-do/sustainable-seafood-swaps-for-the-big-five\">the big five make up 80 per cent of the fish and seafood consumed</a> in the UK. Thurstan said this dominance carried environmental costs: cod, haddock and shrimp fishing, for example, could damage valuable habitats, while <a href=\"https://www.theguardian.com/environment/2026/may/26/millions-of-salmon-deaths-scottish-farms-apha-ico\">salmon farming has come under intense scrutiny</a>.</p> <p>Thurstan said she had attempted a few of the recipes including ‘Fish baked in custard’ from the 1920s. She said: ‘I tried it with pollack. While the recipe calls it a custard it isn’t sweet, so I think, perhaps with a name change, it has potential.’</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/thefilter-us/2026/oct/12/protein-powder-faq-dietitians\">Can I get too much protein? Experts answer your questions on the popular supplement</a> </p> </aside> <p>She is also planning to try two 1930s recipes: oyster soup and kipper cream. The latter involves parboiling a kipper and then pounding it with melted butter, lemon juice or vinegar and cayenne until it is the consistency of a cream. ‘I think it would be similar to today’s mackerel pâté, and just as delicious.’</p> <p>The magazine Thurstan researched was originally published as British Good Housekeeping and is now Good Housekeeping UK. Once published, the paper – entitled ‘Declines in the diversity of fish represented in British domestic recipes over the past 100 years’ – will be published in the journal <a href=\"https://besjournals.onlinelibrary.wiley.com/journal/25758314\">People and Nature</a>.</p> <h2>January 1923 – Fish baked in custard</h2> <p>‘Purchase a slice of cod or halibut, or some filleted fish weighing about 1lb. Wipe it with a clean cloth and remove any black skin. Lay the fish in a greased and shallow baking-dish and sprinkle it with salt, a little white pepper, the grated rind of half a lemon, and a small onion finely chopped.</p> <p>‘Then break into a basin 1 or 2 eggs, add 2 tablespoonfuls of flour and a light seasoning of pepper and salt. Beat until smooth and add half pint fresh milk. Strain this custard over the fish, stand the dish in a tin containing some water and bake in a moderate oven until the custard is set and lightly browned (about 30 minutes). It is a good plan to baste the fish once or twice with the custard during the first part of the cooking. Potato chips or some mashed potatoes would be a good accompaniment to this dish.’</p> <h2>May 1934 – Potage aux huîtres</h2> <p>‘One dozen oysters, 1 pint Court bouillon [a broth], 1 pint milk, 1 oz butter, 1 oz flour, 1 tablespoonful cream or unsweetened evaporated milk, seasoning. Oyster soup can be made with tinned oysters or fresh ones. There is no need, however, to buy the choicest variety, as the small ones answer quite well. In no circumstances should oysters be boiled, or they will become hard, leathery and indigestible.’</p>",
+        "captions": [],
+        "standfirst": "<p>Ruth Thurstan studied more than 1,000 Good Housekeeping recipes since 1923 and found whale meat curry and oyster cocktail giving way to five dominant species: cod, haddock, tuna, salmon and prawns</p>",
+        "progress": "Thurstan is testing more historical recipes, including 1930s oyster soup and kipper cream, and submitting her findings to the journal People and Nature.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham commits to 'serious dialogue' on deepening UK's ties with EU",
+        "trail": "The PM hails next month's 'reset' summit as a first step towards closer relations with the EU, though tensions over trade may prove problematic.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist",
+      "kind": "preview",
+      "output": {
+        "headline": "Investigation sets out student 'super app's ties to blacklisted Chinese firm",
+        "trail": "The investigation finds that ZyMix, the platform aimed at UK students, has a contract with Tencent, a Chinese firm on a US blacklist over alleged links to the People's Liberation Army.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/12/nigel-farage-adviser-influential-role-polling-firm-chris-bruni-lowe",
+      "kind": "preview",
+      "output": {
+        "headline": "Investigation sets out Farage adviser's unpublicised role at polling firm",
+        "trail": "Chris Bruni-Lowe used his role at Redfield & Wilton Strategies to develop potential campaign tactics, sources say, in an arrangement that had not been disclosed.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "kind": "preview",
+      "output": {
+        "headline": "IMF flags danger to world financial stability from AI share crash",
+        "trail": "The Fund says an AI share crash could put world financial stability at risk, pointing to high valuations and debt in the sector, and separately raising concerns about government borrowing and cyber-attacks.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
+      "kind": "preview",
+      "output": {
+        "headline": "English councils face forecast £10bn Send debt by 2028",
+        "trail": "A surge in applications for education, health and care plans is forecast to push council Send debts to £10bn within two years, risking public finances and the level of support available.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study",
+      "kind": "preview",
+      "output": {
+        "headline": "Study finds women more often told autoimmune symptoms are psychological",
+        "trail": "A Cambridge University study suggests a stark gender divide in misdiagnosis, with women also waiting longer than men for treatment.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+      "kind": "preview",
+      "output": {
+        "headline": "RJ Mitte, Breaking Bad actor and disability advocate, dies aged 34",
+        "trail": "The actor played Walter White Jr in the acclaimed show and advocated for disability representation; Bryan Cranston remembers him as 'my sweet son'.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/13/whale-meat-curry-1920s-seafood-recipes-narrowing-uk-culinary-culture",
+      "kind": "preview",
+      "output": {
+        "headline": "Forgotten recipes reveal Britain's past love of whale meat curry",
+        "trail": "The study of bygone seafood recipes found herring, flatfish and oysters were once dining table staples, but today just five fish species dominate UK plates.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/13/universal-appeal-celebrity-traitors-producer-reveals-secrets-success",
+      "kind": "preview",
+      "output": {
+        "headline": "Celebrity Traitors producer reveals secrets behind show's universal appeal",
+        "trail": "More than 10m people have tuned in to the new season of the BBC hit, even as mass television audiences become increasingly rare.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/12/scientist-russia-plague-victim-lab-worker-pandemic",
+      "kind": "preview",
+      "output": {
+        "headline": "Pandemic preparedness demands openness about threats, scientist argues",
+        "trail": "Devi Sridhar says Russia's silence over the death of a lab worker, suspected to be from plague, shows preparedness means nothing without shared information on threats.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/why-are-the-houthis-attacking-saudi-airports-riyadh-yemen",
+      "kind": "preview",
+      "output": {
+        "headline": "Saudi-backed counteroffensive underway against Houthi attacks in Yemen",
+        "trail": "Saudi Arabia is backing a Yemeni government counteroffensive against Iran-backed Houthi forces, as questions remain over why they are attacking Saudi airports and how their missiles are getting through.",
+        "progress": "Yemen's government, backed by Saudi Arabia, is mounting a counteroffensive against the Iran-backed Houthi group behind the attacks.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/two-tragic-incidents-safety-english-zoos-rethink",
+      "kind": "preview",
+      "output": {
+        "headline": "Experts say zoo safety protections remain robust after two incidents",
+        "trail": "After a man was mauled to death by a tiger and a three-year-old was attacked in a crocodile enclosure, experts say public protection at English zoos remains robust.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/09/unexpected-upsides-testing",
+      "kind": "preview",
+      "output": {
+        "headline": "Filter writers reveal unexpected perks of a year testing products",
+        "trail": "Our testers share a year of surprising discoveries, from free ice-cream and glowing skin to family game nights, camping wins and fewer chores.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/12/being-muslim-after-911-review-other-journalists-wouldnt-dare-to-air-this",
+      "kind": "preview",
+      "output": {
+        "headline": "Being Muslim After 9/11 review – a brilliant, fearless look at Islamophobia",
+        "trail": "Mobeen Azhar isn't afraid to tackle hard topics in this brilliant documentary about the rise of Islamophobia, even when it means hearing criticism of his own decisions.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/12/wikipedia-deeply-biased-sandi-toksvig-backing-rival",
+      "kind": "preview",
+      "output": {
+        "headline": "Sandi Toksvig backs rival encyclopedia to tackle Wikipedia's gender bias",
+        "trail": "The comedian says Wikipedia is 'deeply biased', with just 19 per cent of its biographies about women – something she attributes to it being edited by 'mostly white, middle-aged, European men'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/oct/12/nina-review-chekhov-seagull-battersea-arts-centre-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Nina review – riveting drama in the auditions for The Seagull",
+        "trail": "Women vying for the role of Chekhov's aspiring actor navigate charged meetings with a needling director, in a tense and riveting show.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/12/cinema-films-failed-british-revolutions-paul-greengrass-the-uprising",
+      "kind": "preview",
+      "output": {
+        "headline": "Paul Greengrass's new epic revives Britain's love of failed revolutions",
+        "trail": "The Uprising, Greengrass's film about the Peasants' Revolt, is the latest in a long line of movies that explore Britain's history of unsuccessful attempts to remake the nation.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
+      "kind": "preview",
+      "output": {
+        "headline": "Four countries' elections could reshape Europe's political landscape, columnist argues",
+        "trail": "Nathalie Tocci says that if far-right nationalists win power in four big European countries at once, the result would be a dramatic Trumpian tilt.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/12/sketch-russia-brexit-referendum-nigel-farage-reform",
+      "kind": "preview",
+      "output": {
+        "headline": "Nigel Farage detects yet another conspiracy against him, sketch finds",
+        "trail": "In our Westminster sketch, Farage tells a press conference that Andy Burnham was lying about Russian interference in the Brexit vote, dismissing it as just another plot to undermine him.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/12/gulf-new-era-instability-alliances-houthi-rebels-saudi-arabia",
+      "kind": "preview",
+      "output": {
+        "headline": "Gulf leaders must rethink old alliances for a new era of instability",
+        "trail": "Columnist Nesrine Malik says Gulf leaders need new strategies for a changed region, after a Houthi attack on Saudi Arabia that may prove more calamitous than the world currently imagines.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/12/saba-capital-boaz-weinstein-baillie-gifford-us-growth-trust",
+      "kind": "preview",
+      "output": {
+        "headline": "Investors can see off Saba Capital's raid on Baillie Gifford trust, again",
+        "trail": "This is not the first time Boaz Weinstein's Saba Capital has targeted the FTSE 250's Baillie Gifford US Growth Trust, as the hedge fund wages a fresh aggressive campaign against it.",
+        "progress": "Baillie Gifford's board and shareholders are urged to resist Saba Capital's renewed campaign against the trust.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/12/the-guardian-view-on-narendra-modis-gen-z-crackdown-he-cannot-arrest-his-way-out-of-a-democratic-crisis",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view: Modi should confront the unrest, not crush dissent",
+        "trail": "Young protesters have exposed the limits of Narendra Modi's authority, the editorial says, urging him to address India's democratic challenges rather than deepen them by crushing dissent.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/12/the-guardian-view-on-the-liberal-democrats-now-is-not-the-time-to-change-leader",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view: Ed Davey's Lib Dem strategy is winning seats",
+        "trail": "Ed Davey's approach has been winning seats for the Liberal Democrats, the editorial argues, saying that critics seeking his removal could instead help rightwing parties into power.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/12/the-surprising-benefits-of-food-rationing",
+      "kind": "preview",
+      "output": {
+        "headline": "Wartime food rationing brought surprising benefits, readers recall",
+        "trail": "Readers Roger Wilkinson, Helen Keats and Jane Robbins recall how wartime food rationing, despite its hardships, did little harm with a diet that cut back on sugar.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/12/a-new-approach-to-tackle-sexual-abuse-in-schools",
+      "kind": "preview",
+      "output": {
+        "headline": "Letters call for a more compassionate approach to abuse in schools",
+        "trail": "A reader responds to a Guardian editorial on the scale of sexual abuse of pupils by their peers, calling for schools to respond with more nuance and compassion; Donna Hill also writes in.",
+        "progress": "A reader calls for schools to adopt a more nuanced and compassionate approach to peer sexual abuse.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/12/remember-the-disabled-adults-who-need-social-care",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers urge care reforms to include disabled adults' needs",
+        "trail": "Readers respond to John Harris's article, calling for disabled people of working age to be properly considered as the social care system is reformed.",
+        "progress": "Readers are calling for disabled adults of working age to be considered in social care reform.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/culture/2026/oct/12/those-other-battles-of-hastings",
+      "kind": "preview",
+      "output": {
+        "headline": "Rare footage find revives memories of a 1966 Hastings re-enactment",
+        "trail": "Readers Sue Jenkins and Bryn Hughes share their own memories of 1966, after a report revealed that rare footage of that year's Battle of Hastings re-enactment has been found.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/oct/12/matt-richardson-withdrawn-britain-cycling-team",
+      "kind": "preview",
+      "output": {
+        "headline": "British Cycling withdraws Matt Richardson over misconduct allegations",
+        "trail": "Matt Richardson will miss the Great Britain team's track world championships campaign in Shanghai next week after misconduct allegations were raised against him.",
+        "progress": "British Cycling withdrew Richardson from the Shanghai-bound team in response to the misconduct claims.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/sport/2026/oct/12/saracens-sack-player-totoa-auvaa-incident-rugby-union",
+      "kind": "preview",
+      "output": {
+        "headline": "Saracens sack academy player linked to Stokes captaincy dispute",
+        "trail": "Totoa Auvaa, the Saracens academy player who triggered Ben Stokes's captaincy dispute by punching England teammate Gus Atkinson, has left the club after a further incident over the weekend.",
+        "progress": "Saracens removed Auvaa from the club after he was involved in a further incident at the weekend.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language",
+      "kind": "preview",
+      "output": {
+        "headline": "Pitch success is not the fix Manchester City need",
+        "trail": "Winning matches alone will not let Manchester City move on, the column argues, because the club's recent charges are unprecedented, and so, it says, is the language now used to describe them.",
+        "progress": "Manchester City have continued winning matches on the pitch despite the unprecedented charges they face.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/12/england-next-summer-womens-world-cup",
+      "kind": "preview",
+      "output": {
+        "headline": "England sharpen plans as competition heats up for World Cup places",
+        "trail": "England are weighing up contenders for next year's Women's World Cup, with starting places at centre-back and No 10 up for grabs, while Sarina Wiegman's future as manager remains in the air.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Coventry seal long-awaited home win, routing Newcastle 4-1",
+        "trail": "Jack Rudoni, Sidiki Cherif, Ellis Simms and Stephen Mfuni scored as Coventry beat Newcastle 4-1, sealing their first home top-flight victory since 2001.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/12/rayo-vallecano-paper-planes-abandoned-raul-martin-presa-la-liga",
+      "kind": "preview",
+      "output": {
+        "headline": "Rayo Vallecano fans use paper planes to protest against club chair",
+        "trail": "Rayo Vallecano's long-awaited return to Vallecas lasted just 13 minutes, as supporters made their displeasure with their chair, Raúl Martín Presa, impossible to ignore.",
+        "progress": "Rayo Vallecano supporters used a paper plane protest to make their displeasure with chair Raúl Martín Presa impossible to ignore.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/sport/2026/oct/12/matt-renshaw-australia-south-africa-durban-test-day-four-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Renshaw's heroics put Australia on course for Test victory in Durban",
+        "trail": "Matt Renshaw followed his epic first-innings 190 with an impressive 82, and Temba Bavuma's wicket also fell, as Australia closed in on a statement Test victory over South Africa in Durban.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+      "kind": "preview",
+      "output": {
+        "headline": "Zelenskyy says Ukraine will respond if Russian strikes on its power grid continue",
+        "trail": "Zelenskyy says he was surprised by Trump's 'energy ceasefire' announcement, which came as Russian drones struck Kyiv; he vows Ukraine will retaliate if strikes on its power grid go on.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/iran-revolutionary-guards-irgc-raf-fairford-threats",
+      "kind": "preview",
+      "output": {
+        "headline": "UK plans fresh sanctions on Iran over Fairford threats",
+        "trail": "The UK is to impose further sanctions on Tehran and the Revolutionary Guards. Burnham says they are 'almost certainly' behind the RAF Fairford threats, while a separate assessment found Iran likely coordinated the incident.",
+        "progress": "The UK is preparing further sanctions against Tehran and the Revolutionary Guards over the Fairford threats.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/security-high-profile-public-figures-reviewed-ann-widdecombe",
+      "kind": "preview",
+      "output": {
+        "headline": "Mahmood orders security review and expands protection for public figures",
+        "trail": "The home secretary has ordered an urgent security review and expanded police protection, with immediate effect, for high-profile public figures who are not MPs, following the killing of Ann Widdecombe.",
+        "progress": "Home secretary Mahmood has ordered a security review and expanded police protection for high-profile public figures with immediate effect.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/bedbug-infestation-forces-qantas-to-ground-plane-in-rome",
+      "kind": "preview",
+      "output": {
+        "headline": "Qantas takes plane out of service in Rome over bedbug find",
+        "trail": "Qantas has withdrawn the aircraft from service in Rome after bedbugs, parasitic insects, were discovered onboard following a flight from Perth.",
+        "progress": "Qantas withdrew the aircraft from service in Rome after the bedbug infestation was discovered on board.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident",
+      "kind": "preview",
+      "output": {
+        "headline": "Police charge Selma Blair after alleged attacks on flight attendants",
+        "trail": "She was charged with assaulting a police officer and a nurse over two separate incidents, after allegedly punching one flight attendant, biting another and trying to open the plane door; the charges were filed once the plane had landed.",
+        "progress": "Police investigated the alleged incidents and have now filed two assault charges against the actor.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+      "kind": "preview",
+      "output": {
+        "headline": "Heat pump subsidy reduction among options ministers weigh for defence budget",
+        "trail": "Some of the £2bn savings ministers need from the energy budget are expected to come from the boiler upgrade scheme that subsidises heat pumps, sources say.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+      "kind": "preview",
+      "output": {
+        "headline": "Clear skies and warm days for Montenegro as rain moves towards Greece",
+        "trail": "Montenegro enjoys clear skies with warm days and cold nights, while a low-pressure system brings heavy rain towards Greece and the Aegean Sea.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains",
+      "kind": "preview",
+      "output": {
+        "headline": "Food producers add their voices to warnings over UK food security",
+        "trail": "Producers are joining growing warnings about fragile British supply chains, as mounting pressure on farmers raises concerns that 'some aren't going to make it'.",
+        "progress": "Food producers are speaking out publicly to warn of risks to the UK's food supply chains.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/11/chimp-civil-war-john-mitani-chimps-uganda-aoe",
+      "kind": "preview",
+      "output": {
+        "headline": "John Mitani's years of study reveal a chimpanzee civil war in Uganda",
+        "trail": "John Mitani spent years studying a huge community of chimpanzees in Uganda, and his findings on the group's civil war stunned the scientific world after things took a dark turn.",
+        "progress": "John Mitani's long-term study has established how the Ugandan chimp community's conflict unfolded.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/12/bbc-to-stop-recording-the-archers-in-birmingham-for-first-time-in-its-75-year-history",
+      "kind": "preview",
+      "output": {
+        "headline": "The Archers' Birmingham recording era draws to a close after 75 years",
+        "trail": "Plans for a new Digbeth theatre for the world's longest-running soap have been scrapped as part of BBC cost-cutting measures, ending the programme's 75-year recording history in Birmingham.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister",
+      "kind": "preview",
+      "output": {
+        "headline": "UK braces for AI-driven cyber-attack exposure, minister says",
+        "trail": "Kanishka Narayan, concerned by the Australian OpenAI Medicare breach, says British cyber defences could be bypassed by an artificial intelligence agent.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/sas-personnel-refusing-to-answer-questions-afghanistan-inquiry-alleged-killings",
+      "kind": "preview",
+      "output": {
+        "headline": "Inquiry into alleged Afghanistan killings presses SAS personnel for answers",
+        "trail": "The inquiry into alleged extrajudicial killings in Afghanistan is pressing SAS personnel for answers, after its leading judge said most operators are invoking the privilege against self-incrimination to withhold information.",
+        "progress": "A judge-led inquiry is investigating the alleged killings and seeking testimony from SAS personnel.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/stage/2026/oct/12/julie-hesmondhalgh-celebrity-traitors-regional-theatres-local-stories",
+      "kind": "preview",
+      "output": {
+        "headline": "Julie Hesmondhalgh wins lifetime achievement award as she joins The Pelicot Trial",
+        "trail": "As she leaves the Celebrity Traitors castle for a new role in The Pelicot Trial, Julie Hesmondhalgh says UK theatres should stay '100% faithful to local stories' amid funding pressures causing a 'loss of regional identity'.",
+        "progress": "Julie Hesmondhalgh is speaking out publicly about funding pressures facing regional UK theatres.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "kind": "preview",
+      "output": {
+        "headline": "Saudi minister vows 'fear has no place' after Houthi airport attack",
+        "trail": "Saudi Arabia's energy minister said 'fear has no place in the Saudi lexicon', as the kingdom suspended more flights after a deadly Houthi attack again breached its stretched airport defences.",
+        "progress": "Saudi Arabia is suspending more flights and the energy minister is publicly rejecting fear after the attack.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
+      "kind": "preview",
+      "output": {
+        "headline": "Six Flags closes nine rollercoasters across six states after fatal incident",
+        "trail": "Six Flags has temporarily closed nine rollercoasters across six amusement parks, after a reported fatal incident on the Goliath ride in Georgia.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+      "kind": "preview",
+      "output": {
+        "headline": "Stellantis and Renault back UK bid for EU car industry protection",
+        "trail": "Bosses of Citroën owner Stellantis and French carmaker Renault are urging the UK to secure EU protections, and also want the government to consider limiting car imports from China.",
+        "progress": "Stellantis and Renault bosses are urging the UK to secure EU protections and limit Chinese imports.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
+      "kind": "preview",
+      "output": {
+        "headline": "Records suggest Abramovich aides falsified paperwork to disguise assets, dodge tax",
+        "trail": "Records suggest that aides to the Russian billionaire falsified paperwork to disguise his assets and dodge tax, with accountancy firm Deloitte Cyprus among those that appear to have backdated the relevant records.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
+      "kind": "preview",
+      "output": {
+        "headline": "Calls for fuel duty rise on van drivers to be scrapped",
+        "trail": "UK van drivers face an extra £2.5bn in diesel costs this year, analysis finds, with the average van driver's fuel bill set to hit £1,965, up from £1,294.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
+      "kind": "preview",
+      "output": {
+        "headline": "EU moves quickly to cap Chinese hybrid imports at 350,000 a year",
+        "trail": "Brussels is using World Trade Organization rules to move quickly, imposing a quota of 350,000 Chinese hybrid vehicles a year, a move that will halve China's market share to 3%.",
+        "progress": "Brussels has quickly imposed a 350,000-a-year quota on Chinese hybrid vehicle imports using WTO rules.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+      "kind": "preview",
+      "output": {
+        "headline": "Fontaines DC's Dopamine Chamber is a gorgeous, gargantuan triumph",
+        "trail": "This beguiling, endlessly inventive and frequently astonishing fifth album finds Fontaines DC at increasing ease with being the best band of their generation.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/12/gabrielle-goliath-elegy-review-ibraaz-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Gabrielle Goliath's Elegy is a call to action, review says",
+        "trail": "Too controversial for the Venice Biennale, this haunting video and audio work commemorates murders and genocides with an angry act of mourning.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/11/time-review-david-tennant-siobhan-finneran-bbc-iplayer",
+      "kind": "preview",
+      "output": {
+        "headline": "David Tennant's Time is as urgent and important as Adolescence",
+        "trail": "The third series of Jimmy McGovern's terrifying and acutely moving prison drama, set in a young offender institute, depicts a reality that needs national attention.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/12/jay-z-in-8-hbo-documentary-series",
+      "kind": "preview",
+      "output": {
+        "headline": "Jay-Z's HBO series would gain from challenging his own image, critic argues",
+        "trail": "Jay-Z in 8, the rap mogul's HBO docuseries on his life and career, is criticised for trying to mend his image with no real pushback, raising questions about his fixation on public opinion.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/12/the-influencer-project-review-ick-thriller-chiara-king",
+      "kind": "preview",
+      "output": {
+        "headline": "The Influencer Project skewers social media culture with sharp satire",
+        "trail": "Chiara King plays an influencer whose trips to trendy shops and fancy restaurants in Copenhagen take a turn for the worse, in a thriller that satirises online content culture but also exploits it.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/12/hallowarrior-review-horror-milly-shapiro-shudder-amc",
+      "kind": "preview",
+      "output": {
+        "headline": "Hallowarrior delivers inventive Home Alone-style scares this Halloween",
+        "trail": "Ben Sottak's debut feature offers outlandish Halloween-based scares, with Milly Shapiro superb as Pumpkin, the naive yet resilient home-defender battling an apocalyptic siege.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/12/atlantic-requiem-review-slavery-david-onac-lso-st-lukes",
+      "kind": "preview",
+      "output": {
+        "headline": "David Önaç's Atlantic Requiem turns slavery's history into something serious and beautiful",
+        "trail": "Premiered by the London Symphony Orchestra, Önaç's oratorio moves from syncopated funk to the Latin requiem mass, Gregorian chant to bureaucratic recitative, setting historical slavery documents to music with raging life.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/12/kerry-washington-street-you-grew-up-on-best-podcasts-of-the-week",
+      "kind": "preview",
+      "output": {
+        "headline": "Kerry Washington takes A-listers back to their childhood streets",
+        "trail": "The Scandal star talks to Ben Affleck about growing up in Massachusetts, while the Eras strand returns with the story of 90s pop phenomenon the Spice Girls, in this week's best podcasts.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/11/arlo-parks-honest-playlist-prince-janet-jackson",
+      "kind": "preview",
+      "output": {
+        "headline": "Arlo Parks shares the songs that shape her, from Arctic Monkeys to Portishead",
+        "trail": "The singer wanders through the park to Arctic Monkeys, unashamedly cranks up Lady Gaga in the car, and is brought to tears by Portishead, though one song she has to be careful with.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/12/peasants-by-maryam-aslany-review-why-an-ancient-way-of-life-may-hold-the-key-to-our-future",
+      "kind": "preview",
+      "output": {
+        "headline": "Maryam Aslany's book argues an ancient way of life may shape our future",
+        "trail": "Modernity is often said to mean cities, but this bold new study of people who make their living from the land, by Maryam Aslany, argues otherwise.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/12/the-weight-of-angels-by-john-boyne-review-what-if-oscar-wilde-had-lived",
+      "kind": "preview",
+      "output": {
+        "headline": "John Boyne's novel imagines a bold second act for Oscar Wilde",
+        "trail": "Oscar Wilde died a broken man at only 46; Boyne's novel imagines what might have followed. The idea is a great one, though the result, the review finds, is sentimental and unconvincing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/11/the-fiction-im-interested-in-is-political-ian-rankin-on-his-new-novel-about-the-super-rich",
+      "kind": "preview",
+      "output": {
+        "headline": "Ian Rankin on his political new crime novel about the super-rich",
+        "trail": "The bestselling writer discusses leaving Edinburgh for London in his latest mystery, why the crime fiction that interests him is political, and what lies ahead for Rebus.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/oct/07/what-the-350-grand-theft-auto-collectors-box-says-about-the-escalating-cost-of-gaming",
+      "kind": "preview",
+      "output": {
+        "headline": "A £350 Grand Theft Auto box signals gaming's rising price of entry",
+        "trail": "The launch of a £350 collector's box shows the games the writer grew up with are becoming a luxury item, locked behind a forbidding spending barrier.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17",
+      "kind": "preview",
+      "output": {
+        "headline": "Silver Pines delivers a stylish neo-noir detective mystery",
+        "trail": "Abandoned shops, ruined apartment buildings and rotting sewer networks form the dark backdrop as you play a private eye searching for a missing singer-songwriter in this stylish detective game.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/sep/30/gears-of-war-e-day-review-xbox-pc",
+      "kind": "preview",
+      "output": {
+        "headline": "Gears of War: E-Day boasts its best combat in 20 years",
+        "trail": "The game delivers the best combat seen in 20 years of Gears titles, reviewers say, though everything surrounding that combat in this alien invasion is judged disappointing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/12/tarek-atoui-turbine-hall-review-tate-modern-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Tarek Atoui turns the Turbine Hall into an ingenious sonic beast",
+        "trail": "The Lebanese artist has turned trumpets, drums, cones and voices into an interconnected installation with funny, sad and mystical results, in a show that promises to make the earth move.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/12/pine-cones-glitter-and-a-hip-hop-head-for-sale-red-hot-artists-reveal-their-frieze-stunners",
+      "kind": "preview",
+      "output": {
+        "headline": "Red-hot Frieze artists reveal the stories behind their stunning works",
+        "trail": "As the sprawling art fair arrives in London, eight exciting artists, working with pine cones, glitter and even a hip-hop head, share what their work means to them and who they hope will buy it.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/12/prem-sahib-chamber-review-de-la-warr-pavilion-bexhill-master-unease",
+      "kind": "preview",
+      "output": {
+        "headline": "Prem Sahib's disquieting survey turns unease into terror and pleasure",
+        "trail": "This weird, intense mid-career survey for the brilliant artist carries an atmosphere of sickly discomfort throughout, critics say, as unease shifts into terror and pleasure.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
+      "kind": "preview",
+      "output": {
+        "headline": "Alex Gibney's four-hour Elon Musk documentary makes it to the screen",
+        "trail": "The film premiered at Venice despite Universal having wavered over releasing it, Gibney says, after the SpaceX founder directed a string of criticisms and insults at the project.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/12/digger-loss-245m-box-office-collapse",
+      "kind": "preview",
+      "output": {
+        "headline": "Digger could lose $245m after weak box office, estimates suggest",
+        "trail": "Estimates suggest the eco satire starring Tom Cruise could lose $245m after its box office collapsed, which would put it among the biggest flops in film history, alongside Cutthroat Island and The Marvels.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/12/beach-boys-live-cincinnati-mike-love-helped-john-stamos-health-issues",
+      "kind": "preview",
+      "output": {
+        "headline": "Mike Love returns to the stage, lifted by John Stamos's support",
+        "trail": "The 85-year-old Beach Boys singer, who is 'facing serious health challenges', was helped on stage by actor John Stamos, who shared an emotional message about his 'musical hero and mentor'.",
+        "progress": "John Stamos helped Mike Love on stage and shared an emotional tribute to him.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/12/the-bill-pickett-rodeo-photo-essay",
+      "kind": "preview",
+      "output": {
+        "headline": "'We're in a brotherhood now': inside the Bill Pickett rodeo",
+        "trail": "For several years, Chloe Kerleroux has photographed African American cowboy communities in the southern US, focusing on trail rides, and this year on rodeo culture, including the Bill Pickett invitational in Atlanta.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fostering-life-shared/2026/oct/12/five-things-to-know-about-becoming-a-foster-carer",
+      "kind": "preview",
+      "output": {
+        "headline": "Five things a foster carer wants you to know",
+        "trail": "Foster carer Sarah Griffin, who has joined the Weekender fostering initiative, wants more people to consider fostering and to share their everyday moments with children in care.",
+        "progress": "Foster carer Sarah Griffin is encouraging more people to consider fostering and share their experiences.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fostering-life-shared/2026/oct/12/what-it-takes-to-be-a-foster-carer-social-worker-advice",
+      "kind": "preview",
+      "output": {
+        "headline": "Social worker Shalene Lemmie on what it really takes to foster",
+        "trail": "Fostering a child can feel daunting, but social worker Shalene Lemmie says agencies are really looking for 'human beings with good hearts' willing to step up.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/the-one-change-that-worked-numb-with-grief-i-sat-in-the-dark-surrounded-by-strangers-and-began-to-heal",
+      "kind": "preview",
+      "output": {
+        "headline": "Numb with grief, she finds healing among strangers in a cinema",
+        "trail": "The writer found comfort and a strange solidarity among strangers in the cinema, a simple change that helped her begin to heal after life came crashing to a halt when she lost her brother.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/is-it-true-muscle-turns-into-fat-stop-working-out",
+      "kind": "preview",
+      "output": {
+        "headline": "The truth about muscle, fat and taking a break from the gym",
+        "trail": "Taking time off from exercise can mean losing some muscle and gaining fat, but contrary to myth, one does not simply turn into the other.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/10/best-supermarket-sliced-bread-tasted-rated",
+      "kind": "preview",
+      "output": {
+        "headline": "Taste test finds the best supermarket wholemeal sliced loaf",
+        "trail": "Our wholegrain hero tasted supermarket wholemeal loaves in search of a proud, deep-crusted loaf fit for a simple pleasure: a satisfying sandwich.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/09/the-filter-uk-turns-two-favourite-products-tried-tested",
+      "kind": "preview",
+      "output": {
+        "headline": "The Filter turns two: 31 favourite buys from the past year",
+        "trail": "To mark two years of The Filter, our writers pick 31 favourite products from the past year, from cloud-like duvets to the perfect running shoe.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2025/jan/29/best-sunrise-alarm-clocks",
+      "kind": "preview",
+      "output": {
+        "headline": "Gentle ways to wake: the best sunrise clocks, tried and tested",
+        "trail": "Our reviewer tests dawn simulation alarms from brands including Lumie, Philips and Dreamegg to find the best way to wake up gently.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/08/mens-autumn-fashion-updates-2026",
+      "kind": "preview",
+      "output": {
+        "headline": "50 ways to update a men's autumn wardrobe on a budget",
+        "trail": "From oversized coats to relaxed-fit trousers and secondhand jumpers built to last, here is how to build an effortlessly cool autumn wardrobe for under £100, mostly, with some pieces free.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/12/gurdeep-loyal-quick-easy-recipe-turkish-lamb-hot-pepper-paccheri",
+      "kind": "preview",
+      "output": {
+        "headline": "Gurdeep Loyal's quick and easy Turkish lamb and hot pepper paccheri",
+        "trail": "A spicy Turkish-inspired dish combining big flavours with big pasta shapes, finished with a garlicky yoghurt sauce for a quick, easy meal.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/11/how-to-make-pumpkin-soup-recipe",
+      "kind": "preview",
+      "output": {
+        "headline": "How to make a smooth and satisfying pumpkin soup",
+        "trail": "This recipe shows how to make a smooth, satisfying pumpkin soup in just nine easy steps, proving a comforting bowl is simple to achieve.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/10/squeezy-olive-oil-bottle-meghan-markle-pot-filler-tap-chefs-gadgets-home-kitchens",
+      "kind": "preview",
+      "output": {
+        "headline": "Squeezy olive oil bottles and the rise of 'cheffy' kitchen kit",
+        "trail": "Squeezy olive oil bottles and Meghan Markle's pot filler tap are among the 'cheffy' gadgets now filling home kitchens. Social media 'chefluencers' and open restaurant kitchens have made chefs more visible and inspired the wave of aspirational buying.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/the-pet-ill-never-forget-pumpkin-the-rescue-cat-turned-social-media-star",
+      "kind": "preview",
+      "output": {
+        "headline": "Rescue cat Pumpkin finds a loving home and online fame",
+        "trail": "Pumpkin the rescue cat found a loving home and became a social media star, after struggling to breathe and growing so big she could barely walk, she begged for help and was soon taken home.",
+        "progress": "The writer took Pumpkin home after rescuing her, and she has since become a social media star.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/11/dining-across-the-divide-edward-martin",
+      "kind": "preview",
+      "output": {
+        "headline": "An English teacher and a personal trainer debate net zero over dinner",
+        "trail": "One guest argued net zero is a waste of money since the planet will hit 3C anyway; the other called that view nihilistic, before the pair turned to public spending and defence.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/the-kindness-of-strangers-in-one-of-my-darkest-periods-a-few-compassionate-words-helped-me-turn-my-life-around",
+      "kind": "preview",
+      "output": {
+        "headline": "A stranger's kind words help turn my life around",
+        "trail": "A man's compassionate words helped turn the writer's life around after he approached her at traffic lights during one of her darkest periods; she says he will probably never know the impact he had.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
+      "kind": "preview",
+      "output": {
+        "headline": "Sex podcast opens up a new way of talking for this couple",
+        "trail": "Helen and Ian say a sex podcast transformed how they communicate, and at their age they now wake up asking: what are we doing today? Let's make love.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/12/father-dna-test-passport-daughter-dual-national",
+      "kind": "preview",
+      "output": {
+        "headline": "Authorities asked this father for a DNA test to issue his daughter's passport",
+        "trail": "New post-Brexit rules mean that dual nationals cannot enter the UK unless they have a British passport.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+      "kind": "preview",
+      "output": {
+        "headline": "Calendar phishing scam uses fake meeting invites to steal logins",
+        "trail": "Fake appointment or renewal reminders are appearing in victims' calendars, directing them to counterfeit Google, Microsoft or PayPal login pages in a scam that is growing exponentially.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Martin Lewis asks public for 'small ideas' to improve the UK",
+        "trail": "The finance expert has launched the Small Ideas Initiative to gather practical, low-cost suggestions from the public, which will be put before a cross-party panel for consideration.",
+        "progress": "Martin Lewis's Small Ideas Initiative will put practical, low-cost public suggestions before a cross-party panel.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain",
+      "kind": "preview",
+      "output": {
+        "headline": "Teen rescued in Canadian mountains after using Claude for directions",
+        "trail": "The teenager needed an emergency rescue after trying to navigate Canadian mountains using the AI chatbot Claude, in an incident raising fresh questions about relying on digital tools for wilderness navigation.",
+        "progress": "Emergency rescuers responded and rescued the teenager from the mountains.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2026/oct/08/health-cancer-zainab-shinkafi-bagudu-africa-uicc-global-south",
+      "kind": "preview",
+      "output": {
+        "headline": "First African leader of global cancer body calls for more investment",
+        "trail": "Zainab Shinkafi-Bagudu, the first African president-elect of the Union for International Cancer Control, says cancer cases are rising fastest in poorer countries and that Africa needs investment in research, diagnosis and prevention.",
+        "progress": "Zainab Shinkafi-Bagudu is calling for investment in research, diagnosis and prevention to tackle rising cancer rates in Africa.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/08/covid-brexit-liz-truss-mini-budget-lasting-decline-mental-health-uk-study",
+      "kind": "preview",
+      "output": {
+        "headline": "Study maps five events, including Covid and Brexit, that harmed UK mental health",
+        "trail": "Researchers identified five events, among them Covid, Brexit, Liz Truss's mini-budget and Russia's invasion of Ukraine, that caused serious and lasting damage to mental wellbeing across the UK, the study found.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity",
+      "kind": "preview",
+      "output": {
+        "headline": "Celebrity offspring take centre stage across fashion month catwalks",
+        "trail": "Celebrity children are commanding catwalks and joining their famous parents as plus-ones this fashion month, as 'nepo babies' become one of the season's biggest trends.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/oct/08/picture-pawfect-how-dogs-took-over-the-catwalk-and-stole-the-fashion-week-spotlight",
+      "kind": "preview",
+      "output": {
+        "headline": "Dogs steal the spotlight at fashion week, from Vuitton to Schiaparelli",
+        "trail": "Canine companions are turning heads at the world's most exclusive shows, from Louis Vuitton to Schiaparelli, as one owner says her dog has built her own fashion community.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/oct/08/why-i-picked-a-naked-frock-as-dress-of-the-year-fashion-musuem-bath",
+      "kind": "preview",
+      "output": {
+        "headline": "Why a 'naked' dress embodies empowerment, not sex, says the writer who chose it",
+        "trail": "Sarah Burton's sporty, daffodil mesh dress made the writer smile, and she picked it as Fashion Museum Bath's dress of the year for capturing how political bodies have become.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/oct/12/biking-hiking-lake-iseo-italian-lakes",
+      "kind": "preview",
+      "output": {
+        "headline": "Italy's Lake Iseo invites cyclists and autumn walkers to its car-free island",
+        "trail": "Smaller and less visited than Como and Garda, Lake Iseo is home to a gorgeous car-free island that's ideal for easy-going cycling, sightseeing and autumn walking.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+      "kind": "preview",
+      "output": {
+        "headline": "Hitchhiking for free from Sydney to Perth, finding comfort in strangers' company",
+        "trail": "The writer hitchhiked from Sydney to Perth, finding comfort in strangers and calling hitchhiking a subculture and an art that satisfies wanderlust like no other trip, and costs nothing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/oct/09/readers-favourite-wellbeing-holidays-europe",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers share their favourite European wellbeing breaks and retreats",
+        "trail": "From a historic bathhouse in Sweden to forest bathing in Croatia, and 'a candlelit spa, followed by an ice-cold plunge and a nightcap', readers share their favourite places to relax and recharge.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2026/oct/12/did-you-solve-it-the-treacherous-puzzle-of-the-round-table",
+      "kind": "preview",
+      "output": {
+        "headline": "Puzzle solutions revealed: the treacherous riddle of the round table",
+        "trail": "Here are the full explanations for today's puzzles, including the treacherous round table riddle.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/12/iphone-18-pro-max-review-apples-biggest-heaviest-and-longest-lasting-superphone",
+      "kind": "preview",
+      "output": {
+        "headline": "iPhone 18 Pro Max impresses with a giant screen and top cameras",
+        "trail": "Apple's biggest, heaviest and longest-lasting superphone yet pairs a giant screen with a big battery, rapid chip and top cameras - though the price tag matches its ambitions.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/10/strength-stretches-expert-tips-to-make-you-a-better-runner",
+      "kind": "preview",
+      "output": {
+        "headline": "Coaches share tips on strength training to help runners thrive",
+        "trail": "Running is one of the easiest exercises to take up, and coaches say starting slowly, enlisting a friend and choosing strength work over stretching can help you keep your stride and avoid injury.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/10/storm-proof-home-roof-garden-pipes-flooding-winter",
+      "kind": "preview",
+      "output": {
+        "headline": "How to storm-proof your home ahead of a wet, windy winter",
+        "trail": "With forecasters predicting an extremely wet and windy winter, this guide sets out practical steps - from roof tiles to garden fences - to help keep you and your home safe and dry.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
+      "kind": "preview",
+      "output": {
+        "headline": "Lebanon's only church-bell maker passes his 300-year craft to his sons",
+        "trail": "Naffah Naffah makes bells in the mountains near Beirut, continuing a family tradition stretching back 300 years that his sons will carry on when he eventually retires.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "kind": "preview",
+      "output": {
+        "headline": "Shingles vaccine demand soars on promising signs of dementia protection",
+        "trail": "A vaccine designed to prevent shingles' painful rashes may also help protect our brains as we age; the signs are promising, though not conclusive - enough to be driving a boom in uptake.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+      "kind": "preview",
+      "output": {
+        "headline": "Share your story: looking for work as a young person in the UK",
+        "trail": "The Guardian would like to hear from young people in the UK about their experiences of looking for work.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/09/tell-us-your-financial-hopes-and-concerns-ahead-of-the-budget",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers invited to share financial hopes and concerns ahead of the budget",
+        "trail": "Ahead of this month's budget, the Guardian wants to hear from people in the UK about which measures they feel would help their finances, and which would not.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/08/economy-midterm-elections-tell-us",
+      "kind": "preview",
+      "output": {
+        "headline": "Guardian reporters to answer your questions on the US economy and midterms",
+        "trail": "Guardian business, labor and consumer rights reporters will answer readers' questions on how the US economy is shaping the midterm elections in a live Q&A on Thursday 15 October.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian wants to hear how AI monitoring and assessment affects your work",
+        "trail": "The Guardian would like to hear from people who have been monitored or assessed by artificial intelligence at work, and what they thought of the experience.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/ng-interactive/2026/oct/09/11-questions-to-ask-before-cutting-contact-family",
+      "kind": "preview",
+      "output": {
+        "headline": "Before cutting off a relative, here are 11 questions experts want you to ask",
+        "trail": "In the UK, one in five families are affected by permanent estrangement. Experts share the questions worth asking yourself before deciding to cut a relative out of your life.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/fire-destroys-marche-des-enfants-rouges-coolest-market-in-paris",
+      "kind": "preview",
+      "output": {
+        "headline": "Paris loses its 'coolest market', 17th-century Marché des Enfants Rouges, to fire",
+        "trail": "A fire has destroyed the Marché des Enfants Rouges, the 17th century landmark that survived demolition plans in the 1980s and was known as the coolest market in Paris, leaving 'a lot of sadness'.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2026/jul/21/eu-dilemmas-facing-burnham-food-exports-youth-mobility-starmer-europe",
+      "kind": "preview",
+      "output": {
+        "headline": "EU leaders strike a warmer tone towards new PM Andy Burnham",
+        "trail": "European leaders have made positive noises about the new prime minister, though he is likely to face the same EU restrictions that constrained Keir Starmer in office.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+      "kind": "preview",
+      "output": {
+        "headline": "Hamish Falconer calls for deeper EU ties and renewed pace in talks",
+        "trail": "Hamish Falconer, Labour's new minister, wants a sense of renewed pace in post-Brexit negotiations with the EU, while insisting the government will stay within its existing red lines.",
+        "progress": "Minister Hamish Falconer is pushing for faster-paced talks aimed at a deeper post-Brexit relationship with Brussels.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham says he sought answers on Brexit vote on taking office",
+        "trail": "The prime minister says it is now clear that Russia interfered in the Brexit referendum, after seeking a clear answer on entering No 10, though he will not reveal who gave it to him.",
+        "progress": "Burnham sought a clear answer on Russian interference in the Brexit vote as soon as he entered No 10.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/sep/22/andy-burnham-fails-rule-out-brexit-reversal-next-labour-manifesto",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham prepares to rebuild EU bridges ahead of von der Leyen meeting",
+        "trail": "Rebuilding bridges with the EU is his immediate priority, he says, ahead of his first meeting with Ursula von der Leyen; he has not ruled out a Brexit reversal in Labour's next manifesto.",
+        "progress": "Burnham says rebuilding bridges with the EU is his immediate priority as he prepares to meet Ursula von der Leyen for the first time.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
+      "kind": "preview",
+      "output": {
+        "headline": "Andy Burnham enters No 10 facing a wide range of inherited challenges",
+        "trail": "From welfare and defence spending to the cost of living and geopolitics, the new prime minister inherits a broad set of unresolved issues left over from Keir Starmer's time in office.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2016/jun/20/andy-burnham-argues-against-migration-cap",
+      "kind": "preview",
+      "output": {
+        "headline": "Andy Burnham makes the case for immigrants' vital role in the NHS",
+        "trail": "The shadow health secretary defended the contribution immigrants make to the NHS and dismissed a fixed migration cap, in a Guardian debate on the EU referendum.",
+        "progress": "Andy Burnham is defending the role of immigrants in the NHS and opposing a fixed migration cap.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2018/mar/12/bike-wars-chinese-bike-share-giants-wheel-out-expansion-plans-in-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Ofo and Mobike expand bike-share schemes across London and Manchester",
+        "trail": "Alibaba-backed Ofo is aiming for 150,000 bikes in London alone, while Tencent-sponsored rival Mobike expands its bike-share scheme in Manchester, as both firms roll out ambitious UK growth plans.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/sep/18/russian-super-app-max-spy-citizens",
+      "kind": "preview",
+      "output": {
+        "headline": "Research details how Russia's Max app tracks citizens forced to use it",
+        "trail": "Tens of millions of people are being forced to use the super-app Max, research shows, with the platform functioning as what researchers describe as a 'backdoor' on users' devices.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/education/2018/oct/30/student-loans-firm-accused-of-kgb-tactics-for-assessing-eligibility",
+      "kind": "preview",
+      "output": {
+        "headline": "MPs challenge student loans firm over use of applicants' social media",
+        "trail": "The company's chair faced questions from MPs about the firm's practice of trawling applicants' social media to inform loan eligibility decisions, which critics have likened to 'KGB tactics'.",
+        "progress": "MPs are challenging the student loans firm's chair over its use of applicants' social media in loan decisions.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
+      "kind": "preview",
+      "output": {
+        "headline": "MI5 urges academics to end ties with Chinese front company",
+        "trail": "The security service says academics should stop working with and accepting grants from the company, which it calls a Chinese front company accused of stealing vital UK research secrets.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2018/may/17/revealed-how-storyful-uses-tool-monitor-what-journalists-watch",
+      "kind": "preview",
+      "output": {
+        "headline": "Storyful's news verification tool also tracks what users watch and browse",
+        "trail": "The News Corp subsidiary's plugin, designed to verify news sources, is also used to monitor what reporters watch and to track users' social media browsing, research has found.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/aug/27/uk-meta-child-safety-measures-us-social-media-instagram",
+      "kind": "preview",
+      "output": {
+        "headline": "UK minister calls for Meta's new US child safety measures to reach Britain",
+        "trail": "Meta introduced sweeping new child safety measures for young Instagram users in the US following an $18bn settlement, and a UK minister now wants them extended to Britain too.",
+        "progress": "A UK minister is calling on Meta to extend its new US child safety safeguards to British Instagram users.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2024/dec/27/nigel-farage-working-paid-brand-ambassador-gold-firm-direct-bullion",
+      "kind": "preview",
+      "output": {
+        "headline": "Nigel Farage adds gold bullion brand ambassador role to his portfolio of jobs",
+        "trail": "The Reform UK leader is now promoting gold for Direct Bullion, in addition to his existing roles as an MP and a presenter for GB News.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2019/nov/11/nigel-farage-move-may-not-help-tories-as-much-as-it-first-appears",
+      "kind": "preview",
+      "output": {
+        "headline": "Farage's party move may help Tories less than it first seemed",
+        "trail": "The Brexit party's decision to stand aside in some seats looks helpful for Boris Johnson, but its plan to still field candidates in Tory target seats complicates the picture.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2025/oct/02/could-nigel-farage-really-win-the-next-election-heres-what-the-polls-say",
+      "kind": "preview",
+      "output": {
+        "headline": "Pollsters caution that Reform's election lead comes with real uncertainty",
+        "trail": "Reform's lead in the polls has proved persistent, but the pollsters behind the figures themselves point out that their models carry significant uncertainty about the outcome of the next election.",
+        "progress": "Pollsters are flagging the significant uncertainty in their own models for predicting a Reform win.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2025/mar/03/tories-compare-nigel-farage-to-jeremy-corbyn-over-ukraine-war",
+      "kind": "preview",
+      "output": {
+        "headline": "Tories accuse Nigel Farage of equivocating over Russia's war in Ukraine",
+        "trail": "The Conservatives likened Farage's position to that of Jeremy Corbyn, accusing the Reform leader of 'equivocating over Russia's illegal war' after he criticised Ukrainian president Volodymyr Zelenskyy.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
+      "kind": "preview",
+      "output": {
+        "headline": "Standards watchdog opens inquiry into Nigel Farage's financial declarations",
+        "trail": "The watchdog will examine whether the Reform UK leader should have declared a £5m gift he received from a crypto billionaire before he entered parliament.",
+        "progress": "A standards watchdog is investigating whether Farage should have declared the £5m gift before entering parliament.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2024/mar/29/labour-urges-rishi-sunak-rule-out-offering-nigel-farage-us-ambassador-job",
+      "kind": "preview",
+      "output": {
+        "headline": "Tory leadership rules out election pact with Nigel Farage",
+        "trail": "Some Tory MPs had reportedly called for Farage to be made ambassador to the US in exchange for him agreeing not to stand for Reform UK, a deal the party has now ruled out.",
+        "progress": "The Conservative party has ruled out any pre-election pact offering Farage the US ambassador role.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+      "kind": "preview",
+      "output": {
+        "headline": "Tech firms' huge AI profits keep the boom running for now",
+        "trail": "Tech companies are making huge profits from artificial intelligence and investors are eager not to miss out, both working to postpone the reckoning that commentators say is looming for the AI bubble.",
+        "progress": "Tech firms and investors are working to postpone a reckoning for the AI bubble, buoyed by huge current profits.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/feb/13/ai-effects-on-business-industry-evidence-to-allay-investor-fears",
+      "kind": "preview",
+      "output": {
+        "headline": "There is evidence to calm investor concerns about AI, writer argues",
+        "trail": "The writer says opinions remain divided on AI's potential impact, but points to evidence that should ease investor concerns, following the response to a widely shared viral essay.",
+        "progress": "The writer argues that existing evidence undercuts fears about AI's impact on investors and the economy.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "kind": "preview",
+      "output": {
+        "headline": "IMF upgrades its forecast for UK economic growth in 2026",
+        "trail": "The IMF has raised its UK growth forecast for 2026, even as its World Economic Outlook notes that low global oil stocks and overstretched government budgets could soon test the limits of resilience.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2025/oct/08/bank-of-england-warns-of-growing-risk-that-ai-bubble-could-burst",
+      "kind": "preview",
+      "output": {
+        "headline": "Bank of England assesses likelihood of AI bubble bursting",
+        "trail": "The Bank of England's financial policy committee says the possibility of a sharp market correction has increased, as it flags a growing risk that an AI bubble could burst.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/business/2025/oct/12/the-imf-boss-is-right-to-say-buckle-up-the-global-economy-is-facing-multiple-menaces",
+      "kind": "preview",
+      "output": {
+        "headline": "The IMF boss urges the world to prepare for economic turbulence ahead",
+        "trail": "Kristalina Georgieva calls for readiness, as Trump's latest tariffs and rising fears of an AI bubble bear out her warning that 'uncertainty is the new normal'.",
+        "progress": "IMF chief Kristalina Georgieva urges leaders to brace for mounting economic risks, including tariffs and a possible AI bubble.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2025/apr/22/imf-warns-trump-tariffs-are-putting-global-financial-system-under-strain",
+      "kind": "preview",
+      "output": {
+        "headline": "IMF maps out financial stability exposure from Trump's tariffs",
+        "trail": "The IMF says a 'sharp repricing of risks' is possible after Trump's tariffs, amid growing concern over the role of so-called nonbank lenders in the financial system.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/education/2024/oct/24/special-educational-needs-bill-england-10bn-school-council-funding",
+      "kind": "preview",
+      "output": {
+        "headline": "A record £10bn now goes to special needs support in England",
+        "trail": "A National Audit Office report finds no sign of improvement in the lives of pupils, despite spending on special educational needs reaching a record £10bn a year.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/education/2024/feb/18/special-needs-responsibilities-were-heaped-on-councils-as-funding-shrank",
+      "kind": "preview",
+      "output": {
+        "headline": "Councils took on special needs responsibilities as funding for them shrank",
+        "trail": "A Guardian investigation found huge variation in the delays facing children with special needs, as demand has outstripped provision.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2024/dec/22/100m-spent-in-england-on-failed-efforts-to-block-childrens-send-support",
+      "kind": "preview",
+      "output": {
+        "headline": "Tribunals back families in vast majority of England's Send disputes",
+        "trail": "Tribunals overwhelmingly rule in favour of families, as England's councils spent £100m trying to block children's Send support, winning just 1.2% of tribunals, with experts seeing signs provision is becoming a battle with desperate families.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/education/2019/sep/06/gavin-williamson-review-special-needs-education-england",
+      "kind": "preview",
+      "output": {
+        "headline": "Williamson pledges review of special needs support in England",
+        "trail": "The education secretary admits there are 'problems' with special needs support in England, after changes made to the system in 2014.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/education/2019/jul/19/special-needs-education-breaking-our-budgets-warn-councils",
+      "kind": "preview",
+      "output": {
+        "headline": "Rising demand for special needs support puts strain on council budgets",
+        "trail": "A sharp rise in the number of pupils requiring special educational needs support has led to a £100m overspend in England, councils say.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/education/2026/apr/16/english-councils-need-to-hire-1400-more-educational-psychologists-says-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Government grants could cover cost of 1,400 more educational psychologists, report says",
+        "trail": "The £140m needed to hire 1,400 more educational psychologists for England's councils could come from government grants, a report says, as demand rises from children with special needs.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2024/sep/26/women-periods-stop-early-autoimmune-diseases-premature-ovarian-insufficiency",
+      "kind": "preview",
+      "output": {
+        "headline": "Study links periods stopping early to higher chance of autoimmune disease",
+        "trail": "The study found women with premature ovarian insufficiency, where periods stop early, are more likely to develop autoimmune conditions such as diabetes and lupus.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2024/dec/12/pain-all-in-my-head-gynaecological-ordeals-shared-endometriosis",
+      "kind": "preview",
+      "output": {
+        "headline": "Women share their experiences of gynaecological care in the UK",
+        "trail": "A UK report finds women with reproductive conditions have faced poor care due to 'medical misogyny', as people share accounts of being told their pain was 'all in my head'.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2022/jun/02/common-surgery-drug-sugammadex-contraception-women-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Study finds women rarely told surgery drug can affect contraception",
+        "trail": "A study at an NHS trust found no patients were informed that sugammadex, a drug used in surgery, carries a risk of unplanned pregnancy by impeding contraception.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2026/aug/26/women-hrt-lower-risk-dementia-study",
+      "kind": "preview",
+      "output": {
+        "headline": "HRT use linked to lower dementia rates in women, study suggests",
+        "trail": "Scientists found women who had used hormone replacement therapy were 10 per cent less likely to be diagnosed with dementia than those who had not used it.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/science/2025/jun/26/uk-test-miscarriage-risk-pregnancy-loss",
+      "kind": "preview",
+      "output": {
+        "headline": "Scientists develop test to identify women more likely to miscarry",
+        "trail": "Researchers discovered an abnormal process in the womb lining, raising hopes for new treatments that could help prevent pregnancy loss in women identified as high-risk.",
+        "progress": "Scientists have developed a new test and identified an abnormal process in the womb lining that could lead to treatments preventing pregnancy loss.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/society/2023/aug/30/female-surgeons-patient-outcomes-better-studies",
+      "kind": "preview",
+      "output": {
+        "headline": "Studies find patients fare better under the care of female surgeons",
+        "trail": "Researchers suggest differences in technique, speed and risk-taking help explain why patients tend to have better outcomes with female surgeons, with surgery by men linked to more problems.",
+        "progress": "Researchers point to differences in surgical technique and risk-taking that may explain why outcomes are better with female surgeons.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2015/jan/07/rj-mitte-walt-jr-nothing-compare-to-breaking-bad-cerebal-palsy",
+      "kind": "preview",
+      "output": {
+        "headline": "RJ Mitte on Breaking Bad fame and showing disabled actors' true potential",
+        "trail": "RJ Mitte recalls landing the role of Walt Jr in Breaking Bad after seeing a casting brief for 'dark hair, big eyebrows, cerebral palsy', and says he wants to show disabled actors' true potential.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2025/dec/21/james-ransone-the-wire-actor-dead",
+      "kind": "preview",
+      "output": {
+        "headline": "The Wire actor James Ransone dies at the age of 46",
+        "trail": "The Los Angeles medical examiner reports that Ransone, who played Chester 'Ziggy' Sobotka in the HBO crime drama, died by suicide.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2014/aug/18/breaking-bad-aaron-paul-i-miss-jesse-pinkman",
+      "kind": "preview",
+      "output": {
+        "headline": "Aaron Paul reflects on Breaking Bad and says: 'I miss Jesse Pinkman'",
+        "trail": "He landed the role of a lifetime as Breaking Bad's troubled meth-slinger, and here talks about returning in Better Call Saul, playing sidekick to a cartoon horse, and his religious upbringing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2013/jun/20/james-gandolfini-dies-aged-51",
+      "kind": "preview",
+      "output": {
+        "headline": "Sopranos star James Gandolfini dies aged 51",
+        "trail": "James Gandolfini, who starred in HBO's hit series The Sopranos, has died aged 51; a cable network spokeswoman said he may have suffered a heart attack while in Italy.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2014/apr/07/breaking-bad-house-of-cards-bafta-nominations",
+      "kind": "preview",
+      "output": {
+        "headline": "US dramas only on Netflix in UK earn Bafta nominations",
+        "trail": "Breaking Bad and House of Cards, US dramas available in the UK only via Netflix, are among the nominees in the television Bafta awards.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2023/aug/04/mark-margolis-dead-breaking-bad-better-caul-saul",
+      "kind": "preview",
+      "output": {
+        "headline": "Mark Margolis, Breaking Bad's Hector Salamanca, dies aged 83",
+        "trail": "Mark Margolis, who played drug lord Hector Salamanca in Breaking Bad and Better Call Saul and also appeared in Scarface and The Wrestler, has died aged 83.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/food/2020/jul/15/how-to-make-goan-seafood-curry-recipe-felicity-cloake",
+      "kind": "preview",
+      "output": {
+        "headline": "A classic, aromatic Goan seafood curry made step by step",
+        "trail": "This classic Goan seafood curry is aromatic and tangy, and this step-by-step guide takes you through making it from start to finish at home.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2017/mar/17/haddock-fish-scotland-uk-waters-removed-sustainable-seafood-list",
+      "kind": "preview",
+      "output": {
+        "headline": "Scottish fishermen challenge MCS review that removed haddock from sustainable list",
+        "trail": "MCS removed some haddock fisheries from its green, sustainable seafood list, a decision Scottish fishermen are challenging, with Scottish fishermen accusing the watchdog of 'dressing advocacy up as science'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/food/2025/mar/25/rhubarb-with-seafood-recipes-king-prawns-sambol-mackerel-remoulade-alexina-anatole",
+      "kind": "preview",
+      "output": {
+        "headline": "Rhubarb's sharpness pairs with charred mackerel and seared king prawns",
+        "trail": "Alexina Anatole's recipes pair rhubarb with seafood, its sharpness making a wonderful foil to oily charred mackerel and seared king prawns finished with a fiery sambol.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2021/sep/24/chetna-makan-easy-curry-recipes-yoghurt-chicken-fish-lentil-cauliflower-pea-mushroom",
+      "kind": "preview",
+      "output": {
+        "headline": "Chetna Makan's four easy curries, from fish to cauliflower",
+        "trail": "Chetna Makan offers four simple, easy curries: black-eyed beans with mushroom, a hearty fish and lentil curry, creamy yoghurt chicken, and a warming cauliflower and pea curry.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2015/apr/19/rick-stein-favourite-seafood-recipes",
+      "kind": "preview",
+      "output": {
+        "headline": "Rick Stein picks eight favourite seafood dishes for 40th anniversary",
+        "trail": "To mark 40 years of his seafood restaurant, Rick Stein chooses eight of his favourite fish dishes for OFM, ranging from a classic soup to steamed scallops.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2012/jan/30/sustainable-seafood-products-sharp-rise",
+      "kind": "preview",
+      "output": {
+        "headline": "Sustainable seafood products certified in UK rise 41 per cent",
+        "trail": "The number of fish and seafood products certified as sustainable by the Marine Stewardship Council has risen 41 per cent to 988, the organisation says.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu",
+      "kind": "preview",
+      "output": {
+        "headline": "Luca Olmetto rescued after 26 hours trapped in Sardinia cave",
+        "trail": "Luca Olmetto was freed from Sardinia's Gorroppeddu cave in the Urzulei mountain range after a rockslide left him trapped roughly 10 metres underground for 26 hours.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "kind": "preview",
+      "output": {
+        "headline": "Hall and Woodford win Nobel economics prize for 'smoothing' crises",
+        "trail": "Hall and Woodford, both US economists, have won the Nobel prize for economics for work on 'smoothing' crises, developing models that help central bankers and finance ministers stabilise their economies.",
+        "progress": "Hall and Woodford's economic models are already helping central bankers and finance ministers stabilise economies.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
+      "kind": "preview",
+      "output": {
+        "headline": "Roman fort discovery in Wales may confirm medieval emperor myth",
+        "trail": "Exclusive finds near Frenni Fawr hill in Wales suggest the medieval folklore account of an emperor's camp there was rooted in reality.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved",
+      "kind": "preview",
+      "output": {
+        "headline": "Local historian solves mystery of dumped 1950s wedding album",
+        "trail": "An online appeal and detective work by a local historian helped solve the mystery of a 1950s wedding photo album dumped in Wakefield, returning the stolen keepsake to the couple's son.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/13/inflation-australia-petrol-prices-byd-electric-vehicle-economy",
+      "kind": "preview",
+      "output": {
+        "headline": "'BYD effect': EV boom helps Australia fight inflation",
+        "trail": "More Australian consumers are expected to 'unplug themselves from the oil shock' as at least five electric vehicles are now priced around or below $30,000.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/11/bev-craig-manchester-music-oasis",
+      "kind": "preview",
+      "output": {
+        "headline": "Manchester mayor Bev Craig pledges £2m to nurture local music",
+        "trail": "Bev Craig, Manchester's mayor, has pledged £2m in funding to nurture local artists, improving access to rehearsal and production space, saying there is more to the city's music than Oasis.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/indonesia-earthquake-mosque-warning-systems-loundspeakers",
+      "kind": "preview",
+      "output": {
+        "headline": "Indonesia trials mosque loudspeakers to help alert communities to earthquakes",
+        "trail": "A five-year trial is testing whether loudspeakers used to broadcast the call to prayer from mosques can also alert hard-to-reach parts of Indonesia to earthquakes.",
+        "upside": 3
+      }
+    }
+  ]
+}
