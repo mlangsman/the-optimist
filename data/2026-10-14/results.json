@@ -1,0 +1,1771 @@
+{
+  "date": "2026-10-14",
+  "engine": "claude-code",
+  "results": [
+    {
+      "id": "a:/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+      "kind": "article",
+      "output": {
+        "headline": "MI5's Iran operation leads to more than 50 arrests this year",
+        "bodyHtml": "<p>MI5's counter-Iran operation has led to more than 50 arrests in the UK in the past year, Ken McCallum said, as the agency works to meet what he described as a more aggressive Iran, which he said had threatened other military bases in the UK and was behind the incident at RAF Fairford late last month.</p> <p>MI5 would create a new unit, McCallum added, to bring together expertise from across government and separate the reality of AI-related risks from the bluster, as part of a wide-ranging annual security update.</p> <p>The new AI Threat Assessment Centre would help advise both government and the wider public, McCallum said, after highlighting the potential use of AI by hostile states and terrorists, including to possibly develop a novel bioweapon.</p> <p>A year ago, a 16-year-old from Inverclyde was handed a 10-year prison sentence after he pleaded guilty to planning mass murder by firebombing a Muslim centre in Greenock, McCallum noted.</p> <p>Extremists with anti-migrant opinions are, however, becoming increasingly likely to consider carrying out terrorist attacks against immigration centres and asylum hotels in the UK, the MI5 chief also warned.</p> <p>McCallum said a shift from radicalised rightwing sentiment to violence was \"the most marked trend\" in the spy agency's caseload over the past year, contributing to a rise in the overall UK terror threat level.</p> <p>On the evolving extreme rightwing threat, McCallum said there had been an increase in cases where \"extremist versions of anti-immigration and anti-Muslim grievance are tipping into terrorist intent\", such as planning attacks on migrants and Muslims.</p> <p>A number of aggressive anti-migrant protests have been held this autumn by the <a href=\"https://www.theguardian.com/politics/2026/sep/07/patriot-platform-far-right-group-dover-portsmouth\">far-right Patriot Platform</a> at Portsmouth and Dover, while racially and religiously motivated offences are running at record levels.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/uk-news/ng-interactive/2026/sep/12/from-black-clad-agitators-to-an-appeal-for-tommos-mum-an-unsettling-week-with-the-patriot-platform\">From black-clad agitators to an appeal for 'Tommo's Mum': an unsettling week with the Patriot Platform</a> </p> </aside> <p>McCallum said young people were particularly likely to gravitate towards extreme rightwing terrorism, and at one point this year the Security Service was \"investigating a radicalised ... 13-year-old in the UK\".</p> <p>There was a \"concerning trend of violence targeted at political figures, religious or community groups\", McCallum said, as demonstrated by the killing of the former minister and Reform UK spokesperson, Ann Widdecombe.</p> <p>On Thursday, Wes Streeting, the defence secretary, is due to meet his US counterpart, Pete Hegseth, at the Pentagon for a discussion where the issue of base security in the UK is almost certain to be raised. A week after the Fairford incident, the US withdrew 12 B-1 bombers from the RAF base, which had been used to attack Iran in the spring and early summer.</p> <p>Iran, McCallum said, was trying to expand hostile activities in the UK and now had \"ambitions to come at harder targets, like military sites\", including the RAF Fairford airbase in Gloucestershire.</p> <p>Five men from London drove to Whelford, a village next to a base used by the US air force, in three white vans shortly after midnight on 27 September. They were released on police bail a day later after no bombs or explosives were found.</p> <p>There was also a hint that Iran had sought to target other bases. \"Fairford is not unique in the UK,\" McCallum said, though he would not be drawn specifically on what other sites had been threatened, or the nature of the threat.</p> <p>However, allies said his comments were not a reference to RAF Molesworth in Cambridgeshire, where two Latvians were found by police at 2am inside the perimeter of a base used for US and Nato intelligence operations in Europe. They too were subsequently released on police bail.</p> <p>Iran, though, still has a relatively low level of capability to match its ambitions. Tehran typically hires criminal proxies to carry out operations abroad, so any ability to target a military base \"is really a function of the sophistication level of those criminals\".</p> <p>Much of Tehran's increased aggression has been aimed at \"British Jewish communities\", McCallum said, including terrorist plots and arson attacks against synagogues, businesses and ambulances.</p> <p>In an unexpected observation, McCallum said he was \"particularly focused\" on the risk of hostile states or terrorists using AI to generate new, deadly bioweapons, particularly if guardrails introduced by software companies failed.</p> <p>Last month, Anthropic, the company behind Claude, warned that there were \"five case studies of actors using our models in ways that could support biological weapons development\" - and said misuse could have serious consequences.</p> <p>Liam Booth-Smith, head of Europe policy at Anthropic and a former chief of staff to Rishi Sunak, told the Commons business committee on Tuesday that there was a risk of real harm from the fast-developing technology.</p> <p>\"Without appropriate mitigations, it's possible that real harm could be caused in the space of helping people to create biological or chemical weapons,\" Booth-Smith said.</p> <p>The MI5 chief added that AI could also be exploited by cyber hackers, to help terrorists refine their attack plans and even try to use \"AI-enabled drones\", he said, and to easily produce \"propaganda and radicalising material tailored to the individual\".</p> <p>Russia, the MI5 chief emphasised, remains \"aggressor number one\" as the Kremlin continues to lash out against the west with assassination plots, explosive threats and cyber-attacks that at times stop \"not much short\" of conventional warfare.</p> <p>Moscow tried to interfere in the 2016 Brexit referendum with anti-EU coverage on RT and Sputnik media, and via troll social media accounts, but there was a big difference between \"what may have been attempted and what actually resulted\", McCallum said.</p> <p>The UK's relationship with China was \"multifaceted\", with MI5 focused on Beijing's efforts to steal university research and intellectual property, and obtain political secrets about areas it was interested in.</p> <p>Overall, threats from hostile states had quadrupled in the last decade and now were running on par with MI5's counter-terrorism mission. \"We have again entered a new era of national security,\" he said.</p>",
+        "captions": [],
+        "standfirst": "MI5 says the operation against Iran has led to more than 50 arrests this year, and it is also planning a new unit to assess AI-related risks, as its chief points to a shift from anti-immigration and anti-Muslim sentiment to violence, and separately to a 'concerning trend' of violence against political and religious figures, including the killing of Ann Widdecombe.",
+        "progress": "A new unit will bring together expertise from across government to separate real AI threats from bluster.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "kind": "article",
+      "output": {
+        "headline": "Pope Leo's lung operation was 'successful, on schedule and as planned'",
+        "bodyHtml": "<p>Leo's operation to remove a growth from his lung concluded \"successfully, on schedule and as planned\", the Vatican said, after tests taken during the surgery confirmed a diagnosis of lung adenocarcinoma.</p> <p><a href=\"https://www.theguardian.com/world/pope-leo-xiv\">Pope Leo</a> has lung cancer, the Vatican confirmed late on Tuesday, in a medical bulletin that followed the earlier, more positive statement on how the operation itself had gone.</p> <p>The Vatican said the diagnosis had been suspected by preoperative tests and was then confirmed during surgery. Leo was in the operating theatre for about three hours, with the operation itself lasting approximately 90 minutes.</p> <p>In a rare moment of Vatican transparency, Leo said during his angelus prayer on Sunday that <a href=\"https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung\">doctors had found a small nodule on his lung during a checkup</a>, adding that it was \"well-contained\" and detected early.</p> <p>\"The doctors believe it would be right to intervene and so, following their advice, I have decided to have the operation to remove it,\" he said to the crowds gathered in St Peter's Square.</p> <p>Cardinal Pietro Parolin, the Vatican secretary of state, said he had seen Leo on Monday night. \"We spoke with great serenity,\" Parolin told Rai News. \"He is truly a great example. The announcement came like a bolt out of the blue, nobody expected it. Thank God it was detected immediately, so the operation could take place immediately. Normally, when these things are caught in time, they can be resolved.\"</p> <p>The Vatican said that Leo had \"now returned to his room\" following the operation. Leo, 71, who in May last year became the first US-born leader of the Roman Catholic church, is being treated in Rome's Gemelli hospital, where a large crowd greeted his arrival earlier on Tuesday.</p> <p>US secretary of state Marco Rubio, a practicing Catholic who has met with the pope, said he and his wife were \"united in prayers\" for Leo following the diagnosis. Australian prime minister Anthony Albanese also wished him a quick recovery, saying he was \"a voice for peace, humanity and reason in our modern world.\"</p> <p>All of Leo's appointments have been cancelled until 20 October.</p> <p>Leo is staying in the 10th-floor private-patient wing but not in the papal suite, which is being renovated.</p> <p>The Chicago-born pope, who enjoys sports, especially playing tennis, is generally believed to be in good health. He often makes use of the papal retreat in Castel Gandolfo, close to Rome.</p> <p>Leo travelled to France on a papal visit in September and is scheduled to go to South America in November for a 12-day trip covering 10 cities.</p> <p>The weekly papal audience on Wednesday will be led by Luis Antonio Tagle, a cardinal from the Philippines who last week was elected dean of the college of cardinals - the authority that presides over papal conclaves.</p> <p>The Gemelli, located in the north-west of the Italian capital, is renowned for treating reigning popes. Pope John Paul II stayed there so many times that the Vatican worked with the hospital to establish the high-security papal suite.</p> <p>Leo's predecessor, Francis, spent more than five weeks in the hospital, being treated for bronchitis, which developed into bilateral pneumonia. He died at home in Casa Santa Marta in Vatican City on 21 April 2025, just under a month after being discharged.</p>",
+        "captions": [],
+        "standfirst": "The Vatican says the pontiff's surgery to remove a growth, which was detected early during a checkup, was carried out exactly as planned; tests taken during the operation confirmed a diagnosis of lung cancer.",
+        "progress": "Doctors say the operation went exactly as planned, and the pope has already returned to his room.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/technology/2026/oct/13/anthropic-ai-replicators-warning",
+      "kind": "article",
+      "output": {
+        "headline": "Anthropic's safety researchers race to get ahead of self-replicating AI",
+        "bodyHtml": "<p>Anthropic's \"frontier red team\", the unit tasked with stress-testing AI systems, has published a <a href=\"https://www.anthropic.com/research/self-replicating-ai\">report</a> exploring whether its models could become \"self-replicating\" and find ways to infiltrate internet-connected devices, such as smart fridges and automatic vacuum cleaners. The idea of the team is to explore the capabilities of their AI models.</p> <p>\"We should aim to harden our systems to make it difficult for such replicators to spread, but also prepare to deal with a world where they are here to stay,\" the researchers wrote.</p> <p>In the scenario the team tested, researchers prompted an agent to try to hack internet-connected devices. They found that AI self-replication would only likely work with smaller models, and that homes and small businesses would probably be the first target for such attacks.</p> <p>The company said these \"AI worms\", a kind of autonomous malware, could be \"months away\" from gaining such capabilities. Once out-of-control AI systems reach the capability to hack smart devices, they could spread through networks while dodging detection. In a worst-case scenario, Anthropic said, various AI worms could \"swarm\" together to attack computer hardware.</p> <p>Once this happens, the company said, the models could power themselves within these devices without the need of datacenters. Such self-replication would represent a major loss of control of a runaway AI model.</p> <p>\"A replicator like this would be challenging to shut down,\" the researchers wrote, \"since there's no centralized point to shut off.\"</p> <p>The devices Anthropic lists as susceptible all come with small built-in AI chips, including smart ovens, smart TVs, automatic lawnmowers, security cameras and video-conferencing units.</p> <p>The researchers concluded it's unclear what form the AI replication could take. They said it could be a slow model like \"digital slime mold\", a model that scams people for compute credits or a \"powerful cyber model\" that rapidly hacks large facilities such as datacenters.</p> <p>Regardless, the Anthropic researchers said, they're expecting a future \"awash with agents running on all types of hardware, including some that aren't under human control\".</p> <p>Anthropic's new report comes as <a href=\"https://www.theguardian.com/global/2026/sep/15/ai-doomsday-warning-jacob-coxon-anthropic\">AI safety concerns have reached a fever pitch</a>. Over the past few months, a steady stream of reports have come from AI companies, including Anthropic and OpenAI, saying their agents are capable of acting on their own and <a href=\"https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack\">hacking into other companies</a> and <a href=\"https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman\">government entities</a>.</p> <p>The revelations have caused researchers, lawmakers and executives, including Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman, to <a href=\"https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown\">call for a slowdown</a> and increased guardrails on the burgeoning industry. Despite that, both companies have continued apace to <a href=\"https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns\">develop and release new models</a>.</p>",
+        "captions": [],
+        "standfirst": "Anthropic's in-house 'frontier red team' is testing whether its AI models could become self-replicating. Such 'AI worms' would be difficult to shut down, and in a worst case could 'swarm' together to attack hardware - a risk the company says could be only months away - and the researchers say systems should be hardened before that happens.",
+        "progress": "Anthropic's red team is testing the risk in advance and pushing to harden systems before self-replication becomes possible.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+      "kind": "article",
+      "output": {
+        "headline": "BBC presses ahead with bid to put Trump under oath in $10bn case",
+        "bodyHtml": "<p>The BBC is asking a federal judge in <a href=\"https://www.theguardian.com/us-news/florida\">Florida</a> to compel <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> to confirm and sit for a deposition as part of the president's $10bn defamation lawsuit against the British broadcaster.</p> <p>\"Plaintiff chose to file this lawsuit and, in doing so, he accepted the obligations of civil litigation,\" the BBC's motion reads. \"The BBC therefore asks the Court to compel Plaintiff to confirm a date for his deposition, notify the BBC of a secure location where such deposition is possible and any other logistics required to ensure Plaintiff's safety, and sit for the deposition, as the core rules of discovery require.\"</p> <p>Magistrate judge Enjoliqué Aytch Lett has scheduled a discovery hearing that is likely to touch on the deposition issue for 22 October.</p> <p>According to a Tuesday filing, the BBC and Trump's legal team had agreed for him to be deposed on Friday. The BBC's lawyers wrote to the judge that they have spent months trying to secure a location for the deposition from Trump's team.</p> <p>On 28 September, Trump's lawyers told the BBC's counsel that the president \"is no longer available for his deposition on October 16 due to other matters of national importance\".</p> <p>While Trump's lawyers said they would follow up quickly with a replacement date, they did not, ultimately suggesting that he would be available in the second or third week of January, well after the deadline to complete the discovery portion of the case. Lawyers for the BBC had pledged to keep the location of the deposition confidential.</p> <p>As such, the BBC's lawyers are now asking the judge to require Trump's team to schedule the deposition.</p> <p>\"Nearly eight months into discovery, after seven depositions of BBC witnesses, and with only two months of discovery remaining, the BBC still has not been able to depose, and does not even have a schedule to depose, the most central figure in this case: Plaintiff himself,\" lawyers for the BBC wrote in the Tuesday motion.</p> <p>Trump, who has a long history of legal action against media companies, filed a lawsuit against the BBC in December 2025, accusing the network of violating Florida's Unfair and Deceptive Trade Practices Act over the edit of a Panorama documentary that edited together comments he made during a rally on 6 January 2021. The BBC has apologized for the error.</p> <p>\"The formerly respected and now disgraced BBC defamed President Trump by intentionally, maliciously, and deceptively doctoring his speech in a brazen attempt to interfere in the 2024 Presidential Election,\" a spokesperson for Trump's legal team said in a statement. \"The BBC has a long pattern of deceiving its audience in coverage of President Trump, all in service of its own leftist political agenda. President Trump's powerhouse lawsuit is holding the BBC accountable for its defamation and reckless election interference just as he has held other fake news mainstream media responsible for their wrongdoing.\"</p>",
+        "captions": [],
+        "standfirst": "The broadcaster has asked a federal judge to compel Donald Trump to confirm a deposition date, after his team cancelled their agreed Friday session citing 'other matters of national importance'.",
+        "progress": "The BBC is asking the court to compel a deposition date, with a discovery hearing already scheduled for 22 October.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+      "kind": "article",
+      "output": {
+        "headline": "UK fast-tracks missile deliveries to Ukraine as Burnham welcomes Zelenskyy",
+        "bodyHtml": "<p>Andy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK moves to speed up deliveries of British-made lightweight multi-role missiles (LMMs) to help protect Ukraine <a href=\"https://www.theguardian.com/world/2026/oct/11/volunteers-protecting-kyiv-new-jet-powered-drones\">from attacks by</a> a new generation of Russian jet-powered drones.</p> <p>The UK prime minister said his message to Zelenskyy and his country would be: \"We are with you for as long as it takes.\"</p> <p>In parallel, Burnham and his ministers will push for a full international maritime services ban on exports of Russian liquefied natural gas (LNG). The chancellor, John Healey, will separately use meetings at the ongoing International Monetary Fund summit in Bangkok to push other countries to ban Russian LNG.</p> <p>Announcing the Downing Street meeting, No 10 said part of an ongoing 1.6 billion pound package to deliver more than 5,000 LMMs to Ukraine would be sped up to help combat the drone attacks.</p> <p>These drones are quicker and higher-flying than the propeller-driven Shahed drones previously used, making them much harder to shoot down, allowing Russia to strike more targets in Ukraine, including in Kyiv.</p> <p>In a statement before his meeting with Zelenskyy, Burnham said: \"Our rock-solid support to Ukraine is vital for keeping us safe here in the UK and ensuring those on the frontlines have the equipment they need to push back Russia.</p> <p>\"My message to the Ukrainian people could not be clearer: we are with you for as long as it takes, and we will go further and faster in our support to back your courageous fight for peace in Europe.</p> <p>\"It is not just the right thing to do, but it's the necessary thing to do. Russia's aggression cannot be allowed to succeed on our continent.\"</p> <p>The pair have already met twice since Burnham took office in July, when Zelenskyy <a href=\"https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine\">visited a naval base</a> in Portsmouth that month and when Burnham <a href=\"https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit\">travelled to Kyiv</a> in August.</p> <p>Zelenskyy's latest visit comes as Ukraine faces increased Russian missile and drone attacks, and after Donald Trump <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">made a deal</a> to buy Russian diesel, called for Ukraine <a href=\"https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy\">to have a new leader</a>, and announced a <a href=\"https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire\">supposed ceasefire</a> connected to energy infrastructure that the Ukrainian president said \"was news to him\".</p> <p>Trump is an often wayward ally for Ukraine, and Zelenskyy has expressed anger at the diesel deal, saying subsequent Russian attacks on civilian targets in Ukraine amounted to a \"thanks\" from Vladimir Putin.</p> <p>UK governments have previously welcomed Zelenskyy after difficult experiences with Trump. He <a href=\"https://www.theguardian.com/world/live/2025/mar/01/live-european-leaders-rally-behind-zelenskyy-after-trump-vance-clash-updates?page=with%3Ablock-67c344088f089e8672a05321#block-67c344088f089e8672a05321\">met Keir Starmer</a> at Downing Street the day after Trump and his vice-president, JD Vance, <a href=\"https://www.theguardian.com/us-news/2025/feb/28/trump-zelenskyy-meeting-ukraine-aid-war\">publicly berated</a> the Ukrainian president in the Oval Office 18 months ago.</p> <p>During that trip Zelenskyy was also hosted <a href=\"https://www.theguardian.com/uk-news/2025/mar/02/king-charles-meets-zelenskyy-after-president-attends-summit-in-london\">by King Charles</a>, who, in a pointedly personal touch, saw the Ukrainian president at Sandringham in Norfolk, which is a royal family home and rarely used for such visits.</p>",
+        "captions": [],
+        "standfirst": "The UK will speed up deliveries of missiles to help Ukraine counter a new generation of Russian drones, as the prime minister reiterates British backing after the Ukrainian president's latest difficulties with Donald Trump.",
+        "progress": "The UK is speeding up missile deliveries to Ukraine and pushing other countries to ban Russian LNG exports.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+      "kind": "article",
+      "output": {
+        "headline": "Court keeps CNN, MS Now and Politico credentialed at the White House",
+        "bodyHtml": "<p>A federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition's lawsuit against the Trump administration plays out.</p> <p>In his ruling, Judge Timothy Kelly wrote that the plaintiffs \"are likely to succeed not only on their due process claim, but also on their two First Amendment claims\". While access to the White House is not guaranteed, court precedent dictates that once it is provided to journalists, it cannot be taken away for editorial or viewpoint-based reasons.</p> <p>\"Defendants (except for President Trump) and their agents, representatives, and all persons or entities acting in concert with them, shall not execute, implement, or enforce the September 18, 2026, decision to revoke the White House 'hard pass' press credentials held by employees of CNN, MS NOW, and POLITICO, thereby maintaining the status quo since the Court's entry of a temporary restraining order on September 24, 2026,\" the judge wrote in granting a preliminary injunction requested by the plaintiffs.</p> <p>During arguments for the preliminary injunction on 8 October, media lawyer Theodore J Boutrous told the judge that Trump had offered a \"confession\" - in a Time magazine interview the week before - that he was banning the media companies explicitly because of the content of their reporting, not because of any other considerations, such as national security.</p> <p>\"The case has gotten stronger for the plaintiffs thanks to President Trump,\" Boutrous told the judge.</p> <p>The judge seemed to agree. \"President Trump's own comments suggest that he intended the revocation of Plaintiffs' hard passes to alter their reporting on him, bolstering the case that his action here is sufficient to deter a reporter of ordinary firmness from reporting in the same way she had before,\" he wrote.</p> <p>In a statement, Boutrous said of the judge's ruling: \"When the President issued his 'ban on the free press,' he blatantly and explicitly violated due process and the First Amendment. Since then, the President has repeatedly, candidly, and consistently admitted in public that he banned our clients from the White House to punish reporting he doesn't like and to try to force journalists to cover him in ways he prefers.\"</p> <p>The court, he added, \"was right to enjoin the White House from enforcing this 'unconstitutional ban on the free press' for the foreseeable future\".</p> <p>Kelly had on 24 September <a href=\"https://www.nytimes.com/interactive/2026/09/24/us/politics/cnn-msnow-politico-trump-restraining-order.html\">granted a 14-day reprieve</a> for the news organizations, which <a href=\"https://www.theguardian.com/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban\">six days earlier had been banned</a> by the president in an extraordinary move from entering the White House grounds \"as a result of their constant 'reporting' FAKE NEWS\".</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/us-news/2026/oct/11/justice-department-investigates-tv-networks-trump-pool-coverage\">US justice department investigating TV networks over Trump pool coverage</a> </p> </aside> <p>The organizations filed a lawsuit on 21 September seeking to overturn the ban as a violation of their rights under the US constitution. That temporary restraining order expired on Tuesday, bringing the media companies into court late last week to ask for the preliminary injunction that would lift the ban during the duration of the lawsuit, which could take months.</p> <p>During arguments at the E Barrett Prettyman Federal Courthouse in Washington, <a href=\"https://www.theguardian.com/media/2026/oct/08/trump-media-ban-hearing\">Kelly seemed inclined to lift the ban indefinitely</a>, telling a lawyer for the federal government that his side had \"a notice problem\" that was \"probably the biggest hurdle\" they had to overcome.</p> <p>The Trump White House gave no advance notice to the media companies affected to say that they were at risk of losing their press badges, which the news organizations have said are essential to their ability to cover the administration. While the White House sent letters to the media companies informing them of the ban, they did so post-hoc, after building access had already been cut off, in violation of binding court precedent.</p> <p>Although the White House has largely adhered to the judge's prior ruling restoring access on a temporary basis, journalists for CNN and Politico have on occasion been prevented from performing \"pool duty\" - covering the daily activities of the president - because the administration has interpreted the judge's temporary restraining order to solely require access to the White House complex, not smaller spaces like Air Force One or the Oval Office.</p> <p>The judge required the media plaintiffs to post a bond of $1.</p>",
+        "captions": [],
+        "standfirst": "District judge Timothy Kelly ordered the White House to keep allowing the outlets' journalists in while their lawsuit proceeds, finding they are likely to succeed on their due process and First Amendment claims against the September ban.",
+        "progress": "The judge found the outlets likely to succeed on both their due process and First Amendment claims.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "a:/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "kind": "article",
+      "output": {
+        "headline": "Iranian student sentenced to death over a social media post",
+        "bodyHtml": "<p>In an audio recording released from prison last month, the Iranian student Najmeh Amini appealed for international intervention, calling on the UN, lawyers and rights groups to investigate her case.</p> <p>\"I do not want to make a hero out of myself today. I only want one thing: be my voice,\" she said.</p> <p>\"I am an innocent young girl with so many hopes and dreams,\" Amini said. \"I have parents who are waiting for me. A family that every night, with the fear of losing me, turns their night into morning.\"</p> <p>Human rights groups have raised the alarm after reports that Amini, 23, <a href=\"https://iranhr.net/en/articles/9095/\">has been sentenced to death for blasphemy</a> over a social-media post. Her death sentence is not final and remains subject to appeal before Iran's supreme court.</p> <p>Amini, an accounting student, is being held in Vakilabad prison in the north-east city of Mashhad. She has been sentenced to more than 12 years in prison and death in separate cases heard by a revolutionary and a criminal court.</p> <p>A source close to Amini's family told the US-based Human Rights Activists in Iran (HRAI) that Amini was sentenced to death on charges of \"sab ol-nabi\" (insulting the prophet).</p> <p>In the second case, Amini was sentenced to 12 years, six months and one day on charges including acting against national security and spreading propaganda against the regime.</p> <p>Amini was arrested by security forces during <a href=\"https://www.theguardian.com/global-development/2026/jan/27/iran-protests-death-toll-disappeared-bodies-mass-burials-30000-dead\">January's nationwide protests</a>, which were suppressed with a deadly crackdown. Thousands were reported killed, while the HRAI news agency, Hrana, said more than 50,000 people were arrested.</p> <p>Rights groups warn that the Iranian authorities are increasingly using capital punishment to instil fear and suppress dissent. According to the Oslo-based Iran Human Rights (IHRNGO), more than 600 executions have already been carried out this year.</p> <p>Mahmood Amiry-Moghaddam, director of IHRNGO, said Amini's case should be seen as a serious warning.</p> <p>\"Sentencing a young woman to death for what she posted on social media risks normalising the use of the death penalty against peaceful expression and pushing the boundaries of the death penalty even further,\" he said.</p> <p>Amiry-Moghaddam added that the Iranian authorities were testing the international community's \"tolerance\" towards capital punishment. \"If the international community does not respond firmly now, cases like this could become far more common,\" he said.</p> <p>Under article 262 of Iran's Islamic penal code, insulting the prophet Muhammad or revered Shia figures is punishable by death. However, article 263 provides exemptions for statements made while intoxicated or without deliberate intent, although offenders may still face up to 74 lashes in certain circumstances.</p> <p>According to the Iranian newspaper Khorasan, which confirmed the judicial proceedings, Amini told the court she had posted the remarks while hallucinating after taking psychedelic mushrooms with friends, and her defence argued it was a \"slip of the tongue\".</p> <p>The presiding judge rejected her defence, reportedly asking: \"Why, in that same hallucinatory state, did you not insult other individuals or opponents of the regime, such as America and Israel?\"</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/world/2026/sep/24/twins-sentenced-to-death-and-jail-iran-un-appeal\">Family of Iranian twins sentenced to death and decades in jail ask UN for help</a> </p> </aside> <p>The student's sentencing comes at a time when Iranian lawmakers are seeking to <a href=\"https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown\">criminalise contact with all foreign media,</a> including posts on social media deemed to be financed by another country.</p> <p>Elnaz*, 24, who took part in the protests in Tehran in January and was arrested over social-media posts at the height of the war in March, said she lived in constant fear of surveillance.</p> <p>\"I was arrested even though my social-media account was private. So it's not just the regime's cyber-police we have to worry about. There's also this constant mistrust, this feeling that someone is watching me all the time, even when I'm alone in my room.</p> <p>\"I'm scared to post anything on social media ... but after everything they've put us through, do we really have anything left to lose? They can kill us even if we don't post anything on social media.\"</p> <p>Although executions in Iran <a href=\"https://news.un.org/en/story/2026/08/1168081\">have surged in recent years</a>, reaching their highest level in three decades, death sentences for blasphemy remain relatively rare. The last documented case was on 8 May 2023, when <a href=\"https://www.bbc.co.uk/news/world-middle-east-65523996\">Yousef Mehrad and Sadrollah Fazeli-Zare were executed</a> after being convicted of blasphemy-related offences tied to social-media activity.</p> <p>* Name has been changed to protect her identity</p>",
+        "captions": [],
+        "standfirst": "Najmeh Amini, 23, has appealed for international help, saying: 'I do not want to make a hero out of myself today. I only want one thing: be my voice.' Rights groups say Tehran is increasingly using capital punishment to suppress dissent, with more than 600 executions already this year.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "a:/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+      "kind": "article",
+      "output": {
+        "headline": "Rules, London's oldest restaurant, is given to the National Trust to secure its future",
+        "bodyHtml": "<p>When Thomas Rule served his first oyster to diners on Maiden Lane in London's Covent Garden, \"mad\" George III was on the throne of England, John Adams was US president and William Pitt the Younger had just come up with a wheeze called income tax to pay for the Napoleonic wars.</p> <p>More than two centuries later, <a href=\"https://rules.co.uk/\">Rules</a>, the restaurant Thomas founded in what became the capital's theatreland, has outlasted nine British monarchs and <a href=\"https://www.gov.uk/government/history/past-prime-ministers\">45 prime ministers</a> - but has changed hands only three times. The interior of its four-storey home, stuffed with historic playbills and vintage caricatures and gilded antlers, is little changed from the 19th century, nor has the tone of its determinedly meaty menu - think rabbit rillettes, shin of veal and roast guinea fowl.</p> <p>Rules was beloved by Dickens and Thackeray, inspired Graham Greene and was a favourite of Charlie Chaplin, Laurence Olivier and Ava Gardner. Now the man who bought Rules in 1984 has taken what may be the most significant step in its long history, donating the restaurant's historic home to the <a href=\"https://www.theguardian.com/uk/national-trust\">National Trust</a>, assured that the heritage charity will \"protect this place in a way that no one else could\".</p> <p>\"With many years of hard work, and some extraordinary strokes of luck, Rules has survived everything from redevelopment plans and changing tastes to the blitz,\" JP Mayhew said. By taking on the historic and listed <a href=\"https://historicengland.org.uk/listing/the-list/list-entry/1238981?section=official-list-entry\">34-35 Maiden Lane</a>, he added, the National Trust would \"[safeguard] its bricks and mortar, its famous interior and its invisible atmosphere too. I am grateful to them for believing in this idea and for protecting this building and two centuries worth of stories for people to enjoy forever\".</p> <p>The 11 million pound \"landmark\" gift is one of the most valuable in the National Trust's recent history, and will mark its first entry into the restaurant business - although its portfolio includes 39 historic pubs and a number of country house hotels, including <a href=\"https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/cliveden\">Cliveden</a> in Buckinghamshire.</p> <p>Not that the heritage charity will be taking on the napkin-folding and the slow cooking of pork cheeks. While Mayhew is donating the historic building and its contents, he sold the restaurant business to <a href=\"https://rules.co.uk/history-of-rules/\">Ricky McMenemy</a>, its longstanding general manager, in 2022; McMenemy will become a commercial tenant of the National Trust.</p> <p>\"Our involvement, day to day, will probably be very light touch,\" said Lucy Porten, a national curator for the charity. \"It will always be run as a restaurant. We will look after [the building and its contents], but we recognise that they will have to evolve if they are going to continue to meet diners' needs.\"</p> <p>Diners, however, can expect little change to the menu, she said - and crucially, no scones. \"It's not a National Trust menu, this is a very successful business in its own right. There will be no scones. That's not their business.\" Nor will there be preferential access or prices for National Trust members, \"because it is a business, and it has to be successful,\" she added. Instead, the charity is exploring options for virtual visits and other ways people could \"feel like they are visiting the space\" from afar.</p> <p>It was several years ago when Mayhew first approached the National Trust about a possible gift. Porten said that while \"excited by the offer\", they looked carefully at whether it was the right organisation to take on the building.</p> <p>Porten said: \"The nature of the National Trust, and the fact we have this extraordinary ability to take on places inalienably, for ever, means that we have to think about what's right for now, but also to think about looking after them for future generations. That's quite a big thing ... It had to be quite a balanced response and decision.\"</p> <p>Part of its value to the trust, she said, lay in helping the charity \"tell different histories which are hard for us to tell at our other properties\".</p> <p>\"You get a sense of all the delicious food which has been enjoyed here, the fine wines that have been consumed, the good company that's been enjoyed. There's something in the air about the conversations and the celebrations, the flirtations, the deals that have been struck, the heartbreak. All that hangs in the air, in a very magical way, [as] the backdrop to lots of different historical moments and lives.</p> <p>\"It's an extraordinary slice of the social history of London, and to have been here for so long - in this site and doing this business - is a very rare and special thing.\"</p>",
+        "captions": [],
+        "standfirst": "The historic Covent Garden eatery, which has changed hands only three times in 228 years, has been donated to the heritage charity, which will protect the building 'for ever'.",
+        "progress": "Mayhew says he is grateful the Trust is protecting the building and its stories 'for people to enjoy forever'.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "a:/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+      "kind": "article",
+      "output": {
+        "headline": "Tuning in to how a language sounds is the secret to learning it fast",
+        "bodyHtml": "<p>If you want to get really good at French, Arabic or Hungarian, don't start with rote learning vocabulary and grammar - focus on how they sound instead, research suggests.</p> <p>The latest findings challenge stereotypes that Britons are less adept at languages. Prof Kazuya Saito-van Poeteren, the lead author and professor of second language education at UCL Institute of Education, said: \"I do not think British people are biologically bad at languages. The problem is more likely to be that many people receive too little meaningful exposure, combined with teaching methods that do not necessarily train the auditory skills needed to make the most of that limited exposure.\"</p> <p>\"If you only hear and use the language for a small number of hours each week, having a good ear may make a much bigger difference. Learners with high auditory precision can make very effective use of relatively sparse input, whereas others may need much more exposure before unfamiliar sounds begin to become established,\" he said.</p> <p>A new study of how humans learn modern languages has found that the brains of the most talented linguists hear foreign terms as random noise, not words.</p> <p>Normally, when people learn a language, they try to understand it through the sounds of their native tongue. The more different the foreign language's sounds and pronunciation are from the native language, the harder the new language will probably be to learn.</p> <p>But the best linguists master even the trickiest pronunciation much more easily. To find out why, researchers at UCL and Tohoku University, Japan, compared the auditory precision of 67 Japanese learners of English by measuring their ability to detect slight changes in pitch, length and tone, in non-speech sounds. Using functional MRI scans, they measured participants' brain activity as they tried to distinguish between English vowel sounds that do not occur in Japanese.</p> <p>They found that those with higher auditory precision mastered the pronunciation of new languages faster and more accurately than other learners and relied less on the brain's left sensorimotor system (involved in language processing) when processing foreign-language sounds. Instead, their brain activity patterns were similar to those that occur when the brain processes non-speech sounds.</p> <p>With less interference from pre-existing patterns of their native language, it was simpler for these learners to accurately process new sounds.</p> <p>In contrast, those with lower auditory precision relied more on the brain's left sensorimotor network when listening to foreign-language sounds. They used the pronunciation patterns of their native language when processing unfamiliar sounds.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/19/acai-chipotle-and-gnocchi-and-other-words-you-are-probably-mispronouncing\">Acai, chipotle and gnocchi - and other words you are probably mispronouncing</a> </p> </aside> <p>The findings also suggest schools should focus on sounds much more than just grammar and vocabulary when teaching modern languages, Saito-van Poeteren added.</p> <p>\"Foreign language education should move beyond an approach based on 'more practice' and towards one that develops learners' ear for language learning in line with their auditory characteristics,\" he said.</p> <p>Responding to the findings, Prof Padraic Monaghan, professor of cognition at Lancaster University, said: \"Traditional language learning relies on structured practice, but our brains are naturally attuned to acquire languages through exposure. This study confirms how vital listening is to learning, though learners vary in their sound sensitivity at least in the early stages of hearing new language sounds.\"</p>",
+        "captions": [],
+        "standfirst": "A new study finds the most talented linguists process unfamiliar foreign speech sounds like non-speech noise, a finding researchers say challenges stereotypes that Britons are simply bad at languages.",
+        "progress": "Researchers say schools could teach sound-recognition skills directly, helping learners make better use of limited exposure to a new language.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+      "kind": "preview",
+      "output": {
+        "headline": "MI5 reports shift in rightwing extremism toward violence",
+        "trail": "The agency says a shift from anti-immigration or anti-Muslim views to violence is the most marked trend in its caseload over the last year.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+      "kind": "preview",
+      "output": {
+        "headline": "Pope Leo's lung operation went 'successfully, on schedule and as planned'",
+        "trail": "The Vatican said the pontiff had the lower lobe of his right lung removed, with tests taken during the surgery confirming a diagnosis of lung cancer.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/13/anthropic-ai-replicators-warning",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic makes case for AI guardrails before devices can self-replicate",
+        "trail": "Researchers at the AI firm say models could be only months away from self-replicating across internet-connected devices, prompting calls for tougher safeguards.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+      "kind": "preview",
+      "output": {
+        "headline": "BBC presses ahead with bid to put Trump under oath",
+        "trail": "The broadcaster has asked a federal judge to force Donald Trump's lawyers to schedule a deposition after his team cancelled the initial session.",
+        "progress": "The broadcaster is the party pushing the court to force a decision on timing.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham welcomes Zelenskyy to No 10 in show of support for Ukraine",
+        "trail": "The prime minister will reiterate the UK's backing for Ukraine's president after his latest difficulties with Donald Trump.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+      "kind": "preview",
+      "output": {
+        "headline": "Court keeps CNN, MS Now and Politico credentialed at the White House",
+        "trail": "District court judge Timothy Kelly was ruling after the Trump administration blocked access to the three outlets in September.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+      "kind": "preview",
+      "output": {
+        "headline": "Iranian woman sentenced to death over 'blasphemy' social media post",
+        "trail": "Rights groups say Tehran is increasingly using executions to suppress dissent, with at least 600 carried out this year.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+      "kind": "preview",
+      "output": {
+        "headline": "London's 228-year-old Rules restaurant finds a new protector in the National Trust",
+        "trail": "Historic eatery in the capital's theatreland given to heritage charity after changing hands only three times in 228 years.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+      "kind": "preview",
+      "output": {
+        "headline": "Why great linguists treat new languages as pure sound, not sense",
+        "trail": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech sounds.",
+        "progress": "Researchers say learners who focus on unfamiliar speech sounds rather than meaning progress faster.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/13/wes-streeting-might-be-an-unlikely-defence-secretary-but-hes-still-a-better-bet-than-penny-mordaunt",
+      "kind": "preview",
+      "output": {
+        "headline": "Wes Streeting is growing into the job of defence secretary, jargon and all",
+        "trail": "The Guardian columnist says Streeting's enjoyment of keeping secrets for the first time marks him as settling into the MoD, albeit someone who isn't 'keen on fighting a war'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
+      "kind": "preview",
+      "output": {
+        "headline": "What chasing influencers' six-figure side-hustle dreams really taught me",
+        "trail": "Content creators promise hefty income for little effort; like MLM language, the pitch can sound too good to be true.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/13/expert-guide-buying-clothes-that-last",
+      "kind": "preview",
+      "output": {
+        "headline": "French seams, overlocking and the quiet red flags of 'dry-clean only'",
+        "trail": "Should you look for French seams or overlocking? Is dry-clean only a red flag? We asked the pros how to spot quality.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/brexit-vladimir-putin-russia-referendum-result-eu",
+      "kind": "preview",
+      "output": {
+        "headline": "Brexiters need to face up to the fact that Putin was cheering them on",
+        "trail": "Russian interference probably didn't swing the referendum result, but the Kremlin's desire to undermine the EU remains significant, writes Rafael Behr.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+      "kind": "preview",
+      "output": {
+        "headline": "I was a hostage for 977 days - now I'm searching for a way to forgive",
+        "trail": "At first, the idea of mercy helped me survive captivity; now I ask whether real forgiveness would simply be a form of Stockholm syndrome.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+      "kind": "preview",
+      "output": {
+        "headline": "What accepting we're not the only intelligent beings could teach us, says AI pioneer Hinton",
+        "trail": "The pioneering computer scientist discusses why he thinks Trump misunderstands 'superintelligence', and why accepting we may not be the only intelligent beings could be our biggest challenge.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/14/landmines-ukraine-demining-drones-ai",
+      "kind": "preview",
+      "output": {
+        "headline": "Deminers turn to drones and AI in Ukraine's landmine fight",
+        "trail": "Ukraine is littered with landmines on a scale last seen in Vietnam; demining groups are turning to new technology to speed up the search.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/ng-interactive/2026/oct/14/siam-amazing-park-thailand-oldest-amusement-park-flooded",
+      "kind": "preview",
+      "output": {
+        "headline": "Inside the flooded, deserted halls of Thailand's oldest amusement park",
+        "trail": "Siam Amazing Park, Thailand's oldest, was forced to close after rising water damaged rides and left parts of the site inaccessible.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
+      "kind": "preview",
+      "output": {
+        "headline": "Indian voters mobilise, demanding accountability from election officials",
+        "trail": "Anger over the removal of 130 million names from electoral rolls has triggered a political upheaval for Narendra Modi's government.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
+      "kind": "preview",
+      "output": {
+        "headline": "A father's four-year campaign to protect children from online predators",
+        "trail": "Gavin Guffey took his own life at 17 after a 'sextortionist' targeted him on Instagram; his father Brandon, who heard it happen, has spent four years pushing social media companies to do more to safeguard young users.",
+        "progress": "Brandon Guffey has spent four years pushing for justice and stronger safeguards from social media platforms.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/oct/14/the-cherry-orchard-review-kristin-scott-thomas-chekhov-harold-pinter-theatre-conor-mcpherson-ian-rickson-stephen-mangan",
+      "kind": "preview",
+      "output": {
+        "headline": "Kristin Scott Thomas anchors a traditional, earthy take on Chekhov",
+        "trail": "This Ranevskaya feels of our time, though Conor McPherson's plain-speaking adaptation, co-starring Stephen Mangan, doesn't always hit you emotionally.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/wellness/ng-interactive/2026/oct/13/embalmers-work-burials",
+      "kind": "preview",
+      "output": {
+        "headline": "Embalmers describe the dignity in their most delicate work",
+        "trail": "Embalming is one of the most common ways to temporarily preserve a body after death; practitioners explain what the job involves.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/oct/13/the-chicks-new-york-concert-review",
+      "kind": "preview",
+      "output": {
+        "headline": "The Chicks celebrate hard-won vindication at anniversary show",
+        "trail": "Two decades after country music blacklisted the band for their Iraq war protest, the trio performed their unapologetic album Taking the Long Way with exquisite harmonies.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/13/frank-and-percy-review-bromance-becomes-romance-for-two-dog-walkers-ian-mckellen-roger-allam",
+      "kind": "preview",
+      "output": {
+        "headline": "McKellen and Allam prove it's never too late for love, as dog walkers",
+        "trail": "The pair reprise their roles for the film version of Ben Weatherill's play in a star-filled, bittersweet comedy about finding love later in life.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/13/tom-rhys-harries-on-playing-dc-supervillain-clayface",
+      "kind": "preview",
+      "output": {
+        "headline": "Welsh star Tom Rhys Harries on landing his first blockbuster lead in DC's Clayface",
+        "trail": "The actor talks about moving from rock stars and posh boys to a grisly DC supervillain role, speaking from his LA home.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump finally has a press secretary who shares his conspiracy theories",
+        "trail": "The Maga loyalist believes the 2020 election was stolen and seemingly her new boss is saving the world from a cabal of satanic paedophiles, writes Arwa Mahdawi.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/britain-railways-train-sober-party",
+      "kind": "preview",
+      "output": {
+        "headline": "Our railways deserve the attention we're giving the party in the next carriage",
+        "trail": "Prosecco for the birthday party, Pimm's for the horsey bunch, cheeky Stellas for the short-haul crowd, writes Zoe Williams.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/liverpool-tough-choices-louise-casey-social-care",
+      "kind": "preview",
+      "output": {
+        "headline": "Social care funding should draw on wealth, not just wages, argues Polly Toynbee",
+        "trail": "Preparing her first report on England's social care system, Louise Casey says 'everything is on the table' - and the columnist says older people's wealth should be part of it.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
+      "kind": "preview",
+      "output": {
+        "headline": "Four big European elections at once could reshape the continent, writes Tocci",
+        "trail": "If far-right nationalists gain power in four big countries at once, the continent faces a dramatic Trumpian tilt, the Guardian Europe columnist says.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/the-guardian-view-on-burnhams-brexit-reset-an-overdue-show-of-ambition",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view on Burnham's Brexit reset: boldness that is overdue",
+        "trail": "The editorial board says the prime minister is right to judge the time right to push for closer EU links, with political risk far outweighed by potential rewards.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/oct/13/the-guardian-view-on-probation-overcrowded-prisons-need-an-outlet",
+      "kind": "preview",
+      "output": {
+        "headline": "Community supervision can ease prison overcrowding, if ministers make the case",
+        "trail": "Editorial: to win support for early releases, the government must show that probation and community supervision work.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/13/the-conservatives-better-tomorrow-only-includes-rich-people",
+      "kind": "preview",
+      "output": {
+        "headline": "Letters: a 'better tomorrow' should not only serve the wealthy, readers say",
+        "trail": "Terry Peach responds to Kemi Badenoch's conference speech, while Penelope Turton writes on her promise to cut inheritance tax.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/13/why-most-manchester-city-fans-stand-by-their-club",
+      "kind": "preview",
+      "output": {
+        "headline": "Letter: City's success explains why fans have stuck by their club",
+        "trail": "Andrew Burton suspects that had other clubs enjoyed similar success, fans would have been just as forgiving of the owners.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/13/yes-the-music-is-lovely-but-cathedrals-are-crumbling",
+      "kind": "preview",
+      "output": {
+        "headline": "Cathedrals need secure state funding to match their history, letter argues",
+        "trail": "They are some of our oldest and most historically significant buildings, physically decaying for want of secure state funding, writes Dr Coco Parkinson-Huggins.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/13/yes-obesity-is-a-problem-but-a-greater-one-is-the-food-industry-and-its-greed",
+      "kind": "preview",
+      "output": {
+        "headline": "Tackle food industry greed first, letters say, not just obesity",
+        "trail": "Ultra-processed foods are displacing traditional diets, says Prof Kent Buse, in letters that also include contributions from Hugo Harper, Dr Pawan Randev and Patricia Hampton.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/13/atletico-madrid-manchester-united-champions-league-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Atletico Madrid beat 10-man Manchester United 2-0 in the Champions League",
+        "trail": "Pablo Barrios scored after 53 seconds and Leny Yoro was sent off as Atletico secured victory over Manchester United.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/13/england-greece-womens-world-cup-qualifying-playoff-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "England romp past Greece to set up World Cup playoff against Ukraine",
+        "trail": "Two goals from Lauren James and Alessia Russo helped England beat Greece 5-0 (8-1 on aggregate), setting up a playoff against Ukraine.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/13/arsenal-lille-champions-league-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Arsenal power past Lille as Timber and super-sub Saka shine",
+        "trail": "Eberechi Eze also scored as three goals arrived in seven second-half minutes, completing a 3-0 win over Lille in the Champions League.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/sport/2026/oct/13/rugby-union-louis-rees-zammit-end-to-artificial-prem-pitches-leg-burns-at-saracens",
+      "kind": "preview",
+      "output": {
+        "headline": "Pat Lam left three players out over pitch safety, as Rees-Zammit demands a fix",
+        "trail": "The Bristol winger suffered leg burns playing on an artificial pitch at Saracens and wrote on social media: 'Someone do something about it!' after the match, in which their coach, Pat Lam, left three players out because of the pitch.",
+        "progress": "Pat Lam left three players out of this match because of the pitch, Rees-Zammit says.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/13/football-regulator-chair-david-kogan-manchester-city",
+      "kind": "preview",
+      "output": {
+        "headline": "Football regulator chair vows to resign rather than bow to political pressure",
+        "trail": "David Kogan said he would resign if he faced political pressure on how to respond to Manchester City being found guilty of breaching Premier League financial rules.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/oct/13/matt-richardson-promises-to-cooperate-with-british-cycling-misconduct-probe",
+      "kind": "preview",
+      "output": {
+        "headline": "Richardson pledges cooperation with British Cycling misconduct investigation",
+        "trail": "Matt Richardson has promised to cooperate with a British Cycling investigation into allegations of serious misconduct after he was withdrawn from this week's World Track Cycling Championships in Shanghai.",
+        "progress": "He was withdrawn from this week's World Track Cycling Championships in Shanghai while the inquiry proceeds.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/oct/13/patrice-motsepes-caf-presidency-under-pressure-after-u-turn-on-afcon-cycle",
+      "kind": "preview",
+      "output": {
+        "headline": "Caf officials push back against Motsepe over Afcon U-turn",
+        "trail": "Patrice Motsepe's leadership of the Confederation of African Football is under growing pressure, with officials from across the continent saying they have lost trust in the president.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
+      "kind": "preview",
+      "output": {
+        "headline": "Lewis Hamilton's call for an African Grand Prix is answered as F1 heads to Rwanda",
+        "trail": "Formula One has answered Lewis Hamilton's call to have a race in Africa after the sport's bosses announced Rwanda will join the calendar from the early 2030s.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "kind": "preview",
+      "output": {
+        "headline": "Russia arrests Japanese journalist on suspicion of spying",
+        "trail": "The FSB said the reporter was arrested on Sakhalin island, alleging he was gathering information about Russia's defences.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
+      "kind": "preview",
+      "output": {
+        "headline": "Parents demand investigation into paedophile nursery worker scandal",
+        "trail": "More than 50 families are calling for an inquiry into how paedophile nursery worker Vincent Chan was allowed to return to his job after an internal nursery inquiry.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/13/man-killed-by-tiger-at-yorkshire-wildlife-park-named",
+      "kind": "preview",
+      "output": {
+        "headline": "Man killed by tiger at Yorkshire Wildlife Park named as William Chapman",
+        "trail": "Chapman was pronounced dead at the scene on Saturday after scaling a fence and entering the enclosure.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+      "kind": "preview",
+      "output": {
+        "headline": "Duane 'Keffe D' Davis sentenced to 40 years to life over Tupac Shakur's murder",
+        "trail": "'You don't get to take a man from his family ... and just walk away from it,' the judge said as Davis was sentenced.",
+        "progress": "The judge addressed Davis directly as he handed down the sentence, invoking the toll on Shakur's family.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/13/british-irish-negotiate-paramilitary-disbandment-northern-ireland",
+      "kind": "preview",
+      "output": {
+        "headline": "Report sees 'window of opportunity' for Northern Ireland paramilitary disbandment talks",
+        "trail": "A formal process involving loyalist and republican groups could now be negotiated by the British and Irish governments, the report finds.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record",
+      "kind": "preview",
+      "output": {
+        "headline": "UK bird populations fall to lowest level on record, conservation bodies say",
+        "trail": "Nearly half of species are in decline, with farmland birds and seabirds among the hardest hit; conservation bodies called the findings 'shocking and sobering'.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/13/coastal-erosion-england-homes-demolished",
+      "kind": "preview",
+      "output": {
+        "headline": "At least 183 homes along England's coast demolished in 16 years, figures show",
+        "trail": "The homes were pulled down along the east coast after being judged too vulnerable to remain standing, according to new figures.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/13/volunteers-flushed-plastic-wet-wipes-river-thames",
+      "kind": "preview",
+      "output": {
+        "headline": "Volunteers track plastic pollution by counting wet wipes on the Thames",
+        "trail": "The Thames21 citizen-science project enlists volunteers to help track plastic pollution in the capital's river, work one described as 'not glamorous'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
+      "kind": "preview",
+      "output": {
+        "headline": "Scientists explore whether AI and tutors can help birds relearn lost songs",
+        "trail": "As populations fall, fledglings can struggle to learn the right notes to attract mates; research on bird communication offers hope for species' survival.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
+      "kind": "preview",
+      "output": {
+        "headline": "Farage denies Reform would let troops shoot at migrant boats",
+        "trail": "Farage's intervention comes after Jenrick's claim that Reform would use 'lethal force' against small boats, as Reform chair Zia Yusuf criticises 'everybody' in the former Tory government that included Jenrick and Suella Braverman.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "kind": "preview",
+      "output": {
+        "headline": "UK recruiters say they can spot AI cheats in job interviews",
+        "trail": "UK recruiters say they are confident they can catch AI-assisted cheating in job interviews, even as the body representing some of Britain's biggest graduate employers reports misconduct at a record high.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/13/early-release-prisoners-england-wales-tags-serco",
+      "kind": "preview",
+      "output": {
+        "headline": "MPs press Serco over monitoring of early-release prisoners",
+        "trail": "MPs have questioned the tagging of released offenders after hundreds reportedly went untagged; Serco denies failures, and the probation union says the scheme is straining staff.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham's Your First Home scheme 'could boost Bellway's house output by 10%'",
+        "trail": "The help-to-buy initiative for England could lift supply, the builder said, though it may also slow the market as first-time buyers wait for its launch.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/13/cornell-suspends-university-parties",
+      "kind": "preview",
+      "output": {
+        "headline": "Cornell bans frat parties, launches full review of Greek life",
+        "trail": "The university acted amid backlash over alleged sexual assault, banning parties at frat houses for the rest of the academic year to conduct a 'thorough review' of campus Greek life.",
+        "progress": "The review covers all fraternity houses for the remainder of the academic year.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
+      "kind": "preview",
+      "output": {
+        "headline": "Guilfoyle removed as US ambassador to Greece amid misconduct claims",
+        "trail": "Guilfoyle, who is alleged to have sought a bill payment from a Trump donor, was told by the White House to resign from the post.",
+        "progress": "The White House told Guilfoyle to resign after the allegations surfaced.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "kind": "preview",
+      "output": {
+        "headline": "Saudi Arabia strikes oil depots near Yemen's capital after deadly attack on Riyadh airport",
+        "trail": "Civilians were warned to leave the target area near Sana'a before the strikes, and Saudi Arabia says missiles were launched toward the location of Saudi Aramco's headquarters.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+      "kind": "preview",
+      "output": {
+        "headline": "Retailers want young workers' jobs to cost less under new budget",
+        "trail": "Retailers have called on John Healey to reduce the national insurance contributions threshold in his first budget.",
+        "progress": "Retailers are lobbying for a lower national insurance threshold to boost youth employment ahead of the budget.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
+      "kind": "preview",
+      "output": {
+        "headline": "Hobbs and Whistles owner investigates hack, days after Asos attack",
+        "trail": "The cyber-attack on TFG London comes less than a week after online fashion seller Asos was hit by hackers.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
+      "kind": "preview",
+      "output": {
+        "headline": "Spain stays top choice as Britons hold out for better holiday deals",
+        "trail": "Fewer Britons plan to budget for holidays abroad next year, the travel industry says, with holidaymakers booking later in hope of discounts.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/13/home-is-where-the-jellyfish-glows-finland-finally-warms-to-nature-loving-modernist-alvar-aalto",
+      "kind": "preview",
+      "output": {
+        "headline": "Finland finally embraces its own modernist, Alvar Aalto, with 13 new Unesco listings",
+        "trail": "His egalitarian homeland used to harbour reservations about the architecture star, but with a new exhibition in Helsinki, Aalto's work is finally getting the recognition it deserves.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/13/how-fw-murnau-made-faust-bible-silent-film",
+      "kind": "preview",
+      "output": {
+        "headline": "Rediscovered scrapbook reveals secrets of FW Murnau's silent masterpiece Faust",
+        "trail": "A rediscovered collection of drawings and on-set photos finally reveals the intricate on-set mysteries of one of early cinema's most gifted pioneers.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/13/the-girl-in-the-river-review-police-procedural-ralph-macchio-tiffany-haddish",
+      "kind": "preview",
+      "output": {
+        "headline": "The Girl in the River brings Ralph Macchio and Tiffany Haddish to a noir-tinged procedural",
+        "trail": "The review finds this manhunt thriller, about the search for a murdered teenager's twin, ropey and implausible, playing like noir parody.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president",
+      "kind": "preview",
+      "output": {
+        "headline": "Tyson review - 'deeply icky' hagiography of the boxing superstar, Trump cameo included",
+        "trail": "Some would say this truly irresponsible portrait of Mike Tyson veers from psychedelics and tears to an inadvisable face tattoo and a cameo from the US president.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/13/forever-is-now-review-documentary-eamon-ryan",
+      "kind": "preview",
+      "output": {
+        "headline": "Forever Is Now review - a glowing portrait of former Irish Green leader Eamon Ryan",
+        "trail": "Ryan is shown to be principled, likable and hard-working in this film, shot while he was serving in the country's coalition government.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+      "kind": "preview",
+      "output": {
+        "headline": "Fontaines DC's Dopamine Chamber is a gorgeous, gargantuan triumph, review finds",
+        "trail": "This is a beguiling, endlessly inventive and frequently astonishing fifth LP from a group at increasing ease with being the best band of their generation.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/13/beth-orton-review-brighton-concorde-2",
+      "kind": "preview",
+      "output": {
+        "headline": "Beth Orton plays the best music of her career, review finds",
+        "trail": "Drawing almost entirely from her last two albums, and backed by a band rooted in jazz and experimentation, Orton performed her emotionally fraught songs to a rapturous crowd.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/oct/12/atlantic-requiem-review-slavery-david-onac-lso-st-lukes",
+      "kind": "preview",
+      "output": {
+        "headline": "Atlantic Requiem gives historical slavery documents howling raging life, review finds",
+        "trail": "David Önaç's new oratorio, premiered by the London Symphony Orchestra, is serious and beautiful, moving from syncopated funk to the Latin requiem mass.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/12/kerry-washington-street-you-grew-up-on-best-podcasts-of-the-week",
+      "kind": "preview",
+      "output": {
+        "headline": "Ben Affleck opens up to Kerry Washington about his Massachusetts childhood",
+        "trail": "Plus, the Eras strand returns with the story of 90s pop phenomenon the Spice Girls, in this week's best podcasts roundup.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry",
+      "kind": "preview",
+      "output": {
+        "headline": "A zany poetry-magazine caper from the author of Lessons in Chemistry",
+        "trail": "This offbeat tale of machinations at an eccentric poetry magazine in 80s New York is laugh-out-loud funny - and a paean to the power of poetry.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap",
+      "kind": "preview",
+      "output": {
+        "headline": "Generation Maybe by Camilla Cavendish review - what's really behind the fertility gap",
+        "trail": "An evidence-based account of the difficult choices facing couples across the world, from America to Iran.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/12/peasants-by-maryam-aslany-review-why-an-ancient-way-of-life-may-hold-the-key-to-our-future",
+      "kind": "preview",
+      "output": {
+        "headline": "Peasants by Maryam Aslany review - an ancient way of life, revisited",
+        "trail": "Modernity means cities - or so we're told. This bold new study of those who make their living from the land argues otherwise, suggesting this ancient way of life may hold the key to our future.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/oct/12/the-weight-of-angels-by-john-boyne-review-what-if-oscar-wilde-had-lived",
+      "kind": "preview",
+      "output": {
+        "headline": "The Weight of Angels by John Boyne review: Oscar Wilde gets a second act",
+        "trail": "The great Irish writer died, a broken man, at only 46. Imagining a second act for him is a great idea, but the results are sentimental and unconvincing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/oct/07/what-the-350-grand-theft-auto-collectors-box-says-about-the-escalating-cost-of-gaming",
+      "kind": "preview",
+      "output": {
+        "headline": "A 350 pound 'collector's box' shows how pricey Grand Theft Auto has become",
+        "trail": "The launch hints at a new reality: the kinds of games the writer grew up with are becoming a luxury item, locked behind a forbidding spending barrier.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17",
+      "kind": "preview",
+      "output": {
+        "headline": "Silver Pines review - a stylish, neo-noir detective drama",
+        "trail": "Abandoned shops, ruined apartment buildings and rotting sewer networks make up a dark landscape in which you play a private eye searching for a missing singer-songwriter.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/13/larger-than-life-review-wallace-gromit-shaun-lightroom-london-immersive",
+      "kind": "preview",
+      "output": {
+        "headline": "Larger Than Life review: Wallace and Gromit's hilarious, joyful Aardman origin story",
+        "trail": "These immersive behind-the-scenes renderings of the wide-grinned, cheeky characters are joyful and enormous, if a bit hard to follow.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/13/our-bodies-have-been-bridges-charan-singh-review-autograph-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Our Bodies Have Been Bridges review: riveting portraits of the first woman on Earth",
+        "trail": "The three-person headline show looks at South American feminism, displayed alongside Charan Singh's intimate study of Indian trans communities.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/13/georg-baselitz-the-heroes-review-thaddaeus-ropac-gallery-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Georg Baselitz: The Heroes review - history gets a savage, astonishing swipe",
+        "trail": "The artist captures horror, disgust and guilt over Germany's Nazi past. The colossal results are so scathingly ironic it's like being spat at.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/oct/12/nina-review-chekhov-seagull-battersea-arts-centre-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Nina review - a riveting series of horribly invasive auditions for The Seagull",
+        "trail": "Women up for a role as Chekhov's aspiring actor navigate their meetings with a needling director in a tense show.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/oct/13/the-play-that-changed-my-life-queen-shakespeare-titus-andronicus-moira-buffini",
+      "kind": "preview",
+      "output": {
+        "headline": "The play that changed my life: playing the badass queen in Titus Andronicus",
+        "trail": "Shakespeare's bloody revenge-fest is full of horror and grotesquerie, but the camaraderie of performing it with a youth theatre had an upbeat effect.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/13/girls-hbo-return-lena-dunham",
+      "kind": "preview",
+      "output": {
+        "headline": "Lena Dunham's Girls returning for limited run at HBO",
+        "trail": "Creator and star will return along with Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells for a five-episode revival.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
+      "kind": "preview",
+      "output": {
+        "headline": "Netflix unveils first trailer for Greta Gerwig's Narnia: The Magician's Nephew",
+        "trail": "The fantasy epic based on CS Lewis's classic stars Daniel Craig, Carey Mulligan and Meryl Streep.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/oct/13/arts-britain-ignores-50-years-on-black-asian-artists-naseem-khan",
+      "kind": "preview",
+      "output": {
+        "headline": "Fifty years on, a conference revisits the legacy of Arts Britain Ignores",
+        "trail": "A conference will explore the legacy of Naseem Khan's seminal 1976 report about the exclusion of minority ethnic artists.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fostering-life-shared/2026/oct/12/five-things-to-know-about-becoming-a-foster-carer",
+      "kind": "preview",
+      "output": {
+        "headline": "Five things to know about fostering - by someone who does it",
+        "trail": "Foster carer Sarah Griffin, who has joined the Weekender fostering initiative, wants more people to consider fostering, and share their everyday moments with children in care.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fostering-life-shared/2026/oct/12/what-it-takes-to-be-a-foster-carer-social-worker-advice",
+      "kind": "preview",
+      "output": {
+        "headline": "What a foster carer needs most, a social worker says: 'good hearts'",
+        "trail": "Taking responsibility for a child or young person might feel challenging, but social worker Shalene Lemmie says what they're really looking for is 'human beings with good hearts'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+      "kind": "preview",
+      "output": {
+        "headline": "Karl Bushby nears home after a record-breaking 28-year walk",
+        "trail": "Karl Bushby is nearing home after 28 years, and has plenty of stories to tell: along the way he was held at gunpoint, arrested, menaced by a polar bear, and left by two separate girlfriends.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/fashion/2026/oct/13/people-sell-their-best-stuff-on-vinted-how-charity-shops-became-a-dumping-ground-for-unsellable-clothes",
+      "kind": "preview",
+      "output": {
+        "headline": "Charity shops look for a way to donate more effectively",
+        "trail": "Swamped with 'daily avalanches' of soiled items and poor-quality fast fashion, secondhand stores are in crisis.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/jan/02/best-concealer-tested-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "The best concealers in the UK for camouflaging blemishes and dark circles, tested",
+        "trail": "Searching for a concealer that can do it all? From creamy to crease-resistant, brightening to hydrating, these are the formulas that impressed us most.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/09/unexpected-upsides-testing",
+      "kind": "preview",
+      "output": {
+        "headline": "Free ice-cream, glowing skin and camping wins: Filter UK writers reveal the unexpected perks of product testing",
+        "trail": "Our testers reflect on a year of discoveries, from family game nights to fewer chores.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/10/best-supermarket-sliced-bread-tasted-rated",
+      "kind": "preview",
+      "output": {
+        "headline": "The best and weakest supermarket sliced wholemeal bread, tasted and rated",
+        "trail": "Our wholegrain hero sorts the wheat from the chaff in the search for a simple pleasure: a satisfying sandwich loaf.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/oct/09/the-filter-uk-turns-two-favourite-products-tried-tested",
+      "kind": "preview",
+      "output": {
+        "headline": "The Filter is two: 31 things we loved this year, from cloud-like duvets to the perfect running shoe",
+        "trail": "Whether it's a super-glowy serum or a cult gardening tool, here are our writers' favourite buys from the past year.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/13/the-secret-to-a-non-cloudy-chicken-stock-kitchen-aide-anna-berrill",
+      "kind": "preview",
+      "output": {
+        "headline": "The secret to a non-cloudy chicken stock",
+        "trail": "Don't cook it too quickly, and skim, skim, skim, says our expert culinary panel.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/13/miso-chilli-chicken-recipe-roast-squash-leeks-cook-once-eat-twice-rukmini-iyer",
+      "kind": "preview",
+      "output": {
+        "headline": "Cook once, eat twice: Rukmini Iyer's miso chilli chicken recipe",
+        "trail": "Roast chicken thighs with roasted squash, leeks and two punchy dressings.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/oct/12/gurdeep-loyal-quick-easy-recipe-turkish-lamb-hot-pepper-paccheri",
+      "kind": "preview",
+      "output": {
+        "headline": "Gurdeep Loyal's quick and easy recipe for Turkish lamb and hot pepper paccheri",
+        "trail": "A spicy Turkish dish with big flavours and big pasta, all topped with garlicky yoghurt sauce.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/the-pet-ill-never-forget-pumpkin-the-rescue-cat-turned-social-media-star",
+      "kind": "preview",
+      "output": {
+        "headline": "Pumpkin, the rescue cat turned social media star",
+        "trail": "Struggling to breathe, so big she could barely walk, Pumpkin practically begged for help when the writer met her. Before long they were taking her home.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/11/dining-across-the-divide-edward-martin",
+      "kind": "preview",
+      "output": {
+        "headline": "Dining across the divide: a teacher and a trainer talk net zero",
+        "trail": "An English teacher and a personal trainer disagreed on emissions targets, but how did they fare on public spending and defence?",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/the-kindness-of-strangers-in-one-of-my-darkest-periods-a-few-compassionate-words-helped-me-turn-my-life-around",
+      "kind": "preview",
+      "output": {
+        "headline": "A stranger's kind words helped turn my life around in my darkest period",
+        "trail": "The writer was standing at the traffic lights with the weight of the world on their shoulders when a man approached. He will probably never know the impact he had.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
+      "kind": "preview",
+      "output": {
+        "headline": "This is how we do it: 'At our age we get to wake up and say: what are we doing today? Let's make love'",
+        "trail": "A sex podcast opened up a whole new way of communicating for Helen and Ian.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/13/bt-charge-landline-phone-digital-voice",
+      "kind": "preview",
+      "output": {
+        "headline": "Reader billed for a dead landline for over a year",
+        "trail": "BT has been billing £32.99 a month, but the reader has had no functioning phone line since it switched them to Digital Voice.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/12/father-dna-test-passport-daughter-dual-national",
+      "kind": "preview",
+      "output": {
+        "headline": "Father asked for a DNA test to get his daughter a passport",
+        "trail": "New post-Brexit rules mean that dual nationals cannot enter the UK unless they have a British passport.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+      "kind": "preview",
+      "output": {
+        "headline": "How to spot the calendar phishing scam, which is growing exponentially",
+        "trail": "An appointment or renewal reminder appears in victims' calendars to lure them into logging in to a fake Google, Microsoft or PayPal page.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study",
+      "kind": "preview",
+      "output": {
+        "headline": "Women more likely to have autoimmune conditions dismissed as psychological, study finds",
+        "trail": "A Cambridge University study suggests a stark gender divide in misdiagnosis, with women also waiting longer for treatment.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+      "kind": "preview",
+      "output": {
+        "headline": "Shingles vaccine demand soars amid hopes it could help prevent dementia",
+        "trail": "Could a drug intended to prevent painful rashes also protect our brains as we get older? The signs are promising, if not yet conclusive.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/12/is-it-true-muscle-turns-into-fat-stop-working-out",
+      "kind": "preview",
+      "output": {
+        "headline": "Is it true that muscle turns into fat if you stop working out?",
+        "trail": "If you take a break from the gym you may lose muscle and gain fat, but it isn't as simple as one turning into the other.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity",
+      "kind": "preview",
+      "output": {
+        "headline": "Privileged and proud: how nepo babies took fashion month by storm",
+        "trail": "From commanding the catwalks to acting as plus-ones for their famous parents, celebrity kids are bang on trend.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/oct/08/picture-pawfect-how-dogs-took-over-the-catwalk-and-stole-the-fashion-week-spotlight",
+      "kind": "preview",
+      "output": {
+        "headline": "'My dog's built her own fashion community': how canine companions stole the fashion week spotlight",
+        "trail": "Four-legged friends are turning heads from Louis Vuitton to Schiaparelli, raising questions about the industry's changing attitudes.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/oct/08/why-i-picked-a-naked-frock-as-dress-of-the-year-fashion-musuem-bath",
+      "kind": "preview",
+      "output": {
+        "headline": "'It's not about sex but empowerment': why I picked a 'naked' frock as dress of the year",
+        "trail": "Sarah Burton's sporty, daffodil mesh dress made the writer smile, and is why they chose it for Fashion Museum Bath's dress of the year - it tells a story of our times, when bodies are more political than ever.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/oct/12/biking-hiking-lake-iseo-italian-lakes",
+      "kind": "preview",
+      "output": {
+        "headline": "A lakeside idyll: cycling and autumn hikes on Italy's Lake Iseo",
+        "trail": "Smaller and less visited than Como and Garda, Lake Iseo harbours a gorgeous car-free island ideal for easy-going cycling and sightseeing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+      "kind": "preview",
+      "output": {
+        "headline": "I hitchhiked from Sydney to Perth, and found comfort in the company of strangers",
+        "trail": "The lost practice of hitchhiking is a subculture, an art, and a way of travel that satisfies wanderlust like no other trip. Plus, it costs nothing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/13/the-pest-ill-never-forget-relentless-pigeon-stared-stared-ruined-my-spring",
+      "kind": "preview",
+      "output": {
+        "headline": "The pest I'll never forget: the relentless pigeon who stared and stared and ruined my spring",
+        "trail": "A living room encounter with a toast-loving pigeon proved a big mistake, leading to weeks of drawn curtains and crawling around the floor to avoid its gaze.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/13/apple-airpods-5-review-the-best-open-fit-earbuds-yet",
+      "kind": "preview",
+      "output": {
+        "headline": "Apple AirPods 5 review: the best open-fit earbuds yet",
+        "trail": "Upgraded, cheaper AirPods have noise cancelling, sound and controls to rival many plugged-in buds, but without tips.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/oct/13/houseplant-hacks-risky-reuse-nursery-pots",
+      "kind": "preview",
+      "output": {
+        "headline": "Houseplant hacks: is it eco-friendly or risky to reuse nursery pots?",
+        "trail": "You want to garden sustainably but don't want to transfer pests to new plants. Here's how to decide whether to refill or recycle.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/12/wikipedia-deeply-biased-sandi-toksvig-backing-rival",
+      "kind": "preview",
+      "output": {
+        "headline": "Sandi Toksvig throws her support behind a Wikipedia rival",
+        "trail": "Toksvig is backing a rival encyclopedia, after saying just 19% of Wikipedia's biographies are of women, which she blames on it being edited mostly by white, middle-aged, European men.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/13/church-of-england-slavery-compensation-fund",
+      "kind": "preview",
+      "output": {
+        "headline": "The fight to kill the Church of England's 100 million pound slavery fund",
+        "trail": "Some of Britain's wealthiest financiers, including Sir Paul Marshall, have given a platform to critical coverage or are linked to the fund's leading opponent.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "kind": "preview",
+      "output": {
+        "headline": "The people trying to keep their AI chatbots running after they die",
+        "trail": "Humans bonded to AI companions are contemplating ways to keep their bots going, often in defiance of companies' terms of service.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/oct/12/couple-devastating-attack-sexual-assault-rape",
+      "kind": "preview",
+      "output": {
+        "headline": "How one couple's relationship endured after a sexual assault",
+        "trail": "Susan Brison was raped and left for dead; her husband Thomas did his best to support her, in a relationship that survived when many don't after such an attack.",
+        "progress": "Thomas shares what helped him support Susan through her recovery, and what he would do differently.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+      "kind": "preview",
+      "output": {
+        "headline": "Tell us: are you a young person in the UK struggling to find work?",
+        "trail": "We would like to hear from young people in the UK about their experiences of looking for work.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/09/tell-us-your-financial-hopes-and-concerns-ahead-of-the-budget",
+      "kind": "preview",
+      "output": {
+        "headline": "Tell us your financial hopes and concerns ahead of the budget",
+        "trail": "Ahead of the budget later this month, we'd like to hear from people in the UK about what measures might help, or not help, financially.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/08/economy-midterm-elections-tell-us",
+      "kind": "preview",
+      "output": {
+        "headline": "Send us your questions on how the US economy is shaping the midterm elections",
+        "trail": "Our business, labor and consumer rights reporters will answer your questions in a live Q&A on Thursday 15 October.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+      "kind": "preview",
+      "output": {
+        "headline": "Tell us: have you been monitored or assessed by AI at work?",
+        "trail": "We'd like to hear from people who have been monitored or assessed by AI at work and what they thought about the experience.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/13/katie-zacharia-trump-press-briefing",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump's new press secretary stumbles through her first White House briefing",
+        "trail": "Katie Zacharia's maiden briefing was excruciating, the writer says - at least her predecessor delivered her propaganda hot.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2019/mar/18/uk-muslim-leaders-seek-funding-for-mosque-security",
+      "kind": "preview",
+      "output": {
+        "headline": "Muslim leaders call for more funding to protect mosques from attacks",
+        "trail": "The letter says 'systemic Islamophobia' fuels terror attacks and calls for action on bigotry, as Lady Warsi demands more security funds for UK mosques.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2018/feb/26/four-far-right-plots-thwarted-last-year-says-counter-terrorism-chief-mark-rowley",
+      "kind": "preview",
+      "output": {
+        "headline": "Four far-right terror plots thwarted last year, counter-terrorism chief reveals",
+        "trail": "Mark Rowley said the danger from extreme rightwing groups remained 'significant and concerning'.",
+        "progress": "Police say they disrupted four plots before they could be carried out.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/society/2019/sep/16/pms-burqa-jibes-dehumanising-says-governments-extremism-adviser",
+      "kind": "preview",
+      "output": {
+        "headline": "Extremism adviser Sara Khan calls PM's burqa comments 'dehumanising'",
+        "trail": "As the Commission for Countering Extremism issues a major report, Sara Khan calls Johnson's burqa comments 'demeaning'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2025/nov/06/far-right-extremists-outnumber-islamists-prevent-anti-terror-referrals-data",
+      "kind": "preview",
+      "output": {
+        "headline": "Total anti-terror referrals reach record high, with far-right now outnumbering Islamist cases",
+        "trail": "Total referrals reach a record high, with 21% due to 'extreme rightwing concerns' and 10% to Islamist ideology.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder",
+      "kind": "preview",
+      "output": {
+        "headline": "Mosques receive 66 million pounds in emergency security funding",
+        "trail": "Full government funding figures 'tell sombre story about rise in hostility that British Muslims live with', the trust says.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/news/2025/nov/07/uk-mosques-soaring-attacks-british-muslim-trust-flags-christian-nationalist-slogans",
+      "kind": "preview",
+      "output": {
+        "headline": "Flags and Christian nationalist slogans feature in soaring attacks on UK mosques, trust reports",
+        "trail": "Between July and October, 25 buildings were targeted in 27 attacks, according to the British Muslim Trust.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2025/may/19/pope-leo-xiv-receives-white-house-invitation-meeting-jd-vance",
+      "kind": "preview",
+      "output": {
+        "headline": "Pope Leo XIV receives White House invitation in meeting with JD Vance",
+        "trail": "US vice-president delivered a letter from Donald and Melania Trump during talks with the pontiff at the Vatican.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/may/18/pope-leo-xiv-to-hold-inaugural-mass-at-st-peters-square-in-front-of-250000",
+      "kind": "preview",
+      "output": {
+        "headline": "Pope Leo XIV holds inaugural mass at St Peter's Square",
+        "trail": "Volodymyr Zelenskyy and JD Vance were among 150,000 present as Leo said he wants the Catholic church to be a 'leaven of unity'.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
+      "kind": "preview",
+      "output": {
+        "headline": "Pope Leo urges healing before meeting child sexual abuse survivors in France",
+        "trail": "The pontiff also used his visit to the Catholic shrine at Lourdes to criticise assisted dying as 'false compassion'.",
+        "progress": "The pontiff is meeting survivors directly as part of the effort toward healing.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
+      "kind": "preview",
+      "output": {
+        "headline": "Pope praises US history of welcoming migrants, urging Americans to live up to it",
+        "trail": "Pope Leo urged Americans to live up to the ideals of the Declaration of Independence, in his first major address to the US since taking office.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/apr/28/conclave-pope-vatican-cardinals",
+      "kind": "preview",
+      "output": {
+        "headline": "Conclave to elect new pope to start on 7 May, Vatican says",
+        "trail": "More than a hundred Roman Catholic cardinals will meet at the Sistine Chapel to decide the church's next leader.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/aug/03/pope-leo-first-three-months",
+      "kind": "preview",
+      "output": {
+        "headline": "'He is keeping his cards close to his chest': Pope Leo's first three months",
+        "trail": "The Augustinian emphasis on unity, listening, community and collaboration appears to be guiding the new pontiff.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic details how bad actors have tried to misuse its AI for bioweapons",
+        "trail": "The 154-page report follows the resignation of former employee Jacob Coxon, who said Anthropic's race to improve its models would cause human extinction by 2030.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic researchers say AI could kill off humanity by 2030",
+        "trail": "One researcher who resigned said many in the industry believe that without regulation, AI could kill off humanity.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic CEO renews call for AI slowdown as Nvidia urges acceleration",
+        "trail": "At a San Francisco conference, OpenAI chief Sam Altman called for more rigorous security measures.",
+        "progress": "Anthropic's CEO is pushing for more caution, while Sam Altman calls for more rigorous security measures.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "kind": "preview",
+      "output": {
+        "headline": "More Anthropic insiders say AI could cause human extinction, despite Musk's dismissal",
+        "trail": "Insiders at the firm believe tech's advancement could cause human extinction, while others are calling their declarations of concern a 'setup'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/aug/18/open-ai-pause-hack",
+      "kind": "preview",
+      "output": {
+        "headline": "OpenAI announces slower pace of development to overhaul safety",
+        "trail": "The firm plans to overhaul research and training and add more safety parameters, amid its race with Anthropic, following a hack by a rogue agent.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/sep/14/ai-ceo-safety-slowdown",
+      "kind": "preview",
+      "output": {
+        "headline": "AI leaders including Altman and Musk back Amodei's call to slow down development",
+        "trail": "After apocalyptic warnings about the threats posed by AI, leaders backed Anthropic CEO Dario Amodei's calls to 'slow the pace' - though it remains to be seen whether they follow through.",
+        "progress": "Dario Amodei is the one who first called for the slowdown that others have now echoed.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/jul/08/trump-e-jean-carroll-payment",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump asks judge not to order release of $5.8m payment to Carroll",
+        "trail": "Trump's request stems from the supreme court's 29 June decision not to review his appeal.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/jul/21/trump-financial-details-bbc-lawsuit",
+      "kind": "preview",
+      "output": {
+        "headline": "Judge orders Trump to disclose financial details in $10bn BBC lawsuit",
+        "trail": "The ruling could open up a window into the first family's multiple ventures, a setback for Trump in the defamation suit against him.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/aug/14/trump-ballroom-supreme-court",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump asks US supreme court to allow construction of White House ballroom",
+        "trail": "The administration asks justices to keep an appeals court decision to halt work on hold while it prepares a full appeal.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+      "kind": "preview",
+      "output": {
+        "headline": "Lawsuit accuses Trump of selling privileged access via Truth Social offer",
+        "trail": "The suit alleges the subscription offer aims to sell privileged access to information generated in the president's official capacity.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump",
+      "kind": "preview",
+      "output": {
+        "headline": "Crypto bank part-owned by Trump family offers depositors way to 'gain favor', experts say",
+        "trail": "Democrats have called World Liberty Financial Trust Company a stark example of corruption, but officials claim there is no insider dealing.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+      "kind": "preview",
+      "output": {
+        "headline": "Judge throws out Trump's $3.8bn defamation suit against Washington Post",
+        "trail": "The suit had stemmed from a 2023 Post article that said a bank with ties to the porn industry helped fund Trump's media operation.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham to meet Zelenskyy at UK naval base in show of 'unwavering' support",
+        "trail": "The Ukrainian president will be the first overseas visitor for the new British prime minister.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+      "kind": "preview",
+      "output": {
+        "headline": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
+        "trail": "The PM is known to be keen to attend the UN general assembly after meeting Volodymyr Zelenskyy in Ukraine.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/jan/16/keir-starmer-hails-closer-than-ever-partnership-with-ukraine-on-kyiv-visit",
+      "kind": "preview",
+      "output": {
+        "headline": "Starmer visits Zelenskyy in Kyiv in show of support for Ukraine",
+        "trail": "A drone, possibly a Russian decoy, was seen above the presidential palace during the visit, drawing anti-aircraft fire.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham offers Ukraine declassified missile details on Kyiv visit",
+        "trail": "Burnham accused Russia of making 'outrageous threats' against the UK after he offered Ukraine declassified details of missile components.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2022/aug/25/keir-starmer-planning-ukraine-trip-kyiv-zelenskiy-labour",
+      "kind": "preview",
+      "output": {
+        "headline": "Keir Starmer planning Ukraine trip in drive to cement relations with Kyiv",
+        "trail": "Exclusive: Labour has approached the Zelenskiy administration about a proposed visit later this year.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "kind": "preview",
+      "output": {
+        "headline": "Streeting backs Zelenskyy, reaffirming UK unity with Ukraine on Russia",
+        "trail": "The defence secretary backs the Ukrainian president, after Trump called for Ukraine to have a new leader, and says the priority is maintaining western unity over the Russia conflict.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/media/2026/sep/25/trump-media-ban-white-house-pool",
+      "kind": "preview",
+      "output": {
+        "headline": "White House television pool resumes after banned news outlets regain access",
+        "trail": "Trump's media ban had resulted in an effective TV blackout of coverage of the president during the UN general assembly.",
+        "progress": "The restored access ends the blackout that had affected UN general assembly coverage.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
+      "kind": "preview",
+      "output": {
+        "headline": "MS Now, CNN and Politico say reporters have been denied access to White House",
+        "trail": "The president said he was banning journalists from those organisations, saying of their coverage: 'You get sick of it.'",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/media/2026/oct/08/trump-media-ban-hearing",
+      "kind": "preview",
+      "output": {
+        "headline": "Banned outlets' legal case grows stronger after Trump's own admission in court",
+        "trail": "A lawyer for CNN, MS Now and Politico told the court that Trump admitted he banned the networks over their coverage.",
+        "progress": "Lawyers presented the admission as part of their case for restoring access.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump bars CNN, MS Now and Politico from the White House",
+        "trail": "The president has overseen an unprecedented restriction of access for major news media since the start of his second term.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/sep/23/doj-trump-media-ban",
+      "kind": "preview",
+      "output": {
+        "headline": "CNN, Politico and MS Now sue after DoJ defends Trump's media ban",
+        "trail": "The justice department cited national security to support the ban on CNN, Politico and MS Now as the trio filed a lawsuit in response.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
+      "kind": "preview",
+      "output": {
+        "headline": "CNN, MS Now and Politico sue Trump after being blocked from White House",
+        "trail": "The three outlets filed suit in an attempt to regain access to the White House after having their badges disabled.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2022/nov/10/iran-death-row-prisoners-reprieve-escape-execution",
+      "kind": "preview",
+      "output": {
+        "headline": "The convicted murderers who escaped execution in Iran",
+        "trail": "A random encounter led a photographer to document murderers once facing execution in Iran, where death sentences can be reprieved, often at the gallows, but only if they can pay blood money.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2024/apr/24/iranian-women-violently-dragged-from-streets-by-police-amid-hijab-crackdown",
+      "kind": "preview",
+      "output": {
+        "headline": "Video shows Iranian women violently dragged from the streets by police",
+        "trail": "Video evidence shows multiple arrests after the regime launched a new, draconian campaign against women and girls.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/global-development/2022/sep/08/iran-condemns-two-women-to-death-for-corruption-over-lgbtq-media-links",
+      "kind": "preview",
+      "output": {
+        "headline": "Outcry grows over Iran's show trial of two women linked to LGBTQ+ media",
+        "trail": "The outcry follows a show trial, after Zahra Seddiqi Hamedani spoke to the BBC about abuse of gay people in Iran's Kurdish region; the women were condemned to death on a charge of 'corruption'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/global-development/2024/dec/11/iranian-women-death-penalty-jail-fine-defy-new-morality-hijab-improper-dressing-islamic-penal-code",
+      "kind": "preview",
+      "output": {
+        "headline": "Iranian women could face death penalty for defying new morality laws",
+        "trail": "Execution, long jail terms and big fines for 'promoting' nudity, unveiling or improper dressing come into force.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/global-development/2023/nov/02/iran-mother-mahsa-yazdani-jailed-13-years-after-denouncing-death-of-son-shot-at-protest",
+      "kind": "preview",
+      "output": {
+        "headline": "Iranian mother jailed for 13 years after denouncing death of son shot at protest",
+        "trail": "Mahsa Yazdani was convicted of blasphemy and 'insulting supreme leader' as the regime targets families of those killed in protests.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/global-development/2026/sep/30/iranian-singer-74-lashes-parastoo-ahmadi-performing-without-hijab-torture",
+      "kind": "preview",
+      "output": {
+        "headline": "Rights groups call singer's 74 lashes 'a form of torture'",
+        "trail": "An Iranian court upheld the sentence against 29-year-old star Parastoo Ahmadi and other musicians targeted under the hijab law.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2016/jul/07/nevermind-the-concrete-national-trust-to-show-the-beauty-of-croydon",
+      "kind": "preview",
+      "output": {
+        "headline": "Never mind the concrete: National Trust to show the beauty of Croydon",
+        "trail": "Bowie hated it, Peep Show besmirches it, and the London suburb may get a bad rap in popular culture - but now there is a chance to see a different side.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/feb/28/a-temple-of-food-london-grand-dame-simpsons-in-the-strand-rises-again",
+      "kind": "preview",
+      "output": {
+        "headline": "Jeremy King revives Simpson's in the Strand for a new bicentenary chapter",
+        "trail": "As the storied London dining room reopens on its bicentenary, restaurateur Jeremy King honours its heritage while restoring a faded icon.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/food/2025/apr/14/uks-oldest-indian-restaurant-faces-closure-in-dispute-with-crown-estate",
+      "kind": "preview",
+      "output": {
+        "headline": "Veeraswamy's owner fights to save the UK's oldest Indian restaurant in court",
+        "trail": "The owner of the Michelin-starred restaurant is challenging the Crown Estate's plans to upgrade the building in court, calling them 'heartless'.",
+        "progress": "A high court hearing on the dispute is the next step in the fight to keep it open.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2016/dec/21/national-trust-prepares-to-celebrate-its-gay-history",
+      "kind": "preview",
+      "output": {
+        "headline": "Sissinghurst, Knole and other National Trust sites to spotlight LGBTQ history",
+        "trail": "Sissinghurst Castle, Knole, Sutton House and Smallhythe Place are just some of the properties that will feature in the next year's focus on LGBTQ history.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2021/may/26/national-trust-chairman-tim-parker-to-step-down",
+      "kind": "preview",
+      "output": {
+        "headline": "National Trust chair Tim Parker to step down",
+        "trail": "Parker faced opposition from ministers over the trust's examination of the UK's legacy of slavery and colonialism.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2023/sep/18/national-trust-reports-record-179m-annual-spend-on-conservation",
+      "kind": "preview",
+      "output": {
+        "headline": "National Trust reports record £179m annual spend on conservation",
+        "trail": "Membership remained steady and income from legacies topped £70m in the financial year.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists",
+      "kind": "preview",
+      "output": {
+        "headline": "Babies first grasp language through rhythm and tone, not individual sounds, study finds",
+        "trail": "Study finds infants first understand language via rhythm and tone rather than individual sounds.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/education/2022/aug/29/playing-music-in-childhood-linked-to-a-sharper-mind-in-old-age-study-suggests",
+      "kind": "preview",
+      "output": {
+        "headline": "Playing music in childhood linked to a sharper mind in old age, study suggests",
+        "trail": "Researchers find a link between learning an instrument while young and improved thinking skills later in life.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2014/aug/08/gaza-israel-language-modern-war-steven-poole",
+      "kind": "preview",
+      "output": {
+        "headline": "How the language of 'tragedy' and 'human shields' shapes views of the Gaza war",
+        "trail": "Steven Poole investigates the political and misleading use of such terms as 'human shields' and 'tragedy'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/science/2022/aug/31/short-breaks-can-help-boost-energy-at-work-study-suggests",
+      "kind": "preview",
+      "output": {
+        "headline": "Short breaks can help boost energy at work, study suggests",
+        "trail": "Romanian research shows 'micro-breaks' of up to 10 minutes may help reduce fatigue.",
+        "progress": "Researchers say short micro-breaks can help reduce fatigue during the working day.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2016/nov/17/dictionary-of-50000-surnames-and-their-origins-published",
+      "kind": "preview",
+      "output": {
+        "headline": "Dictionary of 50,000 surnames and their origins published",
+        "trail": "A four-year study by linguists and historians of British and Irish records back to the 11th century analyses family names.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2015/mar/02/pedants-royal-mess-english-language-alastair-stewart",
+      "kind": "preview",
+      "output": {
+        "headline": "Pedants make right royal mess of the English language",
+        "trail": "Letters: this rough speech is the common wealth of the people, not the preserve of the crown, no matter how pure.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu",
+      "kind": "preview",
+      "output": {
+        "headline": "Man rescued from Sardinian cave after 26 hours trapped by rockslide",
+        "trail": "Luca Olmetto was trapped roughly 10 metres underground in the Gorroppeddu cave in the Urzulei mountain range before rescuers reached him.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "kind": "preview",
+      "output": {
+        "headline": "Nobel Prize for economics awarded to Hall and Woodford for work on 'smoothing' crises",
+        "trail": "The US economists developed models that help central banks and finance ministries stabilise economies during periods of economic stress.",
+        "progress": "Their models are now used by policymakers to manage economic crises.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
+      "kind": "preview",
+      "output": {
+        "headline": "Roman fort found in Wales could prove ancient emperor's camp legend is real",
+        "trail": "Finds near Frenni Fawr hill suggest a medieval folklore account of the camp was rooted in historical fact.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved",
+      "kind": "preview",
+      "output": {
+        "headline": "Mystery of 1950s wedding photo album dumped in Wakefield is solved",
+        "trail": "An online appeal and a local historian's detective work helped return the stolen keepsake to the couple's son.",
+        "progress": "A local historian tracked down the rightful owner after an online appeal.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/environment/2026/oct/13/inflation-australia-petrol-prices-byd-electric-vehicle-economy",
+      "kind": "preview",
+      "output": {
+        "headline": "'BYD effect': electric vehicle boom helps Australians fight back against inflation",
+        "trail": "More Australian consumers are expected to 'unplug themselves from the oil shock' with at least five EVs priced around or below $30,000.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
+      "kind": "preview",
+      "output": {
+        "headline": "Lebanon's only church-bell maker keeps a 300-year family tradition alive",
+        "trail": "Naffah Naffah makes the bells in the mountains near Beirut; his sons will take over the foundry when he retires.",
+        "upside": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "path": "/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"threatened\""
+  },
+  {
+    "path": "/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 17 words; keep it to 14 or fewer and move the detail to the trail: \"I was a hostage for 977 days - now I'm searching for a way to forgive\""
+  },
+  {
+    "path": "/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 15 words; keep it to 14 or fewer and move the detail to the trail: \"Lewis Hamilton's call for an African Grand Prix is answered as F1 heads to Rwanda\""
+  },
+  {
+    "path": "/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Russia arrests Japanese journalist on suspicion of spying\""
+  },
+  {
+    "path": "/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Duane 'Keffe D' Davis sentenced to 40 years to life over Tupac Shakur's murder\""
+  },
+  {
+    "path": "/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Burnham's Your First Home scheme 'could boost Bellway's house output by 10%'\""
+  },
+  {
+    "path": "/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warned\": \"Civilians were warned to leave the target area near Sana'a before the strikes, and Saudi Arabia says missiles were launched toward the location of Saudi Aramco's headquarters.\""
+  },
+  {
+    "path": "/music/2026/oct/12/atlantic-requiem-review-slavery-david-onac-lso-st-lukes",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Atlantic Requiem gives historical slavery documents howling raging life, review finds\""
+  },
+  {
+    "path": "/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Generation Maybe by Camilla Cavendish review - what's really behind the fertility gap\""
+  },
+  {
+    "path": "/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Silver Pines review - a stylish, neo-noir detective drama\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/our-bodies-have-been-bridges-charan-singh-review-autograph-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Our Bodies Have Been Bridges review: riveting portraits of the first woman on Earth\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/georg-baselitz-the-heroes-review-thaddaeus-ropac-gallery-london",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"The artist captures horror, disgust and guilt over Germany's Nazi past. The colossal results are so scathingly ironic it's like being spat at.\""
+  },
+  {
+    "path": "/stage/2026/oct/12/nina-review-chekhov-seagull-battersea-arts-centre-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Nina review - a riveting series of horribly invasive auditions for The Seagull\""
+  },
+  {
+    "path": "/stage/2026/oct/13/the-play-that-changed-my-life-queen-shakespeare-titus-andronicus-moira-buffini",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"Shakespeare's bloody revenge-fest is full of horror and grotesquerie, but the camaraderie of performing it with a youth theatre had an upbeat effect.\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/13/girls-hbo-return-lena-dunham",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Lena Dunham's Girls returning for limited run at HBO\""
+  },
+  {
+    "path": "/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Netflix unveils first trailer for Greta Gerwig's Narnia: The Magician's Nephew\""
+  },
+  {
+    "path": "/fostering-life-shared/2026/oct/12/five-things-to-know-about-becoming-a-foster-carer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Five things to know about fostering - by someone who does it\""
+  },
+  {
+    "path": "/fashion/2026/oct/13/people-sell-their-best-stuff-on-vinted-how-charity-shops-became-a-dumping-ground-for-unsellable-clothes",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Swamped with 'daily avalanches' of soiled items and poor-quality fast fashion, secondhand stores are in crisis.\""
+  },
+  {
+    "path": "/thefilter/2026/jan/02/best-concealer-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The best concealers in the UK for camouflaging blemishes and dark circles, tested\""
+  },
+  {
+    "path": "/thefilter/2026/oct/09/unexpected-upsides-testing",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Free ice-cream, glowing skin and camping wins: Filter UK writers reveal the unexpected perks of product testing\""
+  },
+  {
+    "path": "/thefilter/2026/oct/09/the-filter-uk-turns-two-favourite-products-tried-tested",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Filter is two: 31 things we loved this year, from cloud-like duvets to the perfect running shoe\""
+  },
+  {
+    "path": "/food/2026/oct/13/the-secret-to-a-non-cloudy-chicken-stock-kitchen-aide-anna-berrill",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The secret to a non-cloudy chicken stock\""
+  },
+  {
+    "path": "/food/2026/oct/13/miso-chilli-chicken-recipe-roast-squash-leeks-cook-once-eat-twice-rukmini-iyer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Cook once, eat twice: Rukmini Iyer's miso chilli chicken recipe\""
+  },
+  {
+    "path": "/food/2026/oct/12/gurdeep-loyal-quick-easy-recipe-turkish-lamb-hot-pepper-paccheri",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Gurdeep Loyal's quick and easy recipe for Turkish lamb and hot pepper paccheri\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'At our age we get to wake up and say: what are we doing today? Let's make love'\""
+  },
+  {
+    "path": "/money/2026/oct/12/father-dna-test-passport-daughter-dual-national",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Father asked for a DNA test to get his daughter a passport\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/12/is-it-true-muscle-turns-into-fat-stop-working-out",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that muscle turns into fat if you stop working out?\""
+  },
+  {
+    "path": "/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Privileged and proud: how nepo babies took fashion month by storm\""
+  },
+  {
+    "path": "/fashion/2026/oct/08/picture-pawfect-how-dogs-took-over-the-catwalk-and-stole-the-fashion-week-spotlight",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'My dog's built her own fashion community': how canine companions stole the fashion week spotlight\""
+  },
+  {
+    "path": "/culture/2026/oct/08/why-i-picked-a-naked-frock-as-dress-of-the-year-fashion-musuem-bath",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's not about sex but empowerment': why I picked a 'naked' frock as dress of the year\""
+  },
+  {
+    "path": "/travel/2026/oct/12/biking-hiking-lake-iseo-italian-lakes",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"A lakeside idyll: cycling and autumn hikes on Italy's Lake Iseo\""
+  },
+  {
+    "path": "/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I hitchhiked from Sydney to Perth, and found comfort in the company of strangers\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/13/the-pest-ill-never-forget-relentless-pigeon-stared-stared-ruined-my-spring",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The pest I'll never forget: the relentless pigeon who stared and stared and ruined my spring\""
+  },
+  {
+    "path": "/technology/2026/oct/13/apple-airpods-5-review-the-best-open-fit-earbuds-yet",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Apple AirPods 5 review: the best open-fit earbuds yet\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/13/houseplant-hacks-risky-reuse-nursery-pots",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Houseplant hacks: is it eco-friendly or risky to reuse nursery pots?\""
+  },
+  {
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in the UK struggling to find work?\""
+  },
+  {
+    "path": "/uk-news/2026/oct/09/tell-us-your-financial-hopes-and-concerns-ahead-of-the-budget",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us your financial hopes and concerns ahead of the budget\""
+  },
+  {
+    "path": "/business/2026/oct/08/economy-midterm-elections-tell-us",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Send us your questions on how the US economy is shaping the midterm elections\""
+  },
+  {
+    "path": "/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: have you been monitored or assessed by AI at work?\""
+  },
+  {
+    "path": "/news/2025/nov/07/uk-mosques-soaring-attacks-british-muslim-trust-flags-christian-nationalist-slogans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Flags and Christian nationalist slogans feature in soaring attacks on UK mosques, trust reports\""
+  },
+  {
+    "path": "/world/2025/may/19/pope-leo-xiv-receives-white-house-invitation-meeting-jd-vance",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Pope Leo XIV receives White House invitation in meeting with JD Vance\""
+  },
+  {
+    "path": "/world/2025/may/18/pope-leo-xiv-to-hold-inaugural-mass-at-st-peters-square-in-front-of-250000",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pope Leo XIV holds inaugural mass at St Peter's Square\""
+  },
+  {
+    "path": "/world/2025/apr/28/conclave-pope-vatican-cardinals",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Conclave to elect new pope to start on 7 May, Vatican says\""
+  },
+  {
+    "path": "/world/2025/aug/03/pope-leo-first-three-months",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'He is keeping his cards close to his chest': Pope Leo's first three months\""
+  },
+  {
+    "path": "/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Anthropic CEO renews call for AI slowdown as Nvidia urges acceleration\""
+  },
+  {
+    "path": "/us-news/2026/jul/08/trump-e-jean-carroll-payment",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Trump asks judge not to order release of $5.8m payment to Carroll\""
+  },
+  {
+    "path": "/us-news/2026/aug/14/trump-ballroom-supreme-court",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Trump asks US supreme court to allow construction of White House ballroom\""
+  },
+  {
+    "path": "/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Burnham to meet Zelenskyy at UK naval base in show of 'unwavering' support\""
+  },
+  {
+    "path": "/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK officials prepare for potential Trump talks as Burnham plans New York trip\""
+  },
+  {
+    "path": "/politics/2022/aug/25/keir-starmer-planning-ukraine-trip-kyiv-zelenskiy-labour",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Keir Starmer planning Ukraine trip in drive to cement relations with Kyiv\""
+  },
+  {
+    "path": "/media/2026/sep/25/trump-media-ban-white-house-pool",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"White House television pool resumes after banned news outlets regain access\""
+  },
+  {
+    "path": "/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"MS Now, CNN and Politico say reporters have been denied access to White House\""
+  },
+  {
+    "path": "/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"CNN, MS Now and Politico sue Trump after being blocked from White House\""
+  },
+  {
+    "path": "/global-development/2024/dec/11/iranian-women-death-penalty-jail-fine-defy-new-morality-hijab-improper-dressing-islamic-penal-code",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Iranian women could face death penalty for defying new morality laws\""
+  },
+  {
+    "path": "/global-development/2023/nov/02/iran-mother-mahsa-yazdani-jailed-13-years-after-denouncing-death-of-son-shot-at-protest",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Iranian mother jailed for 13 years after denouncing death of son shot at protest\""
+  },
+  {
+    "path": "/uk-news/2016/jul/07/nevermind-the-concrete-national-trust-to-show-the-beauty-of-croydon",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Never mind the concrete: National Trust to show the beauty of Croydon\""
+  },
+  {
+    "path": "/uk-news/2021/may/26/national-trust-chairman-tim-parker-to-step-down",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"National Trust chair Tim Parker to step down\""
+  },
+  {
+    "path": "/uk-news/2023/sep/18/national-trust-reports-record-179m-annual-spend-on-conservation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"National Trust reports record £179m annual spend on conservation\""
+  },
+  {
+    "path": "/education/2022/aug/29/playing-music-in-childhood-linked-to-a-sharper-mind-in-old-age-study-suggests",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Playing music in childhood linked to a sharper mind in old age, study suggests\""
+  },
+  {
+    "path": "/science/2022/aug/31/short-breaks-can-help-boost-energy-at-work-study-suggests",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Short breaks can help boost energy at work, study suggests\""
+  },
+  {
+    "path": "/science/2016/nov/17/dictionary-of-50000-surnames-and-their-origins-published",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Dictionary of 50,000 surnames and their origins published\""
+  },
+  {
+    "path": "/science/2015/mar/02/pedants-royal-mess-english-language-alastair-stewart",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Pedants make right royal mess of the English language\""
+  },
+  {
+    "path": "/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Nobel Prize for economics awarded to Hall and Woodford for work on 'smoothing' crises\""
+  },
+  {
+    "path": "/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Mystery of 1950s wedding photo album dumped in Wakefield is solved\""
+  }
+]

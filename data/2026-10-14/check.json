@@ -1,0 +1,1912 @@
+[
+  {
+    "path": "/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/13/anthropic-ai-replicators-warning",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/13/rightwing-extremists-increasingly-likely-to-consider-terrorist-attacks-mi5-chief-says",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/13/anthropic-ai-replicators-warning",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2026/oct/14/najmeh-amini-blasphemy-death-sentence-insulting-prophet",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/14/rules-london-oldest-restaurant-donated-national-trust",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/13/wes-streeting-might-be-an-unlikely-defence-secretary-but-hes-still-a-better-bet-than-penny-mordaunt",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/13/expert-guide-buying-clothes-that-last",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/brexit-vladimir-putin-russia-referendum-result-eu",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/14/landmines-ukraine-demining-drones-ai",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/ng-interactive/2026/oct/14/siam-amazing-park-thailand-oldest-amusement-park-flooded",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/14/india-protests-election-commission-gyanesh-kumar",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/14/brandon-guffey-gavin-killed-himelf-online-scam-sextortionist",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/14/the-cherry-orchard-review-kristin-scott-thomas-chekhov-harold-pinter-theatre-conor-mcpherson-ian-rickson-stephen-mangan",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/wellness/ng-interactive/2026/oct/13/embalmers-work-burials",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/culture/2026/oct/13/the-chicks-new-york-concert-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/13/frank-and-percy-review-bromance-becomes-romance-for-two-dog-walkers-ian-mckellen-roger-allam",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/13/tom-rhys-harries-on-playing-dc-supervillain-clayface",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/trump-lies-conspiracies-katie-zacharia-press-secretary",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/britain-railways-train-sober-party",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/liverpool-tough-choices-louise-casey-social-care",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/europes-big-election-season-is-about-to-kick-off-it-could-change-everything",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/the-guardian-view-on-burnhams-brexit-reset-an-overdue-show-of-ambition",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/13/the-guardian-view-on-probation-overcrowded-prisons-need-an-outlet",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/13/the-conservatives-better-tomorrow-only-includes-rich-people",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/13/why-most-manchester-city-fans-stand-by-their-club",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/13/yes-the-music-is-lovely-but-cathedrals-are-crumbling",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/13/yes-obesity-is-a-problem-but-a-greater-one-is-the-food-industry-and-its-greed",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/13/atletico-madrid-manchester-united-champions-league-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/13/england-greece-womens-world-cup-qualifying-playoff-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/13/arsenal-lille-champions-league-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/13/rugby-union-louis-rees-zammit-end-to-artificial-prem-pitches-leg-burns-at-saracens",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/13/football-regulator-chair-david-kogan-manchester-city",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/13/matt-richardson-promises-to-cooperate-with-british-cycling-misconduct-probe",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/13/patrice-motsepes-caf-presidency-under-pressure-after-u-turn-on-afcon-cycle",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/13/f1-returns-to-africa-for-first-time-since-1993-with-10-year-rwanda-deal-from-early-2030s",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/13/man-killed-by-tiger-at-yorkshire-wildlife-park-named",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/13/british-irish-negotiate-paramilitary-disbandment-northern-ireland",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/13/uk-bird-populations-fall-to-lowest-level-on-record",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/13/coastal-erosion-england-homes-demolished",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/13/volunteers-flushed-plastic-wet-wipes-river-thames",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/13/early-release-prisoners-england-wales-tags-serco",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/13/cornell-suspends-university-parties",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/home-is-where-the-jellyfish-glows-finland-finally-warms-to-nature-loving-modernist-alvar-aalto",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/13/how-fw-murnau-made-faust-bible-silent-film",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/13/the-girl-in-the-river-review-police-procedural-ralph-macchio-tiffany-haddish",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/13/forever-is-now-review-documentary-eamon-ryan",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/12/fontaines-dc-dopamine-chamber-album-review-xl-grian-chatten",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/13/beth-orton-review-brighton-concorde-2",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/12/atlantic-requiem-review-slavery-david-onac-lso-st-lukes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/12/kerry-washington-street-you-grew-up-on-best-podcasts-of-the-week",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/13/peck-peck-by-bonnie-garmus-review-the-zany-follow-up-to-lessons-in-chemistry",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/13/generation-maybe-by-camilla-cavendish-review-whats-really-behind-the-fertility-gap",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/12/peasants-by-maryam-aslany-review-why-an-ancient-way-of-life-may-hold-the-key-to-our-future",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/12/the-weight-of-angels-by-john-boyne-review-what-if-oscar-wilde-had-lived",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/oct/07/what-the-350-grand-theft-auto-collectors-box-says-about-the-escalating-cost-of-gaming",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/oct/06/silver-pines-review-neo-noir-detective-drama-wych-elm-games-team-17",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/larger-than-life-review-wallace-gromit-shaun-lightroom-london-immersive",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/our-bodies-have-been-bridges-charan-singh-review-autograph-london",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/georg-baselitz-the-heroes-review-thaddaeus-ropac-gallery-london",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/12/nina-review-chekhov-seagull-battersea-arts-centre-london",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/13/the-play-that-changed-my-life-queen-shakespeare-titus-andronicus-moira-buffini",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/13/girls-hbo-return-lena-dunham",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/13/narnia-trailer-netflix-greta-gerwig",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/13/arts-britain-ignores-50-years-on-black-asian-artists-naseem-khan",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fostering-life-shared/2026/oct/12/five-things-to-know-about-becoming-a-foster-carer",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fostering-life-shared/2026/oct/12/what-it-takes-to-be-a-foster-carer-social-worker-advice",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/13/karl-bushby-incredible-28-year-walk-home-goliath-expedition-hull",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/13/people-sell-their-best-stuff-on-vinted-how-charity-shops-became-a-dumping-ground-for-unsellable-clothes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/jan/02/best-concealer-tested-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/09/unexpected-upsides-testing",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/10/best-supermarket-sliced-bread-tasted-rated",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/09/the-filter-uk-turns-two-favourite-products-tried-tested",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/13/the-secret-to-a-non-cloudy-chicken-stock-kitchen-aide-anna-berrill",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/13/miso-chilli-chicken-recipe-roast-squash-leeks-cook-once-eat-twice-rukmini-iyer",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/12/gurdeep-loyal-quick-easy-recipe-turkish-lamb-hot-pepper-paccheri",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/12/the-pet-ill-never-forget-pumpkin-the-rescue-cat-turned-social-media-star",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/11/dining-across-the-divide-edward-martin",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/12/the-kindness-of-strangers-in-one-of-my-darkest-periods-a-few-compassionate-words-helped-me-turn-my-life-around",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/11/this-is-how-we-do-it-sex-podcast",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/13/bt-charge-landline-phone-digital-voice",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/12/father-dna-test-passport-daughter-dual-national",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/13/women-autoimmune-conditions-psychological-misdiagnosis-cambridge-study",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/11/dementia-demand-for-shingles-vaccine-is-soaring",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/12/is-it-true-muscle-turns-into-fat-stop-working-out",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/09/nepo-babies-fashion-month-paris-celebrity",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/08/picture-pawfect-how-dogs-took-over-the-catwalk-and-stole-the-fashion-week-spotlight",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/culture/2026/oct/08/why-i-picked-a-naked-frock-as-dress-of-the-year-fashion-musuem-bath",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/oct/12/biking-hiking-lake-iseo-italian-lakes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/13/the-pest-ill-never-forget-relentless-pigeon-stared-stared-ruined-my-spring",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/13/apple-airpods-5-review-the-best-open-fit-earbuds-yet",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/13/houseplant-hacks-risky-reuse-nursery-pots",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/12/wikipedia-deeply-biased-sandi-toksvig-backing-rival",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/13/church-of-england-slavery-compensation-fund",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/12/couple-devastating-attack-sexual-assault-rape",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/09/tell-us-your-financial-hopes-and-concerns-ahead-of-the-budget",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/08/economy-midterm-elections-tell-us",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/13/katie-zacharia-trump-press-briefing",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2019/mar/18/uk-muslim-leaders-seek-funding-for-mosque-security",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2018/feb/26/four-far-right-plots-thwarted-last-year-says-counter-terrorism-chief-mark-rowley",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2019/sep/16/pms-burqa-jibes-dehumanising-says-governments-extremism-adviser",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2025/nov/06/far-right-extremists-outnumber-islamists-prevent-anti-terror-referrals-data",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/sep/25/mosques-emergency-security-funding-home-office-southport-disorder",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2025/nov/07/uk-mosques-soaring-attacks-british-muslim-trust-flags-christian-nationalist-slogans",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/may/19/pope-leo-xiv-receives-white-house-invitation-meeting-jd-vance",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/may/18/pope-leo-xiv-to-hold-inaugural-mass-at-st-peters-square-in-front-of-250000",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/apr/28/conclave-pope-vatican-cardinals",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/aug/03/pope-leo-first-three-months",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/aug/18/open-ai-pause-hack",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/14/ai-ceo-safety-slowdown",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/jul/08/trump-e-jean-carroll-payment",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/jul/21/trump-financial-details-bbc-lawsuit",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/aug/14/trump-ballroom-supreme-court",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/jan/16/keir-starmer-hails-closer-than-ever-partnership-with-ukraine-on-kyiv-visit",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2022/aug/25/keir-starmer-planning-ukraine-trip-kyiv-zelenskiy-labour",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/sep/25/trump-media-ban-white-house-pool",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/sep/19/ms-now-reporters-denied-access-white-house-trump-ban",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/oct/08/trump-media-ban-hearing",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/sep/23/doj-trump-media-ban",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2022/nov/10/iran-death-row-prisoners-reprieve-escape-execution",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2024/apr/24/iranian-women-violently-dragged-from-streets-by-police-amid-hijab-crackdown",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2022/sep/08/iran-condemns-two-women-to-death-for-corruption-over-lgbtq-media-links",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2024/dec/11/iranian-women-death-penalty-jail-fine-defy-new-morality-hijab-improper-dressing-islamic-penal-code",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2023/nov/02/iran-mother-mahsa-yazdani-jailed-13-years-after-denouncing-death-of-son-shot-at-protest",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2026/sep/30/iranian-singer-74-lashes-parastoo-ahmadi-performing-without-hijab-torture",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2016/jul/07/nevermind-the-concrete-national-trust-to-show-the-beauty-of-croydon",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/feb/28/a-temple-of-food-london-grand-dame-simpsons-in-the-strand-rises-again",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2025/apr/14/uks-oldest-indian-restaurant-faces-closure-in-dispute-with-crown-estate",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2016/dec/21/national-trust-prepares-to-celebrate-its-gay-history",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2021/may/26/national-trust-chairman-tim-parker-to-step-down",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2023/sep/18/national-trust-reports-record-179m-annual-spend-on-conservation",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2022/aug/29/playing-music-in-childhood-linked-to-a-sharper-mind-in-old-age-study-suggests",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2014/aug/08/gaza-israel-language-modern-war-steven-poole",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2022/aug/31/short-breaks-can-help-boost-energy-at-work-study-suggests",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2016/nov/17/dictionary-of-50000-surnames-and-their-origins-published",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2015/mar/02/pedants-royal-mess-english-language-alastair-stewart",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/12/cave-rescue-sardinia-rockslide-gorroppeddu",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/12/mythical-roman-fort-frenni-fawr-wales-emperor",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/12/mystery-1950s-wedding-photo-album-wakefield-solved",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/13/inflation-australia-petrol-prices-byd-electric-vehicle-economy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/12/lebanon-last-church-bell-maker-family-tradition",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  }
+]
