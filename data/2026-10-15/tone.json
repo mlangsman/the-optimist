@@ -35,18 +35,11 @@
     "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Kevin Pietersen tells ECB he will not promote gambling while on England duty\""
   },
   {
-    "path": "/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+    "path": "/society/2026/oct/14/done-family-dividend-betfred-job-cuts",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Palantir and Sadiq Khan drop Met contract legal battle\""
-  },
-  {
-    "path": "/uk-news/2026/oct/14/clifton-suspension-bridge-master-hails-refurbishment-bristol",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'A big responsibility': Clifton Suspension Bridge master hails £7.6m renovation\""
+    "issue": "headline has the setback as its subject or object (\"cuts\", \"job cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Done family's £30m Betfred payout preceded chancellor caution over job cuts\""
   },
   {
     "path": "/food/2026/oct/13/the-secret-to-a-non-cloudy-chicken-stock-kitchen-aide-anna-berrill",
@@ -117,13 +110,6 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Labour to expand youth work experience and training schemes\""
-  },
-  {
-    "path": "/politics/2010/oct/26/incapacity-benefit-claimants-work-dwp",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"DWP says three-quarters of incapacity benefit claimants are fit to work\""
   },
   {
     "path": "/world/2018/sep/18/dutch-royal-family-step-in-to-save-former-home-huis-doorn-kaiser-wilhelm-ii",
