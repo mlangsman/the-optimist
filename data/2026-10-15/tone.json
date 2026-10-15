@@ -35,6 +35,13 @@
     "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Kevin Pietersen tells ECB he will not promote gambling while on England duty\""
   },
   {
+    "path": "/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Palantir and Sadiq Khan drop Met contract legal battle\""
+  },
+  {
     "path": "/uk-news/2026/oct/14/clifton-suspension-bridge-master-hails-refurbishment-bristol",
     "kind": "preview",
     "field": "headline",
@@ -47,6 +54,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"The secret to a clear, non-cloudy chicken stock\""
+  },
+  {
+    "path": "/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'You have a meeting': the calendar phishing scam growing exponentially\""
   },
   {
     "path": "/wellness/ng-interactive/2026/oct/13/embalmers-work-burials",
@@ -77,18 +91,11 @@
     "issue": "headline is unchanged from the original: \"Send us your questions on how the US economy is shaping the midterm elections\""
   },
   {
-    "path": "/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"UK officials prepare for possible Trump talks as Burnham plans New York trip\""
-  },
-  {
     "path": "/world/2026/sep/23/no-signs-chagos-deal-adapted-suit-donald-trump-officials-believe",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"No signs Chagos deal can be adapted to suit Trump, officials say\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"No signs Chagos deal can be adapted to suit Trump, UK officials say\""
   },
   {
     "path": "/politics/2026/jul/11/unstoppable-rise-of-count-binface-clacton-farage",
@@ -98,18 +105,11 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'He goes a bit funny if you use his real name': the unstoppable rise of Count Binface\""
   },
   {
-    "path": "/society/2025/mar/31/work-and-money-worries-young-people-more-than-culture-wars-or-climate-uk-poll-finds",
+    "path": "/business/2021/mar/04/sharp-rise-in-neets-shows-impact-of-covid-lockdowns-on-uk-youngsters",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Work and money worry young people more than culture wars or climate, poll finds\""
-  },
-  {
-    "path": "/society/2026/sep/16/revealed-the-uk-towns-with-the-fewest-jobs-for-young-people",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Revealed: the UK towns with the fewest jobs for young people\""
+    "issue": "headline is unchanged from the original: \"Sharp rise in 'Neets' shows impact of Covid lockdowns on UK young\""
   },
   {
     "path": "/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
@@ -117,6 +117,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Labour to expand youth work experience and training schemes\""
+  },
+  {
+    "path": "/politics/2010/oct/26/incapacity-benefit-claimants-work-dwp",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"DWP says three-quarters of incapacity benefit claimants are fit to work\""
   },
   {
     "path": "/world/2018/sep/18/dutch-royal-family-step-in-to-save-former-home-huis-doorn-kaiser-wilhelm-ii",
