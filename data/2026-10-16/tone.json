@@ -1,0 +1,9 @@
+[
+  {
+    "path": "/books/2026/oct/15/tim-jeal-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tim Jeal obituary\""
+  }
+]
