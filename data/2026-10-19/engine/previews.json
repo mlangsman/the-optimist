@@ -1,8 +1,8 @@
 {
   "/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron": {
-    "headline": "Government holds talks with ministers and police after days of unrest in France",
-    "trail": "Ministers, officials and police are holding talks after days of unrest led to 2,400 arrests and Macron criticised 'unbridled violence', amid a 'colossal failure of the state'.",
-    "progress": "Ministers, officials and police are holding crisis talks to address the unrest.",
+    "headline": "Government holds talks after days of unrest in France",
+    "trail": "The government is holding talks as ministers, officials and police face pressure over the response to protests, amid a 'colossal failure of the state'.",
+    "progress": null,
     "upside": 1
   },
   "/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn": {
@@ -14,7 +14,7 @@
   "/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank": {
     "headline": "Britain needs to rejoin EU to handle crises effectively, thinktank says",
     "trail": "Rejoining the EU would restore Britain’s ability to act on its own sovereignty, says a paper by the Institute for Public Policy Research: ‘sovereignty without the ability to act on it is not autonomy’.",
-    "progress": "The IPPR thinktank is calling on Britain to rejoin the EU to restore its capacity to act in a crisis.",
+    "progress": null,
     "upside": 1
   },
   "/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport": {
@@ -24,9 +24,9 @@
     "upside": 2
   },
   "/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself": {
-    "headline": "Police investigate claims against Hull mayor Luke Campbell",
+    "headline": "Police investigate Reform mayor Luke Campbell as colleague speaks out",
     "trail": "A female colleague of Hull and East Yorkshire mayor Luke Campbell says she was forced out of her job shortly after an incident involving him; police are investigating.",
-    "progress": "Police are investigating the allegations against Luke Campbell, the Hull and East Yorkshire mayor.",
+    "progress": null,
     "upside": 1
   },
   "/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation": {
@@ -38,7 +38,7 @@
   "/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure": {
     "headline": "Zelenskyy thanks Trump as US resumes intelligence sharing with Ukraine",
     "trail": "The gesture follows what Zelenskyy called a Starlink 'message', but Russia and Ukraine continue to trade strikes on power infrastructure, killing two people and injuring at least 17.",
-    "progress": "The US has resumed intelligence sharing with Ukraine, which Zelenskyy says followed a Starlink ‘message’.",
+    "progress": null,
     "upside": 2
   },
   "/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals": {
@@ -254,7 +254,7 @@
   "/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor": {
     "headline": "Guardian footage sheds light on West Bank attack on French mayor",
     "trail": "A Guardian reporter filmed masked militants just seconds before the Israeli settler assault on a European delegation that included the French mayor, as Netanyahu attempts to raise doubt about the incident.",
-    "progress": "The reporter's footage stands as evidence even as Netanyahu seeks to cast doubt on the incident.",
+    "progress": null,
     "upside": 1
   },
   "/us-news/2026/oct/18/oj-simpson-case-times-report": {
@@ -264,7 +264,7 @@
     "upside": 1
   },
   "/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests": {
-    "headline": "No Kings group demands explanation from Meta after suspension",
+    "headline": "No Kings group demands explanation from Meta",
     "trail": "'Meta owes us an explanation,' organizers say, after the No Kings Instagram account went dark for several hours during the protests, which they worry reflects censorship.",
     "progress": "Organizers are pushing Meta for answers after the account went dark for hours.",
     "upside": 1
@@ -288,7 +288,7 @@
     "upside": 2
   },
   "/politics/2026/oct/18/lib-dem-opposition-ed-davey-leadership-challenge-fails-to-materialise": {
-    "headline": "Ed Davey breathes easy as Lib Dem leadership challenge fails to materialise",
+    "headline": "Lib Dems unite behind Davey as leadership grumbles fail to escalate",
     "trail": "A lengthy party meeting heard grumbles about 'blue wall' policies and 'Ming vase' tactics, but produced no real rancour, as a leadership challenge against Davey failed to materialise.",
     "progress": null,
     "upside": 2
@@ -300,7 +300,7 @@
     "upside": 0
   },
   "/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner": {
-    "headline": "UK moves to rejoin EU crime-fighting databases as Mahmood prepares for talks",
+    "headline": "PM wants UK to rejoin EU crime databases as Mahmood holds Brussels talks",
     "trail": "The UK home secretary's planned talks come after the prime minister said he wanted the UK to rejoin European law enforcement databases.",
     "progress": "Shabana Mahmood is preparing to meet EU counterparts to discuss restoring law enforcement cooperation.",
     "upside": 1
@@ -330,7 +330,7 @@
     "upside": 1
   },
   "/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group": {
-    "headline": "Condé Nast rules out sale of Vogue publisher and says it remains profitable in the UK",
+    "headline": "Condé Nast rules out Vogue publisher sale, stays profitable in UK for another year",
     "trail": "The magazine group's profits fell by more than a third, which it attributes to a restructuring bill.",
     "progress": null,
     "upside": 2
@@ -343,7 +343,7 @@
   },
   "/technology/2026/oct/18/anthropic-ai-worm-worries": {
     "headline": "Anthropic examines how 'AI worms' could evolve as it tracks AI capability growth",
-    "trail": "Anthropic says it is worried about self-replicating AI worms: successful ones currently need more computing power than today's less capable devices allow, but that could change by the end of the year.",
+    "trail": "Anthropic says it is worried about self-replicating AI worms: successful ones currently need more computing power than today's less capable devices allow, but current trends make that feasible by the end of the year.",
     "progress": null,
     "upside": 1
   },
@@ -505,7 +505,7 @@
   },
   "/society/2026/oct/18/influencers-wellness-event-cheshire-barbara-oneill-australian": {
     "headline": "Wellness influencer dismisses medicine at UK conference",
-    "trail": "Barbara O'Neill, identified as a risk to public safety in Australia, dismissed antibiotics, vaccines and scientifically proven cancer treatment at a UK conference.",
+    "trail": "'Keep away from the doctor': Barbara O'Neill, already flagged as a risk to public safety in Australia, dismissed antibiotics, vaccines and proven cancer treatments at a UK event — advice that could kill.",
     "progress": null,
     "upside": 0
   },
@@ -752,8 +752,8 @@
   "/politics/2026/sep/27/pat-mcfadden-uk-benefits-young-people-moral-crusade": {
     "headline": "McFadden defends plan to overhaul benefits for young people",
     "trail": "Pat McFadden urges Labour MPs to back the overhauls, amid signs the party is looking to cut payments for some 16- to 24-year-olds.",
-    "progress": null,
-    "upside": 0
+    "progress": "Pat McFadden is urging Labour MPs to back the benefit overhauls.",
+    "upside": 1
   },
   "/politics/2024/nov/24/liz-kendall-says-young-people-who-wont-take-up-work-will-lose-benefits": {
     "headline": "Liz Kendall vows to transform opportunities for young people on benefits",
@@ -782,7 +782,7 @@
   "/society/2026/mar/13/give-mayors-more-powers-to-tackle-youth-unemployment-crisis-says-alan-milburn": {
     "headline": "Alan Milburn makes the case for giving mayors more powers over youth unemployment",
     "trail": "The government's work tsar warns that leaving young people out of work will create a 'long-term scarring effect', as he calls for mayors to be given more powers.",
-    "progress": "Alan Milburn, the government's work tsar, is pressing ministers to hand mayors more powers over unemployment.",
+    "progress": "Alan Milburn, the government's work tsar, is pressing for mayors to be given more powers over unemployment.",
     "upside": 1
   },
   "/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander": {
@@ -858,9 +858,9 @@
     "upside": 3
   },
   "/politics/2026/jul/09/reform-activists-manchester-farage-clacton-byelection-contest": {
-    "headline": "Reform refocuses campaign effort on Farage's Clacton contest",
+    "headline": "Reform activists urged to refocus on Farage's Clacton contest",
     "trail": "The party had hoped to mount a serious challenge in the Manchester mayoral race, but attention has shifted to Nigel Farage's contest in Essex.",
-    "progress": "Reform activists are shifting their campaign focus from the Manchester mayoral race to Nigel Farage's Clacton byelection contest.",
+    "progress": "Reform activists have been urged to shift their focus from the Manchester mayoral race to Nigel Farage's Clacton contest.",
     "upside": 1
   },
   "/politics/2026/jul/30/greater-manchester-mayoral-byelection-overshadowed-labour-andy-burnham-bev-craig": {
