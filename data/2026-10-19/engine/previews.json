@@ -1,6 +1,6 @@
 {
   "/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron": {
-    "headline": "Macron brings ministers and police together to restore order across France",
+    "headline": "Government holds talks with ministers and police after days of unrest in France",
     "trail": "Ministers, officials and police are holding talks after days of unrest led to 2,400 arrests and Macron criticised 'unbridled violence', amid a 'colossal failure of the state'.",
     "progress": "Ministers, officials and police are holding crisis talks to address the unrest.",
     "upside": 1
@@ -12,7 +12,7 @@
     "upside": 1
   },
   "/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank": {
-    "headline": "Rejoining EU would help Britain tackle crises, says thinktank",
+    "headline": "Britain needs to rejoin EU to handle crises effectively, thinktank says",
     "trail": "Rejoining the EU would restore Britain’s ability to act on its own sovereignty, says a paper by the Institute for Public Policy Research: ‘sovereignty without the ability to act on it is not autonomy’.",
     "progress": "The IPPR thinktank is calling on Britain to rejoin the EU to restore its capacity to act in a crisis.",
     "upside": 1
@@ -24,9 +24,9 @@
     "upside": 2
   },
   "/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself": {
-    "headline": "Colleague’s account prompts police investigation of Reform mayor Luke Campbell",
-    "trail": "A female colleague said she was forced out shortly after an incident involving Hull and East Yorkshire mayor Luke Campbell, who police are investigating over allegedly sharing ‘naked and sexualised’ images of himself.",
-    "progress": "Police are investigating the allegations against Luke Campbell after his colleague spoke out.",
+    "headline": "Police investigate claims against Hull mayor Luke Campbell",
+    "trail": "A female colleague of Hull and East Yorkshire mayor Luke Campbell says she was forced out of her job shortly after an incident involving him; police are investigating.",
+    "progress": "Police are investigating the allegations against Luke Campbell, the Hull and East Yorkshire mayor.",
     "upside": 1
   },
   "/environment/2026/oct/19/environment-cop17-un-biodiversity-summit-yerevan-explainer-conservation": {
@@ -37,7 +37,7 @@
   },
   "/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure": {
     "headline": "Zelenskyy thanks Trump as US resumes intelligence sharing with Ukraine",
-    "trail": "The gesture follows what Zelenskyy called a Starlink ‘message’, after terminal speeds were deliberately limited, but Russia and Ukraine continue to trade strikes on power infrastructure, killing two people and injuring at least 17.",
+    "trail": "The gesture follows what Zelenskyy called a Starlink 'message', but Russia and Ukraine continue to trade strikes on power infrastructure, killing two people and injuring at least 17.",
     "progress": "The US has resumed intelligence sharing with Ukraine, which Zelenskyy says followed a Starlink ‘message’.",
     "upside": 2
   },
@@ -61,7 +61,7 @@
   },
   "/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending": {
     "headline": "Why hope may work better than shock tactics at driving action",
-    "trail": "In the face of terrible crises, it can feel right to shock people into action, but what if that has the opposite effect, and hope works better at driving action instead?",
+    "trail": "In the face of terrible crises, shock tactics can feel like the right response, but what if hope works better at driving action instead?",
     "progress": null,
     "upside": 2
   },
@@ -78,21 +78,21 @@
     "upside": 1
   },
   "/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots": {
-    "headline": "‘No influencers’: hotels, restaurants and beauty spots push back against photoshoots",
+    "headline": "How hotels, restaurants and beauty spots are reclaiming space from influencers",
     "trail": "Backlash against content creators has led some hotels, restaurants and beauty spots to restrict filming hours, with some imposing outright bans.",
     "progress": "Venues are restricting filming hours, with some banning influencer photoshoots outright, in response to the backlash.",
     "upside": 2
   },
   "/world/2026/oct/19/france-anti-narco-activist-amine-kessaci-defying-biggest-drug-cartel-murder-trial-brothers": {
     "headline": "Amine Kessaci defies France’s biggest drug cartel as trial becomes national crime-fight focus",
-    "trail": "Amine Kessaci, 23, lives under constant danger after his brothers were murdered by narcos, but his defiance has made the trial of five men a focus of the nation's battle against mafia-style crime.",
+    "trail": "Amine Kessaci, 23, lives under constant danger following his brothers' murder, but his defiance has made the trial of five men a focus of the nation's battle against mafia-style crime.",
     "progress": "Kessaci continues campaigning against drug gangs despite constant threats, keeping national attention on the trial of five men.",
     "upside": 2
   },
   "/world/2026/oct/19/new-zealand-election-strained-healthcare-system": {
     "headline": "New Zealand election gives voters a say on healthcare strains",
     "trail": "With care shortfalls biting across the country, the National-led coalition has been accused of letting chronic underfunding worsen, at what is described as ‘a tipping point’ for the system.",
-    "progress": "The election is putting healthcare strains at the centre of national debate, as voters prepare to have their say.",
+    "progress": null,
     "upside": 1
   },
   "/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga": {
@@ -337,13 +337,13 @@
   },
   "/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england": {
     "headline": "Ministers plan to overhaul apprenticeship funding to help more young people into work",
-    "trail": "Exclusive: ministers are considering making firms pay more to train older workers than youth apprentices in England, as they look to help more young people into work.",
-    "progress": "Ministers are examining how apprenticeship funding could better support young jobseekers.",
+    "trail": "Exclusive: ministers are considering making firms pay more to train older workers than youth apprentices in England as they address a youth jobs crunch.",
+    "progress": "Ministers are considering an overhaul of apprenticeship funding to tackle the youth jobs crunch.",
     "upside": 1
   },
   "/technology/2026/oct/18/anthropic-ai-worm-worries": {
     "headline": "Anthropic examines how 'AI worms' could evolve as it tracks AI capability growth",
-    "trail": "The tech company says AI worms currently need more capability on less powerful devices, but current trends make that feasible by the end of the year.",
+    "trail": "Anthropic says it is worried about self-replicating AI worms: successful ones currently need more computing power than today's less capable devices allow, but that could change by the end of the year.",
     "progress": null,
     "upside": 1
   },
@@ -468,13 +468,13 @@
     "upside": 2
   },
   "/music/2026/oct/18/4-48-psychosis-review-linbury-theatre-london-sarah-kane-royal-opera": {
-    "headline": "4.48 Psychosis review – a dazzling opera matches Sarah Kane's raw intensity",
+    "headline": "Naomi Woo's fearless cast make Philip Venables's opera impossible to look away from",
     "trail": "Six fearless singers and the Chroma Ensemble, conducted with arresting immediacy by Naomi Woo, rise to the challenge of the brutal musical onslaughts and anarchic orchestrations of Philip Venables' raw, imaginative score.",
     "progress": null,
     "upside": 2
   },
   "/music/2026/oct/18/ariadne-dido-and-aeneas-review-english-touring-opera-hackney-empire-london": {
-    "headline": "English Touring Opera conjures two contrasting worlds in this double bill",
+    "headline": "Jessica Cale's diamond-bright soprano anchors an audacious English Touring Opera double bill",
     "trail": "Jessica Cale's soprano is diamond-bright in Elena Langer and Glyn Maxwell's captivating monologue, while Rebecca Meltzer creates a compelling schoolyard staging of Purcell.",
     "progress": null,
     "upside": 2
@@ -498,7 +498,7 @@
     "upside": 2
   },
   "/lifeandstyle/2026/oct/18/readers-reply-why-is-a-child-saying-na-na-na-na-na-so-annoying": {
-    "headline": "Why a child's taunting 'na-na-na-na-na' annoys us so much, readers explain",
+    "headline": "Why a child's taunting 'Na-na, na-na-na!' annoys us so much, readers explain",
     "trail": "The long-running series in which readers answer other readers' questions considers a universal juvenile put-down.",
     "progress": null,
     "upside": 2
