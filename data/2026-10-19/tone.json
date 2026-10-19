@@ -1,0 +1,401 @@
+[
+  {
+    "path": "/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"turmoil\""
+  },
+  {
+    "path": "/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+    "kind": "article",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Government cuts electricity costs for Britain's most energy-intensive industries, including steel\""
+  },
+  {
+    "path": "/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"crisis\": \"Macron calls crisis talks to restore order across France\""
+  },
+  {
+    "path": "/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Ministers, officials and police are holding crisis talks to address the unrest, after days of violence left at least 2,400 people arrested, in what one official called a 'colossal failure of the state'.\""
+  },
+  {
+    "path": "/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"crisis\": \"Milburn calls for upfront investment to end Neet crisis\""
+  },
+  {
+    "path": "/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Former health secretary Alan Milburn, author of the Neet review, says shifting money from benefits into upfront support could finally tackle the crisis facing young people not in education, employment or training.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/19/tony-hall-has-lived-in-the-uk-for-50-years-why-is-the-home-office-trying-to-deport-him",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"He arrived in Britain aged 12, but for the last 14 years Hall has faced the threat of being sent back to Barbados, a country he does not remember and where he has no surviving relatives.\""
+  },
+  {
+    "path": "/environment/2026/oct/18/the-problem-with-telling-people-the-world-is-ending",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"doom\": \"Why hope, not doom, may be the key to getting people to act\""
+  },
+  {
+    "path": "/world/2026/oct/19/france-anti-narco-activist-amine-kessaci-defying-biggest-drug-cartel-murder-trial-brothers",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"Amine Kessaci, 23, lives under constant threat, but his defiance has made the trial of five men a focus of the nation's battle against mafia-style crime, following the murder of his brothers.\""
+  },
+  {
+    "path": "/stage/2026/oct/19/trumps-press-officer-almeida-triumph-caryl-churchill-emperor",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"From Thatcherism to global crisis, Caryl Churchill has chronicled our turbulent times, and her new play now examines a blond-wigged apologist for an unnamed, strongman ruler.\""
+  },
+  {
+    "path": "/stage/2026/oct/19/other-desert-cities-review-julia-louis-dreyfus-ed-harris-broadway",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Other Desert Cities review: Julia Louis-Dreyfus and Ed Harris shine in Broadway revival\""
+  },
+  {
+    "path": "/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"threat\": \"World leaders must act now on the growing threat of cyber-attacks\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/18/myanmar-donald-trump-dictator-rare-earths-china",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\": \"Steve Bloomfield, a former Observer international editor, writes that Washington once condemned the junta's rule, but Trump's hunger for resources has reversed that stance, a shift he calls a disaster for democracy activists.\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/19/the-upside-of-anger-fury-as-compassion-philosophy-wisdom",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Anger can be one of the deepest forms of human compassion\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/19/the-upside-of-anger-fury-as-compassion-philosophy-wisdom",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"outrage\": \"Rather than a sign of moral failure or simple outrage, the writer suggests anger at its best reflects a desire to care for someone else.\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/18/the-guardian-view-on-plague-in-russia-what-is-most-worrying-is-the-lack-of-information",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"The Guardian view on plague in Russia: the lack of information is most worrying\""
+  },
+  {
+    "path": "/society/2026/oct/18/what-gets-in-the-way-of-prisoners-rehabilitation",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"Anthony Goodman says probation officers have lost autonomy, Joe Sim warns rehabilitation cannot succeed amid deep social divisions, and other readers share their views, including Chris Parsons and Tracey Burley.\""
+  },
+  {
+    "path": "/football/2026/oct/18/25bn-chelsea-fund-could-help-children-globally-if-ed-miliband-secures-its-release",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"£2.5bn Chelsea fund could help children worldwide if Miliband secures its release\""
+  },
+  {
+    "path": "/us-news/2026/oct/18/looming-medicaid-cuts-mean-that-us-hospitals-must-prepare-for-a-perfect-storm",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Hospitals can prepare now for looming Medicaid cuts, letter argues\""
+  },
+  {
+    "path": "/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"Prime minister Mark Carney described the 'violent, fast-moving' blaze as one of the worst tragedies for the armed forces on Canadian soil in peacetime.\""
+  },
+  {
+    "path": "/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"Organizers say Meta owes them an explanation after the account went dark for several hours during protests, fuelling fears of censorship.\""
+  },
+  {
+    "path": "/us-news/2026/oct/18/california-beach-erosion-san-clemente",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"Rapid coastal erosion threatens homes and the economy in San Clemente, and with a Super El Niño approaching, the town is confronting the reality of the climate crisis.\""
+  },
+  {
+    "path": "/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Shabana Mahmood to hold talks with EU on law enforcement cooperation\""
+  },
+  {
+    "path": "/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"threat\": \"Obama urges Americans to defend Ilhan Omar against denaturalization threat\""
+  },
+  {
+    "path": "/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"The former president condemned comments by the 'border czar' suggesting the congresswoman could 'of course' be denaturalized, warning 'there's no reason to believe it will stop with her'.\""
+  },
+  {
+    "path": "/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"crisis\": \"Ministers plan to overhaul apprenticeship funding to tackle youth jobs crisis\""
+  },
+  {
+    "path": "/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Exclusive: ministers are considering making firms pay more to train older workers than youth apprentices in England as they address the youth jobs crisis.\""
+  },
+  {
+    "path": "/technology/2026/oct/18/anthropic-ai-worm-worries",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"alarm\": \"Anthropic raises alarm over risk of self-replicating 'AI worms'\""
+  },
+  {
+    "path": "/technology/2026/oct/18/anthropic-ai-worm-worries",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Anthropic raises alarm over risk of self-replicating 'AI worms'\""
+  },
+  {
+    "path": "/technology/2026/oct/18/anthropic-ai-worm-worries",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"The tech company says AI worms currently need more capability on less powerful devices, but warns that current trends could make that feasible by the end of the year.\""
+  },
+  {
+    "path": "/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"World Bank says 'small AI' could transform developing economies\""
+  },
+  {
+    "path": "/culture/2026/oct/16/your-favourite-record-labels-from-motown-to-flying-nun",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guide #265: your favourite record labels, from Motown to Flying Nun\""
+  },
+  {
+    "path": "/books/2026/oct/17/is-there-any-value-in-writing-a-story-in-a-time-of-chaos-novelist-elif-shafak-on-her-creative-crisis",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"chaos\", \"crisis\": \"Novelist Elif Shafak writes her way through chaos and a creative crisis\""
+  },
+  {
+    "path": "/books/2026/oct/16/the-best-recent-and-thrillers-review-roundup",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"The best recent crime novels and thrillers – review roundup\""
+  },
+  {
+    "path": "/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"horror\": \"Penguin Colony review – an absorbing Antarctic odyssey into eldritch horror\""
+  },
+  {
+    "path": "/music/2026/oct/18/4-48-psychosis-review-linbury-theatre-london-sarah-kane-royal-opera",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"furious\": \"4.48 Psychosis review – a dazzling opera rises to Sarah Kane's furious writing\""
+  },
+  {
+    "path": "/society/2026/oct/18/influencers-wellness-event-cheshire-barbara-oneill-australian",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Wellness influencer already flagged as a safety risk in Australia addresses UK event\""
+  },
+  {
+    "path": "/thefilter/2026/oct/16/best-retinol-retinal-serum-cream-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best retinol and retinal serums for smoother, firmer skin – tested\""
+  },
+  {
+    "path": "/thefilter/2026/oct/15/best-womens-shoes-boots-autumn-winter-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"20 of the best women's shoes and boots for autumn, from flats to knee-highs\""
+  },
+  {
+    "path": "/thefilter/2026/oct/14/best-carpet-cleaners-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best carpet cleaners in the UK – tested on coffee, curry and red wine stains\""
+  },
+  {
+    "path": "/food/2026/oct/18/how-to-make-the-perfect-poires-belle-helene-recipe-felicity-cloake",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to make the perfect poires belle Hélène – recipe\""
+  },
+  {
+    "path": "/food/2026/oct/17/poached-leeks-pickled-pear-hazelnuts-vegan-recipe-jackson-boxer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jackson Boxer's vegan recipe for poached leeks with pickled pear and hazelnuts\""
+  },
+  {
+    "path": "/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"shortages\"); build it on the upside or score the story honestly and let the front drop it: \"Experts offer guidance for navigating the UK's HRT shortages\""
+  },
+  {
+    "path": "/travel/2026/oct/18/five-best-places-for-autumn-sun-europe-turkey",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blast\": \"For a last blast of summer, these sunny resorts offer quiet beaches with enough life left to stave off the end-of-season blues.\""
+  },
+  {
+    "path": "/travel/2026/oct/15/pen-y-gwryd-hotel-snowdonia-wales-everest-mountaineering",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Welsh mountain inn that helped conquer Everest\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/17/tim-dowling-literary-festival-greece-doesnt-inspire-much-hope",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"doom\": \"At a literary festival in Greece given over to talks on geopolitical doom, two women tell the columnist he inspired one to avoid journalism, and put off the other's son too.\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/12/tell-us-have-you-called-off-a-wedding-at-the-last-moment",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Tell us: have you ever called off a wedding at the last moment?\""
+  },
+  {
+    "path": "/world/2023/mar/17/french-anger-spreads-after-macron-forces-pension-age-rise",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Strikes escalated nationwide after Emmanuel Macron forced through a pension age rise, with the interior minister warning protesters against wreaking havoc.\""
+  },
+  {
+    "path": "/world/2018/nov/26/paris-begins-clean-up-after-gilets-jaunes-clash-protest-with-police",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warned\": \"The clean-up, costing up to £1.3m, comes after Emmanuel Macron warned that 'battle scenes' from the Gilets Jaunes protests could hurt France's international image.\""
+  },
+  {
+    "path": "/politics/2023/feb/07/labour-vows-to-help-written-off-people-with-mental-health-issues-back-to-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Labour vows to help people with mental health issues back into work\""
+  },
+  {
+    "path": "/uk-news/2020/jun/27/what-next-for-the-uks-deserted-public-transport-network",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is centred on \"crisis\": \"Transport firms look for a way back amid Covid-19 crisis\""
+  },
+  {
+    "path": "/politics/2025/may/11/lib-dems-reform-uk-watch-monitor-party-local-government",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"Ed Davey says Labour and the Tories have been too scared of the Reform threat to hold Nigel Farage's party to account in local government.\""
+  },
+  {
+    "path": "/environment/2022/mar/23/pressure-grows-for-deal-to-save-nature-at-crunch-talks-in-geneva-aoe",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Campaigners are warning time is running out for governments to halt and reverse the destruction of wildlife and ecosystems that support the planet.\""
+  },
+  {
+    "path": "/environment/2023/jun/20/nature-at-risk-of-breakdown-if-cop15-pledges-not-met-world-leaders-warned",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"The author of a landmark UK review into the economic value of nature has joined the UN environment chief in warning world leaders that nature risks breakdown if pledges are not met.\""
+  },
+  {
+    "path": "/world/2024/dec/08/trump-calls-ceasefire-ukraine-casualty-figures",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Trump calls for immediate Ukraine ceasefire after meeting Zelenskyy\""
+  },
+  {
+    "path": "/business/2022/oct/18/eu-cap-gas-prices-winter-russia-ukraine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"EU moves to cap 'excessive and volatile' gas prices this winter\""
+  },
+  {
+    "path": "/business/2022/oct/18/eu-cap-gas-prices-winter-russia-ukraine",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"Policymakers are seeking to shield households from the worst of the impact of Russia's invasion of Ukraine.\""
+  }
+]
