@@ -1,0 +1,1711 @@
+[
+  {
+    "path": "/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
+    "kind": "article",
+    "ok": false,
+    "issues": [
+      "\"a Royal Navy frigate tracking Russian submarines near Iceland\" is not supported: the ORIGINAL says HMS St Albans tracked Russian submarines \"in the north Atlantic\", not near Iceland — Iceland is only where Wes Streeting was visiting when he watched this."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline \"MPs press MoD for 'dramatic progress' on submarines and warships by 2030\" keeps the committee's demand as its subject, a procedural framing (rule 7), when the copy's strongest upside — the MoD's £330m undersea-protection investment and the frigate already tracking Russian submarines, both used in your own standfirst — could have been the headline instead.",
+        "The body's opening paragraph is unchanged from the ORIGINAL (\"Britain risks failing to deter future Russian aggression in the high north... because of shortfalls...\"), still leading with the setback rather than the upside, so it breaks rule 3's requirement that the opening paragraph lead with the upside; the MoD's response could have been moved earlier in the body."
+      ]
+    }
+  },
+  {
+    "path": "/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/jeffrey-donaldson-investigated-alleged-rape-parliament",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/jeffrey-donaldson-investigated-alleged-rape-parliament",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline \"Met opens investigation into alleged rape claim against Donaldson\" still carries the setback (\"alleged rape claim\") as its object, when a stronger upside is available to build on instead — the Met investigation with specialist officers supporting the woman — exactly as your own article headline for this same story (\"Met investigation opens, with specialist support for woman who came forward\") already does; move \"rape claim\" to the trail here too."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/22/18-again-i-returned-to-my-life-in-1983-to-reckless-adventures-in-a-world-soaked-in-alcohol",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/wellness/ng-interactive/2026/oct/21/lessons-from-hospice-workers-life-death",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/22/sophie-duker-standup-show-hot-beef-injection",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/21/the-experiment-channel-four-tv-review-uk-nazi-disability",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/21/jess-cartner-morley-fashion-onion-dressing",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/22/europe-youth-uprising-enemies-protesters",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/21/france-uk-rightwing-populists-marine-le-pen-donald-trump",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/21/miatta-fahnbulleh-speaker-gas-fuelled-inferno-reform-snowflakes-jackdaw",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/21/ive-booked-my-first-proper-holiday-and-its-pulled-me-out-of-winter-grimness-like-a-magic-spell",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/21/serbia-election-gen-z-protest-strongman-europe-aleksandar-vucic",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/21/manchester-city-fifa-rules-grassroots-philipp-lahm",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/commentisfree/2026/oct/21/israel-new-government-election-opposition-victory-palestine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/oct/21/the-guardian-view-on-drilling-in-jackdaw-a-truly-pragmatic-approach-would-focus-on-britains-green-transition",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/oct/21/in-the-age-of-ai-learning-maths-is-even-more-vital",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/21/a-plan-to-ensure-energy-is-affordable-for-all",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/21/the-green-party-hasnt-lost-its-way-its-just-broadening-its-appeal",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/21/getting-into-the-swing-of-playing-golf",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/21/jimmy-anderson-set-to-retire-from-cricket-lancashire-contract",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/21/aston-villa-viking-champions-league-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/21/rugby-union-brendan-venter-saracens-vision",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/21/paris-saint-germain-psg-barcelona-champions-league-violence-in-city",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/oct/21/red-roses-drop-ellie-kildunne-bench-canada-rematch-as-mitchell-seeks-england-reset",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line \"Mitchell is making changes to reset the team ahead of the Test\" just restates the headline (\"Mitchell reshuffles Red Roses line-up ahead of final Canada Test\") in different words rather than adding a fact, breaking rule 8's bar on a progress line that repeats the headline."
+      ]
+    }
+  },
+  {
+    "path": "/sport/2026/oct/21/austin-gp-about-much-more-than-potential-kimi-antonelli-first-f1-world-title",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/21/new-world-screwworm-texas",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/australia-news/2026/oct/22/nsw-passes-human-compost-laws-with-several-mps-saying-they-will-utilise-practice-after-they-die",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/firefighters-growing-concerns-water-supplies-tackle-wildfires",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/woman-told-russell-brand-he-treated-her-like-an-animal-court-hears",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/21/reform-uk-fined-failing-to-pay-fine-elections-rule-breach",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/europe-far-right-protest-violence-authoritarian-agenda",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The trail 'US support is ebbing, and looming elections and financial strain across the continent could fracture the precious coalition that has kept Ukraine afloat' opens with the setback, not the upside; the brief requires the standfirst to open by developing the upside (the coalition currently holding, as the new headline claims) and state the setback second — build on 'that has kept Ukraine afloat' by leading with it before the warning about ebbing support."
+      ]
+    }
+  },
+  {
+    "path": "/us-news/2026/oct/21/nancy-pelosi-office-letter-white-powder",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/21/elon-musk-tesla-spacex",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'EU regulators are investigating Booking.com's handling of fraudulent listings and phishing scams' simply restates the headline 'EU regulators investigate Booking.com's handling of fake listings and scams' in different words, which rule 8 forbids; since the ORIGINAL reports no response beyond the investigation already named in the headline, progress should be null here."
+      ]
+    }
+  },
+  {
+    "path": "/music/2026/oct/21/jason-molina-documentary",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/21/ellie-natasia-review-bbc-irresistibly-weird-sketch-comedy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/21/clayface-movie-review-body-horror",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/21/ghosts-the-possession-of-button-house-review-spin-off-new-film-bbc-haunted-house-comedy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/21/scream-review-wes-craven-meta-horror-remains-super-smart-and-scary-30-years-on",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/21/perle-noire-meditations-for-josephine-review-turgid-tribute-to-pioneering-star",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/21/opera-at-the-cinema-tv-screenings-raymond-gubbay",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/20/kiran-leonard-interview-or-sobre-blau",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/21/the-mystery-of-what-befell-in-the-ditch-by-thure-erik-lund-review-is-this-the-greatest-living-norwegian-writer",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/21/on-another-planet-they-can-save-me-by-lieke-marsman-review-an-astonishing-memoir-of-terminal-illness",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/20/lawrence-wright-book-death-row",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/20/alone-with-a-book-by-tessa-hadley-review-an-acclaimed-writers-cultural-prescription",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/oct/21/pushing-buttons-call-of-duty-modern-warfare-4",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/oct/14/the-legend-of-zelda-ocarina-of-time-preview-4k-era-switch-2-remake",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/21/our-friends-in-the-north-the-thatcher-years-review-theatre-royal-newcastle",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/21/ibrahim-mahama-ghana-colonialism-fondation-cartier-paris",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/21/high-school-musical-review-harry-judd-troubadour-wembley-park-theatre-london",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/oct/20/lanny-bristol-old-vic-max-porter-novel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/21/cyndi-lauper-auction-fashion",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/oct/21/grieving-female-elephant-stillborn-baby-federico-veronesis-best-photograph",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/oct/21/wonderhaul-has-liam-gallagher-really-got-into-metal-detecting",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/21/best-gifts-toys-nine-year-olds",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/21/sali-hughes-on-beauty-cream-blush-sticks-for-every-skin-type",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/20/more-sustainable-ways-stay-dry-wet-weather-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/16/readers-favourite-diy-halloween-costumes-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/16/best-retinol-retinal-serum-cream-tested-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/oct/15/best-womens-shoes-boots-autumn-winter-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/21/how-to-turn-brown-bananas-into-the-best-vegan-bread-of-the-bunch-recipe-zero-waste-cooking",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/21/veggie-thursdays-vegan-surprises-ghent-plant-based-paradise",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/oct/20/fridge-or-not-whats-the-best-way-to-store-bread",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/19/the-one-change-that-worked-i-deleted-instagram-and-embraced-the-joys-of-a-truly-private-life",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/18/dating-after-grief-annalisa-barbieri",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/18/this-is-how-we-do-it-marriage-counselling-sex-life",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/18/the-moment-i-knew-for-valentines-day-he-gave-me-a-cows-heart",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/20/vinted-sellers-banned-sales",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Vinted sellers say account bans leave them with 'no real sense of appeal'' keeps the ORIGINAL's exact subject, angle and most of its wording ('Vinted sellers', 'account bans', 'no real sense of appeal'), merely reordering the clauses of ''No real sense of appeal': Vinted sellers complain of unfair account 'bans'' — a cosmetic edit that fails rule 2 regardless of how neutral it reads; even with no upside available, the sub-editor should produce an independently worded line rather than rearrange the Guardian's own headline."
+      ]
+    }
+  },
+  {
+    "path": "/money/2026/oct/18/suspected-roofing-frauds-top-citizens-advice-scam-list",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/19/wrong-type-of-credit-card-wrecked-my-enterprise-car-hire-pickup",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/18/this-is-horrifying-this-is-madness-the-row-over-competitive-yoga",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/18/influencers-wellness-event-cheshire-barbara-oneill-australian",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/18/not-seeing-gym-results-progress-personal-trainers",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/oct/15/trump-duck-face-and-demna-nine-things-zoolander-got-right-about-the-state-of-fashion",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/oct/20/south-wales-new-forest-trail-old-mining-villages",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/oct/19/weekend-holiday-lincolnshire-wolds-where-to-eat-stay-things-to-do",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/oct/18/five-best-places-for-autumn-sun-europe-turkey",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/21/country-diary-what-a-privilege-it-is-to-witness-bird-migration-on-such-a-scale",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/21/a-moment-that-changed-me-i-was-devastated-by-a-breakup-and-saved-by-a-sweaty-moshpit",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/20/ed-gamble-celebrity-traitors-uncloaked-love-weight-loss-people-pleasing",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/global-development/2026/oct/20/the-finger-cutter-and-the-brazilian-escobar-the-men-accused-of-bringing-cocaine-cartels-to-europe",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/21/parents-and-teachers-in-england-share-your-views-on-two-week-half-terms",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/oct/20/are-you-a-first-time-buyer-in-england-would-the-governments-your-first-home-scheme-help-you",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/20/share-your-reaction-covid-public-inquiry-findings-adult-social-care-pandemic",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/oct/21/como-manchester-united-champions-league-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/oct/21/elizabeth-holmes-you-can-see-everything-disgrace-documentary",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2025/jan/30/rosebank-oilfield-jackdaw-decision-unlawful-edinburgh-court",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2024/jan/04/uk-government-admits-rosebank-oil-will-not-be-kept-in-uk-to-boost-energy-security",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2023/aug/03/greenpeace-protesters-drape-giant-oil-black-fabric-over-sunaks-mansion",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk/2012/may/22/first-woman-to-command-royal-navy-frigate",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2014/oct/01/mod-awards-contracts-uk-naval-bases-royal-navy-fleet",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2017/nov/14/british-forces-no-longer-fit-for-purpose-former-uk-service-chiefs-warn",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2022/mar/07/experts-raise-doubts-over-plan-for-royal-navy-to-control-channel-crossings",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2019/jul/25/navy-to-guard-uk-ships-in-strait-of-hormuz-mod-iran",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2020/mar/26/royal-navy-shadows-russian-ships-after-high-activity-in-channel",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/22/what-is-php-computer-language-flaw-causing-global-website-shutdowns",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2017/may/14/malware-tech-cyber-attack-surf-fan-loves-pizza-anonymous-hero-who-halted",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2011/jun/06/hackers-how-and-why-they-hack",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2023/dec/29/national-archives-barclay-brothers-lobbied-labour-to-scrap-inheritance-tax",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2022/oct/11/profumo-spy-had-weakness-for-women-and-drink-archives-reveal",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2013/aug/01/national-archives-cabinet-papers-1983",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2022/dec/30/blair-gave-putin-silver-cufflinks-for-birthday-archives-reveal",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk/2010/may/14/labour-government-online-national-archives",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2017/apr/11/national-archives-mi5-file-new-zealand-diplomat-paddy-costello-kgb-spy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2017/feb/16/waitrose-voted-uk-best-supermarket-which-survey",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2023/mar/15/john-lewis-waitrose-owner-appoints-first-group-chief-executive-nish-kankiwala",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2023/aug/20/waitrose-free-coffees-police-officers-shoplifting",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2022/dec/02/john-lewis-agrees-500m-deal-with-abrdn-to-build-1000-rental-homes",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2023/mar/04/five-reasons-why-john-lewis-and-waitrose-are-having-a-tough-year",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2023/may/13/what-has-gone-wrong-at-john-lewis-and-waitrose-and-can-they-survive",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/jul/24/palestinians-israeli-killed-west-bank-shooting",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/apr/22/palestinian-boy-14-among-two-killed-in-settler-attack-west-bank-school",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/jul/08/palestinians-brace-as-israeli-settler-figures-in-coalition-seek-to-cement-west-bank-gains-before-election",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2025/mar/28/attack-palestinian-director-rising-israeli-settler-violence-",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail's 'Activists say unprecedented levels of violence... are part of a drive' changes the ORIGINAL's 'Activists fear unprecedented levels of violence... are part of a drive' from a fear/apprehension into a flat assertion of fact, turning a hedge into a certainty."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Attack on Palestinian director highlights rising settler violence, activists say' keeps the ORIGINAL's exact subject and most of its wording ('attack on Palestinian director', 'rising settler violence'), merely swapping 'brings... into focus' for 'highlights' — a cosmetic edit per rule 2; with no response reported anywhere in this copy, this is a genuinely dark story, so the fix is to keep it plain and calm rather than lightly reword the Guardian's own phrasing."
+      ]
+    }
+  },
+  {
+    "path": "/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/science/2026/oct/21/chlamydomonas-one-celled-alga-nobel-prize",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/oct/21/weight-loss-in-middle-age-can-restore-cardiovascular-health",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  }
+]
