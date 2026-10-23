@@ -1,0 +1,231 @@
+[
+ {
+  "path": "/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/jul/21/trump-financial-details-bbc-lawsuit",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's trail says 'A US judge has ordered Trump's legal team to disclose financial details about his businesses', but the ORIGINAL says only that Trump himself 'must divulge financial details about businesses' - 'his legal team' is not in the ORIGINAL."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Judge orders Trump to disclose financial details in $10bn BBC lawsuit' keeps the same subject and compulsion-to-disclose angle as the ORIGINAL ('Trump must divulge financial details about businesses in $10bn BBC lawsuit'), merely swapping passive for active voice; it drops the ORIGINAL's own framing of this as a 'drawback' of the suit without building a new headline on the transparency upside the ORIGINAL itself offers ('could open up window into first family's multiple ventures')."
+   ]
+  }
+ },
+ {
+  "path": "/media/2026/jul/08/trump-washington-post-defamation-lawsuit",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/apr/27/pro-choice-campaign-malta-lockboxes-containing-abortion-pills",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/aug/03/liechtenstein-abortion-law-modernised-prince-alois",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2024/mar/07/mps-and-campaigners-accuse-polish-government-of-betrayal-over-abortion-laws",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/jun/18/irish-parliament-votes-to-remove-three-day-abortion-wait",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2024/mar/04/france-to-hold-final-vote-on-enshrining-abortion-as-a-constitutional-right",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2025/jul/31/steven-knight-james-bond-denis-villeneuve",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2025/jun/26/who-should-be-the-next-james-bond",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2025/jun/26/gun-for-hire-what-does-denis-villeneuve-joining-as-director-tell-us-about-the-new-james-bond",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2025/jun/26/james-bond-movie-film-denis-villeneuve-director-amazon-mgm-studios",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2024/nov/14/james-bond-actor-race",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2015/oct/23/daniel-craig-spectre-james-bond-leaving-role-refuses-rule-out",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite drops 'significantly' throughout - headline 'lowers chance of melanoma returning' and trail 'also lowers the chance of dying from the disease' - weakening the ORIGINAL's claim that the vaccine 'significantly reduces risk of melanoma recurrence or death'."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/australia-news/2026/oct/22/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/oct/22/thousands-of-butterflies-surprise-experts-on-restored-west-sussex-farmland",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's extra line attributes the finding specifically to 'Vatican doctors', but the ORIGINAL says only 'doctors'.",
+   "The rewrite's extra line adds 'after monitoring his tumour', a process detail the ORIGINAL does not state."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ }
+]

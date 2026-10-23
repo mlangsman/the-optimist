@@ -1,0 +1,166 @@
+[
+ {
+  "path": "/uk-news/2026/oct/21/families-care-home-residents-covid-inquiry-report-findings",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/technology/2026/oct/22/tell-us-small-business-have-you-been-affected-by-the-php-code-flaw",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/money/2026/oct/20/are-you-a-first-time-buyer-in-england-would-the-governments-your-first-home-scheme-help-you",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline says Trump 'asked Google' to rename the Atlantic, but the original specifies he asked the 'Google CEO' — the rewrite drops the title of who was actually asked."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/business/2026/jul/21/uk-military-electric-flying-taxi-vertical-aerospace-evtol",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline 'UK military to trial electric flying taxi' states a confirmed trial, but the original only has the military '\"eyes\" innovative electric flying taxi' — a quoted hedge about interest, not a planned trial."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline says 'ministers weigh rescue deal', but the original says the government 'objects to rescue deal' — objecting is not the same as weighing, and the rewrite loses the government's actual opposition."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'ministers weigh rescue deal' minimises the setback: the original reports the government actively 'objects' to the deal over an 'undue burden' on customers, and rule 5 requires that weight be kept, not softened into neutral deliberation."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/jul/22/increased-defence-spending-uk-economic-growth-wes-streeting-military-andy-burnham",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline 'defence spending will drive growth under Burnham government' is not supported by the original, which has Streeting saying the government 'will prioritise military over other spending' — a claim about reallocating spending, not one about driving economic growth.",
+   "The rewrite's closing line 'to invest and grow' is not in the original, which has Streeting promising the arms industry only 'clarity and confidence'."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress-style closing line repeats the standfirst's 'clarity and confidence' quote almost word for word and tacks on the unsupported 'to invest and grow', which rule 8 does not allow.",
+    "The headline's claim that defence spending 'will drive growth' is an upside not established anywhere in the original copy as given (which only describes prioritising military spending over other spending), so the optimism is manufactured rather than built from the original, contrary to rule 3."
+   ]
+  }
+ },
+ {
+  "path": "/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline 'over integration concerns' drops the original's specific claim that the policy 'will \"prolong integration\"', replacing a definite causal claim with vague 'concerns'."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/uk-news/2025/nov/17/starmer-facing-fresh-challenge-as-labour-mps-condemn-asylum-plans",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline 'UK opens new refugee resettlement routes' and the closing line 'Shabana Mahmood has opened new resettlement routes' state the routes have already opened, but the original says the UK is 'to open' them — a planned future move, not a completed one."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/politics/2026/feb/05/home-office-60000-deported-removed-since-2024-election-migration",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/politics/2025/jun/10/fiona-cottrell-mother-of-nigel-farage-aide-reform-uk-donors",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ }
+]
