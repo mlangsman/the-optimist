@@ -1,0 +1,366 @@
+[
+  {
+    "path": "/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"feared\": \"Parents, colleagues and others encouraged her to go to the police, but she feared she would not be believed, the court heard.\""
+  },
+  {
+    "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/23/experience-ive-climbed-mount-everest-20-times",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Experience: I've climbed Mount Everest 20 times\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/22/it-gets-worse-review-leo-reich-is-a-rare-star-and-the-future-of-tv-comedy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"It Gets Worse review – Leo Reich is a rare star and the future of TV comedy\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/23/last-one-laughing-halloween-review-still-a-total-treat-despite-the-new-twist",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Last One Laughing: Halloween review – still a total treat, despite the new twist\""
+  },
+  {
+    "path": "/music/2026/oct/22/amy-winehouse-musical-west-end",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Amy Winehouse musical in development for West End\""
+  },
+  {
+    "path": "/society/2026/oct/22/carers-cant-live-on-51p-an-hour",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Carers can't live on 51p an hour\""
+  },
+  {
+    "path": "/uk-news/2026/oct/22/storm-names-should-tell-a-story-or-two",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Storm names should tell a story or two\""
+  },
+  {
+    "path": "/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Premier League: 10 things to look out for this weekend\""
+  },
+  {
+    "path": "/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Downing Street rejects Witkoff's description of Putin as a 'humanitarian'\""
+  },
+  {
+    "path": "/music/2026/oct/22/raye-wins-2026-mercury-prize-for-this-music-may-contain-hope",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Raye wins 2026 Mercury prize for This Music May Contain Hope\""
+  },
+  {
+    "path": "/film/2026/oct/22/tom-skerritt-actor-dead",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tom Skerritt, Alien and Top Gun actor, dies aged 93\""
+  },
+  {
+    "path": "/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Burnham urged to tax online sales more to save high streets\""
+  },
+  {
+    "path": "/stage/2026/oct/22/flo-joan-with-feeling-review-comedy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Flo & Joan: With Feeling review – sisters turn an old rock setlist into hilariously neurotic songs\""
+  },
+  {
+    "path": "/music/2026/oct/22/chappell-roan-super-graphic-spectacular-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Super Graphic Spectacular review – Chappell Roan dazzles at her gloriously gay mini-festival\""
+  },
+  {
+    "path": "/film/2026/oct/22/ali-g-who-iz-i-review-sacha-baron-cohens-high-stakes-satire-punches-up-and-down-with-spectacular-bad-taste",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Ali G: Who Iz I? review – Sacha Baron Cohen's high-stakes satire punches up and down with spectacular bad taste\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The tech bro fight club is real!' The titans of AI get the Succession treatment in a wild new TV show\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/22/nobody-wants-this-season-three-review-netflix",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Nobody Wants This review – prepare to fall in love again … with a different couple\""
+  },
+  {
+    "path": "/music/2026/oct/22/shovel-dance-collective-everything-in-readiness-album-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Shovel Dance Collective: Everything in Readiness review – ecstatic, dissonant folk music fighting for sonic and spiritual freedom\""
+  },
+  {
+    "path": "/books/2026/oct/22/black-bag-by-luke-kennard-audiobook-review-brilliant-booker-shortlisted-campus-comedy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Black Bag by Luke Kennard audiobook review – brilliant Booker-shortlisted campus comedy\""
+  },
+  {
+    "path": "/books/2026/oct/22/helen-fielding-launches-bridget-jones-prize-for-northern-comedy-writing",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Helen Fielding launches Bridget Jones prize for northern comedy writers\""
+  },
+  {
+    "path": "/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors\""
+  },
+  {
+    "path": "/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"From Mario to machine guns: how Ubisoft Paris made Rainbow Six Tactics\""
+  },
+  {
+    "path": "/stage/2026/oct/22/martin-guerre-review-les-mis-duo-melodrama-old-vic-theatre-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Martin Guerre review – Les Mis duo's melodrama reveals a surprise new hero\""
+  },
+  {
+    "path": "/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Female Life on Planet Earth by Laleh Khadivi review – a mother's secret past in the Iranian revolution\""
+  },
+  {
+    "path": "/stage/2026/oct/21/ilford-boy-review-donmar-warehouse-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ilford Boy review – Barbra Streisand teaches teen to smile about the way we are\""
+  },
+  {
+    "path": "/stage/2026/oct/22/dickson-mbi-company-tellus-dance-review-sadlers-wells-east-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Dickson Mbi's mighty cry for a goddess to help Earth proves him a bold force in dance\""
+  },
+  {
+    "path": "/thefilter/2026/oct/22/best-bread-makers-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best bread makers in the UK for easy homemade loaves – tested\""
+  },
+  {
+    "path": "/thefilter/2026/oct/21/best-gifts-toys-nine-year-olds",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best gifts for nine-year-olds, picked by nine-year-olds and parents\""
+  },
+  {
+    "path": "/thefilter/2026/oct/16/readers-favourite-diy-halloween-costumes-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's the last Halloween of my 30s and I want to show off my bod': your favourite DIY costumes\""
+  },
+  {
+    "path": "/food/2026/oct/22/low-alcohol-high-calibre-the-best-super-session-ales",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Low-alcohol, high-calibre: the best super-session ales\""
+  },
+  {
+    "path": "/food/2026/oct/21/make-the-most-out-of-the-last-spoonful",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Make the most of the last spoonful\""
+  },
+  {
+    "path": "/food/2026/oct/22/chicken-citrus-oregano-recipe-rachel-roddy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Rachel Roddy's recipe for chicken with citrus and oregano\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Is it true you need 10,000 steps a day to be healthy?\""
+  },
+  {
+    "path": "/travel/2026/oct/22/best-after-dark-attractions-light-festivals-uk-autumn",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Some enchanted evenings: 10 of the best after-dark adventures for families\""
+  },
+  {
+    "path": "/environment/2026/oct/23/country-diary-slugs-dull-this-one-is-pure-showbiz",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: slugs? Dull? This one is pure showbiz\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/22/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-270",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Thursday news quiz: Liz is absurd, Apu finds words and a bloke steals a bird\""
+  },
+  {
+    "path": "/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Maritime and port workers: how is the Middle East conflict affecting you?\""
+  },
+  {
+    "path": "/money/2026/oct/20/are-you-a-first-time-buyer-in-england-would-the-governments-your-first-home-scheme-help-you",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Are you a first-time buyer in England? Would the government's Your First Home scheme help you?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: have you found new love after the age of 60?\""
+  },
+  {
+    "path": "/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"UK defence contractors to create 40,000 apprenticeships, placements and jobs\""
+  },
+  {
+    "path": "/politics/2026/feb/05/home-office-60000-deported-removed-since-2024-election-migration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Home Office says nearly 60,000 people deported from UK or left voluntarily since 2024 election\""
+  },
+  {
+    "path": "/politics/2025/jun/10/fiona-cottrell-mother-of-nigel-farage-aide-reform-uk-donors",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Mother of Farage aide George Cottrell revealed as Reform UK's biggest donor\""
+  },
+  {
+    "path": "/business/2022/dec/20/its-just-not-tenable-cost-of-living-crisis-hits-sustainability-sector",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's just not tenable': cost of living crisis hits sustainability sector\""
+  },
+  {
+    "path": "/business/article/2024/may/21/three-years-of-pain-how-inflation-drove-the-uk-cost-of-living-crisis",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"After three years of rising prices driving the UK's cost-of-living crisis, we look at the biggest risers in goods and services.\""
+  },
+  {
+    "path": "/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Trump sued over $100,000-a-month early-access offer to Truth Social posts\""
+  },
+  {
+    "path": "/world/2024/mar/04/france-to-hold-final-vote-on-enshrining-abortion-as-a-constitutional-right",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"France makes abortion a constitutional right in historic Versailles vote\""
+  },
+  {
+    "path": "/film/2025/jun/26/james-bond-movie-film-denis-villeneuve-director-amazon-mgm-studios",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Denis Villeneuve to direct new James Bond film\""
+  },
+  {
+    "path": "/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Home Office drops deportation order against man who has lived in UK for 50 years\""
+  },
+  {
+    "path": "/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Pope will not need further cancer treatment, doctors say\""
+  },
+  {
+    "path": "/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Stratford International on track to get cross-Channel trains in budget boost\""
+  },
+  {
+    "path": "/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Airbnb guests freed from chores involving ‘significant effort’ under new global rules\""
+  }
+]
