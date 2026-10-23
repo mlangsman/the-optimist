@@ -1,19 +1,5 @@
 [
   {
-    "path": "/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
-    "kind": "article",
-    "field": "standfirst",
-    "severity": "warning",
-    "issue": "standfirst leans on \"feared\": \"Parents, colleagues and others encouraged her to go to the police, but she feared she would not be believed, the court heard.\""
-  },
-  {
-    "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game\""
-  },
-  {
     "path": "/lifeandstyle/2026/oct/23/experience-ive-climbed-mount-everest-20-times",
     "kind": "preview",
     "field": "headline",
@@ -77,18 +63,18 @@
     "issue": "headline is unchanged from the original: \"Raye wins 2026 Mercury prize for This Music May Contain Hope\""
   },
   {
+    "path": "/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Woman charged over shooting of police officer in Nottingham\""
+  },
+  {
     "path": "/film/2026/oct/22/tom-skerritt-actor-dead",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Tom Skerritt, Alien and Top Gun actor, dies aged 93\""
-  },
-  {
-    "path": "/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Burnham urged to tax online sales more to save high streets\""
   },
   {
     "path": "/stage/2026/oct/22/flo-joan-with-feeling-review-comedy",
@@ -158,7 +144,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"From Mario to machine guns: how Ubisoft Paris made Rainbow Six Tactics\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"From Mario to machine guns: how Ubisoft Paris made Tom Clancy's Rainbow Six Tactics\""
   },
   {
     "path": "/stage/2026/oct/22/martin-guerre-review-les-mis-duo-melodrama-old-vic-theatre-london",
@@ -280,11 +266,39 @@
     "issue": "headline is unchanged from the original: \"Tell us: have you found new love after the age of 60?\""
   },
   {
+    "path": "/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Trump says he asked Google's CEO to rename the Atlantic Ocean on Maps\""
+  },
+  {
+    "path": "/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Thames Water nationalisation moves closer as government objects to rescue deal\""
+  },
+  {
     "path": "/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"UK defence contractors to create 40,000 apprenticeships, placements and jobs\""
+  },
+  {
+    "path": "/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Minister says Mahmood's migration policy will 'prolong integration'\""
+  },
+  {
+    "path": "/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK to open new refugee resettlement routes for Afghan women and Palestinians\""
   },
   {
     "path": "/politics/2026/feb/05/home-office-60000-deported-removed-since-2024-election-migration",
@@ -312,14 +326,14 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"After three years of rising prices driving the UK's cost-of-living crisis, we look at the biggest risers in goods and services.\""
+    "issue": "trail leans on \"crisis\": \"Prices are now forecast to rise at their slowest pace since 2021, after three years of rapid inflation drove the UK's cost-of-living crisis; we look at the biggest risers in goods and services.\""
   },
   {
-    "path": "/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+    "path": "/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Trump sued over $100,000-a-month early-access offer to Truth Social posts\""
+    "issue": "headline is unchanged from the original: \"Searing UK heat leaves schools, hospitals and transport networks struggling to cope\""
   },
   {
     "path": "/world/2024/mar/04/france-to-hold-final-vote-on-enshrining-abortion-as-a-constitutional-right",
