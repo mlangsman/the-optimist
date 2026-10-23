@@ -134,7 +134,7 @@
       "id": "p:/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
       "kind": "preview",
       "output": {
-        "headline": "Sasan Ghandehari faces questions over historic ties to Iran-linked foundation",
+        "headline": "Sasan Ghandehari faces questions over historic ties to foundation linked to Iranian regime",
         "trail": "The Reform donor's partnership with a religious foundation raises questions over his past dealings with a republic Nigel Farage has criticised.",
         "upside": 0
       }
@@ -143,9 +143,9 @@
       "id": "p:/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
       "kind": "preview",
       "output": {
-        "headline": "Confidence takes its biggest hit since the pandemic as costs climb before the budget",
+        "headline": "Confidence slump piles pressure on chancellor ahead of budget",
         "trail": "Economic fallout from the Middle East war is adding to the pressure on consumers and on the chancellor ahead of his budget statement.",
-        "upside": 0
+        "upside": 1
       }
     },
     {
@@ -190,7 +190,7 @@
       "id": "p:/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
       "kind": "preview",
       "output": {
-        "headline": "Bond casting enters final stretch with two stars set to screen-test",
+        "headline": "Bond casting enters final stretch as contenders prepare to screen-test",
         "trail": "Reports name Callum Turner and Jack Lowden among the contenders to play 007 in Denis Villeneuve's upcoming film.",
         "upside": 2
       }
@@ -263,7 +263,7 @@
       "id": "p:/stage/2026/oct/23/the-snowman-reboot-raging-bull-hot-santa",
       "kind": "preview",
       "output": {
-        "headline": "'Hot Santa', Raging Bull and a Toy Story vibe reboot The Snowman for new audiences",
+        "headline": "Will Tuckett and Tahra Zafar give The Snowman a hi-tech 'Hot Santa' makeover",
         "trail": "More than 30 years after Raymond Briggs' story became a stage show, director Will Tuckett and Paddington designer Tahra Zafar have given it a hi-tech refresh with a hunky Saint Nick.",
         "upside": 2
       }
@@ -473,7 +473,7 @@
       "output": {
         "headline": "Surfers break their silence, forcing the sport to confront abuse claims",
         "trail": "A long culture of silence has buried allegations of sexual assault in surf industry settings, but more women are now coming forward.",
-        "progress": "More women in the sport are speaking out, breaking years of silence around the allegations.",
+        "progress": "More women in the sport are speaking out, breaking the culture of silence around the allegations.",
         "upside": 1
       }
     },
@@ -546,8 +546,8 @@
       "id": "p:/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
       "kind": "preview",
       "output": {
-        "headline": "UN advisers find nearly all shallow-water coral reefs face destruction by 2075",
-        "trail": "An assessment finds nearly every shallow-water coral reef faces ecosystem destruction by 2075, as global heating endangers 96% of reefs across 80 countries, a figure scientists call a wake-up call.",
+        "headline": "UN advisers find coral reefs face grave decline by 2075",
+        "trail": "An assessment finds nearly every shallow-water coral reef faces ecosystem collapse by 2075, as global heating endangers 96% of reefs across 80 countries, a figure scientists call a wake-up call.",
         "upside": 0
       }
     },
@@ -611,9 +611,9 @@
       "id": "p:/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
       "kind": "preview",
       "output": {
-        "headline": "Macron pledges concrete next steps to address France's continuing unrest",
-        "trail": "The French president has banned 'illegitimate' protests and says he will decide on next steps for further nationwide demonstrations, as part of efforts to get a grip on the unrest.",
-        "progress": "Macron has already banned 'illegitimate' protests, citing the need to restore order.",
+        "headline": "Macron imposes ban on 'illegitimate' protests in France",
+        "trail": "The French president says he will also decide on concrete 'next steps' for further nationwide demonstrations, as he tries to get a grip on the continuing unrest.",
+        "progress": "Macron has already banned 'illegitimate' protests and promises further steps on the demonstrations.",
         "upside": 1
       }
     },
@@ -641,7 +641,7 @@
       "kind": "preview",
       "output": {
         "headline": "BBC News to end education and health editor roles to save £5.5m",
-        "trail": "The corporation says the cuts, which also affect the health editor position, are intended to save £5.5m, prompting concern about a lack of scrutiny for key sectors.",
+        "trail": "The cuts, which also affect the health editor position, are aimed at saving £5.5m, prompting concern about a lack of scrutiny for key sectors.",
         "upside": 0
       }
     },
@@ -1222,7 +1222,7 @@
       "output": {
         "headline": "Thames Water nationalisation moves closer as government objects to rescue deal",
         "trail": "The environment secretary has raised concerns that customers would face an 'undue burden' from the £10bn rescue plan.",
-        "progress": "Ministers are moving towards nationalising Thames Water to resolve the crisis.",
+        "progress": "The environment secretary is pushing back against the private rescue plan over concerns it would burden customers.",
         "upside": 2
       }
     },
@@ -1231,7 +1231,7 @@
       "kind": "preview",
       "output": {
         "headline": "Streeting pledges arms industry 'clarity and confidence' under Burnham's defence plans",
-        "trail": "The defence secretary says he will give the arms industry 'clarity and confidence', in contrast to the disagreement that preceded Starmer's exit.",
+        "trail": "The defence secretary says he will give the arms industry 'clarity and confidence', as the Burnham government prioritises military spending over other areas, in contrast to the disagreement that preceded Starmer's exit.",
         "upside": 2
       }
     },
@@ -1290,6 +1290,7 @@
       "output": {
         "headline": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
         "trail": "Exclusive: the move by Shabana Mahmood follows the closure of the Afghan scheme last year, though experts say the numbers are too small to deter Channel crossings.",
+        "progress": "The new routes follow the closure of the previous Afghan resettlement scheme last year.",
         "upside": 2
       }
     },
@@ -1324,8 +1325,8 @@
       "id": "p:/politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
       "kind": "preview",
       "output": {
-        "headline": "Watchdog to examine Farage's £5m gift from crypto donor",
-        "trail": "A watchdog will examine Reform UK leader Nigel Farage's £5m gift from a crypto donor, after questions over whether he should have declared the sum before entering parliament.",
+        "headline": "Watchdog to examine Farage's £5m gift from crypto billionaire",
+        "trail": "A watchdog will examine Reform UK leader Nigel Farage's £5m gift from a crypto billionaire, after questions over whether he should have declared the sum before entering parliament.",
         "upside": 1
       }
     },
@@ -1342,7 +1343,7 @@
       "id": "p:/politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift",
       "kind": "preview",
       "output": {
-        "headline": "Labour urges Farage to stop evading scrutiny over £5m gift",
+        "headline": "Labour demands 'clear and truthful account' from Farage over £5m gift",
         "trail": "The call for a 'clear and truthful account' comes amid questions about the Reform leader's property spending.",
         "upside": 1
       }
@@ -1369,7 +1370,7 @@
       "id": "p:/business/2022/jun/24/tough-summer-ahead-for-retailers-as-uk-consumer-confidence-hits-rock-bottom",
       "kind": "preview",
       "output": {
-        "headline": "Retailers brace for a tough summer as consumer confidence hits rock bottom",
+        "headline": "UK retailers face a difficult summer as consumer confidence falls sharply",
         "trail": "Analysis: shoppers will be counting their pennies, with inflation predicted to hit 11 per cent.",
         "upside": 0
       }
@@ -1388,7 +1389,7 @@
       "kind": "preview",
       "output": {
         "headline": "Inflation set to rise at its slowest pace since 2021, forecasts show",
-        "trail": "Prices are now forecast to rise at their slowest pace since 2021, after three years of rapid inflation drove the UK's cost-of-living crisis; we look at the biggest risers in goods and services.",
+        "trail": "Prices are now forecast to rise at their slowest pace since 2021, after three years of inflation drove the UK's cost-of-living crisis; we look at the biggest risers in goods and services.",
         "upside": 2
       }
     },
@@ -1423,7 +1424,7 @@
       "id": "p:/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
       "kind": "preview",
       "output": {
-        "headline": "Inequality causes 100,000 heat and cold deaths a year in Europe",
+        "headline": "Inequality drives 100,000 extra fatalities a year from temperature extremes across Europe",
         "trail": "The findings come after the third-hottest April on record globally and amid concern about a more brutal European summer.",
         "upside": 0
       }
@@ -1459,7 +1460,7 @@
       "id": "p:/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
       "kind": "preview",
       "output": {
-        "headline": "Searing UK heat leaves schools, hospitals and transport networks struggling to cope",
+        "headline": "UK heat leaves schools, hospitals and transport networks under pressure",
         "trail": "Temperatures on Tuesday hit a high of 34.6C in Surrey, England, with the heatwave forecast to get more intense on Wednesday and Thursday.",
         "upside": 0
       }
@@ -1478,7 +1479,7 @@
       "id": "p:/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
       "kind": "preview",
       "output": {
-        "headline": "Lawsuit challenges Trump's $100,000-a-month early access offer to Truth Social posts",
+        "headline": "Suit accuses $100,000-a-month Truth Social offer of selling privileged access",
         "trail": "The suit alleges the subscription offer aims to sell privileged access to information generated in the president's official capacity.",
         "upside": 1
       }
@@ -1507,7 +1508,7 @@
       "kind": "preview",
       "output": {
         "headline": "Ruling could open window into Trump family's business ventures",
-        "trail": "Trump must divulge financial details about his businesses, a US judge has ruled, in a drawback of the defamation suit he brought against the broadcaster.",
+        "trail": "Trump must divulge financial details about his businesses, a US judge has ruled, in a drawback of the $10bn defamation suit he brought against the BBC.",
         "upside": 2
       }
     },
@@ -1676,7 +1677,7 @@
       "output": {
         "headline": "Pope will not need further cancer treatment, doctors say",
         "trail": "Medics say the pontiff's tumour has not spread, though doubts remain about his planned trip to South America next month.",
-        "progress": "Doctors have confirmed Pope Leo needs no further treatment.",
+        "progress": "Doctors say the pontiff's tumour has not spread, though doubts remain about his planned trip to South America next month.",
         "upside": 2
       }
     },

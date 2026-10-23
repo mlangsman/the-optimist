@@ -63,6 +63,13 @@
     "issue": "headline is unchanged from the original: \"Raye wins 2026 Mercury prize for This Music May Contain Hope\""
   },
   {
+    "path": "/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"An assessment finds nearly every shallow-water coral reef faces ecosystem collapse by 2075, as global heating endangers 96% of reefs across 80 countries, a figure scientists call a wake-up call.\""
+  },
+  {
     "path": "/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
     "kind": "preview",
     "field": "headline",
@@ -326,14 +333,7 @@
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"Prices are now forecast to rise at their slowest pace since 2021, after three years of rapid inflation drove the UK's cost-of-living crisis; we look at the biggest risers in goods and services.\""
-  },
-  {
-    "path": "/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Searing UK heat leaves schools, hospitals and transport networks struggling to cope\""
+    "issue": "trail leans on \"crisis\": \"Prices are now forecast to rise at their slowest pace since 2021, after three years of inflation drove the UK's cost-of-living crisis; we look at the biggest risers in goods and services.\""
   },
   {
     "path": "/world/2024/mar/04/france-to-hold-final-vote-on-enshrining-abortion-as-a-constitutional-right",
