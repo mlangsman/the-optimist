@@ -1,0 +1,160 @@
+[
+ {
+  "path": "/politics/2025/dec/04/nigel-farage-reform-uk-donation-brexit-party-christopher-harborne-crypto-uk-politics",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "\"Labour urges Farage to stop evading scrutiny over £5m gift\" opens the same way as the ORIGINAL and shares nearly all its words, so it is a cosmetic edit under rule 2; the original already frames Labour's call as holding Farage to account, but the rewrite should build further on that response rather than simply trimming the 'from crypto billionaire' clause."
+   ]
+  }
+ },
+ {
+  "path": "/business/2022/jun/24/tough-summer-ahead-for-retailers-as-uk-consumer-confidence-hits-rock-bottom",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "\"Retailers brace for a tough summer as consumer confidence hits rock bottom\" is a cosmetic edit (rule 2): it keeps the ORIGINAL's exact subject and 'rock bottom' setback, merely reordering 'Tough summer ahead for retailers' into 'Retailers brace for a tough summer'; with no upside in the copy to build on, it should at least adopt the calmer, plainer treatment for a dark story rather than just swap clauses."
+   ]
+  }
+ },
+ {
+  "path": "/business/article/2024/may/21/three-years-of-pain-how-inflation-drove-the-uk-cost-of-living-crisis",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "\"after three years of rapid inflation drove the UK's cost-of-living crisis\" characterises the inflation as 'rapid', a qualifier the ORIGINAL ('Three years of pain: how inflation drove the UK cost of living crisis') does not use."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "\"Inequality causes 100,000 heat and cold deaths a year in Europe\" drops the word 'extra' from the ORIGINAL's '100,000 extra deaths a year from heat and cold', turning a stated excess/attributable-death figure into an apparent total death count."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline \"Searing UK heat leaves schools, hospitals and transport networks struggling to cope\" is left completely unchanged from the ORIGINAL, which is a cosmetic non-edit under rule 2; even with no response reported, the dark-story treatment calls for stating the loss plainly without dramatic verbs, so the evocative 'searing' and 'struggling to cope' framing should at least have been calmed."
+   ]
+  }
+ },
+ {
+  "path": "/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "\"Lawsuit challenges Trump's $100,000-a-month early access offer to Truth Social posts\" shares nearly all its words with the ORIGINAL ('Trump sued over $100,000-a-month early-access offer to Truth Social posts') and keeps the same subject, so it is a cosmetic edit under rule 2 rather than a genuine rebuild around the lawsuit-as-accountability response."
+   ]
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/jul/21/trump-financial-details-bbc-lawsuit",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "Neither the headline nor the trail states the '$10bn' figure from the ORIGINAL's '$10bn BBC lawsuit', and the REWRITE never names the BBC, instead calling it only 'the broadcaster' in \"the defamation suit he brought against the broadcaster\"."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The progress line \"Doctors have confirmed Pope Leo needs no further treatment\" names the pontiff 'Leo', a detail the ORIGINAL ('Pope will not need further cancer treatment, doctors say' / 'Medics indicate pontiff's tumour had not spread...') never gives — it only ever says 'Pope' or 'pontiff'."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line \"Doctors have confirmed Pope Leo needs no further treatment\" merely restates the headline's content rather than naming a distinct action or update, breaking rule 8's requirement that the progress line never repeat the headline; it could instead note what remains under watch, such as the planned trip to South America."
+   ]
+  }
+ }
+]
