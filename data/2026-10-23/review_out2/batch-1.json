@@ -1,0 +1,186 @@
+[
+ {
+  "path": "/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+  "kind": "article",
+  "ok": false,
+  "issues": [
+   "The progress line says Mahmood is weighing the care-worker exemption 'after MPs raised concerns about staff shortages', but the original never gives staff shortages as the MPs' reason — it says they hope to persuade Burnham because social care reform is 'an issue close to his heart', while the Home Office's stated worry is the opposite: that exempting care workers would cause an exodus of foreign staff from the sector."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/23/liechtenstein-princes-surreal-abortion-veto-dismays-campaigners",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line, 'Liechtenstein's parliament had already approved the wider bill, after a citizens' initiative signed by a quarter of the country's voters', only repeats background already given in the standfirst; it names no one taking action now, so it fails rule 8's requirement for a concrete 'what's being done' statement — the real candidate is Alois's own stated openness to lifting the information ban, which the headline uses but the progress line never develops."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The headline's 'Iran-linked foundation' is vaguer than the original's 'foundation linked to Iranian regime' — dropping 'regime' loses the specific claim that the foundation is tied to Iran's governing regime, not merely to the country."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Confidence takes its biggest hit since the pandemic as costs climb before the budget' keeps the same subject and sentence structure as the original ('falls at fastest rate since Covid as cost of living bites'), just swapping synonyms, which rule 2 treats as a cosmetic edit regardless of how neutral the new wording is; the companion article shows Healey's pledged 'breathing space' budget measures as a genuine upside the headline could have been built on instead."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/23/liechtenstein-princes-surreal-abortion-veto-dismays-campaigners",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The headline's 'two stars set to screen-test' states there are exactly two contenders, but the original says actors in the mix 'include' Callum Turner and Jack Lowden, which does not rule out other finalists also screen-testing."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The closing line 'Authorities told residents near the river to keep windows and doors shut as a precaution' names 'authorities' as the one who issued the instruction, but the original only says residents 'were told' in the passive voice and never identifies who told them."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/stage/2026/oct/23/the-snowman-reboot-raging-bull-hot-santa",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline keeps the original's structure and list of references almost word for word, swapping only 'help to rebuild...for a new generation' for 'reboot...for new audiences', which rule 2 treats as a cosmetic edit rather than the fresh, precise line a no-setback feature card calls for."
+   ]
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/23/italy-giorgia-meloni-politics-roberto-vannacci-far-right",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/22/prince-harry-david-brent-reboot-purpose",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ }
+]
