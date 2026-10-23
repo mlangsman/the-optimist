@@ -1,0 +1,245 @@
+[
+ {
+  "path": "/politics/2026/jun/18/nigel-farage-trying-block-britcoin-crypto-plans-bank-of-england-christopher-harborne",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line 'A watchdog is examining whether Farage should have declared the gift before he became an MP' adds no information beyond the headline 'Watchdog to examine Farage's £5m gift from crypto donor', effectively repeating it rather than naming a new development.",
+    "The trail 'The Reform UK leader faces questions over whether he should have declared the sum he received before entering parliament' opens with the setback rather than first developing the headline's upside (the watchdog's examination), against the rule that the standfirst must open with the upside and give the setback second."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2025/dec/04/nigel-farage-reform-uk-donation-brexit-party-christopher-harborne-crypto-uk-politics",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "'Campaigners are renewing calls for a cap on political donations' attributes the renewed calls to 'campaigners', but the ORIGINAL only says the gift 'prompts renewed calls for cap on political donations' without naming who is making them."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Record £9m gift to Reform UK renews calls for donation cap' keeps the record donation as its subject alongside the response, the same construction the brief's own 'Rail unions call for more staff... as reported assaults hit record high' example says fails; the renewed calls for a cap should have been the whole headline, with the record gift moved to the standfirst.",
+    "The trail 'Christopher Harborne's gift... means donations to Reform UK now exceed those made to the Tories' states the setback without first developing the upside (the renewed calls for a cap), against the rule that the standfirst must open with the upside."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite drops the ORIGINAL's specific claim that Farage is 'evading scrutiny', weakening an accusation of ongoing evasion into a plain, neutral request for 'a clear and truthful account'."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line 'Labour is urging Farage to give a clear and truthful account of the gift' adds nothing to the headline 'Labour calls on Farage for 'truthful account' of £5m gift', effectively repeating it."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2022/feb/08/cost-of-living-crisis-will-hit-uk-consumer-spending-retailers-warn",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2022/jun/24/tough-summer-ahead-for-retailers-as-uk-consumer-confidence-hits-rock-bottom",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "'consumer confidence falls' weakens the ORIGINAL's 'UK consumer confidence hits rock bottom' into a vaguer, milder claim."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "Changing 'hits rock bottom' to 'falls' minimises the setback the ORIGINAL reports, which rule 5 (minimisation) does not allow even in an otherwise no-upside story."
+   ]
+  }
+ },
+ {
+  "path": "/business/2022/dec/20/its-just-not-tenable-cost-of-living-crisis-hits-sustainability-sector",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/article/2024/may/21/three-years-of-pain-how-inflation-drove-the-uk-cost-of-living-crisis",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line 'Forecasters now expect price rises to slow to their weakest pace since 2021' repeats the same fact already stated in the headline 'Inflation set to rise at its slowest pace since 2021', adding no new actor or action.",
+    "The trail 'After three years of rising prices driving the UK's cost-of-living crisis, we look at the biggest risers in goods and services' opens with the setback rather than developing the headline's upside (the slowing pace of price rises) first."
+   ]
+  }
+ },
+ {
+  "path": "/business/2022/mar/15/uk-unemployment-covid-inflation-wages-prices-energy-bills",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2017/jul/10/spending-falls-at-fastest-rate-for-four-years-as-consumers-tighten-belts",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line 'Britain has expanded its heat-alert system as the heatwave continues' repeats the headline 'Britain widens heat-alert system as third heatwave of the year hits' almost word for word, adding no new fact."
+   ]
+  }
+ },
+ {
+  "path": "/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "'Inequality linked to 100,000 heat and cold deaths' weakens the ORIGINAL's causal claim 'Inequality causing 100,000 extra deaths' into a looser correlation."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "Softening 'causing' to 'linked to' also minimises the ORIGINAL's finding, which rule 5 (minimisation) forbids even when the story has no upside to build a headline on."
+   ]
+  }
+ },
+ {
+  "path": "/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite drops the ORIGINAL's claim that the heatwave is 'worst ever', which does not appear anywhere else in the rewrite's headline or trail."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "Dropping 'worst ever' from the headline-and-standfirst pair is a minimisation of the ORIGINAL's severity claim, which rule 5 does not allow."
+   ]
+  }
+ },
+ {
+  "path": "/environment/2026/jun/27/decades-climate-warnings-why-europe-so-unprepared-rising-heat",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "'heatwaves still have a serious impact' weakens the ORIGINAL's 'heatwaves still have devastating impact'.",
+   "The progress line 'European governments have been adapting cities and infrastructure since the 2003 heatwave' asserts specific actors and actions (governments, cities, infrastructure) that the ORIGINAL's vaguer 'triggered first efforts to deal with the problem' does not support."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "Softening 'devastating' to 'serious' minimises the setback the ORIGINAL reports.",
+    "The progress line credits 'European governments... adapting cities and infrastructure', a specific response the copy given does not report, which rule 8 forbids."
+   ]
+  }
+ },
+ {
+  "path": "/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/jun/23/searing-uk-heat-leaves-schools-hospitals-and-transport-networks-struggling-to-cope",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "'UK heat tests schools, hospitals and transport networks' weakens the ORIGINAL's claim that the heat 'leaves schools, hospitals and transport networks struggling to cope' into a neutral claim that they are merely being tested."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "Changing 'struggling to cope' to 'tests' minimises the setback the ORIGINAL describes, which rule 5 (minimisation) forbids."
+   ]
+  }
+ },
+ {
+  "path": "/media/2026/oct/13/bbc-trump-lawsuit-deposition",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/aug/12/truth-social-suit-trump-early-access-offer",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Trump sued over $100,000-a-month early-access offer to Truth Social posts' is left completely unchanged from the ORIGINAL even though the lawsuit itself (a prosecuting/accountability response) was an available upside to lead with instead; the rewrite's own progress line, 'A lawsuit has been filed challenging the offer...', shows this reframing was available but was not used in the headline."
+   ]
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line 'The ruling restores the outlets' access after they were blocked last month' repeats the headline 'Judge orders White House to restore access for banned media outlets' rather than adding a new fact about what is being done."
+   ]
+  }
+ }
+]
