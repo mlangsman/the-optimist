@@ -1,0 +1,227 @@
+[
+ {
+  "path": "/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+  "kind": "article",
+  "ok": false,
+  "issues": [
+   "The rewrite says the campaign urges \"every household\" to stock up to nine litres of water, but the original says \"every Briton\" is urged to stock nine litres — a per-person figure confirmed later by \"three litres of water per person per day\" — so \"household\" misstates who the quantity applies to."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+  "kind": "article",
+  "ok": false,
+  "issues": [
+   "The rewrite calls it \"a twist in the cabinet discussion over the migration changes,\" but the original calls it a twist in \"the cabinet split,\" weakening a claim of real division into vague \"discussion.\""
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line (\"The Home Office says it is considering more than 200,000 responses to its consultation before finalising the changes\") just restates the headline's claim (\"Government to weigh 200,000 responses before finalising migration reform\") rather than naming a distinct action."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline (\"Chancellor to unveil 'breathing space' measures in budget response to squeeze\") still names the setback (\"squeeze\") as the reason for the response, when it could stand on the upside alone and leave the squeeze to the standfirst.",
+    "The progress line (\"John Healey has pledged 'breathing space' measures in next week's budget to ease the pressure on households\") repeats the headline's 'breathing space measures in ... budget' claim almost word for word, adding no distinct 'what's being done' detail."
+   ]
+  }
+ },
+ {
+  "path": "/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+  "kind": "article",
+  "ok": false,
+  "issues": [
+   "The headline calls this a \"BBC defamation case,\" but the original never uses the word defamation and instead says Trump's suit is brought under Florida's Unfair and Deceptive Trade Practices Act."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline (\"Judge forces Trump to sit for deposition in BBC defamation case\") keeps the same subject and structure as the original (\"US judge orders Trump to sit for deposition in $10bn lawsuit against BBC\"), with only words swapped — a cosmetic edit."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/23/liechtenstein-princes-surreal-abortion-veto-dismays-campaigners",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line (\"Alois says he is open to lifting the nationwide ban on sharing information about abortion access abroad\") repeats the headline's claim (\"Liechtenstein prince opens door to lifting abortion information ban\") almost word for word, adding no distinct 'what's being done' detail."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline and trail (\"Revealed: Reform donor's past business ties to Iran-linked foundation\" / \"Sasan Ghandehari's partnership with a religious foundation raises questions over his past dealings with a republic Nigel Farage has criticised\") keep the original's exact subject and structure with only minor word swaps from \"Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime\" — a cosmetic edit."
+   ]
+  }
+ },
+ {
+  "path": "/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline and trail (\"UK consumer confidence falls at fastest pace since Covid, survey finds\" / \"The drop comes as the economic fallout from the war in the Middle East adds to pressure on consumers and on the chancellor ahead of the budget\") are near word-for-word restatements of the original, a cosmetic edit that leaves the setback as the headline's subject with no upside offered."
+   ]
+  }
+ },
+ {
+  "path": "/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/23/liechtenstein-princes-surreal-abortion-veto-dismays-campaigners",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The original headline and trail convey campaigners' strong reaction (\"'surreal' abortion veto dismays campaigners\"), but the rewrite softens this to \"campaigners had hoped [the bill] would become law,\" dropping the weight of their dismay from the headline-and-trail pair."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline and trail (\"James Bond finalists set to screen-test for 007 role, reports say\" / \"Callum Turner and Jack Lowden are among the actors in the mix to play 007 in Denis Villeneuve's instalment\") are the original's own sentences reordered with almost no change, a cosmetic edit rather than the fresh line the brief requires for a no-setback feature."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline and trail are word-for-word identical to the original Guardian copy (only a trailing full stop added), so no Optimist voice or 'fresh, warm, precise line' was applied as required for a review with no setback."
+   ]
+  }
+ }
+]
