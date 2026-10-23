@@ -17,7 +17,7 @@
  },
  "/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living": {
   "headline": "Confidence slump piles pressure on chancellor ahead of budget",
-  "trail": "Economic fallout from the Middle East war is adding to the pressure on consumers and on the chancellor ahead of his budget statement.",
+  "trail": "UK consumer confidence has fallen at its fastest rate since the Covid pandemic, as economic fallout from the Middle East war piles pressure on consumers and the chancellor ahead of his budget statement.",
   "upside": 1
  },
  "/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts": {
@@ -79,7 +79,7 @@
   "upside": 0
  },
  "/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace": {
-  "headline": "South Wales residents told to keep windows shut as a precaution",
+  "headline": "South Wales residents told to keep windows shut after kerosene leak",
   "trail": "Thousands of litres of kerosene from a GE Aerospace site contaminated the water near the River Taff, with residents reporting unsafe water, burning eyes and fuel slicks and demanding answers.",
   "upside": 1
  },
@@ -202,7 +202,6 @@
  "/sport/2026/oct/23/surfing-sexual-abuse-allegations-ntwnfb": {
   "headline": "Surfers break their silence, forcing the sport to confront abuse claims",
   "trail": "A long culture of silence has buried allegations of sexual assault in surf industry settings, but more women are now coming forward.",
-  "progress": "More women in the sport are speaking out, breaking the culture of silence around the allegations.",
   "upside": 1
  },
  "/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian": {
@@ -282,7 +281,6 @@
  "/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest": {
   "headline": "Macron imposes ban on 'illegitimate' protests in France",
   "trail": "The French president says he will also decide on concrete 'next steps' for further nationwide demonstrations, as he tries to get a grip on the continuing unrest.",
-  "progress": "Macron has already banned 'illegitimate' protests and promises further steps on the demonstrations.",
   "upside": 1
  },
  "/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged": {
@@ -623,7 +621,6 @@
  "/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat": {
   "headline": "Thames Water nationalisation moves closer as government objects to rescue deal",
   "trail": "The environment secretary has raised concerns that customers would face an 'undue burden' from the £10bn rescue plan.",
-  "progress": "The environment secretary is pushing back against the private rescue plan over concerns it would burden customers.",
   "upside": 2
  },
  "/politics/2026/jul/22/increased-defence-spending-uk-economic-growth-wes-streeting-military-andy-burnham": {
@@ -663,8 +660,7 @@
  "/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians": {
   "headline": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
   "trail": "Exclusive: the move by Shabana Mahmood follows the closure of the Afghan scheme last year, though experts say the numbers are too small to deter Channel crossings.",
-  "upside": 2,
-  "progress": "The new routes follow the closure of the previous Afghan resettlement scheme last year."
+  "upside": 2
  },
  "/politics/2026/feb/05/home-office-60000-deported-removed-since-2024-election-migration": {
   "headline": "Home Office says nearly 60,000 people deported from UK or left voluntarily since 2024 election",
@@ -693,7 +689,7 @@
  },
  "/politics/2026/jun/07/labour-farage-evading-scrutiny-crypto-billionaire-gift": {
   "headline": "Labour demands 'clear and truthful account' from Farage over £5m gift",
-  "trail": "The call for a 'clear and truthful account' comes amid questions about the Reform leader's property spending.",
+  "trail": "Labour accuses Farage of evading scrutiny over the £5m gift, amid questions about the Reform leader's property spending and calls for a 'clear and truthful account'.",
   "upside": 1
  },
  "/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage": {
@@ -882,7 +878,6 @@
  "/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican": {
   "headline": "Pope will not need further cancer treatment, doctors say",
   "trail": "Medics say the pontiff's tumour has not spread, though doubts remain about his planned trip to South America next month.",
-  "progress": "Doctors say the pontiff's tumour has not spread, though doubts remain about his planned trip to South America next month.",
   "upside": 2
  },
  "/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost": {
