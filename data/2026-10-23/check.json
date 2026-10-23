@@ -12,8 +12,10 @@
  {
   "path": "/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
   "kind": "article",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The progress line says Mahmood is weighing the care-worker exemption 'after MPs raised concerns about staff shortages', but the original never gives staff shortages as the MPs' reason — it says they hope to persuade Burnham because social care reform is 'an issue close to his heart', while the Home Office's stated worry is the opposite: that exempting care workers would cause an exodus of foreign staff from the sector."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -65,8 +67,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The progress line, 'Liechtenstein's parliament had already approved the wider bill, after a citizens' initiative signed by a quarter of the country's voters', only repeats background already given in the standfirst; it names no one taking action now, so it fails rule 8's requirement for a concrete 'what's being done' statement — the real candidate is Alois's own stated openness to lifting the information ban, which the headline uses but the progress line never develops."
+   ]
   }
  },
  {
@@ -112,8 +116,10 @@
  {
   "path": "/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The headline's 'Iran-linked foundation' is vaguer than the original's 'foundation linked to Iranian regime' — dropping 'regime' loses the specific claim that the foundation is tied to Iran's governing regime, not merely to the country."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -125,8 +131,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The headline 'Confidence takes its biggest hit since the pandemic as costs climb before the budget' keeps the same subject and sentence structure as the original ('falls at fastest rate since Covid as cost of living bites'), just swapping synonyms, which rule 2 treats as a cosmetic edit regardless of how neutral the new wording is; the companion article shows Healey's pledged 'breathing space' budget measures as a genuine upside the headline could have been built on instead."
+   ]
   }
  },
  {
@@ -172,8 +180,10 @@
  {
   "path": "/film/2026/oct/22/final-james-bond-screen-tests-callum-turner-jack-lowden",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The headline's 'two stars set to screen-test' states there are exactly two contenders, but the original says actors in the mix 'include' Callum Turner and Jack Lowden, which does not rule out other finalists also screen-testing."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -242,8 +252,10 @@
  {
   "path": "/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The closing line 'Authorities told residents near the river to keep windows and doors shut as a precaution' names 'authorities' as the one who issued the instruction, but the original only says residents 'were told' in the passive voice and never identifies who told them."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -255,8 +267,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The headline keeps the original's structure and list of references almost word for word, swapping only 'help to rebuild...for a new generation' for 'reboot...for new audiences', which rule 2 treats as a cosmetic edit rather than the fresh, precise line a no-setback feature card calls for."
+   ]
   }
  },
  {
@@ -482,8 +496,10 @@
  {
   "path": "/sport/2026/oct/23/surfing-sexual-abuse-allegations-ntwnfb",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The progress line's 'breaking years of silence around the allegations' invents a specific duration ('years') that the ORIGINAL does not state; it only says 'a culture of silence' buried the stories."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -562,8 +578,10 @@
  {
   "path": "/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The headline and trail say the reefs face 'destruction' where the ORIGINAL says they face 'ecosystem collapse'; these are different claims (collapse of ecological function vs physical destruction) and the ORIGINAL's specific term is not used."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -632,11 +650,15 @@
  {
   "path": "/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The progress line's 'citing the need to restore order' attributes a specific stated rationale to Macron that the ORIGINAL does not give; it only says he 'tries to get a grip on' the unrest."
+  ],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The headline 'Macron pledges concrete next steps to address France's continuing unrest' still names the setback ('continuing unrest') even though the ORIGINAL offers a stronger, already-enacted response to build on instead: build the headline on the ban on 'illegitimate' protests Macron has already imposed, rather than on the vaguer, not-yet-decided 'next steps', and move 'unrest' out of the headline entirely."
+   ]
   }
  },
  {
@@ -662,8 +684,10 @@
  {
   "path": "/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The rewrite's trail attributes the savings rationale to 'The corporation says', an attribution the original does not make: the original simply states the cuts are 'aimed at saving £5.5m' as fact, without saying who said so."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1302,8 +1326,10 @@
  {
   "path": "/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The added line 'Ministers are moving towards nationalising Thames Water to resolve the crisis' invents an active ministerial push and the word 'crisis', neither of which the original (which only says nationalisation 'moves closer' because the government objects to the rescue deal) supports."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1312,8 +1338,10 @@
  {
   "path": "/politics/2026/jul/22/increased-defence-spending-uk-economic-growth-wes-streeting-military-andy-burnham",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The rewrite's headline and trail drop the original's central claim that the 'Burnham government will prioritise military over other spending', keeping only the 'clarity and confidence' pledge to the arms industry."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1375,8 +1403,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The added progress line 'Shabana Mahmood's department says it will open new resettlement routes for Afghan women and Palestinians' repeats the headline 'UK to open new refugee resettlement routes for Afghan women and Palestinians' almost word for word, which the brief explicitly forbids."
+   ]
   }
  },
  {
@@ -1412,8 +1442,10 @@
  {
   "path": "/politics/2026/may/13/nigel-farage-inquiry-gift-crypto-billionaire-reform-uk-christopher-harborne",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The rewrite's trail changes 'crypto billionaire' to 'crypto donor', dropping the specific wealth-status descriptor given in the original and weakening it into vagueness."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1435,8 +1467,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "\"Labour urges Farage to stop evading scrutiny over £5m gift\" opens the same way as the ORIGINAL and shares nearly all its words, so it is a cosmetic edit under rule 2; the original already frames Labour's call as holding Farage to account, but the rewrite should build further on that response rather than simply trimming the 'from crypto billionaire' clause."
+   ]
   }
  },
  {
@@ -1465,8 +1499,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "\"Retailers brace for a tough summer as consumer confidence hits rock bottom\" is a cosmetic edit (rule 2): it keeps the ORIGINAL's exact subject and 'rock bottom' setback, merely reordering 'Tough summer ahead for retailers' into 'Retailers brace for a tough summer'; with no upside in the copy to build on, it should at least adopt the calmer, plainer treatment for a dark story rather than just swap clauses."
+   ]
   }
  },
  {
@@ -1482,8 +1518,10 @@
  {
   "path": "/business/article/2024/may/21/three-years-of-pain-how-inflation-drove-the-uk-cost-of-living-crisis",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "\"after three years of rapid inflation drove the UK's cost-of-living crisis\" characterises the inflation as 'rapid', a qualifier the ORIGINAL ('Three years of pain: how inflation drove the UK cost of living crisis') does not use."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1522,8 +1560,10 @@
  {
   "path": "/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "\"Inequality causes 100,000 heat and cold deaths a year in Europe\" drops the word 'extra' from the ORIGINAL's '100,000 extra deaths a year from heat and cold', turning a stated excess/attributable-death figure into an apparent total death count."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1565,8 +1605,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The headline \"Searing UK heat leaves schools, hospitals and transport networks struggling to cope\" is left completely unchanged from the ORIGINAL, which is a cosmetic non-edit under rule 2; even with no response reported, the dark-story treatment calls for stating the loss plainly without dramatic verbs, so the evocative 'searing' and 'struggling to cope' framing should at least have been calmed."
+   ]
   }
  },
  {
@@ -1585,8 +1627,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "\"Lawsuit challenges Trump's $100,000-a-month early access offer to Truth Social posts\" shares nearly all its words with the ORIGINAL ('Trump sued over $100,000-a-month early-access offer to Truth Social posts') and keeps the same subject, so it is a cosmetic edit under rule 2 rather than a genuine rebuild around the lawsuit-as-accountability response."
+   ]
   }
  },
  {
@@ -1612,8 +1656,10 @@
  {
   "path": "/us-news/2026/jul/21/trump-financial-details-bbc-lawsuit",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Neither the headline nor the trail states the '$10bn' figure from the ORIGINAL's '$10bn BBC lawsuit', and the REWRITE never names the BBC, instead calling it only 'the broadcaster' in \"the defamation suit he brought against the broadcaster\"."
+  ],
   "tone": {
    "ok": true,
    "issues": []
@@ -1792,11 +1838,15 @@
  {
   "path": "/world/2026/oct/21/pope-leo-further-lung-cancer-treatment-doctors-vatican",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The progress line \"Doctors have confirmed Pope Leo needs no further treatment\" names the pontiff 'Leo', a detail the ORIGINAL ('Pope will not need further cancer treatment, doctors say' / 'Medics indicate pontiff's tumour had not spread...') never gives — it only ever says 'Pope' or 'pontiff'."
+  ],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The progress line \"Doctors have confirmed Pope Leo needs no further treatment\" merely restates the headline's content rather than naming a distinct action or update, breaking rule 8's requirement that the progress line never repeat the headline; it could instead note what remains under watch, such as the planned trip to South America."
+   ]
   }
  },
  {
