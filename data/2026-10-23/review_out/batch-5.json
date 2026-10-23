@@ -1,0 +1,148 @@
+[
+ {
+  "path": "/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/games/2026/oct/21/pushing-buttons-call-of-duty-modern-warfare-4",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/games/2026/oct/15/from-mario-to-machine-guns-how-ubisoft-paris-made-tom-clancy-rainbow-six-tactics",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The REWRITE's headline calls the game simply 'Rainbow Six Tactics', dropping 'Tom Clancy's' from the title the ORIGINAL gives it ('Tom Clancy's Rainbow Six Tactics')."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/artanddesign/2026/oct/22/joy-strap-ons-cindy-sherman-mark-leckey-five-free-exhibitions-to-see",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/stage/2026/oct/22/martin-guerre-review-les-mis-duo-melodrama-old-vic-theatre-london",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/books/2026/oct/22/female-life-on-planet-earth-by-laleh-khadivi-review-a-mothers-secret-past-in-the-iranian-revolution",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/stage/2026/oct/21/ilford-boy-review-donmar-warehouse-london",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/stage/2026/oct/22/dickson-mbi-company-tellus-dance-review-sadlers-wells-east-london",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/culture/2026/oct/22/judi-dench-sight-loss-macular-degeneration-shakespeares-sonnets",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/thefilter/2026/oct/22/best-bread-makers-tested-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/thefilter/2026/oct/21/best-gifts-toys-nine-year-olds",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/thefilter/2026/oct/20/more-sustainable-ways-stay-dry-wet-weather-uk",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The REWRITE's trail drops 'women' from the ORIGINAL's 'here's how women can stay dry in style', broadening a claim specifically about women to a general 'how to stay dry in style'."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/thefilter/2026/oct/16/readers-favourite-diy-halloween-costumes-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/food/2026/oct/22/low-alcohol-high-calibre-the-best-super-session-ales",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/food/2026/oct/21/make-the-most-out-of-the-last-spoonful",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/food/2026/oct/22/chicken-citrus-oregano-recipe-rachel-roddy",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/23/a-friend-has-set-up-a-gofundme-for-vet-bills-is-this-socially-acceptable",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/22/you-be-the-judge-should-my-husband-stop-cat-drinking-on-kitchen-counter",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The REWRITE's trail states 'Tony disagrees', a claim not stated anywhere in the ORIGINAL, which only has James calling the water bowl's placement unhygienic and invites readers to decide."
+  ],
+  "tone": { "ok": true, "issues": [] }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/19/the-one-change-that-worked-i-deleted-instagram-and-embraced-the-joys-of-a-truly-private-life",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": { "ok": true, "issues": [] }
+ }
+]
