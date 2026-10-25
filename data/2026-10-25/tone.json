@@ -14,6 +14,13 @@
     "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"How the Stone Roses showed me the power of being an introvert\""
   },
   {
+    "path": "/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"Staff warn that 'cuts mean jobs' as the battle is far from over following the $110bn Paramount-Warner Bros merger that created a new global entertainment powerhouse.\""
+  },
+  {
     "path": "/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
     "kind": "preview",
     "field": "headline",
@@ -56,25 +63,11 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Why Stanley Matthews' Ballon d'Or triumph echoes down the years for Harry Kane\""
   },
   {
-    "path": "/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
+    "path": "/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Attention LaMelo Ball: only losers boast about avoiding diaper duty\""
-  },
-  {
-    "path": "/politics/2026/oct/24/andy-bloke-appears-vaguely-normal-on-gogglebox-but-kemi-dodged-a-bullet",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Andy Bloke appears vaguely normal on Gogglebox, and Kemi dodged a bullet\""
-  },
-  {
-    "path": "/commentisfree/2026/oct/23/the-guardian-view-on-caryl-churchills-triumph-a-play-for-today",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"The Guardian view: Caryl Churchill's Triumph is a play for today\""
+    "issue": "trail leans on \"fears\": \"Steve Bloomfield, the former Observer international editor, says fears of the west's decline could crystallise if the proposed Trump-Putin-Xi summit goes ahead.\""
   },
   {
     "path": "/technology/2026/oct/23/we-are-reclaiming-real-life-after-getting-rid-of-instagram",
@@ -112,6 +105,41 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Obama rallies rapturous Michigan crowd for El-Sayed: 'He'll finish the job we started'\""
   },
   {
+    "path": "/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Israeli soldiers raze Hebron neighbourhood, driving families from their homes\""
+  },
+  {
+    "path": "/us-news/2026/oct/24/cornell-jane-doe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Judge rules Cornell 'Jane Doe' can use pseudonym in suit over alleged gang-rape\""
+  },
+  {
+    "path": "/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"After the discovery of a severe bug in the PHP programming language, executives warn of a 'vulnerability tsunami'.\""
+  },
+  {
+    "path": "/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 16 words; keep it to 14 or fewer and move the detail to the trail: \"TG Jones plans to close more than a third of post office counters by early 2027\""
+  },
+  {
+    "path": "/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"The closures within the chain, formerly under the WH Smith brand, raise fears of high streets becoming 'postal deserts'.\""
+  },
+  {
     "path": "/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
     "kind": "preview",
     "field": "headline",
@@ -126,11 +154,39 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"ICC prosecutor says court making 'significant progress' despite US sanctions\""
   },
   {
+    "path": "/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Retail sales in Great Britain fall as struggling households cut back\""
+  },
+  {
+    "path": "/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cut\"); build it on the upside or score the story honestly and let the front drop it: \"Retail sales in Great Britain fall as struggling households cut back\""
+  },
+  {
     "path": "/global/2026/oct/24/lime-bike-jousts-why-youth-culture-is-embracing-the-medieval-era",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Lime bike jousts? Why youth culture is embracing the medieval era\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 17 words; keep it to 14 or fewer and move the detail to the trail: \"Channel 4's new social media drama has 90-second episodes – and as much drama as an advert break\""
+  },
+  {
+    "path": "/music/2026/oct/23/with-albums-under-threat-rayes-mercury-win-is-a-triumph-for-grand-statements",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"Her winning album has its longueurs, but there's something heartening about its risk-taking, and with albums under threat, the Mercury prize needs big, bold records like this to stay relevant.\""
   },
   {
     "path": "/music/2026/oct/23/add-to-playlist-native-james-and-the-weeks-best-new-tracks",
@@ -221,7 +277,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Just the tonic: curated treasures and English wines on a rail escape to Rye\""
+    "issue": "headline is unchanged from the original: \"Just the tonic: curated treasures and English wines on a rail escape to Rye and St Leonards-on-Sea\""
   },
   {
     "path": "/every-stop-is-a-story-great-northern/2026/aug/11/royston-kings-lynn-rail-trip-mindfulness-medieval-history",
@@ -294,6 +350,20 @@
     "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"You be the judge: should my husband stop letting our cat drink on the counter?\""
   },
   {
+    "path": "/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I can charge my car for £6': new rules could cut costs for EV drivers\""
+  },
+  {
+    "path": "/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cut\"); build it on the upside or score the story honestly and let the front drop it: \"'I can charge my car for £6': new rules could cut costs for EV drivers\""
+  },
+  {
     "path": "/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy",
     "kind": "preview",
     "field": "headline",
@@ -312,7 +382,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"'I wanted to create the female version of a man's suit': how the Galaxy dress took over the world\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I wanted to create the female version of a man's suit': how Roland Mouret's Galaxy dress took over the world\""
   },
   {
     "path": "/fashion/2026/oct/16/game-set-tache-carlos-alcarez-growing-trend-stylish-top-lip",
@@ -357,11 +427,18 @@
     "issue": "headline is unchanged from the original: \"Tell us: have your spending habits changed recently?\""
   },
   {
-    "path": "/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
+    "path": "/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Healey urged to be bold on borrowing in first test of growth pledge\""
+    "issue": "trail leans on \"warning\": \"The ONS data presents a mixed picture ahead of the budget, amid a slump in job vacancies and analysts warning the labour market is 'running on idle'.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"'If voters aren't better off by the next election, we're screwed,' Labour insiders say, as some warn the party risks 'looking twee' by focusing on small fixes.\""
   },
   {
     "path": "/world/2022/jun/23/aung-san-suu-kyi-trial-moved-to-prison-in-myanmars-capital",

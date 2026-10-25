@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T05:17:05.504Z",
+  "generatedAt": "2026-10-25T05:33:29.289Z",
   "engine": "claude-code",
   "front": [
     {
@@ -10,7 +10,7 @@
         {
           "path": "/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
           "linked": false,
-          "headline": "The moment I knew: I confessed my crush. She said, 'Well, that's good, isn't it?'",
+          "headline": "The moment I knew: I confessed my crush. She said, 'Well, that's good. Isn't it?'",
           "original": {
             "headline": "The moment I knew: I admitted I had a crush on her. She replied, ‘Well, that’s good. Isn’t it?’",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
@@ -112,7 +112,7 @@
         {
           "path": "/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
           "linked": true,
-          "headline": "Healey's budget to deliver big devolution boost for England's regions",
+          "headline": "England's councils to get direct share of income tax from 2028",
           "original": {
             "headline": "Healey’s first budget to include big devolution package to boost growth",
             "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
@@ -122,7 +122,7 @@
           },
           "kicker": "UK news",
           "trail": "The chancellor will build on Burnham's promise that local leaders will no longer have to 'come cap in hand to Westminster'.",
-          "progress": "Healey is granting mayors a new £1.5bn borrowing facility, plus £285m in 'good growth' funding next year.",
+          "progress": "Healey is also handing councils £150m to help them build the capacity to manage bigger budgets.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/e03ed8d84ed59441e60d064212c6feaaa5140e1f/702_0_7023_5618/master/7023.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -142,7 +142,7 @@
             "byline": "Patrick Daly"
           },
           "kicker": "Politics",
-          "trail": "The prime minister is weighing different options for a new relationship with Brussels before November's summit.",
+          "trail": "The prime minister is weighing options for a new relationship with Brussels before November's summit, as he calls for an honest debate on free movement.",
           "progress": "Net migration has fallen to 171,000 last year, almost half of 2016 levels, from a 2023 peak of 944,000.",
           "upside": 2,
           "image": {
@@ -154,7 +154,7 @@
         {
           "path": "/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
           "linked": true,
-          "headline": "More than a million rally for Lula on eve of Brazil's runoff",
+          "headline": "Rio's Copacabana fills with a million Lula supporters before Brazil's runoff",
           "original": {
             "headline": "More than one million Lula supporters rally on eve of Brazilian election runoff",
             "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
@@ -163,7 +163,7 @@
             "byline": "Tom Phillips in Rio de Janeiro and Tiago Rogero in Belo Horizonte"
           },
           "kicker": "World news",
-          "trail": "Nearly 159 million people are due to vote on Sunday in the battle between the leftwing incumbent and Flávio Bolsonaro.",
+          "trail": "With nearly 159 million Brazilians due to vote on Sunday, supporters rallied behind the leftwing incumbent against Flávio Bolsonaro.",
           "progress": "Both camps are mobilising huge grassroots networks, including Lula's 10 million-member WhatsApp campaign group, before Sunday's vote.",
           "upside": 2,
           "image": {
@@ -196,7 +196,7 @@
         {
           "path": "/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
           "linked": true,
-          "headline": "Met says it shared Thomas Markle Sr allegations with Meghan in 2019",
+          "headline": "Met considers watchdog referral over its handling of 2019 Markle letter",
           "original": {
             "headline": "Met says it shared allegations about Meghan’s father with her but not other forces",
             "url": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
@@ -205,7 +205,7 @@
             "byline": "Harry Taylor"
           },
           "kicker": "UK news",
-          "trail": "Scotland Yard says it passed on the allegations in a letter at the time, but did not share the claims with other police forces.",
+          "trail": "The Met says it passed on the allegations in a letter to Meghan at the time, though it did not share the claims with other police forces.",
           "progress": "The Met is reviewing its handling of the case and considering referring itself to the IOPC.",
           "upside": 1,
           "image": {
@@ -226,8 +226,8 @@
             "byline": "Angelique Chrisafis in Paris "
           },
           "kicker": "World news",
-          "trail": "Almost 1,000 people were arrested as police charged a crowd in Paris and used teargas to stop protesters reaching other city centres.",
-          "progress": "Police are investigating after children and protesters were injured by police weaponry during earlier school protests.",
+          "trail": "The vast majority of marchers were peaceful, though almost 1,000 people were arrested as police charged a crowd in Paris and used teargas to stop protesters reaching other city centres.",
+          "progress": "Police are investigating after children and protesters were maimed and injured by explosive police weaponry during earlier school protests.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/10e891ed433ab45adda7597306a54985236e3229/1313_0_6563_5251/master/6563.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -265,7 +265,7 @@
         {
           "path": "/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
           "linked": false,
-          "headline": "Bespoke mRNA vaccine curbs melanoma's return, trial shows",
+          "headline": "Bespoke mRNA vaccine makes melanoma less likely to return or kill, trial shows",
           "original": {
             "headline": "‘Bespoke’ mRNA vaccine significantly reduces risk of melanoma recurrence or death, clinical trial shows",
             "url": "https://www.theguardian.com/society/2026/oct/23/mrna-vaccine-melanoma-cancer-breakthrough-australia",
@@ -312,7 +312,6 @@
           },
           "kicker": "Environment",
           "trail": "More than 3.7 million birds have already been counted in BirdLife Australia's annual survey, which closes on Sunday 25 October.",
-          "progress": "Volunteers nationwide are tallying birds for the annual count, which runs until Sunday.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/d5103af4d91ee2b7229a3da8d4cb5858ce69a554/772_2053_3113_2491/500.jpg"
@@ -362,25 +361,6 @@
             "alt": "For Tom Wall feature on Data Centres. Vantage Data Centre Newport backs onto the resdidential area at Pencarn Ave, Duffryn, Newport"
           },
           "byline": "Tom Wall. Photographs: Joel Redman"
-        },
-        {
-          "path": "/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
-          "linked": false,
-          "headline": "Skydance staff fight back as mega-merger shake-up looms",
-          "original": {
-            "headline": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
-            "url": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
-            "trail": "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse",
-            "byline": "Mark Sweney"
-          },
-          "kicker": "Media",
-          "trail": "Staff say 'cuts mean jobs' as the battle is far from over following the $110bn merger that created a new global entertainment powerhouse.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/ae15500f5d8870634c8687ec5d1a5f1e422eabc2/775_288_3996_3198/master/3996.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "David Ellison talks with colleagues on the New York Stock Exchange trading floor"
-          },
-          "byline": "Swark Meney"
         }
       ]
     },
@@ -391,7 +371,7 @@
         {
           "path": "/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
           "linked": false,
-          "headline": "The moment I knew: I confessed my crush. She said, 'Well, that's good, isn't it?'",
+          "headline": "The moment I knew: I confessed my crush. She said, 'Well, that's good. Isn't it?'",
           "original": {
             "headline": "The moment I knew: I admitted I had a crush on her. She replied, ‘Well, that’s good. Isn’t it?’",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
@@ -511,7 +491,7 @@
         {
           "path": "/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
           "linked": false,
-          "headline": "British chefs expand abroad as Gulf states offer new growth",
+          "headline": "British chefs expand abroad, citing low taxes and no unions in the Gulf",
           "original": {
             "headline": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
             "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
@@ -519,7 +499,7 @@
             "byline": "Helena Horton"
           },
           "kicker": "Food",
-          "trail": "A leading restaurateur says Gulf countries actively help businesses set up and that east Asia has a better work ethic, as top London restaurants look overseas amid rising UK taxes.",
+          "trail": "A leading restaurateur says Gulf countries actively help businesses set up, with no unions and lower taxes, while east Asia has a better work ethic.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8169ff71c023a4ac8a94eb1f541f83ce182d7093/118_0_4570_3655/master/4570.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -673,7 +653,7 @@
         {
           "path": "/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
           "linked": false,
-          "headline": "Alonso says red card will be a learning moment for Palmer",
+          "headline": "Alonso says red card is a lesson for Palmer after Chelsea's defeat to Spurs",
           "original": {
             "headline": "Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs",
             "url": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
@@ -681,7 +661,7 @@
             "byline": "Jacob Steinberg at Stamford Bridge"
           },
           "kicker": "Football",
-          "trail": "The Chelsea manager said Cole Palmer must learn from his red card during the 2-0 Premier League defeat to Tottenham at Stamford Bridge.",
+          "trail": "The Chelsea manager Xabi Alonso said Cole Palmer must learn from his red card during the shock 2-0 Premier League defeat to Tottenham at Stamford Bridge.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/af032b4eec6b3cbff136ed02f07b78b7ff4227b2/495_0_3263_2611/master/3263.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -717,7 +697,7 @@
         {
           "path": "/sport/blog/2026/oct/24/australia-cricket-team-third-test-selection-dilemmas",
           "linked": false,
-          "headline": "Australia weighs changes to batting lineup before Cape Town decider",
+          "headline": "Selection questions loom for Australia before Cape Town decider",
           "original": {
             "headline": "Winds of change are coming for Australia as selection storm brews in South Africa",
             "url": "https://www.theguardian.com/sport/blog/2026/oct/24/australia-cricket-team-third-test-selection-dilemmas",
@@ -725,8 +705,7 @@
             "byline": "Martin Pegan"
           },
           "kicker": "Sport",
-          "trail": "A crushing defeat in the second Test has raised fresh questions about the visitors' fragile batting lineup.",
-          "progress": "Selectors are reconsidering the lineup ahead of the series decider.",
+          "trail": "A crushing defeat in the second Test has raised fresh questions about the visitors' fragile batting lineup, as a selection storm brews ahead of the decider.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/bce416e319e0dfbbd25e9432cbd42a4d0ea5cdcf/0_0_4062_3250/master/4062.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -746,7 +725,6 @@
           },
           "kicker": "Sport",
           "trail": "Larry Nassar's 2018 conviction sparked a global reckoning in the sport, yet gymnasts say they are still being let down by the pace of change.",
-          "progress": "The sport's global reckoning began with Nassar's conviction in 2018.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/a4943adc53bbaa8b3c2d38e4cf3cfce0e71ad211/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -788,7 +766,7 @@
         {
           "path": "/global-development/2026/oct/24/forget-the-live-aid-image-africa-is-only-a-broken-continent-in-the-minds-of-the-west",
           "linked": false,
-          "headline": "Africa's innovators and business leaders are driving real progress, despite old stereotypes",
+          "headline": "Africa's innovators and business leaders are driving real progress, despite the west's 'broken continent' image",
           "original": {
             "headline": "Forget the Live Aid image, Africa is only a broken continent in the minds of the west",
             "url": "https://www.theguardian.com/global-development/2026/oct/24/forget-the-live-aid-image-africa-is-only-a-broken-continent-in-the-minds-of-the-west",
@@ -808,7 +786,7 @@
         {
           "path": "/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
           "linked": false,
-          "headline": "Attention LaMelo Ball: only losers boast about avoiding diaper duty",
+          "headline": "Shared parenting should be the norm, not something to brag about avoiding",
           "original": {
             "headline": "Attention LaMelo Ball: only losers boast about avoiding diaper duty",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
@@ -816,7 +794,7 @@
             "byline": "Arwa Mahdawi"
           },
           "kicker": "Opinion",
-          "trail": "The basketball star seems proud to leave the job to his partner. That's so last century.",
+          "trail": "The basketball star LaMelo Ball seems proud to leave diaper duty to his partner, an attitude that's so last century.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Arwa_Mahdawi,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -827,7 +805,7 @@
         {
           "path": "/politics/2026/oct/24/andy-bloke-appears-vaguely-normal-on-gogglebox-but-kemi-dodged-a-bullet",
           "linked": false,
-          "headline": "Andy Bloke appears vaguely normal on Gogglebox, and Kemi dodged a bullet",
+          "headline": "PM and Liverpool mayor prove a natural double act on Gogglebox",
           "original": {
             "headline": "Andy Bloke appears vaguely normal on Gogglebox – but Kemi dodged a bullet",
             "url": "https://www.theguardian.com/politics/2026/oct/24/andy-bloke-appears-vaguely-normal-on-gogglebox-but-kemi-dodged-a-bullet",
@@ -835,7 +813,7 @@
             "byline": "John Crace"
           },
           "kicker": "Politics",
-          "trail": "The PM and the Liverpool mayor prove to be naturals at watching TV, with a genuine connection and sense of fun.",
+          "trail": "The pair show a genuine connection and sense of fun as naturals at watching TV together, while Kemi dodged a bullet.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -852,7 +830,7 @@
         {
           "path": "/commentisfree/2026/oct/23/the-guardian-view-on-caryl-churchills-triumph-a-play-for-today",
           "linked": false,
-          "headline": "The Guardian view: Caryl Churchill's Triumph is a play for today",
+          "headline": "Caryl Churchill's Triumph lands a sharp jolt for our complacent times",
           "original": {
             "headline": "The Guardian view on Caryl Churchill’s Triumph: a play for today",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/23/the-guardian-view-on-caryl-churchills-triumph-a-play-for-today",
@@ -860,7 +838,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "Editorial: at barely 20 minutes, this satire on strongman politics serves to jolt audiences out of their complacency.",
+          "trail": "Editorial: at barely 20 minutes, this satire on strongman politics is built to shake audiences out of complacency.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/34c72e520094b7412c0d388b1b0af54ce7c040fa/372_0_3715_2972/500.jpg"
@@ -870,7 +848,7 @@
         {
           "path": "/commentisfree/2026/oct/23/the-guardian-view-on-europes-protests-the-social-contract-has-broken-and-young-people-want-solutions",
           "linked": false,
-          "headline": "The Guardian view: young people push for solutions as Europe renegotiates its social contract",
+          "headline": "Young people demand solutions as Europe's social contract breaks down",
           "original": {
             "headline": "The Guardian view on Europe’s protests: the social contract has broken – and young people want solutions",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/23/the-guardian-view-on-europes-protests-the-social-contract-has-broken-and-young-people-want-solutions",
@@ -878,7 +856,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "An electoral supercycle over the next year may redefine the continent's future, but what is happening on the streets is shaping it too.",
+          "trail": "The social contract across Europe has broken, the Guardian view argues, but an electoral supercycle over the next year, shaped by what's happening on the streets, may redefine the continent's future.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/84b40bddf656e81125a85cc493d671a9b2f9bf02/0_0_5000_4000/500.jpg"
@@ -991,8 +969,7 @@
             "byline": "Donna Ferguson"
           },
           "kicker": "World news",
-          "trail": "Elon Musk, whose company SpaceX owns Starlink, accuses the Ukrainian military of violating the company's terms, after recent restrictions.",
-          "progress": "The military reports the satellite connection has stabilised after the recent restrictions.",
+          "trail": "The military reports the connection has stabilised after recent restrictions, but Elon Musk, whose company SpaceX owns Starlink, accuses Ukraine's military of violating the company's terms.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0d51da8a70a218cd186de054b9f5706103605242/86_0_3672_2937/master/3672.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1003,7 +980,7 @@
         {
           "path": "/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
           "linked": false,
-          "headline": "Sam Fender moves to lower high ticket prices for Proper Massive tour",
+          "headline": "Sam Fender says high ticket prices are 'getting changed'",
           "original": {
             "headline": "Sam Fender tells fans high ticket prices for Proper Massive tour are ‘getting changed’",
             "url": "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
@@ -1011,8 +988,7 @@
             "byline": "Priya Bharadia"
           },
           "kicker": "Music",
-          "trail": "Fender called the stadium pricing 'bollocks' and said it won't be happening on his tour.",
-          "progress": "Fender says the high prices are 'getting changed' before the tour.",
+          "trail": "Fender says prices for his Proper Massive tour are 'getting changed', after calling stadium pricing 'bollocks' and saying it 'won't be happening' on his dates.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f21f4c9a21f8ef77b0f0f6eeb7001c2f1184a886/473_0_4688_3749/master/4688.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1023,7 +999,7 @@
         {
           "path": "/us-news/2026/oct/24/cornell-jane-doe",
           "linked": false,
-          "headline": "Judge rules Cornell 'Jane Doe' can use pseudonym in rape suit",
+          "headline": "Judge rules Cornell 'Jane Doe' can use pseudonym in suit over alleged gang-rape",
           "original": {
             "headline": "Judge rules Cornell’s ‘Jane Doe’ can use pseudonym in suit over alleged gang-rape",
             "url": "https://www.theguardian.com/us-news/2026/oct/24/cornell-jane-doe",
@@ -1032,7 +1008,6 @@
           },
           "kicker": "US news",
           "trail": "The woman alleging a frat-house rape had privacy and safety concerns that outweighed the need to publicly identify her, the judge said.",
-          "progress": "The court ruled that her privacy and safety concerns outweigh the need to name her.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/47ffc91a6119a054aa30f288798099f285db6091/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1078,7 +1053,6 @@
           },
           "kicker": "Media",
           "trail": "The BBC series deliberately uses 'more organic' shots to assure viewers its animals are not AI-generated, producers say.",
-          "progress": "Producers chose rawer footage specifically to prove to viewers that the animals are real.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1095,7 +1069,7 @@
         {
           "path": "/uk-news/2026/oct/24/london-batman-litter-fuel-fredos",
           "linked": false,
-          "headline": "'London's Batman' pays hospital fines and hands out fuel and cheap Freddos",
+          "headline": "'London's Batman' pays hospital parking fines and hands out fuel and cheap Freddos",
           "original": {
             "headline": "He wants to clean up the city and banish high prices. But who is ‘London’s Batman’?",
             "url": "https://www.theguardian.com/uk-news/2026/oct/24/london-batman-litter-fuel-fredos",
@@ -1122,7 +1096,7 @@
             "byline": "Harry Taylor"
           },
           "kicker": "World news",
-          "trail": "The 36-year-old mother died after a current off North Bimini swept away her two sons, who were later rescued, police say.",
+          "trail": "Two boys were rescued after a current off North Bimini swept them away; their 36-year-old mother died trying to save them, police say.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8aab2c6d270e81625bcb385b9817033d361e1ea0/252_0_3780_3024/master/3780.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1166,8 +1140,8 @@
             "byline": "Julian Borger Senior international correspondent"
           },
           "kicker": "Law",
-          "trail": "Nazhat Shameem Khan says some staff face 'banking difficulties', but their work is unaffected.",
-          "progress": "Khan says the court continues to make significant progress despite the sanctions.",
+          "trail": "Nazhat Shameem Khan says the court's work is unaffected by the sanctions, though some staff face 'banking difficulties'.",
+          "progress": "Khan says the court is making significant progress despite the sanctions.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/4a50860fc66828bd9811a41618cb32cf5e6d30bc/314_0_4900_3920/500.jpg"
@@ -1177,7 +1151,7 @@
         {
           "path": "/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia",
           "linked": false,
-          "headline": "Spain's menú del día endures as eating habits change",
+          "headline": "Spain's menú del día clings on as eating habits change",
           "original": {
             "headline": "‘It’s part of our history’: can the menú del día survive Spain’s changing eating habits?",
             "url": "https://www.theguardian.com/world/2026/oct/24/spain-diners-food-restaurants-menu-del-dia",
@@ -1267,28 +1241,9 @@
       "title": "What to watch",
       "cards": [
         {
-          "path": "/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts",
-          "linked": false,
-          "headline": "Channel 4 joins global trend for 90-second vertical dramas",
-          "original": {
-            "headline": "Channel 4’s new social media drama has 90-second episodes – and it’s as enjoyable as watching adverts",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/channel-4s-new-social-media-drama-has-90-second-episodes-and-its-as-enjoyable-as-watching-adverts",
-            "trail": "Vertical dramas are a global phenomenon made in bite-sized addictive chunks to watch on phones. But Channel 4 has made a slow-release syrupy tale in five parts – without tension or actual drama",
-            "byline": "Hannah J Davies"
-          },
-          "kicker": "Television & radio",
-          "trail": "Vertical dramas are a global phenomenon made in bite-sized, addictive chunks for phones, but Channel 4's slow-release tale lacks tension, our critic says.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/39ee25577d42c433d5cbc57b664f3d013bbf642c/0_378_1080_863/master/1080.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "The Guest List"
-          },
-          "byline": "Leonie Merriweather Davies"
-        },
-        {
           "path": "/culture/2026/oct/23/the-knives-are-out-at-netflix-maybe-now-it-will-make-something-worth-watching",
           "linked": false,
-          "headline": "The Guide #266: a shake-up at Netflix could mean better shows ahead",
+          "headline": "The Guide #266: a Netflix shake-up could mean better shows ahead",
           "original": {
             "headline": "The Guide #266: The knives are out at Netflix – maybe now it will make something worth watching",
             "url": "https://www.theguardian.com/culture/2026/oct/23/the-knives-are-out-at-netflix-maybe-now-it-will-make-something-worth-watching",
@@ -1296,7 +1251,7 @@
             "byline": "Gwilym Mumford"
           },
           "kicker": "Culture",
-          "trail": "Stalling subscriber numbers have led to a corporate shake-up, but the streaming giant's quality problem will be harder to fix.",
+          "trail": "Stalling subscriber numbers have led to a corporate bloodbath at Netflix, but the streaming giant's inherent quality problem will be harder to fix.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c71140341ec0c98d2a11d40c18063e1604ce4531/0_0_4067_3253/master/4067.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1315,7 +1270,7 @@
             "byline": "Rhik Samadder"
           },
           "kicker": "Television & radio",
-          "trail": "In his rogue new travelogue the Hollywood star tees off and has drunken pub singalongs, despite clearly hating the process.",
+          "trail": "In his rogue new travelogue, the Hollywood star tees off and has drunken pub singalongs, despite clearly hating the process, though the show mostly proves how tired he is of fame.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5f817c71b4e8d94203aa84957030a785148de3d3/574_0_3010_2410/master/3010.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1359,7 +1314,7 @@
             "byline": "Alexis Petridis"
           },
           "kicker": "Music",
-          "trail": "Her winning album has its longueurs, but there's something heartening about its risk-taking, and the Mercury prize needs big bold records like this to stay relevant.",
+          "trail": "Her winning album has its longueurs, but there's something heartening about its risk-taking, and with albums under threat, the Mercury prize needs big, bold records like this to stay relevant.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/07a3b18842026ad90c101e48456ddc770a3626a6/987_0_5489_4394/master/5489.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1559,7 +1514,7 @@
         {
           "path": "/stage/2026/oct/23/london-city-ballet-review-sadlers-wells-london",
           "linked": false,
-          "headline": "Swoon! London City Ballet glow in a night of dreams and dance history",
+          "headline": "Swoon! London City Ballet glow in a night of dreams and ghosts from dance history",
           "original": {
             "headline": "Swoon! London City Ballet are positively glowing in a night of dreams – and ghosts from dance history",
             "url": "https://www.theguardian.com/stage/2026/oct/23/london-city-ballet-review-sadlers-wells-london",
@@ -1641,7 +1596,7 @@
         {
           "path": "/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
           "linked": false,
-          "headline": "K-pop star RM's exhibition revives previously struggling SFMOMA",
+          "headline": "K-pop star RM's exhibition gives previously struggling SFMOMA a boost",
           "original": {
             "headline": "‘Unlike anything we’ve experienced’: fans swarm San Francisco for BTS star’s art exhibition",
             "url": "https://www.theguardian.com/artanddesign/2026/oct/24/rm-bts-sfmoma-exhibition",
@@ -1650,7 +1605,7 @@
           },
           "kicker": "Art and design",
           "trail": "Fans swarmed San Francisco for a display of more than 100 pieces from RM's collection, calling it 'unlike anything we've experienced'.",
-          "progress": "The exhibition has given a significant boost to the previously struggling museum.",
+          "progress": "The exhibition has given a boost to the previously struggling museum.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/d4f1a5074c7e69d4a404f73360b9907321f5341a/400_364_1183_947/master/1183.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1661,7 +1616,7 @@
         {
           "path": "/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast",
           "linked": false,
-          "headline": "'It annoys people when I eat': Siobhán McSweeney on snacks, pressure and being 'a delicious fatty'",
+          "headline": "'It annoys people when I eat': Siobhán McSweeney on snacks, parental pressure and being 'a delicious fatty'",
           "original": {
             "headline": "‘It annoys people when I eat’: Siobhán McSweeney on perfect snacks, parental pressure – and the power of being ‘a delicious fatty’ ",
             "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/siobhan-mcsweeney-actor-presenter-derry-girls-new-host-guardian-comfort-eating-podcast",
@@ -1724,7 +1679,7 @@
         {
           "path": "/every-stop-is-a-story-southern/2026/aug/11/rye-st-leonards-rail-trip-english-wine-shopping",
           "linked": false,
-          "headline": "Just the tonic: curated treasures and English wines on a rail escape to Rye",
+          "headline": "Just the tonic: curated treasures and English wines on a rail escape to Rye and St Leonards-on-Sea",
           "original": {
             "headline": "Just the tonic: curated treasures and English wines on a rail escape to Rye and St Leonards-on-Sea",
             "url": "https://www.theguardian.com/every-stop-is-a-story-southern/2026/aug/11/rye-st-leonards-rail-trip-english-wine-shopping",
@@ -1810,7 +1765,7 @@
             "byline": "Grace Holliday"
           },
           "kicker": "Life and style",
-          "trail": "The photographer hopes his image of a father and son practising a traditional Indonesian artform will help preserve it.",
+          "trail": "The photographer hopes his image of a father and son practising a traditional Indonesian artform will go some way towards preserving it.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ab3331b14db88e612090ffedea415478d8e4b15e/128_0_3840_3072/master/3840.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2016,7 +1971,7 @@
         {
           "path": "/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
           "linked": false,
-          "headline": "New rules could lower charging costs for EV drivers without a driveway",
+          "headline": "'I can charge my car for £6': new rules could cut costs for EV drivers",
           "original": {
             "headline": "‘I can charge my car for £6’: could new rules cut costs for EV drivers?",
             "url": "https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
@@ -2024,8 +1979,7 @@
             "byline": "Shane Hickey"
           },
           "kicker": "Money",
-          "trail": "Owners in England can now slash their costs by installing a cross-pavement gully, though availability remains a postcode lottery.",
-          "progress": "New rules now allow a cross-pavement gully to be installed for cheaper home charging.",
+          "trail": "Owners in England with no driveway can now slash their costs by installing a cross-pavement gully, though availability remains a postcode lottery.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/cb3ad1858f276cba2ff75c89b626ad49816f1262/1692_367_6041_4835/master/6041.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2044,8 +1998,7 @@
             "byline": "Shane Hickey"
           },
           "kicker": "Money",
-          "trail": "A growing number of people are being targeted by criminals posing as roofers, with victims charged £3,500 for no work done.",
-          "progress": "Citizens Advice is warning the public to help them avoid the UK's No 1 scam.",
+          "trail": "A growing number of people are being targeted by criminals posing as roofers; in one case, £3,500 was taken with no work done.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c582911d8287179ad3cfbe0b99b9f46d293be244/875_0_4337_3468/master/4337.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2089,7 +2042,7 @@
             "byline": "Anita Chaudhuri"
           },
           "kicker": "Life and style",
-          "trail": "'This is horrifying, this is madness,' some say, while others welcome the idea; will those keen for yoga to become an Olympic sport win the argument?",
+          "trail": "'This is horrifying. This is madness,' some say, while others welcome the idea; will those keen for yoga to become an Olympic sport win the argument?",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/19bc0cf304d98049aede2d0a120a1b6ac6fb9cfd/0_21_577_462/master/577.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2115,26 +2068,6 @@
             "alt": "A man on an exercise bike holds a beer and a cigarette against an orange background"
           },
           "byline": "Stoe Jone"
-        },
-        {
-          "path": "/society/2026/oct/18/influencers-wellness-event-cheshire-barbara-oneill-australian",
-          "linked": false,
-          "headline": "Authorities identify wellness influencer Barbara O'Neill as danger to public safety",
-          "original": {
-            "headline": "‘Keep away from the doctor’: a visit to an influencer’s wellness event, where the advice could kill",
-            "url": "https://www.theguardian.com/society/2026/oct/18/influencers-wellness-event-cheshire-barbara-oneill-australian",
-            "trail": "Barbara O’Neill, identified as a risk to public safety in Australia, dismisses antibiotics, vaccines and scientifically proven cancer treatment at UK conference",
-            "byline": "Robyn Vinter and Nicola Davis"
-          },
-          "kicker": "Society",
-          "trail": "O'Neill dismissed antibiotics, vaccines and scientifically proven cancer treatment at a UK conference; she has been identified as a risk to public safety in Australia.",
-          "progress": "Australian authorities have already identified her as a risk to public safety.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/03ec2f0e35fab33ca13e803fc0d78db7c893d479/2_0_5429_4343/master/5429.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A naturopath figure, surrounded by a crowds of people, breaks a syringe in two"
-          },
-          "byline": "Vobyn Rinter and Dicola Navis"
         }
       ]
     },
@@ -2164,7 +2097,7 @@
         {
           "path": "/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world",
           "linked": false,
-          "headline": "'I wanted to create the female version of a man's suit': how the Galaxy dress took over the world",
+          "headline": "'I wanted to create the female version of a man's suit': how Roland Mouret's Galaxy dress took over the world",
           "original": {
             "headline": "‘I wanted to create the female version of a man’s suit’: how Roland Mouret’s Galaxy dress took over the world",
             "url": "https://www.theguardian.com/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world",
@@ -2323,8 +2256,7 @@
             "byline": "Simon Hattenstone"
           },
           "kicker": "UK news",
-          "trail": "A leading forensic biologist's analysis of crime scene photographs suggests Sheila Caffell killed herself; Bamber has served life since 1985 for killing five family members. Caution: graphic images.",
-          "progress": "A leading forensic biologist's new analysis points to Caffell having killed herself.",
+          "trail": "A leading forensic biologist's analysis of crime scene photographs suggests Sheila Caffell killed herself; Bamber was sentenced to life in 1985 for killing five family members. Caution: graphic images.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c4eaff5dbea83e19c9aecd688e42cdbfc3fe4cbe/399_462_3349_4183/master/3349.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2406,7 +2338,7 @@
             "byline": "Guardian community team"
           },
           "kicker": "Technology",
-          "trail": "We'd like to hear from small businesses affected by the flaw, including whether you had to take your website offline, and how you patched it.",
+          "trail": "We'd like to hear from small businesses affected by the flaw, including whether you had to take your website offline, and whether you managed to patch it.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/2c3e29e1cd8a03e1515dd20f876feb13011f7d59/436_0_3000_2400/master/3000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2460,7 +2392,7 @@
         {
           "path": "/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
           "linked": false,
-          "headline": "The moment I knew: I confessed my crush. She said, 'Well, that's good, isn't it?'",
+          "headline": "The moment I knew: I confessed my crush. She said, 'Well, that's good. Isn't it?'",
           "original": {
             "headline": "The moment I knew: I admitted I had a crush on her. She replied, ‘Well, that’s good. Isn’t it?’",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/the-moment-i-knew-i-admitted-i-had-a-crush-on-her-she-replied-well-thats-good-isnt-it",
@@ -2478,7 +2410,7 @@
         {
           "path": "/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
           "linked": true,
-          "headline": "Healey's budget to deliver big devolution boost for England's regions",
+          "headline": "England's councils to get direct share of income tax from 2028",
           "original": {
             "headline": "Healey’s first budget to include big devolution package to boost growth",
             "url": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
@@ -2488,7 +2420,7 @@
           },
           "kicker": "UK news",
           "trail": "The chancellor will build on Burnham's promise that local leaders will no longer have to 'come cap in hand to Westminster'.",
-          "progress": "Healey is granting mayors a new £1.5bn borrowing facility, plus £285m in 'good growth' funding next year.",
+          "progress": "Healey is also handing councils £150m to help them build the capacity to manage bigger budgets.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/e03ed8d84ed59441e60d064212c6feaaa5140e1f/702_0_7023_5618/1000.jpg",
@@ -2572,8 +2504,8 @@
         "name": "UK news"
       },
       "publishedAt": "2026-10-24T21:30:43Z",
-      "headline": "Healey's budget to deliver big devolution boost for England's regions",
-      "bodyHtml": "<p>John Healey is to unveil a big devolution package in next week's budget, giving England's regional mayors a new £1.5bn borrowing facility that will be drawn up in collaboration with them over the next two years.</p> <p>Andy Burnham has promised that, as a result, local leaders will no longer have to come \"cap in hand to Westminster\" ahead of the fresh drive to devolve spending power.</p> <p>Regional mayors have long complained that they are constrained by their limited borrowing power, in contrast to local authorities in the US and some European countries, which commonly issue their own bonds.</p> <p>The borrowing plan will form part of the devolution package aimed at boosting regional economic growth. This will also include the allocation of an initial £285m \"good growth\" funding next year, to be spent on local leaders' priorities, which could include housing, transport links or high street regeneration.</p>   <p>Healey will also announce £150m of support to help local authorities scale up and build expertise, amid fears in the Treasury about whether some have the capacity to administer increasingly large budgets.</p> <p>Hailing the plans, Burnham said they would mean local leaders would no longer need to come to the Treasury for approval for each individual project. \"I'm calling time on local leaders going cap in hand to Westminster. That is no way to run a country. When I became prime minister, I said that if a decision can be made closer to home, it should be.</p> <p>\"Today we're putting that into practice, shifting power out of Westminster and into the hands of the people who know their communities best.\"</p> <p>The £285m in \"good growth\" funding is intended to tide local authorities over until a new system comes into force in 2028, whereby some income tax revenue will be handed directly to their areas to give them longer-term security, an idea <a href=\"https://www.theguardian.com/business/2026/mar/17/rachel-reeves-plans-regional-national-tax-revenues-mais-lecture\" rel=\"noopener\">first mooted by Healey's predecessor, Rachel Reeves</a>, earlier this year.</p>    <p>More details of how this will work will be announced at the budget. Local leaders are expected to be allowed to keep some of the additional revenues created by a stronger local economy, giving them an incentive to back pro-growth policies.</p> <p>Healey said: \"Mayors and local leaders know what their communities need to grow, which is why we are giving them more money, more power and more capacity to get projects moving, build homes and make the right decisions for their areas.\"</p> <p>Tax and spending in the UK is more centralised than in many other leading economies, and Burnham experienced the constraints first-hand as mayor of Greater Manchester.</p> <p>The package has been drawn up in collaboration with No 10 North, which has been holding a weekly \"situation room\" meeting with local leaders, to ask them about the barriers to promoting economic growth.</p> <p>This resulted in an announcement this week that the Treasury has changed <a href=\"https://www.gov.uk/government/collections/the-green-book-and-accompanying-guidance\" rel=\"noopener\">the \"green book\"</a>, which gives guidance on which projects taxpayers should fund. Under the new rules, projects that can be combined to boost growth, a housing and a transport scheme, for example, can be considered together.</p> <p>A government <a href=\"https://www.gov.uk/government/publications/rewiring-the-state-cabinet-statement/rewiring-the-state-cabinet-statement-html\" rel=\"noopener\">white paper on \"rewiring the state</a>\", due to be published after the budget, will set out more details of how the civil service will be reshaped, as more powers are passed down from Whitehall.</p>    <p>Alongside the devolution plans, Healey's first budget is <a href=\"https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills\" rel=\"noopener\">expected to include support for poorer households</a> hit by rising energy costs, and modest tax rises, including on banks. The chancellor has repeatedly said he wants to offer a \"breathing space\" to households and businesses that have struggled as the war in the Middle East has driven up bills.</p> <p>These higher costs have also pushed up the interest rates on government borrowing, making it harder for Healey to balance the books.</p> <p>He will set out how he plans to fully fund the four-year defence investment plan announced in the dying days of Keir Starmer's premiership.</p> <p>However, Healey is not expected to say when the UK will commit to spending 3% of GDP on defence, an issue that was central to his resignation from Starmer's cabinet. This is likely to be delayed until a spending review due at some point next year.</p>",
+      "headline": "England's councils to get direct share of income tax from 2028",
+      "bodyHtml": "<p>Local areas in England are to get a direct share of income tax revenue from 2028, under a big devolution package John Healey will unveil in next week's budget alongside a new £1.5bn borrowing facility for regional mayors and £150m to help councils build capacity.</p> <p>Andy Burnham has promised that, as a result, local leaders will no longer have to come \"cap in hand to Westminster\" ahead of the fresh drive to devolve spending power.</p> <p>Regional mayors have long complained that they are constrained by their limited borrowing power, in contrast to local authorities in the US and some European countries, which commonly issue their own bonds.</p> <p>The borrowing plan will form part of the devolution package aimed at boosting regional economic growth. This will also include the allocation of an initial £285m \"good growth\" funding next year, to be spent on local leaders' priorities, which could include housing, transport links or high street regeneration.</p>   <p>Healey will also announce £150m of support to help local authorities scale up and build expertise, amid fears in the Treasury about whether some have the capacity to administer increasingly large budgets.</p> <p>Hailing the plans, Burnham said they would mean local leaders would no longer need to come to the Treasury for approval for each individual project. \"I'm calling time on local leaders going cap in hand to Westminster. That is no way to run a country. When I became prime minister, I said that if a decision can be made closer to home, it should be.</p> <p>\"Today we're putting that into practice, shifting power out of Westminster and into the hands of the people who know their communities best.\"</p> <p>The £285m in \"good growth\" funding is intended to tide local authorities over until a new system comes into force in 2028, whereby some income tax revenue will be handed directly to their areas to give them longer-term security, an idea <a href=\"https://www.theguardian.com/business/2026/mar/17/rachel-reeves-plans-regional-national-tax-revenues-mais-lecture\" rel=\"noopener\">first mooted by Healey's predecessor, Rachel Reeves</a>, earlier this year.</p>    <p>More details of how this will work will be announced at the budget. Local leaders are expected to be allowed to keep some of the additional revenues created by a stronger local economy, giving them an incentive to back pro-growth policies.</p> <p>Healey said: \"Mayors and local leaders know what their communities need to grow, which is why we are giving them more money, more power and more capacity to get projects moving, build homes and make the right decisions for their areas.\"</p> <p>Tax and spending in the UK is more centralised than in many other leading economies, and Burnham experienced the constraints first-hand as mayor of Greater Manchester.</p> <p>The package has been drawn up in collaboration with No 10 North, which has been holding a weekly \"situation room\" meeting with local leaders, to ask them about the barriers to promoting economic growth.</p> <p>This resulted in an announcement this week that the Treasury has called <a href=\"https://www.gov.uk/government/collections/the-green-book-and-accompanying-guidance\" rel=\"noopener\">the \"green book\"</a>, which gives guidance on which projects taxpayers should fund. Under the new rules, projects that can be combined to boost growth, a housing and a transport scheme, for example, can be considered together.</p> <p>A government <a href=\"https://www.gov.uk/government/publications/rewiring-the-state-cabinet-statement/rewiring-the-state-cabinet-statement-html\" rel=\"noopener\">white paper on \"rewiring the state</a>\", due to be published after the budget, will set out more details of how the civil service will be reshaped, as more powers are passed down from Whitehall.</p>    <p>Alongside the devolution plans, Healey's first budget is <a href=\"https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills\" rel=\"noopener\">expected to include support for poorer households</a> hit by rising energy costs, and modest tax rises, including on banks. The chancellor has repeatedly said he wants to offer a \"breathing space\" to households and businesses that have struggled as the war in the Middle East has driven up bills.</p> <p>These higher costs have also pushed up the interest rates on government borrowing, making it harder for Healey to balance the books.</p> <p>He will set out how he plans to fully fund the four-year defence investment plan announced in the dying days of Keir Starmer's premiership.</p> <p>However, Healey is not expected to say when the UK will commit to spending 3% of GDP on defence, an issue that was central to his resignation from Starmer's cabinet. This is likely to be delayed until a spending review due at some point next year.</p>",
       "related": [
         {
           "path": "/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
@@ -2586,7 +2518,7 @@
             "byline": "Phillip Inman Senior economics writer and Graeme Wearden"
           },
           "kicker": "Business",
-          "trail": "The ONS data presents a mixed picture ahead of the budget, amid a slump in job vacancies and warnings the labour market is 'running on idle'.",
+          "trail": "The ONS data presents a mixed picture ahead of the budget, amid a slump in job vacancies and analysts warning the labour market is 'running on idle'.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/620a3507183ab101881df40acb747d5e30fe4448/451_0_4774_3819/1000.jpg",
@@ -2622,7 +2554,7 @@
         {
           "path": "/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
           "linked": false,
-          "headline": "Healey urged to be bold on borrowing in first test of growth pledge",
+          "headline": "Flexible fiscal rules give Healey room to be bold on borrowing",
           "original": {
             "headline": "Healey urged to be bold on borrowing in first test of Burnham’s growth pledge",
             "url": "https://www.theguardian.com/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
@@ -2630,7 +2562,7 @@
             "byline": "Heather Stewart"
           },
           "kicker": "Business",
-          "trail": "Some want the chancellor to exploit newly flexible fiscal rules; others want a more creative approach, such as borrowing from markets.",
+          "trail": "Healey is being urged to use newly flexible fiscal rules, or a more creative approach such as borrowing from markets, in the first test of Burnham's growth pledge.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/d07953811b0d96591331e2edf97183a78f3cba84/123_0_4886_3909/1000.jpg",
@@ -2672,8 +2604,8 @@
         "standfirst": "<p>Chancellor will build on Burnham’s promise that local leaders in England will no longer have to ‘come cap in hand to Westminster’</p>",
         "byline": "Heather Stewart"
       },
-      "standfirst": "The chancellor will build on Burnham's pledge that local leaders will no longer have to 'come cap in hand to Westminster', with new borrowing powers and growth funding in next week's budget.",
-      "progress": "Healey is granting mayors a new £1.5bn borrowing facility, plus £285m in 'good growth' funding next year.",
+      "standfirst": "Chancellor John Healey will give mayors a £1.5bn borrowing facility and £150m capacity fund, working towards a direct income-tax share for local areas from 2028, Burnham's answer to councils coming 'cap in hand to Westminster'.",
+      "progress": "Healey is also handing councils £150m to help them build the capacity to manage bigger budgets.",
       "upside": 2,
       "byline": "Steather Hewart",
       "mainImage": {
@@ -2726,7 +2658,7 @@
         "standfirst": "<p>Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders</p>",
         "byline": "Oliver Holmes in Bangkok"
       },
-      "standfirst": "Kim Aris tells the Guardian his mother sounded well after their first call in more than five years, though he says the chance to speak with the detained Nobel laureate was a 'public relations' move from military leaders.",
+      "standfirst": "Kim Aris tells the Guardian his mother sounded well, but remains isolated, likely in solitary confinement, and that the rare call was a military 'public relations' move.",
       "progress": "She was visited by the Red Cross in August after years of campaigning, and many governments continue to call for her release.",
       "upside": 1,
       "context": {
@@ -2751,7 +2683,7 @@
         "name": "UK news"
       },
       "publishedAt": "2026-10-24T13:52:58Z",
-      "headline": "Met says it shared Thomas Markle Sr allegations with Meghan in 2019",
+      "headline": "Met considers watchdog referral over its handling of 2019 Markle letter",
       "bodyHtml": "<p>The Metropolitan police have confirmed they gave a letter to the Duchess of Sussex in 2019 concerning \"alleged offending\" involving her father, after accusations arose on Friday about Thomas Markle Sr having child sexual abuse images.</p> <p>Scotland Yard said it had received a letter in January 2019 making a number of allegations about offending outside Britain, and had passed the information on to the Duke and Duchess of Sussex's office, though it did not pass it on to \"other law enforcement agencies\".</p> <p>The Met said it was considering whether to refer itself to the Independent Office for Police Conduct (IOPC) to review its actions.</p> <p>In a statement, a Metropolitan police spokesperson said: \"Following a thorough review of Met police systems and records, we have confirmed that in January 2019, we received a letter containing a number of claims about alleged offending outside the United Kingdom. It was sent to the MPS (Metropolitan Police Service) Protection Command to raise concerns in relation to the security of the Duchess of Sussex.</p> <p>\"The letter was reviewed and a decision was made that it should be passed to the office of the Duke and Duchess of Sussex for their awareness. The details of the allegations in the letter were not shared with other law enforcement agencies.</p> <p>\"The MPS is reviewing the handling of this matter in 2019 and considering whether a referral to the IOPC is necessary to review our approach.\"</p> <p>The Sun newspaper <a href=\"https://www.thesun.co.uk/news/40779535/thomas-markle-investigated-probe-stash-child-sex-images/\" rel=\"noopener\">published claims that</a> Meghan's half-brother, Thomas Markle Jr, claimed he had found a stash of images belonging to their father at his former home in the Philippines.</p> <p>On Friday, Meghan said she had been made aware of these allegations by the Met, and that she was \"deeply distressed\" by them.</p> <p>The duchess, who is estranged from her father, said in a statement she had broken off contact to protect her children, Prince Archie, seven, and Princess Lilibet, five. He has never met them.</p> <p>Meghan and Prince Harry recently moved back to the UK from the US.</p> <p>Meghan's father has denied the allegations and told the Daily Mail the accusations were \"sick lies\".</p> <p>In a statement on Friday, issued through her spokesperson, the duchess said: \"I am deeply distressed at the news that has come to light in the last 24 hours, and my thoughts are with any children who may have been harmed.</p> <p>\"In 2018, a letter was sent to the Metropolitan police and Royalty and Specialist Protection [Rasp]. That letter was subsequently shared with me. It made troubling and disturbing allegations against my father and I was given assurances that these were being investigated.</p> <p>\"I hope it can now be understood that, despite certain media publications' distortion over the years, any distance from my father, and my choice to not allow him to have contact with our children, was for one reason: to protect them. I trusted that the authorities were doing the same for other families.</p> <p>\"Although the breadth of what has now been uncovered is more sickening than one could ever imagine, my sincerest hope is that justice will be fully served and that the priority remains the safety and protection of innocent children.\"</p> <p>She later said she had misremembered the year the Met had contacted her, and confirmed it had been 2019, not 2018 as she said on Friday.</p> <p>A spokesperson for the Duchess of Sussex said: \"In recalling events from more than seven years ago, without the benefit of a diary entry or contemporaneous record, it is understandable that she may have been mistaken by a few months.</p> <p>\"If the MPS holds a time-stamped record confirming that the letter was reviewed in 2019, that should be treated as the accurate reference point for when it was received and shared with the duchess.</p> <p>\"I think it is reasonable to recognise that she is doing her best to recall the precise timing of events that were not diarised at the time, and that any discrepancy of a few months is an understandable consequence of that passage of time.\"</p> <p>Sources said that although Meghan was made aware of the allegations in 2019, she had been unable to speak publicly to avoid jeopardising any future investigation and because speaking out could have resulted in legal action against her.</p> <p>The Sun reported that Markle Jr told detectives in the Philippines he had discovered \"hundreds, if not thousands\" of child sexual abuse images on computers and mobile phones stored in four large boxes at the home in Cebu where Markle Sr was living until he returned to the US in May after having a stroke.</p> <p>Markle Jr, 60, said he had also contacted the FBI in the US, the Sun reported.</p>",
       "related": [
         {
@@ -2779,7 +2711,7 @@
         {
           "path": "/uk-news/2025/jan/01/stephen-lawrences-father-says-he-can-accept-sons-killers-release-if-he-shows-remorse",
           "linked": false,
-          "headline": "Stephen Lawrence's father could accept killer's release, if he shows remorse",
+          "headline": "Neville Lawrence open to forgiving son's killer, if remorse is shown",
           "original": {
             "headline": "Stephen Lawrence’s father says he can accept release of son’s killer if he shows remorse",
             "url": "https://www.theguardian.com/uk-news/2025/jan/01/stephen-lawrences-father-says-he-can-accept-sons-killers-release-if-he-shows-remorse",
@@ -2787,7 +2719,7 @@
             "byline": "Ben Quinn"
           },
           "kicker": "UK news",
-          "trail": "Neville Lawrence says he is not satisfied with David Norris getting parole, but could accept it if he has changed.",
+          "trail": "Lawrence says he is not satisfied with David Norris being granted parole, but could accept it if Norris has truly changed.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/b259709b26151afe9d1fb5f12c530ae79633c814/0_16_4606_2766/1000.jpg",
@@ -2809,7 +2741,7 @@
             "byline": "Libby Brooks"
           },
           "kicker": "World news",
-          "trail": "The women most vulnerable to violence are often the least likely to be heard; the murder of two sex workers shows why that must change.",
+          "trail": "The women most at risk of violence are often the least likely to be heard; the murder of two sex workers shows why that must change.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/f81fa0407313339625d13bb0e9e3c4c5cfcf9b3f/317_0_2500_2000/1000.jpg",
@@ -2929,7 +2861,7 @@
             "byline": "Jennifer Rankin in Brussels and Lisa O’Carroll in London"
           },
           "kicker": "Politics",
-          "trail": "But he is likely to face the same restrictions as Starmer, officials say.",
+          "trail": "But he is likely to face the same restrictions as Starmer.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/dd830158bdfe64b09169c8f903f211c73710e7a4/411_0_4000_3200/1000.jpg",
@@ -3081,7 +3013,7 @@
         {
           "path": "/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
           "linked": false,
-          "headline": "Macron sets out next steps to calm unrest in France",
+          "headline": "Macron bans 'illegitimate' protests as unrest continues in France",
           "original": {
             "headline": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
             "url": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
@@ -3089,7 +3021,7 @@
             "byline": "Jon Henley in Paris"
           },
           "kicker": "World news",
-          "trail": "He has banned 'illegitimate' protests after the country's demonstrations descended into unrest, and says he will decide concrete next steps for future marches.",
+          "trail": "The French president says he will decide concrete 'next steps' for future demonstrations, after banning 'illegitimate' protests following unrest.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/bffbf03106afdcb926e4f851f1528cd15382f217/670_0_5000_4000/1000.jpg",
@@ -3121,7 +3053,7 @@
         {
           "path": "/world/2026/oct/23/france-police-demonstrations-civil-unrest",
           "linked": false,
-          "headline": "France deploys 70,000 police to prevent civil unrest",
+          "headline": "France mobilises 70,000 police to keep Saturday's protests safe",
           "original": {
             "headline": "France to deploy 70,000 police on Saturday to prevent civil unrest",
             "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
@@ -3172,7 +3104,7 @@
         "byline": "Angelique Chrisafis in Paris "
       },
       "standfirst": "Almost 1,000 people were arrested as police used teargas, water cannon and batons at the fringes of what was, for most marchers, a lighthearted, family demonstration demanding better schools and policing.",
-      "progress": "Police are investigating after children and protesters were injured by police weaponry during earlier school protests.",
+      "progress": "Police are investigating after children and protesters were maimed and injured by explosive police weaponry during earlier school protests.",
       "upside": 1,
       "byline": "Malcolm Ridley in Paris ",
       "mainImage": {
@@ -3223,7 +3155,7 @@
             "byline": "Nazia Parveen Community affairs correspondent"
           },
           "kicker": "UK news",
-          "trail": "Campaigners say the term, used in official guidance, carries racial bias and has been used to justify lethal use of force by police.",
+          "trail": "Public health bodies and families say the term, used in official guidance, carries racial bias and has been used to justify lethal use of force by police.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/7938c5ce57de7fc7c0c22f13a6a9f9b9c700182a/0_53_5310_3186/1000.jpg",
@@ -3237,7 +3169,7 @@
         {
           "path": "/uk-news/2026/jul/28/40-years-suzy-lamplugh-vanished-police-hope-find-her",
           "linked": false,
-          "headline": "Met renews appeal, 40 years after Suzy Lamplugh vanished",
+          "headline": "Met issues final appeal, 40 years after Suzy Lamplugh vanished",
           "original": {
             "headline": "‘We’re not going to give up’: 40 years since Suzy Lamplugh vanished, police still hope to find her",
             "url": "https://www.theguardian.com/uk-news/2026/jul/28/40-years-suzy-lamplugh-vanished-police-hope-find-her",
@@ -3259,7 +3191,7 @@
         {
           "path": "/environment/2019/jul/19/extinction-rebellion-protesters-block-site-of-london-super-sewer-bermondsey",
           "linked": false,
-          "headline": "Police restrict Extinction Rebellion boats to limit disruption",
+          "headline": "Met police impose a ban on Extinction Rebellion's boats to curb disruption",
           "original": {
             "headline": "Extinction Rebellion boats banned from London protests",
             "url": "https://www.theguardian.com/environment/2019/jul/19/extinction-rebellion-protesters-block-site-of-london-super-sewer-bermondsey",
@@ -3267,7 +3199,7 @@
             "byline": "Amy Walker"
           },
           "kicker": "Environment",
-          "trail": "The restriction on the final day of summer demonstrations is aimed at reducing disruption from Extinction Rebellion's London protests.",
+          "trail": "The ban, imposed on the final day of summer demonstrations, is aimed at reducing disruption from Extinction Rebellion's London protests.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/91098b028a1111c25a1a34f815412fa9a2a70d8a/0_152_3242_1946/1000.jpg",
@@ -3351,7 +3283,7 @@
         "name": "World news"
       },
       "publishedAt": "2026-10-24T21:10:23Z",
-      "headline": "More than a million rally for Lula on eve of Brazil's runoff",
+      "headline": "Rio's Copacabana fills with a million Lula supporters before Brazil's runoff",
       "bodyHtml": "<p>More than one million supporters of Brazil's leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio's most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, <a href=\"https://www.theguardian.com/world/fl-vio-bolsonaro\" rel=\"noopener\">Flávio Bolsonaro</a>.</p> <p>Nearly 159m Brazilians will vote in the election's runoff on Sunday, with the pair tied in the polls after Bolsonaro <a href=\"https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory\" rel=\"noopener\">won the first round on 4 October</a> by 47% to 45%.</p> <p>On Saturday, under a fierce sun, red-clad crowds packed the 2.5-mile Copacabana beach in an attempt to <a href=\"https://www.theguardian.com/world/2026/oct/24/lula-brazil-runoff-flavio-bolsonaro\" rel=\"noopener\">help Lula clinch a dramatic and unprecedented comeback</a>. Never since the return of democracy to Brazil in the 1980s has the first-round loser managed to bounce back.</p> <p>Josias Silva, a 61-year-old truck driver, voiced confidence that his 80-year-old president, who was first elected in 2002, would win a fourth non-consecutive term. He carried a homemade sign to the carnival-like procession reading: \"Lula re-elected. Tomorrow will be a new day.\"</p>    <p>\"The people have woken up,\" Silva said of the large pro-Lula street protests that have swept Brazil since the leftist's first-round defeat, many led by students.</p> <p>\"Young people know we need this victory because otherwise we will have dictatorship again, and we don't want dictatorship. We don't want hatred. We don't want guns. We want a country of love,\" added Silva, celebrating the large number of people who came to witness one of the final presidential campaign rallies in Lula's storied 50-year political career.</p> <p>\"There's never been a demonstration like this one. This is the biggest protest in the history of Brazil. And we are going to win tomorrow with more than 60% of the votes,\" Silva claimed.</p> <p>Polls suggest a far tighter margin and most analysts see Bolsonaro, whose father, Jair Bolsonaro, was <a href=\"https://www.theguardian.com/world/ng-interactive/2022/oct/30/brazil-election-2022-live-results-lula-bolsonaro-runoff\" rel=\"noopener\">president from 2019 to 2022</a>, as the slight favourite, having sold himself to voters as someone who will tackle chronic levels of violent crime with an iron fist.</p> <p>However, in recent days Lula has appeared to regain the initiative and climb in the polls, amid a succession of scandals involving his rightwing foe. Last week the Brazilian magazine Piauí claimed that at the height of Brazil's 2020 coronavirus outbreak, Flávio Bolsonaro attended a boat party attended by sex workers and vaccine lobbyists hoping to strike a deal with the government of his father.</p>    <p>Some experts speculate a Lula comeback may be possible. At the Copacabana rally, <a href=\"https://x.com/OperacoesRio/status/2114042649644527925?s=20\" rel=\"noopener\">which Rio's City Hall said attracted about 1.1 million people</a>, activists unfurled an enormous yellow and green banner declaring: \"WE ARE GOING TO TURN THIS AROUND!\"</p> <p>On Saturday afternoon, Lula attended an even larger rally on Paulista Avenue, in the heart of Brazil's biggest city, São Paulo.</p> <p>\"I'm super excited. Lula's going to win,\" said Marta Moraes, a 59-year-old restaurateur, as she joined Saturday's demo in Rio.</p> <p>Moraes said the election was not about left versus right. \"We've nothing against the right … what we're against is Bolsonarismo,\" she said, tears filling her eyes as she recalled how Flávio Bolsonaro's father <a href=\"https://www.theguardian.com/world/2021/jan/24/brazil-covid-coronavirus-deaths-cases-amazonas-state\" rel=\"noopener\">botched the response to Covid</a> during his chaotic 2019-2022 administration.</p> <p>\"I lost four members of my family because of Bolsonaro's neglect,\" Moraes said.</p>    <p>Jair Bolsonaro is <a href=\"https://www.theguardian.com/world/2025/sep/11/brazil-supreme-court-bolsonaro-guilty-coup\" rel=\"noopener\">serving a 27-year prison sentence</a> for plotting a coup after he lost the 2022 election to Lula. Many Brazilian democrats fear he will be released, and could even return to government, if his son wins. Reports in the Brazilian press suggest several of Bolsonaro's fellow plotters, who are now in prison or hiding in exile, may be given top military and police jobs in a Bolsonaro administration.</p> <p>Cammy Marinho, a 49-year-old DJ and activist, said: \"I'm here to prevent democracy becoming extinct, which is what the Bolsonaro family wants\".</p> <p>Marinho said she had spent the past fortnight fighting to persuade people who voted for Bolsonaro, or did not vote in the first round, to back Lula.</p>   <p>\"It's non-stop work: in the bakery, in the supermarket, on the underground, whenever you feel there is an opening to talk to someone and show to them the reality, everything that Lula has done and is doing for the people and everything that this [Bolsonaro] family has done against the people,\" she said.</p> <p>Many marchers were part of the so-called \"Lula's Army\", a 10 million-member WhatsApp group that was created after the first round in the hope of turning the election around.</p> <p>\"Being a soldier in Lula's army … means fighting for Brazilian democracy. This isn't a normal election,\" said Isabella Gaze, 64, a retired teacher and one of the group's members.</p> <p>\"They constantly claim Lula is corrupt. But the truth is that they represent the most rotten and worst part of Brazilian politics. This is what we are fighting against now,\" Gaze said of the Bolsonaros.</p> <p>Many of the faces on Copacabana beach were teenagers, including 14-year-old Heitor Lopes da Silva. Silva had come from the city of Duque de Caxias in his wheelchair, with a placard that said: \"Lula, I'm a person with a disability and I'm here to support you.\"</p> <p>\"My whole life I've believed Lula was a good president. [Bolsonaro] represents the destruction of Brazil …. he represents sadness and death,\" he said of the Bolsonaro-era Covid catastrophe.</p>    <p>Large crowds of Bolsonaro supporters also hit the streets, including in Belo Horizonte, the capital of Minas Gerais state, which has Brazil's second-largest electorate after São Paulo, and is a key bellwether. No presidential candidate has ever won the presidency without securing Minas Gerais, where Bolsonaro led by just under 5% in the first round.</p> <p>Thousands of Bolsonaristas gathered to see their candidate in a palm-lined plaza called Praça da Liberdade. To the booming sound of AI-generated funk carioca tracks praising Bolsonaro, a sea of supporters dressed in Brazil's yellow football jersey waved Brazilian flags, and many of the United States too.</p> <p>\"The US is a great nation. Who wouldn't want to be aligned with them?\" said 56-year-old cosmetics entrepreneur Marcos Antonio, holding a flag that merged the emblems of both countries.</p> <p>\"I don't want an alliance with Cuba or Venezuela. I want to move forward,\" Antonio added. When reminded that Venezuela was currently aligned with the US after <a href=\"https://www.theguardian.com/world/2026/jan/03/explosions-reported-venezuela-caracas\" rel=\"noopener\">Donald Trump's January invasion</a>, he said: \"True. But for now, a fully right-wing government hasn't been installed yet. It's in transition.\"</p>    <p>Antonio Carlos Costa Jr, the 59-year-old owner of a shooting club, complained: \"Lula did nothing for the country.\"</p> <p>Jair Bolsonaro relaxed gun ownership and buying laws, which security experts agree ended up diverting many firearms to criminal gangs, whereas Lula tightened regulations once again. \"Jair Bolsonaro simply gave citizens the right to defend themselves, and his son will do the same,\" said Costa Jr.</p> <p>Lula supporters scoff at the idea that Bolsonaro, who has a history of well-documented ties with members of Rio's paramilitary \"militia\" groups, could rid Brazil of criminality.</p> <p>\"If we vote the militias into power, we will be living in a dictatorship,\" said Erika Cavalcante, 43, an architect who came to the march with a sign reading: \"Don't let the mobsters win.\"</p>",
       "related": [
         {
@@ -3434,7 +3366,7 @@
         {
           "path": "/world/2020/apr/20/jair-bolsonaro-dictatorship-rally-protest-brazil-president-denounced",
           "linked": false,
-          "headline": "Bolsonaro denounced for joining pro-dictatorship rally during pandemic",
+          "headline": "Bolsonaro criticised for flouting Covid rules again at pro-dictatorship rally",
           "original": {
             "headline": "Brazilian president Jair Bolsonaro denounced for joining pro-dictatorship rally",
             "url": "https://www.theguardian.com/world/2020/apr/20/jair-bolsonaro-dictatorship-rally-protest-brazil-president-denounced",
@@ -3442,7 +3374,7 @@
             "byline": "Tom Phillips in Rio de Janeiro"
           },
           "kicker": "World news",
-          "trail": "Critics called the far-right president's move 'deplorable', saying he flouted social distancing rules and coughed repeatedly while bolstering the protests amid the coronavirus pandemic.",
+          "trail": "Critics called the far-right president's move 'deplorable', saying he flouted social distancing rules again and coughed repeatedly while bolstering the protests amid the coronavirus pandemic.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/714b2cc154b2f33d7e6800bf034ae25feda75429/0_0_3523_2115/1000.jpg",

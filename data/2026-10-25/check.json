@@ -570,16 +570,6 @@
     }
   },
   {
-    "path": "/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
     "path": "/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
     "kind": "preview",
     "ok": true,
@@ -591,6 +581,16 @@
   },
   {
     "path": "/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
     "kind": "preview",
     "ok": true,
     "issues": [],
