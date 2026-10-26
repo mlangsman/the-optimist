@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T05:46:41.731Z",
+  "generatedAt": "2026-10-26T05:53:12.784Z",
   "engine": "claude-code",
   "front": [
     {
@@ -225,7 +225,7 @@
             "byline": "Amy Hawkins in Beijing"
           },
           "kicker": "World news",
-          "trail": "Years of purges before this week's party plenum have left analysts wondering whether Xi Jinping's campaign is really about corruption or about loyalty.",
+          "trail": "Years of purges before the party plenum have left analysts wondering whether Xi Jinping's campaign is really about corruption or about loyalty.",
           "progress": "China's disciplinary watchdog investigated more than a million people last year, including over 100 senior officials, and recently expelled its own former top general.",
           "upside": 1,
           "image": {
@@ -246,8 +246,8 @@
             "byline": "Jamie Jackson at Old Trafford"
           },
           "kicker": "Football",
-          "trail": "Michael Carrick's job as manager is in the balance after Manchester United's 3-0 defeat by Bournemouth, with Howe remaining the preferred candidate.",
-          "progress": "Harry Maguire, the squad's captain in Fernandes' absence, says the players are fully behind Carrick.",
+          "trail": "Eddie Howe remains the preferred candidate to succeed Michael Carrick, whose job is in the balance after Manchester United's 3-0 defeat by Bournemouth.",
+          "progress": "Maguire credited Carrick with turning the team's fortunes around last season to reach the Champions League.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/31b378cfef6e2c0561008cc9a10d401d87daa69f/314_75_2577_2062/master/2577.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1865,7 +1865,7 @@
             "byline": "Annalisa Barbieri"
           },
           "kicker": "Life and style",
-          "trail": "After giving her ex their house and half her savings, the reader feels resentful — but her feelings are understandable, and facing them may help her move on.",
+          "trail": "After giving an ex their house and half their savings, the reader feels resentful — but those feelings are understandable, and facing them may help them move on.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b26725319d3e4dc03ff9509367c9ef8cc66f9e35/1304_0_7808_6250/master/7808.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2466,8 +2466,8 @@
             "byline": "Jamie Jackson at Old Trafford"
           },
           "kicker": "Football",
-          "trail": "Michael Carrick's job as manager is in the balance after Manchester United's 3-0 defeat by Bournemouth, with Howe remaining the preferred candidate.",
-          "progress": "Harry Maguire, the squad's captain in Fernandes' absence, says the players are fully behind Carrick.",
+          "trail": "Eddie Howe remains the preferred candidate to succeed Michael Carrick, whose job is in the balance after Manchester United's 3-0 defeat by Bournemouth.",
+          "progress": "Maguire credited Carrick with turning the team's fortunes around last season to reach the Champions League.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/31b378cfef6e2c0561008cc9a10d401d87daa69f/314_75_2577_2062/1000.jpg",
@@ -3214,7 +3214,7 @@
             "byline": "Josh Halliday North of England correspondent"
           },
           "kicker": "Society",
-          "trail": "The Greater Manchester mayor says officials across the public sector, including the NHS, believe the rollout should be stopped, as rough sleeping could otherwise double.",
+          "trail": "The Greater Manchester mayor says officials across the public sector, including the NHS, believe the rollout should be stopped; Burnham says rough sleeping will otherwise double.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/a29ddda8a55ca418a56bd393740118f6a8f75f94/0_161_5312_3187/1000.jpg",
@@ -3606,7 +3606,7 @@
         {
           "path": "/football/2026/sep/10/bromley-stabbing-reports-south-east-london",
           "linked": false,
-          "headline": "Seven arrested after stabbing leaves four in hospital in Bromley",
+          "headline": "Police make seven arrests over Thursday's Bromley High Street incident",
           "original": {
             "headline": "Four people in hospital after stabbing in south-east London",
             "url": "https://www.theguardian.com/football/2026/sep/10/bromley-stabbing-reports-south-east-london",
@@ -3775,8 +3775,8 @@
         "standfirst": "<ul><li><p>Job in balance after 3-0 home defeat by Bournemouth</p></li><li><p>Howe is director of football Jason Wilcox’s top candidate</p></li></ul>",
         "byline": "Jamie Jackson at Old Trafford"
       },
-      "standfirst": "Job in balance after 3-0 home defeat by Bournemouth, with the club’s hierarchy expecting to sack him",
-      "progress": "Harry Maguire, the squad's captain in Fernandes' absence, says the players are fully behind Carrick.",
+      "standfirst": "Maguire says the squad are fully behind Carrick after Sunday’s crisis talks",
+      "progress": "Maguire credited Carrick with turning the team's fortunes around last season to reach the Champions League.",
       "upside": 1,
       "byline": "Ursula Fernsby at Old Trafford",
       "mainImage": {

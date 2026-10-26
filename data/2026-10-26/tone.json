@@ -7,6 +7,13 @@
     "issue": "standfirst leans on \"collapse\": \"Record turnout of 67.6% carried the Student List – born from protests over the Novi Sad roof collapse that killed 16 people – to a commanding win over Vučić’s SNS after 12 years in power.\""
   },
   {
+    "path": "/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"crisis\": \"Maguire says the squad are fully behind Carrick after Sunday’s crisis talksJob still in balance after 3-0 home defeat by Bournemouth, with Howe remaining director of football Jason Wilcox’s preferred candidate\""
+  },
+  {
     "path": "/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
     "kind": "preview",
     "field": "headline",

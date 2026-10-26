@@ -34,7 +34,7 @@
  },
  "/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum": {
   "headline": "Analysts question whether Xi's purges are about corruption or loyalty",
-  "trail": "Years of purges before this week's party plenum have left analysts wondering whether Xi Jinping's campaign is really about corruption or about loyalty.",
+  "trail": "Years of purges before the party plenum have left analysts wondering whether Xi Jinping's campaign is really about corruption or about loyalty.",
   "upside": 1
  },
  "/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block": {
@@ -43,8 +43,8 @@
   "upside": 0
  },
  "/football/2026/oct/25/manchester-united-board-crisis-talks-michael-carrick-eddie-howe-bournemouth-premier-league": {
-  "headline": "Eddie Howe remains Manchester United's leading candidate for the job",
-  "trail": "Michael Carrick's job as manager is in the balance after Manchester United's 3-0 defeat by Bournemouth, with Howe remaining the preferred candidate.",
+  "headline": "Eddie Howe remains the preferred candidate to replace Carrick",
+  "trail": "Eddie Howe remains the preferred candidate to succeed Michael Carrick, whose job is in the balance after Manchester United's 3-0 defeat by Bournemouth.",
   "upside": 1
  },
  "/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast": {
@@ -467,7 +467,7 @@
  },
  "/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful": {
   "headline": "Exploring your feelings of resentment can help you move on",
-  "trail": "After giving her ex their house and half her savings, the reader feels resentful — but her feelings are understandable, and facing them may help her move on.",
+  "trail": "After giving an ex their house and half their savings, the reader feels resentful — but those feelings are understandable, and facing them may help them move on.",
   "upside": 2
  },
  "/lifeandstyle/2026/oct/24/blind-date-pardis-alexandrea": {
@@ -743,14 +743,12 @@
  },
  "/society/2017/oct/06/halt-universal-credit-rough-sleepers-double-andy-burnham": {
   "headline": "Burnham urges halt to universal credit rollout",
-  "trail": "The Greater Manchester mayor says officials across the public sector, including the NHS, believe the rollout should be stopped, as rough sleeping could otherwise double.",
-  "progress": "Burnham and public-sector officials are calling for the rollout to be halted.",
+  "trail": "The Greater Manchester mayor says officials across the public sector, including the NHS, believe the rollout should be stopped; Burnham says rough sleeping will otherwise double.",
   "upside": 1
  },
  "/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners": {
   "headline": "Charity urges focus on ex-prisoner housing to meet rough-sleeping pledge",
   "trail": "A charity says securing housing for people released from prison is key to Burnham meeting his rough-sleeping pledge, which early prisoner releases mean may otherwise fail.",
-  "progress": "A charity is calling on the government to focus on housing for ex-prisoners to help meet the pledge.",
   "upside": 1
  },
  "/world/2025/sep/18/france-strikes-day-sebastien-lecornu-emmanuel-macron-politics": {
@@ -835,7 +833,7 @@
   "upside": 2
  },
  "/football/2026/sep/10/bromley-stabbing-reports-south-east-london": {
-  "headline": "Seven arrested after stabbing leaves four in hospital in Bromley",
+  "headline": "Police make seven arrests over Thursday's Bromley High Street incident",
   "trail": "Four people were taken to hospital after a stabbing on Bromley High Street on Thursday afternoon; police made seven arrests following the incident, which an initial statement described as an 'altercation'.",
   "upside": 1
  },
