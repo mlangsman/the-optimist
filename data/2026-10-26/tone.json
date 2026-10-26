@@ -1,0 +1,198 @@
+[
+  {
+    "path": "/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"collapse\": \"Record turnout of 67.6% carried the Student List – born from protests over the Novi Sad roof collapse that killed 16 people – to a commanding win over Vučić’s SNS after 12 years in power.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Four-year-old girl dies after fall from east London tower block\""
+  },
+  {
+    "path": "/music/2026/oct/25/jack-antonoff-bleachers-interview-producer-kendrick-springsteen-taylor-swift",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I'd rather live through something publicly than escape it privately': Jack Antonoff on survivor's guilt and still singing love songs after his breakup\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/25/this-is-how-we-do-it-fertility-high-sex-drive",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'Our fertility doctor told us we were having too much sex'\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"Steve Bloomfield writes that fears about the end of the west could crystallise at a proposed summit between Trump, Putin and Xi.\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"The Guardian view on Oxford Street: cities should be designed around people, not cars\""
+  },
+  {
+    "path": "/football/2026/oct/25/manchester-united-michael-carrick-bruno-fernandes-jim-ratcliffe-institutional-failures",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"doomed\": \"Leaving out the captain was doomed to fail, and so, fans at Old Trafford know all too well, is the club under its current leadership.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"A children's commissioner's report ranked the Teesside town worst, but residents say such rankings are demoralising and counterproductive.\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/25/tv-tonight-a-horny-drama-stuffed-with-sex-in-a-car-toilet-and-city-farm",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"TV tonight: a steamy drama with sex in a car, toilet and city farm\""
+  },
+  {
+    "path": "/music/2026/oct/23/with-albums-under-threat-rayes-mercury-win-is-a-triumph-for-grand-statements",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"With the album format itself under threat, her winning record has its longueurs, but its boldness is heartening, and the Mercury prize needs big statements like this to stay relevant.\""
+  },
+  {
+    "path": "/stage/2026/oct/23/the-snowman-reboot-raging-bull-hot-santa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Snowman gets a hi-tech rebuild, with help from Raging Bull and a 'Hot Santa'\""
+  },
+  {
+    "path": "/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Zadie Smith tells Dua Lipa inequality has made culture clashes feel 'existential'\""
+  },
+  {
+    "path": "/food/2026/oct/25/how-to-make-mushroom-stroganoff-recipe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to make mushroom stroganoff – recipe\""
+  },
+  {
+    "path": "/food/2026/oct/25/outlier-glasgow-g1-grace-dent-restaurant-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Outlier, Glasgow G1: ‘this kind of carefully orchestrated can’t-be-arsedness is really quite magical’ – restaurant review\""
+  },
+  {
+    "path": "/food/2026/oct/24/vegetarian-brown-butter-pumpkin-soup-recipe-jackson-boxer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jackson Boxer’s vegetarian recipe for brown butter pumpkin soup\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/24/blind-date-pardis-alexandrea",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Blind date: ‘We overstayed our welcome – the waiters were shaking the cutlery drawer really loudly’\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/24/tim-dowling-why-buy-electric-car-medal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tim Dowling: why did I buy an electric car? Because I wanted a medal\""
+  },
+  {
+    "path": "/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cookie theft: how fraudsters get the digital key to your accounts\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Is it true that you need 10,000 steps a day to be healthy?\""
+  },
+  {
+    "path": "/world/2025/jan/30/we-are-done-with-corruption-how-the-students-of-serbia-rose-up-against-the-system",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We are done with corruption': how the students of Serbia rose up against the system\""
+  },
+  {
+    "path": "/world/2025/jan/28/serbia-prime-minister-milos-vucevic-resigns-amid-anti-corruption-protests",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"Miloš Vučević stepped down 'in order to defuse tensions' as the anti-corruption protests continue, following the deadly station roof collapse.\""
+  },
+  {
+    "path": "/world/2025/sep/18/france-strikes-day-sebastien-lecornu-emmanuel-macron-politics",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"About 800,000 people are demonstrating against the government's budget plans, piling pressure on the new prime minister amid a political crisis.\""
+  },
+  {
+    "path": "/uk/2010/sep/14/girl-dies-fall-tower-block",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Girl dies in fall from tower block window\""
+  },
+  {
+    "path": "/uk-news/2021/dec/12/girl-11-dies-after-pest-control-chemicals-found-in-east-london-flats",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Girl, 11, dies after pest control chemicals found at east London flats\""
+  },
+  {
+    "path": "/uk-news/2022/aug/08/terraced-house-collapses-in-croydon-after-explosion",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blast\": \"Three people were left with potentially life-threatening injuries, and a child died, after the blast in Thornton Heath.\""
+  },
+  {
+    "path": "/uk-news/2025/jan/07/boy-14-dies-after-being-stabbed-on-bus-in-woolwich--south-east-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Boy, 14, dies after being stabbed on bus in south-east London\""
+  },
+  {
+    "path": "/football/2026/jan/26/michael-carrick-interim-manager-manchester-united-arsenal-win-tactics",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Carrick’s cult of common sense gets Manchester United believing again\""
+  },
+  {
+    "path": "/football/2026/feb/11/benjamin-sesko-michael-carrick-west-ham-manchester-united-premier-league",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Sesko's nonchalant late strike is show of resilience that boosts Carrick's cause\""
+  }
+]
