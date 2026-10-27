@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T05:11:13.499Z",
+  "generatedAt": "2026-10-27T05:43:34.315Z",
   "engine": "claude-code",
   "front": [
     {
@@ -10,7 +10,7 @@
         {
           "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
           "linked": false,
-          "headline": "John Crace digests Liz Truss's comeback memoir, Bank Job",
+          "headline": "John Crace spares you the 100 pages of Liz Truss's new book, Bank Job",
           "original": {
             "headline": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
             "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
@@ -18,7 +18,7 @@
             "byline": "John Crace"
           },
           "kicker": "Books",
-          "trail": "She's back with another book, and it reads a lot like the last one. Our sketchwriter spares you the 100 pages.",
+          "trail": "She's back with another book, and it reads a lot like the last one, our sketchwriter says.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/274cd0816eebcf2bdcdf76ef99f8cc922806b3dc/1718_328_3744_2995/master/3744.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -29,7 +29,7 @@
         {
           "path": "/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
           "linked": false,
-          "headline": "Lula's win shows the far right can be beaten – but progressives can't rest",
+          "headline": "Lula's win against the far right shows progressives must learn its lessons fast",
           "original": {
             "headline": "Lula miraculously beat the Brazilian far right and Donald Trump. But have no doubt: the region is still in peril ",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
@@ -37,7 +37,7 @@
             "byline": "Jordana Timerman"
           },
           "kicker": "Opinion",
-          "trail": "After Lula's miraculous comeback against the Brazilian far right and Donald Trump, commentator Jordana Timerman says the lesson is clear: the rightward shift is not inevitable, but it is not yet reversed either.",
+          "trail": "After the celebrations, commentator Jordana Timerman says the rightward shift is neither inevitable nor irreversible, but progressives cannot afford to rest.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2024/01/15/Jordana_Timerman.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -48,7 +48,7 @@
         {
           "path": "/stage/2026/oct/26/michael-gambon-pranks-revealed-biography",
           "linked": false,
-          "headline": "Michael Gambon's on-set pranks live on in co-stars' favourite stories",
+          "headline": "Co-stars reveal how Michael Gambon's pranks left them in stitches",
           "original": {
             "headline": "‘I laughed so hard my Tampax fell out’: Michael Gambon’s pranks revealed by the stars he cracked up",
             "url": "https://www.theguardian.com/stage/2026/oct/26/michael-gambon-pranks-revealed-biography",
@@ -56,7 +56,7 @@
             "byline": "Chris Wiegand"
           },
           "kicker": "Stage",
-          "trail": "A new biography reveals how he made Daniel Radcliffe's Harry Potter fart on set, left Judi Dench unable to control herself and teased Helen Mirren with a fry-up fantasy.",
+          "trail": "A new biography details how he made Daniel Radcliffe's Harry Potter fart, left Judi Dench unable to control herself, and teased Helen Mirren with a fry-up fantasy.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6a3667e9ebb8d414678b608e8e2bbca52827d867/203_9_2576_2577/master/2576.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -101,7 +101,7 @@
             "byline": "Patrick Butler and Pippa Crerar"
           },
           "kicker": "Society",
-          "trail": "A taper system will replace the rule in Wednesday's budget, after a Guardian investigation found carers who earned a penny over weekly limits faced debts of thousands of pounds, some chased using organised-crime legislation.",
+          "trail": "A controversial mechanism that hit unpaid carers with huge penalties will be scrapped, following a Guardian investigation.",
           "progress": "The chancellor, John Healey, is replacing the cliff-edge with a taper so carers lose a pound only for each pound earned above the limit.",
           "upside": 3,
           "image": {
@@ -122,8 +122,8 @@
             "byline": "Tom Phillips in São Paulo and Tiago Rogero in Brasília"
           },
           "kicker": "World news",
-          "trail": "Leaders and governments around the world congratulate Lula on a dramatic comeback that unseated Flávio Bolsonaro by more than four million votes, a result seen as a signal for the rest of Latin America.",
-          "progress": "World leaders across the political spectrum have recognised Lula’s victory, with only Donald Trump and Elon Musk casting doubt on the result.",
+          "trail": "Governments worldwide congratulated Lula after his dramatic comeback, a result seen as an important signal for the rest of Latin America.",
+          "progress": "World leaders across the political spectrum have recognised Lula's victory, though Bolsonaro himself has rejected the result, calling it 'sacanagem', and Trump and Musk voiced doubts too.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/61f49e5040906378f0ae4214a76205303bb7569f/1322_0_7200_5760/master/7200.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -154,7 +154,7 @@
         {
           "path": "/uk-news/2026/oct/27/meghan-duchess-of-sussex-junior-masterchef-australia-it-ntwnfb",
           "linked": true,
-          "headline": "Meghan to co-host Junior MasterChef Australia after ‘easy yes’",
+          "headline": "Junior MasterChef Australia taps Meghan to co-host alongside Poh Ling Yeow in 2027",
           "original": {
             "headline": "Meghan, Duchess of Sussex, to co-host Junior MasterChef Australia: ‘It was an easy yes’",
             "url": "https://www.theguardian.com/uk-news/2026/oct/27/meghan-duchess-of-sussex-junior-masterchef-australia-it-ntwnfb",
@@ -163,7 +163,7 @@
             "byline": "Emma Joyce"
           },
           "kicker": "UK news",
-          "trail": "Poh Ling Yeow, who will co-host alongside her, says being reunited with the Duchess of Sussex for the children's version 'will be a real treat'.",
+          "trail": "Poh Ling Yeow, who co-hosted with Meghan on MasterChef Australia this year, says being reunited with her on the children's version 'will be a real treat'.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5c89853411f5e705a6953a8673d7345a17f5b03f/291_0_1350_1080/master/1350.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -174,7 +174,7 @@
         {
           "path": "/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
           "linked": true,
-          "headline": "Israeli military chief resists pressure toward new conflict with Iran",
+          "headline": "Military chief clashes with Netanyahu over directive risking new Iran conflict",
           "original": {
             "headline": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
             "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
@@ -183,8 +183,8 @@
             "byline": "Emma Graham-Harrison and Julian Borger in Jerusalem"
           },
           "kicker": "World news",
-          "trail": "Israel's military chief reportedly resisted a directive risking renewed conflict with Iran, as Benjamin Netanyahu, trailing before Tuesday's election, posted an AI-generated image of a mushroom cloud over Tel Aviv, invoking nuclear annihilation.",
-          "progress": "Armed forces chief Eyal Zamir reportedly resisted a directive risking conflict with Iran, and the central bank publicly rejected Netanyahu's sanctions-evasion claims.",
+          "trail": "Israel's prime minister is increasing his alarmist rhetoric on Iran as his far-right coalition narrowly trails in the polls.",
+          "progress": "Armed forces chief Eyal Zamir reportedly clashed with Netanyahu and asked for the directive in writing; the central bank also publicly rejected Netanyahu's sanctions-evasion claims.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f096c8d4947f607c4643153917ab8903ff877046/0_0_5417_4334/master/5417.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -204,7 +204,7 @@
             "byline": "Phillip Inman Senior economics writer"
           },
           "kicker": "Business",
-          "trail": "Retailers absorbed higher costs for two years and kept discounting ahead of Halloween, but shop price inflation reached a two-and-a-half-year high of 2.1% in October, the British Retail Consortium says.",
+          "trail": "UK shop price inflation is at its highest since 2024, the British Retail Consortium says, calling it a dam starting to break on a huge wave of costs.",
           "progress": "Prof Ruth Patrick’s Changing Realities project says restoring child benefit’s value would be a vital step for low-income families.",
           "upside": 1,
           "image": {
@@ -216,7 +216,7 @@
         {
           "path": "/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
           "linked": true,
-          "headline": "Burnham says British public will be ‘the bosses’ on UK’s future with EU",
+          "headline": "Burnham vows not to move ahead of the British public on EU ties",
           "original": {
             "headline": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
             "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
@@ -225,7 +225,7 @@
             "byline": "Aletha Adu Political correspondent "
           },
           "kicker": "Politics",
-          "trail": "The prime minister says it will be up to voters to decide Britain's long-term relationship with Brussels, as No 10 moves to clarify confusion over his recent remarks on freedom of movement.",
+          "trail": "The clarification follows a weekend of interviews in which the prime minister fuelled speculation about the UK's future relationship with the EU.",
           "progress": "Burnham is heading to a Brussels summit on 20 November to seek a deal he says could add billions to the economy.",
           "upside": 1,
           "image": {
@@ -237,7 +237,7 @@
         {
           "path": "/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
           "linked": true,
-          "headline": "Cross-party MPs demand transparency over Home Office’s use of AI",
+          "headline": "Home Office commits to publishing evaluations of its asylum AI tools",
           "original": {
             "headline": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
             "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
@@ -246,8 +246,8 @@
             "byline": "Diane Taylor"
           },
           "kicker": "Politics",
-          "trail": "MPs across parties are backing calls for transparency after a report found AI used, in near-total secrecy, for tasks from asylum age checks to border surveillance, with the Home Office promising to publish evaluations.",
-          "progress": "The Home Office says it has already committed to publishing updated evaluations of how its AI tools are used in asylum decisions.",
+          "trail": "Open Rights Group says AI is now used for tasks from determining asylum seekers' ages to border surveillance, largely without public knowledge.",
+          "progress": "The Home Office says it has already committed to publishing updated evaluations of its AI tools' rollout.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -273,7 +273,7 @@
           },
           "kicker": "World news",
           "trail": "Hundreds of thousands marked the student-led victory on the same streets that were once the scene of police beatings.",
-          "progress": "A student-led movement organised the protests that led to Vučić's defeat after 12 years in power.",
+          "progress": "A student-led movement organised the protests that led to Vučić's defeat.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/90cc0fd1e912aba9de43b9f50c1e2a683dedea83/212_0_3769_3016/500.jpg"
@@ -292,7 +292,6 @@
           },
           "kicker": "World news",
           "trail": "The Nobel peace prize winner's return after almost a year in exile is unlikely to please interim president Delcy Rodríguez.",
-          "progress": "Machado, the Nobel peace prize-winning opposition leader, has returned to Venezuela after nearly a year in exile.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/b76716fc922183868270c55ef67ee72294490554/313_0_4560_3648/500.jpg"
@@ -311,7 +310,6 @@
           },
           "kicker": "Society",
           "trail": "Downing Street will almost double funding, with a further £432m announced in this week's budget.",
-          "progress": "The government is almost doubling homelessness funding, with an extra £432m announced in the budget.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/1fa605bedf4c63c0de58edf4306a5a04ec7e5ff4/418_0_4561_3648/500.jpg"
@@ -330,7 +328,6 @@
           },
           "kicker": "Science",
           "trail": "The optical engineering behind the 1,600-year-old Lycurgus Cup had baffled experts for centuries.",
-          "progress": "Researchers have rediscovered the technique, solving a mystery that had baffled experts for centuries.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/36274fa02586505fbfdfcdc84de3302a298d0f0e/84_0_2690_2152/500.jpg"
@@ -349,7 +346,6 @@
           },
           "kicker": "World news",
           "trail": "Slavery was integral to the country's wine industry; now a handful of wineries are addressing its legacy and righting the wrongs of the past.",
-          "progress": "A handful of South African wineries are now addressing the industry's history of slavery and working to right past wrongs.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/ad98789bb0b55b911a7d2d1fd7573221f8fb6876/294_0_5840_4672/500.jpg"
@@ -377,7 +373,7 @@
         {
           "path": "/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
           "linked": false,
-          "headline": "'Why would I leave?': Middlesbrough residents defend their town against a damning ranking",
+          "headline": "'Why would I leave?': Middlesbrough residents make the case for their town",
           "original": {
             "headline": "‘Why would I leave?’: Middlesbrough pushes back against ‘hardest place to grow up’ label",
             "url": "https://www.theguardian.com/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
@@ -385,8 +381,8 @@
             "byline": "Mark Brown North of England correspondent "
           },
           "kicker": "UK news",
-          "trail": "The Teesside town ranked last in a children's commissioner's report, but residents say such rankings are demoralising and counterproductive.",
-          "progress": "Residents are pushing back against the ranking, saying it is demoralising and counterproductive rather than reflecting their town.",
+          "trail": "The Teesside town came out worst in a children's commissioner's 'hardest place to grow up' report, but residents say such rankings are demoralising and counterproductive.",
+          "progress": "Residents are pushing back against the ranking, saying it is demoralising and counterproductive.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/51cefebeb555ed9e78aa85325369cadf0ca4f175/2749_545_5636_4509/500.jpg"
@@ -396,7 +392,7 @@
         {
           "path": "/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
           "linked": false,
-          "headline": "TrainTok takes off as spotters and rail staff build a thriving online community",
+          "headline": "All aboard the TrainTok trend as rail videos double in three months",
           "original": {
             "headline": "All aboard the TrainTok trend: spotters and staff boost rail content online",
             "url": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
@@ -420,7 +416,7 @@
         {
           "path": "/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
           "linked": false,
-          "headline": "Former rough sleepers credit local services with helping them off the streets",
+          "headline": "Former rough sleepers say local services were vital to getting them off the streets",
           "original": {
             "headline": "‘Local services are vital’: Former rough sleepers on what helped them off the streets",
             "url": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
@@ -429,7 +425,6 @@
           },
           "kicker": "Society",
           "trail": "Frustration remains over 'ridiculous bureaucracy' and a lack of hostel places, as Andy Burnham hosts a rough sleeper summit.",
-          "progress": "Andy Burnham is hosting a rough sleeper summit to examine what support is working for former rough sleepers and where it is falling short.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6ffd0d3ec9ff1e6f9497d25b81855eb00bd449a0/742_0_3818_3055/master/3818.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -446,7 +441,7 @@
         {
           "path": "/stage/2026/oct/26/michael-gambon-pranks-revealed-biography",
           "linked": false,
-          "headline": "Michael Gambon's on-set pranks live on in co-stars' favourite stories",
+          "headline": "Co-stars reveal how Michael Gambon's pranks left them in stitches",
           "original": {
             "headline": "‘I laughed so hard my Tampax fell out’: Michael Gambon’s pranks revealed by the stars he cracked up",
             "url": "https://www.theguardian.com/stage/2026/oct/26/michael-gambon-pranks-revealed-biography",
@@ -454,7 +449,7 @@
             "byline": "Chris Wiegand"
           },
           "kicker": "Stage",
-          "trail": "A new biography reveals how he made Daniel Radcliffe's Harry Potter fart on set, left Judi Dench unable to control herself and teased Helen Mirren with a fry-up fantasy.",
+          "trail": "A new biography details how he made Daniel Radcliffe's Harry Potter fart, left Judi Dench unable to control herself, and teased Helen Mirren with a fry-up fantasy.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6a3667e9ebb8d414678b608e8e2bbca52827d867/264_0_2320_2900/master/2320.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -465,7 +460,7 @@
         {
           "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
           "linked": false,
-          "headline": "John Crace digests Liz Truss's comeback memoir, Bank Job",
+          "headline": "John Crace spares you the 100 pages of Liz Truss's new book, Bank Job",
           "original": {
             "headline": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
             "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
@@ -473,7 +468,7 @@
             "byline": "John Crace"
           },
           "kicker": "Books",
-          "trail": "She's back with another book, and it reads a lot like the last one. Our sketchwriter spares you the 100 pages.",
+          "trail": "She's back with another book, and it reads a lot like the last one, our sketchwriter says.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/274cd0816eebcf2bdcdf76ef99f8cc922806b3dc/1718_328_3744_2995/master/3744.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -490,7 +485,7 @@
         {
           "path": "/tv-and-radio/2026/oct/26/escaping-idi-amin-review-bbc-two-iplayer",
           "linked": false,
-          "headline": "Escaping Idi Amin review – a happy ending to a story of survival, and a lesson for us all",
+          "headline": "Escaping Idi Amin review – survivors who built new lives, and what they teach us",
           "original": {
             "headline": "Escaping Idi Amin review – there’s a happy ending to this awful tale … and it should be a lesson to us all",
             "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/escaping-idi-amin-review-bbc-two-iplayer",
@@ -498,7 +493,7 @@
             "byline": "Jack Seale"
           },
           "kicker": "Television & radio",
-          "trail": "Four Britons describe the horrors they witnessed as children when thousands were expelled from Uganda – or killed – by the dictator Idi Amin. The new lives they built hold an important lesson.",
+          "trail": "Four Britons recall the horrors they witnessed as children when thousands were expelled from Uganda, or killed, by the dictator Idi Amin; the lives they built afterwards hold an important lesson.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/940fab186ee4c2b6a7701206ea25af623c6a1d42/489_0_3812_3051/master/3812.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -509,7 +504,7 @@
         {
           "path": "/culture/2026/oct/26/how-the-zombies-made-time-of-the-season",
           "linked": false,
-          "headline": "How the Zombies wrote their classic Time of the Season against the odds",
+          "headline": "How a false death report became part of the Zombies' legend",
           "original": {
             "headline": "‘My death was reported in Rolling Stone’: how the Zombies made Time of the Season",
             "url": "https://www.theguardian.com/culture/2026/oct/26/how-the-zombies-made-time-of-the-season",
@@ -517,7 +512,7 @@
             "byline": "Interviews by Chris Broughton"
           },
           "kicker": "Culture",
-          "trail": "'A year after we broke up, we heard that two bands had started touring the US as the Zombies. One group said they were the originals but with a new singer – because I'd been killed in a car crash.'",
+          "trail": "'A year after we broke up, two bands started touring the US as the Zombies — one claiming to be the originals with a new singer, because I'd supposedly been killed in a car crash.'",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8ab3b8020ba8a92202f8fb80c9c65fc6e1a7fd53/132_127_2764_2212/master/2764.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -547,7 +542,7 @@
         {
           "path": "/artanddesign/2026/oct/26/ls-lowry-review-mk-gallery-milton-keynes",
           "linked": false,
-          "headline": "LS Lowry review – an unflinching portrait of industrial, northern England",
+          "headline": "Industrial England as a spirit-crushing dystopia: LS Lowry, reviewed",
           "original": {
             "headline": "LS Lowry review – matchstick men, or the broken denizens of a smog-filled hellscape? ",
             "url": "https://www.theguardian.com/artanddesign/2026/oct/26/ls-lowry-review-mk-gallery-milton-keynes",
@@ -555,7 +550,7 @@
             "byline": "Jonathan Jones"
           },
           "kicker": "Art and design",
-          "trail": "With heaps of mud, decaying sheds and chimney-filled skies, Lowry paints a heavy, industrial vision of northern England.",
+          "trail": "With his heaps of mud, decaying sheds and chimney-filled skies, Lowry's Milton Keynes show depicts a smog-filled, spirit-crushing vision of northern England.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/fdd6e124a08c4cfd51a21feeb6c71ab74a9caa3a/0_25_5770_4616/master/5770.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -591,7 +586,7 @@
         {
           "path": "/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
           "linked": false,
-          "headline": "Lula's win shows the far right can be beaten – but progressives can't rest",
+          "headline": "Lula's win against the far right shows progressives must learn its lessons fast",
           "original": {
             "headline": "Lula miraculously beat the Brazilian far right and Donald Trump. But have no doubt: the region is still in peril ",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/26/brazil-lula-far-right-donald-trump-election",
@@ -599,7 +594,7 @@
             "byline": "Jordana Timerman"
           },
           "kicker": "Opinion",
-          "trail": "After Lula's miraculous comeback against the Brazilian far right and Donald Trump, commentator Jordana Timerman says the lesson is clear: the rightward shift is not inevitable, but it is not yet reversed either.",
+          "trail": "After the celebrations, commentator Jordana Timerman says the rightward shift is neither inevitable nor irreversible, but progressives cannot afford to rest.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2024/01/15/Jordana_Timerman.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -610,7 +605,7 @@
         {
           "path": "/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis",
           "linked": false,
-          "headline": "It's time to fix the rigged system behind the cost of living crisis",
+          "headline": "It's time we kicked over the rigged system behind the cost of living crisis",
           "original": {
             "headline": "What the claw arcade game tells us about the cost of living crisis",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis",
@@ -618,7 +613,7 @@
             "byline": "Zoe Williams"
           },
           "kicker": "Opinion",
-          "trail": "No matter how you crunch the UK data, prices are rising while average wages stagnate. The system is rigged, Williams writes – and she says it's time to push back.",
+          "trail": "No matter how you crunch the UK data, prices are rising while wages stagnate; the system is rigged, writes Zoe Williams.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/09/Zoe-Williams,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -635,7 +630,7 @@
         {
           "path": "/commentisfree/2026/oct/26/harry-styles-says-his-laptop-has-been-dead-for-six-years-is-he-just-showing-off",
           "linked": false,
-          "headline": "Harry Styles says his laptop has been dead for six years. Is he showing off?",
+          "headline": "Harry Styles' six-year-dead laptop says more about tech overwhelm than showing off",
           "original": {
             "headline": "Harry Styles says his laptop has been dead for six years. Is he just showing off?",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/26/harry-styles-says-his-laptop-has-been-dead-for-six-years-is-he-just-showing-off",
@@ -643,7 +638,7 @@
             "byline": "Emma Beddington"
           },
           "kicker": "Opinion",
-          "trail": "He is either being insincere, knowing he could buy an entire Apple Store if he wanted, or he is genuinely overwhelmed by tech. If it's the latter, he has Emma Beddington's sympathy.",
+          "trail": "He is either being insincere, knowing he could buy an entire Apple Store, or genuinely overwhelmed by tech – and if it's the latter, he has Emma Beddington's sympathy.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2020/03/20/Emma_Beddington,_R.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -740,14 +735,14 @@
         {
           "path": "/politics/2026/oct/26/a-referendum-is-not-needed-for-the-uk-to-reach-a-bre-entry-deal-with-europe",
           "linked": false,
-          "headline": "Readers: a referendum isn't needed for the UK to strike a Bre-entry deal",
+          "headline": "No referendum is needed for the UK to strike a Bre-entry deal, letter writers argue",
           "original": {
             "headline": "A referendum is not needed for the UK to reach a Bre-entry deal with Europe",
             "url": "https://www.theguardian.com/politics/2026/oct/26/a-referendum-is-not-needed-for-the-uk-to-reach-a-bre-entry-deal-with-europe",
             "trail": "Letters: Readers respond to Polly Toynbee’s article on the possibility of rejoining the EU"
           },
           "kicker": "Politics",
-          "trail": "Letters: readers respond to Polly Toynbee's article on the possibility of rejoining the EU.",
+          "trail": "Letters: readers respond to Polly Toynbee's article on the possibility of the UK rejoining the EU.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/2c8dacb15e4f5d4563bb912e9eab215d7b0bbc66/32_0_3677_2943/500.jpg"
@@ -756,14 +751,14 @@
         {
           "path": "/society/2026/oct/26/bigger-does-not-always-mean-better-in-hospital-care",
           "linked": false,
-          "headline": "Bigger isn't always better when it comes to hospital care, reader writes",
+          "headline": "Doctor makes the case against assuming bigger hospitals serve patients best",
           "original": {
             "headline": "Bigger does not always mean better in hospital care",
             "url": "https://www.theguardian.com/society/2026/oct/26/bigger-does-not-always-mean-better-in-hospital-care",
             "trail": "Letter: For some medics, working at a large centre means for the same pay you don’t have to work so hard, writes Dr Paul Godwin"
           },
           "kicker": "Society",
-          "trail": "Letter: for some medics, working at a large centre means, for the same pay, not having to work as hard, writes Dr Paul Godwin.",
+          "trail": "Letter: Dr Paul Godwin writes that, for some medics, working at a large hospital can mean an easier job for the same pay.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/dce434c6214de6aa0b316cd34b09a9cbc7434afa/261_28_4591_3673/500.jpg"
@@ -810,7 +805,7 @@
         {
           "path": "/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
           "linked": false,
-          "headline": "Mourinho's plan pays off as Real Madrid deliver clásico statement win",
+          "headline": "A knee slide and three points mark Mourinho's statement night at the Camp Nou",
           "original": {
             "headline": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement ",
             "url": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
@@ -818,7 +813,7 @@
             "byline": "Sid Lowe"
           },
           "kicker": "Football",
-          "trail": "It was just like old times as José Mourinho ended a night at the Camp Nou with a knee slide and three points.",
+          "trail": "Real Madrid relaunched their season with a clásico win as the manager's plan came together just like old times.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/e5dcf6afaf4a38c6fe32b2a1d837afcd500b369b/0_0_4782_3826/master/4782.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -848,7 +843,7 @@
         {
           "path": "/football/2026/oct/26/england-under-15-walk-off-pitch-ireland-world-cup-racism-allegation",
           "linked": false,
-          "headline": "England Under-15s take a stand against alleged racism, abandoning World Cup match",
+          "headline": "England Under-15s walk off in protest at alleged racism during World Cup",
           "original": {
             "headline": "England Under-15s walk off pitch against Ireland in World Cup after racism allegation",
             "url": "https://www.theguardian.com/football/2026/oct/26/england-under-15-walk-off-pitch-ireland-world-cup-racism-allegation",
@@ -856,8 +851,7 @@
             "byline": "Ed Aarons"
           },
           "kicker": "Football",
-          "trail": "England's match against the Republic of Ireland in the new Under-15 World Cup was abandoned after England's players and staff walked off following a racism allegation.",
-          "progress": "England's players and staff walked off in protest after alleging racist abuse aimed at one of their team, prompting officials to abandon the match.",
+          "trail": "England's players walked off their Under-15 World Cup match against Ireland after alleging racist abuse aimed at a teammate; the match has been abandoned.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/e0605b193f68751fe7088489812b26b6fa464889/0_0_813_650/master/813.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -868,7 +862,7 @@
         {
           "path": "/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format",
           "linked": false,
-          "headline": "Doubles players unite in open letter urging tennis chiefs to protect the format",
+          "headline": "More than 150 doubles players ask ATP to rethink reforms to their format",
           "original": {
             "headline": "Doubles players sign open letter pleading with tennis chiefs to ‘protect’ format",
             "url": "https://www.theguardian.com/sport/2026/oct/26/doubles-players-sign-open-letter-pleading-with-tennis-chiefs-to-protect-format",
@@ -876,7 +870,7 @@
             "byline": "Tumaini Carayol"
           },
           "kicker": "Sport",
-          "trail": "More than 150 doubles players on the men's ATP tour have signed an open letter to the ATP board, calling on tennis's governing bodies to reconsider controversial doubles reforms.",
+          "trail": "In an open letter to the ATP board, the players argue the proposed changes threaten doubles tennis and should be reconsidered.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0899e3d0402a99e021d9a9916495e89c52a82c9f/352_118_2945_2357/master/2945.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -887,7 +881,7 @@
         {
           "path": "/sport/2026/oct/26/liam-dawson-reveals-england-cricket-squad-gutted-after-second-odi-series-catastrophe",
           "linked": false,
-          "headline": "England eye a route back into the ODI tri-series final despite two defeats",
+          "headline": "England's hopes of reaching the ODI final remain alive despite two defeats",
           "original": {
             "headline": "Liam Dawson reveals England are ‘gutted’ after ODI series setback against Pakistan",
             "url": "https://www.theguardian.com/sport/2026/oct/26/liam-dawson-reveals-england-cricket-squad-gutted-after-second-odi-series-catastrophe",
@@ -895,7 +889,7 @@
             "byline": "Guardian sport and agencies"
           },
           "kicker": "Sport",
-          "trail": "Liam Dawson says the squad are 'gutted' after two agonising defeats to Pakistan left their hopes of reaching the final hanging by a thread.",
+          "trail": "Liam Dawson says the squad's hopes of reaching the tri-series final remain alive, despite two agonising defeats to Pakistan leaving England 'gutted'.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ac23777a18dbb2928a38dce8f5f37f856df360bd/198_0_2650_2120/master/2650.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -912,7 +906,7 @@
         {
           "path": "/sport/2026/oct/26/toto-wolff-hails-kimi-antonelli-us-grand-prix-victory-best-race-yet",
           "linked": false,
-          "headline": "Wolff hails Antonelli's US Grand Prix win as his 'best race yet'",
+          "headline": "Antonelli's US Grand Prix demolition hailed by Wolff as his 'best race yet'",
           "original": {
             "headline": "Wolff hails Antonelli’s US Grand Prix demolition as the Italian’s ‘best race yet’ ",
             "url": "https://www.theguardian.com/sport/2026/oct/26/toto-wolff-hails-kimi-antonelli-us-grand-prix-victory-best-race-yet",
@@ -920,7 +914,7 @@
             "byline": "Giles Richards in Austin"
           },
           "kicker": "Sport",
-          "trail": "Mercedes team principal Toto Wolff paid tribute to his driver Kimi Antonelli after his victory at the US Grand Prix.",
+          "trail": "Mercedes team principal Toto Wolff paid tribute to his driver Kimi Antonelli after his dominant victory at the US Grand Prix.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/d53b2982f1b8bb4d249a65ff7963d25a807d0bfb/1027_0_7200_5760/master/7200.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -931,7 +925,7 @@
         {
           "path": "/football/2026/oct/26/wsl-talking-points-alessia-russo-arsenal-tottenham-manchester-united-city",
           "linked": false,
-          "headline": "WSL talking points: Russo comes to Arsenal's rescue as Olid lifts Manchester United",
+          "headline": "Alessia Russo rescues Arsenal in the derby as Olid steadies Manchester United",
           "original": {
             "headline": "WSL talking points: Russo to Arsenal’s rescue and Olid makes Manchester United progress",
             "url": "https://www.theguardian.com/football/2026/oct/26/wsl-talking-points-alessia-russo-arsenal-tottenham-manchester-united-city",
@@ -939,7 +933,7 @@
             "byline": "Suzanne Wrack,Tom Garry, Sophie Downey, Emillia Hawkins and Mitul Samji"
           },
           "kicker": "Football",
-          "trail": "Arsenal edged the north London derby, while new United manager Olid put the brakes on Manchester City's winning start.",
+          "trail": "Arsenal edged the north London derby while new manager Olid ended Manchester City's winning start in the WSL.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/100a2bd792886a678d994fc1b1c19158b8f530c3/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -969,7 +963,7 @@
         {
           "path": "/sport/2026/oct/26/bookies-budget-gaming-machines-horse-racing",
           "linked": false,
-          "headline": "Horse racing was too slow to challenge the harm of gaming machines",
+          "headline": "It's time for racing to stop watching gambling harm from the sidelines, writer argues",
           "original": {
             "headline": "Bookies fear budget hit but gaming machine self-harm killed off the old-fashioned shops",
             "url": "https://www.theguardian.com/sport/2026/oct/26/bookies-budget-gaming-machines-horse-racing",
@@ -977,7 +971,7 @@
             "byline": "Greg Wood"
           },
           "kicker": "Sport",
-          "trail": "A wholesale plunder of local communities via casino gaming took place while racing sat on the sidelines, the columnist argues, as bookmakers now brace for the budget.",
+          "trail": "A wholesale plunder of local communities via casino gaming has taken place, the columnist argues, as bookmakers now brace for the budget.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ff87748008c0311ec11733ff2d29301a94d27788/344_214_3404_2722/master/3404.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -994,7 +988,7 @@
         {
           "path": "/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
           "linked": false,
-          "headline": "Serbia's Student List prepares to rebuild society as talks on government begin",
+          "headline": "Serbia's Student List prepares for government talks despite having no single leader",
           "original": {
             "headline": "Serbia’s Student List preparing for talks on forming government despite no clear leader",
             "url": "https://www.theguardian.com/world/2026/oct/26/serbia-student-list-preparing-for-talks-on-forming-government-despite-no-clear-leader",
@@ -1002,8 +996,7 @@
             "byline": "Jon Henley and Ana Milosavljevic in Belgrade"
           },
           "kicker": "World news",
-          "trail": "The non-hierarchical movement seeks to govern after years of authoritarian rule, despite having no single clear leader.",
-          "progress": "Serbia's Student List movement is preparing to enter talks on forming a government to rebuild the country.",
+          "trail": "The non-hierarchical movement says it is seeking to 'rebuild society' in Serbia after years of authoritarian rule.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/9daaf5ebbd28cfb3d4565507c06bd60393a7a535/0_0_4578_3662/master/4578.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1023,7 +1016,6 @@
           },
           "kicker": "Technology",
           "trail": "The company responded after posts on Reddit and social media reported cracks in the display of its first foldable handset.",
-          "progress": "Apple says it is aware of the issue and that only a small number of devices are affected.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c698617819e1a690d07c1616d74825b6af7e7a69/179_0_5355_4284/master/5355.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1040,7 +1032,7 @@
         {
           "path": "/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
           "linked": false,
-          "headline": "Outback kaleidoscope: Australia's fabled desert lake bursts to life in rare sight",
+          "headline": "Rare rains transform Australia's fabled desert lake into a kaleidoscope of colour",
           "original": {
             "headline": "Outback kaleidoscope: Australia’s fabled desert lake bursts to life in rare sight",
             "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
@@ -1048,7 +1040,7 @@
             "byline": "Adam Morton with photography by Blake Sharp-Wiggins"
           },
           "kicker": "Environment",
-          "trail": "A prodigiously wet monsoon season brought damaging floods to parts of Australia, but transformed Kati Thanda-Lake Eyre in a way not seen in decades.",
+          "trail": "A prodigiously wet monsoon season brought damaging floods to parts of Australia but also revived Kati Thanda-Lake Eyre in a way not seen for decades.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/29e2efd16299ade89794a6c899121e71bf4d5290/286_0_6503_5205/master/6503.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1057,29 +1049,9 @@
           "byline": "Madam Orton with photography by Blake Sharp-Wiggins"
         },
         {
-          "path": "/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
-          "linked": false,
-          "headline": "Greece issues flood alerts as Typhoon Champi, year's strongest storm, batters Taiwan and Japan",
-          "original": {
-            "headline": "Typhoon Champi declared strongest storm of year so far",
-            "url": "https://www.theguardian.com/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
-            "trail": "One dead and 527 injured as winds of up to 185mph hit Taiwan and southern Japan, while Greece issues flood alerts",
-            "byline": "Megan Davies and James Parrish for MetDesk"
-          },
-          "kicker": "Environment",
-          "trail": "One person has died and 527 were injured as winds of up to 185mph hit Taiwan and southern Japan.",
-          "progress": "Greece has issued flood alerts as the storm system moves toward Europe.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/82f80ccc07bb29b20e14a9a3f8d0c0cd95280e1d/651_0_3750_3000/master/3750.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A pedestrian shields their face with an umbrella flipped by strong wind on a street in Keelung"
-          },
-          "byline": "Degan Mavies and Pames Jarrish for MetDesk"
-        },
-        {
           "path": "/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
           "linked": false,
-          "headline": "Scientists and residents push back against startup's plan to light Earth from space",
+          "headline": "Scientists and Californians push back after US startup's space-mirror demonstration",
           "original": {
             "headline": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
             "url": "https://www.theguardian.com/us-news/2026/oct/26/california-sunlight-space-mirrors-satellites",
@@ -1087,8 +1059,7 @@
             "byline": "Oliver Milman"
           },
           "kicker": "US news",
-          "trail": "The California company imitated the sun's reflection with orbital mirrors in a demonstration that has drawn opposition from scientists, environmentalists and locals.",
-          "progress": "Scientists, environmentalists and California residents have raised objections to the project.",
+          "trail": "The US startup imitated the sun's reflection with orbital mirrors, in a test that has drawn criticism from scientists, environmentalists and California residents.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7c7f30c6c0261f04d891e2564b27d085a9617055/584_0_5840_4672/master/5840.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1105,7 +1076,7 @@
         {
           "path": "/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
           "linked": false,
-          "headline": "UK looks to turn electric cars into 'power plants on wheels'",
+          "headline": "UK plans incentives for carmakers to turn EVs into 'power plants on wheels'",
           "original": {
             "headline": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
             "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
@@ -1143,7 +1114,7 @@
         {
           "path": "/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
           "linked": false,
-          "headline": "Jury sworn in for trial of four men accused in drugged assault case",
+          "headline": "Jury sworn in for trial over sexual assault of drugged woman",
           "original": {
             "headline": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
             "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
@@ -1152,7 +1123,7 @@
           },
           "kicker": "UK news",
           "trail": "Mr Justice Saini told the eight men and six women at Winchester crown court the case is likely to be upsetting.",
-          "progress": "A jury has been selected and the trial is now under way at Winchester crown court.",
+          "progress": "A jury has been sworn in ahead of the trial at Winchester crown court.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0f8ccd79cec889c2fda7a47cd00a8edf8ac50782/0_282_2879_2304/master/2879.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1169,7 +1140,7 @@
         {
           "path": "/us-news/2026/oct/26/court-california-ballots",
           "linked": false,
-          "headline": "Court blocks Trump administration's bid to stop California counting mail-in ballots",
+          "headline": "California's mail-in ballots will be counted after court rejects Trump DoJ's bid to stop them",
           "original": {
             "headline": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
             "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
@@ -1177,7 +1148,7 @@
             "byline": "Nick Robins-Early"
           },
           "kicker": "US news",
-          "trail": "Governor Gavin Newsom accused Trump of an 'assault on democracy' after the DoJ claimed 20,000 registered voters in the state are non-citizens.",
+          "trail": "Governor Gavin Newsom accused Trump of an 'assault on democracy' after the Department of Justice claimed 20,000 registered voters in the state are non-citizens.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/9f2bcff7c1f5c030204ad7781402f357847b1064/250_0_2500_2000/500.jpg"
@@ -1187,7 +1158,7 @@
         {
           "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
           "linked": false,
-          "headline": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
+          "headline": "Jacinda Ardern to mentor students in new University of Sydney role",
           "original": {
             "headline": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
             "url": "https://www.theguardian.com/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
@@ -1195,7 +1166,7 @@
             "byline": "Josh Taylor"
           },
           "kicker": "World news",
-          "trail": "The former New Zealand prime minister will focus on leadership, social cohesion and public health in her new role.",
+          "trail": "The former New Zealand prime minister will focus on leadership, social cohesion and public health in her new post.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/acc4ab5b8f6e4f22c46a14f08bbbcd077a9f93fa/873_946_3818_3054/500.jpg"
@@ -1205,7 +1176,7 @@
         {
           "path": "/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
           "linked": false,
-          "headline": "UK imposes sanctions on Sudanese commanders over El Fasher atrocities",
+          "headline": "Travel bans and asset freezes imposed on Sudanese commanders over El Fasher atrocities",
           "original": {
             "headline": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
             "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
@@ -1213,8 +1184,7 @@
             "byline": "Mark Townsend"
           },
           "kicker": "Global development",
-          "trail": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been hit with a travel ban and asset freeze.",
-          "progress": "The UK government has imposed a travel ban and asset freeze on the commanders implicated.",
+          "trail": "The UK has sanctioned military leaders implicated in El Fasher's 'campaign of rape', among commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c671810cd05b5ef573941d3edd85008c82d9bedf/687_437_3773_3019/500.jpg"
@@ -1230,7 +1200,7 @@
         {
           "path": "/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
           "linked": false,
-          "headline": "Visa and Mastercard face potential £5bn UK lawsuit over card fees",
+          "headline": "Businesses seek £5bn in compensation from Visa and Mastercard over card fees",
           "original": {
             "headline": "Visa and Mastercard threatened with potential £5bn UK lawsuit over fees",
             "url": "https://www.theguardian.com/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
@@ -1238,8 +1208,7 @@
             "byline": "Kalyeena Makortoff Banking correspondent"
           },
           "kicker": "Business",
-          "trail": "A group claim has been filed seeking compensation for companies allegedly overcharged on customer card payments.",
-          "progress": "A legal application has been made seeking group compensation for businesses overcharged on card fees.",
+          "trail": "An application has been made for a group claim seeking compensation for companies allegedly overcharged on customer card payments.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/97351ac8f230f1c7f40118640ac34050115dec6a/0_0_5000_4000/500.jpg"
@@ -1249,7 +1218,7 @@
         {
           "path": "/technology/2026/oct/26/anthropic-files-listing-stock-market",
           "linked": false,
-          "headline": "Anthropic files for stock market listing in test of AI industry's strength",
+          "headline": "Anthropic's stock market debut set to be one of the largest in US history",
           "original": {
             "headline": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
             "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
@@ -1257,7 +1226,7 @@
             "byline": "Blake Montgomery and Johana Bhuiyan"
           },
           "kicker": "Technology",
-          "trail": "The market debut of the firm behind the Claude chatbot will be one of the largest in US history, a test of the AI boom's financial viability.",
+          "trail": "The firm behind the Claude chatbot is filing for a potentially record-breaking valuation, in a key test of the AI boom's financial viability.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/500.jpg"
@@ -1267,7 +1236,7 @@
         {
           "path": "/money/2026/oct/26/healey-pensioners-low-income-tax-budget-how-will-it-work",
           "linked": false,
-          "headline": "Healey expected to shield low-income pensioners from income tax in budget",
+          "headline": "Low-income pensioners set to be shielded from income tax under Healey's plan",
           "original": {
             "headline": "Healey is expected to shield low-income pensioners from income tax – but how will it work?",
             "url": "https://www.theguardian.com/money/2026/oct/26/healey-pensioners-low-income-tax-budget-how-will-it-work",
@@ -1285,7 +1254,7 @@
         {
           "path": "/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
           "linked": false,
-          "headline": "Microsoft offers voluntary buyouts to 60,000 employees amid AI shift",
+          "headline": "Microsoft reportedly offers buyouts as it cuts 60,000 jobs amid AI shift",
           "original": {
             "headline": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
             "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
@@ -1372,7 +1341,7 @@
         {
           "path": "/tv-and-radio/2026/oct/25/this-city-is-ours-season-2-review-liverpudlian-gang-drama-bbc",
           "linked": false,
-          "headline": "This City Is Ours review – the Liverpudlian gang drama returns, acting as terrific as ever",
+          "headline": "This City Is Ours review – terrific performances power this bloody, lovable gang saga",
           "original": {
             "headline": " This City Is Ours review – the Liverpudlian gang drama is back … and the acting’s as terrific as ever",
             "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/this-city-is-ours-season-2-review-liverpudlian-gang-drama-bbc",
@@ -1380,7 +1349,7 @@
             "byline": "Sarah Dempster"
           },
           "kicker": "Television & radio",
-          "trail": "Nefarious doings, tiny-headed henchmen and sockless villains – the mob saga is back. And it's as lovable as it is bloody.",
+          "trail": "Nefarious doings, tiny-headed henchmen and sockless villains – the mob saga is back, and it's as lovable as it is bloody.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/917a0ba2cd3ae60de4eda9f8edf9fe25ce127380/500_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1435,7 +1404,7 @@
         {
           "path": "/music/2026/oct/26/jimmy-webb-wichita-lineman-macarthur-park-galveston-dolly",
           "linked": false,
-          "headline": "Jimmy Webb on writing hits for Dolly, Glen and Frank – and his wild days",
+          "headline": "Jimmy Webb resurrects his lost songs, and the wild stories behind his biggest hits",
           "original": {
             "headline": "‘I don’t give a damn what people think any more!’ Jimmy Webb on his wild days – and writing hits for Dolly, Glen and Frank",
             "url": "https://www.theguardian.com/music/2026/oct/26/jimmy-webb-wichita-lineman-macarthur-park-galveston-dolly",
@@ -1443,7 +1412,7 @@
             "byline": "Dave Simpson"
           },
           "kicker": "Music",
-          "trail": "From Wichita Lineman to MacArthur Park, he penned masterpieces. As the great hit-maker resurrects his lost songs, he recalls writing for giants – and the night Richard Harris stripped off and disappeared.",
+          "trail": "From Wichita Lineman to MacArthur Park, he penned masterpieces; now the great hit-maker recalls writing for giants – and the night Richard Harris stripped off and disappeared.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0275696e37fe4b4d9c42935b9c1007fb42d607df/0_220_2926_2341/master/2926.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1454,7 +1423,7 @@
         {
           "path": "/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week",
           "linked": false,
-          "headline": "A Sugababe reveals her hardcore system for dating: best podcasts of the week",
+          "headline": "This week's best podcasts: a Sugababe's dating rules, and Hillary Clinton on the midterms",
           "original": {
             "headline": "A Sugababe reveals her hardcore system for dating: best podcasts of the week",
             "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week",
@@ -1462,7 +1431,7 @@
             "byline": "Hannah J Davies and Hollie Richardson"
           },
           "kicker": "Television & radio",
-          "trail": "She joins Sharifa Butterfly, Tara Thorpe and Issra Wiheba for lively, relatable chats. Plus, Hillary Clinton unpicks the issues in the upcoming US midterms.",
+          "trail": "The singer joins Sharifa Butterfly, Tara Thorpe and Issra Wiheba for lively, relatable chats, while Hillary Clinton unpicks the issues in the upcoming US midterms.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/089f801ef4d41be8fab338ac676f9b1fc7a710fb/0_443_1536_1228/master/1536.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1473,7 +1442,7 @@
         {
           "path": "/music/2026/oct/26/igor-levit-resistance-album-review",
           "linked": false,
-          "headline": "Igor Levit: Resistance album review – essential listening in a time of bullies and despots",
+          "headline": "Beethoven and Schoenberg get poetic, exquisite readings from Igor Levit on Resistance",
           "original": {
             "headline": "Igor Levit: Resistance album review – essential listening in a time of bullies and despots",
             "url": "https://www.theguardian.com/music/2026/oct/26/igor-levit-resistance-album-review",
@@ -1481,7 +1450,7 @@
             "byline": "Clive Paget"
           },
           "kicker": "Music",
-          "trail": "The German pianist performs these works by Beethoven and Schoenberg, linked by Napoleon, with his characteristic exquisite touch, in interpretations full of poetry.",
+          "trail": "The German pianist performs these pieces, linked by Napoleon, with his characteristic exquisite touch, in interpretations full of poetry – essential listening in a time of bullies and despots.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/df1389bf01998cd716072d1f63f54aa27b2ff446/170_0_6036_4829/master/6036.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1498,7 +1467,7 @@
         {
           "path": "/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art",
           "linked": false,
-          "headline": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
+          "headline": "Yiyun Li's Music Against the Night asks what art and immortality are worth",
           "original": {
             "headline": "Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art",
             "url": "https://www.theguardian.com/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art",
@@ -1506,7 +1475,7 @@
             "byline": "Kevin Power"
           },
           "kicker": "Books",
-          "trail": "What does it cost, to live your life in the hope of immortality? Li examines the gulf between talent and genius through the marriage of two real-life musicians.",
+          "trail": "The novel examines the gulf between talent and genius through the marriage of two real-life musicians, in a virtuosic interrogation of the power of art.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/dab1b5e1f6b3a1408bdc08d6a1f98126b033bac0/1401_1273_8359_6688/master/8359.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1517,7 +1486,7 @@
         {
           "path": "/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
           "linked": false,
-          "headline": "War Is Interested in You by Gideon Rachman review – how close are we to world war three?",
+          "headline": "Gideon Rachman weighs how close we are to a third world war",
           "original": {
             "headline": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three? ",
             "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
@@ -1525,7 +1494,7 @@
             "byline": "Charlie English"
           },
           "kicker": "Books",
-          "trail": "A foreign affairs expert's sobering assessment of the state of global security.",
+          "trail": "In War Is Interested in You, a foreign affairs expert gives his bleak assessment of the state of global security.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f8fcb50dfccd7952d4576006c4dc827108d63e26/391_0_3519_2815/master/3519.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1542,7 +1511,7 @@
         {
           "path": "/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
           "linked": false,
-          "headline": "Lara Croft turns 30: looking back at the video game icon's biggest blunders",
+          "headline": "Thirty years on, we dig up Lara Croft's most glorious blunders",
           "original": {
             "headline": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
             "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
@@ -1550,7 +1519,7 @@
             "byline": "Ellie Gibson"
           },
           "kicker": "Games",
-          "trail": "We all know the highlights of the tomb raider's storied career – but what about the lowlights? We dig deep to unearth the archaeologist's less glorious moments.",
+          "trail": "We all know the highlights of the tomb raider's storied career, but what about the lowlights? We unearth the archaeologist's less glorious moments.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1561,7 +1530,7 @@
         {
           "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
           "linked": false,
-          "headline": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+          "headline": "Modern Warfare 4 review – the developers throw everything at a thrilling, globe-trotting game",
           "original": {
             "headline": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
             "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
@@ -1569,7 +1538,7 @@
             "byline": "Keith Stuart"
           },
           "kicker": "Games",
-          "trail": "From parkour over Manhattan rooftops and car chases in Paris to the climactic battle at a North Korean air base, the developers have thrown absolutely everything at the game.",
+          "trail": "From parkour over Manhattan rooftops and car chases in Paris to a climactic battle at a North Korean air base, this is a thrilling airport novel of a game.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1580,7 +1549,7 @@
         {
           "path": "/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
           "linked": false,
-          "headline": "Nintendo Switch Sports Resort review – Wii Sports lives on in this appealing collection",
+          "headline": "Nintendo Switch Sports Resort review – a holiday-vibe collection that keeps Wii Sports alive",
           "original": {
             "headline": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
             "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
@@ -1588,7 +1557,7 @@
             "byline": "Keza MacDonald"
           },
           "kicker": "Games",
-          "trail": "Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game.",
+          "trail": "With a generous selection of sport-themed games, this is exactly what you want from a family video game.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1643,7 +1612,7 @@
         {
           "path": "/stage/2026/oct/25/derren-brown-only-human-review-gasp-inducing-stunts-apollo-london",
           "linked": false,
-          "headline": "Derren Brown's Only Human – gasp-inducing stunts from the magician-turned-prophet",
+          "headline": "Derren Brown's Only Human – gasp-inducing stunts from a modern-day Nostradamus",
           "original": {
             "headline": "Derren Brown turns into Nostradamus – and I predict you’ll submit to one gasp-inducing stunt after another",
             "url": "https://www.theguardian.com/stage/2026/oct/25/derren-brown-only-human-review-gasp-inducing-stunts-apollo-london",
@@ -1651,7 +1620,7 @@
             "byline": "Brian Logan"
           },
           "kicker": "Stage",
-          "trail": "Prophecies are impossibly fulfilled by the superstar, who takes his cue from the legendary French seer Nostradamus in this show.",
+          "trail": "Prophecies are impossibly fulfilled by the superstar, who takes his cue from the legendary French seer Nostradamus, in this show.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b173bf590e9950f4523c1b09f5ee968cd828d7db/443_0_2851_2281/master/2851.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2002,7 +1971,7 @@
         {
           "path": "/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
           "linked": false,
-          "headline": "There's a get-out clause for wrongly issued airport parking fines",
+          "headline": "There's a get-out clause even for the strictest airport parking fines",
           "original": {
             "headline": "Stung with a parking fine for an 18-second airport stop to tackle a wasp",
             "url": "https://www.theguardian.com/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
@@ -2010,7 +1979,7 @@
             "byline": "Anna Tims"
           },
           "kicker": "Money",
-          "trail": "Airports are ruthless in issuing PCNs if a car stops in a red zone, even for an 18-second stop to tackle a wasp. But there is a way to challenge it.",
+          "trail": "Airports are ruthless in issuing fines if a car stops in a red zone, even for an 18-second stop to tackle a wasp — but there is a way to challenge it.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ebe5a2a2f01240ab9dc5f5c302b680d197450f3b/0_0_4847_3879/master/4847.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2059,7 +2028,7 @@
         {
           "path": "/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
           "linked": false,
-          "headline": "How to protect your accounts from 'cookie theft', the fraudsters' new target",
+          "headline": "How to protect your accounts from cookie theft, fraudsters' primary target",
           "original": {
             "headline": "Cookie theft: how fraudsters get the digital key to your accounts",
             "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
@@ -2517,7 +2486,7 @@
         {
           "path": "/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
           "linked": false,
-          "headline": "Flávio Bolsonaro ordered to surrender passports after Brazil election defeat",
+          "headline": "Court orders defeated Flávio Bolsonaro to surrender his passports",
           "original": {
             "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
             "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -2544,7 +2513,7 @@
             "byline": "Patrick Butler and Pippa Crerar"
           },
           "kicker": "Society",
-          "trail": "A taper system will replace the rule in Wednesday's budget, after a Guardian investigation found carers who earned a penny over weekly limits faced debts of thousands of pounds, some chased using organised-crime legislation.",
+          "trail": "A controversial mechanism that hit unpaid carers with huge penalties will be scrapped, following a Guardian investigation.",
           "progress": "The chancellor, John Healey, is replacing the cliff-edge with a taper so carers lose a pound only for each pound earned above the limit.",
           "upside": 3,
           "image": {
@@ -2559,7 +2528,7 @@
         {
           "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
           "linked": false,
-          "headline": "John Crace digests Liz Truss's comeback memoir, Bank Job",
+          "headline": "John Crace spares you the 100 pages of Liz Truss's new book, Bank Job",
           "original": {
             "headline": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
             "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
@@ -2567,7 +2536,7 @@
             "byline": "John Crace"
           },
           "kicker": "Books",
-          "trail": "She's back with another book, and it reads a lot like the last one. Our sketchwriter spares you the 100 pages.",
+          "trail": "She's back with another book, and it reads a lot like the last one, our sketchwriter says.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/274cd0816eebcf2bdcdf76ef99f8cc922806b3dc/1718_328_3744_2995/500.jpg"
@@ -2613,7 +2582,7 @@
         {
           "path": "/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
           "linked": false,
-          "headline": "Critics speak out against racist, Islamophobic attacks during Trump's midterm campaign blitz",
+          "headline": "Opposition grows as Trump's rally rhetoric sparks nationwide outcry",
           "original": {
             "headline": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
             "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
@@ -2621,7 +2590,7 @@
             "byline": "Robert Mackey, Chris Hippensteel, Lucy Campbell and Tom Ambrose"
           },
           "kicker": "US news",
-          "trail": "The president continued his midterm campaign blitz in Mississippi amid the outcry. This live blog is now closed.",
+          "trail": "Trump continued his midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks; this live blog is now closed.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/a3a6bc9a255698ab87bc098f773be3825c3eeb14/132_0_4529_3625/500.jpg"
@@ -2676,7 +2645,7 @@
             "byline": "Phillip Inman Senior economics writer and Graeme Wearden"
           },
           "kicker": "Business",
-          "trail": "Latest ONS data presents a mixed picture, with a slump in job vacancies and analysts noting the labour market is 'running on idle'.",
+          "trail": "Latest ONS data presents a mixed picture, with a slump in job vacancies and analysts warning the labour market is 'running on idle'.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/620a3507183ab101881df40acb747d5e30fe4448/451_0_4774_3819/1000.jpg",
@@ -2690,7 +2659,7 @@
         {
           "path": "/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
           "linked": false,
-          "headline": "Has Healey's military-style budget secrecy really played out so differently to past budgets?",
+          "headline": "Healey's budget secrecy looks a lot like past budgets' media leaks, writer argues",
           "original": {
             "headline": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
             "url": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
@@ -2698,7 +2667,7 @@
             "byline": "Rowena Mason Whitehall editor"
           },
           "kicker": "UK news",
-          "trail": "The chancellor was said to be worried about market-sensitive leaks, yet significant policies have been heavily trailed in the media.",
+          "trail": "The chancellor was said to be worried about market-sensitive leaks, yet significant policies have still been heavily trailed in the media.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/e64ec72da248480ec1259b9e79bda383cd2973a5/887_0_4727_3781/1000.jpg",
@@ -2712,7 +2681,7 @@
         {
           "path": "/society/2026/sep/13/carers-allowance-scandal-victims-could-wait-until-2054-for-justice-charities-warn",
           "linked": false,
-          "headline": "Campaigners press for faster resolution of carers' overpayment claims",
+          "headline": "Charities say carers could die before seeing justice over DWP overpayments scandal",
           "original": {
             "headline": "Unpaid carers could die before seeing justice for overpayments scandal, charities warn",
             "url": "https://www.theguardian.com/society/2026/sep/13/carers-allowance-scandal-victims-could-wait-until-2054-for-justice-charities-warn",
@@ -2720,7 +2689,7 @@
             "byline": "Patrick Butler Social policy editor"
           },
           "kicker": "Society",
-          "trail": "Campaigners say some carers may be waiting years for a refund from the DWP at the current rate.",
+          "trail": "Campaigners say that at the current glacial pace, some carers may wait years before receiving a refund from the DWP.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/2d5ff3af9e9dfcccfbf71b9b62851e67af782267/0_0_5600_4480/1000.jpg",
@@ -2788,7 +2757,7 @@
         {
           "path": "/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
           "linked": false,
-          "headline": "Flávio Bolsonaro ordered to surrender passports after Brazil election defeat",
+          "headline": "Court orders defeated Flávio Bolsonaro to surrender his passports",
           "original": {
             "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
             "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -2818,7 +2787,7 @@
             "byline": "Tom Phillips in São Paulo and Tiago Rogero in Brasília"
           },
           "kicker": "World news",
-          "trail": "The leftist incumbent called his comeback a 'defeat for denialism', as Bolsonaro initially refused to accept the result.",
+          "trail": "The leftist incumbent called his comeback a 'defeat for denialism', as Bolsonaro refuses to accept the result.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/1ea33b8c8e9c3cb14fb6e86ce190326d4d4868d4/19_0_4778_3823/500.jpg"
@@ -2836,7 +2805,7 @@
             "byline": "Tom Ambrose (now); Martin Belam, Yohannes Lowe, Adam Fulton and Marina Dunbar (earlier)"
           },
           "kicker": "World news",
-          "trail": "Luiz Inácio Lula da Silva defeated the far-right senator to be elected president of Brazil for a fourth non-consecutive term.",
+          "trail": "Luiz Inácio Lula da Silva defeated the far-right senator to be elected president of Brazil for a fourth non-consecutive term, as Bolsonaro refuses to concede.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/1000.jpg",
@@ -2879,7 +2848,7 @@
         "byline": "Tom Phillips in São Paulo and Tiago Rogero in Brasília"
       },
       "standfirst": "Leaders and governments around the world congratulate Lula on a dramatic comeback that unseated Flávio Bolsonaro by more than four million votes, a result seen as a signal for the rest of Latin America",
-      "progress": "World leaders across the political spectrum have recognised Lula’s victory, with only Donald Trump and Elon Musk casting doubt on the result.",
+      "progress": "World leaders across the political spectrum have recognised Lula's victory, though Bolsonaro himself has rejected the result, calling it 'sacanagem', and Trump and Musk voiced doubts too.",
       "upside": 3,
       "byline": "Phom Tillips in São Paulo and Riago Togero in Brasília",
       "mainImage": {
@@ -2898,13 +2867,13 @@
         "name": "World news"
       },
       "publishedAt": "2026-10-26T19:21:36Z",
-      "headline": "Israeli military chief resists pressure toward new conflict with Iran",
-      "bodyHtml": "<p>Israel's armed forces chief, Lt Gen Eyal Zamir, reportedly clashed with Benjamin Netanyahu in recent days over a directive to the military which could “potentially spark an immediate conflagration with Iran at a very sensitive juncture”, Israel’s Channel 12 news reported. Zamir is reported to have requested that the directive, the details of which were not specified, be presented to him in writing. Netanyahu denied the report, and the defence ministry later denied any intention to carry out military operations against Iran.</p>   <p>The report came as the Israeli prime minister, whose far-right coalition narrowly trails in the polls ahead of Tuesday’s close-run election, posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. “Anyone who cares about their own physical existence, that of their family, and their loved ones should have a trembling hand before voting for [the opposition],” he wrote in a <a href=\"https://x.com/netanyahu/status/2114286556034859410?s=20\" rel=\"noopener\">social media post</a> about Iran’s nuclear programme.</p> <p>On Monday, CNN reported that Netanyahu had tried to convince Donald Trump to launch a renewed assault on Iran in recent weeks, renewing the war both men started in February. The report, confirming an earlier account in the Financial Times, said Trump had ruled out any such action until US congressional elections next week.</p> <p>The Israel Defense Forces (IDF) issued a statement on Monday that stopped well short of a denial of the press reports. It simply insisted that its decisions were based exclusively on “security, professional, objective and national considerations”.</p> <p>Netanyahu’s warnings were a marked contrast with his triumphalism in the immediate wake of the wars on Iran that launched last year and this spring. In March Netanyahu said Israeli and US strikes had <a href=\"https://www.timesofisrael.com/on-19th-day-of-war-netanyahu-says-iran-can-no-longer-enrich-uranium-build-missiles/\" rel=\"noopener\">destroyed</a> Iran’s ability to enrich uranium and produce ballistic missiles, and in 2025 he claimed a “<a href=\"https://www.timesofisrael.com/netanyahu-claims-historic-victory-says-we-sent-irans-nuclear-program-down-the-drain/\" rel=\"noopener\">historic victory</a>” over Iran that would stand for generations.</p> <p>Gadi Eisenkot, the leader of the opposition bloc and Netanyahu’s most likely challenger for the prime minister’s job, expressed his confidence in Zamir. “We won’t allow the IDF to be turned into a pawn in Netanyahu’s survival campaign,” said Eisenkot, who is a retired general.</p>    <p>Most polls suggest the mainly centre-right opposition bloc led by Eisenkot is poised to win more seats in Israel’s Knesset than the Netanyahu coalition, but neither would be able to muster the 61 seats necessary for a majority government.</p> <p>The opposition would most likely be able to gather a majority and topple Netanyahu in coalition with parties representing Palestinians with Israeli citizenship, roughly a fifth of the population. But conservatives inside the Eisenkot bloc have ruled out such a coalition, raising the prospect of a minority government, another round of elections and a possible Netanyahu resurgence.</p> <p>As the elections drew closer, Netanyahu framed the country’s choice as existential. He told Channel 14, which has acted as his lead cheerleader in the Israeli media: “There is a single fundamental issue here – our existence.”</p> <p>He described the opposition bloc as the “left” in alliance with Palestinians, and enemies of the country. “We see what is happening in Europe. The alliance between the left and Islam might destroy the state of Israel,” he said.</p> <p>The main opposition parties are rightwing or centre-right, sharing Netanyahu’s adamant opposition to the establishment of a Palestinian state, and who have largely supported the war in Gaza. Some opposition leaders have ruled out any kind of political alliance with Palestinian Israeli parties, who could emerge from the elections holding the balance of power in the Knesset. Palestinians in the occupied territories do not have the vote.</p> <p>The opposition bloc is held together more by its shared antipathy to Netanyahu, who has dominated the Israeli political scene over the past three decades and veered increasingly towards authoritarianism, seeking to limit the independence of the judiciary and turn the police and Shin Bet internal security service into political tools.</p> <p>The prime minister is also in the midst of a trial on corruption charges, and his legal jeopardy could increase if he loses his grip on power.</p>    <p>In the closing stages of the campaign, Netanyahu has also emphasised the overt support he enjoys from Donald Trump, who repeated his endorsement on Sunday in a social media post, saying “When you go to the Polls please remember that Bibi has been an outstanding warrior prime minister!”</p> <p>The Israeli outlet Walla News reported that this repeat endorsement was a result of relentless pressure from Netanyahu’s office. Most Israelis questioned said the endorsement would not sway their vote, suggesting the tactic may be losing its edge: in one survey, 64% said it would not influence their vote, and 17% said it made them less likely to back Netanyahu, against 12% who said it had deepened their resolve to support Netanyahu’s Likud party. The US president’s earlier “total endorsement” on 18 October made no visible difference to the polls.</p> <p>In the closing stages of the closely fought campaign, Netanyahu has also forecast growing financial isolation, saying billions of dollars in annual military aid from the US would dry up soon, and drew a rare public rebuke from the central bank for a repeated claim that Israel could use cryptocurrencies to dodge escalating global sanctions. “Cryptocurrencies cannot serve as a means to circumvent sanctions,” the Bank of Israel said on Sunday evening. “The right course for the Israeli economy is to maintain economic relations with our primary trading partners and to focus on preventing sanctions and their negative impact on the economy.”</p> <p>Netanyahu had already laid out a forecast for a bleak, isolated future a year ago, when he said Israel might need to become a militarised “<a href=\"https://www.theguardian.com/world/2025/sep/16/netanyahu-super-sparta-vision-israel-economic-future-isolation\" rel=\"noopener\">super Sparta</a>”, then rowed back again in the face of fierce criticism from a horrified Israeli public.</p> <p>His return to this rhetoric and the tactics of fear, particularly after unexpected losses for far-right allies in Serbia and Brazil, raised questions about whether the ultimate political survivor may finally be on the ropes. Few among his allies or enemies expected his government to survive long after 7 October, much less complete its term. But the majority of polls have been clear for more than two years that his current coalition looks set to lose its slim majority.</p>",
+      "headline": "Military chief clashes with Netanyahu over directive risking new Iran conflict",
+      "bodyHtml": "<p>Israel's central bank has publicly rebuked Benjamin Netanyahu for a repeated claim that Israel could use cryptocurrencies to dodge escalating global sanctions. “Cryptocurrencies cannot serve as a means to circumvent sanctions,” the Bank of Israel said on Sunday evening. “The right course for the Israeli economy is to maintain economic relations with our primary trading partners and to focus on preventing sanctions and their negative impact on the economy.”</p> <p>The rebuke came as Netanyahu resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran, as his far-right coalition narrowly trailed in the polls ahead of Tuesday’s close-run elections.</p>   <p>Israel’s Channel 12 news reported that the prime minister and the armed forces chief of staff, Lt Gen Eyal Zamir, clashed in recent days over a directive to the military which could “potentially spark an immediate conflagration with Iran at a very sensitive juncture”, by provoking a miscalculation by Iran. Zamir is reported to have requested the directive, the details of which were not specified, to be presented to him in writing.</p> <p>Netanyahu denied the report, and the defence ministry later denied any intention to carry out military operations against Iran. The Israel Defense Forces (IDF) issued a statement on Monday that stopped well short of a denial of the press reports, but insisted that its decisions were based exclusively on “security, professional, objective and national considerations”.</p> <p>Netanyahu posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. “Anyone who cares about their own physical existence, that of their family, and their loved ones should have a trembling hand before voting for [the opposition],” he wrote in a <a href=\"https://x.com/netanyahu/status/2114286556034859410?s=20\" rel=\"noopener\">social media post</a> about Iran’s nuclear programme.</p> <p>On Monday however, CNN reported that Netanyahu had tried to convince Donald Trump to launch a renewed assault on Iran in recent weeks, renewing the war both men started in February. The report, confirming an earlier account in the Financial Times, said Trump had ruled out any such action until US congressional elections next week.</p> <p>Netanyahu’s warnings were a marked contrast with his triumphalism in the immediate wake of the wars on Iran that launched last year and this spring. In March Netanyahu said Israeli and US strikes had <a href=\"https://www.timesofisrael.com/on-19th-day-of-war-netanyahu-says-iran-can-no-longer-enrich-uranium-build-missiles/\" rel=\"noopener\">destroyed</a> Iran’s ability to enrich uranium and produce ballistic missiles, and in 2025 he claimed a “<a href=\"https://www.timesofisrael.com/netanyahu-claims-historic-victory-says-we-sent-irans-nuclear-program-down-the-drain/\" rel=\"noopener\">historic victory</a>” over Iran that would stand for generations.</p> <p>Gadi Eisenkot, the leader of the opposition bloc and Netanyahu’s most likely challenger for the prime minister’s job, expressed his confidence in Zamir. “We won’t allow the IDF to be turned into a pawn in Netanyahu’s survival campaign,” said Eisenkot, who is a retired general.</p>    <p>Most polls suggest the mainly centre-right opposition bloc led by Eisenkot is poised to win more seats in Israel’s Knesset than the Netanyahu coalition, but neither would be able to muster the 61 seats necessary for a majority government.</p> <p>The opposition would most likely be able to gather a majority and topple Netanyahu in coalition with parties representing Palestinians with Israeli citizenship, roughly a fifth of the population. But conservatives inside the Eisenkot bloc have ruled out such a coalition, raising the prospect of a minority government, another round of elections and a possible Netanyahu resurgence.</p> <p>As the elections drew closer, Netanyahu framed the country’s choice as existential. He told Channel 14, which has acted as his lead cheerleader in the Israeli media: “There is a single fundamental issue here – our existence.”</p> <p>He described the opposition bloc as the “left” in alliance with Palestinians, and enemies of the country. “We see what is happening in Europe. The alliance between the left and Islam might destroy the state of Israel,” he said.</p> <p>The main opposition parties are rightwing or centre-right, sharing Netanyahu’s adamant opposition to the establishment of a Palestinian state, and who have largely supported the war in Gaza. Some opposition leaders have ruled out any kind of political alliance with Palestinian Israeli parties, who could emerge from the elections holding the balance of power in the Knesset. Palestinians in the occupied territories do not have the vote.</p> <p>The opposition bloc is held together more by its shared antipathy to Netanyahu, who has dominated the Israeli political scene over the past three decades and veered increasingly towards authoritarianism, seeking to limit the independence of the judiciary and turn the police and Shin Bet internal security service into political tools.</p> <p>The prime minister is also in the midst of a trial on corruption charges, and his legal jeopardy could increase if he loses his grip on power.</p>    <p>In the closing stages of the campaign, Netanyahu has also emphasised the overt support he enjoys from Donald Trump, who repeated his endorsement on Sunday in a social media post, saying “When you go to the Polls please remember that Bibi has been an outstanding warrior prime minister!”</p> <p>The Israeli outlet Walla News reported that this repeat endorsement was a result of relentless pressure from Netanyahu’s office. It is unclear, however, whether Trump’s support will carry any weight with the electorate. The US president’s earlier “total endorsement” on 18 October made no visible difference to the polls.</p> <p>In one survey, 64% of Israelis questioned said it would not influence their vote, and 17% said it made them less likely to back Netanyahu, against 12% who said it had deepened their resolve to support Netanyahu’s Likud party.</p> <p>Netanyahu had already laid out a forecast for a bleak, isolated future a year ago, when he said Israel might need to become a militarised “<a href=\"https://www.theguardian.com/world/2025/sep/16/netanyahu-super-sparta-vision-israel-economic-future-isolation\" rel=\"noopener\">super Sparta</a>”, then rowed back again in the face of fierce criticism from a horrified Israeli public.</p> <p>His return to this rhetoric and the tactics of fear, particularly after unexpected losses for far-right allies in Serbia and Brazil, raised questions about whether the ultimate political survivor may finally be on the ropes.</p> <p>Few among his allies or enemies expected his government to survive long after 7 October, much less complete its term. But the majority of polls have been clear for more than two years that his current coalition looks set to lose its slim majority.</p>",
       "related": [
         {
           "path": "/world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
           "linked": false,
-          "headline": "Iran and the US agree a fragile ceasefire after Israel's war with no winners",
+          "headline": "Netanyahu emerges as the biggest loser from a war that had no winners",
           "original": {
             "headline": "In a war with no winners, Netanyahu looks like the biggest loser",
             "url": "https://www.theguardian.com/world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
@@ -2912,7 +2881,7 @@
             "byline": "Peter Beaumont Senior international correspondent"
           },
           "kicker": "World news",
-          "trail": "The conflict with Iran has turned into a bust that opponents call 'a political disaster' for Netanyahu.",
+          "trail": "As Iran and the US agree a fragile ceasefire, Israel's conflict has turned into a bust that opponents call 'a political disaster' for Netanyahu.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f79d146460844bd368ab830a4d365439820e4916/0_0_3463_2309/1000.jpg",
@@ -2970,7 +2939,7 @@
         {
           "path": "/world/2026/apr/06/trump-iran-war-netanyahu-israel",
           "linked": false,
-          "headline": "Senior US officials question whether Netanyahu's 'easy war' pitch on Iran was overblown",
+          "headline": "Senior US officials conclude Netanyahu's 'easy war' pitch on Iran was overblown",
           "original": {
             "headline": "Was Trump oblivious to the realities of Netanyahu’s promised ‘easy’ war on Iran?",
             "url": "https://www.theguardian.com/world/2026/apr/06/trump-iran-war-netanyahu-israel",
@@ -2998,8 +2967,8 @@
         "standfirst": "<p>Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls</p>",
         "byline": "Emma Graham-Harrison and Julian Borger in Jerusalem"
       },
-      "standfirst": "Israel's military chief reportedly resisted a directive risking renewed conflict with Iran, as Benjamin Netanyahu, trailing before Tuesday's election, posted an AI-generated image of a mushroom cloud over Tel Aviv, invoking nuclear annihilation.",
-      "progress": "Armed forces chief Eyal Zamir reportedly resisted a directive risking conflict with Iran, and the central bank publicly rejected Netanyahu's sanctions-evasion claims.",
+      "standfirst": "Israel's armed forces chief reportedly clashed with Benjamin Netanyahu over a directive that could spark conflict with Iran, as the prime minister, trailing before Tuesday's election, posted an AI-generated image of a mushroom cloud over Tel Aviv, invoking nuclear annihilation.",
+      "progress": "Armed forces chief Eyal Zamir reportedly clashed with Netanyahu and asked for the directive in writing; the central bank also publicly rejected Netanyahu's sanctions-evasion claims.",
       "upside": 1,
       "byline": "Gremma Aham-Harrison and Bulian Jorger in Jerusalem",
       "mainImage": {
@@ -3046,7 +3015,7 @@
         {
           "path": "/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
           "linked": false,
-          "headline": "Bank of England weighs rate move as inflation climbs to 3.1%",
+          "headline": "Bank of England prepares for its next interest rates decision",
           "original": {
             "headline": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
             "url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
@@ -3054,7 +3023,7 @@
             "byline": "Richard Partington Senior economics correspondent"
           },
           "kicker": "Business",
-          "trail": "Burnham said there would be 'difficult decisions' in the budget and rejected claims he leads a 'tax-and-spend' government.",
+          "trail": "Burnham warned of 'difficult decisions' in the budget as inflation climbed to 3.1%, while the PM rejected claims he leads a 'tax-and-spend' government.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/f659e05e828243ccbca3bdf1e285a7031d51341e/475_240_1843_1474/1000.jpg",
@@ -3068,7 +3037,7 @@
         {
           "path": "/business/2024/jan/02/uk-grocery-inflation-food-price-rises-brexit-costs",
           "linked": false,
-          "headline": "Food price rises ease, even as UK shop inflation sticks at 4.3%",
+          "headline": "Food price rises begin to ease, retailers say",
           "original": {
             "headline": "UK shop inflation sticks at 4.3% despite lower food price rises",
             "url": "https://www.theguardian.com/business/2024/jan/02/uk-grocery-inflation-food-price-rises-brexit-costs",
@@ -3076,7 +3045,7 @@
             "byline": "Sarah Butler"
           },
           "kicker": "Business",
-          "trail": "Retailers say post-Brexit checks on fresh food due from April could further drive up shopping costs.",
+          "trail": "UK shop inflation sticks at 4.3% despite the easing food prices; retailers warn post-Brexit checks on fresh food due from April could further drive up shopping costs.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/aaf155e97b15039dd31df77714c5e1dfb50cf340/0_395_7892_4738/1000.jpg",
@@ -3116,8 +3085,8 @@
         "name": "Politics"
       },
       "publishedAt": "2026-10-26T18:03:46Z",
-      "headline": "Burnham says British public will be ‘the bosses’ on UK’s future with EU",
-      "bodyHtml": "<p>Downing Street has said it will be for the British public to decide on any closer relationship with the EU, after the prime minister said an “honest discussion” was needed on the issue. A spokesperson said Andy Burnham was not proposing a return to freedom of movement, or any particular option.</p> <p>“He is saying that it’s time for us to discuss what kind of long-term relationship with Europe is best for Britain and he is referring to the types of areas that that agreement and long-term future could cover,” the spokesperson said. “He is crucially not leaning either way, and that will be for the British public to decide. And his focus for now is on next month’s summit and the practical arrangements that we hope to make there, which will add billions to the economy.”</p> <p>Burnham fuelled speculation about a return to freedom of movement in an interview at the weekend, prompting questions about how close the UK could become to Brussels.</p> <p>Confusion deepened after further interviews were interpreted as leaving the door open to an eventual return to freedom of movement and another referendum on the issue.</p> <p>The spokesperson said the government was not yet at the stage of confirming whether the public would decide on proposals for the UK to move closer to the EU.</p> <p>Asked whether Burnham accepted that returning to freedom of movement would mean Britain lost control over legal migration, the spokesperson said: “He’s not setting out a concrete position either way. What he’s saying is that he wants to have a conversation with the British public about what our long-term future with the European Union looks like.”</p> <p>In an interview with the Sunday Times, Burnham indicated that <a href=\"https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit\" rel=\"noopener\">staying out of free movement would no longer be a red line</a> in discussions about how the UK can move closer to the EU.</p> <p>On Monday, Burnham ruled out the possibility of rejoining the EU within this parliament and indicated he could fight the next general election on a promise to take the UK back into the EU. He said: “I’m not going to move away from the red lines that were in the Labour manifesto.”</p> <p>Hours later, Burnham told journalists “no” when asked if he would allow the UK to join the EU freedom of movement scheme without a referendum.</p> <p>When asked whether he wanted Britain to rejoin the EU, he said: “I’ve said I’m going to be honest and say, in my lifetime I would like to see that happen, but I am not going to move ahead of the public. I am not going to dictate in terms of my own opinions here, you have to make sure that the British public are the bosses.”</p> <p>Challenged on how his constituents in Makerfield would feel about his discussions about the EU, given 65% of them voted to leave, Burnham added: “I said we wouldn’t rerun the referendum and that’s not what I’m doing. The British public, the people of Makerfield, will be the bosses here. They will decide what happens in relation to Brexit.”</p> <p>Burnham even ruled out an early general election on a manifesto change on this issue. He told GMB: “There is no election coming anytime soon. People may as well put that out of their mind.” However, he left the door open to a future fight on a promise to fully rejoin the EU.</p> <p>Burnham will be in Brussels for the UK-EU summit on 20 November, as he seeks to strike a better deal with the bloc. He believes the Brexit deal has “weakened our economy [and] weakened our control of immigration” and is not good enough for the country.</p>",
+      "headline": "Burnham vows not to move ahead of the British public on EU ties",
+      "bodyHtml": "<p>Downing Street moved to calm confusion over Andy Burnham's position on freedom of movement with the EU, after the prime minister said an “honest discussion” was needed on the issue. A spokesperson said Burnham was not proposing a return to freedom of movement, or any particular option.</p> <p>“He is saying that it’s time for us to discuss what kind of long-term relationship with Europe is best for Britain and he is referring to the types of areas that that agreement and long-term future could cover,” the spokesperson said. “He is crucially not leaning either way, and that will be for the British public to decide. And his focus for now is on next month’s summit and the practical arrangements that we hope to make there, which will add billions to the economy.”</p> <p>Burnham fuelled speculation about a return to freedom of movement in an interview at the weekend, prompting questions about how close the UK could become to Brussels.</p> <p>Confusion deepened after further interviews were interpreted as leaving the door open to an eventual return to freedom of movement and another referendum on the issue.</p> <p>The spokesperson said the government was not yet at the stage of confirming whether the public would decide on proposals for the UK to move closer to the EU.</p> <p>Asked whether Burnham accepted that returning to freedom of movement would mean Britain lost control over legal migration, the spokesperson said: “He’s not setting out a concrete position either way. What he’s saying is that he wants to have a conversation with the British public about what our long-term future with the European Union looks like.”</p> <p>In an interview with the Sunday Times, Burnham indicated that <a href=\"https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit\" rel=\"noopener\">staying out of free movement would no longer be a red line</a> in discussions about how the UK can move closer to the EU.</p> <p>On Monday, Burnham ruled out the possibility of rejoining the EU within this parliament and indicated he could fight the next general election on a promise to take the UK back into the EU. He said: “I’m not going to move away from the red lines that were in the Labour manifesto.”</p> <p>Hours later, Burnham told journalists “no” when asked if he would allow the UK to join the EU freedom of movement scheme without a referendum.</p> <p>When asked whether he wanted Britain to rejoin the EU, he said: “I’ve said I’m going to be honest and say, in my lifetime I would like to see that happen, but I am not going to move ahead of the public. I am not going to dictate in terms of my own opinions here, you have to make sure that the British public are the bosses.”</p> <p>Challenged on how his constituents in Makerfield would feel about his discussions about the EU, given 65% of them voted to leave, Burnham added: “I said we wouldn’t rerun the referendum and that’s not what I’m doing. The British public, the people of Makerfield, will be the bosses here. They will decide what happens in relation to Brexit.”</p> <p>Burnham even ruled out an early general election on a manifesto change on this issue. He told GMB: “There is no election coming anytime soon. People may as well put that out of their mind.” However, he left the door open to a future fight on a promise to fully rejoin the EU.</p> <p>Burnham will be in Brussels for the UK-EU summit on 20 November, as he seeks to strike a better deal with the bloc. He believes the Brexit deal has “weakened our economy [and] weakened our control of immigration” and is not good enough for the country.</p>",
       "related": [
         {
           "path": "/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
@@ -3224,28 +3193,6 @@
             "src": "https://media.guim.co.uk/33bd484b3049da09d96757ddf4d6de04f7f8ef2c/946_127_2878_2302/500.jpg"
           },
           "byline": "Tamsin Carmichael Political correspondent"
-        },
-        {
-          "path": "/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-          "linked": false,
-          "headline": "Burnham says Brexit deal must improve for the British public",
-          "original": {
-            "headline": "Brexit deal is not good enough for British public, says Andy Burnham",
-            "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-            "trail": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changes",
-            "byline": "Aletha Adu Political correspondent"
-          },
-          "kicker": "Politics",
-          "trail": "EU exit has damaged the economy and failed to bring promised benefits, the PM says, though he rules out big changes before the election.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/f292b2a2ce94ce0fdfdabbda589c1b0008b1475e/1862_969_4674_3739/1000.jpg",
-            "alt": "Andy Burnham speaks during Prime Minister's Questions in the Commons",
-            "credit": "Photograph: House of Commons/PA",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Tamsin Carmichael Political correspondent"
         }
       ],
       "status": "rewritten",
@@ -3256,7 +3203,7 @@
         "standfirst": "<p>Clarification comes after PM fuelled speculation about EU-UK relationship in series of interviews at weekend</p>",
         "byline": "Aletha Adu Political correspondent "
       },
-      "standfirst": "The prime minister says it will be up to voters to decide Britain’s long-term relationship with Brussels, as No 10 moves to clarify confusion over his recent remarks on freedom of movement",
+      "standfirst": "No 10 moved to calm confusion over Burnham's remarks on freedom of movement, saying he favours no fixed position on relations with Brussels – though it stopped short of confirming the public would get the final say.",
       "progress": "Burnham is heading to a Brussels summit on 20 November to seek a deal he says could add billions to the economy.",
       "upside": 1,
       "byline": "Tamsin Carmichael Political correspondent ",
@@ -3288,7 +3235,6 @@
         "byline": "Emine Sinmaz"
       },
       "standfirst": "Helen Berger, who worked for Brand at the height of his fame, told Southwark crown court that those around him normalised his mistreatment of women; he denies raping and sexually assaulting six women",
-      "progress": "Southwark crown court is hearing witness testimony as prosecutors set out their case; Brand denies every charge against him.",
       "upside": 0,
       "byline": "Semine Inmaz",
       "mainImage": {
@@ -3307,13 +3253,13 @@
         "name": "Politics"
       },
       "publishedAt": "2026-10-27T00:01:02Z",
-      "headline": "Cross-party MPs demand transparency over Home Office’s use of AI",
-      "bodyHtml": "<p>A report into the Home Office’s use of artificial intelligence (AI) across the immigration system, which has cross-party support from Labour’s Bell Ribeiro-Addy, the Scottish National party’s Pete Wishart and the Green party’s Siân Berry, says the technology has been embedded across the department in near-total secrecy, reinforcing the so-called hostile environment for immigration.</p> <p>Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to the report by Open Rights Group (ORG).</p> <p>It is also being used to conduct surveillance of borders, through live facial recognition and AI-powered drones and satellites; to summarise asylum interviews and country policy information used as evidence in those interviews; and to prioritise and assess cases through the opaque Identify and Prioritise Immigration Cases (Ipic) tool.</p> <p>Information for the report has been gathered from a mix of limited information published by the Home Office, freedom of information requests and questions from MPs.</p> <p>The report, titled Automated Discrimination: Unpacking the Digital Hostile Environment, raises concerns about the use of AI in immigration, saying it is not neutral or accurate and can replicate bias and discrimination within society, particularly when a key driver for its use is anti-immigration policies and rhetoric.</p> <p>It says AI is being trialled and tested in near-total secrecy, with officials routinely invoking national security to stonewall freedom of information requests and redact disclosures. Successive governments are criticised for pushing an ideology that reduces complex human cases to a technical problem that can be fixed.</p> <p>The report raises concerns about “reducing people to data points” and replicating the <a href=\"https://www.theguardian.com/uk-news/2018/aug/27/hostile-environment-anatomy-of-a-policy-disaster\" rel=\"noopener\">hostile environment first envisaged by Theresa May</a> as home secretary in 2012. “Relying on AI to decide who gets to stay here and who gets thrown back into danger is a deeply alarming move,” it states.</p> <p>Open Rights Group is calling on the government to regulate AI and ban uses that are undemocratic and risk human rights violations, such as the use of ChatGPT tools in asylum applications.</p> <p>It also wants more transparency and stronger freedom of information laws, a narrower definition of national security and a robust public register of government AI tools.</p> <p>Ribeiro-Addy said: “In spite of questions and requests, the Home Office has been reluctant to publish the documents that would explain how AI is used in asylum processing, what the problems are and how they are being addressed. The department has not explained how it will ensure there is accountability when they fail or justified why some of the most vulnerable people, with the least power, should bear the greatest risks.”</p> <p>Sara Alsherif, a programme manager at Open Rights Group, said: “Migration is a human phenomenon and experience, not a technical problem that can be fixed by artificial intelligence. We urgently need transparency, accountability and strict regulation to restrict how AI is used and to prevent its wider rollout.”</p> <p>A Home Office spokesperson said: “Use of artificial intelligence is just one of the tools at our disposal to protect our borders and does not replace or automate the role of human decision-makers.</p> <p>“Asylum decisions are made by trained caseworkers, with AI tools used only to assist in navigating interview records and policy information. They cannot be used in isolation and do not make decisions on claims.</p> <p>“We regularly monitor the performance of these tools alongside our established quality-assurance processes and have already committed to publishing updated evaluations on their rollout.”</p>",
+      "headline": "Home Office commits to publishing evaluations of its asylum AI tools",
+      "bodyHtml": "<p>The Home Office says it has already committed to publishing updated evaluations of the AI tools it uses, and that trained caseworkers, not AI, make decisions on asylum claims, after a report found the technology has been embedded across the department in near-total secrecy, reinforcing the so-called hostile environment for immigration.</p> <p>A Home Office spokesperson said: “Use of artificial intelligence is just one of the tools at our disposal to protect our borders and does not replace or automate the role of human decision-makers.</p> <p>“Asylum decisions are made by trained caseworkers, with AI tools used only to assist in navigating interview records and policy information. They cannot be used in isolation and do not make decisions on claims.</p> <p>“We regularly monitor the performance of these tools alongside our established quality-assurance processes and have already committed to publishing updated evaluations on their rollout.”</p> <p>Sara Alsherif, a programme manager at Open Rights Group, said: “Migration is a human phenomenon and experience, not a technical problem that can be fixed by artificial intelligence. We urgently need transparency, accountability and strict regulation to restrict how AI is used and to prevent its wider rollout.”</p> <p>Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to the report by Open Rights Group (ORG).</p> <p>It is also being used to conduct surveillance of borders, through live facial recognition and AI-powered drones and satellites; to summarise asylum interviews and country policy information used as evidence in those interviews; and to prioritise and assess cases through the opaque Identify and Prioritise Immigration Cases (Ipic) tool.</p> <p>Information for the report has been gathered from a mix of limited information published by the Home Office, freedom of information requests and questions from MPs. The report has cross-party support from Labour's Bell Ribeiro-Addy, the Scottish National party's Pete Wishart and the Green party's Siân Berry.</p> <p>The report, titled Automated Discrimination: Unpacking the Digital Hostile Environment, raises concerns about the use of AI in immigration, saying it is not neutral or accurate and can replicate bias and discrimination within society, particularly when a key driver for its use is anti-immigration policies and rhetoric.</p> <p>It says AI is being trialled and tested in near-total secrecy, with officials routinely invoking national security to stonewall freedom of information requests and redact disclosures. Successive governments are criticised for pushing an ideology that reduces complex human cases to a technical problem that can be fixed.</p> <p>The report raises concerns about “reducing people to data points” and replicating the <a href=\"https://www.theguardian.com/uk-news/2018/aug/27/hostile-environment-anatomy-of-a-policy-disaster\" rel=\"noopener\">hostile environment first envisaged by Theresa May</a> as home secretary in 2012. “Relying on AI to decide who gets to stay here and who gets thrown back into danger is a deeply alarming move,” it states.</p> <p>Open Rights Group is calling on the government to regulate AI and ban uses that are undemocratic and risk human rights violations, such as the use of ChatGPT tools in asylum applications. It also wants more transparency and stronger freedom of information laws, a narrower definition of national security and a robust public register of government AI tools.</p> <p>Ribeiro-Addy said: “In spite of questions and requests, the Home Office has been reluctant to publish the documents that would explain how AI is used in asylum processing, what the problems are and how they are being addressed. The department has not explained how it will ensure there is accountability when they fail or justified why some of the most vulnerable people, with the least power, should bear the greatest risks.”</p>",
       "related": [
         {
           "path": "/uk-news/2020/jun/18/home-office-legal-challenge-digital-hostile-environment",
           "linked": false,
-          "headline": "Campaigners bring legal challenge over Home Office 'digital hostile environment'",
+          "headline": "Campaigners plan legal challenge over Home Office's 'digital hostile environment'",
           "original": {
             "headline": "Home Office to face legal challenge over 'digital hostile environment'",
             "url": "https://www.theguardian.com/uk-news/2020/jun/18/home-office-legal-challenge-digital-hostile-environment",
@@ -3321,7 +3267,7 @@
             "byline": "Henry McDonald"
           },
           "kicker": "UK news",
-          "trail": "They are seeking a judicial review over a visa application algorithm they call discriminatory.",
+          "trail": "They plan to bring a judicial review over a visa application algorithm they call discriminatory.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/0b054322774201b2acd87abaaaa999e0c848590c/0_31_3500_2101/1000.jpg",
@@ -3333,53 +3279,9 @@
           "byline": "Gillian Birchall"
         },
         {
-          "path": "/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
-          "linked": false,
-          "headline": "Home Office admits facial recognition issue with black and Asian subjects",
-          "original": {
-            "headline": "Home Office admits facial recognition tech issue with black and Asian subjects",
-            "url": "https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
-            "trail": "Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings",
-            "byline": "Rajeev Syal Home affairs editor"
-          },
-          "kicker": "Technology",
-          "trail": "Calls for review have followed after the technology was found to return more false positives for 'some demographic groups' on certain settings.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/59b56cbf6edc050f43cb5032e2e4e175d5069dc2/157_0_3000_2400/1000.jpg",
-            "alt": "Conference visitors standing beside a screen showing the workings of facial recognition software",
-            "credit": "Photograph: Damir Šagolj/Reuters",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Sajeev Ryal Home affairs editor"
-        },
-        {
-          "path": "/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
-          "linked": false,
-          "headline": "Charity calls for review of Home Office's AI tool for ageing asylum seekers",
-          "original": {
-            "headline": "AI tool will lead to more child refugees being treated as adults, charity warns",
-            "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
-            "trail": "‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights Network",
-            "byline": "Kaamil Ahmed"
-          },
-          "kicker": "Global development",
-          "trail": "The Human Rights Network says 'racist bias' in the Home Office's facial-recognition software could see solo children housed with adults.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/036e29f1db8d14c2b5c4cce7c8f9993c50cd4570/121_0_1404_1123/1000.jpg",
-            "alt": "Two sub-Saharan African male teenagers taking off lifejackets in front of two older white men in uniform  ",
-            "credit": "Photograph: Anadolu/Anadolu/Getty",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Aamil Kahmed"
-        },
-        {
           "path": "/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
           "linked": false,
-          "headline": "Guardian investigation reveals Home Office secretly lobbied for facial recognition 'spy' company",
+          "headline": "Home Office secretly lobbied for facial recognition 'spy' company, it is revealed",
           "original": {
             "headline": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
             "url": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company",
@@ -3399,26 +3301,26 @@
           "byline": "Tark Mownsend Home affairs editor"
         },
         {
-          "path": "/uk-news/2019/jun/27/home-office-windrush-report-damns-hostile-environment-policy",
+          "path": "/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
           "linked": false,
-          "headline": "Windrush report holds Home Office hostile environment policy to account",
+          "headline": "Calls for review grow after Home Office facial recognition shows racial bias",
           "original": {
-            "headline": "Home Office Windrush report damns hostile environment policy",
-            "url": "https://www.theguardian.com/uk-news/2019/jun/27/home-office-windrush-report-damns-hostile-environment-policy",
-            "trail": "Review says policy failed to take account of racial discrimination and accuses officials of recklessness",
-            "byline": "Kevin Rawlinson and Amelia Gentleman"
+            "headline": "Home Office admits facial recognition tech issue with black and Asian subjects",
+            "url": "https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
+            "trail": "Calls for review after technology found to return more false positives for ‘some demographic groups’ on certain settings",
+            "byline": "Rajeev Syal Home affairs editor"
           },
-          "kicker": "UK news",
-          "trail": "The review says the policy failed to take account of racial discrimination and accuses officials of recklessness.",
+          "kicker": "Technology",
+          "trail": "The technology was found to return more false positives for 'some demographic groups' on certain settings after the Home Office admitted the issue.",
           "upside": 1,
           "image": {
-            "src": "https://media.guim.co.uk/355624efd0870f248d9588af598f681db6f3ee06/0_10_4134_2481/1000.jpg",
-            "alt": "Protesters gather for a Windrush generation demonstration outside the Home Office in London in April 2018. ",
-            "credit": "Photograph: Andy Rain/EPA",
+            "src": "https://media.guim.co.uk/59b56cbf6edc050f43cb5032e2e4e175d5069dc2/157_0_3000_2400/1000.jpg",
+            "alt": "Conference visitors standing beside a screen showing the workings of facial recognition software",
+            "credit": "Photograph: Damir Šagolj/Reuters",
             "width": 1000,
-            "height": 600
+            "height": 800
           },
-          "byline": "Revin Kawlinson and Gamelia Entleman"
+          "byline": "Sajeev Ryal Home affairs editor"
         }
       ],
       "status": "rewritten",
@@ -3429,8 +3331,8 @@
         "standfirst": "<p>Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group </p>",
         "byline": "Diane Taylor"
       },
-      "standfirst": "Labour, SNP and Green MPs are demanding greater transparency after a report found AI has been embedded in near-total secrecy across Home Office systems used to assess asylum seekers, detect sham marriages and monitor borders",
-      "progress": "The Home Office says it has already committed to publishing updated evaluations of how its AI tools are used in asylum decisions.",
+      "standfirst": "Open Rights Group's Sara Alsherif says AI deployed from asylum interviews to border surveillance in near-total secrecy needs stronger regulation; the report has cross-party backing from three MPs.",
+      "progress": "The Home Office says it has already committed to publishing updated evaluations of its AI tools' rollout.",
       "upside": 1,
       "byline": "Tiane Daylor",
       "mainImage": {
@@ -3449,13 +3351,13 @@
         "name": "UK news"
       },
       "publishedAt": "2026-10-27T01:08:40Z",
-      "headline": "Meghan to co-host Junior MasterChef Australia after ‘easy yes’",
+      "headline": "Junior MasterChef Australia taps Meghan to co-host alongside Poh Ling Yeow in 2027",
       "bodyHtml": "<p>The Duchess of Sussex is set to co-host Junior MasterChef Australia, the children’s version of the popular televised cooking competition, in 2027.</p> <p>Meghan made her debut appearance on the adult version of MasterChef Australia in July this year, which was filmed during a <a href=\"https://www.theguardian.com/uk-news/2026/apr/14/prince-harry-and-meghans-faux-royal-australian-tour\" rel=\"noopener\">four-day visit to Australia</a> with Prince Harry in April. Network 10 said the Duchess’s appearance on the show drew its “largest Sunday audience since 2023”.</p> <p>Now the broadcaster has confirmed Meghan will co-host Junior MasterChef Australia, the children’s version of the show with contestants aged between nine and 13.</p>   <p>No date has been set for production, which will take place at Melbourne Showgrounds.</p> <p>“I had an incredible time with the whole team at MasterChef this past April, so when they approached me to come back and work with this young group of talent, it was an easy yes,” the Duchess of Sussex said in a statement.</p> <p>“I love cooking with my own kids, so seeing what these young stars create in the kitchen is going to be a lot of fun. I can’t wait to see what they cook up!”</p> <p>It is unknown whether it means a temporary relocation to Australia for Meghan, Prince Harry and their children Prince Archie, seven, and Princess Lilibet, five. The family <a href=\"https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month\" rel=\"noopener\">relocated to the UK in August</a>, after living in California for six years.</p> <p>Meghan will host Junior MasterChef Australia with current MasterChef Australia judge Poh Ling Yeow, who will continue to judge the adult show in 2027 as well.</p> <p>“I had a lovely time filming with Meghan earlier this year, and being reunited will be a real treat,” Yeow said in a statement. “I can’t wait to meet our pint-sized culinary adventurers.”</p> <p>The news of Meghan’s next television appearance comes in the same week the Duchess of Sussex revealed she had been made aware that her estranged father, Thomas Markle Sr, had been accused of possessing child sexual abuse images.</p> <p>Meghan’s half-brother, Thomas Markle Jr, reported to authorities in the Philippines last week alleging that he had discovered a stash of child sexual abuse images at his father’s former home there.</p> <p>Markle Sr has denied possessing child sexual abuse images, calling the accusations “sick” and “a bunch of lies”. He claimed the computers had not been in his possession since he left Mexico with his son in 2025.</p> <p>The allegations against Markle Sr are currently being investigated by a human trafficking and child sexual exploitation taskforce in Cebu, <a href=\"https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation\" rel=\"noopener\">authorities have confirmed</a>.</p>   <p>On Sunday, Meghan <a href=\"https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-\" rel=\"noopener\">revealed in a statement</a> through her spokesperson that the Met had made her aware of “disturbing allegations” against him in 2019.</p> <p>“I am deeply distressed at the news that has come to light in the last 24 hours, and my thoughts are with any children who may have been harmed,” she said.</p> <p>The Sussexes are reported to have settled in the Cotswolds after leaving the US. In September, they condemned the <a href=\"https://www.bbc.com/news/articles/cw0kl62zn0p7o\" rel=\"noopener\">“reckless intrusion” of two photographers</a> who were spotted outside Archie and Lilibet’s school. Their children have since moved schools.</p> <p>The Duchess of Sussex’s lifestyle show <a href=\"https://www.theguardian.com/tv-and-radio/2025/aug/26/with-love-meghan-season-two-review-so-painfully-contrived-that-its-genuinely-fascinating\" rel=\"noopener\">With Love, Meghan</a> ran for two seasons on Netflix. It has been widely reported that the show won’t return for a third season despite Netflix reporting it was viewed 5.3m times globally in the first half of 2025.</p>",
       "related": [
         {
           "path": "/tv-and-radio/2020/nov/10/junior-masterchef-grand-finale-recap-tiny-child-wins-25000-and-the-nations-hearts",
           "linked": false,
-          "headline": "Junior MasterChef grand finale recap: 11-year-old wins $25,000 and Australia's hearts",
+          "headline": "An 11-year-old wins $25,000 and the nation's hearts in the Junior MasterChef final",
           "original": {
             "headline": "Junior MasterChef grand finale recap: 11-year-old wins $25,000 and Australia's hearts",
             "url": "https://www.theguardian.com/tv-and-radio/2020/nov/10/junior-masterchef-grand-finale-recap-tiny-child-wins-25000-and-the-nations-hearts",
@@ -3463,7 +3365,7 @@
             "byline": "Meg Watson"
           },
           "kicker": "Television & radio",
-          "trail": "The pressure was on, the trophy was looming and their mums were there. But only one could win. (Spoiler alert)",
+          "trail": "The pressure was on and the trophy was looming, with mums watching on — but only one could win. (Spoiler alert!)",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/19f68d79aea92800677f74ac1146666a86912f32/0_0_1558_1086/1000.jpg",
@@ -3499,7 +3401,7 @@
         {
           "path": "/australia-news/2021/jul/17/10-quick-questions-masterchef-australia-2021-edition",
           "linked": false,
-          "headline": "10 Quick Questions: MasterChef Australia 2021 edition",
+          "headline": "Test your MasterChef Australia knowledge in our new Saturday quiz series",
           "original": {
             "headline": "10 Quick Questions: MasterChef Australia 2021 edition",
             "url": "https://www.theguardian.com/australia-news/2021/jul/17/10-quick-questions-masterchef-australia-2021-edition",
@@ -3507,7 +3409,7 @@
             "byline": "Clem Bastow"
           },
           "kicker": "Australia news",
-          "trail": "In the first of Guardian Australia's Saturday quiz series, MasterChef expert Clem Bastow tests your knowledge of the season that just wrapped up.",
+          "trail": "In the first of Guardian Australia's new Saturday quiz series, MasterChef expert Clem Bastow puts the season that just wrapped up to the test.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/1f9ac0115c0ab58de83228699207fb17966ed96f/0_0_2560_1707/1000.jpg",
@@ -3520,7 +3422,7 @@
         {
           "path": "/tv-and-radio/2020/oct/14/junior-masterchef-recap-ben-bees-and-a-disembodied-hand-dominate-delightful-first-week",
           "linked": false,
-          "headline": "Junior MasterChef recap: Ben, bees and a disembodied hand dominate a delightful first week",
+          "headline": "Bees and a disembodied hand steal the show in Junior MasterChef's first week",
           "original": {
             "headline": "Junior MasterChef recap: Ben, bees and a disembodied hand dominate delightful first week",
             "url": "https://www.theguardian.com/tv-and-radio/2020/oct/14/junior-masterchef-recap-ben-bees-and-a-disembodied-hand-dominate-delightful-first-week",
@@ -3528,7 +3430,7 @@
             "byline": "Meg Watson"
           },
           "kicker": "Television & radio",
-          "trail": "In the latest three episodes of 2020's most wholesome show, 14 delightful tiny people celebrate culinary success, mourn failure and steal from bees.",
+          "trail": "Across the latest three episodes of 2020's most wholesome show, 14 delightful young cooks celebrate culinary success, mourn failure and steal from bees.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/3dd40eb7d472992638cce1d4d37b4d71e5c63bee/1245_576_3864_2319/1000.jpg",
@@ -3542,7 +3444,7 @@
         {
           "path": "/tv-and-radio/2020/oct/28/junior-masterchef-weekly-recap-children-routinely-combust-with-joy-and-everything-is-cake",
           "linked": false,
-          "headline": "Junior MasterChef weekly recap: children routinely combust with joy, and everything is cake",
+          "headline": "Joy and endless cake define this week's Junior MasterChef",
           "original": {
             "headline": "Junior MasterChef weekly recap: children routinely combust with joy and everything is cake",
             "url": "https://www.theguardian.com/tv-and-radio/2020/oct/28/junior-masterchef-weekly-recap-children-routinely-combust-with-joy-and-everything-is-cake",
@@ -3550,7 +3452,7 @@
             "byline": "Meg Watson"
           },
           "kicker": "Television & radio",
-          "trail": "The only place where everything is good continued this week, featuring Emelia Jackson, a noodle magician and the quiet, joyous rise of Dev.",
+          "trail": "The only place where everything is good continues, featuring Emelia Jackson, a noodle magician and the quiet, joyous rise of Dev.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c04033b9a49002af4a8cf96aa9e517a1074c02dd/162_0_2376_1426/1000.jpg",
@@ -3564,7 +3466,7 @@
         {
           "path": "/tv-and-radio/2023/may/07/jock-zonfrillo-remembered-in-televised-tribute-as-masterchef-australia-returns",
           "linked": false,
-          "headline": "Jock Zonfrillo remembered in moving tribute as MasterChef Australia returns",
+          "headline": "Culinary stars unite to remember Jock Zonfrillo as MasterChef Australia returns",
           "original": {
             "headline": "Jock Zonfrillo remembered in televised tribute as MasterChef Australia returns",
             "url": "https://www.theguardian.com/tv-and-radio/2023/may/07/jock-zonfrillo-remembered-in-televised-tribute-as-masterchef-australia-returns",
@@ -3615,9 +3517,31 @@
       "bodyHtml": "<p>Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years.</p>\n<p>Two hours into a lavishly excitable ceremony at the Palladium Theatre in London, Kane’s name emerged from the final envelope to wild cheers inside the auditorium. The women’s Ballon d’Or, awarded moments earlier, was won by Alexia Putellas of London City Lionesses, a third Ballon, five years on from her first in the colours of Barcelona.</p>\n<p>In the men’s voting, Kane finished ahead of co-favourites Lamine Yamal of Barcelona and Kylian Mbappé of Real Madrid, an outcome that will perhaps cause the familiar consternation among the hierarchy of those clubs, not to mention the vast online fan army attached to the superstar players in Kane’s wake.</p>\n<p>But Kane is also a fully deserving winner of football’s ultimate gong. The L’Équipe-sponsored trophy is awarded by a vote of journalists and administrators across the footballing super-scape. For Kane, it is reward for a year during which he has won the European Golden Boot, played a major role in Bayern Munich’s Bundesliga title, captained England to a World Cup semi-final, and above all shown himself to be a wonderfully humble superstar player.</p>\n\n<p>“It was really tough this year, the incredible players I was up against,” Kane said as he received the trophy, going on to congratulate everyone else nominated for anything else, and thank pretty much everyone he has ever played with.</p>\n<p>“I am almost speechless. Being here in London has made it extra special,” he added.</p>\n<p>As a pure goalscorer, his numbers are astonishing this year, with 89 goals for club and country since the start of August 2025. At Bayern, Kane has also become a darling of the Bundesliga for his all-round game, creativity, intelligence and professionalism. Bayern paid a record €100m fee up front for Kane three years ago, a transfer that broke the club’s usual recruitment patterns and raised some concerns, given Kane was 30 at the time.</p>\n<p>It is a measure of his contribution on and off the pitch that this outlay is now seen as entirely vindicated. As a Ballon d’Or winner, Kane now enters rarefied company, heir to a prize that revolved around the Messi-Ronaldo two-hander for so many years, and which promises not just a form of sporting ultimacy but a vast uplift in current and future commercial earnings.</p>\n<p>More widely, the award is a coronational moment for Kane himself, 16 years into a professional career that has taken in loan spells at Leyton Orient and Millwall, running himself into the ground to make it in the Premier League, and now, for posterity, into the lineage of elite footballers.</p>\n<p>Earlier this month, <a href=\"https://www.theguardian.com/football/2026/oct/06/harry-kane-wins-record-equalling-125th-england-cap-peter-shilton\" rel=\"noopener\">Kane equalled England’s all-time caps record</a>, while nudging his international goal tally on to 91 in 125 appearances. Aged 33, he still has a home Euros two years from now in his sights as England’s captain and a final opportunity for a different kind of footballing immortality.</p>",
       "related": [
         {
+          "path": "/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
+          "linked": false,
+          "headline": "Bayern Munich finally gives Harry Kane the love he deserves",
+          "original": {
+            "headline": "Harry Kane, England’s Ballon d’Or hopeful, is finally getting the love he deserves",
+            "url": "https://www.theguardian.com/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
+            "trail": "Sublime stint at Bayern Munich has made home audiences appreciate a man who isn’t flash or twinkly but is his country’s best footballer",
+            "byline": "Barney Ronay"
+          },
+          "kicker": "Football",
+          "trail": "A sublime stint in Munich has made home audiences appreciate a man who isn't flash or twinkly but is his country's best footballer.",
+          "upside": 3,
+          "image": {
+            "src": "https://media.guim.co.uk/bdd62b337446076cd6ad3a0b5243b097d0c86900/0_0_5000_4000/1000.jpg",
+            "alt": "Illustration of Harry Kane changing into a Superman costume in a phone booth",
+            "credit": "Illustration: David Humphries/The Guardian",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Rarney Bonay"
+        },
+        {
           "path": "/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026",
           "linked": false,
-          "headline": "Harry Kane and Alessia Russo among nominees for this year's Ballon d'Or",
+          "headline": "Harry Kane and Alessia Russo named among this year's Ballon d'Or nominees",
           "original": {
             "headline": "Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or ",
             "url": "https://www.theguardian.com/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026",
@@ -3625,7 +3549,7 @@
             "byline": "Guardian sport"
           },
           "kicker": "Football",
-          "trail": "Harry Kane, Jude Bellingham and Declan Rice have been nominated for the men's award, while Alessia Russo and Alex Greenwood are up for the women's.",
+          "trail": "Harry Kane, Jude Bellingham and Declan Rice are up for the men's award, while Alessia Russo and Alex Greenwood are nominated for the women's.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/2baecbe7947b114dfd7d6c84185948039763d756/0_0_4994_3995/1000.jpg",
@@ -3637,31 +3561,9 @@
           "byline": "Guardian sport"
         },
         {
-          "path": "/football/2026/oct/22/harry-kane-ballon-dor-wait-very-stressful-family",
-          "linked": false,
-          "headline": "Harry Kane's family are eager for Ballon d'Or verdict, he says",
-          "original": {
-            "headline": "Harry Kane says wait to learn if he has won Ballon d’Or is stressful for family",
-            "url": "https://www.theguardian.com/football/2026/oct/22/harry-kane-ballon-dor-wait-very-stressful-family",
-            "trail": "Harry Kane would love to know now whether he has won the Ballon d’Or because the uncertainty and questions are driving his family to distraction",
-            "byline": "David Hytner in Munich"
-          },
-          "kicker": "Football",
-          "trail": "Harry Kane would love to know now whether he has won the award, because the uncertainty and questions are driving his family to distraction.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/318dc2558ebeb14f3d34e3a829d12388f04e63cd/446_0_5002_4001/1000.jpg",
-            "alt": "Harry Kane celebrates after scoring for Bayern Munich against Arsenal",
-            "credit": "Photograph: Alex Grimm/Getty Images",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Havid Dytner in Munich"
-        },
-        {
           "path": "/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
           "linked": false,
-          "headline": "Why Stanley Matthews' Ballon d'Or triumph echoes down the years for Harry Kane",
+          "headline": "Stanley Matthews' 1956 Ballon d'Or win still echoes for Harry Kane",
           "original": {
             "headline": "Why Stanley Matthews’ Ballon d’Or triumph echoes down the years for Harry Kane",
             "url": "https://www.theguardian.com/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
@@ -3669,7 +3571,7 @@
             "byline": "Jonathan Wilson"
           },
           "kicker": "Football",
-          "trail": "In 1956, the Blackpool great was recognised for his force of individual will, the very thing that makes the Bayern and England striker the standout candidate.",
+          "trail": "The Blackpool great was recognised for his force of individual will, the very thing that makes the Bayern and England striker the standout candidate.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/813fd9e4ad982954d30698cc7ffe2c28e91f5621/402_365_5091_4073/1000.jpg",
@@ -3681,31 +3583,9 @@
           "byline": "Wonathan Jilson"
         },
         {
-          "path": "/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
-          "linked": false,
-          "headline": "Harry Kane, England's Ballon d'Or hopeful, is finally getting the love he deserves",
-          "original": {
-            "headline": "Harry Kane, England’s Ballon d’Or hopeful, is finally getting the love he deserves",
-            "url": "https://www.theguardian.com/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
-            "trail": "Sublime stint at Bayern Munich has made home audiences appreciate a man who isn’t flash or twinkly but is his country’s best footballer",
-            "byline": "Barney Ronay"
-          },
-          "kicker": "Football",
-          "trail": "A sublime stint at Bayern Munich has made home audiences appreciate a man who isn't flash or twinkly but is his country's best footballer.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/bdd62b337446076cd6ad3a0b5243b097d0c86900/0_0_5000_4000/1000.jpg",
-            "alt": "Illustration of Harry Kane changing into a Superman costume in a phone booth",
-            "credit": "Illustration: David Humphries/The Guardian",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Rarney Bonay"
-        },
-        {
           "path": "/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",
           "linked": false,
-          "headline": "Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?",
+          "headline": "Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and De Zerbi's fix for Spurs",
           "original": {
             "headline": "Pitch Points: Kane’s Ballon d’Or chances, Balogun’s US role and can De Zerbi fix Spurs?",
             "url": "https://www.theguardian.com/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",
@@ -3713,7 +3593,7 @@
             "byline": "Graham Ruthven"
           },
           "kicker": "Football",
-          "trail": "The world of soccer throws up no shortage of questions. Today, Graham Ruthven tries to answer three of them.",
+          "trail": "The world of football throws up no shortage of questions; today, Graham Ruthven tries to answer three of them.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c43b044ee07caccbbe90e8952e9d4d67e6fec60c/249_0_2360_1889/1000.jpg",
@@ -3727,7 +3607,7 @@
         {
           "path": "/football/2021/oct/08/ballon-dor-shortlists-simon-kjaer-kane-sterling-messi-ronaldo-lewandowski-kirby-white",
           "linked": false,
-          "headline": "Simon Kjær on Ballon d'Or shortlist as men's and women's nominees revealed",
+          "headline": "Simon Kjær named on Ballon d'Or shortlist alongside men's and women's nominees",
           "original": {
             "headline": "Simon Kjær on Ballon d’Or shortlist as men’s and women’s nominees revealed",
             "url": "https://www.theguardian.com/football/2021/oct/08/ballon-dor-shortlists-simon-kjaer-kane-sterling-messi-ronaldo-lewandowski-kirby-white",

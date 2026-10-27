@@ -1,59 +1,31 @@
 [
   {
-    "path": "/commentisfree/2026/oct/26/harry-styles-says-his-laptop-has-been-dead-for-six-years-is-he-just-showing-off",
+    "path": "/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Harry Styles says his laptop has been dead for six years. Is he showing off?\""
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Typhoon Champi declared strongest storm of the year so far\""
   },
   {
-    "path": "/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
+    "path": "/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Outback kaleidoscope: Australia's fabled desert lake bursts to life in rare sight\""
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"UK plans incentives for carmakers to turn EVs into 'power plants on wheels'\""
   },
   {
-    "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
+    "path": "/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Jacinda Ardern joins University of Sydney as lecturer and mentor\""
+    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Microsoft reportedly offers buyouts as it cuts 60,000 jobs amid AI shift\""
   },
   {
-    "path": "/tv-and-radio/2026/oct/25/this-city-is-ours-season-2-review-liverpudlian-gang-drama-bbc",
+    "path": "/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"This City Is Ours review – the Liverpudlian gang drama returns, acting as terrific as ever\""
-  },
-  {
-    "path": "/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"A Sugababe reveals her hardcore system for dating: best podcasts of the week\""
-  },
-  {
-    "path": "/music/2026/oct/26/igor-levit-resistance-album-review",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Igor Levit: Resistance album review – essential listening in a time of bullies and despots\""
-  },
-  {
-    "path": "/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art\""
-  },
-  {
-    "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game\""
+    "issue": "trail leans on \"bleak\": \"In War Is Interested in You, a foreign affairs expert gives his bleak assessment of the state of global security.\""
   },
   {
     "path": "/music/2026/oct/26/aberfan-from-darkness-to-light-review-paul-mealor-requiem-hoddinott-hall-cardiff-bbcnow",
@@ -287,18 +259,53 @@
     "issue": "headline is unchanged from the original: \"Tell us: have your spending habits changed recently?\""
   },
   {
-    "path": "/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Has Healey's military-style budget secrecy really played out so differently to past budgets?\""
-  },
-  {
     "path": "/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Healey's first budget to include big devolution package to boost growth\""
+  },
+  {
+    "path": "/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Latest ONS data presents a mixed picture, with a slump in job vacancies and analysts warning the labour market is 'running on idle'.\""
+  },
+  {
+    "path": "/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula.\""
+  },
+  {
+    "path": "/world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\": \"As Iran and the US agree a fragile ceasefire, Israel's conflict has turned into a bust that opponents call 'a political disaster' for Netanyahu.\""
+  },
+  {
+    "path": "/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 15 words; keep it to 14 or fewer and move the detail to the trail: \"Risk grows of a wider Middle East war as Israel and Iran trade new strikes\""
+  },
+  {
+    "path": "/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Risk grows of a wider Middle East war as Israel and Iran trade new strikes\""
+  },
+  {
+    "path": "/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"The attacks raise fears of a return to full-scale regional war, and come after Trump said 'I call all the shots', not Netanyahu.\""
   },
   {
     "path": "/world/2026/jun/08/israel-and-iran-attacks-pause-after-trump-calls-to-stop-shooting",
@@ -308,11 +315,39 @@
     "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Israel and Iran step back from renewed conflict after Trump calls for a halt\""
   },
   {
+    "path": "/world/2026/mar/01/iran-us-israel-new-attacks-escalation-threat-middle-east",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatened\": \"Trump has threatened Tehran with force 'never seen before' if it pursues retaliation after Khamenei's death.\""
+  },
+  {
+    "path": "/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warned\": \"Burnham warned of 'difficult decisions' in the budget as inflation climbed to 3.1%, while the PM rejected claims he leads a 'tax-and-spend' government.\""
+  },
+  {
+    "path": "/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"deficit\"); build it on the upside or score the story honestly and let the front drop it: \"Healey faces fresh pressure as inflation hits 3.5% and the deficit reaches £24bn\""
+  },
+  {
     "path": "/business/article/2024/aug/14/uk-inflation-rises-bank-of-england",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"UK inflation rises to 2.2%, its first increase since December\""
+  },
+  {
+    "path": "/business/2024/jan/02/uk-grocery-inflation-food-price-rises-brexit-costs",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"UK shop inflation sticks at 4.3% despite the easing food prices; retailers warn post-Brexit checks on fresh food due from April could further drive up shopping costs.\""
   },
   {
     "path": "/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
@@ -350,13 +385,6 @@
     "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Home Office's interest in migrant records traced back to Theresa May\""
   },
   {
-    "path": "/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Home Office admits facial recognition issue with black and Asian subjects\""
-  },
-  {
     "path": "/tv-and-radio/2020/oct/21/junior-masterchef-weekly-recap-im-about-to-cry",
     "kind": "preview",
     "field": "headline",
@@ -364,74 +392,25 @@
     "issue": "headline is unchanged from the original: \"Junior MasterChef weekly recap: 'I'm about to cry!'\""
   },
   {
-    "path": "/australia-news/2021/jul/17/10-quick-questions-masterchef-australia-2021-edition",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"10 Quick Questions: MasterChef Australia 2021 edition\""
-  },
-  {
-    "path": "/tv-and-radio/2020/oct/14/junior-masterchef-recap-ben-bees-and-a-disembodied-hand-dominate-delightful-first-week",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Junior MasterChef recap: Ben, bees and a disembodied hand dominate a delightful first week\""
-  },
-  {
-    "path": "/tv-and-radio/2020/oct/28/junior-masterchef-weekly-recap-children-routinely-combust-with-joy-and-everything-is-cake",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Junior MasterChef weekly recap: children routinely combust with joy, and everything is cake\""
-  },
-  {
-    "path": "/tv-and-radio/2020/nov/10/junior-masterchef-grand-finale-recap-tiny-child-wins-25000-and-the-nations-hearts",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Junior MasterChef grand finale recap: 11-year-old wins $25,000 and Australia's hearts\""
-  },
-  {
-    "path": "/tv-and-radio/2023/may/07/jock-zonfrillo-remembered-in-televised-tribute-as-masterchef-australia-returns",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Jock Zonfrillo remembered in moving tribute as MasterChef Australia returns\""
-  },
-  {
     "path": "/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Harry Kane and Alessia Russo among nominees for this year's Ballon d'Or\""
-  },
-  {
-    "path": "/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Why Stanley Matthews' Ballon d'Or triumph echoes down the years for Harry Kane\""
-  },
-  {
-    "path": "/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Harry Kane, England's Ballon d'Or hopeful, is finally getting the love he deserves\""
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Harry Kane and Alessia Russo named among this year's Ballon d'Or nominees\""
   },
   {
     "path": "/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?\""
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and De Zerbi's fix for Spurs\""
   },
   {
     "path": "/football/2021/oct/08/ballon-dor-shortlists-simon-kjaer-kane-sterling-messi-ronaldo-lewandowski-kirby-white",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Simon Kjær on Ballon d'Or shortlist as men's and women's nominees revealed\""
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Simon Kjær named on Ballon d'Or shortlist alongside men's and women's nominees\""
   },
   {
     "path": "/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
@@ -453,5 +432,12 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"'We built this land': descendants of enslaved people reclaim their history across South Africa's vineyards\""
+  },
+  {
+    "path": "/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"The Teesside town came out worst in a children's commissioner's 'hardest place to grow up' report, but residents say such rankings are demoralising and counterproductive.\""
   }
 ]
