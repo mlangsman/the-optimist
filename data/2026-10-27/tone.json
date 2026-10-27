@@ -1,0 +1,457 @@
+[
+  {
+    "path": "/commentisfree/2026/oct/26/harry-styles-says-his-laptop-has-been-dead-for-six-years-is-he-just-showing-off",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Harry Styles says his laptop has been dead for six years. Is he showing off?\""
+  },
+  {
+    "path": "/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Outback kaleidoscope: Australia's fabled desert lake bursts to life in rare sight\""
+  },
+  {
+    "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jacinda Ardern joins University of Sydney as lecturer and mentor\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/25/this-city-is-ours-season-2-review-liverpudlian-gang-drama-bbc",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"This City Is Ours review – the Liverpudlian gang drama returns, acting as terrific as ever\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A Sugababe reveals her hardcore system for dating: best podcasts of the week\""
+  },
+  {
+    "path": "/music/2026/oct/26/igor-levit-resistance-album-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Igor Levit: Resistance album review – essential listening in a time of bullies and despots\""
+  },
+  {
+    "path": "/books/2026/oct/26/music-against-the-night-by-yiyun-li-review-a-virtuosic-interrogation-of-the-power-of-art",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Music Against the Night by Yiyun Li review – a virtuosic interrogation of the power of art\""
+  },
+  {
+    "path": "/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game\""
+  },
+  {
+    "path": "/music/2026/oct/26/aberfan-from-darkness-to-light-review-paul-mealor-requiem-hoddinott-hall-cardiff-bbcnow",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\": \"A thoughtful and moving concert, with Paul Mealor's new choral work its centrepiece, commemorated the 60th anniversary of the Aberfan disaster.\""
+  },
+  {
+    "path": "/stage/2026/oct/26/the-pianist-review-park-theatre-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"The Pianist review – Władysław Szpilman's Holocaust memoir retold through his own music\""
+  },
+  {
+    "path": "/stage/2026/oct/23/london-city-ballet-review-sadlers-wells-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"London City Ballet are positively glowing in a night of dreams and ghosts from dance history\""
+  },
+  {
+    "path": "/music/2026/oct/26/john-anderson-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"John Anderson obituary\""
+  },
+  {
+    "path": "/books/2026/oct/25/zadie-smith-tells-dua-lipa-inequality-has-made-culture-clashes-feel-existential",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Zadie Smith tells Dua Lipa inequality has made culture clashes feel 'existential'\""
+  },
+  {
+    "path": "/fashion/2026/oct/26/allotmentcore-why-everyone-is-dressing-like-barbara-in-the-good-life",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Allotmentcore: why everyone is dressing like Barbara in The Good Life\""
+  },
+  {
+    "path": "/thefilter/2026/oct/23/how-i-tested-bread-makers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I thought testing bread makers would be easy. 36 loaves later, I may have lost the plot\""
+  },
+  {
+    "path": "/thefilter/2026/oct/23/how-i-shop-with-bill-bailey",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"How I Shop with Bill Bailey: 'Could be a life-saver in an apocalypse'\""
+  },
+  {
+    "path": "/thefilter/2026/oct/22/best-bread-makers-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best bread makers in the UK for easy homemade loaves – tested\""
+  },
+  {
+    "path": "/thefilter/2026/oct/21/best-gifts-toys-nine-year-olds",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best gifts for nine-year-olds, picked by nine-year-olds and parents\""
+  },
+  {
+    "path": "/food/2026/oct/26/quick-easy-crab-spring-onion-fried-rice-recipe-georgina-hayden",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Georgina Hayden's quick and easy recipe for crab and spring onion fried rice\""
+  },
+  {
+    "path": "/food/2026/oct/25/how-to-make-mushroom-stroganoff-recipe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to make mushroom stroganoff – recipe\""
+  },
+  {
+    "path": "/food/2026/oct/25/outlier-glasgow-g1-grace-dent-restaurant-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Outlier, Glasgow G1: 'This kind of carefully orchestrated can't-be-arsedness is really quite magical' – restaurant review\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/26/the-one-change-that-worked-i-told-the-men-in-my-life-i-loved-them-and-my-world-opened-up",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The one change that worked: I told the men in my life I loved them – and my world opened up\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/25/this-is-how-we-do-it-fertility-high-sex-drive",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'Our fertility doctor told us we were having too much sex'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I gave my ex our house and half my savings, but now I feel resentful\""
+  },
+  {
+    "path": "/money/2026/oct/25/100k-salary-income-cliff-edge-tax-personal-allowance-children",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"What is the £100k income 'cliff-edge'?\""
+  },
+  {
+    "path": "/business/2026/oct/25/retail-leads-way-paternity-leave-government-urged-improve-offer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Retail leads the way on paternity leave as government urged to improve offer\""
+  },
+  {
+    "path": "/society/2026/oct/25/the-joy-of-veg-maxxing-how-to-eat-many-many-more-plants-without-really-trying",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The joy of veg-maxxing: how to eat many, many more plants without really trying\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/19/is-it-true-that-you-need-to-take-10000-steps-a-day-to-be-healthy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that you need to take 10,000 steps a day to be healthy?\""
+  },
+  {
+    "path": "/wellness/2026/oct/25/urine-what-color-experts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Is having urine the colour of Mountain Dew normal?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that toothpaste is an effective spot treatment?\""
+  },
+  {
+    "path": "/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"From five-fingered trainers to the shoeless shoe: what's with all the freaky footwear?\""
+  },
+  {
+    "path": "/fashion/2026/oct/22/how-the-canvas-tote-bag-went-from-supermarket-staple-to-status-symbol",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'A form of anti-status status' – how much would you pay for a plain tote bag?\""
+  },
+  {
+    "path": "/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I wanted to create the female version of a man's suit': how Roland Mouret's Galaxy dress took over the world\""
+  },
+  {
+    "path": "/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Meet my new après buddies!': a joyous group skiing trip in Les Deux Alpes, France\""
+  },
+  {
+    "path": "/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Carving out a greener future: how the Swiss ski resort of Laax is meeting the climate crisis head on\""
+  },
+  {
+    "path": "/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It was so magical': the 33-year-old who made history swimming the length of California\""
+  },
+  {
+    "path": "/science/2026/oct/26/did-you-solve-it-a-magical-melody-from-the-mozart-of-math",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Did you solve it? A magical melody from the Mozart of math\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/25/readers-reply-will-there-ever-again-be-a-band-as-big-as-the-beatles-or-the-stones",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Readers reply: will there ever again be a band as big as the Beatles or the Stones?\""
+  },
+  {
+    "path": "/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Tell us: have you been affected by Storm Boelo or Storm Austen?\""
+  },
+  {
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in the UK struggling to find work?\""
+  },
+  {
+    "path": "/business/2026/oct/23/tell-us-have-your-spending-habits-changed-recently",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: have your spending habits changed recently?\""
+  },
+  {
+    "path": "/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Has Healey's military-style budget secrecy really played out so differently to past budgets?\""
+  },
+  {
+    "path": "/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Healey's first budget to include big devolution package to boost growth\""
+  },
+  {
+    "path": "/world/2026/jun/08/israel-and-iran-attacks-pause-after-trump-calls-to-stop-shooting",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Israel and Iran step back from renewed conflict after Trump calls for a halt\""
+  },
+  {
+    "path": "/business/article/2024/aug/14/uk-inflation-rises-bank-of-england",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"UK inflation rises to 2.2%, its first increase since December\""
+  },
+  {
+    "path": "/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Andy Burnham says he wants an 'honest discussion' about freedom of movement with the EU\""
+  },
+  {
+    "path": "/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guardian view on Andy Burnham's foreign policy: work in progress\""
+  },
+  {
+    "path": "/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Cabinet ministers back Burnham's call for debate on return to free movement with EU\""
+  },
+  {
+    "path": "/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Andy Burnham says it is clear Russia interfered in Brexit referendum\""
+  },
+  {
+    "path": "/politics/2023/aug/29/home-office-interest-in-migrant-records-dates-back-to-theresa-may",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Home Office's interest in migrant records traced back to Theresa May\""
+  },
+  {
+    "path": "/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Home Office admits facial recognition issue with black and Asian subjects\""
+  },
+  {
+    "path": "/tv-and-radio/2020/oct/21/junior-masterchef-weekly-recap-im-about-to-cry",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Junior MasterChef weekly recap: 'I'm about to cry!'\""
+  },
+  {
+    "path": "/australia-news/2021/jul/17/10-quick-questions-masterchef-australia-2021-edition",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"10 Quick Questions: MasterChef Australia 2021 edition\""
+  },
+  {
+    "path": "/tv-and-radio/2020/oct/14/junior-masterchef-recap-ben-bees-and-a-disembodied-hand-dominate-delightful-first-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Junior MasterChef recap: Ben, bees and a disembodied hand dominate a delightful first week\""
+  },
+  {
+    "path": "/tv-and-radio/2020/oct/28/junior-masterchef-weekly-recap-children-routinely-combust-with-joy-and-everything-is-cake",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Junior MasterChef weekly recap: children routinely combust with joy, and everything is cake\""
+  },
+  {
+    "path": "/tv-and-radio/2020/nov/10/junior-masterchef-grand-finale-recap-tiny-child-wins-25000-and-the-nations-hearts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Junior MasterChef grand finale recap: 11-year-old wins $25,000 and Australia's hearts\""
+  },
+  {
+    "path": "/tv-and-radio/2023/may/07/jock-zonfrillo-remembered-in-televised-tribute-as-masterchef-australia-returns",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Jock Zonfrillo remembered in moving tribute as MasterChef Australia returns\""
+  },
+  {
+    "path": "/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Harry Kane and Alessia Russo among nominees for this year's Ballon d'Or\""
+  },
+  {
+    "path": "/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Why Stanley Matthews' Ballon d'Or triumph echoes down the years for Harry Kane\""
+  },
+  {
+    "path": "/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Harry Kane, England's Ballon d'Or hopeful, is finally getting the love he deserves\""
+  },
+  {
+    "path": "/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?\""
+  },
+  {
+    "path": "/football/2021/oct/08/ballon-dor-shortlists-simon-kjaer-kane-sterling-messi-ronaldo-lewandowski-kirby-white",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Simon Kjær on Ballon d'Or shortlist as men's and women's nominees revealed\""
+  },
+  {
+    "path": "/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Burnham pledges £900m for homelessness in drive to end rough sleeping\""
+  },
+  {
+    "path": "/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's magic': scientists rediscover how to make ancient Roman colour-changing glass\""
+  },
+  {
+    "path": "/world/2026/oct/26/we-built-this-land-descendants-of-enslaved-people-are-reclaiming-their-history-across-south-africas-vineyards",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"'We built this land': descendants of enslaved people reclaim their history across South Africa's vineyards\""
+  }
+]
