@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T05:43:34.315Z",
+  "generatedAt": "2026-10-27T06:13:31.979Z",
   "engine": "claude-code",
   "front": [
     {
@@ -10,7 +10,7 @@
         {
           "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
           "linked": false,
-          "headline": "John Crace spares you the 100 pages of Liz Truss's new book, Bank Job",
+          "headline": "'I, The TrUssTER, will NeveR die': John Crace digests Liz Truss's Bank Job",
           "original": {
             "headline": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
             "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
@@ -18,7 +18,7 @@
             "byline": "John Crace"
           },
           "kicker": "Books",
-          "trail": "She's back with another book, and it reads a lot like the last one, our sketchwriter says.",
+          "trail": "She's back with another book, and it reads a lot like the last one — our sketchwriter spares you the 100 pages.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/274cd0816eebcf2bdcdf76ef99f8cc922806b3dc/1718_328_3744_2995/master/3744.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -174,7 +174,7 @@
         {
           "path": "/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
           "linked": true,
-          "headline": "Military chief clashes with Netanyahu over directive risking new Iran conflict",
+          "headline": "Bank of Israel rebukes Netanyahu over sanctions-evasion claim",
           "original": {
             "headline": "Netanyahu reportedly pressured military to attack Iran in run-up to election",
             "url": "https://www.theguardian.com/world/2026/oct/26/netanyahu-reportedly-pressured-israel-military-attack-iran-runup-to-election",
@@ -183,7 +183,7 @@
             "byline": "Emma Graham-Harrison and Julian Borger in Jerusalem"
           },
           "kicker": "World news",
-          "trail": "Israel's prime minister is increasing his alarmist rhetoric on Iran as his far-right coalition narrowly trails in the polls.",
+          "trail": "The Israeli prime minister has stepped up alarmist rhetoric as his far-right coalition narrowly trails in the polls.",
           "progress": "Armed forces chief Eyal Zamir reportedly clashed with Netanyahu and asked for the directive in writing; the central bank also publicly rejected Netanyahu's sanctions-evasion claims.",
           "upside": 1,
           "image": {
@@ -204,7 +204,7 @@
             "byline": "Phillip Inman Senior economics writer"
           },
           "kicker": "Business",
-          "trail": "UK shop price inflation is at its highest since 2024, the British Retail Consortium says, calling it a dam starting to break on a huge wave of costs.",
+          "trail": "UK shop price inflation is at its highest since 2024, with the British Retail Consortium saying 'the dam is starting to break' on costs held back until now.",
           "progress": "Prof Ruth Patrick’s Changing Realities project says restoring child benefit’s value would be a vital step for low-income families.",
           "upside": 1,
           "image": {
@@ -225,7 +225,7 @@
             "byline": "Aletha Adu Political correspondent "
           },
           "kicker": "Politics",
-          "trail": "The clarification follows a weekend of interviews in which the prime minister fuelled speculation about the UK's future relationship with the EU.",
+          "trail": "The clarification follows a weekend of interviews in which the prime minister fuelled speculation about Britain's future relationship with the EU.",
           "progress": "Burnham is heading to a Brussels summit on 20 November to seek a deal he says could add billions to the economy.",
           "upside": 1,
           "image": {
@@ -247,7 +247,7 @@
           },
           "kicker": "Politics",
           "trail": "Open Rights Group says AI is now used for tasks from determining asylum seekers' ages to border surveillance, largely without public knowledge.",
-          "progress": "The Home Office says it has already committed to publishing updated evaluations of its AI tools' rollout.",
+          "progress": "The Home Office says trained caseworkers, not artificial intelligence, make every asylum decision, and insists the tools do not replace human decision-makers.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -273,7 +273,6 @@
           },
           "kicker": "World news",
           "trail": "Hundreds of thousands marked the student-led victory on the same streets that were once the scene of police beatings.",
-          "progress": "A student-led movement organised the protests that led to Vučić's defeat.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/90cc0fd1e912aba9de43b9f50c1e2a683dedea83/212_0_3769_3016/500.jpg"
@@ -381,8 +380,7 @@
             "byline": "Mark Brown North of England correspondent "
           },
           "kicker": "UK news",
-          "trail": "The Teesside town came out worst in a children's commissioner's 'hardest place to grow up' report, but residents say such rankings are demoralising and counterproductive.",
-          "progress": "Residents are pushing back against the ranking, saying it is demoralising and counterproductive.",
+          "trail": "The Teesside town ranked last in a children's commissioner's 'hardest place to grow up' report, but residents say such rankings are demoralising and counterproductive.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/51cefebeb555ed9e78aa85325369cadf0ca4f175/2749_545_5636_4509/500.jpg"
@@ -424,7 +422,7 @@
             "byline": "Jessica Murray Social affairs correspondent"
           },
           "kicker": "Society",
-          "trail": "Frustration remains over 'ridiculous bureaucracy' and a lack of hostel places, as Andy Burnham hosts a rough sleeper summit.",
+          "trail": "Frustration mounts over 'ridiculous bureaucracy' and a lack of hostel places, as Andy Burnham hosts a rough sleeper summit.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6ffd0d3ec9ff1e6f9497d25b81855eb00bd449a0/742_0_3818_3055/master/3818.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -460,7 +458,7 @@
         {
           "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
           "linked": false,
-          "headline": "John Crace spares you the 100 pages of Liz Truss's new book, Bank Job",
+          "headline": "'I, The TrUssTER, will NeveR die': John Crace digests Liz Truss's Bank Job",
           "original": {
             "headline": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
             "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
@@ -468,7 +466,7 @@
             "byline": "John Crace"
           },
           "kicker": "Books",
-          "trail": "She's back with another book, and it reads a lot like the last one, our sketchwriter says.",
+          "trail": "She's back with another book, and it reads a lot like the last one — our sketchwriter spares you the 100 pages.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/274cd0816eebcf2bdcdf76ef99f8cc922806b3dc/1718_328_3744_2995/master/3744.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -512,7 +510,7 @@
             "byline": "Interviews by Chris Broughton"
           },
           "kicker": "Culture",
-          "trail": "'A year after we broke up, two bands started touring the US as the Zombies — one claiming to be the originals with a new singer, because I'd supposedly been killed in a car crash.'",
+          "trail": "'A year after we broke up, we heard that two bands had started touring the US as the Zombies. One group said they were the originals but with a new singer – because I'd been killed in a car crash.'",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8ab3b8020ba8a92202f8fb80c9c65fc6e1a7fd53/132_127_2764_2212/master/2764.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -550,7 +548,7 @@
             "byline": "Jonathan Jones"
           },
           "kicker": "Art and design",
-          "trail": "With his heaps of mud, decaying sheds and chimney-filled skies, Lowry's Milton Keynes show depicts a smog-filled, spirit-crushing vision of northern England.",
+          "trail": "With his heaps of mud, decaying sheds and chimney-filled skies, Lowry depicts a smog-filled, spirit-crushing vision of northern England.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/fdd6e124a08c4cfd51a21feeb6c71ab74a9caa3a/0_25_5770_4616/master/5770.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -630,7 +628,7 @@
         {
           "path": "/commentisfree/2026/oct/26/harry-styles-says-his-laptop-has-been-dead-for-six-years-is-he-just-showing-off",
           "linked": false,
-          "headline": "Harry Styles' six-year-dead laptop says more about tech overwhelm than showing off",
+          "headline": "Harry Styles' six-year-dead laptop: showing off, or genuinely tech-overwhelmed?",
           "original": {
             "headline": "Harry Styles says his laptop has been dead for six years. Is he just showing off?",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/26/harry-styles-says-his-laptop-has-been-dead-for-six-years-is-he-just-showing-off",
@@ -758,7 +756,7 @@
             "trail": "Letter: For some medics, working at a large centre means for the same pay you don’t have to work so hard, writes Dr Paul Godwin"
           },
           "kicker": "Society",
-          "trail": "Letter: Dr Paul Godwin writes that, for some medics, working at a large hospital can mean an easier job for the same pay.",
+          "trail": "Letter: Dr Paul Godwin writes that, for some medics, working at a large hospital means an easier job for the same pay.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/dce434c6214de6aa0b316cd34b09a9cbc7434afa/261_28_4591_3673/500.jpg"
@@ -881,7 +879,7 @@
         {
           "path": "/sport/2026/oct/26/liam-dawson-reveals-england-cricket-squad-gutted-after-second-odi-series-catastrophe",
           "linked": false,
-          "headline": "England's hopes of reaching the ODI final remain alive despite two defeats",
+          "headline": "England's hopes of reaching the ODI final hang by a thread, says gutted Dawson",
           "original": {
             "headline": "Liam Dawson reveals England are ‘gutted’ after ODI series setback against Pakistan",
             "url": "https://www.theguardian.com/sport/2026/oct/26/liam-dawson-reveals-england-cricket-squad-gutted-after-second-odi-series-catastrophe",
@@ -889,7 +887,7 @@
             "byline": "Guardian sport and agencies"
           },
           "kicker": "Sport",
-          "trail": "Liam Dawson says the squad's hopes of reaching the tri-series final remain alive, despite two agonising defeats to Pakistan leaving England 'gutted'.",
+          "trail": "Liam Dawson says the squad's hopes of reaching the tri-series final hang by a thread, after two agonising defeats to Pakistan left England 'gutted'.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ac23777a18dbb2928a38dce8f5f37f856df360bd/198_0_2650_2120/master/2650.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1076,7 +1074,7 @@
         {
           "path": "/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
           "linked": false,
-          "headline": "UK plans incentives for carmakers to turn EVs into 'power plants on wheels'",
+          "headline": "UK considers incentives to turn electric cars into 'power plants on wheels'",
           "original": {
             "headline": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
             "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
@@ -1095,7 +1093,7 @@
         {
           "path": "/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
           "linked": false,
-          "headline": "RAF chief says AI drones point to an 'autonomy, not flesh' future for air power",
+          "headline": "RAF chief: AI drones point to an 'autonomy, not flesh' future",
           "original": {
             "headline": "‘Autonomy, not flesh’: RAF chief outlines AI drone-powered future",
             "url": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
@@ -1114,7 +1112,7 @@
         {
           "path": "/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
           "linked": false,
-          "headline": "Jury sworn in for trial over sexual assault of drugged woman",
+          "headline": "Jury selected for trial of four accused of sexually assaulting man's drugged ex-wife",
           "original": {
             "headline": "Jury selected for trial of four accused of sexually assaulting man’s drugged ex-wife",
             "url": "https://www.theguardian.com/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
@@ -1140,7 +1138,7 @@
         {
           "path": "/us-news/2026/oct/26/court-california-ballots",
           "linked": false,
-          "headline": "California's mail-in ballots will be counted after court rejects Trump DoJ's bid to stop them",
+          "headline": "Court rejects Trump DoJ's bid to stop California counting mail-in ballots",
           "original": {
             "headline": "Court blocks bid by Trump DoJ to stop California from counting mail-in ballots",
             "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots",
@@ -1158,7 +1156,7 @@
         {
           "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
           "linked": false,
-          "headline": "Jacinda Ardern to mentor students in new University of Sydney role",
+          "headline": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
           "original": {
             "headline": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
             "url": "https://www.theguardian.com/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
@@ -1166,7 +1164,7 @@
             "byline": "Josh Taylor"
           },
           "kicker": "World news",
-          "trail": "The former New Zealand prime minister will focus on leadership, social cohesion and public health in her new post.",
+          "trail": "The former New Zealand prime minister will focus on leadership, social cohesion and public health in her new role.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/acc4ab5b8f6e4f22c46a14f08bbbcd077a9f93fa/873_946_3818_3054/500.jpg"
@@ -1254,7 +1252,7 @@
         {
           "path": "/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
           "linked": false,
-          "headline": "Microsoft reportedly offers buyouts as it cuts 60,000 jobs amid AI shift",
+          "headline": "Microsoft reportedly offers staff buyouts amid AI shift, affecting 60,000 jobs",
           "original": {
             "headline": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
             "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
@@ -1423,7 +1421,7 @@
         {
           "path": "/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week",
           "linked": false,
-          "headline": "This week's best podcasts: a Sugababe's dating rules, and Hillary Clinton on the midterms",
+          "headline": "This week's best podcasts: a Sugababe reveals her hardcore system for dating",
           "original": {
             "headline": "A Sugababe reveals her hardcore system for dating: best podcasts of the week",
             "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/a-sugababe-reveals-her-hardcore-system-for-dating-best-podcasts-of-the-week",
@@ -1431,7 +1429,7 @@
             "byline": "Hannah J Davies and Hollie Richardson"
           },
           "kicker": "Television & radio",
-          "trail": "The singer joins Sharifa Butterfly, Tara Thorpe and Issra Wiheba for lively, relatable chats, while Hillary Clinton unpicks the issues in the upcoming US midterms.",
+          "trail": "The singer joins Sharifa Butterfly, Tara Thorpe and Issra Wiheba for lively, relatable chats; also this week, Hillary Clinton unpicks the issues in the upcoming US midterms.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/089f801ef4d41be8fab338ac676f9b1fc7a710fb/0_443_1536_1228/master/1536.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1482,25 +1480,6 @@
             "alt": "Author Yiyun Li"
           },
           "byline": "Pevin Kower"
-        },
-        {
-          "path": "/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
-          "linked": false,
-          "headline": "Gideon Rachman weighs how close we are to a third world war",
-          "original": {
-            "headline": "War Is Interested in You by Gideon Rachman review – are we on the brink of world war three? ",
-            "url": "https://www.theguardian.com/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
-            "trail": "A foreign affairs expert’s bleak assessment of the state of global security",
-            "byline": "Charlie English"
-          },
-          "kicker": "Books",
-          "trail": "In War Is Interested in You, a foreign affairs expert gives his bleak assessment of the state of global security.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/f8fcb50dfccd7952d4576006c4dc827108d63e26/391_0_3519_2815/master/3519.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A tactical military exercise in Tainan, Taiwan, 2026"
-          },
-          "byline": "Arlie Chenglish"
         }
       ]
     },
@@ -1897,7 +1876,7 @@
             "byline": "Stephanie Israel, as told to Farryn Stock"
           },
           "kicker": "Life and style",
-          "trail": "Before being rescued, he was hit by a car and left to die in a ditch. You'd never know it though, from the joy his patience and sunny nature bring to those who most need him.",
+          "trail": "You'd never know it from the joy his patience and sunny nature now bring to those who most need him — but before being rescued, he was hit by a car and left to die in a ditch.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b527afa8c51efe907dc44b3d226088647f1b71af/490_1426_1310_1048/master/1310.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2528,7 +2507,7 @@
         {
           "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
           "linked": false,
-          "headline": "John Crace spares you the 100 pages of Liz Truss's new book, Bank Job",
+          "headline": "'I, The TrUssTER, will NeveR die': John Crace digests Liz Truss's Bank Job",
           "original": {
             "headline": "‘I, The TrUssTER, will NeveR die’ – Liz Truss’s Bank Job, digested by John Crace",
             "url": "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
@@ -2536,7 +2515,7 @@
             "byline": "John Crace"
           },
           "kicker": "Books",
-          "trail": "She's back with another book, and it reads a lot like the last one, our sketchwriter says.",
+          "trail": "She's back with another book, and it reads a lot like the last one — our sketchwriter spares you the 100 pages.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/274cd0816eebcf2bdcdf76ef99f8cc922806b3dc/1718_328_3744_2995/500.jpg"
@@ -2564,7 +2543,7 @@
         {
           "path": "/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
           "linked": false,
-          "headline": "RAF chief says AI drones point to an 'autonomy, not flesh' future for air power",
+          "headline": "RAF chief: AI drones point to an 'autonomy, not flesh' future",
           "original": {
             "headline": "‘Autonomy, not flesh’: RAF chief outlines AI drone-powered future",
             "url": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
@@ -2578,24 +2557,6 @@
             "src": "https://media.guim.co.uk/687a21554ca34a6a656bb766648945f6f9e10756/460_0_3891_3115/500.jpg"
           },
           "byline": "San Dabbagh Defence and security editor"
-        },
-        {
-          "path": "/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-          "linked": false,
-          "headline": "Opposition grows as Trump's rally rhetoric sparks nationwide outcry",
-          "original": {
-            "headline": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks – as it happened",
-            "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-            "trail": "This live blog is now closed.",
-            "byline": "Robert Mackey, Chris Hippensteel, Lucy Campbell and Tom Ambrose"
-          },
-          "kicker": "US news",
-          "trail": "Trump continued his midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks; this live blog is now closed.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/a3a6bc9a255698ab87bc098f773be3825c3eeb14/132_0_4529_3625/500.jpg"
-          },
-          "byline": "Mobert Rackey, Theodore Vance, Cucy Lampbell and Om Tambrose"
         }
       ]
     }
@@ -2645,7 +2606,7 @@
             "byline": "Phillip Inman Senior economics writer and Graeme Wearden"
           },
           "kicker": "Business",
-          "trail": "Latest ONS data presents a mixed picture, with a slump in job vacancies and analysts warning the labour market is 'running on idle'.",
+          "trail": "Latest ONS data presents a mixed picture, with a slump in job vacancies and analysts cautioning the labour market is 'running on idle'.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/620a3507183ab101881df40acb747d5e30fe4448/451_0_4774_3819/1000.jpg",
@@ -2681,7 +2642,7 @@
         {
           "path": "/society/2026/sep/13/carers-allowance-scandal-victims-could-wait-until-2054-for-justice-charities-warn",
           "linked": false,
-          "headline": "Charities say carers could die before seeing justice over DWP overpayments scandal",
+          "headline": "Campaigners call for faster DWP refunds over carers' overpayments scandal",
           "original": {
             "headline": "Unpaid carers could die before seeing justice for overpayments scandal, charities warn",
             "url": "https://www.theguardian.com/society/2026/sep/13/carers-allowance-scandal-victims-could-wait-until-2054-for-justice-charities-warn",
@@ -2689,7 +2650,7 @@
             "byline": "Patrick Butler Social policy editor"
           },
           "kicker": "Society",
-          "trail": "Campaigners say that at the current glacial pace, some carers may wait years before receiving a refund from the DWP.",
+          "trail": "Unpaid carers could die before seeing justice, charities say, with some facing a wait of years for a refund from the DWP at the current glacial pace.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/2d5ff3af9e9dfcccfbf71b9b62851e67af782267/0_0_5600_4480/1000.jpg",
@@ -2867,13 +2828,13 @@
         "name": "World news"
       },
       "publishedAt": "2026-10-26T19:21:36Z",
-      "headline": "Military chief clashes with Netanyahu over directive risking new Iran conflict",
-      "bodyHtml": "<p>Israel's central bank has publicly rebuked Benjamin Netanyahu for a repeated claim that Israel could use cryptocurrencies to dodge escalating global sanctions. “Cryptocurrencies cannot serve as a means to circumvent sanctions,” the Bank of Israel said on Sunday evening. “The right course for the Israeli economy is to maintain economic relations with our primary trading partners and to focus on preventing sanctions and their negative impact on the economy.”</p> <p>The rebuke came as Netanyahu resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran, as his far-right coalition narrowly trailed in the polls ahead of Tuesday’s close-run elections.</p>   <p>Israel’s Channel 12 news reported that the prime minister and the armed forces chief of staff, Lt Gen Eyal Zamir, clashed in recent days over a directive to the military which could “potentially spark an immediate conflagration with Iran at a very sensitive juncture”, by provoking a miscalculation by Iran. Zamir is reported to have requested the directive, the details of which were not specified, to be presented to him in writing.</p> <p>Netanyahu denied the report, and the defence ministry later denied any intention to carry out military operations against Iran. The Israel Defense Forces (IDF) issued a statement on Monday that stopped well short of a denial of the press reports, but insisted that its decisions were based exclusively on “security, professional, objective and national considerations”.</p> <p>Netanyahu posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. “Anyone who cares about their own physical existence, that of their family, and their loved ones should have a trembling hand before voting for [the opposition],” he wrote in a <a href=\"https://x.com/netanyahu/status/2114286556034859410?s=20\" rel=\"noopener\">social media post</a> about Iran’s nuclear programme.</p> <p>On Monday however, CNN reported that Netanyahu had tried to convince Donald Trump to launch a renewed assault on Iran in recent weeks, renewing the war both men started in February. The report, confirming an earlier account in the Financial Times, said Trump had ruled out any such action until US congressional elections next week.</p> <p>Netanyahu’s warnings were a marked contrast with his triumphalism in the immediate wake of the wars on Iran that launched last year and this spring. In March Netanyahu said Israeli and US strikes had <a href=\"https://www.timesofisrael.com/on-19th-day-of-war-netanyahu-says-iran-can-no-longer-enrich-uranium-build-missiles/\" rel=\"noopener\">destroyed</a> Iran’s ability to enrich uranium and produce ballistic missiles, and in 2025 he claimed a “<a href=\"https://www.timesofisrael.com/netanyahu-claims-historic-victory-says-we-sent-irans-nuclear-program-down-the-drain/\" rel=\"noopener\">historic victory</a>” over Iran that would stand for generations.</p> <p>Gadi Eisenkot, the leader of the opposition bloc and Netanyahu’s most likely challenger for the prime minister’s job, expressed his confidence in Zamir. “We won’t allow the IDF to be turned into a pawn in Netanyahu’s survival campaign,” said Eisenkot, who is a retired general.</p>    <p>Most polls suggest the mainly centre-right opposition bloc led by Eisenkot is poised to win more seats in Israel’s Knesset than the Netanyahu coalition, but neither would be able to muster the 61 seats necessary for a majority government.</p> <p>The opposition would most likely be able to gather a majority and topple Netanyahu in coalition with parties representing Palestinians with Israeli citizenship, roughly a fifth of the population. But conservatives inside the Eisenkot bloc have ruled out such a coalition, raising the prospect of a minority government, another round of elections and a possible Netanyahu resurgence.</p> <p>As the elections drew closer, Netanyahu framed the country’s choice as existential. He told Channel 14, which has acted as his lead cheerleader in the Israeli media: “There is a single fundamental issue here – our existence.”</p> <p>He described the opposition bloc as the “left” in alliance with Palestinians, and enemies of the country. “We see what is happening in Europe. The alliance between the left and Islam might destroy the state of Israel,” he said.</p> <p>The main opposition parties are rightwing or centre-right, sharing Netanyahu’s adamant opposition to the establishment of a Palestinian state, and who have largely supported the war in Gaza. Some opposition leaders have ruled out any kind of political alliance with Palestinian Israeli parties, who could emerge from the elections holding the balance of power in the Knesset. Palestinians in the occupied territories do not have the vote.</p> <p>The opposition bloc is held together more by its shared antipathy to Netanyahu, who has dominated the Israeli political scene over the past three decades and veered increasingly towards authoritarianism, seeking to limit the independence of the judiciary and turn the police and Shin Bet internal security service into political tools.</p> <p>The prime minister is also in the midst of a trial on corruption charges, and his legal jeopardy could increase if he loses his grip on power.</p>    <p>In the closing stages of the campaign, Netanyahu has also emphasised the overt support he enjoys from Donald Trump, who repeated his endorsement on Sunday in a social media post, saying “When you go to the Polls please remember that Bibi has been an outstanding warrior prime minister!”</p> <p>The Israeli outlet Walla News reported that this repeat endorsement was a result of relentless pressure from Netanyahu’s office. It is unclear, however, whether Trump’s support will carry any weight with the electorate. The US president’s earlier “total endorsement” on 18 October made no visible difference to the polls.</p> <p>In one survey, 64% of Israelis questioned said it would not influence their vote, and 17% said it made them less likely to back Netanyahu, against 12% who said it had deepened their resolve to support Netanyahu’s Likud party.</p> <p>Netanyahu had already laid out a forecast for a bleak, isolated future a year ago, when he said Israel might need to become a militarised “<a href=\"https://www.theguardian.com/world/2025/sep/16/netanyahu-super-sparta-vision-israel-economic-future-isolation\" rel=\"noopener\">super Sparta</a>”, then rowed back again in the face of fierce criticism from a horrified Israeli public.</p> <p>His return to this rhetoric and the tactics of fear, particularly after unexpected losses for far-right allies in Serbia and Brazil, raised questions about whether the ultimate political survivor may finally be on the ropes.</p> <p>Few among his allies or enemies expected his government to survive long after 7 October, much less complete its term. But the majority of polls have been clear for more than two years that his current coalition looks set to lose its slim majority.</p>",
+      "headline": "Bank of Israel rebukes Netanyahu over sanctions-evasion claim",
+      "bodyHtml": "<p>Netanyahu has forecast growing financial isolation, saying billions of dollars in annual US military aid would dry up soon, and has drawn a rare public rebuke from Israel's central bank over a separate, repeated claim that Israel could use cryptocurrencies to dodge escalating global sanctions. “Cryptocurrencies cannot serve as a means to circumvent sanctions,” the Bank of Israel said on Sunday evening. “The right course for the Israeli economy is to maintain economic relations with our primary trading partners and to focus on preventing sanctions and their negative impact on the economy.”</p> <p>The rebuke came as Netanyahu resorted to increasingly alarmist rhetoric and reportedly put pressure on Israel’s military to take action against Iran, as his far-right coalition narrowly trailed in the polls ahead of Tuesday’s close-run elections.</p>   <p>Israel’s Channel 12 news reported that the prime minister and the armed forces chief of staff, Lt Gen Eyal Zamir, clashed in recent days over a directive to the military which could “potentially spark an immediate conflagration with Iran at a very sensitive juncture”, by provoking a miscalculation by Iran. Zamir is reported to have requested the directive, the details of which were not specified, to be presented to him in writing.</p> <p>Netanyahu denied the report, and the defence ministry later denied any intention to carry out military operations against Iran. The Israel Defense Forces (IDF) issued a statement on Monday that stopped well short of a denial of the press reports, but insisted that its decisions were based exclusively on “security, professional, objective and national considerations”.</p> <p>Netanyahu posted an AI-generated image of a nuclear mushroom cloud destroying Tel Aviv, telling Israeli voters to choose him or risk nuclear annihilation. “Anyone who cares about their own physical existence, that of their family, and their loved ones should have a trembling hand before voting for [the opposition],” he wrote in a <a href=\"https://x.com/netanyahu/status/2114286556034859410?s=20\" rel=\"noopener\">social media post</a> about Iran’s nuclear programme.</p> <p>On Monday however, CNN reported that Netanyahu had tried to convince Donald Trump to launch a renewed assault on Iran in recent weeks, renewing the war both men started in February. The report, confirming an earlier account in the Financial Times, said Trump had ruled out any such action until US congressional elections next week.</p> <p>Netanyahu’s warnings were a marked contrast with his triumphalism in the immediate wake of the wars on Iran that launched last year and this spring. In March Netanyahu said Israeli and US strikes had <a href=\"https://www.timesofisrael.com/on-19th-day-of-war-netanyahu-says-iran-can-no-longer-enrich-uranium-build-missiles/\" rel=\"noopener\">destroyed</a> Iran’s ability to enrich uranium and produce ballistic missiles, and in 2025 he claimed a “<a href=\"https://www.timesofisrael.com/netanyahu-claims-historic-victory-says-we-sent-irans-nuclear-program-down-the-drain/\" rel=\"noopener\">historic victory</a>” over Iran that would stand for generations.</p> <p>Gadi Eisenkot, the leader of the opposition bloc and Netanyahu’s most likely challenger for the prime minister’s job, expressed his confidence in Zamir. “We won’t allow the IDF to be turned into a pawn in Netanyahu’s survival campaign,” said Eisenkot, who is a retired general.</p>    <p>Most polls suggest the mainly centre-right opposition bloc led by Eisenkot is poised to win more seats in Israel’s Knesset than the Netanyahu coalition, but neither would be able to muster the 61 seats necessary for a majority government.</p> <p>The opposition would most likely be able to gather a majority and topple Netanyahu in coalition with parties representing Palestinians with Israeli citizenship, roughly a fifth of the population. But conservatives inside the Eisenkot bloc have ruled out such a coalition, raising the prospect of a minority government, another round of elections and a possible Netanyahu resurgence.</p> <p>As the elections drew closer, Netanyahu framed the country’s choice as existential. He told Channel 14, which has acted as his lead cheerleader in the Israeli media: “There is a single fundamental issue here – our existence.”</p> <p>He described the opposition bloc as the “left” in alliance with Palestinians, and enemies of the country. “We see what is happening in Europe. The alliance between the left and Islam might destroy the state of Israel,” he said.</p> <p>The main opposition parties are rightwing or centre-right, sharing Netanyahu’s adamant opposition to the establishment of a Palestinian state, and who have largely supported the war in Gaza. Some opposition leaders have ruled out any kind of political alliance with Palestinian Israeli parties, who could emerge from the elections holding the balance of power in the Knesset. Palestinians in the occupied territories do not have the vote.</p> <p>The opposition bloc is held together more by its shared antipathy to Netanyahu, who has dominated the Israeli political scene over the past three decades and veered increasingly towards authoritarianism, seeking to limit the independence of the judiciary and turn the police and Shin Bet internal security service into political tools.</p> <p>The prime minister is also in the midst of a trial on corruption charges, and his legal jeopardy could increase if he loses his grip on power.</p>    <p>In the closing stages of the campaign, Netanyahu has also emphasised the overt support he enjoys from Donald Trump, who repeated his endorsement on Sunday in a social media post, saying “When you go to the Polls please remember that Bibi has been an outstanding warrior prime minister!”</p> <p>The Israeli outlet Walla News reported that this repeat endorsement was a result of relentless pressure from Netanyahu’s office. It is unclear, however, whether Trump’s support will carry any weight with the electorate. The US president’s earlier “total endorsement” on 18 October made no visible difference to the polls.</p> <p>In one survey, 64% of Israelis questioned said it would not influence their vote, and 17% said it made them less likely to back Netanyahu, against 12% who said it had deepened their resolve to support Netanyahu’s Likud party.</p> <p>Netanyahu had already laid out a forecast for a bleak, isolated future a year ago, when he said Israel might need to become a militarised “<a href=\"https://www.theguardian.com/world/2025/sep/16/netanyahu-super-sparta-vision-israel-economic-future-isolation\" rel=\"noopener\">super Sparta</a>”, then rowed back again in the face of fierce criticism from a horrified Israeli public.</p> <p>His return to this rhetoric and the tactics of fear, particularly after unexpected losses for far-right allies in Serbia and Brazil, raised questions about whether the ultimate political survivor may finally be on the ropes.</p> <p>Few among his allies or enemies expected his government to survive long after 7 October, much less complete its term. But the majority of polls have been clear for more than two years that his current coalition looks set to lose its slim majority.</p>",
       "related": [
         {
           "path": "/world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
           "linked": false,
-          "headline": "Netanyahu emerges as the biggest loser from a war that had no winners",
+          "headline": "A fragile ceasefire ends Iran's war, as Netanyahu emerges politically weakened",
           "original": {
             "headline": "In a war with no winners, Netanyahu looks like the biggest loser",
             "url": "https://www.theguardian.com/world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
@@ -2881,7 +2842,7 @@
             "byline": "Peter Beaumont Senior international correspondent"
           },
           "kicker": "World news",
-          "trail": "As Iran and the US agree a fragile ceasefire, Israel's conflict has turned into a bust that opponents call 'a political disaster' for Netanyahu.",
+          "trail": "Opponents call the conflict 'a political disaster' for the Israeli prime minister, who had framed it as a war with no winners.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f79d146460844bd368ab830a4d365439820e4916/0_0_3463_2309/1000.jpg",
@@ -2967,7 +2928,7 @@
         "standfirst": "<p>Israeli prime minister increases alarmist rhetoric as his far-right coalition narrowly trails in polls</p>",
         "byline": "Emma Graham-Harrison and Julian Borger in Jerusalem"
       },
-      "standfirst": "Israel's armed forces chief reportedly clashed with Benjamin Netanyahu over a directive that could spark conflict with Iran, as the prime minister, trailing before Tuesday's election, posted an AI-generated image of a mushroom cloud over Tel Aviv, invoking nuclear annihilation.",
+      "standfirst": "Israel's central bank rejected Benjamin Netanyahu's sanctions-evasion claim, as the embattled prime minister clashed with his armed forces chief over a directive risking Iran conflict and posted a nuclear mushroom-cloud image before Tuesday's election.",
       "progress": "Armed forces chief Eyal Zamir reportedly clashed with Netanyahu and asked for the directive in writing; the central bank also publicly rejected Netanyahu's sanctions-evasion claims.",
       "upside": 1,
       "byline": "Gremma Aham-Harrison and Bulian Jorger in Jerusalem",
@@ -3015,7 +2976,7 @@
         {
           "path": "/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
           "linked": false,
-          "headline": "Bank of England prepares for its next interest rates decision",
+          "headline": "Burnham rejects claims he leads a 'tax-and-spend' government",
           "original": {
             "headline": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
             "url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
@@ -3023,7 +2984,7 @@
             "byline": "Richard Partington Senior economics correspondent"
           },
           "kicker": "Business",
-          "trail": "Burnham warned of 'difficult decisions' in the budget as inflation climbed to 3.1%, while the PM rejected claims he leads a 'tax-and-spend' government.",
+          "trail": "The PM has said there would be 'difficult decisions' in the budget, as inflation rises to 3.1% and the Bank of England prepares its next interest rates decision.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/f659e05e828243ccbca3bdf1e285a7031d51341e/475_240_1843_1474/1000.jpg",
@@ -3045,7 +3006,7 @@
             "byline": "Sarah Butler"
           },
           "kicker": "Business",
-          "trail": "UK shop inflation sticks at 4.3% despite the easing food prices; retailers warn post-Brexit checks on fresh food due from April could further drive up shopping costs.",
+          "trail": "UK shop inflation sticks at 4.3% despite the easing food prices; retailers say post-Brexit checks on fresh food due from April could further drive up shopping costs.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/aaf155e97b15039dd31df77714c5e1dfb50cf340/0_395_7892_4738/1000.jpg",
@@ -3113,7 +3074,7 @@
         {
           "path": "/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
           "linked": false,
-          "headline": "The Guardian view on Andy Burnham's foreign policy: work in progress",
+          "headline": "The Guardian view on Andy Burnham's foreign policy: time to define Britain's place in the world",
           "original": {
             "headline": "The Guardian view on Andy Burnham’s foreign policy: work in progress",
             "url": "https://www.theguardian.com/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
@@ -3121,7 +3082,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "Editorial: the prime minister has focused on domestic affairs since coming to office. But at a time of global disruption, he will need to define Britain's place in the world.",
+          "trail": "Editorial: the prime minister has focused on domestic affairs since coming to office, but at a time of global disruption, must now define Britain's place in the world.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c3fe6b1d7534af1de5c47f7af7047ccd31347175/650_0_6498_5199/1000.jpg",
@@ -3303,7 +3264,7 @@
         {
           "path": "/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
           "linked": false,
-          "headline": "Calls for review grow after Home Office facial recognition shows racial bias",
+          "headline": "Home Office admits facial recognition issue, calls for review",
           "original": {
             "headline": "Home Office admits facial recognition tech issue with black and Asian subjects",
             "url": "https://www.theguardian.com/technology/2025/dec/05/home-office-facial-recognition-tech-issue-black-asian-subjects",
@@ -3311,7 +3272,7 @@
             "byline": "Rajeev Syal Home affairs editor"
           },
           "kicker": "Technology",
-          "trail": "The technology was found to return more false positives for 'some demographic groups' on certain settings after the Home Office admitted the issue.",
+          "trail": "The technology was found to return more false positives for 'some demographic groups' on certain settings, with black and Asian subjects affected, after the Home Office admitted the issue.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/59b56cbf6edc050f43cb5032e2e4e175d5069dc2/157_0_3000_2400/1000.jpg",
@@ -3332,7 +3293,7 @@
         "byline": "Diane Taylor"
       },
       "standfirst": "Open Rights Group's Sara Alsherif says AI deployed from asylum interviews to border surveillance in near-total secrecy needs stronger regulation; the report has cross-party backing from three MPs.",
-      "progress": "The Home Office says it has already committed to publishing updated evaluations of its AI tools' rollout.",
+      "progress": "The Home Office says trained caseworkers, not artificial intelligence, make every asylum decision, and insists the tools do not replace human decision-makers.",
       "upside": 1,
       "byline": "Tiane Daylor",
       "mainImage": {
@@ -3409,7 +3370,7 @@
             "byline": "Clem Bastow"
           },
           "kicker": "Australia news",
-          "trail": "In the first of Guardian Australia's new Saturday quiz series, MasterChef expert Clem Bastow puts the season that just wrapped up to the test.",
+          "trail": "In the first of Guardian Australia's new Saturday quiz series, MasterChef expert Clem Bastow tests your knowledge of the season that just wrapped up.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/1f9ac0115c0ab58de83228699207fb17966ed96f/0_0_2560_1707/1000.jpg",
@@ -3519,7 +3480,7 @@
         {
           "path": "/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
           "linked": false,
-          "headline": "Bayern Munich finally gives Harry Kane the love he deserves",
+          "headline": "Harry Kane, England's Ballon d'Or hopeful, is finally getting the love he deserves",
           "original": {
             "headline": "Harry Kane, England’s Ballon d’Or hopeful, is finally getting the love he deserves",
             "url": "https://www.theguardian.com/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
@@ -3527,7 +3488,7 @@
             "byline": "Barney Ronay"
           },
           "kicker": "Football",
-          "trail": "A sublime stint in Munich has made home audiences appreciate a man who isn't flash or twinkly but is his country's best footballer.",
+          "trail": "A sublime stint at Bayern Munich has made home audiences appreciate a man who isn't flash or twinkly but is his country's best footballer.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/bdd62b337446076cd6ad3a0b5243b097d0c86900/0_0_5000_4000/1000.jpg",
@@ -3585,7 +3546,7 @@
         {
           "path": "/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",
           "linked": false,
-          "headline": "Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and De Zerbi's fix for Spurs",
+          "headline": "Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?",
           "original": {
             "headline": "Pitch Points: Kane’s Ballon d’Or chances, Balogun’s US role and can De Zerbi fix Spurs?",
             "url": "https://www.theguardian.com/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",

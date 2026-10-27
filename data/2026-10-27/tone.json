@@ -1,5 +1,12 @@
 [
   {
+    "path": "/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"'I, The TrUssTER, will NeveR die': John Crace digests Liz Truss's Bank Job\""
+  },
+  {
     "path": "/world/2026/oct/26/typhoon-champi-taiwan-japan-storm-greece-floods",
     "kind": "preview",
     "field": "headline",
@@ -7,18 +14,18 @@
     "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Typhoon Champi declared strongest storm of the year so far\""
   },
   {
-    "path": "/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+    "path": "/uk-news/2026/oct/26/jury-selected-for-trial-of-four-accused-of-sexually-assaulting-mans-drugged-ex-wife",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"UK plans incentives for carmakers to turn EVs into 'power plants on wheels'\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jury selected for trial of four accused of sexually assaulting man's drugged ex-wife\""
   },
   {
-    "path": "/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+    "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"Microsoft reportedly offers buyouts as it cuts 60,000 jobs amid AI shift\""
+    "issue": "headline is unchanged from the original: \"Jacinda Ardern joins University of Sydney as lecturer and mentor\""
   },
   {
     "path": "/books/2026/oct/26/war-is-interested-in-you-by-gideon-rachman-review-how-close-is-world-war-three",
@@ -266,48 +273,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Healey's first budget to include big devolution package to boost growth\""
   },
   {
-    "path": "/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"warning\": \"Latest ONS data presents a mixed picture, with a slump in job vacancies and analysts warning the labour market is 'running on idle'.\""
-  },
-  {
-    "path": "/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"crisis\": \"The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula.\""
-  },
-  {
-    "path": "/world/2026/apr/08/war-with-no-winners-netanyahu-israel-iran-us-ceasefire",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"disaster\": \"As Iran and the US agree a fragile ceasefire, Israel's conflict has turned into a bust that opponents call 'a political disaster' for Netanyahu.\""
-  },
-  {
-    "path": "/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is 15 words; keep it to 14 or fewer and move the detail to the trail: \"Risk grows of a wider Middle East war as Israel and Iran trade new strikes\""
-  },
-  {
-    "path": "/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Risk grows of a wider Middle East war as Israel and Iran trade new strikes\""
-  },
-  {
-    "path": "/world/2026/jun/08/israel-netanyahu-airstrikes-iran-retaliation-defies-trump",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"fears\": \"The attacks raise fears of a return to full-scale regional war, and come after Trump said 'I call all the shots', not Netanyahu.\""
-  },
-  {
     "path": "/world/2026/jun/08/israel-and-iran-attacks-pause-after-trump-calls-to-stop-shooting",
     "kind": "preview",
     "field": "headline",
@@ -315,25 +280,11 @@
     "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Israel and Iran step back from renewed conflict after Trump calls for a halt\""
   },
   {
-    "path": "/world/2026/mar/01/iran-us-israel-new-attacks-escalation-threat-middle-east",
+    "path": "/business/2026/sep/13/uk-autumn-budget-healey-trump",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"threatened\": \"Trump has threatened Tehran with force 'never seen before' if it pursues retaliation after Khamenei's death.\""
-  },
-  {
-    "path": "/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"warned\": \"Burnham warned of 'difficult decisions' in the budget as inflation climbed to 3.1%, while the PM rejected claims he leads a 'tax-and-spend' government.\""
-  },
-  {
-    "path": "/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"deficit\"); build it on the upside or score the story honestly and let the front drop it: \"Healey faces fresh pressure as inflation hits 3.5% and the deficit reaches £24bn\""
+    "issue": "trail leans on \"perilous\": \"The perilous economic conditions facing the UK are driven by the US president's policies, which continue to inflate debt-servicing costs as the chancellor drafts his autumn budget.\""
   },
   {
     "path": "/business/article/2024/aug/14/uk-inflation-rises-bank-of-england",
@@ -343,25 +294,11 @@
     "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"UK inflation rises to 2.2%, its first increase since December\""
   },
   {
-    "path": "/business/2024/jan/02/uk-grocery-inflation-food-price-rises-brexit-costs",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"warn\": \"UK shop inflation sticks at 4.3% despite the easing food prices; retailers warn post-Brexit checks on fresh food due from April could further drive up shopping costs.\""
-  },
-  {
     "path": "/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Andy Burnham says he wants an 'honest discussion' about freedom of movement with the EU\""
-  },
-  {
-    "path": "/commentisfree/2026/aug/23/the-guardian-view-on-andy-burnhams-foreign-policy-work-in-progress",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guardian view on Andy Burnham's foreign policy: work in progress\""
   },
   {
     "path": "/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
@@ -385,6 +322,13 @@
     "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Home Office's interest in migrant records traced back to Theresa May\""
   },
   {
+    "path": "/uk-news/2019/jun/27/home-office-windrush-report-damns-hostile-environment-policy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Windrush report damns Home Office's hostile environment policy\""
+  },
+  {
     "path": "/tv-and-radio/2020/oct/21/junior-masterchef-weekly-recap-im-about-to-cry",
     "kind": "preview",
     "field": "headline",
@@ -399,11 +343,18 @@
     "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Harry Kane and Alessia Russo named among this year's Ballon d'Or nominees\""
   },
   {
+    "path": "/football/2026/apr/03/harry-kane-england-ballon-dor-bayern-munich",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Harry Kane, England's Ballon d'Or hopeful, is finally getting the love he deserves\""
+  },
+  {
     "path": "/football/2026/apr/08/harry-kane-ballon-dor-folarin-balogun-roberto-de-zerbi-tottenham",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and De Zerbi's fix for Spurs\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pitch Points: Kane's Ballon d'Or chances, Balogun's US role and can De Zerbi fix Spurs?\""
   },
   {
     "path": "/football/2021/oct/08/ballon-dor-shortlists-simon-kjaer-kane-sterling-messi-ronaldo-lewandowski-kirby-white",
@@ -432,12 +383,5 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"'We built this land': descendants of enslaved people reclaim their history across South Africa's vineyards\""
-  },
-  {
-    "path": "/uk-news/2026/oct/25/middlesbrough-rejects-hardest-place-to-grow-up-label",
-    "kind": "preview",
-    "field": "trail",
-    "severity": "warning",
-    "issue": "trail leans on \"worst\": \"The Teesside town came out worst in a children's commissioner's 'hardest place to grow up' report, but residents say such rankings are demoralising and counterproductive.\""
   }
 ]
