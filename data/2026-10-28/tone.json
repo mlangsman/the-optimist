@@ -1,9 +1,58 @@
 [
   {
+    "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"These eight indie horror games bring spooky fairytales, satanic card games and infernal hijinks at the chip shop to this witching season.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK government met 137 businesses over AI datacentres – but no environmental groups\""
+  },
+  {
+    "path": "/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"iPhone Duo owners report cracks in Apple's first foldable handset\""
+  },
+  {
     "path": "/music/2026/oct/26/aberfan-from-darkness-to-light-review-paul-mealor-requiem-hoddinott-hall-cardiff-bbcnow",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
     "issue": "trail leans on \"disaster\": \"A thoughtful and moving concert, centred on Paul Mealor's new choral work, commemorated the 60th anniversary of the Aberfan disaster and offered hope amid the tears.\""
+  },
+  {
+    "path": "/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cookie theft: how fraudsters get the digital key to your accounts\""
+  },
+  {
+    "path": "/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"catastrophe\": \"Gaza's humanitarian catastrophe has been largely ignored in the campaign, as rivals Gadi Eisenkot and Benjamin Netanyahu both vow to end Hamas rule.\""
+  },
+  {
+    "path": "/world/2026/oct/05/brazil-election-bolsonaro-lula",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"surge\"); build it on the upside or score the story honestly and let the front drop it: \"What drove Flávio Bolsonaro's first-round election surge\""
+  },
+  {
+    "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jacinda Ardern joins University of Sydney as lecturer and mentor\""
   }
 ]

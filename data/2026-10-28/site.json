@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T05:00:35.860Z",
+  "generatedAt": "2026-10-28T06:06:21.909Z",
   "engine": "claude-code",
   "front": [
     {
@@ -29,7 +29,7 @@
         {
           "path": "/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
           "linked": false,
-          "headline": "AI Odyssey review – a pointless echo of Christopher Nolan's brilliant epic",
+          "headline": "Nolan's brilliant epic towers over Musk's pointless AI copy, review finds",
           "original": {
             "headline": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
             "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
@@ -37,7 +37,7 @@
             "byline": "Peter Bradshaw"
           },
           "kicker": "Film",
-          "trail": "Grok AI's version of Homer is as meaningless as a screensaver next to Nolan's original – and Musk is unlikely to admit defeat gracefully.",
+          "trail": "Grok AI's version of Homer is as meaningless as a screensaver next to Nolan's original – and Musk will not admit defeat gracefully.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f5bb844cbf76398948b5d3efa0fb0e79205a0c23/606_35_1466_1466/master/1466.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -56,7 +56,7 @@
             "byline": "Dave Simpson"
           },
           "kicker": "Music",
-          "trail": "Brett Morgen has turned lost footage of two 1978 concerts into an arena spectacular, saying 'you can feel the danger and excitement'.",
+          "trail": "Brett Morgan has turned lost footage of two 1978 concerts into an arena spectacular, saying 'you can feel the danger and excitement'.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/3fbe0ff38eaa4cd358604cd692ee4dc739de4928/553_657_1972_1972/master/1972.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -86,7 +86,7 @@
         {
           "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
           "linked": false,
-          "headline": "Eight brilliant new indie games to play this spooky Halloween",
+          "headline": "Eight new indie games to spook you this Halloween",
           "original": {
             "headline": "Eight great new indie horror games for Halloween",
             "url": "https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween",
@@ -94,7 +94,7 @@
             "byline": "Keith Stuart"
           },
           "kicker": "Games",
-          "trail": "From spooky fairytales and satanic card games to infernal fun at the chip shop, here are fresh frights for the witching season.",
+          "trail": "These eight indie horror games bring spooky fairytales, satanic card games and infernal hijinks at the chip shop to this witching season.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -159,8 +159,8 @@
             "byline": "Pippa Crerar and Heather Stewart"
           },
           "kicker": "UK news",
-          "trail": "The chancellor hopes to offer 'hope for the future', though only modest policies are expected, with key decisions on tax and spending deferred.",
-          "progress": "Healey is also raising the minimum wage, shielding pensioners from income tax and taxing banks more to help pay for the relief.",
+          "trail": "The chancellor hopes to offer 'hope for the future', though only modest policies are expected, with important decisions deferred.",
+          "progress": "Healey is also raising the minimum wage, shielding pensioners from income tax, and raising the bank surcharge to help offset the economic damage from the Middle East war.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/1f01f687ba484049be0fb12e06268ef777858455/1242_1688_4092_3275/master/4092.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -190,27 +190,6 @@
           "byline": "Cenis Dampbell Health policy editor"
         },
         {
-          "path": "/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
-          "linked": true,
-          "headline": "Sizewell C could save £2bn a year once complete, government says",
-          "original": {
-            "headline": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
-            "url": "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
-            "trail": "The public accounts committee has said the risk to billpayers is ‘extraordinary’",
-            "standfirst": "<p>The public accounts committee has said the risk to billpayers is ‘extraordinary’</p>",
-            "byline": "Jillian Ambrose Energy correspondent"
-          },
-          "kicker": "Business",
-          "trail": "The public accounts committee says the plan is a 'terrible deal' for taxpayers, with the risk to billpayers 'extraordinary'.",
-          "progress": "Construction is already under way with more than 2,000 workers on site, and ministers say investors are incentivised to build the plant quickly and cheaply.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/4996f4417eea84b657961bb7700ac93206205150/337_0_4943_3956/master/4943.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "The Sizewell C construction site"
-          },
-          "byline": "Illian Jambrose Energy correspondent"
-        },
-        {
           "path": "/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
           "linked": true,
           "headline": "Energy secretary leans against Rosebank oilfield on climate grounds",
@@ -223,13 +202,34 @@
           },
           "kicker": "Environment",
           "trail": "Government insiders say emissions from oil exported from the field would not count against the carbon budget – an argument climate campaigners are likely to reject.",
-          "progress": "Energy secretary Miatta Fahnbulleh is leaning against approval on climate grounds, despite cabinet pressure to say yes.",
+          "progress": "Greenpeace and Friends of the Earth have written to the prime minister, urging him to weigh the climate impact of Rosebank alongside Heathrow expansion and heat pump policy.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8b3e55b37846c187f6ef6cd5a2a910a2ecb19654/0_0_6827_5464/master/6827.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "People hold placards reading ‘Stop new North Sea oil’, ‘Stop Rosebank’ and ‘There's no such thing as a flying pig or clean fuel from an oil rig’"
           },
           "byline": "Stiran Kacey and Crippa Perar"
+        },
+        {
+          "path": "/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
+          "linked": true,
+          "headline": "Sizewell C construction continues as costs climb towards £48bn",
+          "original": {
+            "headline": "Plan for multibillion-pound Sizewell nuclear plant a ‘terrible deal’ for UK taxpayers, MPs say",
+            "url": "https://www.theguardian.com/business/2026/oct/28/plan-for-multibillion-pound-sizewell-nuclear-plant-a-terrible-deal-for-uk-taxpayers-mps-say",
+            "trail": "The public accounts committee has said the risk to billpayers is ‘extraordinary’",
+            "standfirst": "<p>The public accounts committee has said the risk to billpayers is ‘extraordinary’</p>",
+            "byline": "Jillian Ambrose Energy correspondent"
+          },
+          "kicker": "Business",
+          "trail": "The public accounts committee says the plan is a 'terrible deal' for taxpayers, with the risk to billpayers 'extraordinary'.",
+          "progress": "More than 2,000 workers are already building the plant, and ministers say the deal's terms incentivise investors to finish it quickly and cheaply.",
+          "upside": 1,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/4996f4417eea84b657961bb7700ac93206205150/337_0_4943_3956/master/4943.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "The Sizewell C construction site"
+          },
+          "byline": "Illian Jambrose Energy correspondent"
         },
         {
           "path": "/uk-news/2026/oct/27/former-met-officer-who-served-in-same-unit-as-david-carrick-and-wayne-couzens-found-guilty-of-sexual-offences",
@@ -255,7 +255,7 @@
         {
           "path": "/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
           "linked": true,
-          "headline": "Supreme court and lawmakers move to hold Flávio Bolsonaro to account",
+          "headline": "Judge and lawmakers move to hold Flávio Bolsonaro to account",
           "original": {
             "headline": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
             "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
@@ -264,8 +264,8 @@
             "byline": "Tiago Rogero in Brasília and Tom Phillips in São Paulo"
           },
           "kicker": "World news",
-          "trail": "The far-right senator is reported en route to the US after failing to hand over his passport, since the Bolsonaro camp's loss to Lula.",
-          "progress": "Brazil’s supreme court, federal police and Workers’ party lawmakers are all acting on the senator’s missed passport deadline and the money-laundering case against him.",
+          "trail": "The far-right senator is reported en route to the US after missing the deadline to hand over his passport following his loss to Lula.",
+          "progress": "A supreme court justice, federal police and Workers’ party lawmakers are all acting on the senator’s missed passport deadline and the money-laundering case against him.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -285,8 +285,8 @@
             "byline": "Natricia Duncan Caribbean correspondent"
           },
           "kicker": "World news",
-          "trail": "The move comes during a royal tour of the Caribbean, as Commonwealth nations renew their calls for Britain to open reparation talks.",
-          "progress": "Charles has told Commonwealth leaders they will discuss the legacy of slavery next week in Antigua.",
+          "trail": "The king's tour of the Caribbean comes as Commonwealth nations renew their calls for Britain to open reparation talks.",
+          "progress": "Charles is touring the Caribbean for nine days, including a solo state visit to Guyana, before chairing the summit where the issue will be raised.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/master/7200.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -329,7 +329,7 @@
             "byline": "Ana Milosavljevic in Belgrade and Ashifa Kassam"
           },
           "kicker": "World news",
-          "trail": "Hundreds of thousands gathered to celebrate the result on streets that were once the scene of police beatings, with campaigners calling it 'a symbol for Europe'.",
+          "trail": "Hundreds of thousands gathered to celebrate the result on streets that were once the scene of police beatings, in what many are calling 'a symbol for Europe'.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/90cc0fd1e912aba9de43b9f50c1e2a683dedea83/212_0_3769_3016/500.jpg"
@@ -339,7 +339,7 @@
         {
           "path": "/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
           "linked": false,
-          "headline": "Oleshky truce holds as frontline falls quiet for first time in years",
+          "headline": "Frontline near Oleshky falls quiet as European leaders talk to Putin",
           "original": {
             "headline": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
             "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
@@ -347,8 +347,8 @@
             "byline": "Luke Harding and Pjotr Sauer"
           },
           "kicker": "World news",
-          "trail": "Two European leaders held a 'frank' call with Vladimir Putin as the ceasefire near the Russian-occupied city in southern Ukraine takes hold ahead of a planned evacuation.",
-          "progress": "European leaders are using direct talks with Putin to help the Oleshky truce hold.",
+          "trail": "Two European leaders held a 'frank' call with Vladimir Putin as the ceasefire near the Russian-occupied city in southern Ukraine appears to hold, ahead of a planned evacuation.",
+          "progress": "Two European leaders held direct talks with Putin as the ceasefire near Oleshky appears to hold for now.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/4a7e69582a0f73261c44fb0b1afe74d2f9175797/1163_0_7097_5681/500.jpg"
@@ -367,7 +367,7 @@
           },
           "kicker": "Society",
           "trail": "The controversial mechanism, which hit unpaid carers with large penalties, will be abolished following a Guardian investigation into its impact.",
-          "progress": "The chancellor is scrapping the clawback rule in the budget after sustained pressure from carers' campaigners and Guardian reporting.",
+          "progress": "The mechanism will be scrapped in the budget, following a Guardian investigation into its impact on unpaid carers.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f76a9a9e99db01ac0ebb04555c9b3585407accd3/889_0_4680_3744/500.jpg"
@@ -377,7 +377,7 @@
         {
           "path": "/world/2026/oct/26/we-built-this-land-descendants-of-enslaved-people-are-reclaiming-their-history-across-south-africas-vineyards",
           "linked": false,
-          "headline": "Descendants of enslaved people reclaim their history on South African vineyards",
+          "headline": "South African vineyards confront their roots in slavery",
           "original": {
             "headline": "‘We built this land’: descendants of enslaved people are reclaiming their history across South Africa’s vineyards",
             "url": "https://www.theguardian.com/world/2026/oct/26/we-built-this-land-descendants-of-enslaved-people-are-reclaiming-their-history-across-south-africas-vineyards",
@@ -386,7 +386,7 @@
           },
           "kicker": "World news",
           "trail": "A handful of wineries are addressing the legacy of a wine industry once built on slavery, as descendants work to right the wrongs of the past and tell their own story.",
-          "progress": "A handful of wineries are now addressing the industry's history of slavery and working with descendants to put it right.",
+          "progress": "A handful of wineries are addressing the industry's history of slavery, as descendants work separately to reclaim their own story.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/ad98789bb0b55b911a7d2d1fd7573221f8fb6876/294_0_5840_4672/500.jpg"
@@ -396,7 +396,7 @@
         {
           "path": "/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
           "linked": false,
-          "headline": "UK plans incentives to turn electric cars into mini power plants",
+          "headline": "UK plans to turn electric cars into mini power plants for the grid",
           "original": {
             "headline": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
             "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
@@ -404,7 +404,7 @@
             "byline": "Jasper Jolly"
           },
           "kicker": "Environment",
-          "trail": "New vehicle-to-grid technology would let drivers charge automatically when power is cheap, then sell some back to the grid at times of high demand.",
+          "trail": "Vehicle-to-grid technology enables drivers to charge automatically when power is cheap, then sell some back to the grid at times of high demand.",
           "progress": "Ministers are developing incentives for carmakers to roll out vehicle-to-grid charging technology.",
           "upside": 2,
           "image": {
@@ -415,7 +415,7 @@
         {
           "path": "/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
           "linked": false,
-          "headline": "Jacinda Ardern to mentor students at University of Sydney",
+          "headline": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
           "original": {
             "headline": "Jacinda Ardern joins University of Sydney as lecturer and mentor",
             "url": "https://www.theguardian.com/world/2026/oct/27/jacinda-ardern-joins-university-of-sydney-as-lecturer-and-mentor",
@@ -423,7 +423,7 @@
             "byline": "Josh Taylor"
           },
           "kicker": "World news",
-          "trail": "The former New Zealand prime minister takes up a new role at the university, focused on leadership, social cohesion and public health.",
+          "trail": "The former New Zealand prime minister takes up the new lecturer and mentor role, focused on leadership, social cohesion and public health.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/acc4ab5b8f6e4f22c46a14f08bbbcd077a9f93fa/873_946_3818_3054/500.jpg"
@@ -476,7 +476,7 @@
         {
           "path": "/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
           "linked": false,
-          "headline": "Budget 2026: six charts showing how Healey plans to tackle Britain's economic challenges",
+          "headline": "Budget 2026: six charts lay out the economic realities Healey faces",
           "original": {
             "headline": "Budget 2026: six charts that reveal the economic realities facing the chancellor ",
             "url": "https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
@@ -484,8 +484,8 @@
             "byline": "Richard Partington Senior economics correspondent"
           },
           "kicker": "UK news",
-          "trail": "From tackling youth unemployment to repairing damage from Brexit, these six charts explain the challenges shaping the chancellor's budget choices.",
-          "upside": 2,
+          "trail": "From tackling youth unemployment to repairing damage from Brexit, these six charts set out the economic challenges shaping the chancellor's budget choices.",
+          "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/407ce8579097546b9602b56f57fa209ba8e7fea9/0_0_1666_1333/master/1666.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A composite of John Healey, petrol pump, job centre plus, military, the City."
@@ -509,7 +509,7 @@
             "byline": "Dave Simpson"
           },
           "kicker": "Music",
-          "trail": "Brett Morgen has turned lost footage of two 1978 concerts into an arena spectacular, saying 'you can feel the danger and excitement'.",
+          "trail": "Brett Morgan has turned lost footage of two 1978 concerts into an arena spectacular, saying 'you can feel the danger and excitement'.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/3fbe0ff38eaa4cd358604cd692ee4dc739de4928/278_911_2172_2714/master/2172.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -564,7 +564,7 @@
         {
           "path": "/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
           "linked": false,
-          "headline": "AI Odyssey review – a pointless echo of Christopher Nolan's brilliant epic",
+          "headline": "Nolan's brilliant epic towers over Musk's pointless AI copy, review finds",
           "original": {
             "headline": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
             "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
@@ -572,7 +572,7 @@
             "byline": "Peter Bradshaw"
           },
           "kicker": "Film",
-          "trail": "Grok AI's version of Homer is as meaningless as a screensaver next to Nolan's original – and Musk is unlikely to admit defeat gracefully.",
+          "trail": "Grok AI's version of Homer is as meaningless as a screensaver next to Nolan's original – and Musk will not admit defeat gracefully.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/92774383fe7ce51c65f27cb958af0171dee508c7/561_20_1550_1241/master/1550.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -665,7 +665,7 @@
         {
           "path": "/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
           "linked": false,
-          "headline": "Reform can't dodge the racism in its own ranks forever",
+          "headline": "Nigel Farage can't have it both ways over his ally's racist remark",
           "original": {
             "headline": "Schrödinger’s racism, Nige’s latest wheeze to try to dodge his associates’ bigotry",
             "url": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
@@ -747,7 +747,7 @@
         {
           "path": "/commentisfree/2026/oct/27/defund-elon-musk",
           "linked": false,
-          "headline": "Curb Elon Musk's outsized power over US foreign policy, writer argues",
+          "headline": "Defund Elon Musk, writer argues",
           "original": {
             "headline": "Defund Elon Musk",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/27/defund-elon-musk",
@@ -781,7 +781,6 @@
           },
           "kicker": "Opinion",
           "trail": "A taper is much better than the cliff-edge carer's allowance it replaces, but the underlying problems should have been solved years ago, the Guardian view argues.",
-          "progress": "A taper is replacing the cliff-edge that previously penalised unpaid carers.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/e8006e9d8e2c7d4bdad3d20734c189e822abdca2/0_0_4024_3221/500.jpg"
@@ -791,7 +790,7 @@
         {
           "path": "/commentisfree/2026/oct/27/the-guardian-view-on-the-far-rights-plans-for-brussels-doing-the-work-of-xi-putin-and-trump",
           "linked": false,
-          "headline": "EU institutions deserve defending against far right's plans to hollow them out",
+          "headline": "EU institutions deserve defending against a plan serving Xi, Putin and Trump",
           "original": {
             "headline": "The Guardian view on the far right’s plans for Brussels: doing the work of Xi, Putin and Trump",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/27/the-guardian-view-on-the-far-rights-plans-for-brussels-doing-the-work-of-xi-putin-and-trump",
@@ -799,7 +798,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "If ever enacted, proposals by Marine Le Pen and the AfD leader, Alice Weidel, to gut Brussels' institutions would be a continental act of self-harm, the Guardian view argues.",
+          "trail": "If ever enacted, Marine Le Pen and Alice Weidel's proposals to hollow out Brussels' institutions would do the work of Xi, Putin and Trump and amount to a continental act of self-harm, the Guardian view argues.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/c6af4b8cd779cc1a38f33810164f781f75eb22ac/564_0_4151_3321/500.jpg"
@@ -822,7 +821,7 @@
             "trail": "Letters: Readers respond to an article by Sam Wollaston about Norfolk’s fridge mountain"
           },
           "kicker": "Environment",
-          "trail": "Responding to Sam Wollaston's piece on Norfolk's growing fridge mountain, readers share their ideas for tackling Britain's fridge disposal problem.",
+          "trail": "Responding to Sam Wollaston's piece on Norfolk's fridge mountain, readers share their ideas for tackling Britain's fridge disposal problem.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/e4fcee02a9036ba9efa9a91d81b4b5f0dd6e3a3d/663_0_6610_5291/500.jpg"
@@ -831,15 +830,15 @@
         {
           "path": "/uk-news/2026/oct/27/lack-of-a-protective-ring-around-care-homes-meant-our-loved-ones-died-of-covid",
           "linked": false,
-          "headline": "Bereaved families tell Covid inquiry of care home deaths",
+          "headline": "Bereaved families write to the Guardian about care home deaths",
           "original": {
             "headline": "Lack of a ‘protective ring’ around care homes meant our loved ones died of Covid",
             "url": "https://www.theguardian.com/uk-news/2026/oct/27/lack-of-a-protective-ring-around-care-homes-meant-our-loved-ones-died-of-covid",
             "trail": "Letters: Diane La Rosa and Teresa Pacey-Devlin on the deaths of their fathers during the pandemic. Plus more letters responding to the Covid inquiry from John Robinson, David Flood and James Townsend"
           },
           "kicker": "UK news",
-          "trail": "Diane La Rosa, Teresa Pacey-Devlin and other readers write to the Covid inquiry about the lack of a 'protective ring' around care homes, which they say meant their loved ones died during the pandemic.",
-          "progress": "Their accounts are being submitted to the ongoing Covid inquiry examining what happened in care homes.",
+          "trail": "Diane La Rosa, Teresa Pacey-Devlin and other readers write to the Guardian about the lack of a 'protective ring' around care homes, which they say meant their fathers died during the pandemic.",
+          "progress": "Their letters respond to the ongoing Covid inquiry examining what happened in care homes.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/90e6a225c0168fdd94d8e18195eea158741d825e/828_0_7200_5760/500.jpg"
@@ -855,7 +854,7 @@
             "trail": "Letters: Responding to a Guardian investigation into trafficking, former British ambassador to Colombia Keith Morris says the ‘war on drugs’ has failed"
           },
           "kicker": "World news",
-          "trail": "Keith Morris, Britain's former ambassador to Colombia, who says Pablo Escobar once tried to have him killed in Bogotá, argues the 'war on drugs' has failed and legalisation would curb the cartels' reach into Europe.",
+          "trail": "Keith Morris, Britain's former ambassador to Colombia, who says Pablo Escobar once tried to bomb him in Bogotá, argues the 'war on drugs' has failed and legalisation would curb the cartels' reach into Europe.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/3ce3717fe5152bc34349b53baa486dd175a2f5e0/82_0_2336_1869/500.jpg"
@@ -894,7 +893,7 @@
             "byline": "Will Unwin at Highbury"
           },
           "kicker": "Football",
-          "trail": "Fleetwood's manager, Matt Lawlor, reflects on celebrating his club's giant-killing win over Arsenal with 'people I knew and grew up with'.",
+          "trail": "Fleetwood's manager, Matt Lawlor, reflects on celebrating his club's incredible win over Arsenal with 'people that I knew and grew up with'.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/44cc5de2b426f482f1586e45cc0a2c57655018a8/1190_0_2387_1909/master/2387.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -934,13 +933,32 @@
             "byline": "Geoff Lemon"
           },
           "kicker": "Sport",
-          "trail": "A risky decision to bowl first nearly backfired for Australia, who were 140 for none at lunch before dismissing the hosts for 329.",
+          "trail": "A risky decision to bowl first nearly backfired for Australia, as the hosts raced to 140 for none at lunch before being dismissed for 329.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f4b232365a60864a9c9430d81385282854a97c3e/364_0_3640_2912/master/3640.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "CRICKET-RSA-AUS-TESTAustralia's Mitchell Starc (2nd R) and Australia's Pat Cummins (2nd L) celebrate the dismissal of South Africa's Wiaan Mulder on day one of the third Test match between South Africa and Australia at Newlands stadium in Cape Town on October 27, 2026."
           },
           "byline": "Leoff Gemon"
+        },
+        {
+          "path": "/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+          "linked": false,
+          "headline": "Busby and Ferguson show success is possible in Carrick's tough new job",
+          "original": {
+            "headline": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
+            "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur",
+            "trail": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows",
+            "byline": "John Brewin"
+          },
+          "kicker": "Football",
+          "trail": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford post, and both still cast an uneasy shadow over those, including Carrick, who have followed.",
+          "upside": 1,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/30252404116b7b2759c3cfc0a3f19ae6bacdf054/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Montage of Manchester United managers through history, some holding European Cup trophies"
+          },
+          "byline": "Brohn Jewin"
         }
       ]
     },
@@ -951,7 +969,7 @@
         {
           "path": "/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
           "linked": false,
-          "headline": "Alexia Putellas wins third Ballon d'Or amid calls to widen the prize's reach",
+          "headline": "Alexia Putellas claims third Ballon d'Or amid criticism of award's reach",
           "original": {
             "headline": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
             "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts",
@@ -959,7 +977,7 @@
             "byline": "Tom Garry"
           },
           "kicker": "Football",
-          "trail": "The Spanish great's win was celebrated, but critics say neglect of African football shows the award remains reserved largely for players from the game's wealthiest nations.",
+          "trail": "The Spanish great's win was celebrated, but the piece argues that neglect of African football shows the award remains reserved largely for players from the game's wealthiest nations.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7a0b544eb06051263fc3690abe23ab46e818ca8f/386_284_3868_3094/master/3868.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -970,7 +988,7 @@
         {
           "path": "/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
           "linked": false,
-          "headline": "Florida soccer league disputes parents' claim over benched three-year-old",
+          "headline": "Parents say three-year-old was benched for being too good, prompting police call",
           "original": {
             "headline": "Police called to Florida soccer game after parents say three-year-old benched for being too good",
             "url": "https://www.theguardian.com/football/2026/oct/27/florida-soccer-game-three-year-old-boy-benched-police",
@@ -978,7 +996,7 @@
             "byline": "Guardian sport"
           },
           "kicker": "Football",
-          "trail": "Police were called to a youth soccer game in Florida after parents said their three-year-old was benched for being too good.",
+          "trail": "Police were called to remove the parents of a three-year-old player at a youth soccer game in Florida, after they said their son was benched for being too good.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/a1a91a4e788e2b729992e487bc6df6be0b0a1298/311_0_1767_1414/master/1767.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1034,52 +1052,6 @@
       ]
     },
     {
-      "id": "climate-crisis-&-environment",
-      "title": "Climate crisis & environment",
-      "cards": [
-        {
-          "path": "/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
-          "linked": false,
-          "headline": "Heat pump installers credit boiler upgrade grants with driving green uptake",
-          "original": {
-            "headline": "‘No one saves the planet if it hits their pocket’: UK heat pump installers fear planned subsidy cuts",
-            "url": "https://www.theguardian.com/environment/2026/oct/27/heat-pump-installers-fear-planned-subsidy-cuts-uk-budget",
-            "trail": "Boiler upgrade scheme, which provides grants of up to £9,000 for sustainable alternatives, expected to be slashed in budget",
-            "byline": "Matthew Pearce"
-          },
-          "kicker": "Environment",
-          "trail": "The scheme, which offers grants of up to £9,000 for sustainable alternatives, is expected to be slashed in the budget — a change installers say could slow the switch away from fossil fuel boilers.",
-          "progress": "The boiler upgrade scheme currently provides grants of up to £9,000 to help households switch to heat pumps.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/5007d8410f962c2661358286c2deed7b88d83c74/0_453_895_716/master/895.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Bill Tuck posing for photo next to heat pump"
-          },
-          "byline": "Patthew Mearce"
-        },
-        {
-          "path": "/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
-          "linked": false,
-          "headline": "Chris Packham urges chancellor to redirect £24bn from carbon capture to bill support",
-          "original": {
-            "headline": "UK spending on ‘fairytale’ carbon capture tech is a national embarrassment, chancellor told",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
-            "trail": "Chris Packham says £24bn earmarked for projects with ‘ludicrously uncertain results’ should be redirected to help lower bills and cut emissions",
-            "byline": "Jillian Ambrose Energy correspondent"
-          },
-          "kicker": "Environment",
-          "trail": "The naturalist says the money earmarked for carbon capture projects with 'ludicrously uncertain results' should instead help lower household bills and cut emissions.",
-          "progress": "Campaigners including Packham are pushing ministers to redirect the £24bn towards measures with proven impact.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/e39d05de3405616eae6dff2d7ce984d7d376d880/366_0_1833_1467/master/1833.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Ed Miliband in a hard hat talks with officials outside the St Fergus gas plant"
-          },
-          "byline": "Illian Jambrose Energy correspondent"
-        }
-      ]
-    },
-    {
       "id": "uk-news",
       "title": "UK news",
       "cards": [
@@ -1114,7 +1086,7 @@
             "byline": "Patrick Butler Social policy editor"
           },
           "kicker": "Society",
-          "trail": "The budget is expected to introduce a digital taper for carer's allowance, but campaigners say it doesn't go far enough, as those already hit with unjust overpayments still have to repay them.",
+          "trail": "The budget is expected to introduce a digital taper for carer's allowance, but victims say it doesn't go far enough, as those already hit with unjust overpayments still have to repay them.",
           "progress": "Ministers are planning a digital taper system in the budget to smooth the carer's allowance cliff edge.",
           "upside": 1,
           "image": {
@@ -1146,7 +1118,7 @@
         {
           "path": "/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
           "linked": false,
-          "headline": "Students push for Oxford college to drop event with Arday accuser",
+          "headline": "Oriel College urged to cancel event with Jason Arday's accuser",
           "original": {
             "headline": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
             "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
@@ -1155,7 +1127,6 @@
           },
           "kicker": "Education",
           "trail": "Student supporters of Reform UK at the Oxford college have organised an evening with Nathan Cofnas, who has accused academic Jason Arday, to discuss DEI, prompting calls for it to be cancelled.",
-          "progress": "Students and others are urging Oriel College to cancel the event.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7166f637b6c872ffb2089527262bb3ef4ec57e4e/767_0_5002_4000/master/5002.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1251,7 +1222,7 @@
         {
           "path": "/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
           "linked": false,
-          "headline": "HSBC profits jump 32% as bank rules out leaving UK",
+          "headline": "HSBC profits jump 32% as bank says no pressure to relocate",
           "original": {
             "headline": "HSBC says ‘no pressure’ to move HQ out of UK despite prospect of higher bank taxes",
             "url": "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
@@ -1269,7 +1240,7 @@
         {
           "path": "/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
           "linked": false,
-          "headline": "Anthropic's record stock filing reveals explosive growth",
+          "headline": "Anthropic's potentially record-breaking stock filing reveals explosive growth",
           "original": {
             "headline": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
             "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
@@ -1287,7 +1258,7 @@
         {
           "path": "/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
           "linked": false,
-          "headline": "Business groups push for budget support ahead of key decision",
+          "headline": "Calls grow for more support as UK business distress hits two-decade high",
           "original": {
             "headline": "Number of UK businesses in financial distress ‘at two-decade high’",
             "url": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
@@ -1296,7 +1267,6 @@
           },
           "kicker": "Business",
           "trail": "Administrator BTG says 738,144 UK businesses are in financial distress, a two-decade high, as calls grow for more support for the private sector in the budget.",
-          "progress": "Business groups are lobbying the government for more support ahead of the budget.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/4b77c69a7601f80174fe579b301fcacd5c2baa03/982_33_4423_3541/500.jpg"
@@ -1306,7 +1276,7 @@
         {
           "path": "/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
           "linked": false,
-          "headline": "Apple says only small number of foldable iPhones affected by cracks",
+          "headline": "iPhone Duo owners report cracks in Apple's first foldable handset",
           "original": {
             "headline": "iPhone Duo owners report cracks in Apple’s first foldable handset",
             "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
@@ -1314,7 +1284,7 @@
             "byline": "Dan Milmo Global technology editor"
           },
           "kicker": "Technology",
-          "trail": "Some iPhone Duo owners have reported cracks in Apple's first foldable handset after posts appeared on Reddit and social media, but the company says only a small number of devices are affected.",
+          "trail": "Some iPhone Duo owners have reported cracks in Apple's first foldable handset after posts appeared on Reddit and social media; the company says only a small number of devices are affected.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/c698617819e1a690d07c1616d74825b6af7e7a69/179_0_5355_4284/500.jpg"
@@ -1349,7 +1319,7 @@
         {
           "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
           "linked": false,
-          "headline": "Eight brilliant new indie games to play this spooky Halloween",
+          "headline": "Eight new indie games to spook you this Halloween",
           "original": {
             "headline": "Eight great new indie horror games for Halloween",
             "url": "https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween",
@@ -1357,7 +1327,7 @@
             "byline": "Keith Stuart"
           },
           "kicker": "Games",
-          "trail": "From spooky fairytales and satanic card games to infernal fun at the chip shop, here are fresh frights for the witching season.",
+          "trail": "These eight indie horror games bring spooky fairytales, satanic card games and infernal hijinks at the chip shop to this witching season.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -1557,7 +1527,7 @@
         {
           "path": "/books/2026/oct/27/time-being-by-jude-cook-review-a-smart-existential-tale-of-midlife",
           "linked": false,
-          "headline": "Jude Cook's Time Being is a smart existential tale of midlife",
+          "headline": "Time Being by Jude Cook review – a juicy, guilt-ridden tale of survival",
           "original": {
             "headline": "Time Being by Jude Cook review – a smart existential tale of midlife",
             "url": "https://www.theguardian.com/books/2026/oct/27/time-being-by-jude-cook-review-a-smart-existential-tale-of-midlife",
@@ -1609,7 +1579,7 @@
             "byline": "Ellie Gibson"
           },
           "kicker": "Games",
-          "trail": "As the tomb raider marks three decades, we revisit the archaeologist's funniest lowlights alongside the highlights of her storied video game career.",
+          "trail": "As the tomb raider marks three decades, we revisit the archaeologist's less glorious lowlights alongside the highlights of her storied video game career.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1639,7 +1609,7 @@
         {
           "path": "/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
           "linked": false,
-          "headline": "Nintendo Switch Sports Resort review – Wii Sports spirit lives on in this appealing collection",
+          "headline": "Nintendo Switch Sports Resort review – a holiday-ready family game collection that delivers",
           "original": {
             "headline": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
             "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
@@ -1647,7 +1617,7 @@
             "byline": "Keza MacDonald"
           },
           "kicker": "Games",
-          "trail": "Bringing a holiday vibe and a generous selection of sport-themed games, this is exactly what you want from a family video game.",
+          "trail": "A generous, holiday-flavoured collection of sports games makes for an easy family pick.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1683,7 +1653,7 @@
         {
           "path": "/artanddesign/2026/oct/27/villa-necchi-the-yard-olympic-pizzazz-ian-mckellen-olympic",
           "linked": false,
-          "headline": "The low-budget theatre outshining its flashy Olympic Park neighbours",
+          "headline": "The low-budget theatre outshining its flashy Olympic site neighbours",
           "original": {
             "headline": "Our loos? They’re inspired by Milan’s Villa Necchi! The reborn planks-and-plasterboard theatre trouncing its flashy neighbours",
             "url": "https://www.theguardian.com/artanddesign/2026/oct/27/villa-necchi-the-yard-olympic-pizzazz-ian-mckellen-olympic",
@@ -1773,7 +1743,7 @@
             "byline": "Owen Myers"
           },
           "kicker": "Stage",
-          "trail": "The RuPaul's Drag Race alum talks politics and starring in the smash comedy, and speaks out about the prejudice drag queens still face in Hollywood.",
+          "trail": "The RuPaul's Drag Race alum talks politics and starring in the smash comedy, and says 'a dog would get treated better than a drag queen in Hollywood'.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/29fd23f5d79958b2888fdcc2d0daf84ea4df8943/0_517_4754_3803/master/4754.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1792,8 +1762,8 @@
             "byline": "Laura Snapes"
           },
           "kicker": "Music",
-          "trail": "The musician and outspoken critic of the president is seeking $10m in damages for repeated use of Rockin' in the Free World at rallies, six years after a settlement.",
-          "progress": "Young is suing for $10m in damages, six years after Trump had agreed in a settlement not to use the song again.",
+          "trail": "The musician and outspoken critic of the president is suing for m in reputational damages, six years after a settlement in which Trump agreed not to use the song again.",
+          "progress": "Young previously settled a similar case with Trump over the same song six years ago.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/87ae96e8d31466154d04c931504dc4d54d8e8458/1_217_3671_2938/master/3671.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1804,7 +1774,7 @@
         {
           "path": "/stage/2026/oct/27/cheer-up-scrooge-the-merriest-christmas-theatre-shows-from-musketeers-to-a-penguin-party",
           "linked": false,
-          "headline": "Cheer up, Scrooge! The best family Christmas theatre shows this year",
+          "headline": "Cheer up, Scrooge: the best family Christmas theatre this year",
           "original": {
             "headline": "Cheer up, Scrooge! The merriest Christmas theatre shows, from musketeers to a penguin party",
             "url": "https://www.theguardian.com/stage/2026/oct/27/cheer-up-scrooge-the-merriest-christmas-theatre-shows-from-musketeers-to-a-penguin-party",
@@ -1812,7 +1782,7 @@
             "byline": "Arifa Akbar"
           },
           "kicker": "Stage",
-          "trail": "The festive season brings swashbuckling adventure, heartwarming Antarctic antics, a yuletide spin on Pride and Prejudice and Matthew Bourne's Cinderella.",
+          "trail": "This festive season brings swashbuckling adventure, heartwarming Antarctic antics, a yuletide Pride and Prejudice, and Matthew Bourne's Cinderella.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f0e05d719f860f904fc32a63282b87c38923e5da/602_1950_3472_2778/master/3472.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1829,7 +1799,7 @@
         {
           "path": "/smarter-homes-lower-bills/2026/oct/13/smart-home-guide-how-does-yours-compare",
           "linked": false,
-          "headline": "Step inside the smart home: how does yours compare?",
+          "headline": "See how your home stacks up against a fully smart one",
           "original": {
             "headline": "Welcome to the smart home – how does yours compare?",
             "url": "https://www.theguardian.com/smarter-homes-lower-bills/2026/oct/13/smart-home-guide-how-does-yours-compare",
@@ -1837,7 +1807,7 @@
             "byline": "Christian Koch"
           },
           "kicker": "Smarter Homes, Lower Bills",
-          "trail": "Ready to explore a tech-filled home that's comfortable to live in and saves money on your bills? Take an interactive tour to see what you could achieve.",
+          "trail": "Take an interactive tour of a tech-filled home that's comfortable to live in and cuts your bills, and see what you could achieve.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f522a30c0e2a6aafe09ce7491c2c728063d52a29/0_0_2240_1792/master/2240.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1867,7 +1837,7 @@
         {
           "path": "/smarter-homes-lower-bills/2026/oct/02/why-heat-pumps-and-solar-panels-are-more-accessible",
           "linked": false,
-          "headline": "Heat pumps and solar panels are more affordable than you think",
+          "headline": "Heat pumps and solar panels have never been easier to adopt",
           "original": {
             "headline": "Myth buster: why heat pumps and solar panels are more accessible than ever",
             "url": "https://www.theguardian.com/smarter-homes-lower-bills/2026/oct/02/why-heat-pumps-and-solar-panels-are-more-accessible",
@@ -1875,7 +1845,7 @@
             "byline": "Jonathan Weinberg"
           },
           "kicker": "Smarter Homes, Lower Bills",
-          "trail": "Changing the way you heat your home can feel daunting, but once you understand the smart technology and comfort you can achieve, it could be a no-brainer.",
+          "trail": "Switching how you heat your home can feel daunting, but once you see the comfort and smart technology on offer, it could be a no-brainer.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/902416abbd5069b277e77f9393f91085c4239f6d/0_0_7162_5733/master/7162.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1886,7 +1856,7 @@
         {
           "path": "/smarter-homes-lower-bills/2026/oct/02/smart-fixed-or-standard-energy-tariffs-explained",
           "linked": false,
-          "headline": "Smart tariffs are helping more homeowners slash their energy bills",
+          "headline": "Smart tariffs are helping homeowners slash their energy bills",
           "original": {
             "headline": "Smart, standard or fixed? The new era of energy tariffs, explained",
             "url": "https://www.theguardian.com/smarter-homes-lower-bills/2026/oct/02/smart-fixed-or-standard-energy-tariffs-explained",
@@ -1919,7 +1889,7 @@
             "byline": "Gynelle Leon"
           },
           "kicker": "Life and style",
-          "trail": "Some plants do need a rest to complete their growth cycle, but for others this popular hack could be stressful.",
+          "trail": "Some plants do need a rest to complete their growth cycle, but for others this hack could be stressful.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ebdd001074eaada56ae2f1a42a78741df8d634df/1908_557_4170_5215/master/4170.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2037,7 +2007,7 @@
         {
           "path": "/food/2026/oct/27/pumpkin-recipes-carrot-fritters-green-relish-chocolate-cake-thomasina-miers",
           "linked": false,
-          "headline": "Thomasina Miers’ pumpkin recipes bring Halloween joy to the kitchen",
+          "headline": "Thomasina Miers' pumpkin recipes bring Halloween joy to the kitchen",
           "original": {
             "headline": "Fritters and chocolate cake: Thomasina Miers’ recipes for cooking with pumpkin",
             "url": "https://www.theguardian.com/food/2026/oct/27/pumpkin-recipes-carrot-fritters-green-relish-chocolate-cake-thomasina-miers",
@@ -2045,7 +2015,7 @@
             "byline": "Thomasina Miers"
           },
           "kicker": "Food",
-          "trail": "Quick, child-friendly pumpkin and carrot fritters, plus a rich pumpkin chocolate slice, make simple finger food perfect for Halloween.",
+          "trail": "Quick, child-friendly pumpkin and carrot fritters, plus a pumpkin chocolate slice, make simple finger food perfect for Halloween.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ae94ff40ffcd95d2bb4f9f0a776879a641b9cee6/0_1258_4253_3401/master/4253.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2109,7 +2079,7 @@
           },
           "kicker": "Life and style",
           "trail": "After being hit by a car and left for dead in a ditch, Clement was rescued; his patience and sunny nature now comfort the people who need him most.",
-          "progress": "Clement was rescued and now works to bring comfort and joy to people who need him most.",
+          "progress": "Rescued from the ditch, Clement has gone on to become a calming presence for the people around him.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b527afa8c51efe907dc44b3d226088647f1b71af/490_1426_1310_1048/master/1310.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2158,7 +2128,7 @@
         {
           "path": "/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful",
           "linked": false,
-          "headline": "Learning to process resentment after giving my ex the house and savings",
+          "headline": "Understanding this resentment could be the first step to moving on",
           "original": {
             "headline": "I gave my ex our house and half my savings, but now I feel resentful",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful",
@@ -2166,9 +2136,8 @@
             "byline": "Annalisa Barbieri"
           },
           "kicker": "Life and style",
-          "trail": "Those feelings are understandable, a counsellor says – and exploring and accepting them, rather than fighting them, may help this reader move on.",
-          "progress": "A counsellor suggests exploring and accepting these feelings as a route to moving on.",
-          "upside": 2,
+          "trail": "Those feelings are understandable – and exploring and accepting them may help this reader move on, after giving her ex the house and half her savings.",
+          "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b26725319d3e4dc03ff9509367c9ef8cc66f9e35/1304_0_7808_6250/master/7808.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "An illustration of a woman facing away with her arms crossed"
@@ -2221,25 +2190,6 @@
           "byline": "Woe Zood"
         },
         {
-          "path": "/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
-          "linked": false,
-          "headline": "Cookie theft: how to protect the digital key to your accounts",
-          "original": {
-            "headline": "Cookie theft: how fraudsters get the digital key to your accounts",
-            "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
-            "trail": "‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts",
-            "byline": "Hilary Osborne"
-          },
-          "kicker": "Money",
-          "trail": "Session cookies are a prime target for hackers, who can use them to hijack and access your online accounts undetected.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Close up detail of a website on a computer screen stating this website uses cookies"
-          },
-          "byline": "Ilary Hosborne"
-        },
-        {
           "path": "/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
           "linked": false,
           "headline": "Drivers hit by airport parking fines may have a route to challenge them",
@@ -2250,14 +2200,32 @@
             "byline": "Anna Tims"
           },
           "kicker": "Money",
-          "trail": "Airports are ruthless in issuing penalty notices, even for stops of seconds, as one driver found while dealing with a wasp – but there is a get-out clause.",
-          "progress": "A get-out clause exists for drivers who want to challenge unfair airport parking fines.",
+          "trail": "Airports are ruthless in issuing penalty notices, even for an 18-second stop, as one driver found while dealing with a wasp – but there is a get-out clause.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ebe5a2a2f01240ab9dc5f5c302b680d197450f3b/0_0_4847_3879/master/4847.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "An airport road sign warning motorists if they stop in a restricted red zone they'll be fined £100."
           },
           "byline": "Tanna Ims"
+        },
+        {
+          "path": "/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+          "linked": false,
+          "headline": "Cookie theft: how fraudsters get the digital key to your accounts",
+          "original": {
+            "headline": "Cookie theft: how fraudsters get the digital key to your accounts",
+            "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+            "trail": "‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts",
+            "byline": "Hilary Osborne"
+          },
+          "kicker": "Money",
+          "trail": "Session cookies are a prime target for hackers, who can use them to hijack and use your online accounts.",
+          "upside": 1,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Close up detail of a website on a computer screen stating this website uses cookies"
+          },
+          "byline": "Ilary Hosborne"
         }
       ]
     },
@@ -2295,7 +2263,7 @@
             "byline": "Gideon Meyerowitz-Katz"
           },
           "kicker": "Opinion",
-          "trail": "Despite a wave of influencers speaking out against them, randomised trials of omega-6 fatty acids show no increase in inflammation.",
+          "trail": "Randomised trials of omega-6 fatty acids show no increase in inflammation, despite a wave of influencers speaking out against seed oils.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/d8049b8e664b1b35b3100cdfdb412f60b1532e0f/0_0_1875_1500/master/1875.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2325,7 +2293,7 @@
         {
           "path": "/society/2026/oct/25/the-joy-of-veg-maxxing-how-to-eat-many-many-more-plants-without-really-trying",
           "linked": false,
-          "headline": "The joy of veg-maxxing: eating many more plants without really trying",
+          "headline": "How to eat far more fruit and veg without even noticing",
           "original": {
             "headline": "The joy of veg-maxxing: how to eat many, many more plants – without really trying",
             "url": "https://www.theguardian.com/society/2026/oct/25/the-joy-of-veg-maxxing-how-to-eat-many-many-more-plants-without-really-trying",
@@ -2333,7 +2301,7 @@
             "byline": "Lucy Knight"
           },
           "kicker": "Society",
-          "trail": "A new report found many crops are less nutritious than they once were, so here is how to easily get five – or even ten – portions of fruit and veg a day.",
+          "trail": "A new report found many crops are far less nutritious than they once were, so here is how to easily get five – or even ten – portions of fruit and veg a day.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/690858b8e5cb358637177d1de5f461f3f17e9f57/0_913_4480_3584/master/4480.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2369,7 +2337,7 @@
         {
           "path": "/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
           "linked": false,
-          "headline": "How ‘ugly’ shoes went from catwalk oddity to mainstream favourite",
+          "headline": "How 'ugly' shoes went from catwalk oddity to everyday wear",
           "original": {
             "headline": "From five-fingered trainers to the shoeless shoe: what’s with all the freaky footwear?",
             "url": "https://www.theguardian.com/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
@@ -2377,7 +2345,7 @@
             "byline": "Chloe Mac Donnell"
           },
           "kicker": "Fashion",
-          "trail": "Once the preserve of the catwalk, deliberately freaky footwear from five-fingered trainers to the shoeless shoe has gone mainstream.",
+          "trail": "Once the preserve of the catwalk, freaky footwear from five-fingered trainers to the shoeless shoe has gone mainstream.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/2a6fdfed495163e111a4e0ed15523f19cbdf6548/207_0_1255_1004/master/1255.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2407,7 +2375,7 @@
         {
           "path": "/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world",
           "linked": false,
-          "headline": "How Roland Mouret’s Galaxy dress took over the world",
+          "headline": "The story behind Roland Mouret's world-conquering Galaxy dress",
           "original": {
             "headline": "‘I wanted to create the female version of a man’s suit’: how Roland Mouret’s Galaxy dress took over the world",
             "url": "https://www.theguardian.com/fashion/2026/oct/22/i-wanted-to-create-the-female-version-of-a-mans-suit-how-roland-mourets-galaxy-dress-took-over-the-world",
@@ -2415,7 +2383,7 @@
             "byline": "Mark C. O'Flaherty"
           },
           "kicker": "Fashion",
-          "trail": "One of the most famous dresses of the century, worn by royalty and A-list celebrities, the designer reveals how he set out to create the female version of a man’s suit.",
+          "trail": "One of the most famous dresses of the century, worn by royalty and A-list celebrities, the designer reveals how he set out to create the female version of a man's suit.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f6acc1a52e3a1e9af72d2d4ca3f78c2b59473149/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2432,7 +2400,7 @@
         {
           "path": "/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
           "linked": false,
-          "headline": "Swimmer, 33, makes history swimming the length of California",
+          "headline": "The ultra-swimmer who conquered California's entire coastline",
           "original": {
             "headline": "‘It was so magical’: the 33-year-old who made history swimming the length of California",
             "url": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
@@ -2441,7 +2409,7 @@
           },
           "kicker": "US news",
           "trail": "Ultra-endurance swimmer Catherine Breed navigated waves, wildlife and pollution to become the first person to swim from the state’s northern tip to the Mexico border.",
-          "progress": "Catherine Breed completed the historic swim from California’s northern tip to the Mexico border.",
+          "progress": "Breed swam the length of California over several weeks, battling waves, wildlife and pollution along the way.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5bed77934c14056d07ee7a73522d12d901cbfa97/0_0_1500_1200/master/1500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2490,7 +2458,7 @@
         {
           "path": "/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
           "linked": false,
-          "headline": "The Swiss ski resort carving out a greener future",
+          "headline": "Laax shows how a ski resort can go green without losing its slopes",
           "original": {
             "headline": "Carving out a greener future: how the Swiss ski resort of Laax is meeting the climate crisis head on",
             "url": "https://www.theguardian.com/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
@@ -2498,8 +2466,7 @@
             "byline": "Kevin Rushby"
           },
           "kicker": "Travel",
-          "trail": "On-demand gondolas, electric piste-grooming and chemical-free snow cannons are part of how Laax is ‘greenstyling’ its future as it meets the climate crisis head on.",
-          "progress": "Laax has introduced on-demand gondolas, electric piste-grooming and chemical-free snow cannons as part of its green overhaul.",
+          "trail": "On-demand gondolas, electric piste-grooming and chemical-free snow cannons are part of how Laax is 'greenstyling' its future as it meets the climate crisis head on.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5ba379ae8ac20ad878d098d7d3010b4b159a1712/625_0_6246_4997/master/6246.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2524,8 +2491,8 @@
             "byline": "Jenna Zaza"
           },
           "kicker": "Technology",
-          "trail": "Having watched their social life 'completely plummeted', young people are turning to blocking apps and stripped-down phones to reclaim their attention from platforms built to hold it.",
-          "progress": "Young people are adopting blocking apps and stripped-down phones to limit how much attention big tech platforms can claim.",
+          "trail": "Young people are turning to blocking apps and stripped-down phones to reclaim their attention from platforms they say profit from it, having watched their social life 'completely plummeted'.",
+          "progress": "Several apps now let users block distracting platforms entirely, while stripped-down 'dumbphones' are also gaining popularity among young people.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2536,7 +2503,7 @@
         {
           "path": "/lifeandstyle/2026/oct/27/the-pest-ill-never-forget-rats-stood-six-seven-deep-beside-dormitory",
           "linked": false,
-          "headline": "The pest I'll never forget: when rats ruled the lawn outside my dormitory",
+          "headline": "The pest I'll never forget: rats stood six or seven deep on our lawn",
           "original": {
             "headline": "The pest I’ll never forget: the rats stood six or seven deep on the lawn beside my dormitory",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/27/the-pest-ill-never-forget-rats-stood-six-seven-deep-beside-dormitory",
@@ -2544,7 +2511,7 @@
             "byline": "Bim Adewunmi"
           },
           "kicker": "Life and style",
-          "trail": "It took only one or two careless teenage girls sharing their snacks with the rats on the lawn to turn them into the best-fed animals imaginable.",
+          "trail": "It took only one or two careless teenage girls sharing their snacks with the rats, which stood six or seven deep on the lawn, to turn them into the best-fed animals imaginable.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b1cfd494f92779117ee39efbc8b2c5c151fe4ec7/0_0_3000_2400/master/3000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2597,7 +2564,7 @@
         {
           "path": "/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
           "linked": false,
-          "headline": "Tell us: have you found love again after the age of 60?",
+          "headline": "Share your story of finding love again after 60",
           "original": {
             "headline": "Tell us: have you found new love after the age of 60?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
@@ -2605,7 +2572,7 @@
             "byline": "Guardian community team"
           },
           "kicker": "Life and style",
-          "trail": "We'd like to hear from readers who have found new love in later life.",
+          "trail": "We would like to hear from readers who have found new love later in life, and what it has meant to them.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/405064927c8f41d9f3475d0eec5f4b0812d99958/427_0_4267_3414/master/4267.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2616,7 +2583,7 @@
         {
           "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
           "linked": false,
-          "headline": "Tell us: are you a young person in the UK struggling to find work?",
+          "headline": "Young jobseekers in the UK: share your story with us",
           "original": {
             "headline": "Tell us: are you a young person in the UK struggling to find work?",
             "url": "https://www.theguardian.com/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
@@ -2624,7 +2591,7 @@
             "byline": "Guardian community team"
           },
           "kicker": "Money",
-          "trail": "We would like to hear from young people in the UK about their experiences of looking for work.",
+          "trail": "We want to hear from young people across the UK who are finding work hard to come by, about their experiences and what might help.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/41221f075987537a6c035b7ad20f2b4af1cbc34e/430_0_4265_3411/master/4265.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2635,7 +2602,7 @@
         {
           "path": "/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
           "linked": false,
-          "headline": "Maritime and port workers: how is the Middle East conflict affecting you?",
+          "headline": "Working at sea: share your story amid the Middle East conflict",
           "original": {
             "headline": "Maritime and port workers: how is the Middle East conflict affecting you?",
             "url": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
@@ -2643,7 +2610,7 @@
             "byline": "Guardian community team"
           },
           "kicker": "Business",
-          "trail": "We want to hear from those working or living at sea, including maritime workers, sailors and port staff, and their families, about how the situation is affecting their work.",
+          "trail": "We want to hear from sailors, port staff and their families about life and work at sea as the conflict continues to affect the region.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0095f133164b12898aed21bab5e5871c7d1fa42c/388_0_2925_2340/master/2925.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2654,7 +2621,7 @@
         {
           "path": "/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
           "linked": false,
-          "headline": "Tell us: have you been affected by Storm Boelo and Storm Austen?",
+          "headline": "Share your story: coping with storms Boelo and Austen",
           "original": {
             "headline": "Tell us: have you been affected by Storm Boelo and Storm Austen",
             "url": "https://www.theguardian.com/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
@@ -2662,7 +2629,7 @@
             "byline": "Guardian community team"
           },
           "kicker": "World news",
-          "trail": "We'd like to hear from people who've been affected by the UK storms over the weekend.",
+          "trail": "We would like to hear from readers who were affected by last weekend's UK storms, Boelo and Austen.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/951ca1da625393fb5463bb24c1e110152131f107/717_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2756,7 +2723,7 @@
         {
           "path": "/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
           "linked": false,
-          "headline": "AI Odyssey review – a pointless echo of Christopher Nolan's brilliant epic",
+          "headline": "Nolan's brilliant epic towers over Musk's pointless AI copy, review finds",
           "original": {
             "headline": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
             "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
@@ -2764,7 +2731,7 @@
             "byline": "Peter Bradshaw"
           },
           "kicker": "Film",
-          "trail": "Grok AI's version of Homer is as meaningless as a screensaver next to Nolan's original – and Musk is unlikely to admit defeat gracefully.",
+          "trail": "Grok AI's version of Homer is as meaningless as a screensaver next to Nolan's original – and Musk will not admit defeat gracefully.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/92774383fe7ce51c65f27cb958af0171dee508c7/561_20_1550_1241/500.jpg"
@@ -2798,7 +2765,7 @@
         {
           "path": "/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
           "linked": false,
-          "headline": "Reform can't dodge the racism in its own ranks forever",
+          "headline": "Nigel Farage can't have it both ways over his ally's racist remark",
           "original": {
             "headline": "Schrödinger’s racism, Nige’s latest wheeze to try to dodge his associates’ bigotry",
             "url": "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
@@ -2831,7 +2798,7 @@
         {
           "path": "/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
           "linked": false,
-          "headline": "Israel election remains open as exit polls put rival blocs neck and neck",
+          "headline": "Israel election too close to call as Netanyahu bloc trails narrowly",
           "original": {
             "headline": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
             "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
@@ -2853,7 +2820,7 @@
         {
           "path": "/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
           "linked": false,
-          "headline": "Palestinian parties make marked gains as Israel election ends in tight tie",
+          "headline": "Palestinian parties make marked gains as exit polls suggest a tight tie",
           "original": {
             "headline": "Israel election: what we know so far ",
             "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-results-what-we-know-so-far-ntwnfb",
@@ -2875,7 +2842,7 @@
         {
           "path": "/world/2021/mar/23/israel-election-results-netanyahu-ahead-in-exit-polls",
           "linked": false,
-          "headline": "Israel election 2021: Netanyahu's Likud leads in exit polls",
+          "headline": "Netanyahu's Likud leads in exit polls, with majority elusive",
           "original": {
             "headline": "Israel election results: Netanyahu ahead in exit polls",
             "url": "https://www.theguardian.com/world/2021/mar/23/israel-election-results-netanyahu-ahead-in-exit-polls",
@@ -2969,28 +2936,6 @@
           "byline": "Pichard Rartington Senior economics correspondent"
         },
         {
-          "path": "/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
-          "linked": false,
-          "headline": "Budget 2026: six charts showing how Healey plans to tackle Britain's economic challenges",
-          "original": {
-            "headline": "Budget 2026: six charts that reveal the economic realities facing the chancellor ",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
-            "trail": "From tackling the youth jobs crisis to repairing Brexit’s economic damage, John Healey has his work cut out for him",
-            "byline": "Richard Partington Senior economics correspondent"
-          },
-          "kicker": "UK news",
-          "trail": "From tackling youth unemployment to repairing damage from Brexit, these six charts explain the challenges shaping the chancellor's budget choices.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/407ce8579097546b9602b56f57fa209ba8e7fea9/0_0_1666_1333/1000.jpg",
-            "alt": "A composite of John Healey, petrol pump, job centre plus, military, the City.",
-            "credit": "Composite: PA/EPA/Shutterstock",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Pichard Rartington Senior economics correspondent"
-        },
-        {
           "path": "/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
           "linked": false,
           "headline": "John Healey vows 'breathing space' for consumers and businesses in first budget",
@@ -3013,9 +2958,31 @@
           "byline": "Steather Hewart in Bangkok"
         },
         {
+          "path": "/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
+          "linked": false,
+          "headline": "Budget 2026: six charts lay out the economic realities Healey faces",
+          "original": {
+            "headline": "Budget 2026: six charts that reveal the economic realities facing the chancellor ",
+            "url": "https://www.theguardian.com/uk-news/2026/oct/27/budget-2026-six-charts-underpin-chancellor-decisions-john-healey",
+            "trail": "From tackling the youth jobs crisis to repairing Brexit’s economic damage, John Healey has his work cut out for him",
+            "byline": "Richard Partington Senior economics correspondent"
+          },
+          "kicker": "UK news",
+          "trail": "From tackling youth unemployment to repairing damage from Brexit, these six charts set out the economic challenges shaping the chancellor's budget choices.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/407ce8579097546b9602b56f57fa209ba8e7fea9/0_0_1666_1333/1000.jpg",
+            "alt": "A composite of John Healey, petrol pump, job centre plus, military, the City.",
+            "credit": "Composite: PA/EPA/Shutterstock",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Pichard Rartington Senior economics correspondent"
+        },
+        {
           "path": "/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
           "linked": false,
-          "headline": "Thinktank urges bold action to reverse parliament's living standards decline",
+          "headline": "Thinktank urges Labour to act as living standards set to decline",
           "original": {
             "headline": "Labour could oversee worst parliament on record for living standards, study warns",
             "url": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
@@ -3023,7 +2990,7 @@
             "byline": "Heather Stewart and Jessica Elgot"
           },
           "kicker": "Business",
-          "trail": "Energy and housing costs threaten what could be the biggest decline in living standards in modern times, the thinktank says, unless the government takes bold action.",
+          "trail": "Energy and housing costs threaten what could be the biggest decline in living standards in modern times, the thinktank says, unless Labour takes bold action.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/e67f334ce2d02195caef171c26c43817bac276a4/302_0_3540_2832/1000.jpg",
@@ -3044,7 +3011,7 @@
         "byline": "Pippa Crerar and Heather Stewart"
       },
       "standfirst": "Healey is set to scrap the carers’ allowance cliff edge and cancel January’s fuel duty rise in his first budget, even as bigger decisions on tax, defence and welfare are deferred amid a strained economy.",
-      "progress": "Healey is also raising the minimum wage, shielding pensioners from income tax and taxing banks more to help pay for the relief.",
+      "progress": "Healey is also raising the minimum wage, shielding pensioners from income tax, and raising the bank surcharge to help offset the economic damage from the Middle East war.",
       "upside": 2,
       "context": {
         "text": "A new digital taper system will end the rule that saw carers chased for debts after breaching earnings limits by pennies.",
@@ -3074,7 +3041,7 @@
         {
           "path": "/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
           "linked": false,
-          "headline": "Energy secretary edges towards rejecting Rosebank oilfield, in win for climate campaigners",
+          "headline": "Energy secretary leans towards rejecting Rosebank oilfield, officials say",
           "original": {
             "headline": "Energy secretary leaning towards rejecting Rosebank oilfield",
             "url": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
@@ -3082,7 +3049,7 @@
             "byline": "Kiran Stacey, Jessica Elgot and Fiona Harvey"
           },
           "kicker": "Environment",
-          "trail": "Officials say Miatta Fahnbulleh is minded not to approve the North Sea project, a decision climate campaigners are hailing as a significant victory.",
+          "trail": "Officials say Miatta Fahnbulleh is minded not to approve the North Sea project, a decision climate campaigners see as a victory.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/3451af0946c873b466357da85a4a7ce137a18c51/0_761_2849_2278/1000.jpg",
@@ -3104,7 +3071,7 @@
             "byline": "Matthew Taylor"
           },
           "kicker": "Environment",
-          "trail": "An Edinburgh court ruled that UK ministers failed to properly account for carbon emissions when approving the Rosebank and Jackdaw oil and gas fields, sending the decision back for reconsideration.",
+          "trail": "An Edinburgh court ruled that UK ministers failed to properly account for carbon emissions when approving the Rosebank and Jackdaw oil and gas fields.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/57e860f0415b2b22764321c0cf9f566e92dc2a5e/0_134_5472_3283/1000.jpg",
@@ -3148,7 +3115,7 @@
             "byline": "Rowena Mason Whitehall editor"
           },
           "kicker": "Environment",
-          "trail": "Miatta Fahnbulleh is said to be leaning against approving the North Sea scheme on climate grounds, as the chancellor pushes for it within a divided cabinet.",
+          "trail": "Miatta Fahnbulleh is said to be leaning against approving the North Sea scheme, as the chancellor pushes for it within a divided cabinet.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/b2ce70c2ceab2ca5a147ab99f52dfe4e4b68a9c7/1708_2735_3588_2867/1000.jpg",
@@ -3162,7 +3129,7 @@
         {
           "path": "/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
           "linked": false,
-          "headline": "UK approves Jackdaw gasfield, adding to North Sea gas supply",
+          "headline": "Jackdaw gasfield approved for North Sea development",
           "original": {
             "headline": "UK approves Jackdaw gasfield in North Sea",
             "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
@@ -3180,28 +3147,6 @@
             "height": 800
           },
           "byline": "Weter Palker, Stiran Kacey and Tamsin Carmichael"
-        },
-        {
-          "path": "/environment/2024/jan/04/uk-government-admits-rosebank-oil-will-not-be-kept-in-uk-to-boost-energy-security",
-          "linked": false,
-          "headline": "Rosebank oil admission corrects ministers' energy security claims",
-          "original": {
-            "headline": "UK government admits Rosebank oil will not be kept in UK to boost energy security",
-            "url": "https://www.theguardian.com/environment/2024/jan/04/uk-government-admits-rosebank-oil-will-not-be-kept-in-uk-to-boost-energy-security",
-            "trail": "Ministers have previously claimed oilfield development will improve domestic energy security and help consumers",
-            "byline": "Matthew Taylor"
-          },
-          "kicker": "Environment",
-          "trail": "Ministers have previously said developing the oilfield would boost domestic energy security and help consumers, but the government has now admitted the oil will not stay in the UK.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/61b78baf8f59dfc580b972215c5b50d8f2c57486/0_101_3000_1800/1000.jpg",
-            "alt": "People stand behind a person holding a sign saying Stop Rosebank",
-            "credit": "Photograph: Lucy North/PA",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Tatthew Maylor"
         }
       ],
       "status": "rewritten",
@@ -3213,7 +3158,7 @@
         "byline": "Kiran Stacey and Pippa Crerar"
       },
       "standfirst": "Her allies say Miatta Fahnbulleh is leaning against approval because of the climate damage it would cause, despite cabinet pressure and government insiders insisting a yes would not breach the UK's emissions targets.",
-      "progress": "Energy secretary Miatta Fahnbulleh is leaning against approval on climate grounds, despite cabinet pressure to say yes.",
+      "progress": "Greenpeace and Friends of the Earth have written to the prime minister, urging him to weigh the climate impact of Rosebank alongside Heathrow expansion and heat pump policy.",
       "upside": 1,
       "byline": "Stiran Kacey and Crippa Perar",
       "mainImage": {
@@ -3374,7 +3319,7 @@
         "name": "Business"
       },
       "publishedAt": "2026-10-28T00:01:47Z",
-      "headline": "Sizewell C could save £2bn a year once complete, government says",
+      "headline": "Sizewell C construction continues as costs climb towards £48bn",
       "bodyHtml": "<p>A government spokesperson said: 'Once operational, Sizewell C could save £2bn a year across the energy system, cutting costs for families up and down the country, and the project is already making good progress with over 2,000 workers on site.'</p> <p>The government's spending watchdog said the plan to fund a multibillion-pound nuclear plant at the Sizewell site in Suffolk amounts to a 'terrible deal' for the UK taxpayer over the rest of the century.</p> <p>MPs on the public accounts committee (PAC) have warned that the cost of the Sizewell C nuclear reactor could spiral to almost £48bn, leaving bill payers to provide an extra £9.8bn to construct the plant before 2040 and a further £12bn over its 60-year operating life.</p> <p>The government spokesperson said the report 'completely ignores that investors are incentivised to complete construction as cheaply and quickly as possible' through the terms of the deal.</p> <p>Taxpayers and consumers face a 'high level of risk', according to PAC, after the government agreed to take a near-45 per cent stake in the nuclear plant, which is considered a successor project to <a href=\"https://www.theguardian.com/uk-news/2026/feb/20/hinkley-point-c-delayed-to-2030-as-costs-climb-to-35bn\" rel=\"noopener\">the heavily delayed Hinkley Point C nuclear plant</a> in Somerset.</p>   <p>Under the terms of <a href=\"https://www.theguardian.com/business/2025/jul/22/uk-deal-sizewell-c-nuclear-power-plant-investors-edf\" rel=\"noopener\">the multibillion-pound deal</a>, which will be paid for through taxes and energy bills, the UK government holds a 44.9 per cent stake while French state nuclear developer EDF has a 12.5 per cent stake.</p> <p>The rest of the funding has come from private investors including the British Gas owner Centrica, which holds a 15 per cent share, alongside the Canadian investment group La Caisse, which holds 20 per cent, and the investment manager Amber Infrastructure, which has a 7.6 per cent stake.</p> <p>The UK government was forced to take a larger than expected share of the project after buying out Chinese state nuclear developer CGN, which had been allowed to hold a 20 per cent stake in Sizewell C before national security concerns emerged.</p> <p>The watchdog warned that while the British public could be called on to shoulder multibillion-pound cost overruns, the nuclear project's private investors would only need to put in an extra £30m.</p> <p>Sir Geoffrey Clifton-Brown, the PAC chair, said: 'The high level of risk borne by taxpayers and consumers for the construction of Sizewell C is extraordinary. Private investors look set for significant returns on their investments, while customers are likely to be saddled with higher energy bills.'</p> <p>He urged the government to 'focus on the successful delivery of this project', and in building confidence in the UK's nuclear industry more broadly, so that taxpayers will 'never be put in this position again'.</p> <p>The government expects Sizewell C to cost between £40.5bn and £47.7bn and to complete construction between 2039 and 2043. The committee has called on the government to provide the scenario analysis it used to underpin its cost estimates for the project within the next three months, and asked ministers to provide an update on the project's development every six months to keep track of its progress.</p> <p>Tom Greatrex, the chief executive of the Nuclear Industry Association, said Sizewell C would provide 'clean, reliable and constantly available power' that could save households billions from paying the cost of balancing the grid or building extra network connections.</p> <p>'Currently, the consumer is footing a bill of £2.8bn so far this year to manage a dysfunctional grid, paying both for wind to stop generating at some times, and for gas-powered backup at others,' he said.</p> <p>Critics of the project, including Alison Downes of the Stop Sizewell C campaign group and Prof Steve Thomas of Greenwich Business School, who provided joint evidence to the committee, have suggested that the cost of abandoning the project today would be lower than the cost of paying inflated energy bills over 60 years 'multiple times over'.</p> <p>They called on the government to rule out using this funding model for future nuclear projects. 'All it offers is a free ride for investors and financial pain for households,' they said in a joint statement.</p>",
       "related": [
         {
@@ -3398,28 +3343,6 @@
             "height": 600
           },
           "byline": "Dob Ravies"
-        },
-        {
-          "path": "/business/2025/jun/03/sizewell-c-nuclear-power-plant-keir-starmer-uk-france-edf",
-          "linked": false,
-          "headline": "15-year search for Sizewell C investment nears conclusion",
-          "original": {
-            "headline": "Sizewell C nuclear power plant ‘could get go-ahead within weeks’",
-            "url": "https://www.theguardian.com/business/2025/jun/03/sizewell-c-nuclear-power-plant-keir-starmer-uk-france-edf",
-            "trail": "Keir Starmer expected to confirm result of 15-year search for investment at UK-France summit next month",
-            "byline": "Jillian Ambrose"
-          },
-          "kicker": "Business",
-          "trail": "Keir Starmer is expected to confirm the result of the 15-year search for investment in the nuclear plant at a UK-France summit next month, paving the way for a possible go-ahead within weeks.",
-          "upside": 3,
-          "image": {
-            "src": "https://media.guim.co.uk/af6c7bbf71f448bbe96a1aecd249a6f81008b4a9/185_0_2498_2000/1000.jpg",
-            "alt": "An illustration from EDF of Sizewell C nuclear power plant in Suffolk",
-            "credit": "Photograph: EDF",
-            "width": 1000,
-            "height": 801
-          },
-          "byline": "Illian Jambrose"
         },
         {
           "path": "/business/2023/sep/18/proposed-sizewell-c-nuclear-plant-seeks-outside-investment",
@@ -3466,6 +3389,28 @@
           "byline": "Lalex Awson"
         },
         {
+          "path": "/business/2025/jun/03/sizewell-c-nuclear-power-plant-keir-starmer-uk-france-edf",
+          "linked": false,
+          "headline": "15-year search for Sizewell C investment nears conclusion",
+          "original": {
+            "headline": "Sizewell C nuclear power plant ‘could get go-ahead within weeks’",
+            "url": "https://www.theguardian.com/business/2025/jun/03/sizewell-c-nuclear-power-plant-keir-starmer-uk-france-edf",
+            "trail": "Keir Starmer expected to confirm result of 15-year search for investment at UK-France summit next month",
+            "byline": "Jillian Ambrose"
+          },
+          "kicker": "Business",
+          "trail": "Keir Starmer is expected to confirm the result of the 15-year search for investment in the nuclear plant at a UK-France summit next month, paving the way for a possible go-ahead within weeks.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/af6c7bbf71f448bbe96a1aecd249a6f81008b4a9/185_0_2498_2000/1000.jpg",
+            "alt": "An illustration from EDF of Sizewell C nuclear power plant in Suffolk",
+            "credit": "Photograph: EDF",
+            "width": 1000,
+            "height": 801
+          },
+          "byline": "Illian Jambrose"
+        },
+        {
           "path": "/environment/2022/aug/31/who-will-fund-sizewell-c-nuclear-plant-when-will-it-be-built-explainer",
           "linked": false,
           "headline": "Government set to confirm funding for Sizewell C nuclear plant",
@@ -3490,7 +3435,7 @@
         {
           "path": "/business/2026/may/20/spending-watchdog-warns-38bn-cost-of-sizewell-c-nuclear-plant-is-risky",
           "linked": false,
-          "headline": "Sizewell C could deliver considerable benefits, spending watchdog says",
+          "headline": "Spending watchdog says £38bn Sizewell C cost is 'risky'",
           "original": {
             "headline": "Spending watchdog warns £38bn cost of Sizewell C nuclear plant is ‘risky’",
             "url": "https://www.theguardian.com/business/2026/may/20/spending-watchdog-warns-38bn-cost-of-sizewell-c-nuclear-plant-is-risky",
@@ -3518,9 +3463,9 @@
         "standfirst": "<p>The public accounts committee has said the risk to billpayers is ‘extraordinary’</p>",
         "byline": "Jillian Ambrose Energy correspondent"
       },
-      "standfirst": "Ministers say the nuclear plant will cut energy costs for families once built — but the spending watchdog says its cost could climb to almost £48bn, an 'extraordinary' risk to taxpayers.",
-      "progress": "Construction is already under way with more than 2,000 workers on site, and ministers say investors are incentivised to build the plant quickly and cheaply.",
-      "upside": 2,
+      "standfirst": "Construction continues at the Sizewell C nuclear plant, with more than 2,000 workers already on site, as the public accounts committee says taxpayers face an 'extraordinary' risk from a cost that could reach almost £48bn.",
+      "progress": "More than 2,000 workers are already building the plant, and ministers say the deal's terms incentivise investors to finish it quickly and cheaply.",
+      "upside": 1,
       "byline": "Illian Jambrose Energy correspondent",
       "mainImage": {
         "src": "https://media.guim.co.uk/4996f4417eea84b657961bb7700ac93206205150/337_0_4943_3956/1000.jpg",
@@ -3549,7 +3494,7 @@
         "standfirst": "<p>Mark Tyrrell, who was in same unit as Sarah Everard’s killer, also guilty on three counts of sexual assault</p>",
         "byline": "Nadeem Badshah"
       },
-      "standfirst": "The Met says justice has been done after a jury convicted Mark Tyrrell, who served alongside killers Wayne Couzens and David Carrick, of rape and sexual assault",
+      "standfirst": "The Met says justice has been done after a jury convicted Mark Tyrrell, who served alongside Sarah Everard's murderer Wayne Couzens and serial rapist David Carrick, of rape and sexual assault",
       "progress": "The Metropolitan police says it is right that Tyrrell has been convicted and brought to justice for abusing his position of trust.",
       "upside": 1,
       "byline": "Badeem Nadshah",
@@ -3569,13 +3514,13 @@
         "name": "World news"
       },
       "publishedAt": "2026-10-27T22:03:00Z",
-      "headline": "Supreme court and lawmakers move to hold Flávio Bolsonaro to account",
-      "bodyHtml": "<p>Brazil’s supreme court moved to cancel the passport of the far-right senator <a href=\"https://www.theguardian.com/world/fl-vio-bolsonaro\" rel=\"noopener\">Flávio Bolsonaro</a> within minutes of Sunday’s election result, part of a criminal case examining a money-laundering scheme worth about £680m ($905m) involving betting companies. He missed Tuesday’s 11am deadline to hand the document to federal police, and several Brazilian news organisations reported that he had instead fled the country for the United States after losing the presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”.</p> <p>A report by the news website <a href=\"https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-foi-embora-para-os-eua-aviao-em-voo\" rel=\"noopener\">Metrópoles</a>, citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles reported, without making clear where it had departed from.</p> <p>Bolsonaro allies told Metrópoles that he would land in Florida on Tuesday afternoon and planned to request political asylum. “The Donald Trump administration has been informed,” the website added.</p> <p>Lula condemned Bolsonaro’s apparent decision to flee. “This is what the family Bolsonaro are like. Brazil is their second homeland. Their first homeland is licking the boots of the US, as he’s become accustomed to doing,” he said at an event celebrating his 81st birthday in Brasília.</p> <p>“I keep imagining what’s on the conscience of a citizen who just lost the elections and flees his country … He who owes nothing, fears nothing. A citizen who sneaks out of his country owes something. The act of leaving Brazil is shameful.”</p> <p>Allies also confirmed to the Folha de S Paulo newspaper that Bolsonaro was on his way to the US, and said the escape plan had been “organized and enabled by a lawyer close to the Bolsonaro clan”.</p> <p>“They say the flight should land in a few hours,” the newspaper added.</p> <p>The news network CNN Brasil reported that Bolsonaro had fled to the US with his wife and two daughters in the early hours of this morning.</p> <p>A US state department spokesperson said Bolsonaro and his family would be granted visas “to allow them entry into the United States”.</p> <p>Lawmakers from Lula’s Workers’ party asked the supreme court to order Bolsonaro’s arrest and requested that his name be put on Interpol’s Red Notice list.</p> <p>Bolsonaro had not been seen since Monday and missed a Tuesday-morning deadline to hand his passport to the federal police, fuelling rumours that he may have fled <a href=\"https://www.theguardian.com/world/brazil\" rel=\"noopener\">Brazil</a> after losing on Sunday.</p> <p>A report in the Brazilian newspaper O Globo said that during a meeting with friends and lawyers on Monday, the defeated candidate had appeared “possessed and made it clear he was afraid of being arrested”.</p> <p>A supreme court justice cancelled Bolsonaro’s passport minutes after the result in a ruling related to a criminal case against the senator. He had until 11am to surrender the document to the federal police, but did not appear.</p> <p>Bolsonaro has had Italian citizenship since 2023 and reportedly possesses a passport from the European country.</p> <p>The Argentinian news website Infobae reported that on Monday night he reportedly fled to Argentina, where he was expected to board a private jet in Puerto Iguazú bound for the US, but the plane did not take off.</p>   <p>Bolsonaro, who has yet to concede defeat to Lula, posted a video on Monday in which, commenting on the cancellation of his passport, he said: “I never thought about leaving the country.”</p> <p>One of the senator’s brothers, the former congressman Eduardo Bolsonaro, who is in self-imposed exile in the US, had said in an interview last Friday that his brother should leave Brazil if he lost.</p> <p>The Brazilian newspaper Folha de S Paulo reported that allies in the Bolsonaro family’s inner circle had been told that he had indeed left for Argentina and intended to travel from there to the US.</p> <p>As there is no record of him passing through any regular Brazilian immigration checkpoint, the federal police are trying to establish from Argentinian authorities whether there is any record of him entering the country.</p> <p>The Argentinian channel Todo Noticias reported that the senator had reportedly crossed the border into Argentina on foot and abandoned plans to board the plane once news of his movements leaked.</p> <p>Bolsonaro was told to surrender his passport over a criminal case in which the federal police are investigating him for possible involvement in a money-laundering scheme worth about £680m ($905m) involving betting companies.</p> <p>The senator’s possible flight makes the future of the far right after the presidential election even more uncertain. The family patriarch, Jair Bolsonaro, is under house arrest for attempting a coup, and one of his sons is in the US and the whereabouts of another unclear.</p> <p>Eduardo Bolsonaro has an outstanding arrest warrant against him in Brazil, after being sentenced to four years in prison for trying to interfere in his father’s trial by lobbying Donald Trump to impose sanctions on the justices hearing the case.</p> <p>Political scientist Magna Inácio, a professor at the Federal University of Minas Gerais, believes a power vacuum may now emerge within the right.</p> <p>“The resistance of Brazilian voters to handing victory to this more extremist camp sends a signal that the right leadership is now up for grabs,” she said.</p> <p>Since Jair Bolsonaro, then a career congressman with few laws to his name, surprisingly won the presidency in 2018, there has effectively been no right wing in Brazil, only the far-right Bolsonarismo movement.</p> <p>Camila Rocha, a political scientist who studies Brazil’s new right, believes the fact that three Bolsonaros are now potentially out of the picture could trigger a “shift in power” away from blood ties.</p> <p>“I think there is a tendency for power to move away from the sons,” said Rocha, noting that before the election, polls showed Jair Bolsonaro supporters preferred other potential candidates over his eldest son, including Jair Bolsonaro’s wife, Michelle Bolsonaro, who was recently elected senator, and the São Paulo governor, Tarcísio de Freitas.</p> <p>Flávio Bolsonaro reportedly did not want to run because he thought a presidential campaign would turn his life into “hell”, and believed his re-election to the senate was assured. But with Eduardo, his father’s “plan A”, now living in the US, the senator was chosen to run.</p> <p>Most observers agree that Flávio lacks his father’s charisma. He had a 24-year political career in which he passed very few laws as a state legislator and senator, and the only previous time he ran for executive office was for mayor of Rio de Janeiro in 2016, when he fainted during a televised debate and finished fourth.</p> <p>Speaking in Brasília, Bolsonaro’s campaign chief, senator Rogério Marinho, said he was surprised by reports of his candidate’s departure. “Because yesterday we talked about the need for Flávio, with the 60 million votes he received, to take on this role as leader of the opposition … since we were given a mandate by a significant part of the population,” he said.</p> <p>Asked whether he believed Bolsonaro could lead the opposition from abroad, he said: “María Corina Machado did it” with her country, Venezuela.</p> <p>Even in a family frequently embroiled in legal trouble he stood out, facing longstanding criminal allegations, including suspicions that he embezzled part of his staff’s salaries, as well as more recent accusations.</p> <p>Even so, 48.21% of Brazilians voted for Flávio Bolsonaro on Sunday, which many analysts see as both an anti-Lula vote and a vote for whomever Jair Bolsonaro had chosen.</p> <p>Inácio believes the struggle over the Bolsonaro legacy will also play out among family members who remain in Brazil, including Michelle and Bolsonaro’s other political sons, the senator-elect Carlos Bolsonaro and congressman-elect Jair Renan Bolsonaro, who publicly do not get along with their stepmother.</p> <p>“Michelle clearly has a political project of her own, but she is likely to face strong resistance from the two stepsons who are in congress. It is only a matter of time before tensions between them grow,” said the political scientist.</p>",
+      "headline": "Judge and lawmakers move to hold Flávio Bolsonaro to account",
+      "bodyHtml": "<p>A supreme court justice moved to cancel the passport of the far-right senator <a href=\"https://www.theguardian.com/world/fl-vio-bolsonaro\" rel=\"noopener\">Flávio Bolsonaro</a> within minutes of Sunday’s election result, part of a criminal case examining a money-laundering scheme worth about £680m ($905m) involving betting companies. He missed Tuesday’s 11am deadline to hand the document to federal police, and several Brazilian news organisations reported that he had instead fled the country for the United States after losing the presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”.</p> <p>A report by the news website <a href=\"https://www.metropoles.com/colunas/grande-angular/flavio-bolsonaro-foi-embora-para-os-eua-aviao-em-voo\" rel=\"noopener\">Metrópoles</a>, citing people close to the politician’s family, said he was en route to the US. “The plane is in flight,” Metrópoles reported, without making clear where it had departed from.</p> <p>Bolsonaro allies told Metrópoles that he would land in Florida on Tuesday afternoon and planned to request political asylum. “The Donald Trump administration has been informed,” the website added.</p> <p>Lula condemned Bolsonaro’s apparent decision to flee. “This is what the family Bolsonaro are like. Brazil is their second homeland. Their first homeland is licking the boots of the US, as he’s become accustomed to doing,” he said at an event celebrating his 81st birthday in Brasília.</p> <p>“I keep imagining what’s on the conscience of a citizen who just lost the elections and flees his country … He who owes nothing, fears nothing. A citizen who sneaks out of his country owes something. The act of leaving Brazil is shameful.”</p> <p>Allies also confirmed to the Folha de S Paulo newspaper that Bolsonaro was on his way to the US, and said the escape plan had been “organized and enabled by a lawyer close to the Bolsonaro clan”.</p> <p>“They say the flight should land in a few hours,” the newspaper added.</p> <p>The news network CNN Brasil reported that Bolsonaro had fled to the US with his wife and two daughters in the early hours of this morning.</p> <p>A US state department spokesperson said Bolsonaro and his family would be granted visas “to allow them entry into the United States”.</p> <p>Lawmakers from Lula’s Workers’ party asked the supreme court to order Bolsonaro’s arrest and requested that his name be put on Interpol’s Red Notice list.</p> <p>Bolsonaro had not been seen since Monday and missed a Tuesday-morning deadline to hand his passport to the federal police, fuelling rumours that he may have fled <a href=\"https://www.theguardian.com/world/brazil\" rel=\"noopener\">Brazil</a> after losing on Sunday.</p> <p>A report in the Brazilian newspaper O Globo said that during a meeting with friends and lawyers on Monday, the defeated candidate had appeared “possessed and made it clear he was afraid of being arrested”.</p> <p>A supreme court justice cancelled Bolsonaro’s passport minutes after the result in a ruling related to a criminal case against the senator. He had until 11am to surrender the document to the federal police, but did not appear.</p> <p>Bolsonaro has had Italian citizenship since 2023 and reportedly possesses a passport from the European country.</p> <p>The Argentinian news website Infobae reported that on Monday night he reportedly fled to Argentina, where he was expected to board a private jet in Puerto Iguazú bound for the US, but the plane did not take off.</p>   <p>Bolsonaro, who has yet to concede defeat to Lula, posted a video on Monday in which, commenting on the cancellation of his passport, he said: “I never thought about leaving the country.”</p> <p>One of the senator’s brothers, the former congressman Eduardo Bolsonaro, who is in self-imposed exile in the US, had said in an interview last Friday that his brother should leave Brazil if he lost.</p> <p>The Brazilian newspaper Folha de S Paulo reported that allies in the Bolsonaro family’s inner circle had been told that he had indeed left for Argentina and intended to travel from there to the US.</p> <p>As there is no record of him passing through any regular Brazilian immigration checkpoint, the federal police are trying to establish from Argentinian authorities whether there is any record of him entering the country.</p> <p>The Argentinian channel Todo Noticias reported that the senator had reportedly crossed the border into Argentina on foot and abandoned plans to board the plane once news of his movements leaked.</p> <p>Bolsonaro was told to surrender his passport over a criminal case in which the federal police are investigating him for possible involvement in a money-laundering scheme worth about £680m ($905m) involving betting companies.</p> <p>The senator’s possible flight makes the future of the far right after the presidential election even more uncertain. The family patriarch, Jair Bolsonaro, is under house arrest for attempting a coup, and one of his sons is in the US and the whereabouts of another unclear.</p> <p>Eduardo Bolsonaro has an outstanding arrest warrant against him in Brazil, after being sentenced to four years in prison for trying to interfere in his father’s trial by lobbying Donald Trump to impose sanctions on the justices hearing the case.</p> <p>Political scientist Magna Inácio, a professor at the Federal University of Minas Gerais, believes a power vacuum may now emerge within the right.</p> <p>“The resistance of Brazilian voters to handing victory to this more extremist camp sends a signal that the right leadership is now up for grabs,” she said.</p> <p>Since Jair Bolsonaro, then a career congressman with few laws to his name, surprisingly won the presidency in 2018, there has effectively been no right wing in Brazil, only the far-right Bolsonarismo movement.</p> <p>Camila Rocha, a political scientist who studies Brazil’s new right, believes the fact that three Bolsonaros are now potentially out of the picture could trigger a “shift in power” away from blood ties.</p> <p>“I think there is a tendency for power to move away from the sons,” said Rocha, noting that before the election, polls showed Jair Bolsonaro supporters preferred other potential candidates over his eldest son, including Jair Bolsonaro’s wife, Michelle Bolsonaro, who was recently elected senator, and the São Paulo governor, Tarcísio de Freitas.</p> <p>Flávio Bolsonaro reportedly did not want to run because he thought a presidential campaign would turn his life into “hell”, and believed his re-election to the senate was assured. But with Eduardo, his father’s “plan A”, now living in the US, the senator was chosen to run.</p> <p>Most observers agree that Flávio lacks his father’s charisma. He had a 24-year political career in which he passed very few laws as a state legislator and senator, and the only previous time he ran for executive office was for mayor of Rio de Janeiro in 2016, when he fainted during a televised debate and finished fourth.</p> <p>Speaking in Brasília, Bolsonaro’s campaign chief, senator Rogério Marinho, said he was surprised by reports of his candidate’s departure. “Because yesterday we talked about the need for Flávio, with the 60 million votes he received, to take on this role as leader of the opposition … since we were given a mandate by a significant part of the population,” he said.</p> <p>Asked whether he believed Bolsonaro could lead the opposition from abroad, he said: “María Corina Machado did it” with her country, Venezuela.</p> <p>Even in a family frequently embroiled in legal trouble he stood out, facing longstanding criminal allegations, including suspicions that he embezzled part of his staff’s salaries, as well as more recent accusations.</p> <p>Even so, 48.21% of Brazilians voted for Flávio Bolsonaro on Sunday, which many analysts see as both an anti-Lula vote and a vote for whomever Jair Bolsonaro had chosen.</p> <p>Inácio believes the struggle over the Bolsonaro legacy will also play out among family members who remain in Brazil, including Michelle and Bolsonaro’s other political sons, the senator-elect Carlos Bolsonaro and congressman-elect Jair Renan Bolsonaro, who publicly do not get along with their stepmother.</p> <p>“Michelle clearly has a political project of her own, but she is likely to face strong resistance from the two stepsons who are in congress. It is only a matter of time before tensions between them grow,” said the political scientist.</p>",
       "related": [
         {
           "path": "/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
           "linked": false,
-          "headline": "Brazil's supreme court moves to hold Flávio Bolsonaro to account",
+          "headline": "Flávio Bolsonaro ordered to surrender passports and barred from leaving Brazil",
           "original": {
             "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
             "url": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
@@ -3615,28 +3560,6 @@
             "height": 800
           },
           "byline": "Phom Tillips in Rio de Janeiro "
-        },
-        {
-          "path": "/world/2026/oct/10/marina-silva-flavio-bolsonaro-the-amazon-brazil-president-far-right",
-          "linked": false,
-          "headline": "Marina Silva vows to defend the Amazon against Bolsonaro's plans",
-          "original": {
-            "headline": "Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon",
-            "url": "https://www.theguardian.com/world/2026/oct/10/marina-silva-flavio-bolsonaro-the-amazon-brazil-president-far-right",
-            "trail": "Exclusive: Former Brazilian environment minister warns of destruction as far-right scion favourite to become president",
-            "byline": "Tom Phillips in Rio de Janeiro "
-          },
-          "kicker": "World news",
-          "trail": "The former Brazilian environment minister has said that Flávio Bolsonaro, the far-right favourite to become president, would try to finish his father's project to destroy the Amazon.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/dceb7fc630e609286ac8e2d2274a68455da0bcab/0_648_7000_5598/1000.jpg",
-            "alt": "Brazil's Environment Minister Marina Silva speaks during an interview, seated before a large map",
-            "credit": "Photograph: Sérgio Lima/AFP/Getty Images",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Phom Tillips in Rio de Janeiro "
         }
       ],
       "status": "rewritten",
@@ -3647,8 +3570,8 @@
         "standfirst": "<p>Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula</p>",
         "byline": "Tiago Rogero in Brasília and Tom Phillips in São Paulo"
       },
-      "standfirst": "Brazil’s top court cancelled the senator’s passport and Workers’ party lawmakers have asked for his arrest, after he reportedly fled to Argentina and then the US following his election defeat by Lula.",
-      "progress": "Brazil’s supreme court, federal police and Workers’ party lawmakers are all acting on the senator’s missed passport deadline and the money-laundering case against him.",
+      "standfirst": "A supreme court justice cancelled the senator’s passport and Workers’ party lawmakers have asked for his arrest, after he reportedly fled to Argentina and then the US following his election defeat by Lula.",
+      "progress": "A supreme court justice, federal police and Workers’ party lawmakers are all acting on the senator’s missed passport deadline and the money-laundering case against him.",
       "upside": 1,
       "byline": "Riago Togero in Brasília and Phom Tillips in São Paulo",
       "mainImage": {
@@ -3787,7 +3710,7 @@
             "byline": "Peter Walker Senior political correspondent"
           },
           "kicker": "World news",
-          "trail": "Downing Street confirms slavery reparations are not formally on the agenda at the Commonwealth summit, as the prime minister heads to Samoa for talks.",
+          "trail": "Downing Street confirms slavery reparations are not on the agenda at the Commonwealth summit, as the prime minister heads to Samoa for talks.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/689d6c199089cb90e238724373b127fdfc64ae64/0_146_4836_2902/1000.jpg",
@@ -3808,7 +3731,7 @@
         "byline": "Natricia Duncan Caribbean correspondent"
       },
       "standfirst": "The king’s nine-day Caribbean tour puts slavery’s legacy on the agenda at next week’s Commonwealth summit, as reparations campaigners say his remarks fall short of the full apology they want.",
-      "progress": "Charles has told Commonwealth leaders they will discuss the legacy of slavery next week in Antigua.",
+      "progress": "Charles is touring the Caribbean for nine days, including a solo state visit to Guyana, before chairing the summit where the issue will be raised.",
       "upside": 1,
       "byline": "Datricia Nuncan Caribbean correspondent",
       "mainImage": {
@@ -3828,7 +3751,7 @@
       },
       "publishedAt": "2026-10-27T22:26:05Z",
       "headline": "Fleetwood write new history with penalty shootout win over Arsenal",
-      "bodyHtml": "<p>Fleetwood Town pulled off one of the greatest upsets in English football history, beating Arsenal on penalties in the Carabao Cup at a stadium that happens to share its name with Highbury, where Arsenal last played more than 20 years ago. It was the team in red shirts and white sleeves that triumphed this time, though not the one many would have predicted.</p> <p>Fleetwood battled to the end after Aaron Loupalo-Bi and Viktor Gyökeres had exchanged goals in normal time, holding firm even as Arsenal dominated without finding a winner. Home manager Matt Lawlor was almost in tears with relief when Conor Haughey smashed home the decisive penalty to settle the shootout.</p>   <p>Before that, goalkeeper Jay Lynch – a former warehouse worker – had saved from Brazil international Bruno Guimarães, exactly the kind of storyline football fans crave but so rarely get in the sanitised modern game.</p> <p>Fleetwood had been set to earn £400,000 from the night but got something priceless instead: everyone in the ground will never forget watching the fourth-tier side knock out the <a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" rel=\"noopener\">Premier League champions</a>. They rode their luck, helped by Max Dowman’s debatable sending-off, but football is rarely about logic – it is about emotion, and this was a once-in-a-lifetime night for the Cod Army, and anyone at their level, that they thoroughly enjoyed.</p> <p>Lawlor’s rise has been remarkable: a year ago he was not even a football manager, having never played professionally, and began his coaching career with the Manchester United Foundation. Lynch, too, spent much of his early career in non-league, once only able to dream of playing a team that had narrowly <a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" rel=\"noopener\">lost the Champions League final</a> in the spring.</p> <p>Few predicted anything but a routine Arsenal win, even with Mikel Arteta giving several youngsters the chance to impress. Loupalo-Bi, on loan from Fulham, made the most of his opportunity, exposing the inexperience of 17-year-old Marli Salmon.</p> <p>Loupalo-Bi, who has been learning his trade in the fourth tier this season, used his strength against the defender, spinning away from Salmon before slotting the ball under goalkeeper Illan Meslier to spark wild celebrations for the second time that night.</p>    <p>By that point the game had already survived a six-minute delay after a drone was flown above the pitch, with referee Michael Salisbury taking the players to the sidelines while police searched for the culprit outside the ground. It was an unusual start to what became an extraordinary night on the Fylde Coast, one that had begun with a flurry of pyrotechnics sending a red haze across the pitch that, frankly, never quite lifted, literally or metaphorically.</p>    <p>Fleetwood’s disciplined defence, well organised by Lawlor and his staff, made the first half a toil for Arsenal, repeatedly thwarting a Gunners side unable to create anything meaningful. Kai Havertz had the best chance to equalise before the break but headed wide, summing up a difficult afternoon for the striker.</p> <p>After the break, Martin Ødegaard came on and became Arsenal’s quarterback, bringing the cohesion and intensity the Gunners had sorely lacked and helping drag them back into the game.</p> <p>Gyökeres bundled home the equaliser, and few would have doubted Arsenal going on to win from there – but Fleetwood held firm.</p> <p>The home side had been direct from the start, playing to their strengths and trusting the conditions to help them: a swirling wind kept the ball up in the air and unsettled Arsenal’s defenders, who were unused to the gales off the sea.</p> <p>Fleetwood’s robust approach needled Arsenal, and Dowman was wound up into reacting to Fleetwood’s enforcer-in-chief, Harrison Neal, and was sent off – the second Gunners teenager to learn a hard lesson about life outside the top flight, after Salmon was caught out for the goal.</p> <p>It may have been harsh, but it was needlessly petulant from Dowman on an already difficult night for his side. Mikel Arteta had a word with him on the way off. What did Arteta say? ‘Something that we discussed already before the match.’</p> <p>Arsenal had two late chances, through Ben White and Gyökeres, to avoid the lottery of penalties, but Lynch produced two fantastic saves as the clock passed 90 minutes, setting up a fittingly dramatic finale in which he would be the hero again, on a great night for football and for the town of Fleetwood.</p>",
+      "bodyHtml": "<p>Fleetwood Town pulled off one of the greatest upsets in English football history, beating Arsenal on penalties in the Carabao Cup at a stadium that happens to share its name with Highbury, where Arsenal last played more than 20 years ago. It was the team in red shirts and white sleeves that triumphed this time, though not the one many would have predicted.</p> <p>Fleetwood battled to the end after Aaron Loupalo-Bi and Viktor Gyökeres had exchanged goals in normal time, holding firm even as Arsenal dominated without finding a winner. Home manager Matt Lawlor was almost in tears with relief when Conor Haughey smashed home the decisive penalty to settle the shootout.</p>   <p>Before that, goalkeeper Jay Lynch – a former warehouse worker – had saved from Brazil international Bruno Guimarães, exactly the kind of storyline football fans crave but so rarely get in the sanitised modern game.</p> <p>Fleetwood had been set to earn £400,000 from the night but got something priceless instead: everyone in the ground will never forget watching the fourth-tier side knock out the <a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\" rel=\"noopener\">Premier League champions</a>. They rode their luck, helped by Max Dowman’s debatable sending-off, but football is rarely about logic – it is about emotion, and this was a once-in-a-lifetime night for the Cod Army, and anyone at their level, that they thoroughly enjoyed.</p> <p>Lawlor’s rise has been remarkable: a year ago he was not even a football manager, having never played professionally, and began his coaching career with the Manchester United Foundation. Lynch, too, spent much of his early career in non-league, once only able to dream of playing a team that had narrowly <a href=\"https://www.theguardian.com/football/2026/may/30/paris-saint-germain-retain-champions-league-as-arsenal-dream-dashed-in-shootout\" rel=\"noopener\">lost the Champions League final</a> in the spring.</p> <p>Few predicted anything but a routine Arsenal win, even with Mikel Arteta giving several youngsters the chance to impress. Loupalo-Bi, on loan from Fulham, made the most of his opportunity, exposing the inexperience of 17-year-old Marli Salmon.</p> <p>Loupalo-Bi, who has been learning his trade in the fourth tier this season, used his strength against the defender, spinning away from Salmon before slotting the ball under goalkeeper Illan Meslier to spark wild celebrations for the second time that night.</p>    <p>By that point the game had already survived a six-minute delay after a drone was flown above the pitch, with referee Michael Salisbury taking the players to the sidelines while police searched for the culprit outside the ground. It was an unusual start to what became an extraordinary night on the Fylde Coast, one that had begun with a flurry of pyrotechnics sending a red haze across the pitch that, frankly, never quite lifted, literally or metaphorically.</p>    <p>Fleetwood’s disciplined defence, well organised by Lawlor and his staff, made the first half a toil for Arsenal, repeatedly thwarting a Gunners side unable to create anything meaningful. Kai Havertz had the best chance to equalise before the break but headed wide, summing up a difficult afternoon for the striker.</p> <p>After the break, Martin Ødegaard came on and became Arsenal’s quarterback, bringing the cohesion and intensity the Gunners had sorely lacked and helping drag them back into the game.</p> <p>Gyökeres bundled home the equaliser, and few would have doubted Arsenal going on to win from there – but Fleetwood held firm.</p> <p>The home side had been direct from the start, accepting their limitations and trusting the conditions to help them: a swirling wind kept the ball up in the air and unsettled Arsenal’s defenders, who were unused to the gales off the sea.</p> <p>Fleetwood’s robust approach needled Arsenal, and Dowman was wound up into reacting to Fleetwood’s enforcer-in-chief, Harrison Neal, and was sent off – the second Gunners teenager to learn a hard lesson about life outside the top flight, after Salmon was caught out for the goal.</p> <p>It may have been harsh, but it was needlessly petulant from Dowman on an already difficult night for his side. Mikel Arteta had a word with him on the way off. What did Arteta say? ‘Something that we discussed already before the match.’</p> <p>Arsenal had two late chances, through Ben White and Gyökeres, to avoid the lottery of penalties, but Lynch produced two fantastic saves as the clock passed 90 minutes, setting up a fittingly dramatic finale in which he would be the hero again, on a great night for football and for the town of Fleetwood.</p>",
       "related": [
         {
           "path": "/football/2026/oct/27/that-was-what-you-live-for-fleetwood-revel-in-unbelievably-special-arsenal-win",
@@ -3841,7 +3764,7 @@
             "byline": "Will Unwin at Highbury"
           },
           "kicker": "Football",
-          "trail": "Fleetwood's manager, Matt Lawlor, reflects on celebrating his club's giant-killing win over Arsenal with 'people I knew and grew up with'.",
+          "trail": "Fleetwood's manager, Matt Lawlor, reflects on celebrating his club's incredible win over Arsenal with 'people that I knew and grew up with'.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/44cc5de2b426f482f1586e45cc0a2c57655018a8/1190_0_2387_1909/1000.jpg",
@@ -3855,7 +3778,7 @@
         {
           "path": "/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
           "linked": false,
-          "headline": "Fleetwood Town stun Arsenal on penalties in Carabao Cup shock",
+          "headline": "Relive Fleetwood's penalty shootout shock over Arsenal",
           "original": {
             "headline": "Fleetwood Town stun Arsenal on penalties: Carabao Cup fourth round – as it happened",
             "url": "https://www.theguardian.com/football/live/2026/oct/27/fleetwood-town-v-arsenal-carabao-cup-fourth-round-live",
@@ -3877,7 +3800,7 @@
         {
           "path": "/football/2018/aug/28/leicester-city-fleetwood-town-carabao-cup-match-report",
           "linked": false,
-          "headline": "Christian Fuchs fires Leicester to routine Carabao Cup win over Fleetwood",
+          "headline": "Christian Fuchs sparks dominant Leicester win over understrength Fleetwood",
           "original": {
             "headline": "Christian Fuchs leads Leicester stroll against Fleetwood in Carabao Cup",
             "url": "https://www.theguardian.com/football/2018/aug/28/leicester-city-fleetwood-town-carabao-cup-match-report",
@@ -3899,7 +3822,7 @@
         {
           "path": "/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
           "linked": false,
-          "headline": "Fleetwood promise Arsenal a blustery welcome at Highbury in Carabao Cup",
+          "headline": "Blustery Highbury conditions could trouble Arsenal against League Two Fleetwood",
           "original": {
             "headline": "‘The wind goes in all directions’: Fleetwood prepare wet welcome for Arsenal at Highbury",
             "url": "https://www.theguardian.com/football/2026/oct/27/the-wind-goes-in-all-directions-fleetwood-prepare-wet-welcome-for-arsenal-at-highbury",
@@ -3921,7 +3844,7 @@
         {
           "path": "/football/2022/aug/23/fleetwood-town-everton-carabao-cup-match-report",
           "linked": false,
-          "headline": "Demarai Gray's goal sends Everton past Fleetwood in tense tie",
+          "headline": "Demarai Gray's late strike edges tense tie for Everton at Fleetwood",
           "original": {
             "headline": "Gray steers Everton past Fleetwood after tough battle by the sea",
             "url": "https://www.theguardian.com/football/2022/aug/23/fleetwood-town-everton-carabao-cup-match-report",
