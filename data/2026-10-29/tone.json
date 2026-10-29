@@ -1,10 +1,10 @@
 [
   {
-    "path": "/uk-news/2026/oct/28/russell-brand-trial-testimony",
+    "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Russell Brand tells trial it was wrong to use his fame to 'facilitate' sex\""
+    "issue": "trail leans on \"doom\": \"He promised fresh hope and delivered doom, John Crace writes, but the chancellor's 98 measures and rictus grin at least offered Labour some breathing space.\""
   },
   {
     "path": "/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
@@ -14,11 +14,11 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'This isn't supposed to happen': giant-slaying Fleetwood revels in fairytale Arsenal win\""
   },
   {
-    "path": "/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+    "path": "/commentisfree/2026/oct/28/israel-election-exit-poll-netanyahu-survives",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'There is no inevitable dystopia': Jeanette Winterson on AI and the future of humanity\""
+    "issue": "trail leans on \"bleak\": \"Exit polls had raised hopes of change among the opposition, but with most votes going to rightwing parties, the Tel Aviv-based political analyst says the prospects for the left and centre now look bleak.\""
   },
   {
     "path": "/uk-news/2026/oct/28/budget-2026-what-it-means-for-you",
@@ -32,14 +32,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Budget winners and losers: pensioners gain as banks and betting shops pay more\""
-  },
-  {
-    "path": "/commentisfree/2026/oct/28/john-healey-breathing-space-budget-panel-responds",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Will John Healey's 'breathing space' budget deliver what Britain needs? Our panel responds\""
+    "issue": "headline is unchanged from the original: \"Budget winners and losers: pensioners and households gain as banks and betting shops hit\""
   },
   {
     "path": "/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close",
@@ -91,18 +84,18 @@
     "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"The Guardian view on Labour's budget: bold ambitions, welcome first steps\""
   },
   {
-    "path": "/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+    "path": "/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Arsenal's Slegers hails 'role model' Russo after historic hat-trick sinks Benfica\""
+    "issue": "headline is a cosmetic edit of the original (95 per cent of the words are the same): \"The Guardian view on Israel's elections: Netanyahu lost his mandate, and he'll lose power too if opponents unite\""
   },
   {
-    "path": "/football/2026/oct/28/fleetwood-arsenal-carabao-cup-football-daily-newsletter",
+    "path": "/sport/2026/oct/28/horse-racing-chief-warning-budget-fixed-odds-gaming-tax",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Fleetwood go their own way to down Arsenal and live the Carabao Cup dream\""
+    "issue": "trail leans on \"devastating\": \"The duty on profits from fixed-odds gaming machines was raised in the budget, which the sport's chief warns could have a 'devastating' impact on racing.\""
   },
   {
     "path": "/sport/2026/oct/28/carey-and-inglis-counterpunch-to-put-australia-on-top-in-south-africa",
@@ -126,6 +119,13 @@
     "issue": "headline is unchanged from the original: \"Non-profit group leaks data of more than 40,000 homeland security workers\""
   },
   {
+    "path": "/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"The director's long and varied career spanned horror movies and true-crime thrillers to Cannibal and Breaking Bad.\""
+  },
+  {
     "path": "/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
     "kind": "preview",
     "field": "headline",
@@ -133,11 +133,11 @@
     "issue": "headline is unchanged from the original: \"Iranian film-maker Jafar Panahi given new prison sentence\""
   },
   {
-    "path": "/business/2026/oct/28/fed-interest-rates-midterms",
+    "path": "/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Fed holds interest rates steady in last decision before midterms\""
+    "issue": "trail leans on \"fears\": \"Jonathan Reynolds' team has written to Gordon Brothers, which bought the retailer for £1 last summer, to 'establish the facts' amid growing fears Poundland could go into administration.\""
   },
   {
     "path": "/music/2026/oct/28/stephen-kovacevich-a-pianist-who-risked-oblivion-to-know-what-its-like-out-on-the-edge",
@@ -161,11 +161,25 @@
     "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"'It's not my pain. There's a responsibility in that': Thea Gilmore on writing songs from anonymous voicemails\""
   },
   {
+    "path": "/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"In One Brief Moment All Eternity by Elif Shafak review – what Madame Bovary thought of Flaubert\""
+  },
+  {
     "path": "/artanddesign/2026/oct/28/skulls-bulls-and-someone-peeing-in-her-own-eye-four-great-exhibitions-to-see-for-free",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Skulls, bulls and someone peeing in her own eye: four great exhibitions to see for free\""
+  },
+  {
+    "path": "/stage/2026/oct/28/girls-review-a-story-of-friendship-amidst-extreme-misogynist-violence",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horrific\": \"Young Vic, London: recalling Boko Haram's abduction of schoolgirls in Chibok in 2014, Theresa Ikoko's fierce and tender play reveals how three teenagers find hope and laughter under the most horrific circumstances.\""
   },
   {
     "path": "/artanddesign/2026/oct/28/bees-holly-lynton-best-photograph-bare-handed-odyssey",
@@ -215,13 +229,6 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Smart, standard or fixed? The new era of energy tariffs, explained\""
-  },
-  {
-    "path": "/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"The rise of rib remodelling: 'I wanted that hourglass shape'\""
   },
   {
     "path": "/fashion/2026/oct/28/jess-cartner-morley-on-fashion-british-heritage-look-rivals",
@@ -315,18 +322,18 @@
     "issue": "headline is unchanged from the original: \"Cookie theft: how fraudsters get the digital key to your accounts\""
   },
   {
+    "path": "/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Dark circles, grey skin, cracked lips and hair loss can be a warning sign of iron deficiency, say experts, though other factors are often behind them too.\""
+  },
+  {
     "path": "/fashion/2026/oct/28/sali-hughes-on-beauty-skincare-for-teens-has-had-a-glow-up",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Sali Hughes on beauty: skincare for teens has had a glow-up\""
-  },
-  {
-    "path": "/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that toothpaste is an effective spot treatment\""
   },
   {
     "path": "/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
@@ -371,13 +378,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tell us: have you found new love after the age of 60\""
   },
   {
-    "path": "/uk-news/2026/oct/28/budget-2026-key-points-john-healey",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Budget 2026: the key points at a glance\""
-  },
-  {
     "path": "/uk-news/2019/sep/13/tommy-robinson-released-jail",
     "kind": "preview",
     "field": "headline",
@@ -385,32 +385,11 @@
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Tommy Robinson freed from jail after nine weeks\""
   },
   {
-    "path": "/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
+    "path": "/world/2020/aug/02/thousands-demonstrate-against-netanyahu-as-israel-protests-gain-strength",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Judge orders Prince Harry and others to pay Daily Mail publisher £9.5m\""
-  },
-  {
-    "path": "/world/2020/mar/03/israel-election-benjamin-netanyahu-claims-early-victory-but-remains-short-of-majority",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Israel election: Netanyahu begins coalition talks\""
-  },
-  {
-    "path": "/world/2020/mar/02/israel-election-round-three-begins-as-voters-head-to-the-polls",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Israel election: exit poll puts Netanyahu ahead, short of a majority\""
-  },
-  {
-    "path": "/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"European Union invites Canada to become its first ever 'associate member'\""
+    "issue": "trail leans on \"crisis\": \"Crowds angry over alleged corruption and the prime minister's handling of the coronavirus crisis are organising mass demonstrations as the movement gains strength.\""
   },
   {
     "path": "/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
@@ -420,6 +399,20 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Canada's Carney embraces EU associate membership proposal\""
   },
   {
+    "path": "/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatened\": \"The US president has threatened to stop trading with the EU over its 'laughable' membership offer to Canada, as Mark Carney seeks to draw closer to Europe.\""
+  },
+  {
+    "path": "/world/2023/feb/09/zelenskiy-aide-takes-aim-at-curbs-on-ukraine-use-of-starlink-to-pilot-drones-elon-musk",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fury\": \"The restriction has caused fury in Ukraine, which uses Starlink to pilot drones in its war with Russia.\""
+  },
+  {
     "path": "/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
     "kind": "preview",
     "field": "headline",
@@ -427,45 +420,10 @@
     "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Ukraine's military says Starlink connection now stable after recent restrictions\""
   },
   {
-    "path": "/law/2016/may/19/supreme-court-upholds-celebrity-threesome-injunction",
+    "path": "/technology/2024/mar/07/russia-starlink-investigation-elon-musk-spacex-ukraine",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Supreme court upholds 'celebrity threesome' injunction\""
-  },
-  {
-    "path": "/football/2017/feb/06/hacked-david-beckham-emails-renders-injunction-worthless",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Publication of hacked Beckham emails renders privacy injunction worthless\""
-  },
-  {
-    "path": "/media/2023/nov/28/top-tory-strategists-lobbying-firm-advising-daily-mail-owners-on-telegraph-bid",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Top Tory strategist's lobbying firm advising Daily Mail owners on Telegraph bid\""
-  },
-  {
-    "path": "/media/2023/oct/01/bild-publisher-axel-springer-eyes-telegraph-auction",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Bild publisher Axel Springer eyes Telegraph auction\""
-  },
-  {
-    "path": "/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's the smell of freedom': Belgrade cleans up after Student List triumph\""
-  },
-  {
-    "path": "/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: our tiny island is awash with waxcaps\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Democrats investigate Elon Musk's SpaceX over Russian 'misuse' of Starlink\""
   }
 ]

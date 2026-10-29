@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T05:04:39.196Z",
+  "generatedAt": "2026-10-29T06:16:45.998Z",
   "engine": "claude-code",
   "front": [
     {
@@ -29,7 +29,7 @@
         {
           "path": "/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
           "linked": false,
-          "headline": "'There is no inevitable dystopia': Jeanette Winterson on AI and the future of humanity",
+          "headline": "Jeanette Winterson says humanity still gets to choose its AI future",
           "original": {
             "headline": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
             "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
@@ -37,32 +37,13 @@
             "byline": "Aida Edemariam"
           },
           "kicker": "Books",
-          "trail": "The author believes we are at a turning point as a species – and even in the shadow of big tech, it's up to us how we proceed.",
-          "upside": 3,
+          "trail": "The author believes we are at a turning point as a species, and argues that even in the shadow of big tech, people retain the power to decide what happens next.",
+          "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/768_0_4928_4928/master/4928.jpg?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "A woman with a curly hair wearing a blue shirt with a mirror behind her"
           },
           "byline": "Leonie Cowley"
-        },
-        {
-          "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
-          "linked": false,
-          "headline": "Dr Death's low-key budget succeeds, at least, in doing no harm",
-          "original": {
-            "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
-            "url": "https://www.theguardian.com/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
-            "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
-            "byline": "John Crace"
-          },
-          "kicker": "Politics",
-          "trail": "Armed with 98 measures and a decidedly comedy-free speech, the chancellor at least offers the public – and Labour – some breathing space, writes John Crace.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "John Crace"
-          },
-          "byline": "Crohn Jace"
         }
       ]
     },
@@ -73,7 +54,7 @@
         {
           "path": "/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
           "linked": false,
-          "headline": "Budget 2026: Healey funds £100 handouts to 20m households with levies on banks and landlords",
+          "headline": "Healey taxes banks and landlords to fund £100 for 20 million households",
           "original": {
             "headline": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
@@ -81,8 +62,8 @@
             "byline": "Heather Stewart, Jessica Elgot and Richard Partington"
           },
           "kicker": "UK news",
-          "trail": "The chancellor's low-key speech blamed 'global economic storms' for rising energy prices and the cost of living crisis.",
-          "progress": "Ministers are using new levies on banks and landlords to fund direct payments to struggling households.",
+          "trail": "New taxes on banks and landlords will fund £100 payments to 20m households; the low-key budget speech blamed 'global economic storms' for stoking energy prices and the cost of living crisis.",
+          "progress": "Ministers are using new levies on banks and landlords to fund direct payments to 20m households.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7033a587fd24f1a9a1dc4547f195eb28e5bfe67d/688_0_6880_5504/master/6880.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -112,7 +93,7 @@
         {
           "path": "/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit",
           "linked": false,
-          "headline": "Budget winners and losers: pensioners gain as banks and betting shops pay more",
+          "headline": "Budget winners and losers: pensioners and households gain as banks and betting shops hit",
           "original": {
             "headline": "Budget winners and losers: pensioners and households gain as banks and betting shops hit",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit",
@@ -131,7 +112,7 @@
         {
           "path": "/commentisfree/2026/oct/28/john-healey-breathing-space-budget-panel-responds",
           "linked": false,
-          "headline": "Will John Healey's 'breathing space' budget deliver what Britain needs? Our panel responds",
+          "headline": "Will John Healey’s ‘breathing space’ budget deliver what Britain needs? Our panel responds",
           "original": {
             "headline": "Will John Healey’s ‘breathing space’ budget deliver what Britain needs? Our panel responds",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/28/john-healey-breathing-space-budget-panel-responds",
@@ -139,9 +120,7 @@
             "byline": "Polly Toynbee, Hettie O'Brien, Rohan Sathyamoorthy, Kevin Cashman, Nik and John McDonnell"
           },
           "kicker": "Opinion",
-          "trail": "Amid global economic storms, the new chancellor has promised to steer the course – with more help promised to come.",
-          "progress": "Healey has promised further support measures beyond today's budget.",
-          "upside": 2,
+          "trail": "Amid global economic storms, the new chancellor has promised to steer the course – with promises of more help to come. Will it be enough?",
           "image": {
             "src": "https://i.guim.co.uk/img/media/cde8e1c9d5cc0205f413c76521c6c2719c2ca4b1/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Illustration: Guardian Design"
@@ -166,7 +145,7 @@
             "byline": "Dan Sabbagh Defence and security editor"
           },
           "kicker": "World news",
-          "trail": "Moscow says the new system, modelled on Musk's Starlink, is intended to support its military operations in Ukraine.",
+          "trail": "Moscow is developing its own satellite communications system, modelled on Musk's Starlink, which it plans to use to help attack Ukraine.",
           "progress": "Britain and the Netherlands are stepping up funding for Ukraine's air defences and reconstruction, and Starlink and Starshield speeds have been restored to normal.",
           "upside": 3,
           "image": {
@@ -178,7 +157,7 @@
         {
           "path": "/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists",
           "linked": true,
-          "headline": "Tommy Robinson found guilty of harassing two journalists",
+          "headline": "CPS secures guilty verdict against Tommy Robinson over journalist harassment",
           "original": {
             "headline": "Tommy Robinson faces up to 10 years in jail after being found guilty of harassing journalists",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists",
@@ -188,7 +167,7 @@
           },
           "kicker": "UK news",
           "trail": "The far-right activist deployed 'bullyboy, intimidatory tactics', the trial heard; he now faces up to 10 years in jail, with the judge weighing all sentencing options.",
-          "progress": "The Crown Prosecution Service says the convictions show that harassing journalists will be treated seriously by the justice system.",
+          "progress": "The CPS says it will keep working with police to prosecute such harassment, and hopes the convictions reassure journalists that this behaviour is taken seriously.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7b9636eb6935150042406d35d4d57f9769ed8f44/237_96_4429_3544/master/4429.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -229,7 +208,7 @@
             "byline": "Lisa O’Carroll in Brussels and Leyland Cecco in Toronto"
           },
           "kicker": "World news",
-          "trail": "A widely expected offer to open 'associate member' talks was watered down at the Montreal summit, with Brussels proposing closer ties instead.",
+          "trail": "A watered-down statement due at the end of the Montreal summit steps back from the EU's earlier offer to open associate-membership talks with Canada.",
           "progress": "Carney says the label matters less than 'the difference it will make to the lives of Canadians', as formal negotiations continue towards next year's summit.",
           "upside": 2,
           "image": {
@@ -241,7 +220,7 @@
         {
           "path": "/world/2026/oct/28/spain-train-crash-high-speed-toledo",
           "linked": true,
-          "headline": "Sánchez pledges to rebuild confidence in Spain's high-speed rail network",
+          "headline": "Sánchez vows to strengthen Spain's rail safety after command-centre inquiry opens",
           "original": {
             "headline": "Spain’s Sánchez declares three days of mourning after at least 68 killed in Toledo train crash",
             "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
@@ -250,8 +229,8 @@
             "byline": "Sam Jones in Urda and Ashifa Kassam in Madrid"
           },
           "kicker": "World news",
-          "trail": "A service from Madrid to Seville ran into the back of another near Toledo, derailing two carriages; Spain's prime minister has declared three days of mourning.",
-          "progress": "Sánchez has promised a full investigation and says safety on the high-speed network will be strengthened to rebuild public confidence.",
+          "trail": "High-speed service travelling from Madrid to Seville ran into back of another, knocking two carriages off track",
+          "progress": "Sánchez has vowed to strengthen rail safety, and investigators are examining a command-centre decision that let a halted train resume onto an occupied track.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2026/10/28/Aerial_footage_shows_aftermath_of_deadly_Spain_train_collision--ddb7fd03-ac3d-4352-8275-d06248c1a0db-1.0.0000000.jpg?width=620&dpr=1&s=none&crop=5%3A4"
@@ -270,7 +249,7 @@
             "byline": "Emine Sinmaz"
           },
           "kicker": "UK news",
-          "trail": "The former comedian, on trial for rape and sexual assault, says he misused his position, but argues 'consent is more important than sex itself'.",
+          "trail": "Former comedian, in court on rape and sexual assault charges, says he misused position but ‘consent is more important than sex itself’",
           "progress": "The judge has already directed jurors to find Brand not guilty of one charge, after concluding there was insufficient evidence to support it.",
           "upside": 1,
           "image": {
@@ -281,8 +260,8 @@
         },
         {
           "path": "/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
-          "linked": true,
-          "headline": "Prosecutor praises 'extraordinary bravery' of passengers who fought off LNER knifeman",
+          "linked": false,
+          "headline": "Court hears case against man accused of LNER train knife attack",
           "original": {
             "headline": "Knifeman on LNER train ‘caused terror and fear on unimaginable scale’, court hears",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
@@ -292,7 +271,7 @@
           },
           "kicker": "UK news",
           "trail": "Anthony Williams is accused of attempting to murder passengers and staff aboard a London-bound train last November; prosecutors told the court the attack caused 'terror and fear on an unimaginable scale'.",
-          "progress": "The train driver made an emergency stop and several passengers and a crew member fought to disarm Williams, suffering stab wounds themselves.",
+          "progress": "Prosecutors are pursuing attempted murder charges against the accused.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/bfd5ceb4a3281ed3a2d2e32c7608806daf8e930a/0_430_2676_2140/master/2676.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -303,7 +282,7 @@
         {
           "path": "/uk-news/2026/oct/28/guardian-itn-duty-to-public-and-sources-publish-sexual-allegations-against-well-known-figure-court-hears",
           "linked": true,
-          "headline": "Media groups say duty to sources and public compels them to publish misconduct claims",
+          "headline": "Publishing protects other women and helps sources recover, court told",
           "original": {
             "headline": "Guardian and ITN have ‘duty to public and sources’ to publish sexual allegations against well-known figure, court hears",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/guardian-itn-duty-to-public-and-sources-publish-sexual-allegations-against-well-known-figure-court-hears",
@@ -312,8 +291,8 @@
             "byline": "Michael Savage Media editor"
           },
           "kicker": "UK news",
-          "trail": "The individual, known in court as PPT, is seeking a permanent injunction to block publication; his lawyers cite a high risk of suicide.",
-          "progress": "The outlets say they repeatedly extended deadlines and took unusual steps to act responsibly towards PPT's health while preparing to publish allegations from more than 100 people.",
+          "trail": "The news organisations say they have a duty to the public and their sources to publish the allegations; the man known as PPT is seeking a permanent injunction, with lawyers citing his risk of suicide.",
+          "progress": "The investigation spoke to more than 100 people, including 30 who gave first-hand accounts, and the outlets say many contributors want their stories told publicly.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c2f7f2750697bc05118db6edc322c0e5fa333749/706_0_4583_3667/master/4583.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -324,7 +303,7 @@
         {
           "path": "/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
           "linked": true,
-          "headline": "Telegraph's new owner presses on with plans to build a 'leading centre-right' global outlet",
+          "headline": "Pearson said to be negotiating her exit from the Daily Telegraph",
           "original": {
             "headline": "Allison Pearson said to be negotiating exit from Daily Telegraph amid job cull ",
             "url": "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
@@ -333,8 +312,8 @@
             "byline": "Tara Conlan"
           },
           "kicker": "Media",
-          "trail": "Axel Springer is restructuring the newsroom for growth; the columnist's relations with senior editors have been strained over subjects she raised in her columns.",
-          "progress": "Axel Springer says it is restructuring the paper for clearer accountability and faster decision-making as it invests in global expansion.",
+          "trail": "Columnist’s relations with some senior editorial figures said to be strained over subjects she raised in her columns",
+          "progress": "Axel Springer says it is investing in the Telegraph's global expansion, even as up to 100 journalists' roles are reported to be at risk.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/dcae77d6e41cfaf3e8905576a731643acf2298f7/420_0_3750_3000/master/3750.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -370,7 +349,7 @@
         {
           "path": "/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
           "linked": false,
-          "headline": "Gulf states work on multipart deal to avert renewed US-Iran war",
+          "headline": "Gulf states pursue peace plan to head off a renewed US-Iran war",
           "original": {
             "headline": "Gulf states working on multipart peace deal to avert renewal of US-Iran war ",
             "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
@@ -378,8 +357,7 @@
             "byline": "Patrick Wintour Diplomatic editor "
           },
           "kicker": "World news",
-          "trail": "Talks aim to reopen the strait of Hormuz, lift sanctions on Iran, and secure a Houthi withdrawal from Yemen.",
-          "progress": "Gulf mediators are pressing ahead with talks toward the deal.",
+          "trail": "The talks aim to reopen the strait of Hormuz, lift sanctions on Iran and secure a Houthi withdrawal from Yemen.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/7696200dce7254abdadd923a886adbbcc098804a/11_17_4694_3755/500.jpg"
@@ -389,7 +367,7 @@
         {
           "path": "/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
           "linked": false,
-          "headline": "Oleshky truce appears to hold as European leaders make 'frank' call to Putin",
+          "headline": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
           "original": {
             "headline": "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
             "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
@@ -397,9 +375,7 @@
             "byline": "Luke Harding and Pjotr Sauer"
           },
           "kicker": "World news",
-          "trail": "The frontline near the Russian-occupied city in southern Ukraine has been quiet for the first time in years, ahead of a planned evacuation.",
-          "progress": "European leaders are using direct talks with Putin to help the truce hold.",
-          "upside": 2,
+          "trail": "Frontline near Russian-occupied city in southern Ukraine quiet for first time in years ahead of planned evacuation",
           "image": {
             "src": "https://media.guim.co.uk/4a7e69582a0f73261c44fb0b1afe74d2f9175797/1163_0_7097_5681/500.jpg"
           },
@@ -408,7 +384,7 @@
         {
           "path": "/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
           "linked": false,
-          "headline": "'It's the smell of freedom': Belgrade cleans up after Student List triumph",
+          "headline": "'It's the smell of freedom': Belgradians celebrate by cleaning up",
           "original": {
             "headline": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
             "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
@@ -416,8 +392,8 @@
             "byline": "Guy de Launey in Belgrade"
           },
           "kicker": "World news",
-          "trail": "Binbag-wielding volunteers clear the encampment used by thugs to intimidate opponents of the deposed government.",
-          "progress": "Volunteers are clearing the streets themselves in the aftermath of the political change.",
+          "trail": "Volunteers wielding binbags clear an encampment that thugs used to intimidate opponents of the deposed government, after the Student List's election triumph.",
+          "progress": "Volunteers are clearing the encampment left behind by the old government's intimidation campaign.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/e23a469b0ec420f35cad65663382bdd93d741d1d/795_449_4469_3575/500.jpg"
@@ -446,7 +422,7 @@
         {
           "path": "/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
           "linked": false,
-          "headline": "Country diary: our tiny island is awash with waxcaps",
+          "headline": "Country diary: mapping a tiny island's wealth of waxcaps",
           "original": {
             "headline": "Country diary: Our tiny island is awash with waxcaps",
             "url": "https://www.theguardian.com/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
@@ -454,8 +430,8 @@
             "byline": "Tim Earl"
           },
           "kicker": "Environment",
-          "trail": "Calf of Man, Isle of Man: such is the wealth of Manx fungi that a map is being built to plot it all. We took a special trip as part of that project.",
-          "upside": 3,
+          "trail": "Calf of Man, Isle of Man: the island's rich array of fungi is being plotted on a new map, and we joined a special trip to see it for ourselves.",
+          "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/96137d1e6402176a6ca13ebbd82b8da4a9636964/693_0_5000_4000/500.jpg"
           },
@@ -485,26 +461,6 @@
             "alt": "Zsofia Wright shows off the Fleetwood team kit"
           },
           "byline": "Annah Hal-Othman North of England correspondent"
-        },
-        {
-          "path": "/world/2026/oct/29/indonesia-protests-fire-haze-economy",
-          "linked": false,
-          "headline": "Indonesians take to the streets as choking haze deepens economic frustrations",
-          "original": {
-            "headline": "‘Feels like we’ve gone backwards’: Indonesia’s choking haze provides spark for wider protests",
-            "url": "https://www.theguardian.com/world/2026/oct/29/indonesia-protests-fire-haze-economy",
-            "trail": "After two years, President Prabowo Subianto is struggling with economic malaise, policy blunders and a devastating fire season in the world’s third-largest democracy",
-            "byline": "Kate Lamb"
-          },
-          "kicker": "World news",
-          "trail": "President Prabowo Subianto faces mounting anger over economic malaise, policy missteps and a severe fire season, two years into his term.",
-          "progress": "Protesters are demanding the government act on the economy and the haze crisis.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/2f15796da0f5be92995d661cdc43b5a08617c7a6/1064_0_6718_5377/master/6718.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Protesters light flares during a rally in Jakarta on Wednesday marking the second year since Indonesian president Prabowo Subianto took office"
-          },
-          "byline": "Late Kamb"
         }
       ]
     },
@@ -534,7 +490,7 @@
         {
           "path": "/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
           "linked": false,
-          "headline": "'There is no inevitable dystopia': Jeanette Winterson on AI and the future of humanity",
+          "headline": "Jeanette Winterson says humanity still gets to choose its AI future",
           "original": {
             "headline": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
             "url": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
@@ -542,8 +498,8 @@
             "byline": "Aida Edemariam"
           },
           "kicker": "Books",
-          "trail": "The author believes we are at a turning point as a species – and even in the shadow of big tech, it's up to us how we proceed.",
-          "upside": 3,
+          "trail": "The author believes we are at a turning point as a species, and argues that even in the shadow of big tech, people retain the power to decide what happens next.",
+          "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/a8bb7ed7e6602f38677e183ed940fad6e2200bc1/176_0_6160_4928/master/6160.jpg?width=620&dpr=1&s=none&crop=4%3A5",
             "alt": "A woman with a curly hair wearing a blue shirt with a mirror behind her"
@@ -640,25 +596,6 @@
       "title": "Opinion",
       "cards": [
         {
-          "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
-          "linked": false,
-          "headline": "Dr Death's low-key budget succeeds, at least, in doing no harm",
-          "original": {
-            "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
-            "url": "https://www.theguardian.com/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
-            "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
-            "byline": "John Crace"
-          },
-          "kicker": "Politics",
-          "trail": "Armed with 98 measures and a decidedly comedy-free speech, the chancellor at least offers the public – and Labour – some breathing space, writes John Crace.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "John Crace"
-          },
-          "byline": "Crohn Jace"
-        },
-        {
           "path": "/commentisfree/2026/oct/28/ive-been-watching-the-7-up-tv-series-one-change-in-our-behaviour-really-struck-me",
           "linked": false,
           "headline": "I've been watching the 7 Up TV series. One change in our behaviour really struck me",
@@ -678,9 +615,27 @@
           "byline": "Chadrian Iles"
         },
         {
+          "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
+          "linked": false,
+          "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
+          "original": {
+            "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
+            "url": "https://www.theguardian.com/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
+            "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
+            "byline": "John Crace"
+          },
+          "kicker": "Politics",
+          "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
+          "image": {
+            "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
+            "alt": "John Crace"
+          },
+          "byline": "Crohn Jace"
+        },
+        {
           "path": "/commentisfree/2026/oct/28/andy-burnham-martin-lewis-budget-john-healey",
           "linked": false,
-          "headline": "Healey's everyday fixes can't meet this turbulent moment – Burnham promised more",
+          "headline": "Burnham must deliver the big change he promised, beyond quick budget fixes",
           "original": {
             "headline": "Burnham promised big change – where was it? Instead we got the Martin Lewis budget",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/28/andy-burnham-martin-lewis-budget-john-healey",
@@ -688,7 +643,7 @@
             "byline": "Aditya Chakrabortty"
           },
           "kicker": "Opinion",
-          "trail": "The financial guru Martin Lewis's fingerprints are all over the chancellor's red book, but Lewis is not a politician, writes Aditya Chakrabortty.",
+          "trail": "John Healey's red book bears the fingerprints of financial guru Martin Lewis, but columnist Aditya Chakrabortty says the chancellor's everyday fixes can't meet this turbulent moment without the deeper change Burnham pledged.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7ed6e4dbe2458bdd9bdc1257f2fc112d23fe883e/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -699,7 +654,7 @@
         {
           "path": "/commentisfree/2026/oct/28/airbnb-feels-like-a-soulless-rip-off-and-its-hosts-are-revolting",
           "linked": false,
-          "headline": "Airbnb's hosts are revolting against a system that feels like a rip-off",
+          "headline": "Airbnb needs to deliver the community it promised, not host strikes over chores",
           "original": {
             "headline": "Airbnb feels like a soulless rip-off – and its hosts are revolting",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/28/airbnb-feels-like-a-soulless-rip-off-and-its-hosts-are-revolting",
@@ -707,7 +662,7 @@
             "byline": "Arwa Mahdawi"
           },
           "kicker": "Opinion",
-          "trail": "The writer argues Airbnb's early talk of building community now rings hollow, as hosts threaten strike action over guests no longer doing their chores.",
+          "trail": "Columnist Arwa Mahdawi says she feels no sympathy for property owners threatening strike action because guests no longer have to do chores, and argues Airbnb must live up to its early promises of building community.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Arwa_Mahdawi,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -758,25 +713,6 @@
             "alt": "Nils Pratley"
           },
           "byline": "Prils Natley"
-        },
-        {
-          "path": "/commentisfree/2026/oct/28/psychopatriarchy-politics-opinion",
-          "linked": false,
-          "headline": "Recognising the rise of 'psychopatriarchy' is the first step to resisting it",
-          "original": {
-            "headline": "We are seeing the rise of psychopatriarchy everywhere",
-            "url": "https://www.theguardian.com/commentisfree/2026/oct/28/psychopatriarchy-politics-opinion",
-            "trail": "Psychopatriarchy is jet fuel to racism, colonialism, imperialism and capitalism",
-            "byline": "V (formerly Eve Ensler)"
-          },
-          "kicker": "Opinion",
-          "trail": "The writer argues that psychopatriarchy is jet fuel to racism, colonialism, imperialism and capitalism, and that naming it matters.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2022/05/06/V_(formerly_Eve_Ensler)2.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "V (formerly Eve Ensler)"
-          },
-          "byline": "V (formerly Eve Ensler)"
         }
       ]
     },
@@ -795,8 +731,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "Editorial: banks, landlords and gambling firms pay more as the chancellor builds a fairer economy and a more active state through a cost of living crisis.",
-          "progress": "The chancellor is raising taxes on banks, landlords and gambling firms to fund the response.",
+          "trail": "Editorial: Banks, landlords and gambling firms will pay more as the chancellor begins building a fairer economy and a more active state amid a cost of living crisis.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f8bacc809376f7c1fd6ae4ab159a4dbc598cd541/0_158_5110_4087/500.jpg"
@@ -806,7 +741,7 @@
         {
           "path": "/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
           "linked": false,
-          "headline": "Opposition unity could finally end Netanyahu's hold on power, the Guardian view says",
+          "headline": "The Guardian view on Israel's elections: Netanyahu lost his mandate, and he'll lose power too if opponents unite",
           "original": {
             "headline": "The Guardian view on Israel’s elections: Netanyahu lost his mandate. If opponents unite, he’ll lose power too",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-israels-elections-netanyahu-lost-his-mandate-if-opponents-unite-hell-lose-power-too",
@@ -814,7 +749,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "Editorial: his chief rival should reject the prime minister's anti-democratic vision and work with Palestinian-Israeli parties.",
+          "trail": "Editorial: His chief rival should reject the prime minister's anti-democratic vision and work with Palestinian Israeli parties.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/9a7698868c3f8537a8464128a53d1455a68f37cc/358_0_3583_2867/500.jpg"
@@ -830,7 +765,7 @@
         {
           "path": "/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
           "linked": false,
-          "headline": "Liverpool edge past Chelsea on penalties again to reach Carabao Cup last eight",
+          "headline": "Liverpool see off Chelsea again on penalties to march on in Carabao Cup",
           "original": {
             "headline": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
             "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report",
@@ -838,7 +773,7 @@
             "byline": "Andy Hunter at Anfield"
           },
           "kicker": "Football",
-          "trail": "Liverpool won a penalty shootout featuring five missed kicks 6-5 after a 1-1 draw with Chelsea at Anfield.",
+          "trail": "Liverpool won a dramatic penalty shootout 6-5, in which five kicks were missed, after a 1-1 draw with Chelsea in the Carabao Cup at Anfield.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/99d0e44a15fabd2cbbb498c5603294d9c70c8afc/333_0_3333_2667/master/3333.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -849,7 +784,7 @@
         {
           "path": "/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
           "linked": false,
-          "headline": "Arsenal's Slegers hails 'role model' Russo after historic hat-trick sinks Benfica",
+          "headline": "Russo's historic hat-trick earns 'role model' praise from Arsenal's Slegers",
           "original": {
             "headline": "Arsenal’s Slegers hails ‘role model’ Russo after historic hat-trick sinks Benfica",
             "url": "https://www.theguardian.com/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
@@ -857,7 +792,7 @@
             "byline": "Sophie Downey at Mangata Developments Stadium"
           },
           "kicker": "Football",
-          "trail": "Alessia Russo's hat-trick made her the highest English goalscorer in the Women's Champions League, as Arsenal cruised to a 3-0 win against Benfica.",
+          "trail": "Alessia Russo became the Women's Champions League's highest-scoring English player as Arsenal eased to a 3-0 win over Benfica.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/a93c8f508e4cf17a0a96ded5cca14f1696edf2ba/220_0_2198_1758/master/2198.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -868,7 +803,7 @@
         {
           "path": "/football/2026/oct/28/fleetwood-arsenal-carabao-cup-football-daily-newsletter",
           "linked": false,
-          "headline": "Fleetwood go their own way to down Arsenal and live the Carabao Cup dream",
+          "headline": "Fleetwood stun Arsenal to keep their Carabao Cup fairytale alive",
           "original": {
             "headline": "Fleetwood go their own way to down Arsenal and live Carabao Cup dream",
             "url": "https://www.theguardian.com/football/2026/oct/28/fleetwood-arsenal-carabao-cup-football-daily-newsletter",
@@ -876,7 +811,7 @@
             "byline": "Barry Glendenning"
           },
           "kicker": "Football",
-          "trail": "In today's Football Daily: Fleetwood's fairytale night, Kylian Mbappé and Kai Rooney.",
+          "trail": "Today's Football Daily covers Fleetwood's fairytale night downing Arsenal, plus Kylian Mbappé and Kai Rooney.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6f8bb77895f984580c3f30e1bb3e1ca8eaf3e391/256_0_3459_2767/master/3459.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -887,7 +822,7 @@
         {
           "path": "/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop",
           "linked": false,
-          "headline": "The search for a manager who can end Manchester United's slump",
+          "headline": "Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?",
           "original": {
             "headline": "Howe, Nagelsmann, Pochettino: can anyone end Manchester United’s doom loop?",
             "url": "https://www.theguardian.com/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop",
@@ -895,8 +830,7 @@
             "byline": "Daniel Harris"
           },
           "kicker": "Football",
-          "trail": "Even an elite coach would face a tough task at Old Trafford amid executive upheaval and an unfit, uneven squad.",
-          "upside": 1,
+          "trail": "Even an elite coach would surely struggle at Old Trafford amid the executive chaos and with an unfit, uneven squad",
           "image": {
             "src": "https://i.guim.co.uk/img/media/d0b4ae267493bf5acf03427bf4be968de83675f4/112_119_2631_2105/master/2631.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Fans of Manchester United hold up a banner in a protest outside Old Trafford before the Premier League match against Manchester City in September 2026"
@@ -950,7 +884,7 @@
         {
           "path": "/sport/2026/oct/28/horse-racing-chief-warning-budget-fixed-odds-gaming-tax",
           "linked": false,
-          "headline": "Racing's governing body to 'urgently engage' with government over gambling tax rise",
+          "headline": "Horse racing's leaders plan urgent talks with government over gambling levy",
           "original": {
             "headline": "British racing chief warns budget tax hike may have ‘devastating’ impact on sport",
             "url": "https://www.theguardian.com/sport/2026/oct/28/horse-racing-chief-warning-budget-fixed-odds-gaming-tax",
@@ -958,8 +892,8 @@
             "byline": "Greg Wood"
           },
           "kicker": "Sport",
-          "trail": "The body says the duty rise on fixed-odds gaming machine profits in the budget could have a 'devastating' impact on the sport.",
-          "progress": "Racing's leaders say they will urgently engage with the government over the change.",
+          "trail": "The duty on profits from fixed-odds gaming machines was raised in the budget, which the sport's chief warns could have a 'devastating' impact on racing.",
+          "progress": "Racing's ruling body says it will press ministers to reconsider the tax rise's impact on the sport.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/fe2d8b6c887f2161c9b55866ed68e42d04dfd950/745_130_3225_2580/master/3225.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -995,7 +929,7 @@
         {
           "path": "/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
           "linked": false,
-          "headline": "Burnham urges cabinet caution as review of EU relationship begins",
+          "headline": "No 10 to review UK's options for ties with Brussels",
           "original": {
             "headline": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
             "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
@@ -1003,34 +937,14 @@
             "byline": "Peter Walker Senior political correspondent"
           },
           "kicker": "Politics",
-          "trail": "The prime minister says Tory Brexit was 'harder' than promised in the referendum, and tells ministers not to pre-empt the review of future options.",
-          "progress": "A review of Britain's future relationship with Brussels is under way.",
+          "trail": "The move comes as Andy Burnham says Tory Brexit was 'harder' than promised in the EU referendum, with the prime minister telling cabinet ministers to hold off voicing opinions until the review of options is complete.",
+          "progress": "Downing Street says ministers are being asked to hold back their views until the options review concludes.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0bb425e0ebf98f332725192fd1813bb8a6b5ccc6/684_0_4234_3389/master/4234.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Prime Minister Andy Burnham speaks mid-sentence during prime minister's questions."
           },
           "byline": "Weter Palker Senior political correspondent"
-        },
-        {
-          "path": "/uk-news/2026/oct/28/oanne-young-sexual-assault-trial-ex-husband-court-england",
-          "linked": false,
-          "headline": "Court hears evidence in trial of four men accused of sexually assaulting Joanne Young",
-          "original": {
-            "headline": "Woman woke up to see stranger invited into bedroom by husband, court hears",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/28/oanne-young-sexual-assault-trial-ex-husband-court-england",
-            "trail": "Jury at Winchester crown court sees video evidence by Joanne Young in trial of four men accused of sexual assault",
-            "byline": "Steven Morris"
-          },
-          "kicker": "UK news",
-          "trail": "A jury at Winchester crown court sees video evidence from Joanne Young in the trial of four men accused of sexual assault.",
-          "progress": "The case is being heard by a jury at Winchester crown court.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/9d46709952364b8fb5c188c4dfea6f4a2cb28d8c/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "The four accused men wearing hoods or hats, masks and dark glasses"
-          },
-          "byline": "Meven Storris"
         }
       ]
     },
@@ -1079,7 +993,7 @@
         {
           "path": "/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
           "linked": false,
-          "headline": "Redirect £24bn 'fairytale' carbon capture funding to lower bills and emissions, Packham says",
+          "headline": "Packham urges chancellor to redirect funding from 'fairytale' carbon capture tech",
           "original": {
             "headline": "UK spending on ‘fairytale’ carbon capture tech is a national embarrassment, chancellor told",
             "url": "https://www.theguardian.com/uk-news/2026/oct/27/chris-packham-chancellor-scrap-spending-fairytale-carbon-capture-budget",
@@ -1087,8 +1001,8 @@
             "byline": "Jillian Ambrose Energy correspondent"
           },
           "kicker": "Environment",
-          "trail": "Chris Packham says the sum earmarked for projects with 'ludicrously uncertain results' should instead go toward lowering bills and cutting emissions.",
-          "progress": "Packham is calling on the chancellor to redirect the funding.",
+          "trail": "Chris Packham says the £24bn earmarked for the tech, with 'ludicrously uncertain results', is a national embarrassment, the chancellor has been told, and should instead help lower bills and cut emissions.",
+          "progress": "Packham argues cutting the carbon-capture budget would let ministers both ease bills and cut emissions.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/e39d05de3405616eae6dff2d7ce984d7d376d880/366_0_1833_1467/master/1833.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1105,7 +1019,7 @@
         {
           "path": "/society/2026/oct/28/yvette-cooper-drops-plans-abolish-healthwatch-england",
           "linked": false,
-          "headline": "Yvette Cooper extends NHS patient champion's role after outcry over abolition plan",
+          "headline": "Cooper to strengthen NHS patient watchdog after dropping plan to scrap it",
           "original": {
             "headline": "Yvette Cooper drops plans to abolish NHS patient champion after outcry",
             "url": "https://www.theguardian.com/society/2026/oct/28/yvette-cooper-drops-plans-abolish-healthwatch-england",
@@ -1113,7 +1027,8 @@
             "byline": "Denis Campbell Health policy editor"
           },
           "kicker": "Society",
-          "trail": "Exclusive: the health secretary scraps plans to abolish Healthwatch England, instead extending the watchdog's role in holding the NHS to account.",
+          "trail": "The health secretary will instead extend the role of the NHS watchdog, which backers say helps hold the service in England to account, following the outcry at plans to scrap it.",
+          "progress": "Cooper says she will instead strengthen the watchdog's role within the NHS.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/aa0c403b6d4c0f5fec5de4c02d771214604febbc/432_0_4320_3456/master/4320.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1122,29 +1037,29 @@
           "byline": "Cenis Dampbell Health policy editor"
         },
         {
-          "path": "/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
+          "path": "/media/2026/oct/28/mohamed-amersi-tory-reform-donor-bbc-defamation-trial",
           "linked": false,
-          "headline": "Give UK workers the right to know colleagues' pay, watchdog urges",
+          "headline": "Amersi takes BBC to court in bid to clear his name over corruption claims",
           "original": {
-            "headline": "Give UK workers right to know colleagues’ pay to prevent disparities, says watchdog ",
-            "url": "https://www.theguardian.com/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
-            "trail": "EHRC says transparency needed to prevent pay discrimination, particularly against women",
-            "byline": "Kalyeena Makortoff Banking correspondent"
+            "headline": "BBC allegations cost Tory and Reform donor a peerage, defamation trial told",
+            "url": "https://www.theguardian.com/media/2026/oct/28/mohamed-amersi-tory-reform-donor-bbc-defamation-trial",
+            "trail": "Mohamed Amersi is suing over Panorama episode that made claims of his suspected involvement in corruption",
+            "byline": "Daniel Boffey Chief reporter"
           },
-          "kicker": "Money",
-          "trail": "The EHRC says transparency is needed to prevent pay discrimination, particularly against women.",
-          "progress": "The watchdog is calling for new transparency rights to close gender pay gaps.",
-          "upside": 2,
+          "kicker": "Media",
+          "trail": "The Tory and Reform donor lost a peerage over claims made in a BBC Panorama episode alleging his suspected involvement in corruption, a defamation trial has heard.",
+          "progress": "The case now before the court will decide whether the BBC's claims were defamatory.",
+          "upside": 1,
           "image": {
-            "src": "https://i.guim.co.uk/img/media/6577b4ca03f2d84ca5c7eb8dbc6e5f704874404e/949_0_6827_5464/master/6827.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Workers crossing the street in the City of London"
+            "src": "https://i.guim.co.uk/img/media/182cd367e3bf9e956f8b6dcd54807b7e8bfa0427/1855_77_3920_3136/master/3920.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Mohamed Amersi in a suit and pink tie."
           },
-          "byline": "Malyeena Kakortoff Banking correspondent"
+          "byline": "Baniel Doffey Chief reporter"
         },
         {
           "path": "/culture/2026/oct/28/bafta-trustees-charity-law-accepting-free-guest-tickets",
           "linked": false,
-          "headline": "Bafta trustees face questions over free guest tickets and charity law",
+          "headline": "Bafta chair's legal advice flags charity-law concerns over free tickets",
           "original": {
             "headline": "Bafta trustees may have broken charity law by accepting free guest tickets",
             "url": "https://www.theguardian.com/culture/2026/oct/28/bafta-trustees-charity-law-accepting-free-guest-tickets",
@@ -1152,81 +1067,33 @@
             "byline": "Nadia Khomami Arts and culture correspondent"
           },
           "kicker": "Culture",
-          "trail": "The chair of the membership council says legal advice, obtained at her own expense, suggests offences could have been committed.",
-          "progress": "The chair has sought independent legal advice and is raising the concerns with Bafta.",
+          "trail": "Bafta's trustees may have broken charity law by accepting free guest tickets, according to advice the chair of the membership council obtained at their own expense, which suggests offences could have been committed.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/3cf3d2b1d1c7b28f09f71704775d4ffd1952ab82/271_0_3315_2652/master/3315.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Several gleaming gold BAFTA award masks stand in a row, reflecting warm lights"
           },
           "byline": "Khadia Nomami Arts and culture correspondent"
-        }
-      ]
-    },
-    {
-      "id": "world-news",
-      "title": "World news",
-      "cards": [
-        {
-          "path": "/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
-          "linked": false,
-          "headline": "Peter Medak, the director behind The Krays and The Changeling, is remembered at 88",
-          "original": {
-            "headline": "Peter Medak, veteran director of The Krays and The Changeling, dies aged 88",
-            "url": "https://www.theguardian.com/film/2026/oct/28/peter-medak-veteran-director-of-the-krays-and-the-changeling-dies-aged-88",
-            "trail": "The film-maker enjoyed a long and varied film and TV career, from horror movies and true-crime thrillers to Cannibal and Breaking Bad",
-            "byline": "Andrew Pulver"
-          },
-          "kicker": "Film",
-          "trail": "The film-maker enjoyed a long and varied career, from eerie supernatural films and true-crime dramas to Cannibal and Breaking Bad.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/64e02666420906b5465098b638072cbf8f8b0764/0_6_2712_2169/500.jpg"
-          },
-          "byline": "Pandrew Ulver"
-        }
-      ]
-    },
-    {
-      "id": "business-&-technology",
-      "title": "Business & technology",
-      "cards": [
-        {
-          "path": "/business/2026/oct/28/fed-interest-rates-midterms",
-          "linked": false,
-          "headline": "Fed holds interest rates steady in last decision before midterms",
-          "original": {
-            "headline": "Fed holds interest rates steady in last decision before midterms ",
-            "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-            "trail": "Fed chair Kevin Warsh said politics played no role in pause of interest rate hikes, despite inflation remaining above 3%",
-            "byline": "Gaya Gupta"
-          },
-          "kicker": "Business",
-          "trail": "Fed chair Kevin Warsh says politics played no role in the pause of rate hikes, even as inflation remains above 3%.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/7880dcf74afd8e1464e25cee2da4b52881ed5e8e/1146_740_2868_2294/500.jpg"
-          },
-          "byline": "Lachlan Vance"
         },
         {
-          "path": "/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
+          "path": "/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
           "linked": false,
-          "headline": "Business secretary presses Poundland owner for answers over retailer's future",
+          "headline": "Watchdog calls for new pay-transparency right for UK workers",
           "original": {
-            "headline": "Business secretary writes to Poundland owner as administration fears build",
-            "url": "https://www.theguardian.com/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
-            "trail": "Jonathan Reynolds’ team has written to Gordon Brothers, which bought retailer for £1 last summer, to ‘establish the facts’",
-            "byline": "Sarah Butler"
+            "headline": "Give UK workers right to know colleagues’ pay to prevent disparities, says watchdog ",
+            "url": "https://www.theguardian.com/money/2026/oct/28/uk-workers-right-know-colleagues-pay-disparities-gender-pay-gap-discrimination-watchdog-ehrc",
+            "trail": "EHRC says transparency needed to prevent pay discrimination, particularly against women",
+            "byline": "Kalyeena Makortoff Banking correspondent"
           },
-          "kicker": "Business",
-          "trail": "Jonathan Reynolds' team has written to Gordon Brothers, which bought the retailer for £1 last summer, to 'establish the facts'.",
-          "progress": "The business secretary has written to Gordon Brothers seeking answers.",
+          "kicker": "Money",
+          "trail": "The Equality and Human Rights Commission says the move would help prevent pay discrimination, particularly against women, by letting colleagues see each other's pay.",
+          "progress": "The commission argues transparency would make unequal pay easier to challenge.",
           "upside": 1,
           "image": {
-            "src": "https://media.guim.co.uk/f7b1a07a6bc3d38d0bb6fee3083794f0cb3afd89/627_0_4099_3280/500.jpg"
+            "src": "https://i.guim.co.uk/img/media/6577b4ca03f2d84ca5c7eb8dbc6e5f704874404e/949_0_6827_5464/master/6827.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Workers crossing the street in the City of London"
           },
-          "byline": "Barah Sutler"
+          "byline": "Malyeena Kakortoff Banking correspondent"
         }
       ]
     },
@@ -1237,7 +1104,7 @@
         {
           "path": "/music/2026/oct/28/orchestre-du-nouveau-monde-orchestra-tear-gas-paris-protests",
           "linked": false,
-          "headline": "Paris's young musicians go viral for their defiant performances at the protests",
+          "headline": "Paris musicians go viral for defiant orchestra performances at the protests",
           "original": {
             "headline": "Their orchestra is not a sacred object but a tool for struggle – Paris’s musicians join the frontline ",
             "url": "https://www.theguardian.com/music/2026/oct/28/orchestre-du-nouveau-monde-orchestra-tear-gas-paris-protests",
@@ -1245,7 +1112,7 @@
             "byline": "Tom Service"
           },
           "kicker": "Music",
-          "trail": "L'Orchestre du Nouveau Monde's players belong to a fine tradition of radical orchestras. Also today: what music should soundtrack the Traitors.",
+          "trail": "L'Orchestre du Nouveau Monde's young players belong to a fine tradition of radical orchestras. Also today: what music should soundtrack the Traitors?",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6cc88589ab11c64b10c7ea82097b1f784d48f005/166_0_3200_4000/master/3200.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -1264,7 +1131,7 @@
             "byline": "Luke Buckmaster"
           },
           "kicker": "Television & radio",
-          "trail": "Billed as the first end-to-end AI-created series on a major streaming service, this Turkish show looks like the result of the prompt 'make it cinematic', reviewers say.",
+          "trail": "Billed as the first end-to-end AI-created series on a major streaming service, this Turkish show looks like the result of the prompt 'make it cinematic' – and is a Vaseline-smeared mess.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6d698a3bb5fda9850c75d9ff91f432f341484254/507_72_854_1068/master/854.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -1298,25 +1165,6 @@
           "byline": "Breter Padshaw"
         },
         {
-          "path": "/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
-          "linked": false,
-          "headline": "Peter Asher: Everywhere Man review – from Beatles-era pop act to superstar producer",
-          "original": {
-            "headline": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer ",
-            "url": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
-            "trail": "Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt",
-            "byline": "Andrew Pulver"
-          },
-          "kicker": "Film",
-          "trail": "The backstory of a modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/486ee3f09a27338ff2a97f134066502504f02769/141_249_1486_1189/master/1486.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Peter & Gordon sing into microphones on stage, one in glasses and a white jacket"
-          },
-          "byline": "Pandrew Ulver"
-        },
-        {
           "path": "/film/2026/oct/28/everest-other-side-documentary-movie-review-jim-morrison-hilaree-nelson",
           "linked": false,
           "headline": "Everest: The Other Side review – a couple's bid to ski the mountain's toughest face",
@@ -1336,9 +1184,27 @@
           "byline": "Feslie Lelperin"
         },
         {
+          "path": "/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
+          "linked": false,
+          "headline": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer ",
+          "original": {
+            "headline": "Peter Asher: Everywhere Man review – music-biz face from Beatles-buddy pop act to superstar producer ",
+            "url": "https://www.theguardian.com/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
+            "trail": "Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt",
+            "byline": "Andrew Pulver"
+          },
+          "kicker": "Film",
+          "trail": "Backstory of modest industry veteran who started out as one half of pop duo Peter and Gordon, and went on to produce acts such as James Taylor and Linda Ronstadt",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/486ee3f09a27338ff2a97f134066502504f02769/141_249_1486_1189/master/1486.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Peter & Gordon sing into microphones on stage, one in glasses and a white jacket"
+          },
+          "byline": "Pandrew Ulver"
+        },
+        {
           "path": "/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
           "linked": false,
-          "headline": "Elon Musk's AI Odyssey review – Grok's take on Homer arrives",
+          "headline": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
           "original": {
             "headline": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
             "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
@@ -1346,8 +1212,7 @@
             "byline": "Peter Bradshaw"
           },
           "kicker": "Film",
-          "trail": "The film, made as a riposte to Christopher Nolan's epic, is Grok AI's interpretation of Homer; reviewers find little to admire in it.",
-          "upside": 2,
+          "trail": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t",
           "image": {
             "src": "https://i.guim.co.uk/img/media/92774383fe7ce51c65f27cb958af0171dee508c7/561_20_1550_1241/master/1550.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "In the AI-generated Odyssey series, two bearded men in cloaks and armour stand at a boat's bow"
@@ -1462,7 +1327,7 @@
         {
           "path": "/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
           "linked": false,
-          "headline": "In One Brief Moment All Eternity by Elif Shafak review – a tribute to storytelling",
+          "headline": "In One Brief Moment All Eternity by Elif Shafak review – what Madame Bovary thought of Flaubert",
           "original": {
             "headline": "In One Brief Moment All Eternity by Elif Shafak review – what Madame Bovary thought of Flaubert",
             "url": "https://www.theguardian.com/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
@@ -1470,8 +1335,7 @@
             "byline": "Lara Feigel"
           },
           "kicker": "Books",
-          "trail": "This audacious portrait of Flaubert through the eyes of his women, including Madame Bovary, is Shafak's tribute to storytelling.",
-          "upside": 2,
+          "trail": "This audacious portrait of the French author through the eyes of his women is Shafak’s love letter to literature in dark times",
           "image": {
             "src": "https://i.guim.co.uk/img/media/1c2999ed593fcc54457691ddedeb1762e9d37456/1392_2_2912_2331/master/2912.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "The 2015 film of Madame Bovary."
@@ -1481,7 +1345,7 @@
         {
           "path": "/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver",
           "linked": false,
-          "headline": "Michael Gambon: the authorised biography review – a brilliant actor, and a man of mystery",
+          "headline": "Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver",
           "original": {
             "headline": "Michael Gambon: the authorised biography review – a brilliant actor, and a master deceiver",
             "url": "https://www.theguardian.com/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver",
@@ -1489,8 +1353,7 @@
             "byline": "Kathryn Hughes"
           },
           "kicker": "Books",
-          "trail": "From the National Theatre to Harry Potter, Gambon's shapeshifting life leaves many questions still unanswered.",
-          "upside": 2,
+          "trail": "From the National Theatre to Harry Potter, Gambon’s shapeshifting life leaves many questions still unanswered",
           "image": {
             "src": "https://i.guim.co.uk/img/media/3483ff7032fca31c24a0364928f7c644e2809939/0_224_3384_2707/master/3384.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Michael Gambon in 2016."
@@ -1506,7 +1369,7 @@
         {
           "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
           "linked": false,
-          "headline": "Eight brilliant new indie games to play this spooky season",
+          "headline": "Eight brilliant new indie games to play this Halloween",
           "original": {
             "headline": "Eight great new indie horror games for Halloween",
             "url": "https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween",
@@ -1514,7 +1377,7 @@
             "byline": "Keith Stuart"
           },
           "kicker": "Games",
-          "trail": "Whether you favour spooky fairytales, satanic card games or infernal hijinks at the chip shop, there are fresh top scarers at large this witching season.",
+          "trail": "Whether you favour spooky fairytales, satanic card games or infernal hijinks at the chip shop, there are all manner of fresh top scarers at large this witching season.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1607,7 +1470,7 @@
         {
           "path": "/stage/2026/oct/28/girls-review-a-story-of-friendship-amidst-extreme-misogynist-violence",
           "linked": false,
-          "headline": "Girls review – friendship, hope and laughter forged amid extreme violence",
+          "headline": "Girls review – a story of friendship and hope amid extreme misogynist violence",
           "original": {
             "headline": "Girls review – a story of friendship amidst extreme misogynist violence ",
             "url": "https://www.theguardian.com/stage/2026/oct/28/girls-review-a-story-of-friendship-amidst-extreme-misogynist-violence",
@@ -1615,7 +1478,7 @@
             "byline": "Arifa Akbar"
           },
           "kicker": "Stage",
-          "trail": "Young Vic, London: recalling Boko Haram's abduction of schoolgirls in Chibok in 2014, Theresa Ikoko's fierce and tender play reveals how three teenagers find hope and laughter under extreme circumstances.",
+          "trail": "Young Vic, London: recalling Boko Haram's abduction of schoolgirls in Chibok in 2014, Theresa Ikoko's fierce and tender play reveals how three teenagers find hope and laughter under the most horrific circumstances.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7f0f141c5c53d393a80fb0665532175c0d18399d/760_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1814,7 +1677,7 @@
         {
           "path": "/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape",
           "linked": false,
-          "headline": "The rise of rib remodelling: 'I wanted that hourglass shape'",
+          "headline": "Rib remodelling: why more people are choosing this hourglass-shape procedure",
           "original": {
             "headline": "The shocking rise of rib remodelling: ‘I wanted that hourglass shape’",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape",
@@ -1822,7 +1685,7 @@
             "byline": "Emma Russell"
           },
           "kicker": "Life and style",
-          "trail": "The cosmetic procedure involves fracturing a patient's ribs, followed by three months laced into a corset; some compare the recovery to being 'hit by a bus'. Why is it becoming more popular?",
+          "trail": "The procedure involves fracturing a patient's ribs, then three months laced into a corset. Some compare the experience to being 'hit by a bus' – so why is it becoming more popular?",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/be18593b113c97b908abce9c748e5b34afadd994/845_0_2457_3071/master/2457.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2093,8 +1956,7 @@
             "byline": "Hilary Osborne"
           },
           "kicker": "Money",
-          "trail": "Retirees will get a personal allowance aligned with the new state pension, though experts say the mechanics could get complicated.",
-          "progress": "The chancellor is working out how to implement the allowance alignment.",
+          "trail": "Retirees would get a personal allowance aligned with the new state pension, though experts say the mechanism could get complicated.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/2a0d8911e5c6597a85eb3157f878b51e902ea517/740_225_2822_2257/master/2822.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2124,7 +1986,7 @@
         {
           "path": "/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
           "linked": false,
-          "headline": "Hit with an 18-second airport parking fine? Here's the get-out clause",
+          "headline": "Drivers fined for brief airport stops can use a get-out clause to contest penalties",
           "original": {
             "headline": "Stung with a parking fine for an 18-second airport stop to tackle a wasp",
             "url": "https://www.theguardian.com/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
@@ -2132,8 +1994,7 @@
             "byline": "Anna Tims"
           },
           "kicker": "Money",
-          "trail": "Airports are ruthless in issuing PCNs if a car stops in a red zone, no matter the cause, but drivers have options to challenge them.",
-          "progress": "There is a clause drivers can use to contest unfair fines.",
+          "trail": "Airports are ruthless in issuing penalty notices for any stop in a red zone — even an 18-second pause to tackle a wasp.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/ebe5a2a2f01240ab9dc5f5c302b680d197450f3b/0_0_4847_3879/master/4847.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2169,7 +2030,7 @@
         {
           "path": "/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
           "linked": false,
-          "headline": "'Ferritin face': separating fact from fiction on social media's iron deficiency claims",
+          "headline": "What 'ferritin face' symptoms really reveal, according to experts",
           "original": {
             "headline": "‘Ferritin face’: are social media claims about iron deficiency fact – or fiction?",
             "url": "https://www.theguardian.com/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
@@ -2177,7 +2038,7 @@
             "byline": "Nicola Davis Science correspondent"
           },
           "kicker": "Science",
-          "trail": "Experts say symptoms such as dark circles under the eyes, grey skin, cracked lips and hair loss can be a signal worth checking, but there are other factors too.",
+          "trail": "Dark circles, grey skin, cracked lips and hair loss can be a warning sign of iron deficiency, say experts, though other factors are often behind them too.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/fb58f233b4524a6c63fdcd3cb6c1ad906f3509fc/271_0_6686_5348/master/6686.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2188,7 +2049,7 @@
         {
           "path": "/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence",
           "linked": false,
-          "headline": "Seed oils are not as unhealthy as online claims suggest, trials show",
+          "headline": "Trials find no rise in inflammation from omega-6 fatty acids in seed oils",
           "original": {
             "headline": "Are seed oils unhealthy? Why are so many influencers speaking out against them?",
             "url": "https://www.theguardian.com/commentisfree/2026/oct/28/are-seed-oils-unhealthy-scientific-evidence",
@@ -2196,7 +2057,7 @@
             "byline": "Gideon Meyerowitz-Katz"
           },
           "kicker": "Opinion",
-          "trail": "Randomised trials of omega-6s do not show an increase in inflammation caused by the fatty acid, despite influencers speaking out against them.",
+          "trail": "The finding challenges online claims against seed oils, even as influencers continue to speak out against them.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/d8049b8e664b1b35b3100cdfdb412f60b1532e0f/0_0_1875_1500/master/1875.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2249,6 +2110,25 @@
           "byline": "Hali Sughes"
         },
         {
+          "path": "/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
+          "linked": false,
+          "headline": "Why toothpaste isn't the best spot treatment — and what works instead",
+          "original": {
+            "headline": "Is it true that … toothpaste is an effective spot treatment?",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
+            "trail": "It might dry out a pimple, but it could make things worse, so it’s worth exploring other solutions",
+            "byline": "Kate Lloyd"
+          },
+          "kicker": "Life and style",
+          "trail": "It might dry out a pimple, but it could also make things worse, so it's worth exploring other solutions.",
+          "upside": 2,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/309af95cf2ebf93f7be1505cf548ed3dfde6bd10/0_0_1857_1486/master/1857.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A tube of cream with a cartoon face squeezes onto a face, next to an angry-looking red spot"
+          },
+          "byline": "Llate Koyd"
+        },
+        {
           "path": "/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
           "linked": false,
           "headline": "From five-fingered trainers to the shoeless shoe: the rise of freaky footwear",
@@ -2270,7 +2150,7 @@
         {
           "path": "/fashion/2026/oct/22/how-the-canvas-tote-bag-went-from-supermarket-staple-to-status-symbol",
           "linked": false,
-          "headline": "How the canvas tote bag became an unlikely status symbol",
+          "headline": "The humble tote bag gets a four-figure makeover",
           "original": {
             "headline": "‘A form of anti-status status’ – how much would you pay for a plain tote bag?",
             "url": "https://www.theguardian.com/fashion/2026/oct/22/how-the-canvas-tote-bag-went-from-supermarket-staple-to-status-symbol",
@@ -2278,32 +2158,13 @@
             "byline": "Ellie Violet Bramley"
           },
           "kicker": "Fashion",
-          "trail": "The ubiquitous carrier has been given a four-figure makeover, turning an everyday bag associated with running errands into an aspirational, 'anti-status status' item.",
+          "trail": "Despite still being associated with running errands and US supermarkets, the ubiquitous carrier has become so aspirational that some are calling it 'a form of anti-status status'.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/4346e1060d061ac0d416875fc599d0f28e4b5674/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "The humble canvas tote has evolved from a practical carryall into a marker of taste and luxury status."
           },
           "byline": "Vellie Iolet Bramley"
-        },
-        {
-          "path": "/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
-          "linked": false,
-          "headline": "Is it true that toothpaste is an effective spot treatment",
-          "original": {
-            "headline": "Is it true that … toothpaste is an effective spot treatment?",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
-            "trail": "It might dry out a pimple, but it could make things worse, so it’s worth exploring other solutions",
-            "byline": "Kate Lloyd"
-          },
-          "kicker": "Life and style",
-          "trail": "It might dry out a pimple, but it could make things worse, so it's worth exploring other solutions.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/309af95cf2ebf93f7be1505cf548ed3dfde6bd10/0_0_1857_1486/master/1857.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A tube of cream with a cartoon face squeezes onto a face, next to an angry-looking red spot"
-          },
-          "byline": "Llate Koyd"
         }
       ]
     },
@@ -2416,7 +2277,7 @@
         {
           "path": "/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers",
           "linked": false,
-          "headline": "A moment that changed me: how I stopped being a pushover and stood up for myself",
+          "headline": "A moment that changed me: realising it was time to assert myself",
           "original": {
             "headline": "A moment that changed me: I was always a pushover – until I stood up to some teenagers",
             "url": "https://www.theguardian.com/lifeandstyle/2026/oct/28/a-moment-that-changed-me-i-was-always-a-pushover-until-i-stood-up-to-some-teenagers",
@@ -2424,8 +2285,7 @@
             "byline": "Ellie Violet Bramley"
           },
           "kicker": "Life and style",
-          "trail": "On the eve of my 40th birthday, being doused with cold water at a train station was the final straw – the moment I decided to start asserting myself.",
-          "progress": "She began standing up for herself after the incident, rather than letting such moments pass as she once had.",
+          "trail": "On the eve of her 40th birthday, after being doused with cold water at a train station, the writer stopped shrugging things off and found the moment she needed to stand up for herself.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/dcb78347e5f183006e8d3e2dd54404494e883a57/48_0_1505_1204/master/1505.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2499,7 +2359,7 @@
         {
           "path": "/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
           "linked": false,
-          "headline": "Andy Burnham's first 100 days: everyday fixes and long-term plans for care and pensions",
+          "headline": "Six key acts in Andy Burnham's first 100 days in power",
           "original": {
             "headline": "How has Andy Burnham used his first 100 days in power?",
             "url": "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
@@ -2507,8 +2367,8 @@
             "byline": "Aletha Adu Political correspondent"
           },
           "kicker": "Politics",
-          "trail": "A look at six key acts so far – from party management and communications to lasting changes on care and pensions.",
-          "progress": "Burnham has already delivered a run of 'everyday fixes' while drawing up longer-term plans for care and pensions.",
+          "trail": "From 'everyday fixes', party management and communications to long-term plans for care and pensions, here is how the PM has used his opening months.",
+          "progress": "Burnham's team is drawing up longer-term plans on care and pensions, alongside his early 'everyday fixes'.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/89e4a5ed88562d6a89e9fe42976a9801b03f5137/1800_0_3200_4000/master/3200.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2544,7 +2404,7 @@
         {
           "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
           "linked": false,
-          "headline": "Tell us about searching for work as a young person in the UK",
+          "headline": "Share your story: what's it like job-hunting as a young person in the UK?",
           "original": {
             "headline": "Tell us: are you a young person in the UK struggling to find work?",
             "url": "https://www.theguardian.com/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
@@ -2552,11 +2412,30 @@
             "byline": "Guardian community team"
           },
           "kicker": "Money",
-          "trail": "We want to hear from young people in the UK about their experiences of looking for work.",
-          "upside": 1,
+          "trail": "We want to hear directly from young people in the UK about their search for work.",
+          "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/41221f075987537a6c035b7ad20f2b4af1cbc34e/430_0_4265_3411/master/4265.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Mixed race businesswoman working on laptopE5A7NB Mixed race businesswoman working on laptop"
+          },
+          "byline": "Guardian community team"
+        },
+        {
+          "path": "/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
+          "linked": false,
+          "headline": "Share your experience of Storm Boelo and Storm Austen",
+          "original": {
+            "headline": "Tell us: have you been affected by Storm Boelo and Storm Austen",
+            "url": "https://www.theguardian.com/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
+            "trail": "We’d like to hear from people who’ve been affected by the UK storms st the weekend",
+            "byline": "Guardian community team"
+          },
+          "kicker": "World news",
+          "trail": "We'd like to hear from people affected by the UK storms at the weekend.",
+          "upside": 2,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/951ca1da625393fb5463bb24c1e110152131f107/717_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A police van blocks a Skelmorlie coastal road scattered with storm debris and driftwood"
           },
           "byline": "Guardian community team"
         },
@@ -2578,25 +2457,6 @@
             "alt": "FILE PHOTO: Tankers are seen off the coast of the Fujairah amid the U.S.-Israel conflict with IranFILE PHOTO: Tankers are seen off the coast of the Fujairah, as Iran vows to close the Strait of Hormuz, amid the U.S.-Israel conflict with Iran, in Fujairah, United Arab Emirates, March 3, 2026. REUTERS/Amr Alfiky/File Photo"
           },
           "byline": "Guardian community team"
-        },
-        {
-          "path": "/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
-          "linked": false,
-          "headline": "Tell us how you're coping after Storm Boelo and Storm Austen",
-          "original": {
-            "headline": "Tell us: have you been affected by Storm Boelo and Storm Austen",
-            "url": "https://www.theguardian.com/world/2026/oct/26/tell-us-have-you-been-affected-by-storm-boelo-and-storm-austen",
-            "trail": "We’d like to hear from people who’ve been affected by the UK storms st the weekend",
-            "byline": "Guardian community team"
-          },
-          "kicker": "World news",
-          "trail": "We'd like to hear from people affected by the weekend's UK storms, and how they are recovering.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/951ca1da625393fb5463bb24c1e110152131f107/717_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A police van blocks a Skelmorlie coastal road scattered with storm debris and driftwood"
-          },
-          "byline": "Guardian community team"
         }
       ]
     },
@@ -2607,7 +2467,7 @@
         {
           "path": "/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists",
           "linked": true,
-          "headline": "Tommy Robinson found guilty of harassing two journalists",
+          "headline": "CPS secures guilty verdict against Tommy Robinson over journalist harassment",
           "original": {
             "headline": "Tommy Robinson faces up to 10 years in jail after being found guilty of harassing journalists",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/tommy-robinson-found-guilty-of-harassing-journalists",
@@ -2617,7 +2477,7 @@
           },
           "kicker": "UK news",
           "trail": "The far-right activist deployed 'bullyboy, intimidatory tactics', the trial heard; he now faces up to 10 years in jail, with the judge weighing all sentencing options.",
-          "progress": "The Crown Prosecution Service says the convictions show that harassing journalists will be treated seriously by the justice system.",
+          "progress": "The CPS says it will keep working with police to prosecute such harassment, and hopes the convictions reassure journalists that this behaviour is taken seriously.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/7b9636eb6935150042406d35d4d57f9769ed8f44/237_96_4429_3544/1000.jpg",
@@ -2631,7 +2491,7 @@
         {
           "path": "/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
           "linked": false,
-          "headline": "Budget 2026: Healey funds £100 handouts to 20m households with levies on banks and landlords",
+          "headline": "Healey taxes banks and landlords to fund £100 for 20 million households",
           "original": {
             "headline": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
@@ -2639,8 +2499,8 @@
             "byline": "Heather Stewart, Jessica Elgot and Richard Partington"
           },
           "kicker": "UK news",
-          "trail": "The chancellor's low-key speech blamed 'global economic storms' for rising energy prices and the cost of living crisis.",
-          "progress": "Ministers are using new levies on banks and landlords to fund direct payments to struggling households.",
+          "trail": "New taxes on banks and landlords will fund £100 payments to 20m households; the low-key budget speech blamed 'global economic storms' for stoking energy prices and the cost of living crisis.",
+          "progress": "Ministers are using new levies on banks and landlords to fund direct payments to 20m households.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/7033a587fd24f1a9a1dc4547f195eb28e5bfe67d/688_0_6880_5504/500.jpg"
@@ -2650,7 +2510,7 @@
         {
           "path": "/uk-news/2026/oct/28/budget-2026-key-points-john-healey",
           "linked": false,
-          "headline": "Budget 2026: the key points at a glance",
+          "headline": "A clear guide to the decisions in John Healey's first budget",
           "original": {
             "headline": "Budget 2026: key points at a glance",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-key-points-john-healey",
@@ -2658,7 +2518,7 @@
             "byline": "Jasper Jolly and Peter Walker"
           },
           "kicker": "UK news",
-          "trail": "John Healey's first budget, the main points explained, with political analysis.",
+          "trail": "The chancellor has set out his first budget. This guide lays out the main points and what they mean, with political analysis.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/a520d66e8a91619776b7d8debeb64358d75580f2/1_0_1665_1333/500.jpg"
@@ -2666,27 +2526,28 @@
           "byline": "Jasmine Ellery and Weter Palker"
         },
         {
-          "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
+          "path": "/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
           "linked": false,
-          "headline": "Dr Death's low-key budget succeeds, at least, in doing no harm",
+          "headline": "Budget commits £10bn to help Ukraine as Farage sits out Commons debate",
           "original": {
-            "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
-            "url": "https://www.theguardian.com/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
-            "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
-            "byline": "John Crace"
+            "headline": "Nigel Farage skips budget in Commons over seating ‘altercation’ concerns ",
+            "url": "https://www.theguardian.com/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
+            "trail": "Reform UK leader ‘shocked’ by £10bn pledged to Ukraine and doubles down on cutting tax for crypto investors",
+            "byline": "Rowena Mason Whitehall editor"
           },
-          "kicker": "Politics",
-          "trail": "Armed with 98 measures and a decidedly comedy-free speech, the chancellor at least offers the public – and Labour – some breathing space, writes John Crace.",
-          "upside": 2,
+          "kicker": "UK news",
+          "trail": "Reform UK's leader missed the budget debate after a dispute over Commons seating, having said he was 'shocked' by the Ukraine funding and renewing his call to cut tax for crypto investors.",
+          "progress": "The chancellor's budget commits £10bn in support to Ukraine.",
+          "upside": 1,
           "image": {
-            "src": "https://media.guim.co.uk/27d9b2550385897530cc9aec3e16a838828baf0c/142_0_3814_3051/500.jpg"
+            "src": "https://media.guim.co.uk/d1d3f335ec36d7cf55e9647aee896c6f56281d4d/1083_123_3809_3047/500.jpg"
           },
-          "byline": "Crohn Jace"
+          "byline": "Mowena Rason Whitehall editor"
         },
         {
           "path": "/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
           "linked": true,
-          "headline": "Telegraph's new owner presses on with plans to build a 'leading centre-right' global outlet",
+          "headline": "Pearson said to be negotiating her exit from the Daily Telegraph",
           "original": {
             "headline": "Allison Pearson said to be negotiating exit from Daily Telegraph amid job cull ",
             "url": "https://www.theguardian.com/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
@@ -2695,8 +2556,8 @@
             "byline": "Tara Conlan"
           },
           "kicker": "Media",
-          "trail": "Axel Springer is restructuring the newsroom for growth; the columnist's relations with senior editors have been strained over subjects she raised in her columns.",
-          "progress": "Axel Springer says it is restructuring the paper for clearer accountability and faster decision-making as it invests in global expansion.",
+          "trail": "Columnist’s relations with some senior editorial figures said to be strained over subjects she raised in her columns",
+          "progress": "Axel Springer says it is investing in the Telegraph's global expansion, even as up to 100 journalists' roles are reported to be at risk.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/dcae77d6e41cfaf3e8905576a731643acf2298f7/420_0_3750_3000/1000.jpg",
@@ -2710,7 +2571,7 @@
         {
           "path": "/uk-news/2026/oct/28/guardian-itn-duty-to-public-and-sources-publish-sexual-allegations-against-well-known-figure-court-hears",
           "linked": true,
-          "headline": "Media groups say duty to sources and public compels them to publish misconduct claims",
+          "headline": "Publishing protects other women and helps sources recover, court told",
           "original": {
             "headline": "Guardian and ITN have ‘duty to public and sources’ to publish sexual allegations against well-known figure, court hears",
             "url": "https://www.theguardian.com/uk-news/2026/oct/28/guardian-itn-duty-to-public-and-sources-publish-sexual-allegations-against-well-known-figure-court-hears",
@@ -2719,8 +2580,8 @@
             "byline": "Michael Savage Media editor"
           },
           "kicker": "UK news",
-          "trail": "The individual, known in court as PPT, is seeking a permanent injunction to block publication; his lawyers cite a high risk of suicide.",
-          "progress": "The outlets say they repeatedly extended deadlines and took unusual steps to act responsibly towards PPT's health while preparing to publish allegations from more than 100 people.",
+          "trail": "The news organisations say they have a duty to the public and their sources to publish the allegations; the man known as PPT is seeking a permanent injunction, with lawyers citing his risk of suicide.",
+          "progress": "The investigation spoke to more than 100 people, including 30 who gave first-hand accounts, and the outlets say many contributors want their stories told publicly.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/c2f7f2750697bc05118db6edc322c0e5fa333749/706_0_4583_3667/1000.jpg",
@@ -2730,6 +2591,23 @@
             "height": 800
           },
           "byline": "Sichael Mavage Media editor"
+        },
+        {
+          "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
+          "linked": false,
+          "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
+          "original": {
+            "headline": "He promised fresh hope and delivered doom, but Dr Death’s budget succeeds in doing no harm",
+            "url": "https://www.theguardian.com/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
+            "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
+            "byline": "John Crace"
+          },
+          "kicker": "Politics",
+          "trail": "Armed with 98 measures, a rictus grin and a decidedly comedy-free speech, the chancellor at least offered us – and Labour – some breathing space",
+          "image": {
+            "src": "https://media.guim.co.uk/27d9b2550385897530cc9aec3e16a838828baf0c/142_0_3814_3051/500.jpg"
+          },
+          "byline": "Crohn Jace"
         }
       ]
     }
@@ -2743,7 +2621,7 @@
         "name": "World news"
       },
       "publishedAt": "2026-10-28T16:39:15Z",
-      "headline": "Sánchez pledges to rebuild confidence in Spain's high-speed rail network",
+      "headline": "Sánchez vows to strengthen Spain's rail safety after command-centre inquiry opens",
       "bodyHtml": "<p>Spain's prime minister, Pedro Sánchez, has declared three days of mourning and pledged to strengthen safety on the country's high-speed rail network, after at least 68 people were killed and dozens more injured when one high-speed train rear-ended another, which officials suggested was caused by an “inexplicable” error at the central command centre.</p>\n<p>The crash turned the municipality of Urda, surrounded by olive groves and vineyards, into a hub for the rescue effort. A local sports centre became a triage centre for those with minor injuries, while a nearby hall was repurposed into a space for those scrambling to find their missing loved ones.</p>\n<p>A constant flow of vehicles from local, regional and national emergency services headed in and out of the town, while locals pitched in by bringing food and bottles of water to those waiting anxiously for news of their relatives.</p>\n<p>The trains, one from Spain's state-owned Renfe and the other from the private rail company Iryo, were travelling on Wednesday morning in the same direction on the line that stretches from the Spanish capital, Madrid, to the southern region of Andalusia. After the Iryo train came to a halt, the other slammed into its rear, knocking several carriages off the track near the town of Urda.</p>\n<p>The tragedy was the second major deadly high-speed train accident this year in Spain, rattling a country where the extensive rail network has long been a point of pride. “Today all of Spain is grieving,” Sánchez said.</p>\n\n<p>In January, 46 <a href=\"https://www.theguardian.com/world/2026/jan/19/train-crash-shocks-spanish-town-adamuz\" rel=\"noopener\">people were killed</a> and dozens more injured after two trains – again, one from Renfe and one from Iryo – collided on the same line near the town of Adamuz in Andalucía. On Wednesday Sánchez said it was “unacceptable for a country like Spain to suffer two high-speed train accidents in the same year, as we have”.</p>\n<p>The causes of the accident were under investigation, he added. If it emerged that it was due to failures in the security system or negligence, these shortcomings would be addressed with the “utmost severity”, he said.</p>\n<p>The Urda crash, which ranks as one of Europe's deadliest such disasters this century, comes weeks before <a href=\"https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis\" rel=\"noopener\">general elections</a> in which Sánchez is waging an uphill battle for re-election. The crash in January left his Socialist party <a href=\"https://www.theguardian.com/commentisfree/2026/jan/30/spain-high-speed-trains-safety-crashes\" rel=\"noopener\">fending off criticisms</a> that it had not done enough to maintain the safety of the high-speed rail line, suggesting that this latest crash would add to the fractious political climate.</p>\n<p>Images from the scene showed a derailed train with at least one carriage remaining on an elevated section of track. Twisted metal, broken panels and wreckage could be seen strewn across an embankment beneath the rail line. Officials said the trains had been carrying 544 people.</p>\n<p>Spain's transport minister, Óscar Puente, said that rear-end collisions like that which had taken place on Wednesday were “highly unlikely” and suggested that the accident may have been caused by human error made in “inexplicable” circumstances.</p>\n<p>He said the LZB signalling system, which automatically halts a train if the line ahead is occupied, had gone down at about 8.30am local time due to a computer malfunction. As a result, an estimated six trains had been halted along a stretch of around 63km of track, he said.</p>\n<p>The task of monitoring the rail lines then fell to a 24-hour command centre in Madrid. Minutes after the computer malfunction, the centre instructed at least two of the trains to continue as normal, despite the fact that there was still a “stop signal” in place, said Puente.</p>\n<p>“It was the control centre, through its operators, that made the decision to resume traffic, under circumstances that, from our point of view, are inexplicable,” he said. “Clearly, it was a wrong decision.”</p>\n<p>The Castilla-La Mancha regional government said on Wednesday afternoon that the death toll had risen to 68 as rescue teams continued to search through the wreckage of the derailed carriages. Castilla-La Mancha's leader, Emiliano García-Page, told reporters that more victims were likely as “it has not yet been possible to reach the bottom of the carriages”.</p>\n<p>Officials said another 107 people had needed medical treatment in hospital, including 15 who were in a serious condition.</p>\n<p>Miguel, a passenger travelling with several colleagues in the rear car of one of the trains, described the moment of the accident to Cope radio. “We heard a massive roar, a truly enormous thud that went on for 10 seconds, as if the train were about to derail,” he said. “Through the right-hand window, we could see a wrecked train – I imagine it must have been the other one.”</p>\n<p>Giving initial details about the crash, Puente said the Iryo train had been travelling ahead on the tracks and had been sitting stationary when the Renfe train was instructed by the command centre to resume its journey. The Renfe train then travelled approximately 25km before colliding with the Iryo train about 17 minutes later.</p>\n<p>The speed at which the Renfe train had been travelling remains unknown, the transport minister told reporters, though the section of rail on which it was travelling allows for speeds of up to 200km/hour.</p>\n<p>The control centre “had more than enough time to verify the error, and they did not fix it”, Puente added. “I am not attributing responsibility to anyone, I am just stating the facts.”</p>\n<p>Puente said that similar erroneous instructions had been given to at least one other train on Wednesday morning. “And it was the engineer of one of the trains who corrected the command centre and told them he can't resume normal operation – it has to be [an] on-sight operation,” Puente said, citing a protocol that allows trains to advance but at a greatly reduced speed in order to ensure that there are not other trains sitting on the tracks ahead. “The operator said: ‘OK, on-sight operation.’”</p>\n<p>Amid growing anger over the crash, the prime minister said there was little to suggest that the two high speed rail collisions Spain has suffered this year had shared any kind of similar cause.</p>\n<p>“Everything strongly suggests that the causes of the two accidents are completely unrelated, but it is not up to me to say so,” he said. “But what is clear is that, if we need – as we certainly do – to further strengthen safety in order to rebuild confidence in our high-speed rail system, it will be done.”</p>\n<p>Across the country, people held moments of silence for those who were killed, while Spain's football federation postponed all 24 Copa del Rey games scheduled for Wednesday.</p>\n<p>The first victims to be named included a 31-year-old Guardia civil agent, José Manuel Chacón.</p>\n<p>The national law enforcement agency expressed its “deepest condolences” to his family, friends and colleagues. Spanish media said the missing included a former minister for the People's party and several foreigners who were likely on holiday in the country.</p>\n<p>The opposition People's party leader, Alberto Núñez Feijóo, called for an immediate investigation into what had happened, as well as a “complete and independent review” of Spain's entire rail network. “Spain has the right to know what is going on with its infrastructure,” he told reporters.</p>\n<p><em>Reuters and Associated Press contributed to this report</em></p>",
       "related": [],
       "status": "rewritten",
@@ -2754,8 +2632,8 @@
         "standfirst": "<p>High-speed service travelling from Madrid to Seville ran into back of another, knocking two carriages off track</p>",
         "byline": "Sam Jones in Urda and Ashifa Kassam in Madrid"
       },
-      "standfirst": "Spain's prime minister has pledged a full investigation and promises to strengthen rail safety, after a high-speed train rear-ended another near Toledo, killing at least 68 people in the country's second fatal high-speed rail crash this year.",
-      "progress": "Sánchez has promised a full investigation and says safety on the high-speed network will be strengthened to rebuild public confidence.",
+      "standfirst": "The pledge comes as investigators probe a command-centre error that sent a train into the back of another near Toledo, killing at least 68 and injuring dozens in Spain's second deadly rail crash this year.",
+      "progress": "Sánchez has vowed to strengthen rail safety, and investigators are examining a command-centre decision that let a halted train resume onto an occupied track.",
       "upside": 1,
       "byline": "Jam Sones in Urda and Kashifa Assam in Madrid",
       "mainImage": {
@@ -2770,13 +2648,13 @@
         "name": "UK news"
       },
       "publishedAt": "2026-10-28T16:04:48Z",
-      "headline": "Tommy Robinson found guilty of harassing two journalists",
+      "headline": "CPS secures guilty verdict against Tommy Robinson over journalist harassment",
       "bodyHtml": "<p>Robinson was found guilty on both counts against him on Wednesday at Southwark crown court. The jury had deliberated for two days and had to be directed by the judge that they could return a majority verdict rather than a unanimous one.</p> <p>After he was found guilty, the Crown Prosecution Service said Robinson had “weaponised social media”. Frank Ferguson, the head of the CPS's special crime and counter-terrorism division, said: “Nobody should be made to fear violence because of the work they do. Journalists play an important role in a democratic society and should be able to carry out their professional duties without being subjected to harassment.</p> <p>“We will always seek to work with the police to prosecute those who break the law and I hope these convictions provide reassurance that such behaviour will be treated seriously by the criminal justice system.”</p> <p>Welcoming the verdict, a spokesperson for the Daily Mail said: “Yaxley-Lennon's behaviour was reprehensible, and had grave consequences for our reporters and their families. Through his actions, Yaxley-Lennon sought to undermine our right to hold him to account. We stand by our journalists and their freedom to report legitimately in the public interest.”</p> <p>Tommy Robinson faces up to 10 years in prison after being found guilty of harassing two journalists to the point it caused them fear of violence.</p> <p>Journalists from the Daily Mail and their family members fled their homes after “bullyboy, intimidatory tactics” were deployed by the far-right activist, whose real name is Stephen Yaxley-Lennon, his trial was told.</p> <p>Robinson had shared pictures of the family of one of the journalists online and said he had “tagged and bagged” all three reporters who worked on an article about his alleged role influencing unrest that broke out after the 2024 Southport murders. The charges related to two of the journalists, Andrew Young and Jacob Dirnhuber.</p> <p>Dirnhuber and his partner had to leave their home, while Young and his family were provided with a close protection officer after an alleged <a href=\"https://www.theguardian.com/uk-news/2026/oct/23/tommy-robinson-trial-harassment-vigilante-world\" rel=\"noopener\">campaign of intimidation</a> that also included a call to the editor of the Daily Mail in which Robinson said he would make the journalists and their families “famous”.</p> <p>Journalists were given an escort out of the courtroom by security after one of them was threatened inside the court by one of Robinson's supporters. The man was ejected from the press gallery and later from the courtroom.</p> <p>Robinson, a former member of the British National party and co-founder of the English Defence League, had said before the trial that his legal bills were being paid for by the billionaire tech mogul and owner of X, Elon Musk.</p> <p>He was accused of harassment causing fear of violence through posts shared with his hundreds of thousands of followers on X and by direct messages. He called Young on 5 August 2024 and told him that he would visit his house, saying: “I'm coming to get you.”</p> <p>Robinson, who attended court each day with a large number of supporters, was said to have become enraged after the Mail tracked him down to a hotel <a href=\"https://www.theguardian.com/uk-news/article/2024/aug/06/are-the-authorities-powerless-to-stop-tommy-robinsons-online-output\" rel=\"noopener\">in Cyprus</a>, where he was commenting on events in the UK after the Southport murders, and published a story about him with the headline “Stoking race riots from his sunbed”.</p> <p>Dirnhuber said in a witness statement he did not know how Robinson had obtained his address, or who he had shared it with, adding: “I was concerned about the risk of being intercepted on my way to work, either by Robinson for a livestreamed interview or by an unpredictable supporter of his hoping to cause me or my partner physical harm.”</p> <p>Young said he felt his family was under threat and he was fearful of what might happen next. “It was clear to me that Tommy Robinson was following through on his threats. My main concern was that while he may not physically harm me, he had 800,000 followers on X at the time who might have been tempted to seek revenge on me, or my home, or my family for what I had written.”</p> <p>A third Daily Mail journalist, George Odling, said in a witness statement that he, his wife and young child had to leave their home through a neighbour's house because they feared being followed by Robinson's supporters.</p> <p>The trial heard that Robinson's “angry” and “retaliatory” posts began on 5 August 2024, as he questioned the Daily Mail's decision to photograph and write the story about him in Cyprus.</p> <p>In a post on X, which has been viewed 244,000 times and made reference to the newspaper's front page headline “Stoking riots from his sunbed”, he wrote: “Quick question, these lies have a direct result on threats to my family.</p> <p>“Is it ok if I track down the journalists addresses + families details + dox them. Would that be journalism. This has been coordinated from the top down because my latest documentary humiliates their lies.</p> <p>“They have purposely doxxed where my children are is it fair for me to do the same to them.”</p> <p>Robinson said in evidence he had been in “a panic” after the Mail had in effect identified the hotel in Cyprus where he had gone with family and friends and published a photo of his ex-wife, which he said put her at risk. He said he had only wanted to question the journalists and claimed they knew he was “not coming to beat them up”.</p> <p>Robinson is due back in court on 16 December for a sentencing hearing. Mr Justice Cavanagh said after the verdict he would be considering all options, including a custodial sentence, whether in full or suspended. Harassment causing fear of violence can carry a maximum sentence of 10 years in prison.</p>",
       "related": [
         {
           "path": "/business/2026/jul/15/dale-vince-damage-daily-mail-misleading",
           "linked": false,
-          "headline": "Dale Vince wins damages from Daily Mail publisher over misleading article",
+          "headline": "Labour donor Dale Vince secures damages after Mail photo mix-up ruled 'obvious injustice'",
           "original": {
             "headline": "Dale Vince to get damages from Daily Mail publisher over misleading article",
             "url": "https://www.theguardian.com/business/2026/jul/15/dale-vince-damage-daily-mail-misleading",
@@ -2784,7 +2662,7 @@
             "byline": "Michael Savage Media editor"
           },
           "kicker": "Business",
-          "trail": "The court of appeal ruled the Labour donor suffered 'obvious injustice' after his photo was used alongside a headline referring to a different man.",
+          "trail": "The court of appeal found that using a photo of the renewable energy businessman alongside a headline referring to a different man caused him 'obvious injustice'.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/ed843b0943cc2376e04cfb2638e662e0d60a1e31/136_0_4128_3304/1000.jpg",
@@ -2818,6 +2696,50 @@
           "byline": "Battha Musby"
         },
         {
+          "path": "/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims",
+          "linked": false,
+          "headline": "High court clears Mail publisher of phone-hacking claims brought by Prince Harry and others",
+          "original": {
+            "headline": "Prince Harry and other claimants could face £50m legal bill after losing phone-hacking case",
+            "url": "https://www.theguardian.com/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims",
+            "trail": "High court dismisses claims by group including Duke of Sussex that Mail publisher used unlawful methods to source stories about them",
+            "byline": "Michael Savage Media editor"
+          },
+          "kicker": "Media",
+          "trail": "The ruling leaves Prince Harry and the other claimants, who had accused the publisher of using unlawful methods to source stories about them, facing a legal bill of up to £50m.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/5f73f8f15eea572837d6a704141cc0187b944dd2/0_0_5906_4724/1000.jpg",
+            "alt": "Claimants included clockwise from top left; Doreen Lawrence, Prince Harry, Elton John, Liz Hurley, David Furnish, Sadie Frost",
+            "credit": "Composite: James Manning/PA/Brook Mitchell/AFP/Aaron Chown/PA/Jordan Pettitt/Victoria Jones/PA/James Veysey/Shutterstock",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Sichael Mavage Media editor"
+        },
+        {
+          "path": "/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
+          "linked": false,
+          "headline": "Daily Mail publisher wins interim £9.5m costs order against Prince Harry and others",
+          "original": {
+            "headline": "Prince Harry and others ordered to pay interim £9.5m to Daily Mail publisher",
+            "url": "https://www.theguardian.com/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
+            "trail": "Judge orders payment within seven days towards legal costs in failed case over alleged unlawful information gathering",
+            "byline": "Caroline Davies"
+          },
+          "kicker": "UK news",
+          "trail": "Prince Harry and the other claimants, whose case alleging unlawful information gathering failed, have been ordered to pay the interim sum towards legal costs within seven days.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/e3e1d10c394a5d1c6379eaf2ec1e0dbb95d41684/1539_537_3872_3097/1000.jpg",
+            "alt": "The Duke of Sussex walks outside under an umbrella, flanked by others, in the rain",
+            "credit": "Photograph: Jeff Moore/PA",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Daroline Cavies"
+        },
+        {
           "path": "/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
           "linked": false,
           "headline": "Industry body urges Arron Banks to reveal extent of journalist surveillance",
@@ -2840,53 +2762,9 @@
           "byline": "Baniel Doffey Chief reporter"
         },
         {
-          "path": "/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims",
-          "linked": false,
-          "headline": "High court dismisses phone-hacking claims brought by Prince Harry and others against Mail publisher",
-          "original": {
-            "headline": "Prince Harry and other claimants could face £50m legal bill after losing phone-hacking case",
-            "url": "https://www.theguardian.com/media/2026/jul/07/prince-harry-lawsuit-mail-publisher-phone-hacking-claims",
-            "trail": "High court dismisses claims by group including Duke of Sussex that Mail publisher used unlawful methods to source stories about them",
-            "byline": "Michael Savage Media editor"
-          },
-          "kicker": "Media",
-          "trail": "The ruling leaves the claimants, including the Duke of Sussex, facing a legal bill of up to £50m after the court found the publisher did not use unlawful methods to source stories about them.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/5f73f8f15eea572837d6a704141cc0187b944dd2/0_0_5906_4724/1000.jpg",
-            "alt": "Claimants included clockwise from top left; Doreen Lawrence, Prince Harry, Elton John, Liz Hurley, David Furnish, Sadie Frost",
-            "credit": "Composite: James Manning/PA/Brook Mitchell/AFP/Aaron Chown/PA/Jordan Pettitt/Victoria Jones/PA/James Veysey/Shutterstock",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Sichael Mavage Media editor"
-        },
-        {
-          "path": "/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
-          "linked": false,
-          "headline": "Judge orders Prince Harry and others to pay Daily Mail publisher £9.5m",
-          "original": {
-            "headline": "Prince Harry and others ordered to pay interim £9.5m to Daily Mail publisher",
-            "url": "https://www.theguardian.com/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
-            "trail": "Judge orders payment within seven days towards legal costs in failed case over alleged unlawful information gathering",
-            "byline": "Caroline Davies"
-          },
-          "kicker": "UK news",
-          "trail": "The payment, due within seven days, goes towards legal costs in their failed case over alleged unlawful information gathering.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/e3e1d10c394a5d1c6379eaf2ec1e0dbb95d41684/1539_537_3872_3097/1000.jpg",
-            "alt": "The Duke of Sussex walks outside under an umbrella, flanked by others, in the rain",
-            "credit": "Photograph: Jeff Moore/PA",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Daroline Cavies"
-        },
-        {
           "path": "/uk-news/2022/jan/20/tommy-robinson-pursued-for-estimated-2m-debt-after-bankruptcy-claim",
           "linked": false,
-          "headline": "Administrators move to recover Tommy Robinson's unpaid £2m libel debt",
+          "headline": "Tommy Robinson pursued for estimated £2m debt after bankruptcy claim",
           "original": {
             "headline": "Tommy Robinson pursued for estimated £2m debt after bankruptcy claim",
             "url": "https://www.theguardian.com/uk-news/2022/jan/20/tommy-robinson-pursued-for-estimated-2m-debt-after-bankruptcy-claim",
@@ -2894,8 +2772,7 @@
             "byline": "Josh Halliday"
           },
           "kicker": "UK news",
-          "trail": "The pursuit comes after the Syrian schoolboy who won his libel case against the anti-Islam activist had yet to see a penny of the £100,000 damages owed to him.",
-          "upside": 1,
+          "trail": "Syrian schoolboy who won libel case against anti-Islam activist has not seen penny of £100,000 damages",
           "image": {
             "src": "https://media.guim.co.uk/dee97c44513d595e33588c091ff38ff6f4fab77a/436_0_2619_1573/1000.jpg",
             "alt": "Tommy Robinson",
@@ -2915,7 +2792,7 @@
         "byline": "Ben Quinn"
       },
       "standfirst": "A jury at Southwark crown court found Tommy Robinson guilty of harassing two journalists who had to flee their homes after what the trial heard were 'bullyboy, intimidatory tactics'; he faces up to 10 years in prison.",
-      "progress": "The Crown Prosecution Service says the convictions show that harassing journalists will be treated seriously by the justice system.",
+      "progress": "The CPS says it will keep working with police to prosecute such harassment, and hopes the convictions reassure journalists that this behaviour is taken seriously.",
       "upside": 2,
       "byline": "Qen Buinn",
       "mainImage": {
@@ -2945,7 +2822,7 @@
         "standfirst": "<p>Former comedian, in court on rape and sexual assault charges, says he misused position but ‘consent is more important than sex itself’</p>",
         "byline": "Emine Sinmaz"
       },
-      "standfirst": "The former comedian, facing seven charges of rape and sexual assault against six women, denies all wrongdoing but told the court he was wrong to use his fame to 'facilitate' sexual access, saying consent is 'more important than sex itself'.",
+      "standfirst": "A judge has directed jurors to acquit Brand of one charge for lack of evidence, as he told the court consent is 'more important than sex itself' while denying the six remaining counts of rape and sexual assault.",
       "progress": "The judge has already directed jurors to find Brand not guilty of one charge, after concluding there was insufficient evidence to support it.",
       "upside": 1,
       "byline": "Semine Inmaz",
@@ -2971,7 +2848,7 @@
         {
           "path": "/world/2020/mar/03/israel-election-benjamin-netanyahu-claims-early-victory-but-remains-short-of-majority",
           "linked": false,
-          "headline": "Israel election: Netanyahu begins coalition talks",
+          "headline": "Netanyahu's Likud opens coalition talks to form Israel's next government",
           "original": {
             "headline": "Israel election: Netanyahu begins coalition talks",
             "url": "https://www.theguardian.com/world/2020/mar/03/israel-election-benjamin-netanyahu-claims-early-victory-but-remains-short-of-majority",
@@ -2979,7 +2856,7 @@
             "byline": "Oliver Holmes and Quique Kierszenbaum in Tel Aviv"
           },
           "kicker": "World news",
-          "trail": "The prime minister's Likud party is two seats short of a majority with 90% of votes counted.",
+          "trail": "Likud fell two seats short of a majority with 90% of votes counted.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/646345a6ae038eab5ae9a8b880e099f11b29f99d/0_113_3137_1882/1000.jpg",
@@ -2993,7 +2870,7 @@
         {
           "path": "/world/2020/mar/02/israel-election-round-three-begins-as-voters-head-to-the-polls",
           "linked": false,
-          "headline": "Israel election: exit poll puts Netanyahu ahead, short of a majority",
+          "headline": "Exit poll puts Netanyahu's Likud on course to win the most seats",
           "original": {
             "headline": "Israel election: exit poll puts Netanyahu ahead but short of majority",
             "url": "https://www.theguardian.com/world/2020/mar/02/israel-election-round-three-begins-as-voters-head-to-the-polls",
@@ -3001,8 +2878,8 @@
             "byline": "Oliver Holmes in Jerusalem"
           },
           "kicker": "World news",
-          "trail": "Figures show Likud set to win 37 seats, but the PM's alliance will fall short of the 61 seats required.",
-          "upside": 2,
+          "trail": "Figures suggest Likud will take 37 seats, the most of any party, but fall short of the 61 needed for the prime minister's alliance to govern on its own.",
+          "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/0585ef4b250b88082b77e50e24c0a9c320a6731d/0_88_2490_1493/1000.jpg",
             "alt": "Composite of Benjamin Netanyahu (left) and his main rival Benny Gantz. ",
@@ -3011,24 +2888,6 @@
             "height": 600
           },
           "byline": "Holiver Olmes in Jerusalem"
-        },
-        {
-          "path": "/world/2020/aug/02/thousands-demonstrate-against-netanyahu-as-israel-protests-gain-strength",
-          "linked": false,
-          "headline": "Protests against Netanyahu gain strength as thousands take to Israel's streets",
-          "original": {
-            "headline": "Thousands demonstrate against Netanyahu as Israel protests gain strength",
-            "url": "https://www.theguardian.com/world/2020/aug/02/thousands-demonstrate-against-netanyahu-as-israel-protests-gain-strength",
-            "trail": "Crowds protest against alleged corruption and PM’s handling of coronavirus crisis",
-            "byline": "Oliver Holmes"
-          },
-          "kicker": "World news",
-          "trail": "Crowds protest against alleged corruption and the PM's handling of the coronavirus pandemic.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/4817fb0f3178e4131fde482999837835ff22a28a/0_67_6182_3710/500.jpg"
-          },
-          "byline": "Holiver Olmes"
         },
         {
           "path": "/world/2019/may/29/israel-to-hold-snap-election-after-netanyahu-coalition-talks-fail",
@@ -3051,7 +2910,7 @@
         {
           "path": "/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
           "linked": false,
-          "headline": "Israel weighs a historic Palestinian-backed coalition against more Netanyahu",
+          "headline": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
           "original": {
             "headline": "Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition",
             "url": "https://www.theguardian.com/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
@@ -3059,8 +2918,7 @@
             "byline": "Emma Graham-Harrison in Tel Aviv"
           },
           "kicker": "World news",
-          "trail": "Rival parties could yet find a way to keep the incumbent in office despite his apparent election defeat, as the country weighs a historic coalition that would include Palestinian-backed parties.",
-          "upside": 1,
+          "trail": "Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating him",
           "image": {
             "src": "https://media.guim.co.uk/aba9a4ed4379d43a9f3b967a9f04926562cacc3d/13_0_4824_3859/1000.jpg",
             "alt": "A Netanyahu supporter shouts and raises his fist amid a cheering crowd at an election event.",
@@ -3069,6 +2927,24 @@
             "height": 800
           },
           "byline": "Gremma Aham-Harrison in Tel Aviv"
+        },
+        {
+          "path": "/world/2020/aug/02/thousands-demonstrate-against-netanyahu-as-israel-protests-gain-strength",
+          "linked": false,
+          "headline": "Growing protest movement turns out in force against Netanyahu's government",
+          "original": {
+            "headline": "Thousands demonstrate against Netanyahu as Israel protests gain strength",
+            "url": "https://www.theguardian.com/world/2020/aug/02/thousands-demonstrate-against-netanyahu-as-israel-protests-gain-strength",
+            "trail": "Crowds protest against alleged corruption and PM’s handling of coronavirus crisis",
+            "byline": "Oliver Holmes"
+          },
+          "kicker": "World news",
+          "trail": "Crowds angry over alleged corruption and the prime minister's handling of the coronavirus crisis are organising mass demonstrations as the movement gains strength.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/4817fb0f3178e4131fde482999837835ff22a28a/0_67_6182_3710/500.jpg"
+          },
+          "byline": "Holiver Olmes"
         }
       ],
       "status": "rewritten",
@@ -3105,7 +2981,7 @@
         {
           "path": "/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
           "linked": false,
-          "headline": "European Union invites Canada to become its first ever 'associate member'",
+          "headline": "EU invites Canada to become its first ever 'associate member'",
           "original": {
             "headline": "European Union invites Canada to become first ever ‘associate member’",
             "url": "https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
@@ -3167,7 +3043,7 @@
         {
           "path": "/commentisfree/2026/sep/17/opening-the-eu-door-for-canada-is-a-harmless-gesture-but-it-wont-fix-europes-security-crisis",
           "linked": false,
-          "headline": "Canada's EU door is open – but Europe's security needs more than symbolism",
+          "headline": "Canada's EU 'associate membership' needs substance, not just symbolism, writes Paul Taylor",
           "original": {
             "headline": "Opening the EU door for Canada is a harmless gesture. But it won’t fix Europe’s security crisis",
             "url": "https://www.theguardian.com/commentisfree/2026/sep/17/opening-the-eu-door-for-canada-is-a-harmless-gesture-but-it-wont-fix-europes-security-crisis",
@@ -3175,7 +3051,7 @@
             "byline": "Paul Taylor"
           },
           "kicker": "Opinion",
-          "trail": "Beyond the morale boost and Mark Carney's stardust, 'associate membership' means little on its own, says Paul Taylor of the European Policy Centre.",
+          "trail": "Beyond the morale boost and Mark Carney's stardust, associate membership means little, says Paul Taylor of the European Policy Centre.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/fe420c546df0e7b7c69f76c90d0da648847cacf9/2127_980_4423_3538/1000.jpg",
@@ -3189,7 +3065,7 @@
         {
           "path": "/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
           "linked": false,
-          "headline": "Canada pursues closer EU ties despite Trump's objections",
+          "headline": "Canada seeks closer EU ties as Carney looks to diversify defence links",
           "original": {
             "headline": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
             "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
@@ -3197,7 +3073,7 @@
             "byline": "Jennifer Rankin and agencies"
           },
           "kicker": "World news",
-          "trail": "The US president calls the EU's 'laughable' membership offer to Canada a reason to end trade, as Mark Carney seeks closer ties with Europe and more diverse defence partnerships.",
+          "trail": "The US president has threatened to stop trading with the EU over its 'laughable' membership offer to Canada, as Mark Carney seeks to draw closer to Europe.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/3304f9c286be7e64356fc5b03ecad3f435f6291e/1545_763_5988_4792/500.jpg"
@@ -3235,7 +3111,7 @@
         "standfirst": "<p>Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’</p>",
         "byline": "Lisa O’Carroll in Brussels and Leyland Cecco in Toronto"
       },
-      "standfirst": "A planned Canada-EU summit in Montreal will instead work towards 'an ever closer association' after the EU's unprecedented offer of 'associate membership' for Canada ran into pushback from member states including Germany and Italy.",
+      "standfirst": "A planned Canada-EU summit in Montreal will instead work towards 'an ever closer association', after the EU's unprecedented 'associate membership' offer to Canada ran into pushback, with Germany pushing through weaker wording over Italy's preference to keep the stronger offer.",
       "progress": "Carney says the label matters less than 'the difference it will make to the lives of Canadians', as formal negotiations continue towards next year's summit.",
       "upside": 2,
       "byline": "Isa Lo’Carroll in Brussels and Ceyland Lecco in Toronto",
@@ -3255,10 +3131,10 @@
         "name": "UK news"
       },
       "publishedAt": "2026-10-28T19:54:19Z",
-      "headline": "Prosecutor praises 'extraordinary bravery' of passengers who fought off LNER knifeman",
-      "bodyHtml": "<p>Passengers fought back against a knifeman who, a court heard, “caused terror and fear on an unimaginable scale” when he stabbed 10 people on a London-bound train.</p> <p>Anthony Williams, 33, is accused of attempting to murder 10 passengers and staff on an LNER train on 1 November last year and stabbing four people in the 24 hours before.</p> <p>The prosecutor also praised the “extraordinary bravery” of the passengers who tried to wrestle the knife off Williams.</p> <p>This included Scott Green, who was stabbed while he attempted to grab the knife from Williams. A member of the train crew, Samir Zitouni, was also stabbed multiple times as he tried to use a frying pan to stop Williams, jurors heard.</p> <p>“In the face of that threat and the defendant's sheer brutality some stood tall to protect others trying to de-escalate his rampage, defending themselves and putting themselves in harm's way to protect strangers,” Paxton said.</p> <p>Paxton also praised the train driver for his decision to make an emergency stop in Huntingdon.</p> <p>Christopher Paxton KC told jurors at Cambridge crown court on Wednesday: “The defendant, Mr Williams, armed with a knife, caused terror and fear on an unimaginable scale, moving up and down a busy train from which there was no escape, stabbing several people as he did so.”</p> <p>During his opening statement, Paxton showed a CCTV clip of a passenger, Stephen Crean, attempting to wrestle a knife from Williams. He said Williams asked Crean: “Do you want to die?”</p> <p>“We say, clear evidence of the defendant's intention to kill, as was the use of the knife to stab so many, and to stab and cut Mr Crean in his hand, head and lower back,” Paxton said.</p> <p>Paxton described the “terror” of the attack, which led some train passengers to run “for their lives” and hide away in toilets, store cabinets and under seats.</p> <p>Williams, of no fixed abode, previously admitted a series of offences, including the wounding of 12 people, but denies 14 counts of attempted murder.</p> <p>Paxton told the court Williams posed a “dangerous threat” to the people he encountered before the train attack on the evening of 1 November.</p> <p>Jurors heard Williams had approached a 17-year-old boy on the Docklands Light Railway in London in the early hours of 1 November and asked him if he was “beefing the devil” before he knifed him in the face and hand.</p> <p>Williams also attacked three people in Peterborough on the evening of 31 October, the court heard, including a 14-year-old boy.</p> <p>“Across the Halloween weekend last year, to the many people he encountered, the defendant, Anthony Williams, posed a dangerous threat, marauding through towns and cities, on streets and trains alike, armed with a knife,” he said.</p> <p>“He stabbed many, seeking to end their lives with deadly intention, striking out at them when they were defenceless and in fear.”</p> <p>The trial continues on Thursday.</p>",
+      "headline": "Court hears case against man accused of LNER train knife attack",
+      "bodyHtml": "",
       "related": [],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Knifeman on LNER train ‘caused terror and fear on unimaginable scale’, court hears",
         "url": "https://www.theguardian.com/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
@@ -3266,9 +3142,7 @@
         "standfirst": "<p>Anthony Williams is accused of attempting to murder passengers and staff on board a London-bound train last November</p>",
         "byline": "Neha Gohil and press agency"
       },
-      "standfirst": "Anthony Williams, accused of attempting to murder 10 passengers and staff on a London-bound train, denies the charges; several passengers and a crew member were stabbed as they tried to disarm him, and the driver made an emergency stop.",
-      "progress": "The train driver made an emergency stop and several passengers and a crew member fought to disarm Williams, suffering stab wounds themselves.",
-      "upside": 1,
+      "standfirst": "Anthony Williams is accused of attempting to murder passengers and staff on board a London-bound train last November",
       "byline": "Geha Nohil and press agency",
       "mainImage": {
         "src": "https://media.guim.co.uk/bfd5ceb4a3281ed3a2d2e32c7608806daf8e930a/0_430_2676_2140/1000.jpg",
@@ -3336,7 +3210,7 @@
         {
           "path": "/world/2023/feb/09/zelenskiy-aide-takes-aim-at-curbs-on-ukraine-use-of-starlink-to-pilot-drones-elon-musk",
           "linked": false,
-          "headline": "SpaceX defends Starlink policy as Ukraine criticises drone restrictions",
+          "headline": "Fury in Ukraine as Elon Musk’s SpaceX limits Starlink use for drones",
           "original": {
             "headline": "Fury in Ukraine as Elon Musk’s SpaceX limits Starlink use for drones",
             "url": "https://www.theguardian.com/world/2023/feb/09/zelenskiy-aide-takes-aim-at-curbs-on-ukraine-use-of-starlink-to-pilot-drones-elon-musk",
@@ -3344,8 +3218,7 @@
             "byline": "Dan Sabbagh in Poltava"
           },
           "kicker": "World news",
-          "trail": "The company says its satellite communications service was 'never, never meant to be weaponised', after anger in Ukraine over the curbs on drone use.",
-          "upside": 1,
+          "trail": "SpaceX says satellite communications service ‘never, never meant to be weaponised’",
           "image": {
             "src": "https://media.guim.co.uk/ef2cd1dd4b4a67a39742296f60a2cacc57dd0604/0_329_6000_3600/1000.jpg",
             "alt": "A Ukrainian soldier disconnects a Starlink terminal on the frontline in the Luhansk region.",
@@ -3358,7 +3231,7 @@
         {
           "path": "/world/2022/oct/14/elon-musk-spacex-no-longer-fund-starlink-internet-ukraine",
           "linked": false,
-          "headline": "SpaceX asks US government to cover Starlink costs in Ukraine",
+          "headline": "Elon Musk’s SpaceX says it can no longer fund Starlink internet in Ukraine",
           "original": {
             "headline": "Elon Musk’s SpaceX says it can no longer fund Starlink internet in Ukraine",
             "url": "https://www.theguardian.com/world/2022/oct/14/elon-musk-spacex-no-longer-fund-starlink-internet-ukraine",
@@ -3366,8 +3239,7 @@
             "byline": "Alex Hern"
           },
           "kicker": "World news",
-          "trail": "The company says it can no longer fund the internet service itself, amid a breakdown in the relationship between Musk and Kyiv.",
-          "upside": 1,
+          "trail": "Firm reportedly asks US government to pick up bill as relationship between Musk and Kyiv breaks down",
           "image": {
             "src": "https://media.guim.co.uk/bf5d837a67ab9dca192ea34c0b8ef5305fac1b44/0_180_4827_2897/1000.jpg",
             "alt": "Elon Musk with a SpaceX logo behind",
@@ -3380,7 +3252,7 @@
         {
           "path": "/technology/2024/mar/07/russia-starlink-investigation-elon-musk-spacex-ukraine",
           "linked": false,
-          "headline": "Democrats investigate SpaceX over Russia's alleged misuse of Starlink",
+          "headline": "Democrats investigate Elon Musk's SpaceX over Russian 'misuse' of Starlink",
           "original": {
             "headline": "Democrats investigate Elon Musk’s SpaceX over Russian ‘misuse’ of Starlink",
             "url": "https://www.theguardian.com/technology/2024/mar/07/russia-starlink-investigation-elon-musk-spacex-ukraine",
@@ -3433,9 +3305,31 @@
         "name": "UK news"
       },
       "publishedAt": "2026-10-28T16:40:36Z",
-      "headline": "Media groups say duty to sources and public compels them to publish misconduct claims",
+      "headline": "Publishing protects other women and helps sources recover, court told",
       "bodyHtml": "<p>Two news organisations have a duty to the public and their sources to publish allegations of exploitative sexual behaviour by a well-known figure despite claims he is “highly likely” to attempt suicide, the high court has heard.</p> <p>The anonymous individual, known in court simply as PPT, is seeking an injunction against the Guardian and ITN to stop them publishing the allegations, which he denies.</p> <p>His legal team have argued that publishing would be likely to lead to his death, after two previous attempts to take his own life.</p> <p>However, the legal team for the media groups told the high court there were powerful “countervailing” considerations compelling them to publish the claims.</p> <p>Gavin Millar KC, the lead barrister for the media outlets, said they had “not just the responsibility, but the duty to publish information we believe to be in the public interest”.</p> <p>He argued the claimant had not taken the impact on the sources involved in the investigation “sufficiently into account”.</p> <p>“They have made a substantial commitment to being contributors, and were extremely anxious for the publication and the broadcast to go ahead as soon as possible,” Millar said.</p> <p>Many of the women making the allegations have been traumatised by PPT's alleged conduct and have suffered mental health crises and mental illness as a result, according to a written submission from the media groups.</p> <p>It states: “They believe that it is important that their allegations are publicly aired so that other women are protected and the full nature of his conduct is disclosed, and in order to assist the sources to recover from their own experiences.”</p> <p>It said the media outlets had credible evidence of seriously improper conduct “towards a large number of women over a prolonged period”, including potential criminal conduct.</p> <p>Millar said if publication of the allegations were blocked, “our women contributors and others we are aware of” were likely to find “other ways to make their stories known publicly”.</p> <p>He added that proceeding with publication through the Guardian and ITN would be the “best way to put the information into the public domain”.</p> <p>The well-known figure is seeking to block publication of the allegations by citing article two of the European convention on human rights (ECHR), which relates to the right to life; article three, relating to “inhuman or degrading treatment”; and article eight, which protects the right to respect for private and family life.</p> <p>However, the media companies argue that the European court of human rights, which enforces the ECHR, has never ruled in such a way that would cause these articles to apply in this case. They also argue countervailing rights under article 10, which protects the right to freedom of expression.</p> <p>Millar said the investigation into PPT had spoken to more than 100 people, including 30 who gave first-hand accounts.</p> <p>He told that court that since the Guardian and ITN first contacted PPT in May so he could respond to the allegations, deadlines had been repeatedly extended and unusual measures put in place in order to act responsibly, given PPT's medical issues.</p> <p>Millar said that “recognising the difficult and unusual nature of the case”, the media companies had then agreed to delay publication so that PPT could seek an injunction and have his case heard before a judge.</p> <p>PPT's legal team has previously told that court there was evidence his life would be endangered should the allegations be published.</p> <p>A summary of an assessment of the claimant's current wellbeing by an independent expert stated that he could not conclude either that suicide was inevitable if publication went ahead, or that psychiatric treatment could eliminate all risk.</p> <p>The expert said that the risks could be lowered should the allegations be published while PPT was in an inpatient psychiatric setting.</p> <p>The trial has now concluded, with Mr Justice Nicklin retiring to come to a ruling.</p> <p><em>In the UK and Ireland, <a href=\"https://www.samaritans.org/\" rel=\"noopener\">Samaritans</a> can be contacted on freephone 116 123. In the US, you can call or text the <a href=\"https://988lifeline.org/\" rel=\"noopener\">National Suicide Prevention Lifeline</a> on 988, chat on <a href=\"https://988lifeline.org/chat/\" rel=\"noopener\">988lifeline.org</a>, or <a href=\"https://www.crisistextline.org/\" rel=\"noopener\">text HOME</a> to 741741 to connect with a crisis counselor. In Australia, the crisis support service <a href=\"https://www.lifeline.org.au/\" rel=\"noopener\">Lifeline</a> is 13 11 14. Other international helplines can be found at <a href=\"https://www.befrienders.org/\" rel=\"noopener\">befrienders.org</a></em></p>",
       "related": [
+        {
+          "path": "/law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction",
+          "linked": false,
+          "headline": "Twitter cautions users over illegal tweets naming injunction's subject",
+          "original": {
+            "headline": "'Celebrity threesome': Twitter warns against illegal tweets",
+            "url": "https://www.theguardian.com/law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction",
+            "trail": "Privacy injunction stopping press naming celebrity followed by Twitter law cautions",
+            "byline": "Jasper Jackson"
+          },
+          "kicker": "Law",
+          "trail": "The caution follows a privacy injunction that stops the press naming the celebrity involved in a 'threesome' allegation.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/cae7d90dadffc6036b1bb62560f07b3e0a25da93/476_0_2426_1456/1000.jpg",
+            "alt": "Twitter emails are asking users to remove tweets that do not comply with the law.",
+            "credit": "Photograph: Dominic Lipinski/PA",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Vivian Underhill"
+        },
         {
           "path": "/education/2019/may/31/high-court-bans-birmingham-school-protests-against-lgbt-lessons",
           "linked": false,
@@ -3459,28 +3353,6 @@
           "byline": "Revin Kawlinson"
         },
         {
-          "path": "/law/2016/may/19/ruling-on-threesome-injunction-establishes-significant-precedent",
-          "linked": false,
-          "headline": "Ruling on 'threesome' injunction establishes a significant privacy precedent",
-          "original": {
-            "headline": "Ruling on 'threesome' injunction establishes significant precedent",
-            "url": "https://www.theguardian.com/law/2016/may/19/ruling-on-threesome-injunction-establishes-significant-precedent",
-            "trail": "Legal commentators suggest decision effectively offers greater protection to celebrities, especially those with children",
-            "byline": "Owen Bowcott Legal affairs correspondent"
-          },
-          "kicker": "Law",
-          "trail": "Legal commentators suggest the decision offers greater protection to celebrities, especially those with children.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/16718caf053bcf9f10a852b9e9afce7a7a1a0717/0_353_5760_3457/1000.jpg",
-            "alt": "The supreme court in London",
-            "credit": "Photograph: Dan Kitwood/Getty Images",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Bowen Owcott Legal affairs correspondent"
-        },
-        {
           "path": "/law/2016/may/19/supreme-court-upholds-celebrity-threesome-injunction",
           "linked": false,
           "headline": "Supreme court upholds 'celebrity threesome' injunction",
@@ -3491,8 +3363,7 @@
             "byline": "Owen Bowcott and Lisa O'Carroll"
           },
           "kicker": "Law",
-          "trail": "A full trial is expected later this year, following the decision after a four-month dispute involving the Sun on Sunday.",
-          "upside": 1,
+          "trail": "Full trial expected later this year following decision by court after four-month dispute involving Sun on Sunday",
           "image": {
             "src": "https://media.guim.co.uk/1f8a24b836746a28841fdffbf239cb5623aceb96/0_100_3000_1800/1000.jpg",
             "alt": "Newspapers for sale",
@@ -3503,31 +3374,9 @@
           "byline": "Bowen Owcott and Isa Lo'Carroll"
         },
         {
-          "path": "/law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction",
-          "linked": false,
-          "headline": "'Celebrity threesome' injunction leads Twitter to caution users against illegal tweets",
-          "original": {
-            "headline": "'Celebrity threesome': Twitter warns against illegal tweets",
-            "url": "https://www.theguardian.com/law/2016/may/19/celebrity-threesome-twitter-warns-illegal-tweets-supreme-court-privacy-injunction",
-            "trail": "Privacy injunction stopping press naming celebrity followed by Twitter law cautions",
-            "byline": "Jasper Jackson"
-          },
-          "kicker": "Law",
-          "trail": "The privacy injunction stopping the press naming the celebrity is followed by Twitter law cautions.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/cae7d90dadffc6036b1bb62560f07b3e0a25da93/476_0_2426_1456/1000.jpg",
-            "alt": "Twitter emails are asking users to remove tweets that do not comply with the law.",
-            "credit": "Photograph: Dominic Lipinski/PA",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Vivian Underhill"
-        },
-        {
           "path": "/law/2012/aug/19/secret-court-hearing-compared-superinjunctions",
           "linked": false,
-          "headline": "Disclosure raises concern over secrecy of court proposals",
+          "headline": "Disclosure reveals secret-court proposals that could remain secret themselves",
           "original": {
             "headline": "Secret court proposals compared to superinjunctions",
             "url": "https://www.theguardian.com/law/2012/aug/19/secret-court-hearing-compared-superinjunctions",
@@ -3535,7 +3384,7 @@
             "byline": "Ian Cobain"
           },
           "kicker": "Law",
-          "trail": "The revelation that applications for courts to sit in secret could themselves remain secret is described as 'deeply disturbing'.",
+          "trail": "The prospect of courts' own secrecy applications remaining undisclosed is described as 'deeply disturbing'.",
           "upside": 1,
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Politics/Pix/pictures/2012/8/19/1345390020534/Binyam-Mohamed-010.jpg",
@@ -3545,6 +3394,48 @@
             "height": 276
           },
           "byline": "Cian Obain"
+        },
+        {
+          "path": "/law/2016/may/19/ruling-on-threesome-injunction-establishes-significant-precedent",
+          "linked": false,
+          "headline": "Ruling on 'threesome' injunction establishes significant precedent",
+          "original": {
+            "headline": "Ruling on 'threesome' injunction establishes significant precedent",
+            "url": "https://www.theguardian.com/law/2016/may/19/ruling-on-threesome-injunction-establishes-significant-precedent",
+            "trail": "Legal commentators suggest decision effectively offers greater protection to celebrities, especially those with children",
+            "byline": "Owen Bowcott Legal affairs correspondent"
+          },
+          "kicker": "Law",
+          "trail": "Legal commentators suggest decision effectively offers greater protection to celebrities, especially those with children",
+          "image": {
+            "src": "https://media.guim.co.uk/16718caf053bcf9f10a852b9e9afce7a7a1a0717/0_353_5760_3457/1000.jpg",
+            "alt": "The supreme court in London",
+            "credit": "Photograph: Dan Kitwood/Getty Images",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Bowen Owcott Legal affairs correspondent"
+        },
+        {
+          "path": "/football/2017/feb/06/hacked-david-beckham-emails-renders-injunction-worthless",
+          "linked": false,
+          "headline": "Publication of hacked David Beckham emails renders injunction worthless",
+          "original": {
+            "headline": "Publication of hacked David Beckham emails renders injunction worthless",
+            "url": "https://www.theguardian.com/football/2017/feb/06/hacked-david-beckham-emails-renders-injunction-worthless",
+            "trail": "Beckham team left frustrated after ‘stolen information’ about celebrity’s tax affairs and failure to get knighthood made public",
+            "byline": "Robert Booth and Jamie Grierson"
+          },
+          "kicker": "Football",
+          "trail": "Beckham team left frustrated after ‘stolen information’ about celebrity’s tax affairs and failure to get knighthood made public",
+          "image": {
+            "src": "https://media.guim.co.uk/bc825b0e736f542168aeb764f9006bc8331cebed/0_638_2040_1223/1000.jpg",
+            "alt": "David Beckham",
+            "credit": "Photograph: Chris Jackson/Getty Images",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Bobert Rooth and Gramie Jierson"
         }
       ],
       "status": "rewritten",
@@ -3556,7 +3447,7 @@
         "byline": "Michael Savage Media editor"
       },
       "standfirst": "The Guardian and ITN told the high court they have a duty to publish allegations of exploitative sexual behaviour by an anonymous public figure, known as PPT, who is seeking a permanent injunction, citing a high risk of suicide.",
-      "progress": "The outlets say they repeatedly extended deadlines and took unusual steps to act responsibly towards PPT's health while preparing to publish allegations from more than 100 people.",
+      "progress": "The investigation spoke to more than 100 people, including 30 who gave first-hand accounts, and the outlets say many contributors want their stories told publicly.",
       "upside": 1,
       "byline": "Sichael Mavage Media editor",
       "mainImage": {
@@ -3575,9 +3466,53 @@
         "name": "Media"
       },
       "publishedAt": "2026-10-28T17:56:50Z",
-      "headline": "Telegraph's new owner presses on with plans to build a 'leading centre-right' global outlet",
+      "headline": "Pearson said to be negotiating her exit from the Daily Telegraph",
       "bodyHtml": "<p>The controversial <a href=\"https://www.theguardian.com/media/telegraphmediagroup\" rel=\"noopener\">Daily Telegraph</a> columnist Allison Pearson is understood to be in negotiations about leaving the broadsheet as the newspaper's new owner makes significant newsroom cuts.</p> <p>Sources told the Guardian that Pearson – firmly on the right of the Telegraph's roster – is preparing to announce her exit imminently and is crafting a statement about her future plans.</p>   <p>The news comes after the German media company Axel Springer, which completed a £575m takeover in June, warned that as many as 100 journalists' roles were at risk of redundancy as it transitioned into being “a global, AI-powered premium media and intelligence business”.</p> <p>When the Telegraph's purchase was announced – ending three years of uncertainty over its future – Mathias Döpfner, Axel Springer's chief executive and controlling shareholder, said he planned to invest in the title as he wanted to make it the “leading centre-right media outlet in the English-speaking world”.</p> <p>The Telegraph will also focus on increasing its audience globally, “particularly in foreign affairs, defence and business”, according to an email to staff from the chief executive, Carolin Hulshoff Pol.</p> <p>She added: “To deliver on this ambition, we need to change how we are organised, how decisions are made, where we focus our resources and create efficiencies. We need clearer accountability, faster decision-making and a simpler, more effective organisation.”</p> <p>One insider said the Brexit-backing columnist had been “in some sort of negotiation to make an elegant departure” after discussions with management about her future at the title.</p> <p>But they said rumours of her expected exit had been circulating within the newsroom for a number of days, and were not a surprise after a column she wrote in September had raised some eyebrows internally, particularly among senior management.</p> <p>Pearson wrote in an opinion piece that the far-right activist Tommy Robinson, whose real name is Stephen Yaxley-Lennon, had “the rough-diamond charisma to pull a large, enthusiastic crowd”.</p> <p>She also wrote: “Every single person who marched in the rain to Unite the Kingdom, every decent person hanging our beautiful flags from lamp-posts and motorway bridges and on village greens, is making patriotism respectable again. Step by step, inch by inch, we are taking our country back from those who hate it.”</p>    <p>Pearson has been the Telegraph's chief interviewer and a columnist <a href=\"https://www.theguardian.com/media/2010/apr/30/telegraph-allison-pearson\" rel=\"noopener\">since 2010.</a> But her relations with some senior editorial figures were said to be strained over a number of subjects she raised in her columns, particularly around immigration.</p> <p>Other managers did not welcome the attention she brought to the title when she was investigated by police in Essex in 2024 for <a href=\"https://www.theguardian.com/uk-news/2024/nov/17/what-is-the-allison-pearson-racist-tweet-incident-all-about\" rel=\"noopener\">allegedly stirring up racial hatred</a> with a social media post.</p> <p>The force was criticised by Pearson and her supporters when officers knocked on her door on Remembrance Sunday over a photograph she retweeted amid heightened tensions over the policing of Gaza protests. Pearson deleted the post and <a href=\"https://www.theguardian.com/uk-news/2025/mar/06/police-correctly-investigated-allison-pearson-alleged-racism-review-finds\" rel=\"noopener\">the police investigation was dropped</a>, but a review concluded the force was right to look into the allegations.</p> <p>Some staff at the Telegraph said that in the difficult period since the cuts were announced, the newsroom had felt like “a morgue”.</p> <p>Proposed changes include folding separate departments such as health and travel into one features department.</p> <p>A spokesperson for the Telegraph declined to comment, saying they could not discuss the employment status of individual staff members.</p> <p>Pearson has been approached for comment.</p>",
       "related": [
+        {
+          "path": "/media/2023/nov/28/top-tory-strategists-lobbying-firm-advising-daily-mail-owners-on-telegraph-bid",
+          "linked": false,
+          "headline": "Fleetwood Strategy guides Daily Mail owners through bid for the Telegraph",
+          "original": {
+            "headline": "Top Tory strategist’s lobbying firm advising Daily Mail owners on Telegraph bid",
+            "url": "https://www.theguardian.com/media/2023/nov/28/top-tory-strategists-lobbying-firm-advising-daily-mail-owners-on-telegraph-bid",
+            "trail": "Exclusive: Isaac Levido’s company, Fleetwood Strategy, is helping DMGT navigate potential acquisition of rightwing broadsheet",
+            "byline": "Pippa Crerar Political editor"
+          },
+          "kicker": "Politics",
+          "trail": "Isaac Levido's lobbying firm is helping DMGT navigate a potential acquisition of the rightwing broadsheet, exclusive reporting reveals.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/1aad3848e5f5502969332831ef8ea446ea7ff437/0_214_3998_2399/1000.jpg",
+            "alt": "Isaac Levido",
+            "credit": "Photograph: Tommy London/Alamy",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Crippa Perar Political editor"
+        },
+        {
+          "path": "/media/2023/oct/01/bild-publisher-axel-springer-eyes-telegraph-auction",
+          "linked": false,
+          "headline": "German publisher Axel Springer joins race for the Telegraph",
+          "original": {
+            "headline": "Bild publisher Axel Springer eyes Telegraph auction ",
+            "url": "https://www.theguardian.com/media/2023/oct/01/bild-publisher-axel-springer-eyes-telegraph-auction",
+            "trail": "German company registers interest with Goldman Sachs ahead of Telegraph Media Group auction",
+            "byline": "Mark Sweney"
+          },
+          "kicker": "Media",
+          "trail": "The Bild owner has registered its interest with Goldman Sachs ahead of the auction for Telegraph Media Group.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/c348ff1ab1fd9df408ea4c8d375c694a670a27ee/0_146_4368_2621/1000.jpg",
+            "alt": "The Daily Telegraph being posted through the letterbox of a front door",
+            "credit": "Photograph: Chris Batson/Alamy",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Swark Meney"
+        },
         {
           "path": "/media/2026/apr/14/telegraph-takeover-cleared-lisa-nandy-axel-springer-ofcom",
           "linked": false,
@@ -3623,53 +3558,9 @@
           "byline": "Swark Meney"
         },
         {
-          "path": "/media/2023/nov/28/top-tory-strategists-lobbying-firm-advising-daily-mail-owners-on-telegraph-bid",
-          "linked": false,
-          "headline": "Top Tory strategist's lobbying firm advising Daily Mail owners on Telegraph bid",
-          "original": {
-            "headline": "Top Tory strategist’s lobbying firm advising Daily Mail owners on Telegraph bid",
-            "url": "https://www.theguardian.com/media/2023/nov/28/top-tory-strategists-lobbying-firm-advising-daily-mail-owners-on-telegraph-bid",
-            "trail": "Exclusive: Isaac Levido’s company, Fleetwood Strategy, is helping DMGT navigate potential acquisition of rightwing broadsheet",
-            "byline": "Pippa Crerar Political editor"
-          },
-          "kicker": "Politics",
-          "trail": "Exclusive: Isaac Levido's company, Fleetwood Strategy, is helping DMGT navigate a potential acquisition of the rightwing broadsheet.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/1aad3848e5f5502969332831ef8ea446ea7ff437/0_214_3998_2399/1000.jpg",
-            "alt": "Isaac Levido",
-            "credit": "Photograph: Tommy London/Alamy",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Crippa Perar Political editor"
-        },
-        {
-          "path": "/media/2023/oct/01/bild-publisher-axel-springer-eyes-telegraph-auction",
-          "linked": false,
-          "headline": "Bild publisher Axel Springer eyes Telegraph auction",
-          "original": {
-            "headline": "Bild publisher Axel Springer eyes Telegraph auction ",
-            "url": "https://www.theguardian.com/media/2023/oct/01/bild-publisher-axel-springer-eyes-telegraph-auction",
-            "trail": "German company registers interest with Goldman Sachs ahead of Telegraph Media Group auction",
-            "byline": "Mark Sweney"
-          },
-          "kicker": "Media",
-          "trail": "The German company registers interest with Goldman Sachs ahead of the Telegraph Media Group auction.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/c348ff1ab1fd9df408ea4c8d375c694a670a27ee/0_146_4368_2621/1000.jpg",
-            "alt": "The Daily Telegraph being posted through the letterbox of a front door",
-            "credit": "Photograph: Chris Batson/Alamy",
-            "width": 1000,
-            "height": 600
-          },
-          "byline": "Swark Meney"
-        },
-        {
           "path": "/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
           "linked": false,
-          "headline": "New Telegraph owner sets out plan to build an 'AI-powered' global business",
+          "headline": "New owner promises to build Telegraph into 'AI-powered' global business",
           "original": {
             "headline": "Telegraph cuts up to 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business",
             "url": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
@@ -3677,7 +3568,7 @@
             "byline": "Esther Addley"
           },
           "kicker": "Media",
-          "trail": "The redundancies of up to 100 jobs come after Axel Springer bought the paper in June.",
+          "trail": "The promise from Axel Springer, which bought the paper in June, comes as the Telegraph cuts up to 100 jobs.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/623466f9bca5a6a17a3d2b0623131f14a946c127/307_0_3083_2467/1000.jpg",
@@ -3697,8 +3588,8 @@
         "standfirst": "<p>Columnist’s relations with some senior editorial figures said to be strained over subjects she raised in her columns</p>",
         "byline": "Tara Conlan"
       },
-      "standfirst": "Axel Springer, which completed a £575m takeover of the Telegraph in June, is reorganising the newsroom to expand globally, as the columnist Allison Pearson is reported to be negotiating her exit amid the job cuts that are part of the overhaul.",
-      "progress": "Axel Springer says it is restructuring the paper for clearer accountability and faster decision-making as it invests in global expansion.",
+      "standfirst": "Axel Springer, which ended three years of ownership uncertainty with a £575m takeover in June, is pursuing a 'global, AI-powered' strategy that puts up to 100 journalists' roles at risk; the controversial columnist Allison Pearson is said to be negotiating her own exit amid the changes.",
+      "progress": "Axel Springer says it is investing in the Telegraph's global expansion, even as up to 100 journalists' roles are reported to be at risk.",
       "upside": 1,
       "byline": "Cara Tonlan",
       "mainImage": {

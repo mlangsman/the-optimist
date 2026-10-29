@@ -52,8 +52,11 @@
   {
     "path": "/uk-news/2026/oct/28/knifeman-on-lner-train-caused-terror-and-fear-on-unimaginable-scale-court-hears",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"the driver's emergency stop ended the attack\" is an invented causal claim — the original only reports that Paxton praised the driver's decision to make an emergency stop in Huntingdon, it never says the stop ended the attack.",
+      "\"two of them suffering stab wounds in the process\" undercounts the injured rescuers — the original has Williams \"stab and cut Mr Crean in his hand, head and lower back\" as well as stabbing Green and Zitouni, so all three named people were hurt, not two."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -92,8 +95,10 @@
   {
     "path": "/world/2026/oct/28/spain-train-crash-high-speed-toledo",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"declared three days of national mourning\" adds \"national\", a word not present in the given original headline or trail."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -112,11 +117,16 @@
   {
     "path": "/uk-news/2026/oct/28/russell-brand-trial-testimony",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"he misused his position 'very selfishly'\" presents 'very selfishly' as a direct quote, but those words appear nowhere in the given original headline or trail — a fabricated quotation.",
+      "\"he misused his position\" weakens the original's specific claim that Brand said it was \"wrong to use fame to 'facilitate' sex with women\" into vaguer language."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Promoting the defendant's own quote \"consent matters more than sex itself\" into the headline, alongside an invented softer quote about his conduct, risks minimising the seriousness of a trial on rape and sexual assault charges (rule 5), by making his self-serving testimony read as the story's uplifting takeaway."
+      ]
     }
   },
   {
@@ -172,8 +182,11 @@
   {
     "path": "/media/2026/oct/28/allison-pearson-daily-telegraph-job-cull-newsroom-cuts",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"a wider job cull\" adds \"wider\", a qualifier not present in the original headline or trail.",
+      "\"colleagues say her relations ... have also been strained\" attributes the claim specifically to colleagues, while the original's passive \"said to be strained\" does not identify colleagues as the source."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -182,8 +195,10 @@
   {
     "path": "/politics/2026/oct/28/budget-john-crace-dr-death-doing-no-harm",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"offered Labour some breathing space\" drops that the original credits the breathing space to \"us\" (the public/readers) as well as Labour, narrowing who benefited."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -245,8 +260,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line \"Ministers are using new levies on banks and landlords to fund direct payments to 20m households\" essentially repeats the headline's own claim rather than adding a distinct fact, breaking the rule that it must never repeat the headline word for word.",
+        "The headline spells out \"20 million households\" instead of \"20m\", breaking Guardian house style (numbers 10 and above in figures) and inconsistent with the trail of the same piece, which correctly uses \"20m\"."
+      ]
     }
   },
   {
@@ -272,11 +290,15 @@
   {
     "path": "/commentisfree/2026/oct/28/john-healey-breathing-space-budget-panel-responds",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite puts quotation marks around 'global economic storms', presenting it as a direct quote, though the given original text does not mark the phrase as a quotation."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line \"Healey has promised to steer the course, with more help to come\" repeats the headline's \"more help to come\" almost verbatim, violating the rule that the progress line must never repeat the headline word for word."
+      ]
     }
   },
   {
@@ -425,8 +447,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line \"Dr Louise Lawson is calling on the government to introduce urgent support for unpaid carers\" is essentially a restatement of the headline \"Letter calls for urgent government support for unpaid carers\", not a distinct fact about who is acting."
+      ]
     }
   },
   {
@@ -462,8 +486,10 @@
   {
     "path": "/football/2026/oct/28/howe-nagelsmann-pochettino-can-anyone-end-manchester-uniteds-doom-loop",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"amid the club's struggles\" weakens the original's specific claim of \"executive chaos\" into vague language."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -625,8 +651,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line \"Cooper says she will instead strengthen the watchdog's role within the NHS\" repeats the headline \"Cooper to strengthen NHS patient watchdog\" almost word for word, rather than giving new information about the action."
+      ]
     }
   },
   {
@@ -662,11 +690,15 @@
   {
     "path": "/business/2026/oct/28/fed-interest-rates-midterms",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite drops the name 'Kevin Warsh' entirely — the original attributes the quote to 'Fed chair Kevin Warsh' but the rewrite only ever says 'Fed chair', losing a named attribution."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Fed chair says politics played no role in decision to hold rates steady' leads with a defensive denial rather than the genuine upside already present in the copy (rates held steady, no further hike), so the reader is left no better off than with the original — rule 3."
+      ]
     }
   },
   {
@@ -712,8 +744,10 @@
   {
     "path": "/film/2026/oct/28/peter-asher-everywhere-man-review-from-singer-of-beatles-cast-offs-to-super-star-producer",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline drops the actual title of the work being reviewed, 'Everywhere Man' (present in the original headline), and it appears nowhere else in the rewrite."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -732,8 +766,10 @@
   {
     "path": "/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The original's verdict that Musk's film is 'the dullest, most pointless riposte possible' is dropped and replaced with the much softer 'still stands tall next to', weakening the critic's actual judgement into vagueness rather than keeping it in full in the trail."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -792,8 +828,10 @@
   {
     "path": "/books/2026/oct/28/in-one-brief-moment-all-eternity-by-elif-shafak-review-what-madame-bovary-thought-of-flaubert",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'the women who shaped him' adds an interpretive claim (that these women shaped Flaubert) that is not in the original, which says only that the portrait is told 'through the eyes of his women'."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -802,8 +840,10 @@
   {
     "path": "/books/2026/oct/27/michael-gambon-the-authorised-biography-review-a-brilliant-actor-and-a-master-deceiver",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline drops 'a master deceiver', half of the original's central characterisation of Gambon, replacing it with the vaguer 'shapeshifting life' alone — weakening a specific claim into vagueness."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1422,11 +1462,15 @@
   {
     "path": "/uk-news/2022/jan/20/tommy-robinson-pursued-for-estimated-2m-debt-after-bankruptcy-claim",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The £2m debt figure from the original headline is dropped entirely from both headline and trail; the rewrite's headline instead states the bankruptcy claim is specifically 'over unpaid libel damages owed to Syrian schoolboy' (the £100,000 figure), conflating two different figures the original keeps separate."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline states the setback outright — 'unpaid libel damages owed to Syrian schoolboy' — more explicitly than the original did, instead of building the headline on the accountability/pursuit angle alone and keeping the unpaid-damages detail for the standfirst — rule 1."
+      ]
     }
   },
   {
@@ -1462,8 +1506,10 @@
   {
     "path": "/world/2026/oct/28/israel-elections-choice-netanyahu-remaining-power-or-palestinian-backed-coalition",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite's trail says rival parties 'work to erect a barrier... in a bid to stop him', but the original says the incumbent could stay in power precisely because rival parties have erected a 'confected barrier to unseating him' — a barrier that works in Netanyahu's favour by blocking his removal, not a barrier against him. The rewrite appears to reverse who the barrier benefits."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1485,8 +1531,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback — 'Crowds angry over alleged corruption and the prime minister's handling of the coronavirus crisis' — before reaching the upside ('organising mass demonstrations... gains strength'), reversing the required upside-first, setback-second order (rule 3)."
+      ]
     }
   },
   {
@@ -1525,8 +1573,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail leads with the setback — 'The US president has threatened to stop trading with the EU over its \"laughable\" membership offer to Canada' — only reaching the upside (Carney drawing closer to Europe) second, violating the rule that the standfirst/trail must open with the upside and give the setback second (rule 3)."
+      ]
     }
   },
   {
@@ -1552,21 +1602,30 @@
   {
     "path": "/world/2023/feb/09/zelenskiy-aide-takes-aim-at-curbs-on-ukraine-use-of-starlink-to-pilot-drones-elon-musk",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite quotes SpaceX as saying Starlink was \"'never meant to be weaponised'\", dropping the repetition from the ORIGINAL's direct quote \"'never, never meant to be weaponised'\" — a quotation rendered inaccurately."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline's real subject is still the restriction on Starlink for drones — 'as it limits drone use' — dressed up with SpaceX's self-justifying quote rather than built on a genuine upside; no response, improvement or capacity from the copy is used to lead instead (rule 1/2).",
+        "The trail is pure setback — 'The restriction has caused fury in Ukraine, which uses Starlink to pilot drones' — with no upside developed in it at all, against the requirement that the standfirst/trail open with the upside (rule 3)."
+      ]
     }
   },
   {
     "path": "/world/2022/oct/14/elon-musk-spacex-no-longer-fund-starlink-internet-ukraine",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL hedges this as a report — 'Firm reportedly asks US government to pick up bill' — but the rewrite's headline states as settled fact that SpaceX 'looks to US government to keep funding Starlink in Ukraine', dropping the hedge."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens directly with the setback — 'The firm says it can no longer foot the bill itself, as its relationship with Kyiv breaks down' — with no upside stated in the trail itself, leaving the standfirst/trail entirely negative (rule 3)."
+      ]
     }
   },
   {
@@ -1605,15 +1664,19 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline is reproduced verbatim from the ORIGINAL — 'Democrats investigate Elon Musk's SpaceX over Russian 'misuse' of Starlink' — with only articles inserted in the trail; this is a cosmetic, essentially unrewritten edit (rule 2)."
+      ]
     }
   },
   {
     "path": "/law/2016/may/19/supreme-court-upholds-celebrity-threesome-injunction",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL states plainly that the court 'upholds' the injunction; the rewrite drops that fact entirely, referring in the trail only to 'the court's decision' — weakening a specific ruling into unspecified vagueness, with the actual decision never stated anywhere in the headline-and-trail pair."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1625,8 +1688,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail's second sentence — 'Twitter says it is cautioning users who post illegal tweets naming the celebrity' — simply restates the headline's own content rather than developing the story further, which is a progress-line-style failure applied to the trail (rule 8's spirit: must not merely repeat the headline)."
+      ]
     }
   },
   {
@@ -1645,25 +1710,33 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Disclosure reveals secret-court proposals that could remain secret themselves' keeps the problem itself as the grammatical subject in the same 'X reveals scale of problem' pattern the brief explicitly rules out (cf. the ADHD/social-care examples); no genuine upside has been built into it, so the setback is still the headline's real subject (rule 1)."
+      ]
     }
   },
   {
     "path": "/law/2016/may/19/ruling-on-threesome-injunction-establishes-significant-precedent",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL headline states as fact that the ruling 'establishes significant precedent'; the rewrite downgrades this to 'may set significant precedent, commentators say', reversing the Guardian's own stated claim into a hedged, commentator-attributed one that the original did not attribute that way."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Turning the original's confident 'establishes significant precedent' into merely 'may set significant precedent' undercuts good news into a maybe, leaving the reader less reassured than the original copy supports — the opposite of the paper's promise (rule 3)."
+      ]
     }
   },
   {
     "path": "/football/2017/feb/06/hacked-david-beckham-emails-renders-injunction-worthless",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL states plainly that 'Beckham team left frustrated'; the rewrite adds an unsupported hedge, 'is said to be frustrated', not present in the source."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1752,8 +1825,10 @@
   {
     "path": "/world/2026/oct/27/oleshky-truce-ukraine-russia-putin",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL hedges throughout — 'truce appears to hold' — but the rewrite's trail states unhedged that 'the ceasefire holds', turning a hedge into a certainty."
+    ],
     "tone": {
       "ok": true,
       "issues": []
