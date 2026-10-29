@@ -1,0 +1,471 @@
+[
+  {
+    "path": "/uk-news/2026/oct/28/russell-brand-trial-testimony",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Russell Brand tells trial it was wrong to use his fame to 'facilitate' sex\""
+  },
+  {
+    "path": "/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'This isn't supposed to happen': giant-slaying Fleetwood revels in fairytale Arsenal win\""
+  },
+  {
+    "path": "/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'There is no inevitable dystopia': Jeanette Winterson on AI and the future of humanity\""
+  },
+  {
+    "path": "/uk-news/2026/oct/28/budget-2026-what-it-means-for-you",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Budget 2026: what it means for your wallet, your mortgage and your pay\""
+  },
+  {
+    "path": "/uk-news/2026/oct/28/budget-winners-and-losers-pensioners-and-households-gain-as-bankers-and-betting-shops-hit",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Budget winners and losers: pensioners gain as banks and betting shops pay more\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/28/john-healey-breathing-space-budget-panel-responds",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Will John Healey's 'breathing space' budget deliver what Britain needs? Our panel responds\""
+  },
+  {
+    "path": "/film/2026/oct/28/gay-titanic-la-bola-negra-queer-oscars-penelope-cruz-glenn-close",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's the gay Titanic!' Inside La Bola Negra, the maximalist queer spectacular bound for Oscars glory\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/28/murder-in-belfast-sisters-seeking-justice-review-bbc",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Murder in Belfast: Sisters Seeking Justice review – a family's astonishing bravery helped make history\""
+  },
+  {
+    "path": "/global-development/2026/oct/28/i-am-mother-leader-warrior-of-the-amazon-nemonte-nenquimo-on-why-the-west-needs-to-be-rescued",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I am mother, leader, warrior of the Amazon': Nemonte Nenquimo on why the west needs to be rescued\""
+  },
+  {
+    "path": "/us-news/2026/oct/28/cheesecake-factory-obama-trump",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Like Saddam opened a Cheesecake Factory': how did the restaurant end up in a Maga fight over 'elitism'?\""
+  },
+  {
+    "path": "/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best LED face masks in the UK, tested: 12 light therapy devices that are worth the hype\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/28/ive-been-watching-the-7-up-tv-series-one-change-in-our-behaviour-really-struck-me",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"I've been watching the 7 Up TV series. One change in our behaviour really struck me\""
+  },
+  {
+    "path": "/commentisfree/2026/oct/28/the-guardian-view-on-labours-budget-bold-ambitions-and-welcome-first-steps",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"The Guardian view on Labour's budget: bold ambitions, welcome first steps\""
+  },
+  {
+    "path": "/football/2026/oct/28/arsenal-v-benfica-womens-champions-league-match-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Arsenal's Slegers hails 'role model' Russo after historic hat-trick sinks Benfica\""
+  },
+  {
+    "path": "/football/2026/oct/28/fleetwood-arsenal-carabao-cup-football-daily-newsletter",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Fleetwood go their own way to down Arsenal and live the Carabao Cup dream\""
+  },
+  {
+    "path": "/sport/2026/oct/28/carey-and-inglis-counterpunch-to-put-australia-on-top-in-south-africa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Carey and Inglis counterpunch to put Australia on top in South Africa\""
+  },
+  {
+    "path": "/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"How rising seas transformed dry land into the Venice lagoon\""
+  },
+  {
+    "path": "/us-news/2026/oct/28/homeland-security-data-leak",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Non-profit group leaks data of more than 40,000 homeland security workers\""
+  },
+  {
+    "path": "/film/2026/oct/28/iran-film-maker-jafar-panahi-new-prison-sentence-assets-seized",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Iranian film-maker Jafar Panahi given new prison sentence\""
+  },
+  {
+    "path": "/business/2026/oct/28/fed-interest-rates-midterms",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Fed holds interest rates steady in last decision before midterms\""
+  },
+  {
+    "path": "/music/2026/oct/28/stephen-kovacevich-a-pianist-who-risked-oblivion-to-know-what-its-like-out-on-the-edge",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Stephen Kovacevich – a pianist who risked oblivion to know what it's like out on the edge\""
+  },
+  {
+    "path": "/music/2026/oct/27/babydoll-phenomenon-jamie-miller-song-got-world-dancing-put-wales-back-on-top",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Babydoll phenomenon: how Jamie Miller's song got the world dancing and put Wales back on top\""
+  },
+  {
+    "path": "/music/2026/oct/27/thea-gilmore-on-writing-songs-from-anonymous-confessional-voicemails-the-echo-line",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"'It's not my pain. There's a responsibility in that': Thea Gilmore on writing songs from anonymous voicemails\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/28/skulls-bulls-and-someone-peeing-in-her-own-eye-four-great-exhibitions-to-see-for-free",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Skulls, bulls and someone peeing in her own eye: four great exhibitions to see for free\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/28/bees-holly-lynton-best-photograph-bare-handed-odyssey",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The bare-handed beekeeper who looks like something out of The Odyssey: Holly Lynton's best photograph\""
+  },
+  {
+    "path": "/culture/2026/oct/28/walter-koenig-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Walter Koenig obituary\""
+  },
+  {
+    "path": "/music/2026/oct/28/charlie-watts-brian-jones-letter-rolling-stones-auction",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Dear Charlie': letter revealing move to snare future Rolling Stones drummer up for auction\""
+  },
+  {
+    "path": "/smarter-homes-lower-bills/2026/oct/13/smart-home-guide-how-does-yours-compare",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Welcome to the smart home: how does yours compare\""
+  },
+  {
+    "path": "/smarter-homes-lower-bills/2026/oct/09/how-we-cut-our-energy-bills-from-2000-to-100",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'How we cut our annual energy bills from £2,000 to £100'\""
+  },
+  {
+    "path": "/smarter-homes-lower-bills/2026/oct/02/why-heat-pumps-and-solar-panels-are-more-accessible",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Myth buster: why heat pumps and solar panels are more accessible than ever\""
+  },
+  {
+    "path": "/smarter-homes-lower-bills/2026/oct/02/smart-fixed-or-standard-energy-tariffs-explained",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Smart, standard or fixed? The new era of energy tariffs, explained\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"The rise of rib remodelling: 'I wanted that hourglass shape'\""
+  },
+  {
+    "path": "/fashion/2026/oct/28/jess-cartner-morley-on-fashion-british-heritage-look-rivals",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jess Cartner-Morley on fashion: to nail this year's British heritage look, just study Rivals\""
+  },
+  {
+    "path": "/thefilter/2025/nov/04/best-umbrellas-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best umbrellas in the UK for staying dry in the wind and rain – tested on a 517m hilltop\""
+  },
+  {
+    "path": "/thefilter/2026/oct/27/currentbody-series-3-review-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"CurrentBody Series 3 review: a fully customisable LED mask that helps exactly where you need it\""
+  },
+  {
+    "path": "/thefilter/2024/oct/18/best-heated-clothes-airers-dryer-save-time-money-laundry",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best heated clothes airers in the UK to save time and money when drying your laundry – tested\""
+  },
+  {
+    "path": "/thefilter/2026/oct/23/how-i-tested-bread-makers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"I thought testing bread makers would be easy. 36 loaves later, I may have lost the plot\""
+  },
+  {
+    "path": "/food/2026/oct/28/chocolate-chilli-tortillas-date-sugar-bars-dipped-figs-upgrade-your-seasonal-treats",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Chocolate chilli tortillas, date sugar bars and dipped figs – upgrade your seasonal treats\""
+  },
+  {
+    "path": "/food/2026/oct/28/how-to-turn-excess-custard-fruity-treat-recipe-zero-waste-cooking",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to turn excess custard into a fruity treat – recipe\""
+  },
+  {
+    "path": "/food/2026/oct/28/vegetarian-coconut-curry-recipes-spicy-aubergine-baingan-vegetable-stew-maunika-gowardhan",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Vegetarian coconut curry recipes: Maunika Gowardhan's spicy aubergine baingan and spiced vegetable stew\""
+  },
+  {
+    "path": "/environment/2026/oct/27/i-struggled-to-come-to-terms-with-my-mums-death-then-i-swam-in-the-sea-and-suddenly-felt-connected-to-her",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"I struggled to come to terms with my mum's death. Then I swam in the sea and suddenly felt connected to her\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/26/the-pet-ill-never-forget-clement-was-hit-by-a-car-and-left-to-die-in-a-ditch-then-found-his-beautiful-purpose",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The pet I'll never forget: Clement was hit by a car and left to die in a ditch – then found his beautiful purpose\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/26/the-one-change-that-worked-i-told-the-men-in-my-life-i-loved-them-and-my-world-opened-up",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The one change that worked: I told the men in my life I loved them – and my world opened up\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/25/this-is-how-we-do-it-fertility-high-sex-drive",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'Our fertility doctor told us we were having too much sex'\""
+  },
+  {
+    "path": "/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cookie theft: how fraudsters get the digital key to your accounts\""
+  },
+  {
+    "path": "/fashion/2026/oct/28/sali-hughes-on-beauty-skincare-for-teens-has-had-a-glow-up",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sali Hughes on beauty: skincare for teens has had a glow-up\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/26/is-it-true-that-toothpaste-is-an-effective-spot-treatment",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that toothpaste is an effective spot treatment\""
+  },
+  {
+    "path": "/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cycling in the wild heart of the Netherlands: an autumnal break in the Veluwe\""
+  },
+  {
+    "path": "/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The view from the Mournes was CS Lewis's idea of Narnia': how Northern Ireland inspired a magical kingdom\""
+  },
+  {
+    "path": "/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Meet my new après buddies!': a joyous group skiing trip in Les Deux Alpes, France\""
+  },
+  {
+    "path": "/travel/2026/oct/25/swiss-alps-ski-resort-laax-meeting-climate-crisis",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Carving out a greener future: how the Swiss ski resort of Laax is meeting the climate crisis head on\""
+  },
+  {
+    "path": "/news/2026/oct/28/two-years-on-from-our-first-newsletter-how-has-the-long-wave-evolved",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Two years on from our first newsletter: how the Long Wave has evolved\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tell us: have you found new love after the age of 60\""
+  },
+  {
+    "path": "/uk-news/2026/oct/28/budget-2026-key-points-john-healey",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Budget 2026: the key points at a glance\""
+  },
+  {
+    "path": "/uk-news/2019/sep/13/tommy-robinson-released-jail",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Tommy Robinson freed from jail after nine weeks\""
+  },
+  {
+    "path": "/uk-news/2026/aug/21/prince-harry-and-others-ordered-to-pay-interim-legal-costs-daily-mail-publisher",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Judge orders Prince Harry and others to pay Daily Mail publisher £9.5m\""
+  },
+  {
+    "path": "/world/2020/mar/03/israel-election-benjamin-netanyahu-claims-early-victory-but-remains-short-of-majority",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Israel election: Netanyahu begins coalition talks\""
+  },
+  {
+    "path": "/world/2020/mar/02/israel-election-round-three-begins-as-voters-head-to-the-polls",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Israel election: exit poll puts Netanyahu ahead, short of a majority\""
+  },
+  {
+    "path": "/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"European Union invites Canada to become its first ever 'associate member'\""
+  },
+  {
+    "path": "/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Canada's Carney embraces EU associate membership proposal\""
+  },
+  {
+    "path": "/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Ukraine's military says Starlink connection now stable after recent restrictions\""
+  },
+  {
+    "path": "/law/2016/may/19/supreme-court-upholds-celebrity-threesome-injunction",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Supreme court upholds 'celebrity threesome' injunction\""
+  },
+  {
+    "path": "/football/2017/feb/06/hacked-david-beckham-emails-renders-injunction-worthless",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Publication of hacked Beckham emails renders privacy injunction worthless\""
+  },
+  {
+    "path": "/media/2023/nov/28/top-tory-strategists-lobbying-firm-advising-daily-mail-owners-on-telegraph-bid",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Top Tory strategist's lobbying firm advising Daily Mail owners on Telegraph bid\""
+  },
+  {
+    "path": "/media/2023/oct/01/bild-publisher-axel-springer-eyes-telegraph-auction",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Bild publisher Axel Springer eyes Telegraph auction\""
+  },
+  {
+    "path": "/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It's the smell of freedom': Belgrade cleans up after Student List triumph\""
+  },
+  {
+    "path": "/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: our tiny island is awash with waxcaps\""
+  }
+]
