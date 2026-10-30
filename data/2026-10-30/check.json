@@ -1,0 +1,2008 @@
+[
+ {
+  "path": "/culture/2026/oct/29/patrick-stewart-dead",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+  "kind": "article",
+  "ok": false,
+  "issues": [
+   "The standfirst says experts say his budget 'leaves a £28bn shortfall', but ORIGINAL attributes the £28bn to the IFS saying Healey needed to set aside that much extra to offset inflation and defence spending, not to the budget itself creating or leaving a shortfall — this reattributes the cause.",
+   "The progress line says the Milburn and Timms reviews are 'to bring down welfare costs', but ORIGINAL only says Milburn's review is expected to recommend spending aimed at bringing down costs over the longer term; it never states that goal for the Timms review on disability benefits."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line ('Healey points to forthcoming reviews by Alan Milburn on youth employment and Stephen Timms on disability benefits to bring down welfare costs') almost entirely restates the headline ('Healey points to Milburn and Timms reviews on welfare reform') rather than standing on its own as required."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+  "kind": "article",
+  "ok": false,
+  "issues": [
+   "The standfirst says the expulsions 'have fuelled doubts the real target is rivals and disloyalty' and the headline says 'scepticism over motive grows', but ORIGINAL only says the purges are 'raising questions about if' the campaign is also a tool for that purpose — a tentative hedge, not an established or growing body of doubt."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "Unlike every other article in this batch, this rewrite has no 'What's being done' progress line at all, yet the headline ('Xi Jinping says corruption fight goes on') is built as if Xi's own anti-corruption claim were the story's upside — crediting a claim the rest of the piece treats skeptically, with no actual reported response to point to, which does not fit the 'genuinely dark story' treatment (lead with people/facts, calm, no uplift) the piece otherwise seems to call for."
+   ]
+  }
+ },
+ {
+  "path": "/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The progress line ('Ministers have replaced the SDS40 early-release scheme with a permanent scheme under the Sentencing Act 2026') just restates the headline ('Permanent early-release scheme under Sentencing Act replaces emergency measure') rather than standing on its own.",
+    "The opening now states the same fact twice in consecutive sentences ('even as new figures show more people were recalled to jail... than were released' immediately followed by 'Despite those efforts, more people were recalled to jails... than were released'), a clumsy repetition introduced by the reordering."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/trump-norway-shithouse-toilets",
+  "kind": "article",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/culture/2026/oct/29/patrick-stewart-dead",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline ('Healey backs away from cutting welfare cost') is barely changed from ORIGINAL's own headline and keeps welfare cuts as its subject, even though the matching article in this same batch shows a real upside (the Milburn/Timms reviews) was available to lead with instead — a cosmetic edit that still fails after a third pass."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline ('Caroline Voaden speaks out over alleged shove by Nigel Farage') is a cosmetic reword of ORIGINAL's headline — same subject (the alleged shove), same structure, with 'accuses... of shoving' simply swapped for 'speaks out over alleged shove'; no upside is surfaced in the headline or trail."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/metropolitan-police-refers-itself-to-watchdog-over-meghan-warning-letter",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/29/manosphere-online-misogyny-public-health-policy-lancet-report",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline ('Empty seats reveal scale of China's Communist party purges') follows exactly the pattern the house style explicitly bans as a failing example ('Leaked figures reveal scale of England's ADHD and autism diagnosis surge'): the subject is still the problem, and the copy does not show this knowledge being acted on."
+   ]
+  }
+ },
+ {
+  "path": "/society/2026/oct/29/more-prisoners-recalled-than-released-england-wales",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The headline says the justice ministry 'rolls out emergency measures to tackle prison overcrowding' in the present tense, as if this were a current action, but ORIGINAL only says recalls rose 'despite emergency measures' already in place during the period covered — it does not describe a current rollout."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline builds its upside on a current-sounding 'rolls out... measures' action that is not supported by the trail's own wording, effectively crediting an unreported/mischaracterised response rather than a genuine, dated upside."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/trump-norway-shithouse-toilets",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/29/inside-the-slot-farms-targeted-in-budget-gambling",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/tabloids-thomas-markle-meghan-daily-mail-mail-on-sunday",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/29/exploding-heads-mutant-aliens-and-bursting-chests-horrors-greatest-special-effects-ranked",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/30/how-to-deal-with-board-games-bad-loser-advice",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/thefilter/2026/oct/29/rainy-day-hacks-for-kids-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/30/why-is-north-korea-fortifying-its-border-with-south-korea",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/stage/2026/oct/30/few-good-men-aaron-sorkin-review",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/29/morphine-mark-sandman-cocoon-partisan",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/2026/oct/29/ai-agent-coworker",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline ('Companies boast of doing more with less using AI co-workers') is lifted almost verbatim from half of ORIGINAL's trail and presents a corporate euphemism for workforce reduction as the upside, without acknowledging that 'doing more with less' is itself the source of the 'tension with human workers' that ORIGINAL flags as the setback — a cosmetic edit that softens a job-displacement concern rather than finding a real upside."
+   ]
+  }
+ },
+ {
+  "path": "/stage/2026/oct/29/middlemarch-review-swan-theatre-stratford-upon-avon-worlds-greatest-novel-george-eliot",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/29/the-breathing-space-budget-breathing-space-for-the-government-that-is",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline ('Healey's budget leans on Martin Lewis-style help for squeezed households') and its 'as much as' framing invert the sketch's actual argument: ORIGINAL's point is that the budget was breathing space for the government specifically ('that is' — correcting any assumption it was mainly for households), not that it helped households and the government in comparable measure."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "This changes the columnist's argument rather than merely turning it forward-facing: the sardonic point that the giveaways were really political cover for the chancellor is diluted into a claim that the measures were genuine help for households, which is not the sketch's thesis."
+   ]
+  }
+ },
+ {
+  "path": "/business/nils-pratley-on-finance/2026/oct/29/hold-your-nose-125bn-subsidy-rolls-royces-engine-justified-budget",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/british-library-reading-rooms-co-working-space-national-library",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/a-simple-pub-sign-led-me-down-a-very-disturbing-rabbit-hole",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/budget-prime-minister-early-election-andy-burnham",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/trump-ballot-midterms-voting",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/30/my-phone-thinks-my-boyfriend-is-my-best-friend-its-not-alone-ntwnfb",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/the-guardian-view-on-a-changing-brexit-debate-kemi-badenoch-is-trapped-in-denial",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/commentisfree/2026/oct/29/the-guardian-view-on-online-harms-ofcom-is-failing-at-its-job",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/education/2026/oct/29/i-pooh-poohed-latin-until-won-over-by-winnie-in-translation",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/29/save-hammersmith-bridge-but-keep-it-free-of-cars",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/science/2026/oct/29/donald-trumps-male-gaze",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/29/emergency-stockpiles-are-a-luxury-that-not-everyone-can-afford",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/sport/2026/oct/29/george-russell-f1-formula-one-mexico-grand-prix",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/29/scottish-premiership-uk-leagues-tv-broadcast-blackout-football",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The added third line ('The UK's domestic leagues are likely attempting a wider move to end the Saturday blackout, following the Scottish Premiership's lead') just restates the trail with a hedged, vague 'likely attempting' and names no concrete actor or action, failing as a progress line."
+   ]
+  }
+ },
+ {
+  "path": "/sport/2026/oct/29/england-sri-lanka-tri-series-match-report-duckett-dawson",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/29/alaska-senate-race-subpoenas",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/australia-news/2026/oct/29/erin-patterson-mushroom-murders-appeal-ruling-ntwnfb",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/russell-brands-wife-tells-court-he-is-amazingly-attentive-husband",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/oct/29/queen-of-spain-butterfly-invades-britain-but-will-it-become-native",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The rewrite keeps the same subject and angle as the original (the butterfly's attempted colonisation of Britain) and simply swaps 'invades Britain – but will it become native?' for 'attempts bold colonisation of Britain', reading as a cosmetic edit rather than a rebuilt upside headline."
+   ]
+  }
+ },
+ {
+  "path": "/global-development/2026/oct/28/i-am-mother-leader-warrior-of-the-amazon-nemonte-nenquimo-on-why-the-west-needs-to-be-rescued",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The added line 'Billions have already been invested in tackling water pollution, as Angela Eagle presses the industry to stop making excuses' recasts the original's 'despite billions in investment' (pollution remaining high despite the spending) as if the billions were specifically earmarked for, and actively succeeding at, tackling pollution — a purpose/effectiveness claim the original does not make."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The same added line minimises the report's failing finding by reframing money that the original says has NOT stopped high pollution as an ongoing positive effort to 'tackle' pollution, softening a bad figure the headline/report establishes."
+   ]
+  }
+ },
+ {
+  "path": "/news/2026/oct/29/hmrc-billionaires-uk-tax-crackdown-compliance-managers",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The added third line ('Backbenchers say the energy secretary has been left facing an intolerable position over the Rosebank decision') only restates the setback already given in the trail and names no new action being taken, so it fails as a progress line."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/29/vivek-ramaswamy-attack-ad-ohio-governor-race-republican",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The rewritten headline 'Wave of revulsion over attack ad leads Ramaswamy to pull it' makes the setback ('wave of revulsion over attack ad') the grammatical subject, whereas the original already led with Ramaswamy's own action ('discontinues attack ad'); this is a step backward, re-centring the headline on the backlash rather than the response."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/29/finland-criminal-investigation-google-clearing-forest-datacentre",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/29/mega-mega-mega-going-back-to-romford-how-an-outer-london-suburb-became-a-metropolis-for-90s-dance-music",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/29/elke-sommer-prolific-german-star-of-a-shot-in-the-dark-and-and-then-there-were-none-dies",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/film/2026/oct/29/the-mosquito-bowl-netflix-movie-review",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/tv-and-radio/2026/oct/29/nocturne-review-stephen-graham-rory-culkin-apple-tv",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/29/the-big-moon-forever-review",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/books/2026/oct/29/bram-stokers-dracula-audiobook-review-cinematic-horror-with-an-a-list-cast",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/29/britten-serenade-for-tenor-horn-and-strings-album-review",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/29/the-mad-lover-review-smith-square-hall-london-thomas-dunford",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/books/2026/oct/28/we-sold-out-tickets-within-13-minutes-new-novel-from-romantasy-author-sarah-j-maas-sparks-fan-mania",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/books/2026/oct/28/is-it-too-late-to-make-a-run-for-it-by-judi-dench-review-whatever-you-do-dont-call-her-a-national-treasure",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/stage/2026/oct/29/the-sea-review-theatre-royal-bath-jennifer-saunders-shakespearean-curtains",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/artanddesign/2026/oct/28/skulls-bulls-and-someone-peeing-in-her-own-eye-four-great-exhibitions-to-see-for-free",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/stage/2026/oct/28/girls-review-a-story-of-friendship-amidst-extreme-misogynist-violence",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/stage/2026/oct/27/the-master-builder-review-arcola-theatre-david-hicks",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/29/algorithms-make-everything-predictable-music-fans-opting-buy-cds",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/music/2026/oct/28/orchestre-du-nouveau-monde-orchestra-tear-gas-paris-protests",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/the-big-decluttering-guide/2026/sep/08/how-to-sell-on-vinted-expert-tips-for-better-listings",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/the-big-decluttering-guide/2026/sep/08/how-to-declutter-your-home-dos-and-donts",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/food/2026/oct/28/how-to-build-an-emergency-food-cupboard-without-panic-buying",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The rewrite barely changes the original's wording ('food stockpiling' becomes 'stockpiling food', 'power cut' becomes 'blackout'), reading as a cosmetic edit rather than a fresh line, and 'blackout' in place of the more usual British 'power cut' leans American."
+   ]
+  }
+ },
+ {
+  "path": "/thefilter/2026/oct/29/dyson-camerajet-electric-toothbrush-review-tested-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/thefilter/2025/nov/04/best-umbrellas-tested-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/thefilter/2024/oct/18/best-heated-clothes-airers-dryer-save-time-money-laundry",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/food/2026/oct/29/pasta-with-senegalese-inspired-ragu-recipe-rachel-roddy",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/food/2026/oct/29/volcanic-wines-review-mina-holland",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/food/2026/oct/28/is-eating-citrus-zest-peel-bad-for-your-health-pesticide-residues-food-safety",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/food/2026/oct/28/chocolate-chilli-tortillas-date-sugar-bars-dipped-figs-upgrade-your-seasonal-treats",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/26/the-pet-ill-never-forget-clement-was-hit-by-a-car-and-left-to-die-in-a-ditch-then-found-his-beautiful-purpose",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/25/this-is-how-we-do-it-fertility-high-sex-drive",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The headline's phrase 'a generous split' is an added characterisation/judgement the original does not make (the original states only that the writer gave the ex the house and half the savings, without calling the split generous)."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/oct/27/i-struggled-to-come-to-terms-with-my-mums-death-then-i-swam-in-the-sea-and-suddenly-felt-connected-to-her",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/readers-react-to-budget-2026",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/money/2026/oct/26/healey-pensioners-low-income-tax-budget-how-will-it-work",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The added third line ('Healey is expected to align low-income pensioners' personal tax allowance with the new state pension') is a near word-for-word repeat of the trail ('Healey plans to align pensioners' personal allowance with the new state pension') and adds no new actor or action, failing as a progress line."
+   ]
+  }
+ },
+ {
+  "path": "/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/wellness/2026/oct/27/can-you-run-marathon-glp-1s",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/25/the-joy-of-veg-maxxing-how-to-eat-many-many-more-plants-without-really-trying",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/fashion/2026/oct/28/jess-cartner-morley-on-fashion-british-heritage-look-rivals",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/fashion/2026/oct/28/sali-hughes-on-beauty-skincare-for-teens-has-had-a-glow-up",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/travel/2026/oct/29/snowdonia-slate-trail-walk-north-wales",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/29/i-set-up-a-free-school-for-afghan-girls-and-the-taliban-blindfolded-me-and-broke-my-nose-and-jaw",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/29/thursday-news-quiz-x-y-and-a-goose-on-the-loose",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/28/bone-of-contention-why-dog-trainers-are-at-war",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/28/this-isnt-supposed-to-happen-giant-slaying-fleetwood-revels-in-fairytale-win",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/lifeandstyle/2026/oct/21/tell-us-have-you-found-new-love-after-the-age-of-60",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/culture/live/2026/oct/29/patrick-stewart-dead-at-86-live-updates",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/tv-and-radio/live/2026/oct/29/the-celebrity-traitors-episode-nine-live",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/montenegro-embassy-pimlico-london-neighbour-sues-council",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/culture/2026/oct/26/walter-koenig-actor-star-trek-dies",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/culture/2015/feb/27/leonard-nimoy-mr-spock-star-trek-dies-ages-83",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/culture/2020/jan/15/sir-patrick-stewart-speaks-of-brexit-sorrow-at-star-trek-launch",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Patrick Stewart reflects on Brexit at Star Trek series launch' is a cosmetic rewording of the original 'Sir Patrick Stewart speaks of Brexit sorrow at Star Trek launch' — same subject and angle (Stewart commenting on Brexit at the launch), with 'sorrow' simply dropped rather than replaced by any upside."
+   ]
+  }
+ },
+ {
+  "path": "/culture/2018/aug/04/patrick-stewart-to-reprise-role-as-star-treks-jean-luc-picard",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/tv-and-radio/2016/aug/10/barry-jenner-dies-star-trek-deep-space-nine",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The trail never develops an upside before the setback — it only restates, twice, that Healey's speech blamed 'global economic storms' for rising prices (the two sentences repeat the same fact in different words), well past the one-to-two-sentence/20-35-word standfirst guideline."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/29/healey-cut-welfare-bill-tough-approach-young-people-accept-jobs",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Healey plans tough new approach for young people to curb welfare costs' keeps the same subject and the original's loaded 'tough approach to young people' framing as 'Healey vows to cut welfare bill ... with a tough approach to young people' — a cosmetic reorder, not a genuine upside-led rebuild."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2024/oct/12/labour-warned-22bn-shortfall-will-last-years-without-higher-taxes-or-cuts",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Resolution Foundation says Labour's £22bn shortfall will persist for years' is essentially unchanged from the original 'Labour warned £22bn shortfall will last years without higher taxes or cuts' — the shortfall persisting remains the subject, with only an attribution added and no upside substituted."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/2026/aug/29/andy-burnham-john-healey-autumn-budget-2026-challenges",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Burnham's wider commitments weigh on the budget as economy worsens' keeps the original's 'tight spot'/'worsen' framing almost intact ('As economic circumstances worsen ... left him ... in a tight spot') — a cosmetic reword with no upside introduced."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/sep/08/netanyahu-warned-7-october-hamas-book-haaretz",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The trail's two sentences ('blocs look set to fall short of a majority, with coalition talks expected to follow' / 'Coalition talks are expected to follow, with ... blocs on course to fall short of a majority') repeat the same two facts in reverse order, adding nothing new and running well past the standfirst length guideline."
+   ]
+  }
+ },
+ {
+  "path": "/world/2026/oct/27/legacy-of-7-october-looms-large-as-a-divided-israel-goes-to-the-polls-in-record-numbers",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline 'Eisenkot looks set to rely on Arab-Israeli leaders to govern' hardens the original's hedge — 'Gadi Eisenkot will have to work with Arab-Israeli leaders to have a hope of governing' — into a near-certain path to governing, dropping the 'hope of' qualifier."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/23/high-turnout-israel-palestinians-unseat-netanyahu",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's trail attributes the fear motivation to 'Palestinian voters' collectively — 'Palestinian voters say fear of the far-right coalition is their biggest reason for turning out' — generalising what the original presents as a single quoted statement, \"'The biggest motivation is fear'\", without attributing it to a named speaker."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2026/oct/28/nigel-farage-reform-uk-budget-commons-seating-row-ukraine-crypto",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The trail's second sentence ('The standards commissioner interviewed Farage for half an hour last month over the £5m gift') simply repeats the first sentence's facts rather than adding anything, running past the standfirst length guideline."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/aug/31/andy-burnham-in-tray-parliament-return",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Andy Burnham prepares to tackle Labour's toughest dilemmas as parliament returns' and its trail are essentially unchanged from the original's 'bumpy ride'/'dilemmas' framing — the dilemmas remain the subject with no upside substituted, a cosmetic edit."
+   ]
+  }
+ },
+ {
+  "path": "/politics/2026/aug/02/rupert-lowe-urges-nigel-farage-to-work-with-restore-britain",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/jul/06/nigel-farage-witch-hunt-reform-partygate-moment",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/politics/2026/jul/22/tories-hmrc-investigate-nigel-farage-tax-5m-gift",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/tv-and-radio/2020/feb/20/met-police-watchdog-contact-caroline-flack-death",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2018/feb/22/white-powder-letter-prince-harry-meghan-markle-anthrax-scare",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2025/may/02/prince-harry-loses-legal-challenge-over-police-protection-in-uk",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2022/nov/29/duchess-of-sussex-faced-disgusting-threats-to-life-senior-met-officer-says",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's trail states 'Scotland Yard's investigation into the threats against the Duchess, led by Neil Basu, has resulted in prosecutions', but the original only has Basu, the outgoing assistant commissioner, commenting that the threats led to prosecutions — it does not say he led the investigation."
+  ],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The trail's second sentence repeats the first sentence's claim that the threats led to prosecutions, adding only the unsupported detail that Basu personally led the investigation, undercutting the otherwise good upside-led headline."
+   ]
+  }
+ },
+ {
+  "path": "/uk-news/2022/jun/29/met-officers-accused-of-sharing-racist-whatsapp-message-about-meghan",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/uk-news/2022/jun/24/met-refers-eight-more-strip-searches-of-children-to-police-watchdog",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/2023/feb/04/online-safety-bill-needs-tougher-rules-on-misogyny-say-peers",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/2022/oct/14/online-safety-bill-must-protect-adults-self-harm-content-charities-samaritans",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/2022/oct/27/government-criticised-renewed-delay-online-safety-bill",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2023/feb/02/mother-of-archie-battersbee-says-he-was-bullied-online",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/feb/26/mumsnet-campaign-demands-ban-social-media-under-16s",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/technology/2024/mar/15/violent-online-content-unavoidable-for-uk-children-ofcom-finds",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2021/nov/11/chinese-communist-party-elevates-xi-jinping-status-historical-resolution",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2022/sep/26/china-becomes-hothouse-of-intrigue-ahead-of-crucial-communist-party-congress",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2014/dec/05/china-expels-xhou-yongkang-communist-party",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2021/jun/02/china-communist-party-happiness-xi-jinping-negative-image",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2023/mar/13/after-years-of-isolation-xi-jinping-china-looks-to-dominate-world-stage",
+  "kind": "preview",
+  "ok": false,
+  "issues": [
+   "The rewrite's headline 'China ends years of isolation to pursue dominant role on world stage' asserts isolation has definitively ended, where the original only says China, 'after years of isolation', 'looks to dominate' — a hedged aspiration, not a completed achievement."
+  ],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/article/2024/jun/27/chinese-communist-party-expels-two-ex-defence-ministers-for-corruption",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/jul/30/more-prisoners-england-and-wales-recalled-than-released",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2025/dec/02/more-prisoners-released-in-error-england-wales-lammy",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/jan/29/record-number-offenders-recalled-prison-england-wales-drugs",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Prison recalls in England and Wales reach a record high' is essentially a restatement of the original 'Record number of offenders being recalled to prison in England and Wales' — the record-high recalls remain the subject, with no upside substituted, a cosmetic edit."
+   ]
+  }
+ },
+ {
+  "path": "/law/2024/dec/09/court-delays-driving-innocent-prisoners-to-plead-guilty-in-england-and-wales",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/law/2025/feb/28/prisoners-england-wales-earn-early-release-texas-shabana-mahmood",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/law/2025/aug/08/released-violent-offenders-locked-restriction-zones-england-wales",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2025/oct/09/norway-braces-for-trumps-reaction-if-he-does-not-win-nobel-peace-prize",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/jan/19/donald-trump-greenland-threats-nobel-prize-snub-letter",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": false,
+   "issues": [
+    "The headline 'Trump ties his Nobel prize snub to Greenland threats as EU trade war looms' is the same claim as the original 'Donald Trump links Greenland threats to Nobel snub as EU trade war looms' with the two terms simply swapped — a cosmetic edit with no upside introduced, and the trail is carried over almost verbatim."
+   ]
+  }
+ },
+ {
+  "path": "/us-news/2026/oct/09/trump-nobel-peace-prize",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2025/dec/10/venezuelan-nobel-peace-prize-winner-maria-corina-machado-not-attend-ceremony-oslo",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/us-news/2026/sep/21/us-allies-donald-trump-world-un-global-order",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/global-development/2026/oct/28/punjab-india-mosques-restored-heal-sectarian-wounds",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/society/2026/oct/28/yvette-cooper-drops-plans-abolish-healthwatch-england",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/money/2026/oct/28/john-healey-to-end-standing-charges-on-gas-bills-ofgem-budget",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ },
+ {
+  "path": "/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic",
+  "kind": "preview",
+  "ok": true,
+  "issues": [],
+  "tone": {
+   "ok": true,
+   "issues": []
+  }
+ }
+]

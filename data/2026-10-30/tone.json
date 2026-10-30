@@ -1,0 +1,156 @@
+[
+  {
+    "path": "/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Patrick Stewart brought gravitas and complexity, from Star Trek to X-Men\""
+  },
+  {
+    "path": "/thefilter/2026/oct/29/rainy-day-hacks-for-kids-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Puddlesuits, movie nights and daytime baths: how to enjoy rainy days with small kids\""
+  },
+  {
+    "path": "/world/2026/oct/30/why-is-north-korea-fortifying-its-border-with-south-korea",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"row\", \"blast\", \"threat\": \"A row over a landmine blast and a threat to resume loudspeaker broadcasts have brought Kim Jong-un's military ambitions into sharper focus.\""
+  },
+  {
+    "path": "/politics/2026/oct/29/save-hammersmith-bridge-but-keep-it-free-of-cars",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Save Hammersmith Bridge – but keep it free of cars\""
+  },
+  {
+    "path": "/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"row\": \"Khadija Shaw's penalty put Manchester City ahead, though Tara Elimbi Gilbert's late equaliser earned PSG a point as City drew their third WCL league phase game in a row, leaving their top-four hopes in danger.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/29/russell-brands-wife-tells-court-he-is-amazingly-attentive-husband",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Russell Brand's wife tells court he is 'amazingly attentive husband'\""
+  },
+  {
+    "path": "/film/2026/oct/29/wicker-review-olivia-colman-finds-the-perfect-lover-in-intriguing-folk-horror-romance",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"Colman plays a depressed, bullied fisherwoman in medieval England whose dreams come true when Peter Dinklage's basketmaker conjures an Alexander Skarsgård made of wicker, in this beguiling folk-horror romance.\""
+  },
+  {
+    "path": "/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"Kureishi's writing gains a thrilling new immediacy, shaped by the constraints that have followed a devastating accident in his life.\""
+  },
+  {
+    "path": "/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"You take on the role of flight attendant in this retro-style game, which veers from daft horror spoof to genuinely disturbing turns.\""
+  },
+  {
+    "path": "/books/2026/oct/29/sarah-howe-wins-forward-poetry-prize-for-best-collection",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sarah Howe wins Forward poetry prize for best collection\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/25/this-is-how-we-do-it-fertility-high-sex-drive",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'Our fertility doctor told us we were having too much sex'\""
+  },
+  {
+    "path": "/fashion/2026/oct/28/sali-hughes-on-beauty-skincare-for-teens-has-had-a-glow-up",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sali Hughes on beauty: skincare for teens has had a glow-up\""
+  },
+  {
+    "path": "/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cycling in the wild heart of the Netherlands: an autumnal break in the Veluwe\""
+  },
+  {
+    "path": "/travel/2026/oct/26/group-skiing-trip-solo-travellers-les-deux-alpes-france-alps",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"'Meet my new après buddies': a joyous group skiing trip in Les Deux Alpes\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/29/i-set-up-a-free-school-for-afghan-girls-and-the-taliban-blindfolded-me-and-broke-my-nose-and-jaw",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastated\": \"Summoned to Taliban headquarters, Arian knew defying them meant death but went anyway; he was blindfolded and had his nose and jaw broken, torture that left him devastated and sure he had to leave the country.\""
+  },
+  {
+    "path": "/lifeandstyle/2026/oct/29/thursday-news-quiz-x-y-and-a-goose-on-the-loose",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Thursday news quiz: election news, puppy views and a very chaotic goose\""
+  },
+  {
+    "path": "/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"turmoil\": \"Trump renewed his call for the prosecution of Mary Peltola as turmoil grew over the Alaska campaign investigation, in a live blog that is now closed.\""
+  },
+  {
+    "path": "/uk-news/2026/oct/29/healey-cut-welfare-bill-tough-approach-young-people-accept-jobs",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"Healey vows to cut the welfare bill before the election through a tough approach to young people, as the fiscal watchdog warns disability benefits will cost £100bn a year by the end of the decade.\""
+  },
+  {
+    "path": "/politics/2024/oct/12/labour-warned-22bn-shortfall-will-last-years-without-higher-taxes-or-cuts",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"The thinktank warns the £22bn overspend the chancellor says she inherited will persist for years unless the government raises taxes or cuts spending.\""
+  },
+  {
+    "path": "/law/2024/dec/09/court-delays-driving-innocent-prisoners-to-plead-guilty-in-england-and-wales",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"delays\"); build it on the upside or score the story honestly and let the front drop it: \"Court delays are prompting some innocent prisoners to plead guilty, watchdogs say\""
+  },
+  {
+    "path": "/us-news/2026/jan/19/donald-trump-greenland-threats-nobel-prize-snub-letter",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"chaos\", \"plunge\": \"The US president tells the Norwegian PM that he no longer feels obliged to think 'purely of peace', as relations with Europe plunge into chaos.\""
+  },
+  {
+    "path": "/world/2026/oct/28/in-serbia-a-new-type-of-democracy-is-taking-hold-and-europe-is-watching-closely",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"outrage\": \"A movement that began in outrage has delivered one of Europe's most remarkable election upsets in Serbia, with Europe watching closely and questions remaining over what comes next.\""
+  }
+]
