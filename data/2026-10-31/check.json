@@ -1,18 +1,6 @@
 [
   {
-    "path": "/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-    "kind": "article",
-    "ok": true,
-    "issues": [
-      "The inserted line 'The government is setting up a cross-party commission to explore replacing first-past-the-post with proportional representation' hardens the ORIGINAL's hedged wording ('a cross-party national commission to consider options to replace first past the post with a form of proportional representation') into a firmer, less hedged claim."
-    ],
-    "tone": {
-      "ok": true,
-      "issues": []
-    }
-  },
-  {
-    "path": "/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt",
+    "path": "/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -22,7 +10,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/29/raf-fairford-police-uk-counter-terrorism",
+    "path": "/world/2026/oct/30/canada-european-union-alliance",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -32,7 +20,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/29/trump-immigration-deport-migrants-third-country",
+    "path": "/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -42,7 +30,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+    "path": "/uk-news/2026/oct/30/russell-brand-trial-accusers-nothing-to-gain-media-court-told",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -52,7 +40,7 @@
     }
   },
   {
-    "path": "/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+    "path": "/business/2026/oct/29/binance-crypto-exchange-hack",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -62,7 +50,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/30/england-tern-colonies-signs-of-recovery-national-trust",
+    "path": "/uk-news/2026/oct/30/men-accused-of-sexually-assaulting-woman-drugged-by-husband-describe-being-invited-to-couples-home",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -72,7 +60,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/30/antarctic-winter-sea-ice-falls-to-third-lowest-level-on-record-as-scientists-warn-of-now-problem",
+    "path": "/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
     "kind": "article",
     "ok": true,
     "issues": [],
@@ -82,8 +70,8 @@
     }
   },
   {
-    "path": "/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-    "kind": "preview",
+    "path": "/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
+    "kind": "article",
     "ok": true,
     "issues": [],
     "tone": {
@@ -92,7 +80,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/30/missile-alerts-cost-ukraine-businesses-halt",
+    "path": "/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -102,7 +90,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/29/raf-fairford-police-uk-counter-terrorism",
+    "path": "/world/2026/oct/30/canada-european-union-alliance",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -112,7 +100,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/29/trump-immigration-deport-migrants-third-country",
+    "path": "/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -122,7 +110,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+    "path": "/uk-news/2026/oct/30/russell-brand-trial-accusers-nothing-to-gain-media-court-told",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -132,7 +120,7 @@
     }
   },
   {
-    "path": "/science/2026/sep/29/retatrutide-godzilla-of-weight-loss-drugs-other-health-benefits",
+    "path": "/business/2026/oct/29/binance-crypto-exchange-hack",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -142,7 +130,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/30/england-tern-colonies-signs-of-recovery-national-trust",
+    "path": "/uk-news/2026/oct/30/men-accused-of-sexually-assaulting-woman-drugged-by-husband-describe-being-invited-to-couples-home",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -152,7 +140,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/30/antarctic-winter-sea-ice-falls-to-third-lowest-level-on-record-as-scientists-warn-of-now-problem",
+    "path": "/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -162,7 +150,7 @@
     }
   },
   {
-    "path": "/society/2026/sep/29/mother-feels-betrayed-family-courts-parental-alienation-england-wales",
+    "path": "/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -172,7 +160,7 @@
     }
   },
   {
-    "path": "/tv-and-radio/2026/sep/29/blue-lights-review-bbc",
+    "path": "/tv-and-radio/2026/oct/30/the-celebrity-traitors-final-review-more-muted-but-still-thrilling-to-the-last",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -182,7 +170,7 @@
     }
   },
   {
-    "path": "/politics/2026/sep/29/andy-burnham-unplugged-labour-conference-sketch",
+    "path": "/music/2026/oct/30/ceilidh-renaissance-traditional-experience-young-people-community-london",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -192,7 +180,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/29/digger-review-tom-cruise-satire-alejandro-gonzalez-inarritu",
+    "path": "/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -202,7 +190,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/29/patricia-nilsson-exposing-worlds-biggest-porn-bosses",
+    "path": "/uk-news/ng-interactive/2026/oct/30/the-white-house-farm-massacre-phone-calls-could-a-single-disputed-digit-set-jeremy-bamber-free",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -212,7 +200,7 @@
     }
   },
   {
-    "path": "/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
+    "path": "/commentisfree/2026/oct/30/israel-election-national-populists-benjamin-netanyahu-arab-parties",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -222,7 +210,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/30/new-zealand-election-voters-abroad-influence-result",
+    "path": "/tv-and-radio/2026/oct/30/essex-woman-voice-netflix-spike-emily-mcgonagle",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -232,7 +220,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/andy-burnham-labour-conference-speech-vision-britain-world-trump",
+    "path": "/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -242,7 +230,7 @@
     }
   },
   {
-    "path": "/business/2026/sep/29/andy-burnham-gb-grid-plan-energy-bills-electricity",
+    "path": "/global-development/2026/oct/31/delhi-women-natureleopards-its-a-man-you-dont-want-run-in-to-the-delhi-women-trying-to-reclaim-their-right-to-nature",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -252,7 +240,7 @@
     }
   },
   {
-    "path": "/business/nils-pratley-on-finance/2026/sep/29/burnham-electricity-grid-idea-interesting-not-public-control",
+    "path": "/business/2026/oct/30/poundland-peril-rampant-inflation-price-wars",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -262,7 +250,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/30/in-search-of-samba-the-fearless-fugitive-capybara",
+    "path": "/world/2026/oct/31/nz-election-2026-who-is-bellwether-electorate-picking-as-winner",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -272,7 +260,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
+    "path": "/world/2026/oct/31/taiwan-gay-bar-police-raid-lgbt-pride-parade",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -282,7 +270,7 @@
     }
   },
   {
-    "path": "/science/2026/sep/30/exeter-devon-exhibition-fungi-mushrooms-living-labyrinths-ramm",
+    "path": "/tv-and-radio/2026/oct/30/celebrity-traitors-has-become-too-nice-for-its-own-good",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -292,7 +280,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/30/wicked-stars-favourite-songs-idina-menzel-stephen-schwartz-broadway",
+    "path": "/tv-and-radio/2026/oct/30/i-felt-bad-for-my-exes-awkwafina-on-making-deeply-personal-tv-with-her-grandma",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -302,7 +290,7 @@
     }
   },
   {
-    "path": "/thefilter/2026/sep/29/best-walking-trekking-poles-uk",
+    "path": "/thefilter/2026/oct/30/expert-guide-prepare-stockpile-emergency-uk",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -312,7 +300,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/30/it-shouldnt-take-the-eviction-of-an-87-year-old-to-get-spains-housing-crisis-fixed",
+    "path": "/wellness/ng-interactive/2026/oct/30/death-grief-loss-book",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -322,7 +310,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity",
+    "path": "/lifeandstyle/2026/oct/30/gay-halloween-ms-director-kathryn-turner-is-the-ultimate-costume-idea",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -332,7 +320,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/nigel-farage-reform-raf-fairford-red-button",
+    "path": "/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -342,7 +330,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/donald-trump-maga-cult-finally-crumbling",
+    "path": "/football/2026/oct/30/mikel-arteta-arsenal-inspiration-george-graham-anfield-liverpool",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -352,7 +340,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/britons-not-ageing-healthily-protect-nhs-social-care",
+    "path": "/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -362,7 +350,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
+    "path": "/sport/2026/oct/30/england-return-to-winning-ways-with-comfortable-victory-over-usa",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -372,7 +360,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
+    "path": "/sport/2026/oct/30/bristol-exeter-prem-rugby-union-match-report",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -382,7 +370,7 @@
     }
   },
   {
-    "path": "/commentisfree/2026/sep/29/the-guardian-view-on-moroccos-election-hosting-a-world-cup-will-not-placate-a-disillusioned-generation",
+    "path": "/sport/2026/oct/30/mexico-grand-prix-kimi-antonelli-f1-history",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -392,7 +380,7 @@
     }
   },
   {
-    "path": "/politics/2026/sep/29/labour-has-its-own-role-in-this-climate-of-hate-and-racism",
+    "path": "/sport/live/2026/oct/30/breeders-cup-2026-folsom-blues-set-to-go-off-as-favourite-in-juvenile-turf-day-one-live",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -402,7 +390,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/29/even-george-osborne-might-be-a-nimby-if-an-ai-datacente-was-built-next-to-his-home",
+    "path": "/sport/2026/oct/30/australia-set-288-to-win-after-south-african-centurions-turn-the-tide",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -412,7 +400,7 @@
     }
   },
   {
-    "path": "/society/2026/sep/29/a-change-in-prison-culture-is-vital-as-is-more-money-to-reduce-overcrowding",
+    "path": "/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -422,7 +410,7 @@
     }
   },
   {
-    "path": "/society/2026/sep/29/its-not-the-price-of-your-toothbrush-but-how-you-use-it",
+    "path": "/commentisfree/2026/oct/30/liz-truss-public-failure-bounce-back-remorse-honesty",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -432,7 +420,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league",
+    "path": "/uk-news/2026/oct/30/digested-week-celebrity-traitors-liz-truss-harry-kane",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -442,7 +430,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/29/trent-alexander-arnold-england-czechia-thomas-tuchel-nations-league",
+    "path": "/culture/2026/oct/30/patrick-stewart-icon-bald-men-shatner-kirk-star-trek",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -452,7 +440,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/29/scotland-switzerland-nations-league-match-report",
+    "path": "/commentisfree/2026/oct/30/brexit-eu-debate-again-political-minefield-andy-burnham",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -462,7 +450,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/30/england-vital-lessons-from-defeat-rugby-world-cup-martin-johnson-steve-borthwick",
+    "path": "/commentisfree/2026/oct/30/could-2026-be-the-year-that-democracy-fought-back",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -472,7 +460,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/29/cricket-england-stephen-fleming-joe-root-south-africa-test-series",
+    "path": "/commentisfree/2026/oct/30/the-hill-i-will-die-on-dumplings-ultimate-proof-of-common-humanity",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -482,7 +470,7 @@
     }
   },
   {
-    "path": "/football/2026/sep/29/uefa-president-aleksander-ceferin-condemns-gianni-infantino-fifa",
+    "path": "/commentisfree/2026/oct/30/the-guardian-view-on-labours-fiscal-devolution-the-future-of-burnhamism-will-play-out-in-municipal-england",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -492,7 +480,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/29/ferrari-christian-horner-fred-vasseur-f1",
+    "path": "/commentisfree/2026/oct/30/the-guardian-view-on-50-years-of-the-selfish-gene-flawed-outdated-yet-still-a-model-of-truly-popular-science-writing",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -502,7 +490,7 @@
     }
   },
   {
-    "path": "/sport/2026/sep/29/nhl-canada-us-moves-connor-hellebuyck-tkachuk-larkin-hughes",
+    "path": "/uk-news/2026/oct/30/this-budget-fails-to-live-up-to-andy-burnhams-grand-rhetoric",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -512,7 +500,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/29/trump-e-jean-carroll-verdict",
+    "path": "/society/2026/oct/30/dont-just-ban-school-uniforms-from-pornography-ban-them-altogether",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -522,7 +510,7 @@
     }
   },
   {
-    "path": "/culture/2026/sep/29/england-national-museum-remain-free-overseas-visitors-dcms-review",
+    "path": "/politics/2026/oct/30/pedestrianisation-wont-save-oxford-street",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -532,7 +520,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/30/tokyo-japan-record-rain-35-consecutive-days-el-nino-weather",
+    "path": "/uk-news/2026/oct/30/one-mans-war-on-the-scourge-of-sodcasting",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -542,7 +530,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/29/jack-smith-senate-hearing",
+    "path": "/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -552,7 +540,7 @@
     }
   },
   {
-    "path": "/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+    "path": "/uk-news/2026/oct/30/police-jeffrey-epstein-balmoral-former-prince-andrew",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -562,7 +550,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/29/night-sky-darkness-city-regulation",
+    "path": "/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -572,7 +560,7 @@
     }
   },
   {
-    "path": "/business/2026/sep/29/new-uk-homes-flood-risk-areas-insurance-aviva-amanda-blanc-budget",
+    "path": "/science/2026/oct/30/perfume-bottle-child-necklace-pompeii-wardrobe",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -582,7 +570,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/29/un-warns-of-narrowing-window-to-restore-worlds-forests",
+    "path": "/uk-news/2026/oct/30/iopc-watchdog-investigate-met-police-meghan-warning-letter",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -592,7 +580,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/28/blackpool-community-pfas-pollution-forever-chemicals",
+    "path": "/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -602,7 +590,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
+    "path": "/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -612,7 +600,7 @@
     }
   },
   {
-    "path": "/business/2026/sep/29/give-brewdog-second-chance-says-new-owner-invests",
+    "path": "/environment/2026/oct/30/haywards-heath-ardingly-reservoir-water-level-drought-england",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -622,7 +610,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/29/los-angeles-bear-crawlspace",
+    "path": "/science/2026/oct/29/jet-lag-throws-seabirds-off-course-nature",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -632,7 +620,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/29/american-idol-ohio-pastor-guilty-wife-murder",
+    "path": "/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -642,7 +630,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/29/saudi-arabia-urged-to-reconcile-with-uae-to-drive-back-houthi-separatists-in-yemen",
+    "path": "/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -652,7 +640,7 @@
     }
   },
   {
-    "path": "/business/2026/sep/29/barclays-softens-return-to-office-plans-for-uk-staff-after-backlash",
+    "path": "/uk-news/2026/oct/30/cyclist-murder-manchester-simon-richardson-michael-mullins",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -662,7 +650,7 @@
     }
   },
   {
-    "path": "/business/2026/sep/29/m-and-s-sephora-beauty-marks-spencer-stores-online",
+    "path": "/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -672,7 +660,7 @@
     }
   },
   {
-    "path": "/business/2026/sep/29/dale-vince-london-newspapers-rightwing-press-bias",
+    "path": "/us-news/2026/oct/30/christa-pike-statement-tennessee-execution",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -682,7 +670,7 @@
     }
   },
   {
-    "path": "/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+    "path": "/us-news/2026/oct/30/democrats-miscarriages-ice-detainees",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -692,7 +680,7 @@
     }
   },
   {
-    "path": "/artanddesign/2026/sep/29/sculpture-far-more-power-if-broken",
+    "path": "/business/2026/oct/30/uk-house-prices-grow-at-slowest-pace-in-two-years-as-mortgage-rates-rise",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -702,7 +690,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/29/the-portuguese-house-review-picturesque-polite-drama-of-secrets-and-revelations-at-a-country-estate",
+    "path": "/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -712,7 +700,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/29/child-review-luxembourg-horror",
+    "path": "/society/2026/oct/29/inside-the-slot-farms-targeted-in-budget-gambling",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -722,7 +710,7 @@
     }
   },
   {
-    "path": "/tv-and-radio/2026/sep/28/michael-palin-in-the-philippines-review-channel-5",
+    "path": "/film/2026/oct/30/i-saw-the-script-and-went-oooh-olivia-colman-and-alexander-skarsgard-on-their-steamy-folk-horror-movie-wicker",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -732,7 +720,7 @@
     }
   },
   {
-    "path": "/film/2026/sep/29/april-x-review-connor-storrie-lilly-krug",
+    "path": "/film/2026/oct/30/scariest-non-horror-movies",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -742,7 +730,7 @@
     }
   },
   {
-    "path": "/music/2026/sep/29/prince-sign-o-times-book-john-mckie",
+    "path": "/film/2026/oct/30/oh-to-believe-in-another-world-review-william-kentridges-amazing-animated-ballet-of-black-comic-pain",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -752,7 +740,7 @@
     }
   },
   {
-    "path": "/tv-and-radio/2026/sep/28/a-great-book-with-barack-obama-tom-hanks-interview-best-podcasts-of-the-week",
+    "path": "/tv-and-radio/2026/oct/30/from-possible-love-to-ali-g-who-iz-i-the-seven-best-films-to-watch-on-tv-this-week",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -762,7 +750,7 @@
     }
   },
   {
-    "path": "/music/2026/sep/28/paraorchestra-sinfonietta-greenwood-steve-reich-at-90-review-southbank-london",
+    "path": "/tv-and-radio/2026/oct/30/black-doves-to-stick-the-seven-best-shows-to-stream-this-week",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -772,7 +760,7 @@
     }
   },
   {
-    "path": "/books/2026/sep/29/the-fall-of-the-west-by-owen-jones-review-a-bracing-history-of-the-changing-world-order",
+    "path": "/music/2026/oct/30/the-weeks-best-new-songs-dutch-squat-punks-bombstrap-rotterdam",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -782,7 +770,7 @@
     }
   },
   {
-    "path": "/books/2026/sep/29/stations-by-louise-kennedy-review-a-superb-follow-up-to-trespasses",
+    "path": "/music/2026/oct/30/radie-peat-no-human-tongue-can-tell-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -792,7 +780,7 @@
     }
   },
   {
-    "path": "/books/2026/sep/28/deep-into-the-sixties-britain-1965-66-by-david-kynaston-review-beatles-bigots-and-streets-in-the-sky",
+    "path": "/music/2026/oct/30/kali-malone-burning-song-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -802,7 +790,7 @@
     }
   },
   {
-    "path": "/books/2026/sep/28/range-by-dorthe-nors-review-an-astrophysicist-at-odds-with-reality",
+    "path": "/music/2026/oct/29/morphine-mark-sandman-cocoon-partisan",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -812,7 +800,7 @@
     }
   },
   {
-    "path": "/games/2026/sep/25/ace-combat-8-wings-of-theve-review",
+    "path": "/books/2026/oct/30/philippa-gregory-i-read-100-of-the-best-18th-century-novels-the-perfect-authors-apprenticeship",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -822,7 +810,7 @@
     }
   },
   {
-    "path": "/games/2026/sep/25/playing-video-games-with-my-22-year-old-son-has-brought-me-to-tears-call-of-duty-modern-warfare-2",
+    "path": "/books/2026/oct/30/the-best-recent-translated-fiction-review-roundup",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -832,7 +820,7 @@
     }
   },
   {
-    "path": "/games/2026/sep/23/why-are-gamers-ripping-into-the-new-wolverine-game",
+    "path": "/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -842,7 +830,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/28/happy-days-review-beckett-pitlochry-festival-theatre-siobhan-redmond-forbes-masson",
+    "path": "/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -852,7 +840,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/28/the-first-year-of-the-gaza-genocide-in-the-media-review-new-diorama-theatre-london",
+    "path": "/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -862,7 +850,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/27/a-midsummer-nights-dream-review-munya-chawawa-chichester-festival-theatre",
+    "path": "/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -872,7 +860,7 @@
     }
   },
   {
-    "path": "/stage/2026/sep/28/tru-review-a-five-star-performance-of-a-three-star-script-about-the-life-of-truman-capote",
+    "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -882,7 +870,7 @@
     }
   },
   {
-    "path": "/books/2026/sep/29/cherise-saywell-wins-bbc-short-story-award-ditto",
+    "path": "/artanddesign/2026/oct/30/william-morris-orkney-derry-painters-art",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -892,7 +880,7 @@
     }
   },
   {
-    "path": "/loved-clothes-live-longer/2026/sep/25/clothes-care-washing-tips-experts",
+    "path": "/stage/2026/oct/30/ceilidh-a-new-musical-review",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -902,7 +890,7 @@
     }
   },
   {
-    "path": "/loved-clothes-live-longer/2026/sep/25/fashion-comebacks-keep-old-clothes",
+    "path": "/music/2026/oct/30/lso-pappano-review-hannah-kendall-barbican",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -912,7 +900,7 @@
     }
   },
   {
-    "path": "/fashion/2026/sep/29/jonathan-anderson-mixes-austen-romance-with-chic-streetware-in-diors-paris-show",
+    "path": "/music/2026/oct/30/carmen-review-ginger-costa-jackson-royal-opera-house-london",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -922,7 +910,7 @@
     }
   },
   {
-    "path": "/food/2026/sep/29/stop-press-why-garlic-presses-so-out-of-fashion",
+    "path": "/music/2026/oct/30/skepta-interview-the-fork-and-knife-album",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -932,7 +920,7 @@
     }
   },
   {
-    "path": "/thefilter/2026/sep/29/how-to-lead-more-analogue-life",
+    "path": "/tv-and-radio/2026/oct/30/susan-saint-james-obituary",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -942,7 +930,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/25/things-you-loved-most-september-2026",
+    "path": "/money-talks/2026/oct/02/awkward-money-questions-splitting-bills",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -952,7 +940,7 @@
     }
   },
   {
-    "path": "/thefilter/2026/sep/26/best-worst-supermarket-lemon-cheesecake-tasted-rated-tom-hunt",
+    "path": "/money-talks/2026/oct/02/how-to-handle-awkward-money-conversations-quiz",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -962,7 +950,7 @@
     }
   },
   {
-    "path": "/food/2026/sep/29/scotch-distilleries-pause-production-whisky-loch-scotland",
+    "path": "/money-talks/2026/sep/24/intergenerational-finance-hacks-from-boomers-to-gen-z",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -972,7 +960,7 @@
     }
   },
   {
-    "path": "/food/2026/sep/29/angel-delight-croissants-the-autumn-food-trends-hotlist",
+    "path": "/money-talks/2026/sep/24/pay-week-diaries-how-three-people-manage-their-money",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -982,7 +970,7 @@
     }
   },
   {
-    "path": "/food/2026/sep/29/autumn-food-stars-what-to-cook-plant-and-pick-now",
+    "path": "/lifeandstyle/2026/oct/30/body-positivity-ozempic-thinness",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -992,7 +980,7 @@
     }
   },
   {
-    "path": "/food/2026/sep/29/turmeric-chicken-and-cardamom-apple-tart-recipes-thomasina-miers",
+    "path": "/fashion/2026/oct/30/fashion-autumn-rain-best-raincoats-accessories",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1002,7 +990,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/28/dennis-the-terrier-farted-on-jilly-coopers-sofa",
+    "path": "/thefilter/2026/oct/29/dyson-camerajet-electric-toothbrush-review-tested-uk",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1012,7 +1000,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/28/how-couples-can-divide-household-chores-mental-load",
+    "path": "/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1022,7 +1010,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/28/kindness-of-strangers-helicopter-pilots-waved-to-my-son",
+    "path": "/thefilter/2025/nov/04/best-umbrellas-tested-uk",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1032,7 +1020,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/27/dining-across-the-divide-robin-aslak",
+    "path": "/thefilter/2024/oct/18/best-heated-clothes-airers-dryer-save-time-money-laundry",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1042,7 +1030,7 @@
     }
   },
   {
-    "path": "/technology/2026/sep/29/mac-mini-m6-review",
+    "path": "/food/2026/oct/30/bonfire-night-miso-toffee-apple-hand-pies-recipe-helen-goh",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1052,29 +1040,17 @@
     }
   },
   {
-    "path": "/money/2026/sep/28/first-home-scheme-first-time-buyers-what-you-need-to-know",
+    "path": "/food/2026/oct/28/how-to-build-an-emergency-food-cupboard-without-panic-buying",
     "kind": "preview",
     "ok": true,
     "issues": [],
     "tone": {
       "ok": true,
       "issues": []
-    }
-  },
-  {
-    "path": "/money/2026/sep/29/change-to-lv-insurance-claim-subsidence-house-collapsing",
-    "kind": "preview",
-    "ok": true,
-    "issues": [],
-    "tone": {
-      "ok": false,
-      "issues": [
-        "Headline is virtually unchanged from the original ('LV= insurance is ignoring us while our house literally falls apart' -> 'LV= is ignoring us as our house literally falls apart') -- a cosmetic swap of words rather than a genuine reframing, with no sign of a search for an upside (e.g. an ombudsman complaint or regulatory response) the underlying piece might contain."
-      ]
     }
   },
   {
-    "path": "/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years",
+    "path": "/food/2026/oct/30/gherkins-galore-17-delicious-ways-to-enjoy-pickles-from-frickles-to-pickletinis",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1084,7 +1060,7 @@
     }
   },
   {
-    "path": "/wellness/2026/sep/28/pregnant-pet-aversion",
+    "path": "/lifeandstyle/2026/oct/30/how-to-deal-with-board-games-bad-loser-advice",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1094,7 +1070,7 @@
     }
   },
   {
-    "path": "/wellness/2026/sep/27/glp-1s-hair-loss",
+    "path": "/lifeandstyle/2026/oct/26/the-pet-ill-never-forget-clement-was-hit-by-a-car-and-left-to-die-in-a-ditch-then-found-his-beautiful-purpose",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1104,7 +1080,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/25/experience-brain-surgeon-dropped-skull-floor",
+    "path": "/lifeandstyle/2026/oct/25/this-is-how-we-do-it-fertility-high-sex-drive",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1114,7 +1090,7 @@
     }
   },
   {
-    "path": "/fashion/2026/sep/27/armani-plays-it-safe-ownership-milan-fashion-week",
+    "path": "/lifeandstyle/2026/oct/25/gave-ex-house-half-savings-now-resentful",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1124,7 +1100,7 @@
     }
   },
   {
-    "path": "/fashion/2026/sep/27/weight-loss-pill-company-eli-lilly-vogue-world-ties-concerns-health-campaigners",
+    "path": "/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1134,7 +1110,7 @@
     }
   },
   {
-    "path": "/fashion/2026/sep/27/camo-is-back-noughties-pops-military-style-is-on-the-march-again",
+    "path": "/uk-news/2026/oct/29/readers-react-to-budget-2026",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1144,7 +1120,7 @@
     }
   },
   {
-    "path": "/fashion/2026/sep/26/dolce-gabbana-mixes-it-up-turnaround-milan-fashion-week-jennifer-lopez",
+    "path": "/money/2026/oct/26/healey-pensioners-low-income-tax-budget-how-will-it-work",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1154,7 +1130,7 @@
     }
   },
   {
-    "path": "/travel/2026/sep/29/saunas-cinnamon-buns-and-coastal-scenery-on-the-new-rail-route-from-malmo-to-oslo",
+    "path": "/money/2026/oct/26/airport-car-parks-ruthless-charges-parking-fine",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1164,7 +1140,7 @@
     }
   },
   {
-    "path": "/travel/ng-interactive/2026/sep/27/15-great-cottages-cabins-autumn-escape-uk",
+    "path": "/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1174,7 +1150,7 @@
     }
   },
   {
-    "path": "/travel/ng-interactive/2026/sep/26/15-great-small-hotels-inns-and-restaurants-with-rooms-for-an-autumn-stay-in-the-uk",
+    "path": "/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1184,7 +1160,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/30/country-diary-the-land-here-is-scarred-from-a-year-of-hard-weather-now-what-will-winter-hold",
+    "path": "/wellness/2026/oct/27/can-you-run-marathon-glp-1s",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1194,7 +1170,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/29/the-pest-ill-never-forget-turned-toaster-upside-down-mouse-fell-out",
+    "path": "/fashion/2026/oct/29/diy-socks-messy-collars-and-cummberbunds-nine-wardrobe-updates-from-the-catwalks",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1204,7 +1180,7 @@
     }
   },
   {
-    "path": "/lifeandstyle/2026/sep/29/inside-britains-bilious-backyard-shed-wars",
+    "path": "/lifeandstyle/2026/oct/28/the-shocking-rise-of-rib-remodelling-i-wanted-that-hourglass-shape",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1214,7 +1190,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
+    "path": "/fashion/2026/oct/28/jess-cartner-morley-on-fashion-british-heritage-look-rivals",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1224,7 +1200,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/27/inferno-inside-map-predict-prevent-wildfires-uk",
+    "path": "/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1234,7 +1210,7 @@
     }
   },
   {
-    "path": "/society/2026/sep/29/tell-us-have-you-had-shingles-vaccine-hope-reducing-dementia-risk",
+    "path": "/travel/2026/oct/29/snowdonia-slate-trail-walk-north-wales",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1244,7 +1220,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/28/raf-fairford-suspected-bomb-plot-have-you-been-affected",
+    "path": "/travel/2026/oct/28/cycling-nature-holiday-veluwe-netherlands",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1254,7 +1230,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/sep/24/tell-us-have-you-been-assaulted-on-great-britains-railways",
+    "path": "/travel/2026/oct/27/cs-lewis-narnia-inspiration-northern-ireland-belfast",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1264,7 +1240,7 @@
     }
   },
   {
-    "path": "/money/2026/sep/28/did-you-buy-home-help-to-buy-tell-us-about-your-experience",
+    "path": "/lifeandstyle/2026/oct/30/experience-i-live-in-the-house-from-the-80s-horror-movie-poltergeist",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1274,7 +1250,7 @@
     }
   },
   {
-    "path": "/politics/2026/sep/29/brexit-electoral-reform-key-takeaways-andy-burnham-conference-speech",
+    "path": "/lifeandstyle/2026/oct/30/tiny-pond-wildlife-garden",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1284,7 +1260,7 @@
     }
   },
   {
-    "path": "/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
+    "path": "/world/2026/oct/29/pragmatic-or-pointless-europe-rift-over-pick-up-phone-putin",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1294,7 +1270,7 @@
     }
   },
   {
-    "path": "/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1304,7 +1280,7 @@
     }
   },
   {
-    "path": "/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
+    "path": "/business/2026/oct/30/tell-us-have-you-been-affected-by-the-binance-hack",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1314,7 +1290,7 @@
     }
   },
   {
-    "path": "/politics/2026/sep/26/burnham-pledges-radical-change-labour-conference-exclusive",
+    "path": "/culture/2026/oct/30/share-your-tributes-and-memories-of-patrick-stewart",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1324,7 +1300,7 @@
     }
   },
   {
-    "path": "/world/2026/aug/25/germany-drone-suspected-military-explosives-found-near-leipzig-airport",
+    "path": "/football/2026/oct/29/questions-charlie-nicholas-celtic-arsenal-scotland-forward",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1334,7 +1310,7 @@
     }
   },
   {
-    "path": "/world/2026/aug/10/ukraine-drone-strike-on-oil-refinery-russia",
+    "path": "/tv-and-radio/live/2026/oct/30/the-celebrity-traitors-finale-live",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1344,7 +1320,7 @@
     }
   },
   {
-    "path": "/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
+    "path": "/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1354,7 +1330,7 @@
     }
   },
   {
-    "path": "/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
+    "path": "/uk-news/ng-interactive/2026/sep/14/royal-crown-branded-africans-britain-monarchy-slave-trade-trafficking",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1364,7 +1340,7 @@
     }
   },
   {
-    "path": "/world/2026/aug/19/volodymyr-zelenskyy-sacks-senior-aide-amid-ukraine-corruption-crisis",
+    "path": "/uk-news/ng-interactive/2026/sep/14/register-british-slave-traders",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1374,7 +1350,7 @@
     }
   },
   {
-    "path": "/world/2026/sep/10/russia-orthodox-church-dmitry-donskoy-medieval-prince-hand-troops-ukraine",
+    "path": "/global-development/2026/oct/17/king-charles-caribbean-winston-churchill-empire-britain-wealth",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1384,7 +1360,7 @@
     }
   },
   {
-    "path": "/us-news/2026/sep/24/trump-supreme-court-third-country-deportation",
+    "path": "/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1394,7 +1370,7 @@
     }
   },
   {
-    "path": "/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump",
+    "path": "/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1404,7 +1380,7 @@
     }
   },
   {
-    "path": "/us-news/2025/may/16/supreme-court-alien-enemies-act-trump",
+    "path": "/world/2026/sep/15/canada-eu-economic-alliance",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1414,7 +1390,7 @@
     }
   },
   {
-    "path": "/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+    "path": "/world/2026/oct/28/european-union-canada",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1424,7 +1400,7 @@
     }
   },
   {
-    "path": "/us-news/2026/aug/14/trump-ballroom-supreme-court",
+    "path": "/commentisfree/2026/sep/17/opening-the-eu-door-for-canada-is-a-harmless-gesture-but-it-wont-fix-europes-security-crisis",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1434,7 +1410,7 @@
     }
   },
   {
-    "path": "/us-news/2026/aug/24/supreme-court-trump-mail-in-voting",
+    "path": "/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1444,7 +1420,7 @@
     }
   },
   {
-    "path": "/football/2024/oct/07/manchester-city-premier-league-tribunal-verdict",
+    "path": "/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1454,7 +1430,7 @@
     }
   },
   {
-    "path": "/football/2025/feb/07/manchester-city-new-legal-action-premier-league-apt-rules",
+    "path": "/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1464,7 +1440,7 @@
     }
   },
   {
-    "path": "/football/2025/feb/14/premier-league-sponsorship-rules-declared-void-in-win-for-manchester-city",
+    "path": "/football/2023/oct/30/ballon-dor-bonmati-and-messi-get-top-accolades-as-bellingham-acclaimed",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1474,7 +1450,7 @@
     }
   },
   {
-    "path": "/football/2024/nov/22/premier-league-clubs-approve-rule-changes-manchester-city-associated-party-transactions-apts",
+    "path": "/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1484,7 +1460,7 @@
     }
   },
   {
-    "path": "/football/2024/sep/20/win-or-lose-manchester-city-case-poses-perilous-threat-to-the-premier-league",
+    "path": "/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1494,7 +1470,7 @@
     }
   },
   {
-    "path": "/football/article/2024/jun/04/manchester-city-launch-legal-action-against-premier-league-over-sponsorship-rules",
+    "path": "/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1504,7 +1480,7 @@
     }
   },
   {
-    "path": "/science/2024/nov/25/weight-loss-drugs-can-improve-kidney-health-study-finds",
+    "path": "/football/2025/sep/23/ousmane-dembele-ballon-dor-paris-saint-germain-france-lamine-yamal",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1514,7 +1490,7 @@
     }
   },
   {
-    "path": "/society/2025/dec/01/who-says-weight-loss-drugs-are-new-chapter-in-fight-against-obesity",
+    "path": "/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1524,7 +1500,7 @@
     }
   },
   {
-    "path": "/science/2025/jan/27/regulation-online-sale-weight-loss-jabs-pharmacists-say",
+    "path": "/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1534,7 +1510,7 @@
     }
   },
   {
-    "path": "/science/2025/feb/04/uk-online-pharmacies-rules-wegovy-mounjaro-ozempic",
+    "path": "/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1544,7 +1520,7 @@
     }
   },
   {
-    "path": "/science/2026/jul/25/weight-loss-drug-side-effects-evidence-nausea-ozempic-face",
+    "path": "/technology/2022/jun/29/crypto-crisis-digital-currencies-boom-collapse-bitcoin-terra",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1554,7 +1530,7 @@
     }
   },
   {
-    "path": "/society/2026/aug/24/daily-diabetes-pill-foundayo-weight-loss-uk-pharmacies",
+    "path": "/technology/2022/jun/13/crypto-lender-celsius-network-halts-withdrawals-extreme-market-conditions",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1564,7 +1540,7 @@
     }
   },
   {
-    "path": "/uk-news/2026/aug/09/these-are-human-fires-not-wildfires-dunwich-reflects-on-the-devastation",
+    "path": "/technology/2022/nov/10/what-happened-to-ftx-and-could-crisis-spill-over-to-rest-of-crypto",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1574,7 +1550,7 @@
     }
   },
   {
-    "path": "/environment/2025/aug/13/collective-endeavour-natural-england-tony-juniper-conservation",
+    "path": "/technology/2019/jul/12/tokyo-cryptocurrency-exchange-hack-bitpoint-bitcoin",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1584,7 +1560,7 @@
     }
   },
   {
-    "path": "/environment/2025/feb/28/beavers-released-english-waterways-government-licence",
+    "path": "/australia-news/2022/mar/01/pariah-state-australia-gives-70m-to-ukraine-weapons-fund-and-calls-for-diplomatic-isolation-of-russia",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1594,7 +1570,7 @@
     }
   },
   {
-    "path": "/environment/2023/nov/16/more-than-half-of-uk-and-ireland-seabirds-in-decline-census-finds",
+    "path": "/australia-news/2022/jul/08/penny-wong-china-and-australia-take-first-steps-towards-stabilising-relationship",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1604,7 +1580,7 @@
     }
   },
   {
-    "path": "/environment/2021/aug/05/fledgling-success-hen-harrier-continues-recover-england",
+    "path": "/australia-news/2023/sep/05/australia-to-roll-out-new-south-east-asia-trade-strategy-to-hedge-against-china",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1614,7 +1590,7 @@
     }
   },
   {
-    "path": "/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset",
+    "path": "/australia-news/2021/apr/23/china-threatens-to-retaliate-after-australia-cancels-two-belt-and-road-agreements",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1624,7 +1600,7 @@
     }
   },
   {
-    "path": "/world/2022/feb/23/antarctic-sea-ice-falls-to-lowest-level-since-measurements-began-in-1979",
+    "path": "/australia-news/2025/jul/24/scott-morrison-tells-us-australia-risks-going-to-sleep-on-china-threat-after-diplomatic-charm-and-flattery",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1634,7 +1610,7 @@
     }
   },
   {
-    "path": "/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
+    "path": "/australia-news/2025/apr/19/australia-to-advocate-for-melbourne-man-reportedly-charged-by-russia-after-fighting-for-ukraine",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1644,7 +1620,7 @@
     }
   },
   {
-    "path": "/world/2023/sep/26/antarctic-sea-ice-shrinks-to-lowest-annual-maximum-level-on-record-data-shows",
+    "path": "/society/2023/may/25/she-gave-me-hope-domestic-abuse-survivors-praise-tina-turner-gravery-melanie-brown-mel-b",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1654,7 +1630,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
+    "path": "/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1664,7 +1640,7 @@
     }
   },
   {
-    "path": "/world/2026/jul/25/aukus-nuclear-submarines-danger-weapons-grade-uranium",
+    "path": "/society/2023/nov/09/police-report-domestic-abuse-victims-immigration-officers-when-they-ask-for-help-data",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1674,7 +1650,7 @@
     }
   },
   {
-    "path": "/world/2023/aug/08/drastic-action-needed-to-limit-worsening-extreme-events-in-antarctica-scientists-warn",
+    "path": "/uk-news/2022/jun/30/watchdogs-condemn-police-response-domestic-abuse-claims-against-officers",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1684,7 +1660,7 @@
     }
   },
   {
-    "path": "/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
+    "path": "/society/2024/feb/28/labour-plans-raneems-law-to-protect-victims-of-domestic-abuse",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1694,7 +1670,7 @@
     }
   },
   {
-    "path": "/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops",
+    "path": "/society/2024/feb/27/gove-urged-to-protect-domestic-abuse-services-funding-amid-councils-crisis",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1704,7 +1680,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/30/australia-electric-cars-vehichles-ev-sales-double",
+    "path": "/environment/2026/oct/30/wildlife-trusts-northumberland-nature-recovery-rothbury-estate",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1714,7 +1690,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows",
+    "path": "/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1724,7 +1700,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/29/cambodia-chorng-indigenous-communities-siamese-crocodile-endangered-conservation-aoe",
+    "path": "/world/2026/oct/30/student-list-focus-on-cleaning-up-serbia-corruption",
     "kind": "preview",
     "ok": true,
     "issues": [],
@@ -1734,7 +1710,7 @@
     }
   },
   {
-    "path": "/environment/2026/sep/28/river-avon-charter-bristol",
+    "path": "/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic",
     "kind": "preview",
     "ok": true,
     "issues": [],

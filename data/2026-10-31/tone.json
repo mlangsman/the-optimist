@@ -1,0 +1,93 @@
+[
+  {
+    "path": "/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatened\": \"Marco Rubio pulled the traditional photo op at the meeting of foreign ministers after about a third of countries threatened a boycott over Russia's presence.\""
+  },
+  {
+    "path": "/us-news/2026/oct/30/democrats-miscarriages-ice-detainees",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Democratic lawmakers demand ICE track data on detainee miscarriages\""
+  },
+  {
+    "path": "/books/2026/oct/29/are-you-with-me-now-by-hanif-kureishi-review-back-to-basics",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"The constraints of Kureishi’s life after a devastating accident infuse his writing with a new and thrilling immediacy.\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/30/susan-saint-james-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Susan Saint James obituary\""
+  },
+  {
+    "path": "/food/2026/oct/30/bonfire-night-miso-toffee-apple-hand-pies-recipe-helen-goh",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Helen Goh's miso-toffee apple hand pies - recipe\""
+  },
+  {
+    "path": "/food/2026/oct/30/gherkins-galore-17-delicious-ways-to-enjoy-pickles-from-frickles-to-pickletinis",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Gherkins galore: 17 delicious ways to enjoy pickles, from frickles to pickletinis\""
+  },
+  {
+    "path": "/science/2026/oct/28/ferritin-face-social-media-claims-iron-deficiency",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Experts say symptoms such as dark circles, grey skin, cracked lips and hair loss can be a warning sign, but other factors are behind them too.\""
+  },
+  {
+    "path": "/culture/2026/oct/30/share-your-tributes-and-memories-of-patrick-stewart",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Share your tributes and memories of actor Patrick Stewart\""
+  },
+  {
+    "path": "/commentisfree/2026/sep/17/opening-the-eu-door-for-canada-is-a-harmless-gesture-but-it-wont-fix-europes-security-crisis",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Beyond the morale boost and Mark Carney's stardust, 'associate membership' means little on its own, says Paul Taylor of the European Policy Centre, who argues Europe's security crisis still needs a real response.\""
+  },
+  {
+    "path": "/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"The push continues even as Donald Trump threatens to halt trade with the EU, calling its 'membership' offer to Canada 'laughable'.\""
+  },
+  {
+    "path": "/technology/2022/jun/13/crypto-lender-celsius-network-halts-withdrawals-extreme-market-conditions",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Bitcoin withdrawals temporarily paused in volatile day for crypto market\""
+  },
+  {
+    "path": "/australia-news/2022/jul/08/penny-wong-china-and-australia-take-first-steps-towards-stabilising-relationship",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Penny Wong: China and Australia take 'first steps towards stabilising relationship'\""
+  },
+  {
+    "path": "/australia-news/2025/jul/24/scott-morrison-tells-us-australia-risks-going-to-sleep-on-china-threat-after-diplomatic-charm-and-flattery",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"The former prime minister told a US House of Representatives committee that Australia must do more to resist the security threat posed by China, after a push of diplomatic 'charm and flattery'.\""
+  }
+]
