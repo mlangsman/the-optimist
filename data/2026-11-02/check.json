@@ -112,8 +112,10 @@
   {
     "path": "/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The trail says the insults came 'At the same rally' — the ORIGINAL says only 'At the same time', which is vaguer; given this live blog covers rallies in both Iowa and Kansas and El-Sayed is a Michigan Senate candidate, asserting it was literally 'the same rally' as the Iowa one is an unsupported, invented specific."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -442,8 +444,10 @@
   {
     "path": "/sport/2026/nov/01/steve-borthwick-england-players-improve-discipline-before-nations-championships-rugby",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline says Borthwick wants discipline tightened 'before Nations Championship' — the ORIGINAL says 'at Nations Championship', which is about discipline during the tournament itself rather than in the preparation period; the change in timing is not clearly supported."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -492,8 +496,10 @@
   {
     "path": "/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline says the parents sued after 'ChatGPT medication advice' — the ORIGINAL says 'ChatGPT misguidance', which asserts the advice was wrong/harmful; 'medication advice' is a neutral description that softens the central allegation of fault that the lawsuit itself rests on."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -532,8 +538,10 @@
   {
     "path": "/environment/2026/oct/31/this-is-a-robust-recipe-the-experimental-farm-bucking-the-decline-in-uk-birds",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline quotes '\"A robust recipe\"' — the ORIGINAL's direct quotation is '\"This is a robust recipe\"'; trimming the quoted words while still presenting them inside quotation marks changes what was actually said."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -572,8 +580,10 @@
   {
     "path": "/politics/2026/nov/01/green-party-must-avoid-hard-left-takeover-says-former-leader-adrian-ramsay",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline says Ramsay warns of a 'pull from hard-left newcomers' — the ORIGINAL headline, attributed to the former leader, says the party 'must avoid being taken over by hard left'; 'pull' describes mere influence where 'taken over' describes losing control outright, understating the severity of what is attributed to him."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -595,8 +605,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'French authorities open attempted murder investigation after riot clashes' still carries the setback via the 'after riot clashes' clause. The investigation is itself a response/upside (investigating is explicitly a Response per the brief), so per rule 1 the setback should not appear in the headline at all, not even as an 'after' clause — it should move wholly to the trail, as the brief's Clegg example does with 'fears'."
+      ]
     }
   },
   {
@@ -662,8 +674,10 @@
   {
     "path": "/society/2026/nov/01/high-street-slot-farms-budget-tax-rise-business-rates-bingo-licence-loophole",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "REWRITE's headline 'Hundreds of high-street gaming centres use bingo licences to avoid tax rise' states as settled fact what the ORIGINAL hedges as 'could avoid [the] budget tax rise through [a] bingo hall loophole' — a hedge turned into a certainty."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -842,11 +856,16 @@
   {
     "path": "/music/2026/nov/01/tosca-review-axelle-fanyo-christopher-purves",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "REWRITE's verdict 'with few gains and many losses' softens the ORIGINAL critic's more absolute 'but there are few gains, only losses in her radical reading' — 'only losses' (nothing but loss) is weakened to 'many losses' (some loss, implicitly leaving room for other gains)."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'ENO's radical new staging swaps realism for near-constant, baffling violence' is a cosmetic reword of the ORIGINAL's 'ENO's new staging abandons Puccini's realism for baffling and near-constant violence' — same subject, same negative angle, words swapped.",
+        "For a negative review the brief requires leading with what the critic admired (Christopher Purves' Scarpia) and keeping the verdict in the trail; the headline still leads with the staging's failures instead of the one thing that worked."
+      ]
     }
   },
   {
@@ -962,8 +981,10 @@
   {
     "path": "/thefilter/2026/oct/29/dyson-camerajet-electric-toothbrush-review-tested-uk",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail's 'an effective, reliable clean' adds 'reliable', a claim not present in the ORIGINAL's 'an effective clean' and arguably undercut by the 'teething issues' the copy itself reports."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1035,8 +1056,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'Historic Athens cafe \"the last fortress\" closes as Exarchia gentrifies' is a cosmetic reorder of the ORIGINAL's '\"The last fortress\": historic Athens cafe closes as countercultural area gentrifies' — same words, same subject, no fresh treatment, even allowing that this is a dark story the brief still asks for one (e.g. leading with people) rather than a reshuffle."
+      ]
     }
   },
   {
@@ -1082,8 +1105,10 @@
   {
     "path": "/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline drops the ORIGINAL's specific claim 'mortgage-free at 45' entirely, replacing it with the vaguer 'clear your mortgage years early'; the age is not recovered anywhere in the trail."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1372,8 +1397,10 @@
   {
     "path": "/education/2020/apr/23/coronavirus-uk-universities-face-25bn-tuition-fee-loss-next-year",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline attributes the £2.5bn figure specifically to 'a 2020 report' ('2020 report put universities' pandemic tuition shortfall at £2.5bn'), but the ORIGINAL states the £2.5bn loss as its own headline claim and only attributes the separate claim about capping not averting catastrophe to 'report warns' — the given text does not establish that the figure itself comes from that report."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1382,8 +1409,10 @@
   {
     "path": "/education/article/2024/jun/13/more-than-half-of-uk-students-working-long-hours-in-paid-jobs",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite trail attributes the paid-jobs claim to 'the research found', an attribution not present in the original, which states that fact plainly and attributes only the separate two-tier-system claim to experts."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1412,8 +1441,10 @@
   {
     "path": "/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite's headline and trail say 'Alpine glaciers have lost a fifth of their ice in five years', broadening the original's specific claim that '20% of Swiss glaciers' were lost in five years into a claim about Alpine glaciers generally."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1455,8 +1486,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Saudi oil scientists' ties to top climate reports raise conflict-of-interest concerns' still leads with the setback itself rather than the upside the original offers for an investigation piece: the Guardian's own 'investigation reveals' the links — the finding-out that the brief says should be the headline's subject instead."
+      ]
     }
   },
   {
@@ -1485,8 +1518,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The campaigners' characterisation that the policy is 'cruel' — the original headline's core criticism — is dropped entirely from both headline and trail rather than kept in the standfirst with its full weight, understating the setback."
+      ]
     }
   },
   {
@@ -1512,8 +1547,10 @@
   {
     "path": "/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline 'UK and France strike £16m deal to patrol Channel beaches' weakens into vagueness the original's clear statement that it is the 'UK to pay France extra £16m', obscuring who pays whom."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1592,8 +1629,11 @@
   {
     "path": "/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite trail says 'Turnout is already nearly five million votes ahead of the last midterm elections', but the original specifically compares early votes to the 2022 total early-vote count, not overall turnout — a broader and different claim.",
+      "The headline's clause 'as US midterm campaigning intensifies' is not supported by the original, which makes no claim about campaigning intensifying."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1602,8 +1642,10 @@
   {
     "path": "/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite trail attributes 'CNN was again denied full access, and the dinner was not televised' to 'the White House said', but the original reports these as plain facts, not as something the White House stated."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1665,8 +1707,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Trump urges 'immediate ceasefire' in Ukraine after Zelenskyy meeting' is a cosmetic edit of the original's 'Trump calls for 'immediate ceasefire' in Ukraine after meeting Zelenskyy': same subject and quote, with only 'calls for' swapped for 'urges' and 'meeting Zelenskyy' reordered."
+      ]
     }
   },
   {
@@ -1722,8 +1766,10 @@
   {
     "path": "/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite trail says the continued-blockade statement came 'after US strikes hit the port cities... and Iran retaliated', asserting a sequence the original does not establish — the original presents the strikes and retaliation as concurrent ('while'), not as following the statement."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1732,11 +1778,15 @@
   {
     "path": "/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Both the rewrite's headline and trail drop that Iran attacked the vessels: the original's headline states this happened 'after Iran attacks container ships', but the rewrite only says 'at least 15 vessels have been struck', with no attribution surviving anywhere."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Iran's responsibility for the attack is dropped from the headline-and-trail pair entirely rather than moved and stated with full weight, understating the setback contrary to rule 5."
+      ]
     }
   },
   {
