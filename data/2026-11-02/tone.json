@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"Shabana Mahmood's new rules raise fears of staff shortages in health and social care and of a second Windrush scandal.\""
+  },
+  {
+    "path": "/society/2026/nov/01/a-new-strategy-is-needed-to-address-the-harms-related-to-cocaine-and-other-drugs",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"Dr Will Haydock calls for a new government plan with clear priorities, while a reader in Ecuador points to the devastating impact of UK cocaine use there.\""
+  },
+  {
+    "path": "/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We were mortgage-free at 45 — here's how you can do it too'\""
+  },
+  {
+    "path": "/education/2024/sep/17/english-universities-offer-to-curb-foreign-students-if-they-can-raise-tuition-fees",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Vice-chancellors have offered to curb foreign student numbers if ministers let them raise fees, as they seek to address the sector's financial crisis.\""
+  },
+  {
+    "path": "/education/2020/apr/23/coronavirus-uk-universities-face-25bn-tuition-fee-loss-next-year",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"catastrophe\", \"warned\": \"Capping student numbers would not avert financial catastrophe, the report warned, during the coronavirus outbreak.\""
+  },
+  {
+    "path": "/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"Alpine regions in Europe are experiencing extreme glacier collapse, driven by the heat-trapping effects of fossil fuel pollution.\""
+  }
+]
