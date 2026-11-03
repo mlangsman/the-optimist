@@ -222,8 +222,10 @@
   {
     "path": "/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline 'Boulders deployed by Greenpeace keep trawlers out of protected North Sea habitat' states an achieved, ongoing result; the ORIGINAL only says the barrier was created 'to deter' trawling and that action was 'taken to prevent' it, not that it has actually kept trawlers out."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -442,11 +444,15 @@
   {
     "path": "/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline changes 'a story of death, violence, colour and family' to 'brushes with death and violence', which weakens a stated death into a vaguer near-miss claim not supported by the given text."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Turning a stated death into merely a 'brush with' death is a softening of the setback that the brief's tone rules do not allow, even though reordering it to the end of the headline (after the warmer 'colour, family') is otherwise correct."
+      ]
     }
   },
   {
@@ -555,8 +561,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'British Gas resumes fitting prepayment meters by force, months after £112m settlement' keeps the ORIGINAL's exact subject and angle (the resumption of force-fitting), merely reordering 'force-fitting' into 'fitting ... by force'; this is a cosmetic edit with no upside introduced and the setback is not removed from the headline."
+      ]
     }
   },
   {
@@ -772,8 +780,10 @@
   {
     "path": "/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline says Ashanti 'opens up about Nelly, fame and her secret skill', but the ORIGINAL lists her topics as 'her marriage to Nelly, fans rushing the stage and her secret skill' — 'fame' is not a topic the ORIGINAL says she discusses."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1352,8 +1362,10 @@
   {
     "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline drops the ORIGINAL's qualifier 'struggling' — the call-out is addressed to a young person 'struggling to find work' in the ORIGINAL, but the rewrite broadens this to anyone with 'your search for work', changing who the callout is for."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1392,8 +1404,10 @@
   {
     "path": "/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline's 'softens some of her toughest immigration proposals' asserts these proposals are her 'toughest' — a severity ranking not stated anywhere in the ORIGINAL, which says only that she 'softened on some proposals'."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1412,8 +1426,10 @@
   {
     "path": "/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline narrows the subject to 'foreign care and visa workers', a specific category the ORIGINAL's headline and trail never name — the ORIGINAL refers only to 'plans on leave to remain' and 'foreign workers' generally."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1422,20 +1438,22 @@
   {
     "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail says the rules affect 'many migrants', inflating the ORIGINAL's 'some migrants' into a larger, unsupported scope."
+    ],
     "tone": {
-      "ok": false,
-      "issues": [
-        "Still close to the original after three rounds; no honest upside in the copy to build the headline on, so the best achievable is a plain, calm restatement (per the brief, not every setback-only story can be rebuilt without straining for optimism the copy does not supply)."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
     "path": "/politics/2025/dec/05/shabana-mahmood-urged-not-to-help-those-seeking-build-division-asylum-system",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Second trail paragraph says 'More than 200 groups have written an open letter', rounding down the precise figure of 225 groups that both the ORIGINAL and the rewrite's own first paragraph give."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1534,8 +1552,10 @@
   {
     "path": "/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail changes 'leadership in Tehran is only too happy to crush his midterm dreams' (an eager intent to hurt him) into 'leadership in Tehran is well placed to use the conflict against him', softening a claim about Tehran's disposition into a vaguer statement about capability."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1557,10 +1577,8 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": false,
-      "issues": [
-        "Still close to the original after three rounds; no honest upside in the copy to build the headline on, so the best achievable is a plain, calm restatement (per the brief, not every setback-only story can be rebuilt without straining for optimism the copy does not supply)."
-      ]
+      "ok": true,
+      "issues": []
     }
   },
   {
@@ -1596,8 +1614,10 @@
   {
     "path": "/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline drops 'Trump-connected' from the ORIGINAL's 'flawed work by Trump-connected contractor emerges as culprit', leaving just 'contractor's flawed work' and losing the material fact that the contractor was tied to Trump."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1716,8 +1736,10 @@
   {
     "path": "/technology/2015/feb/20/lenovo-malware-big-business-analysis-pc-superfish",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline puts quote marks around 'auctionable' ('turn PCs into 'auctionable' malware targets'), presenting it as a direct quotation, when the ORIGINAL's phrase 'a collection of auctionable software elements' is the writer's own unquoted description, not a quoted term from a source."
+    ],
     "tone": {
       "ok": true,
       "issues": []

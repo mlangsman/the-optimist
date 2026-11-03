@@ -21,6 +21,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tomb Raider's creators on how the game changed their lives: 'Skint staff were suddenly pulling up in sports cars'\""
   },
   {
+    "path": "/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing\""
+  },
+  {
     "path": "/artanddesign/2026/nov/02/beaches-beatles-broken-marriage-wilhelmina-barns-graham-art-tate-st-ives",
     "kind": "preview",
     "field": "headline",
@@ -61,6 +68,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Sincerely devoted to email signoffs\""
+  },
+  {
+    "path": "/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Revisiting the Superclásico: a story of death, violence, colour and family\""
   },
   {
     "path": "/football/2026/nov/02/arsenal-liverpool-premier-league",
@@ -145,6 +159,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Funny and self-aware': why (500) Days of Summer is my feelgood movie\""
+  },
+  {
+    "path": "/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’\""
   },
   {
     "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
@@ -406,6 +427,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Nature boys and girls – here's your chance to get published in the Guardian\""
   },
   {
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in the UK struggling to find work?\""
+  },
+  {
     "path": "/culture/2026/oct/30/share-your-tributes-and-memories-of-patrick-stewart",
     "kind": "preview",
     "field": "headline",
@@ -413,11 +441,60 @@
     "issue": "headline is unchanged from the original: \"Share your tributes and memories of Patrick Stewart\""
   },
   {
+    "path": "/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How will UK immigration rules change under Shabana Mahmood’s latest plans? \""
+  },
+  {
+    "path": "/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Shabana Mahmood hints she could water down plans on leave to remain\""
+  },
+  {
+    "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "error",
+    "issue": "headline is unchanged from the original: \"Home secretary to make some migrants wait 10 years or more for right to settle in UK\""
+  },
+  {
+    "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"wait\"); build it on the upside or score the story honestly and let the front drop it: \"Home secretary to make some migrants wait 10 years or more for right to settle in UK\""
+  },
+  {
     "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
     "kind": "preview",
     "field": "trail",
     "severity": "warning",
-    "issue": "trail leans on \"fears\": \"Shabana Mahmood's new rules have raised fears of staff shortages in health and social care, and of a second Windrush scandal.\""
+    "issue": "trail leans on \"fears\": \"Shabana Mahmood’s new rules raise fears of staff shortages in health and social care and of second Windrush scandal\""
+  },
+  {
+    "path": "/politics/2025/dec/05/shabana-mahmood-urged-not-to-help-those-seeking-build-division-asylum-system",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Shabana Mahmood urged not to help those ‘seeking to build division’\""
+  },
+  {
+    "path": "/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections\""
+  },
+  {
+    "path": "/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Trump’s reflecting pool saga: a timeline of failure and finger-pointing\""
   },
   {
     "path": "/us-news/2026/sep/13/trump-5000-dividend-pledge",
@@ -481,6 +558,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"John Lewis Christmas ad stars children, snowmen and hip-hop pigeons\""
+  },
+  {
+    "path": "/technology/2015/feb/20/lenovo-malware-big-business-analysis-pc-superfish",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lenovo demonstrates that malware is big business\""
   },
   {
     "path": "/media-network/media-network-blog/2014/apr/03/security-data-problem-machine-learning",

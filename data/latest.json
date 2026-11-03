@@ -1,6 +1,6 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T06:06:25.355Z",
+  "generatedAt": "2026-11-03T06:12:27.731Z",
   "engine": "claude-code",
   "front": [
     {
@@ -259,50 +259,6 @@
             "src": "https://media.guim.co.uk/6eea02f2d0fd6105d579edf53ed04835300e9adc/256_387_3516_2813/500.jpg"
           },
           "byline": "Orla Copeland Wales correspondent"
-        }
-      ]
-    },
-    {
-      "id": "in-focus",
-      "title": "In focus",
-      "cards": [
-        {
-          "path": "/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
-          "linked": false,
-          "headline": "Boulders deployed by Greenpeace keep trawlers out of protected North Sea habitat",
-          "original": {
-            "headline": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
-            "url": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
-            "trail": "Action taken to prevent bottom trawling in the marine protected area and conserve porpoise populations",
-            "byline": "Damien Gayle Environment corresponent"
-          },
-          "kicker": "Environment",
-          "trail": "The barrier is designed to stop bottom trawling in the marine protected area and help conserve local porpoise populations.",
-          "upside": 3,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/900008352cfc090c12bbc39c412d55918acb89fb/332_0_1668_1334/master/1668.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A large white block of stone is winched up to be offloaded over the side of a boat. It has an image of a porpoise and the words Ocean Park: est 2026 stencilled on the side."
-          },
-          "byline": "Gamien Dayle Environment corresponent"
-        },
-        {
-          "path": "/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-          "linked": false,
-          "headline": "Tracking down who is hacking Europe's supermarket fridges and freezers",
-          "original": {
-            "headline": "Who is hacking Europe’s supermarket fridges and freezers, and why? ",
-            "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-            "trail": "After a second apparent cyber-attack in weeks, we examine possible culprits and their motives",
-            "byline": "Robert Booth and Miatta Mbriwa"
-          },
-          "kicker": "Technology",
-          "trail": "After a second apparent cyber-attack in weeks, we examine the possible culprits and their motives.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/e46f146ddf930c068118e9bb0de3d7aa63a9b267/211_0_4628_3703/master/4628.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Empty refrigerators in a Delhaize supermarket in Boortmeerbeek some 30 km from Brussels, following an IT incident."
-          },
-          "byline": "Bobert Rooth and Dorothy Calloway"
         }
       ]
     },
@@ -716,25 +672,6 @@
           "byline": "Stiles Marforth at St James' Park"
         },
         {
-          "path": "/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-          "linked": false,
-          "headline": "Boca v River at 60: a lifetime of memories at football's fiercest derby",
-          "original": {
-            "headline": "Revisiting the Superclásico: a story of death, violence, colour and family",
-            "url": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
-            "trail": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture",
-            "byline": "Marcela Mora y Araujo at La Bombonera"
-          },
-          "kicker": "Football",
-          "trail": "Attending the Superclásico in the week of my 60th birthday brought back a lifetime of experiences at a fixture whose history holds death, violence and colour alongside family.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/860f760da43ca82bb2856e1c92704c7d98971021/332_0_4348_3479/master/4348.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Boca fans unveil banners in tribute to Diego Maradona"
-          },
-          "byline": "Anita Fernsby y Araujo at La Bombonera"
-        },
-        {
           "path": "/football/2026/nov/02/arsenal-liverpool-premier-league",
           "linked": false,
           "headline": "Arsenal have everything they need to repeat as Premier League champions",
@@ -771,6 +708,24 @@
             "alt": "Mercedes team principal Toto Wolff embraces Kimi Antonelli after his win in Mexico"
           },
           "byline": "Riles Gichards in Mexico City"
+        },
+        {
+          "path": "/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
+          "linked": false,
+          "headline": "Revisiting the Superclásico: a story of death, violence, colour and family",
+          "original": {
+            "headline": "Revisiting the Superclásico: a story of death, violence, colour and family",
+            "url": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
+            "trail": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture",
+            "byline": "Marcela Mora y Araujo at La Bombonera"
+          },
+          "kicker": "Football",
+          "trail": "Attending Boca v River in the week I turned 60 made me recall a lifetime of experiences at the fixture",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/860f760da43ca82bb2856e1c92704c7d98971021/332_0_4348_3479/master/4348.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Boca fans unveil banners in tribute to Diego Maradona"
+          },
+          "byline": "Anita Fernsby y Araujo at La Bombonera"
         },
         {
           "path": "/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
@@ -1140,25 +1095,6 @@
       "title": "What to listen to",
       "cards": [
         {
-          "path": "/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
-          "linked": false,
-          "headline": "Before her Australian tour, Ashanti opens up about Nelly, fame and her secret skill",
-          "original": {
-            "headline": "Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’",
-            "url": "https://www.theguardian.com/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
-            "trail": "Before her Australian tour, the Grammy-winner talks about her marriage to Nelly, fans rushing the stage and her secret skill",
-            "byline": "Sian Cain"
-          },
-          "kicker": "Music",
-          "trail": "'I've had a bodysuit snap off on stage – that was not my coolest moment,' says the Grammy winner, who also talks about fans rushing the stage.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/9907ba3855859321a27c29f68c23045fb4197e0d/357_140_1231_984/master/1231.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Ashanti on a red carpet"
-          },
-          "byline": "Cian Sain"
-        },
-        {
           "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
           "linked": false,
           "headline": "'They said we incited riots': Bad Brains on drugs, self-destruction and recording from jail",
@@ -1214,6 +1150,24 @@
             "alt": "Conductor Vasily Petrenko performs, holding a baton with the other hand in the air"
           },
           "byline": "Pive Claget"
+        },
+        {
+          "path": "/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
+          "linked": false,
+          "headline": "Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’",
+          "original": {
+            "headline": "Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’",
+            "url": "https://www.theguardian.com/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
+            "trail": "Before her Australian tour, the Grammy-winner talks about her marriage to Nelly, fans rushing the stage and her secret skill",
+            "byline": "Sian Cain"
+          },
+          "kicker": "Music",
+          "trail": "Before her Australian tour, the Grammy-winner talks about her marriage to Nelly, fans rushing the stage and her secret skill",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/9907ba3855859321a27c29f68c23045fb4197e0d/357_140_1231_984/master/1231.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Ashanti on a red carpet"
+          },
+          "byline": "Cian Sain"
         }
       ]
     },
@@ -2321,7 +2275,7 @@
         {
           "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
           "linked": false,
-          "headline": "Young people in the UK: tell us about your search for work",
+          "headline": "Tell us: are you a young person in the UK struggling to find work?",
           "original": {
             "headline": "Tell us: are you a young person in the UK struggling to find work?",
             "url": "https://www.theguardian.com/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
@@ -2329,8 +2283,7 @@
             "byline": "Guardian community team"
           },
           "kicker": "Money",
-          "trail": "We would like to hear from young people in the UK about their experiences of looking for work.",
-          "upside": 1,
+          "trail": "We would like to hear from young people in the UK about their experiences of looking for work",
           "image": {
             "src": "https://i.guim.co.uk/img/media/41221f075987537a6c035b7ad20f2b4af1cbc34e/430_0_4265_3411/master/4265.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Mixed race businesswoman working on laptopE5A7NB Mixed race businesswoman working on laptop"
@@ -2499,7 +2452,7 @@
         {
           "path": "/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
           "linked": false,
-          "headline": "Mahmood softens some of her toughest immigration proposals",
+          "headline": "How will UK immigration rules change under Shabana Mahmood’s latest plans? ",
           "original": {
             "headline": "How will UK immigration rules change under Shabana Mahmood’s latest plans? ",
             "url": "https://www.theguardian.com/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
@@ -2507,8 +2460,7 @@
             "byline": "Rajeev Syal Home affairs editor"
           },
           "kicker": "UK news",
-          "trail": "The home secretary has eased some of her plans, but is still tightening the rules for migrants seeking permanent settlement.",
-          "upside": 2,
+          "trail": "Home secretary has softened on some proposals but is still hardening rules for those wishing to settle permanently",
           "image": {
             "src": "https://media.guim.co.uk/921c515bcafdb0f52ac6ca7e553fcaa55a2b4821/880_261_4965_3972/1000.jpg",
             "alt": "Shabana Mahmood delivering her statement to the House of Commons. MPs sitting behind her on the benches look unimpressed.",
@@ -2543,7 +2495,7 @@
         {
           "path": "/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
           "linked": false,
-          "headline": "Mahmood opens door to softer rules for foreign care and visa workers",
+          "headline": "Shabana Mahmood hints she could water down plans on leave to remain",
           "original": {
             "headline": "Shabana Mahmood hints she could water down plans on leave to remain",
             "url": "https://www.theguardian.com/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
@@ -2551,8 +2503,7 @@
             "byline": "Rajeev Syal Home affairs editor and Kiran Stacey Policy editor"
           },
           "kicker": "UK news",
-          "trail": "The home secretary is under pressure over changes that would make it harder for foreign workers to claim permanent residence.",
-          "upside": 1,
+          "trail": "Home secretary under pressure over changes that would make it harder for foreign workers to claim permanent residence",
           "image": {
             "src": "https://media.guim.co.uk/f5760bec911bf357bd37ae4b32ceccd49e278c79/0_86_6722_5378/1000.jpg",
             "alt": "Shabana Mahmood speaks at a podium reading 'Hope Again' against a red backdrop",
@@ -2563,9 +2514,30 @@
           "byline": "Sajeev Ryal Home affairs editor and Stiran Kacey Policy editor"
         },
         {
+          "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+          "linked": false,
+          "headline": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+          "original": {
+            "headline": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+            "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+            "trail": "Shabana Mahmood’s new rules raise fears of staff shortages in health and social care and of second Windrush scandal",
+            "byline": "Jessica Elgot and Chris Osuh"
+          },
+          "kicker": "UK news",
+          "trail": "Shabana Mahmood’s new rules raise fears of staff shortages in health and social care and of second Windrush scandal",
+          "image": {
+            "src": "https://media.guim.co.uk/f1f16c15b5e42d5c5465fdf412d325d0b806220f/311_0_3090_2472/1000.jpg",
+            "alt": "Shabana Mahmood smiles for the camera as she walks along Downing Street",
+            "credit": "Photograph: Jordan Pettitt/PA",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Essica Jelgot and Kenneth Loxley"
+        },
+        {
           "path": "/politics/2025/dec/05/shabana-mahmood-urged-not-to-help-those-seeking-build-division-asylum-system",
           "linked": false,
-          "headline": "225 groups challenge Mahmood over asylum shake-up in open letter",
+          "headline": "Shabana Mahmood urged not to help those ‘seeking to build division’",
           "original": {
             "headline": "Shabana Mahmood urged not to help those ‘seeking to build division’",
             "url": "https://www.theguardian.com/politics/2025/dec/05/shabana-mahmood-urged-not-to-help-those-seeking-build-division-asylum-system",
@@ -2573,8 +2545,7 @@
             "byline": "Chris Osuh Community affairs correspondent"
           },
           "kicker": "UK news",
-          "trail": "The groups describe the home secretary's plan to overhaul the asylum system as 'cruel' and 'ruthless', urging her not to help those 'seeking to build division'.",
-          "upside": 1,
+          "trail": "Exclusive: In open letter, 225 groups describe home secretary’s plan to overhaul asylum system as ‘cruel and ‘ruthless’",
           "image": {
             "src": "https://media.guim.co.uk/2a393522807dd91da48b393272a58b8e0fbe2207/0_102_3593_2874/1000.jpg",
             "alt": "Shabana Mahmood",
@@ -2869,6 +2840,23 @@
           "byline": "Yonathan Jerushalmy"
         },
         {
+          "path": "/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections",
+          "linked": false,
+          "headline": "Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections",
+          "original": {
+            "headline": "Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections",
+            "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/22/trump-iran-war-midterm-elections",
+            "trail": "As the president tries to extract the US from his Iran war quagmire, leadership in Tehran is only too happy to crush his midterm dreams",
+            "byline": "Robert Tait in Washington"
+          },
+          "kicker": "US news",
+          "trail": "As the president tries to extract the US from his Iran war quagmire, leadership in Tehran is only too happy to crush his midterm dreams",
+          "image": {
+            "src": "https://media.guim.co.uk/27c4c6a94a2e72e01a3bb4c3917b1878bd0d401b/0_369_1638_1310/500.jpg"
+          },
+          "byline": "Tobert Rait in Washington"
+        },
+        {
           "path": "/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
           "linked": false,
           "headline": "Diplomats say de-escalation talks with Iran continue",
@@ -2950,28 +2938,6 @@
           "byline": "Cucy Lampbell"
         },
         {
-          "path": "/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
-          "linked": false,
-          "headline": "Prosecutor moves to drop charges as contractor's flawed work emerges as culprit",
-          "original": {
-            "headline": "Trump’s reflecting pool saga: a timeline of failure and finger-pointing",
-            "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
-            "trail": "As Jeanine Pirro moves to drop charges, flawed work by Trump-connected contractor emerges as culprit",
-            "byline": "Edward Helmore"
-          },
-          "kicker": "US news",
-          "trail": "Jeanine Pirro moves to drop the charges, in a timeline of failure and finger-pointing over the renovation.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/e9f1cb37fd9c2f597642e00f1788f2e330c4c252/0_0_3351_3317/1000.jpg",
-            "alt": "Composite photo of the reflecting pool during its renovations.",
-            "credit": "Composite: Reuters",
-            "width": 1000,
-            "height": 990
-          },
-          "byline": "Hedward Elmore"
-        },
-        {
           "path": "/us-news/2026/aug/10/trump-reflecting-pool-makeover-vandalism-claim",
           "linked": false,
           "headline": "Trump admits $14m reflecting pool makeover was rushed",
@@ -2992,6 +2958,27 @@
             "height": 667
           },
           "byline": "Goseph Jedeon in Washington"
+        },
+        {
+          "path": "/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
+          "linked": false,
+          "headline": "Trump’s reflecting pool saga: a timeline of failure and finger-pointing",
+          "original": {
+            "headline": "Trump’s reflecting pool saga: a timeline of failure and finger-pointing",
+            "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
+            "trail": "As Jeanine Pirro moves to drop charges, flawed work by Trump-connected contractor emerges as culprit",
+            "byline": "Edward Helmore"
+          },
+          "kicker": "US news",
+          "trail": "As Jeanine Pirro moves to drop charges, flawed work by Trump-connected contractor emerges as culprit",
+          "image": {
+            "src": "https://media.guim.co.uk/e9f1cb37fd9c2f597642e00f1788f2e330c4c252/0_0_3351_3317/1000.jpg",
+            "alt": "Composite photo of the reflecting pool during its renovations.",
+            "credit": "Composite: Reuters",
+            "width": 1000,
+            "height": 990
+          },
+          "byline": "Hedward Elmore"
         },
         {
           "path": "/us-news/2026/sep/13/trump-5000-dividend-pledge",
@@ -3255,7 +3242,7 @@
         {
           "path": "/technology/2015/feb/20/lenovo-malware-big-business-analysis-pc-superfish",
           "linked": false,
-          "headline": "Falling profit margins turn PCs into 'auctionable' malware targets, analysis finds",
+          "headline": "Lenovo demonstrates that malware is big business",
           "original": {
             "headline": "Lenovo demonstrates that malware is big business",
             "url": "https://www.theguardian.com/technology/2015/feb/20/lenovo-malware-big-business-analysis-pc-superfish",
@@ -3263,8 +3250,7 @@
             "byline": "Charles Arthur"
           },
           "kicker": "Technology",
-          "trail": "With retail margins shrinking, the consumer PC has become a collection of auctionable software elements, Lenovo's example shows.",
-          "upside": 1,
+          "trail": "With retail profit margins shrinking, the consumer PC has become a collection of auctionable software elements",
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/2/20/1424447490235/54925bd1-1b49-487c-83e1-bd5ecb462cec-620x372.jpeg",
             "alt": "Lenovo stand",
