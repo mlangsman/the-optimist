@@ -1,0 +1,478 @@
+[
+  {
+    "path": "/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Investigating who is hacking Europe's supermarket fridges and freezers – and why\""
+  },
+  {
+    "path": "/culture/2026/nov/02/tomb-raider-creators-lara-croft",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tomb Raider's creators on how the game changed their lives: 'Skint staff were suddenly pulling up in sports cars'\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/02/beaches-beatles-broken-marriage-wilhelmina-barns-graham-art-tate-st-ives",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Beaches, Beatles and a broken marriage: how Wilhelmina Barns-Graham became a radical art icon\""
+  },
+  {
+    "path": "/money/2026/nov/03/british-airways-lost-my-fathers-vital-life-saving-machine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"British Airways lost my father's vital life-saving dialysis machine\""
+  },
+  {
+    "path": "/film/2026/nov/02/scary-non-horror-movies",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"After Guardian writers shared their scariest non-horror picks for Halloween, readers add their own spine-chilling choices, from Never Let Me Go to The Truman Show.\""
+  },
+  {
+    "path": "/thefilter/2026/oct/30/things-you-loved-most-october-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"From a life-changing garlic press to a super-glowy serum: 12 buys you're loving right now\""
+  },
+  {
+    "path": "/books/2026/nov/02/an-essential-bear-for-older-readers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"An essential bear for older readers\""
+  },
+  {
+    "path": "/technology/2026/nov/02/sincerely-yours-tom",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sincerely devoted to email signoffs\""
+  },
+  {
+    "path": "/football/2026/nov/02/arsenal-liverpool-premier-league",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Arsenal have everything they need to repeat as Premier League champions\""
+  },
+  {
+    "path": "/film/2026/nov/03/dustin-hoffman-memoir-look-at-me-the-graduate-mike-nichols",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dustin Hoffman says filming The Graduate was 'a terrible experience' due to Mike Nichols' 'sadism'\""
+  },
+  {
+    "path": "/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Russell Brand is not a 'psychopath who rapes people and thinks it's normal', defence tells court\""
+  },
+  {
+    "path": "/uk-news/2026/nov/02/trial-of-nine-men-accused-of-abusing-woman-drugged-and-raped-by-husband-begins",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Trial of nine men accused of abusing woman drugged and raped by husband begins\""
+  },
+  {
+    "path": "/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Fossilised red blood cells found in 115m-year-old dinosaur bone, scientists say\""
+  },
+  {
+    "path": "/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Arab coalition leader says Israel has 'historic' opportunity to change direction\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/02/tv-tonight-the-gilded-age-returns-in-all-its-glossy-julian-fellowes-glory",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"TV tonight: The Gilded Age returns in all its glossy, Julian Fellowes glory\""
+  },
+  {
+    "path": "/film/2026/nov/02/funny-and-self-aware-why-500-days-of-summer-is-my-feelgood-movie",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Funny and self-aware': why (500) Days of Summer is my feelgood movie\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/02/rob-delaney-and-bel-powley-star-in-a-knotty-rehab-drama-best-podcasts-of-the-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Rob Delaney and Bel Powley lead a knotty rehab drama: best podcasts of the week\""
+  },
+  {
+    "path": "/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"After 50 years of playing video games, I'm finally starring in one\""
+  },
+  {
+    "path": "/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Social media is full of weird video game mashups. Where are they all coming from?\""
+  },
+  {
+    "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"Whether you favour spooky fairytales, satanic card games or infernal hijinks at the chip shop, there are fresh indie horror scares at large this witching season.\""
+  },
+  {
+    "path": "/stage/2026/nov/02/the-lives-of-others-review-keira-knightley-brings-star-power-to-robert-ickes-stasi-drama",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Lives of Others review – Keira Knightley brings star power to Robert Icke's Stasi drama\""
+  },
+  {
+    "path": "/artanddesign/2026/oct/30/william-morris-orkney-derry-painters-art",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Big hair with the pre-Raphaelites, 17 Orkney stand-outs and Halloween haunts in Derry – the week in art\""
+  },
+  {
+    "path": "/lunch-nation/2026/oct/12/why-soup-is-the-ultimate-comfort-food",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Nobody has ever felt hugged from within by a lettuce leaf' – a love letter to soup\""
+  },
+  {
+    "path": "/lunch-nation/2026/oct/12/why-soup-is-the-perfect-autumn-comfort-food",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The sentiment of soup – what makes this autumn warmer so completely comforting?\""
+  },
+  {
+    "path": "/thefilter/2026/nov/01/jess-cartner-morleys-november-style-essentials-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jess Cartner-Morley's November style essentials: fancy flats, sexy knits and a Christmassy pigeon\""
+  },
+  {
+    "path": "/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"The best LED face masks in the UK, tested: 12 light therapy devices worth the hype\""
+  },
+  {
+    "path": "/thefilter/2025/nov/04/best-umbrellas-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The best umbrellas in the UK for staying dry in wind and rain – tested on a 517m hilltop\""
+  },
+  {
+    "path": "/food/2026/nov/01/how-to-make-the-perfect-venison-casserole-recipe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to make the perfect venison casserole – recipe\""
+  },
+  {
+    "path": "/food/2026/nov/01/moods-leeds-ls2-grace-dent-restaurant-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Moods, Leeds LS2: 'puzzling, if not quite a car crash' – restaurant review\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/02/the-pet-ill-never-forget-the-tiny-horse-with-a-big-personality-who-helps-psychiatric-patients",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The pet I'll never forget: the tiny horse with a big personality who helps psychiatric patients\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dining across the divide: 'My family are all Trumpian, so I've had a lot of practice talking to people who are far right'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'We don't have penetration – but it's by far the best sex I've ever had'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/01/late-70s-no-children-who-help-old-age-annalisa-barbieri",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"My wife and I are in our late 70s and have no children – who can help us in our old age?\""
+  },
+  {
+    "path": "/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (95 per cent of the words are the same): \"'They assume the man next to me is the owner': four women doing business in Africa on their own terms\""
+  },
+  {
+    "path": "/money/2026/nov/02/buying-smart-lock-uk-worth-it-affect-insurance",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"What to look for if you're buying a smart lock in the UK\""
+  },
+  {
+    "path": "/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We were mortgage-free at 45 — here's how you can do it too'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/02/is-it-true-that-drinking-alcohol-warm-you-up",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that drinking alcohol warms you up?\""
+  },
+  {
+    "path": "/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"The truth about testicles: are we really facing 'spermageddon'?\""
+  },
+  {
+    "path": "/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"How high-street brands are staging a fashion comeback with A-listers and AI stylists\""
+  },
+  {
+    "path": "/fashion/2026/oct/30/fashion-autumn-rain-best-raincoats-accessories",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Dripping with style: what fashion insiders wear in the rain, plus the best raincoats and accessories\""
+  },
+  {
+    "path": "/fashion/2026/oct/29/diy-socks-messy-collars-and-cummberbunds-nine-wardrobe-updates-from-the-catwalks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"DIY socks, messy collars and cummerbunds: nine wardrobe updates from the catwalks\""
+  },
+  {
+    "path": "/travel/2026/nov/01/its-snow-time-the-best-winter-activity-holidays-in-europe-for-non-skiers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"It's snow time: the best winter activity holidays in Europe for non-skiers\""
+  },
+  {
+    "path": "/travel/2026/oct/31/britain-spooky-places-to-visit-halloween",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"10 spine-chilling places to visit in Britain for Halloween\""
+  },
+  {
+    "path": "/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Expect goosebumps!': to celebrate Halloween, readers choose the spookiest places in the UK\""
+  },
+  {
+    "path": "/travel/2026/oct/29/snowdonia-slate-trail-walk-north-wales",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Looming stone towers like Maya temples': a hike through Snowdonia's slate country\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/02/a-new-start-after-60-at-26-i-saw-my-dream-porsche-at-68-i-built-one-from-scratch",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A new start after 60: at 26 I saw my dream Porsche. At 68, I built one from scratch\""
+  },
+  {
+    "path": "/travel/2026/nov/02/dark-winter-holiday-swedish-lapland",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"'Unable to tell morning from afternoon, I felt my sense of time opening up': a winter break in magical Swedish Lapland\""
+  },
+  {
+    "path": "/science/2026/nov/02/starwatch-catch-the-striking-trifecta-of-venus-the-moon-and-spica-at-break-of-dawn",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Starwatch: catch the striking trifecta of Venus, the moon and Spica at break of dawn\""
+  },
+  {
+    "path": "/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Nature boys and girls – here's your chance to get published in the Guardian\""
+  },
+  {
+    "path": "/culture/2026/oct/30/share-your-tributes-and-memories-of-patrick-stewart",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Share your tributes and memories of Patrick Stewart\""
+  },
+  {
+    "path": "/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"How will UK immigration rules change under Shabana Mahmood's softened plans?\""
+  },
+  {
+    "path": "/world/2024/oct/14/slavery-reparations-not-on-agenda-at-commonwealth-summit-says-no-10",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Slavery reparations not on the agenda at Commonwealth summit, No 10 says\""
+  },
+  {
+    "path": "/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Trump's approval rating drops to 36% two weeks before midterms, poll finds\""
+  },
+  {
+    "path": "/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Appeals court rejects Trump's bid to restrict mail-in voting before midterms\""
+  },
+  {
+    "path": "/business/2017/nov/10/john-lewis-christmas-ad-2017-meet-moz-the-monster-under-the-bed",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"John Lewis Christmas ad 2017: watch the video of Moz the monster\""
+  },
+  {
+    "path": "/business/2018/nov/15/elton-john-brings-star-quality-john-lewis-christmas-advert",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Elton John brings star quality to John Lewis Christmas advert\""
+  },
+  {
+    "path": "/media/2016/dec/06/john-lewis-youtube-christmas-ad-buster-burberry-sainsburys",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"John Lewis bounces to top of YouTube's Christmas ad chart\""
+  },
+  {
+    "path": "/media/2023/nov/09/john-lewis-christmas-ad-snaps-back-on-track-with-a-venus-flytrap",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"John Lewis Christmas ad snaps back on track with a Venus flytrap\""
+  },
+  {
+    "path": "/media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"John Lewis ad kickstarts Christmas countdown to the tune of a 90s club classic\""
+  },
+  {
+    "path": "/media/2020/nov/13/john-lewis-christmas-ad-children-snowmen-pigeons-covid-tv-advert",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"John Lewis Christmas ad stars children, snowmen and hip-hop pigeons\""
+  },
+  {
+    "path": "/technology/2013/nov/21/us-police-force-pay-bitcoin-ransom-in-cryptolocker-malware-scam",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"US police force pay bitcoin ransom in Cryptolocker malware scam\""
+  },
+  {
+    "path": "/society/2021/jan/18/ehrc-undermined-pressure-support-no-10-agenda-david-isaac",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"EHRC undermined by pressure to support No 10 agenda, says ex-chair\""
+  },
+  {
+    "path": "/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Reform suspends aspiring MP who said 'you cannot be Muslim and British'\""
+  },
+  {
+    "path": "/science/2023/feb/10/goffins-cockatoos-use-toolset-complete-tasks",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Goffin's cockatoos able to use a toolset to complete tasks\""
+  },
+  {
+    "path": "/environment/article/2024/jul/24/komodo-dragons-iron-coated-teeth",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Komodo dragons have iron-coated teeth, scientists find\""
+  },
+  {
+    "path": "/environment/article/2024/may/20/eagles-shifting-flight-paths-to-avoid-ukraine-conflict-scientists-find",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Eagles adapt flight paths to avoid Ukraine conflict, scientists find\""
+  },
+  {
+    "path": "/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Trill seekers: scientists use AI and tutors to help birds relearn lost songs\""
+  },
+  {
+    "path": "/society/2026/nov/02/nhs-early-warning-system-child-illness-england",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"The paediatric early warning system (Pews), launching across NHS A&Es in England, uses a vital-signs scoring system to assess whether a child is deteriorating.\""
+  }
+]
