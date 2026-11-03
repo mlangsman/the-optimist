@@ -1425,8 +1425,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Still close to the original after three rounds; no honest upside in the copy to build the headline on, so the best achievable is a plain, calm restatement (per the brief, not every setback-only story can be rebuilt without straining for optimism the copy does not supply)."
+      ]
     }
   },
   {
@@ -1555,8 +1557,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Still close to the original after three rounds; no honest upside in the copy to build the headline on, so the best achievable is a plain, calm restatement (per the brief, not every setback-only story can be rebuilt without straining for optimism the copy does not supply)."
+      ]
     }
   },
   {

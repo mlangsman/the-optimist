@@ -1,31 +1,12 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T05:13:00.356Z",
+  "generatedAt": "2026-11-03T06:06:25.355Z",
   "engine": "claude-code",
   "front": [
     {
       "id": "highlights",
       "title": "Highlights",
       "cards": [
-        {
-          "path": "/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-          "linked": false,
-          "headline": "The Gilded Age review – Emmy winner returns for a fourth series",
-          "original": {
-            "headline": "The Gilded Age review – what did we do to deserve such a terrible stinker?",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-            "trail": "Julian Fellowes’ high-society period drama has, somehow, picked up Emmys and reached its fourth series. Poor Meryl Streep must feel so awkward watching her daughter Louisa Jacobson in such a uniformly awful show",
-            "byline": "Lucy Mangan"
-          },
-          "kicker": "Television & radio",
-          "trail": "Julian Fellowes' high-society period drama has, somehow, picked up Emmys and reached its fourth series; this critic found little to admire, with Meryl Streep's daughter Louisa Jacobson among the cast.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/c40713323e95cc360e5d1a5ea48c46e8b80cd0f9/2580_670_3054_2443/master/3054.jpg?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Women in tiaras"
-          },
-          "byline": "Mucy Langan"
-        },
         {
           "path": "/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
           "linked": false,
@@ -73,7 +54,7 @@
         {
           "path": "/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists",
           "linked": true,
-          "headline": "'It's really, really unusual': a bull and donkey's tender bond baffles scientists",
+          "headline": "Chance sighting during a lunch break reveals a rare animal friendship",
           "original": {
             "headline": "‘It’s really, really unusual’: tender bond between male donkey and bull baffles scientists",
             "url": "https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists",
@@ -82,8 +63,8 @@
             "byline": "Nicola Davis Science correspondent"
           },
           "kicker": "Science",
-          "trail": "Patroclo and Achille's interspecies affair is shedding new light on social and sexual relations between animals, scientists say.",
-          "progress": "Scientists are continuing to study the pair's unusual bond to better understand social and sexual behaviour across species.",
+          "trail": "Scientists say the 'really, really unusual' interspecies affair between Patroclo and Achille is shedding new light on social and sexual relations between animals.",
+          "progress": "Researchers at the University of Pisa studied the pair over several days and published their findings in the journal Current Biology.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2026/11/02/Bull_and_male_donkey_seen_licking__nuzzling_each_other_in_rare_same-sex_interaction--2b19289b-6d22-46f3-ba7b-56e2897b5d2f-2.0.0000000.jpg?width=620&dpr=1&s=none&crop=5%3A4"
@@ -114,7 +95,7 @@
         {
           "path": "/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
           "linked": true,
-          "headline": "Burnham to ask Commonwealth countries to help shape UK's slavery apology",
+          "headline": "Burnham to offer debt relief to Commonwealth as slavery apology talks open",
           "original": {
             "headline": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
             "url": "https://www.theguardian.com/world/2026/nov/02/andy-burnham-ask-countries-affected-uk-role-slavery-shape-formal-apology",
@@ -123,8 +104,8 @@
             "byline": "Peter Walker Senior political correspondent"
           },
           "kicker": "World news",
-          "trail": "The PM will open the process at the Commonwealth summit in Antigua and Barbuda, inviting countries affected by Britain's role in slavery to help shape a formal apology.",
-          "progress": "Burnham has launched a structured dialogue with Commonwealth countries to help shape a possible formal apology, and plans a debt-restructuring scheme for struggling nations.",
+          "trail": "Andy Burnham will launch the process in Antigua and Barbuda, inviting countries affected by Britain's role in slavery to help shape a formal apology.",
+          "progress": "The Foreign Office will lead talks on the apology's form, with foreign secretary Ed Miliband already at the Chogm summit in Antigua and Barbuda.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/cac4744e8fd790c6566d2c6152e9d67bac5fb83e/686_3_4370_3496/master/4370.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -165,8 +146,8 @@
             "byline": "Ariana Baio"
           },
           "kicker": "US news",
-          "trail": "The US president shared the delayed results of a chaotic renovation project on the site in Washington DC as Americans prepare to head to the polls.",
-          "progress": "Prosecutors dropped the case against David Hearn, the Olympic canoeist wrongly accused of vandalising the pool.",
+          "trail": "Trump shared the delayed results of a chaotic renovation project on the Washington DC site, as Americans prepare to head to the polls.",
+          "progress": "The US attorney's office dropped the case after failing to produce evidence to back Trump's vandalism claims against Hearn.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f7f882d910cf5e618c41551fd7db158d88b1c034/268_0_3464_2770/master/3464.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -177,7 +158,7 @@
         {
           "path": "/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
           "linked": true,
-          "headline": "Kristin Scott Thomas stars as a glamorous granny in John Lewis's 20th Christmas ad",
+          "headline": "Pickles the talking toy dog talks John Lewis's granny out of giving cash",
           "original": {
             "headline": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
             "url": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
@@ -186,7 +167,7 @@
             "byline": "Sarah Butler"
           },
           "kicker": "Media",
-          "trail": "The retailer tugs at heartstrings with Pickles the talking toy dog as it marks 20 years of blockbuster festive advertising.",
+          "trail": "Kristin Scott Thomas plays a glamorous granny on a gift hunt in the retailer's milestone 20th-anniversary festive advert.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/33449fd08ca45c7963893346d9e5e0e4e24fe68c/847_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -227,7 +208,7 @@
             "byline": "Peter Walker Senior political correspondent"
           },
           "kicker": "Politics",
-          "trail": "The EHRC has written to Nigel Farage's party to ask what action it is taking to comply with the Equality Act.",
+          "trail": "The watchdog's request follows concern about 'racial and sexual remarks' in a documentary about Nigel Farage's party.",
           "progress": "The EHRC has asked Reform UK what action it is taking to comply with the Equality Act, and will assess the complaints it received.",
           "upside": 1,
           "image": {
@@ -288,7 +269,7 @@
         {
           "path": "/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
           "linked": false,
-          "headline": "Greenpeace activists build 'boulder barrier' in North Sea to protect marine life from trawling",
+          "headline": "Boulders deployed by Greenpeace keep trawlers out of protected North Sea habitat",
           "original": {
             "headline": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
             "url": "https://www.theguardian.com/environment/2026/nov/02/greenpeace-boulder-barrier-north-sea-industrial-fishing-bottom-trawling-marine-protected-area",
@@ -296,8 +277,7 @@
             "byline": "Damien Gayle Environment corresponent"
           },
           "kicker": "Environment",
-          "trail": "The barrier aims to stop bottom trawling in the marine protected area and help conserve porpoise populations.",
-          "progress": "Greenpeace has placed boulders on the seabed to physically block industrial trawling in the protected zone.",
+          "trail": "The barrier is designed to stop bottom trawling in the marine protected area and help conserve local porpoise populations.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/900008352cfc090c12bbc39c412d55918acb89fb/332_0_1668_1334/master/1668.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -308,7 +288,7 @@
         {
           "path": "/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
           "linked": false,
-          "headline": "Investigating who is hacking Europe's supermarket fridges and freezers – and why",
+          "headline": "Tracking down who is hacking Europe's supermarket fridges and freezers",
           "original": {
             "headline": "Who is hacking Europe’s supermarket fridges and freezers, and why? ",
             "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
@@ -317,7 +297,6 @@
           },
           "kicker": "Technology",
           "trail": "After a second apparent cyber-attack in weeks, we examine the possible culprits and their motives.",
-          "progress": "Investigators and analysts are examining who might be behind the attacks and why.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/e46f146ddf930c068118e9bb0de3d7aa63a9b267/211_0_4628_3703/master/4628.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -353,7 +332,7 @@
         {
           "path": "/us-news/2026/nov/02/democrats-midterms-congress-win-power",
           "linked": false,
-          "headline": "What could Democrats achieve if they win Congress in the midterms?",
+          "headline": "What a Democratic win in the midterms would mean for Trump",
           "original": {
             "headline": "What can Democrats actually do if they win Congress?",
             "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-midterms-congress-win-power",
@@ -413,25 +392,6 @@
       "id": "features",
       "title": "Features",
       "cards": [
-        {
-          "path": "/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-          "linked": false,
-          "headline": "The Gilded Age review – Emmy winner returns for a fourth series",
-          "original": {
-            "headline": "The Gilded Age review – what did we do to deserve such a terrible stinker?",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-            "trail": "Julian Fellowes’ high-society period drama has, somehow, picked up Emmys and reached its fourth series. Poor Meryl Streep must feel so awkward watching her daughter Louisa Jacobson in such a uniformly awful show",
-            "byline": "Lucy Mangan"
-          },
-          "kicker": "Television & radio",
-          "trail": "Julian Fellowes' high-society period drama has, somehow, picked up Emmys and reached its fourth series; this critic found little to admire, with Meryl Streep's daughter Louisa Jacobson among the cast.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/c40713323e95cc360e5d1a5ea48c46e8b80cd0f9/2563_596_3243_4053/master/3243.jpg?width=620&dpr=1&s=none&crop=4%3A5",
-            "alt": "Women in tiaras"
-          },
-          "byline": "Mucy Langan"
-        },
         {
           "path": "/culture/2026/nov/02/tomb-raider-creators-lara-croft",
           "linked": false,
@@ -581,7 +541,7 @@
         {
           "path": "/politics/2026/nov/02/half-witted-at-best-a-people-pleaser-at-worst-step-forward-chris-philp",
           "linked": false,
-          "headline": "Chris Philp's response to immigration reform shows how out of touch Conservatives have become",
+          "headline": "Chris Philp needs a reality check on immigration reform",
           "original": {
             "headline": "Half-witted at best, a people-pleaser at worst: step forward, Chris Philp",
             "url": "https://www.theguardian.com/politics/2026/nov/02/half-witted-at-best-a-people-pleaser-at-worst-step-forward-chris-philp",
@@ -589,7 +549,7 @@
             "byline": "John Crace"
           },
           "kicker": "Politics",
-          "trail": "Responding to Shabana Mahmood's changes to indefinite leave to remain, the shadow home secretary appeared detached from reality.",
+          "trail": "Responding to Shabana Mahmood's changes to indefinite leave to remain, the shadow home secretary came across as half-witted at best and a people-pleaser at worst, our columnist writes.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -600,7 +560,7 @@
         {
           "path": "/commentisfree/2026/nov/02/rachel-reeves-keir-starmer-andy-burnham-britain-new",
           "linked": false,
-          "headline": "Is Andy Burnham really offering Britain something new? Gaby Hinsliff on Labour's old guard",
+          "headline": "Burnham must prove he offers Britain something genuinely new, writes Hinsliff",
           "original": {
             "headline": "Rachel Reeves and the Starmerites are back – and they’re pointing out how little has changed ",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/02/rachel-reeves-keir-starmer-andy-burnham-britain-new",
@@ -608,7 +568,7 @@
             "byline": "Gaby Hinsliff"
           },
           "kicker": "Opinion",
-          "trail": "Labour's recently departed grandees are keen to defend their legacies, as Rachel Reeves and the Starmerites return to the fray.",
+          "trail": "Labour's recently departed grandees are keen to defend their legacies, as Rachel Reeves and the Starmerites return to the fray, our columnist says.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Gaby-Hinsliff,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -644,7 +604,7 @@
         {
           "path": "/australia-news/commentisfree/2026/nov/03/as-cancer-treatments-become-more-effective-we-must-ask-what-is-life-like-for-the-people-who-receive-them",
           "linked": false,
-          "headline": "Cancer treatments are saving more lives than ever – now we must ask what life is like afterwards",
+          "headline": "Cancer treatments are extending lives – but what happens next also matters",
           "original": {
             "headline": "As cancer treatments become more effective, we must ask: what is life like for the people who receive them?",
             "url": "https://www.theguardian.com/australia-news/commentisfree/2026/nov/03/as-cancer-treatments-become-more-effective-we-must-ask-what-is-life-like-for-the-people-who-receive-them",
@@ -717,7 +677,7 @@
         {
           "path": "/world/2026/nov/02/how-the-eu-can-resist-the-divisive-influence-of-the-far-right",
           "linked": false,
-          "headline": "The EU's strongest defence against the far right is the democratic centre, readers say",
+          "headline": "Defending the EU from the far right starts with the centre-right, readers write",
           "original": {
             "headline": "How the EU can resist the divisive influence of the far right",
             "url": "https://www.theguardian.com/world/2026/nov/02/how-the-eu-can-resist-the-divisive-influence-of-the-far-right",
@@ -758,7 +718,7 @@
         {
           "path": "/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
           "linked": false,
-          "headline": "Revisiting the Superclásico: family, colour and rivalry at Boca v River",
+          "headline": "Boca v River at 60: a lifetime of memories at football's fiercest derby",
           "original": {
             "headline": "Revisiting the Superclásico: a story of death, violence, colour and family",
             "url": "https://www.theguardian.com/football/2026/nov/02/revisiting-superclasico-boca-juniors-river-plate",
@@ -766,7 +726,7 @@
             "byline": "Marcela Mora y Araujo at La Bombonera"
           },
           "kicker": "Football",
-          "trail": "Attending Boca v River in the week he turned 60, our writer recalls a lifetime of experiences at the fixture, including its darker moments of violence.",
+          "trail": "Attending the Superclásico in the week of my 60th birthday brought back a lifetime of experiences at a fixture whose history holds death, violence and colour alongside family.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/860f760da43ca82bb2856e1c92704c7d98971021/332_0_4348_3479/master/4348.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -815,7 +775,7 @@
         {
           "path": "/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
           "linked": false,
-          "headline": "Arsenal's disciplined defence exposes Liverpool's struggles against low blocks",
+          "headline": "Arsenal's low-block discipline wins praise for stopping Wirtz at Anfield",
           "original": {
             "headline": "Stumbling block: Wirtz’s and Liverpool’s costly struggles against tight defences",
             "url": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
@@ -823,7 +783,7 @@
             "byline": "Andrew Beasley"
           },
           "kicker": "Football",
-          "trail": "Credit to Arsenal for restricting chances at Anfield, but Iraola will need his Liverpool side to learn to unpick deep defences.",
+          "trail": "Credit to Arsenal for restricting opportunities at Anfield, but Liverpool and Iraola will still need to find a way to unpick low defences.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c55b88097451a26693122eb9b6fa70219efa7ffa/284_79_2445_1955/master/2445.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -942,6 +902,31 @@
       ]
     },
     {
+      "id": "uk-news",
+      "title": "UK news",
+      "cards": [
+        {
+          "path": "/politics/2026/nov/02/labour-end-cooperation-green-party-councils-zionism-racism-policy",
+          "linked": false,
+          "headline": "Labour to keep deals with Green council groups that condemned divisive motion",
+          "original": {
+            "headline": "Labour to end cooperation with Greens in 11 councils over ‘Zionism is racism’ policy",
+            "url": "https://www.theguardian.com/politics/2026/nov/02/labour-end-cooperation-green-party-councils-zionism-racism-policy",
+            "trail": "Deals with six Green council groups that have condemned the motion are to remain in place, says Labour",
+            "byline": "Peter Walker Senior political correspondent"
+          },
+          "kicker": "Politics",
+          "trail": "The party is ending cooperation with 11 other councils over their 'Zionism is racism' policy, while deals with the six Green groups that condemned the motion remain in place, Labour says.",
+          "upside": 2,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/42987c30fb5c624f21422538600d79f2f01bf067/178_0_5817_4653/master/5817.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A Green party rosette"
+          },
+          "byline": "Weter Palker Senior political correspondent"
+        }
+      ]
+    },
+    {
       "id": "world-news",
       "title": "World news",
       "cards": [
@@ -966,7 +951,7 @@
         {
           "path": "/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past",
           "linked": false,
-          "headline": "Hungary to unmask communist-era informants in bid to rebuild trust",
+          "headline": "Hungary to make communist-era informant files public to rebuild trust",
           "original": {
             "headline": "‘Traitors in every family’: Hungary to unmask communist-era informants and confront past",
             "url": "https://www.theguardian.com/world/2026/nov/02/hungary-informant-names-revealed-communist-era-past",
@@ -974,8 +959,7 @@
             "byline": "Lili Rutai in Budapest"
           },
           "kicker": "World news",
-          "trail": "From 1945 to 1989, security police relied on tens of thousands of spies to suppress dissent; their files will finally be made public.",
-          "progress": "Hungary is making the files of communist-era informants public to help rebuild trust.",
+          "trail": "From 1945 to 1989, security police relied on tens of thousands of spies to suppress dissent — now the country is confronting that history to rebuild trust.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/34219e44950dce5dbd6d809fa5b26c4b7d7de3ca/688_0_6880_5504/500.jpg"
@@ -985,7 +969,7 @@
         {
           "path": "/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
           "linked": false,
-          "headline": "Arab coalition leader says Israel has 'historic' opportunity to change direction",
+          "headline": "Record Knesset gains put Arab coalition leader Jabareen in position to help oust Netanyahu",
           "original": {
             "headline": "Israel has ‘historic’ opportunity to change direction, says leader of Arab coalition",
             "url": "https://www.theguardian.com/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
@@ -993,7 +977,7 @@
             "byline": "Julian Borger in Umm al-Fahm"
           },
           "kicker": "World news",
-          "trail": "Yousef Jabareen says he is ready to join forces with the opposition bloc to oust Benjamin Netanyahu, after winning a record number of seats in the Knesset.",
+          "trail": "Yousef Jabareen says Israel now has a 'historic' opportunity to change direction, and that he is ready to join forces with the opposition bloc.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/5888e5a85d6810888d4cc569048e3bb38106b5fd/364_0_5163_4133/500.jpg"
@@ -1009,7 +993,7 @@
         {
           "path": "/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
           "linked": false,
-          "headline": "Non-profit startup takes over running Britain's 39m smart meters",
+          "headline": "Non-profit startup takes charge of Britain's 39m smart meters",
           "original": {
             "headline": "Control of Britain’s 39m smart meters passes to non-profit startup",
             "url": "https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
@@ -1017,8 +1001,7 @@
             "byline": "Jillian Ambrose"
           },
           "kicker": "Environment",
-          "trail": "The handover ends a troubled 13-year licence held by Smart DCC, a subsidiary of Capita, marked by rising costs and delays.",
-          "progress": "A new non-profit startup is taking over running the smart meter network from Capita's Smart DCC.",
+          "trail": "The handover ends a troubled 13-year licence held by Smart DCC, a Capita subsidiary, marked by spiralling costs and delays.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c493609923b6c0efdae043b9e6960f29e88779fe/0_0_6558_5246/500.jpg"
@@ -1028,7 +1011,7 @@
         {
           "path": "/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
           "linked": false,
-          "headline": "Hope grows for breakthrough to end Iran war as oil hits two-week low",
+          "headline": "Hopes of an Iran war breakthrough send oil prices tumbling",
           "original": {
             "headline": "Oil price falls amid hope of a breakthrough to end Iran war",
             "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
@@ -1036,8 +1019,7 @@
             "byline": "Graeme Wearden"
           },
           "kicker": "Business",
-          "trail": "Brent crude has dropped by more than 6% to $105.55 a barrel, its lowest level in more than two weeks, as markets price in the chance of a deal.",
-          "progress": "Markets are pricing in hopes that negotiators will reach a breakthrough that ends the war.",
+          "trail": "Brent crude dropped by more than 6% to $105.55 a barrel, the lowest level in more than two weeks.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/5aa655482ec1b18379bdd2373abb83196044c4d5/1261_325_3461_2770/500.jpg"
@@ -1053,7 +1035,7 @@
         {
           "path": "/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
           "linked": false,
-          "headline": "'We both know how we feel about death and dying': Rhys Ifans and Laura Linney find humour in a Parkinson's drama",
+          "headline": "Laughter amid loss: Rhys Ifans and Laura Linney on playing a couple with Parkinson's",
           "original": {
             "headline": "‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama",
             "url": "https://www.theguardian.com/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
@@ -1061,8 +1043,7 @@
             "byline": "Craig McLean"
           },
           "kicker": "Film",
-          "trail": "Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways follows a couple who bond over their diagnoses, a weighty subject laced with humour.",
-          "progress": "Paul Mayhew-Archer, who has Parkinson's, wrote the drama drawing on his own experience of the disease.",
+          "trail": "Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways sees the actors play a couple who bond over their diagnoses — 'we both know how we feel about death and dying,' they say — a devastating subject, but laced with humour too.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/d7b64fbe0899203bc4829c0fcdc8765e118e88ff/479_227_2886_3608/master/2886.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -1161,7 +1142,7 @@
         {
           "path": "/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
           "linked": false,
-          "headline": "Ashanti on her marriage to Nelly, fans rushing the stage and her secret skill",
+          "headline": "Before her Australian tour, Ashanti opens up about Nelly, fame and her secret skill",
           "original": {
             "headline": "Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’",
             "url": "https://www.theguardian.com/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
@@ -1169,7 +1150,7 @@
             "byline": "Sian Cain"
           },
           "kicker": "Music",
-          "trail": "Ahead of her Australian tour, the Grammy-winner talks about her marriage to Nelly, fans rushing the stage and the time a bodysuit snapped off on stage.",
+          "trail": "'I've had a bodysuit snap off on stage – that was not my coolest moment,' says the Grammy winner, who also talks about fans rushing the stage.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/9907ba3855859321a27c29f68c23045fb4197e0d/357_140_1231_984/master/1231.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1180,7 +1161,7 @@
         {
           "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
           "linked": false,
-          "headline": "Punk pioneers Bad Brains' explosive first studio recordings are rereleased",
+          "headline": "'They said we incited riots': Bad Brains on drugs, self-destruction and recording from jail",
           "original": {
             "headline": "‘They said we incited riots’: explosive punks Bad Brains on drugs, self-destruction and recording from jail",
             "url": "https://www.theguardian.com/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
@@ -1188,8 +1169,7 @@
             "byline": "Alex Deller"
           },
           "kicker": "Music",
-          "trail": "Young, Black and fuelled by self-help mantras, the band talk about scaring club owners, drugs, self-destruction and recording from jail, as their wild debut sessions are reissued.",
-          "progress": "The band's early studio recordings are being rereleased, decades after they were made.",
+          "trail": "Young, Black and fuelled by self-help mantras, they were reputedly the best live band on Earth; as their wild first studio sessions are rereleased, the group talk about scaring club owners and getting kicked out of the UK.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/76e0877d62f18b1cf3f7877b95c35a8f61a0740f/808_107_3173_2540/master/3173.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1219,7 +1199,7 @@
         {
           "path": "/music/2026/nov/01/strauss-an-alpine-symphony-album-review",
           "linked": false,
-          "headline": "Strauss: An Alpine Symphony review – Petrenko brings a mystic vision to a monumental work",
+          "headline": "Vasily Petrenko finds darkness and light in a vivid Alpine Symphony recording",
           "original": {
             "headline": "Strauss: An Alpine Symphony album review – monumental work’s mystic vision guides Petrenko ",
             "url": "https://www.theguardian.com/music/2026/nov/01/strauss-an-alpine-symphony-album-review",
@@ -1227,7 +1207,7 @@
             "byline": "Clive Paget"
           },
           "kicker": "Music",
-          "trail": "Vasily Petrenko and the Royal Philharmonic's take on Strauss's tone poem is full of darkness and light, with an impressionist's eye for detail.",
+          "trail": "Petrenko and the Royal Philharmonic's take on Strauss's tone poem has an impressionist's eye for detail, our critic writes.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/fb1597bf1ac4c6d723224705670a346da806720e/37_0_4800_3840/master/4800.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1261,28 +1241,9 @@
           "byline": "Haby Ginsliff"
         },
         {
-          "path": "/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles",
-          "linked": false,
-          "headline": "The Rhyl Poster by Tom McCarthy review – an avant-garde spy drama of hallucinatory riddles",
-          "original": {
-            "headline": "The Rhyl Poster by Tom McCarthy review – is this avant-garde spy drama worth the riddles?",
-            "url": "https://www.theguardian.com/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles",
-            "trail": "The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating reading",
-            "byline": "Anthony Cummins"
-          },
-          "kicker": "Books",
-          "trail": "The demanding tale of a war-scarred jurist with a painkiller dependency makes for occasionally frustrating reading.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/201110bdcada2720b07b3d3d30e093cc4e0f66cf/2633_492_3353_2684/master/3353.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Tom McCarthy."
-          },
-          "byline": "Canthony Ummins"
-        },
-        {
           "path": "/books/2026/oct/31/being-hated-is-very-bracing-helen-garner-on-surviving-three-marriages-and-being-called-a-rotten-feminist",
           "linked": false,
-          "headline": "'Being hated is very bracing': Helen Garner on resilience and finding global recognition",
+          "headline": "'Being hated is very bracing': Helen Garner on surviving three marriages and being called a 'rotten feminist'",
           "original": {
             "headline": "‘Being hated is very bracing’: Helen Garner on surviving three marriages and being called a ‘rotten feminist’ ",
             "url": "https://www.theguardian.com/books/2026/oct/31/being-hated-is-very-bracing-helen-garner-on-surviving-three-marriages-and-being-called-a-rotten-feminist",
@@ -1290,7 +1251,7 @@
             "byline": "Emma Brockes"
           },
           "kicker": "Books",
-          "trail": "Her unsparing fiction and true-crime writing have made her one of Australia's most celebrated and controversial authors; she discusses relationships and being called a 'rotten feminist' five decades into her career.",
+          "trail": "Her unsparing fiction and true crime writing have made her one of Australia's most controversial and celebrated authors; she discusses surviving three marriages, resilience, and finding global recognition five decades into her career.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6bb0d61778dfadb41ea06b7937127dfb554f49d3/0_984_2880_2304/master/2880.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1362,25 +1323,6 @@
           "byline": "Steith Kuart"
         },
         {
-          "path": "/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
-          "linked": false,
-          "headline": "Social media is full of weird video game mashups. Where are they all coming from?",
-          "original": {
-            "headline": "Social media is full of weird video game mashups. Where are they all coming from?",
-            "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
-            "trail": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry",
-            "byline": "Keza MacDonald"
-          },
-          "kicker": "Games",
-          "trail": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could reshape the industry.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A blocky Minecraft character glides with a large orange and white Fortnite-style glider over terrain"
-          },
-          "byline": "Meza KacDonald"
-        },
-        {
           "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
           "linked": false,
           "headline": "Eight great new indie games to play this Halloween",
@@ -1398,6 +1340,25 @@
             "alt": "In The Killing Stone game, a horned demon looms over small figurines on a glowing ritual mat"
           },
           "byline": "Steith Kuart"
+        },
+        {
+          "path": "/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+          "linked": false,
+          "headline": "Social media's weird video game mashups, and the AI behind them",
+          "original": {
+            "headline": "Social media is full of weird video game mashups. Where are they all coming from?",
+            "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
+            "trail": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry",
+            "byline": "Keza MacDonald"
+          },
+          "kicker": "Games",
+          "trail": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry.",
+          "upside": 1,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A blocky Minecraft character glides with a large orange and white Fortnite-style glider over terrain"
+          },
+          "byline": "Meza KacDonald"
         }
       ]
     },
@@ -1444,25 +1405,6 @@
           "byline": "Maurice Ridley"
         },
         {
-          "path": "/music/2026/nov/01/tosca-review-axelle-fanyo-christopher-purves",
-          "linked": false,
-          "headline": "Tosca review – Christopher Purves is terrific as a brutish Scarpia",
-          "original": {
-            "headline": "Tosca review – ENO’s new staging abandons Puccini’s realism for baffling and near-constant violence",
-            "url": "https://www.theguardian.com/music/2026/nov/01/tosca-review-axelle-fanyo-christopher-purves",
-            "trail": "Annilese Miskimmon’s new production of Puccini’s complex drama unmoors it from its church and state settings, but there are few gains, only losses in her radical reading. Christopher Purves’ brutish Scarpia, however, is terrific",
-            "byline": "Flora Willson"
-          },
-          "kicker": "Music",
-          "trail": "Annilese Miskimmon's new production unmoors Puccini's drama from its church and state settings, trading realism for baffling, near-constant violence, but Purves excels.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/e3d1439053c5d7713c2628c1f0f04a52b930d191/0_331_2185_1748/master/2185.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Tosca gestures dramatically in costume, with Scarpia grinning behind her in a military uniform"
-          },
-          "byline": "Wora Flillson"
-        },
-        {
           "path": "/artanddesign/2026/oct/30/william-morris-orkney-derry-painters-art",
           "linked": false,
           "headline": "Big hair with the pre-Raphaelites, 17 Orkney stand-outs and Halloween haunts in Derry – the week in art",
@@ -1480,6 +1422,25 @@
             "alt": "The Bridesmaid, by MillaisThe Bridesmaid. Millais, John Everett (British, 1829-1896). Oil on panel, height 27.9 cm, width 20.3 cm, 1851."
           },
           "byline": "Callum Merriweather"
+        },
+        {
+          "path": "/music/2026/nov/01/tosca-review-axelle-fanyo-christopher-purves",
+          "linked": false,
+          "headline": "Christopher Purves' 'terrific' Scarpia stands out in ENO's baffling new Tosca",
+          "original": {
+            "headline": "Tosca review – ENO’s new staging abandons Puccini’s realism for baffling and near-constant violence",
+            "url": "https://www.theguardian.com/music/2026/nov/01/tosca-review-axelle-fanyo-christopher-purves",
+            "trail": "Annilese Miskimmon’s new production of Puccini’s complex drama unmoors it from its church and state settings, but there are few gains, only losses in her radical reading. Christopher Purves’ brutish Scarpia, however, is terrific",
+            "byline": "Flora Willson"
+          },
+          "kicker": "Music",
+          "trail": "Annilese Miskimmon's new production unmoors Puccini's drama from its church and state settings, abandoning realism for baffling, near-constant violence; there are few gains, only losses in her radical reading.",
+          "upside": 1,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e3d1439053c5d7713c2628c1f0f04a52b930d191/0_331_2185_1748/master/2185.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Tosca gestures dramatically in costume, with Scarpia grinning behind her in a military uniform"
+          },
+          "byline": "Wora Flillson"
         }
       ]
     },
@@ -1487,6 +1448,25 @@
       "id": "more-culture",
       "title": "More culture",
       "cards": [
+        {
+          "path": "/music/2026/nov/02/steve-ellis-frontman-of-everlasting-love-hitmakers-love-affair-dies-aged-76",
+          "linked": false,
+          "headline": "Steve Ellis, frontman of Everlasting Love hitmakers Love Affair, dies aged 76",
+          "original": {
+            "headline": "Steve Ellis, frontman of Everlasting Love hitmakers Love Affair, dies aged 76",
+            "url": "https://www.theguardian.com/music/2026/nov/02/steve-ellis-frontman-of-everlasting-love-hitmakers-love-affair-dies-aged-76",
+            "trail": "Singer hit No 1 with pop-rock band in 1968 and scored three more Top 10 hits with them, before solo career featuring collaborations with Paul Weller",
+            "byline": "Ben Beaumont-Thomas"
+          },
+          "kicker": "Music",
+          "trail": "The singer hit No 1 with the pop-rock band in 1968, scored three more Top 10 hits with them, and went on to a solo career featuring collaborations with Paul Weller.",
+          "upside": 2,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/10e78587922558e882e49006d9800c82aca8192d/0_478_3193_2555/master/3193.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Singer Steve Ellis, facing left, wearing an NFL t-shirt, sings into a microphone in a picture from 1982."
+          },
+          "byline": "Jasmine Radcliffe"
+        },
         {
           "path": "/tv-and-radio/2026/nov/02/wicker-4dx-olivia-colman-movie",
           "linked": false,
@@ -1509,7 +1489,7 @@
         {
           "path": "/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
           "linked": false,
-          "headline": "Taika Waititi points to higher audience ratings for Klara and the Sun",
+          "headline": "Taika Waititi highlights Klara and the Sun's strong audience ratings, dismissing critics as 'obsolete'",
           "original": {
             "headline": "‘Sad lost souls’: Taika Waititi lambasts critics after Klara and the Sun box-office disaster",
             "url": "https://www.theguardian.com/film/2026/nov/02/taika-waititi-lambasts-critics-after-klara-and-the-sun-box-office-disaster",
@@ -1517,7 +1497,7 @@
             "byline": "Andrew Pulver"
           },
           "kicker": "Film",
-          "trail": "The Jojo Rabbit director blamed 'obsolete' critics' notices for the film's disappointing takings, saying he works 'for the people', whose Rotten Tomatoes ratings are much higher.",
+          "trail": "The Jojo Rabbit director blamed the film's box-office disaster and dismal numbers on 'obsolete' reviewers, saying he makes films 'for the people' — whose Rotten Tomatoes ratings are much higher than critics'.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7dd54682267123f06425a1acdf1038ee9c1ca101/453_0_4528_3623/master/4528.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1553,7 +1533,7 @@
         {
           "path": "/lunch-nation/2026/oct/12/why-lunch-breaks-are-getting-shorter-and-how-to-reclaim-them",
           "linked": false,
-          "headline": "Britons dream of a 'Great British lunch revival', Heinz survey finds",
+          "headline": "Survey reveals a nation craving a Great British lunch revival",
           "original": {
             "headline": "‘I usually bolt it down as quickly as possible’ – when did lunch get so crunched?",
             "url": "https://www.theguardian.com/lunch-nation/2026/oct/12/why-lunch-breaks-are-getting-shorter-and-how-to-reclaim-them",
@@ -1561,7 +1541,7 @@
             "byline": "Polly Dunbar"
           },
           "kicker": "Lunch Nation",
-          "trail": "More than 2,000 people surveyed described eating their midday meal in a rush — 'I usually bolt it down as quickly as possible' — but many said they want to reclaim proper lunch breaks.",
+          "trail": "Heinz surveyed more than 2,000 people across the UK about their lunch habits, after one person said they usually bolt down their food as quickly as possible.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8c4a1d8e84e90a106748cd19e6a199ca4e98309d/308_0_4607_3686/master/4607.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1572,7 +1552,7 @@
         {
           "path": "/lunch-nation/2026/oct/12/how-hustle-culture-stole-the-lunch-break",
           "linked": false,
-          "headline": "How to reclaim your lunch break from hustle culture, according to experts",
+          "headline": "'I survived on hot tea and biscuits': how hustle culture stole our lunch break – and how to get it back",
           "original": {
             "headline": "‘I survived on hot tea and biscuits’: how hustle culture stole our lunch break – and how to get it back",
             "url": "https://www.theguardian.com/lunch-nation/2026/oct/12/how-hustle-culture-stole-the-lunch-break",
@@ -1580,8 +1560,7 @@
             "byline": "Meena Alexander"
           },
           "kicker": "Lunch Nation",
-          "trail": "Skipping lunch has become a common symptom of modern life; a psychologist and nutritionist explain why taking a quality midday break helps you reset.",
-          "progress": "A psychologist and nutritionist are advising workers on how to reclaim a proper lunch break.",
+          "trail": "Skipping lunch has become an all-too-common symptom of modern life; a psychologist and nutritionist explain why a quality midday break can help you reset.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c36e57fd109e158147d0bd6b23ff23d86ae58912/428_0_4321_3456/master/4321.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1843,7 +1822,7 @@
         {
           "path": "/lifeandstyle/2026/nov/01/late-70s-no-children-who-help-old-age-annalisa-barbieri",
           "linked": false,
-          "headline": "My wife and I are in our late 70s and have no children – who can help us in our old age?",
+          "headline": "My wife and I are in our late 70s and have no children. Who can help us in our old age?",
           "original": {
             "headline": "My wife and I are in our late 70s and have no children. Who can help us in our old age?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/late-70s-no-children-who-help-old-age-annalisa-barbieri",
@@ -1851,8 +1830,7 @@
             "byline": "Annalisa Barbieri"
           },
           "kicker": "Life and style",
-          "trail": "Getting older and losing your autonomy is harder without family nearby — here's what to consider, on both the practical and emotional sides.",
-          "progress": "An expert sets out the practical and emotional support available to people ageing without family nearby.",
+          "trail": "Getting older and losing your autonomy is harder without family nearby — our columnist considers both the practical and emotional sides.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/589588cb798024a7179dd81064cfa6c22fd9b19d/581_0_3750_3000/master/3750.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1897,7 +1875,7 @@
             "byline": "Shane Hickey"
           },
           "kicker": "Money",
-          "trail": "More people are fitting keyless devices to their front door — here's whether they're worth it, and how they affect your insurance.",
+          "trail": "More people are fitting keyless devices to their front door — but are they worth it, and could they affect your insurance?",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/334481ae33cceb294689dd88726d0f09b3f5aae7/576_0_2879_2303/master/2879.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1908,7 +1886,7 @@
         {
           "path": "/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
           "linked": false,
-          "headline": "Why you should probably keep your birthday a secret online",
+          "headline": "A gift to scammers: why you should probably keep your birthday a secret",
           "original": {
             "headline": "A gift to scammers: why you should probably keep your birthday a secret",
             "url": "https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
@@ -1917,7 +1895,6 @@
           },
           "kicker": "Money",
           "trail": "Using a fake date of birth, or leaving the field blank when making an online account, can offer protection from identity theft.",
-          "progress": "Experts advise using a false date of birth or leaving the field blank to guard against scammers.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c62b7ce125ca10fc16fa8c7e9da59a1fb4bce56c/364_0_3559_2847/master/3559.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1928,7 +1905,7 @@
         {
           "path": "/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
           "linked": false,
-          "headline": "'We were mortgage-free at 45 — here's how you can do it too'",
+          "headline": "'We were mortgage-free at 45, here's how you can do it too'",
           "original": {
             "headline": "‘We were mortgage-free at 45, here’s how you can do it too’",
             "url": "https://www.theguardian.com/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
@@ -1936,8 +1913,7 @@
             "byline": "Holly Mead"
           },
           "kicker": "Money",
-          "trail": "Even modest overpayments can save you a fortune; we look at the best ways to pay off your biggest debt early.",
-          "progress": "Financial experts explain how modest overpayments can help pay off a mortgage years early.",
+          "trail": "Even modest overpayments can save you a fortune — we look at the best ways to pay off your biggest debt early.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/05da21aeda69834b39d0688fd48b02c07ed6d45f/50_0_1500_1200/master/1500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1992,7 +1968,7 @@
         {
           "path": "/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
           "linked": false,
-          "headline": "The truth about testicles: are we really facing 'spermageddon'?",
+          "headline": "Meet the man cutting through 'manosphere' myths about testicles and fertility",
           "original": {
             "headline": "The truth about testicles: are we facing spermageddon?",
             "url": "https://www.theguardian.com/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
@@ -2000,8 +1976,7 @@
             "byline": "Zoe Williams"
           },
           "kicker": "Global",
-          "trail": "Manosphere misinformation about fertility, testosterone and reproductive fitness is rife, and can lead to heartache; meet the man working to change that.",
-          "progress": "One expert is working to correct widespread fertility misinformation and give people clearer facts.",
+          "trail": "When it comes to fertility, testosterone and reproductive fitness, manosphere misinformation is rife — and it can lead to a lot of heartache.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/04ba0f986fb0902b007d564d85c9ddd8b40a2add/448_0_4510_3608/master/4510.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2037,7 +2012,7 @@
         {
           "path": "/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
           "linked": false,
-          "headline": "How high-street brands are staging a fashion comeback with A-listers and AI stylists",
+          "headline": "Gap, M&S and Topshop borrow luxury playbooks to stage a fashion comeback",
           "original": {
             "headline": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
             "url": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
@@ -2045,7 +2020,7 @@
             "byline": "Lauren Cochrane"
           },
           "kicker": "Fashion",
-          "trail": "Gap, M&S, Topshop and more are taking a leaf from luxury labels' playbook to satisfy a savvier generation of shoppers.",
+          "trail": "High-street brands are taking a leaf from luxury labels, enlisting A-listers and AI stylists to satisfy a savvier generation of shoppers.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/392bac3568445a08a38ac339fc9393a9fd479db7/0_507_3333_2667/master/3333.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2182,7 +2157,7 @@
         {
           "path": "/lifeandstyle/2026/nov/02/a-new-start-after-60-at-26-i-saw-my-dream-porsche-at-68-i-built-one-from-scratch",
           "linked": false,
-          "headline": "A new start after 60: at 26 I saw my dream Porsche. At 68, I built one from scratch",
+          "headline": "A new start after 60: At 26, I saw my dream Porsche. At 68, I built one from scratch",
           "original": {
             "headline": "A new start after 60: At 26, I saw my dream Porsche. At 68, I built one from scratch",
             "url": "https://www.theguardian.com/lifeandstyle/2026/nov/02/a-new-start-after-60-at-26-i-saw-my-dream-porsche-at-68-i-built-one-from-scratch",
@@ -2190,8 +2165,7 @@
             "byline": "Paula Cocozza"
           },
           "kicker": "Life and style",
-          "trail": "Bill Drysdale could never afford the sports car he fell in love with as a young man; so when he retired, he went to night school to learn welding and began assembling it, piece by piece.",
-          "progress": "Drysdale went to night school to learn welding so he could build the car himself in retirement.",
+          "trail": "Bill Drysdale could never afford the sports car he fell in love with as a young man, so when he retired, he went to night school to learn welding and began assembling one from scratch, bit by bit.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f95f7b04d1805bc6842f8718f04ccd6560d5f516/514_0_4200_3360/master/4200.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2265,7 +2239,7 @@
         {
           "path": "/uk-news/2026/nov/01/tommy-robinson-conviction-leaves-far-right-with-leadership-void",
           "linked": false,
-          "headline": "Tommy Robinson's conviction for harassing journalists leaves anti-migrant movement without a leader",
+          "headline": "Tommy Robinson convicted of harassing journalists, leaving far right without a clear leader",
           "original": {
             "headline": "Tommy Robinson conviction leaves far right with leadership void",
             "url": "https://www.theguardian.com/uk-news/2026/nov/01/tommy-robinson-conviction-leaves-far-right-with-leadership-void",
@@ -2273,8 +2247,7 @@
             "byline": "Ben Quinn Political correspondent"
           },
           "kicker": "UK news",
-          "trail": "With heir apparent Danny Tommo also in custody, the conviction leaves the far right without a clear leader.",
-          "progress": "Robinson was convicted of harassing journalists, removing a prominent anti-migrant figure from the scene.",
+          "trail": "With his heir apparent, Danny Tommo, also in custody, Robinson's conviction is a blow to the anti-migrant movement.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/783d3155ae05caf332adf68ae0f5f0ffb169b57d/1097_130_2071_2590/master/2071.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2348,7 +2321,7 @@
         {
           "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
           "linked": false,
-          "headline": "Guardian seeks young people's experiences of searching for work in the UK",
+          "headline": "Young people in the UK: tell us about your search for work",
           "original": {
             "headline": "Tell us: are you a young person in the UK struggling to find work?",
             "url": "https://www.theguardian.com/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
@@ -2392,7 +2365,7 @@
         {
           "path": "/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
           "linked": false,
-          "headline": "Supreme court rejects Trump's bid to set aside 20,000 California ballots",
+          "headline": "Trump loses supreme court bid to set aside 20,000 California ballots",
           "original": {
             "headline": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – as it happened",
             "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
@@ -2400,35 +2373,17 @@
             "byline": "Lois Beckett, Johana Bhuiyan, Shrai Popat, Lucy Campbell and Tom Ambrose"
           },
           "kicker": "US news",
-          "trail": "Justices declined to take up the emergency request, as the live blog on the midterms closes.",
-          "upside": 2,
+          "trail": "Justices refused to take up the president's emergency request. This live blog is now closed.",
+          "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/94bf86cddc911729306056b68b43e823106b5991/367_0_5113_4093/500.jpg"
           },
           "byline": "Bois Leckett, Bhohana Juiyan, Hector Hollins, Cucy Lampbell and Om Tambrose"
         },
         {
-          "path": "/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-          "linked": false,
-          "headline": "The Gilded Age review – Emmy winner returns for a fourth series",
-          "original": {
-            "headline": "The Gilded Age review – what did we do to deserve such a terrible stinker?",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/02/the-gilded-age-review-what-did-we-do-to-deserve-such-a-terrible-stinker",
-            "trail": "Julian Fellowes’ high-society period drama has, somehow, picked up Emmys and reached its fourth series. Poor Meryl Streep must feel so awkward watching her daughter Louisa Jacobson in such a uniformly awful show",
-            "byline": "Lucy Mangan"
-          },
-          "kicker": "Television & radio",
-          "trail": "Julian Fellowes' high-society period drama has, somehow, picked up Emmys and reached its fourth series; this critic found little to admire, with Meryl Streep's daughter Louisa Jacobson among the cast.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/c40713323e95cc360e5d1a5ea48c46e8b80cd0f9/2580_670_3054_2443/500.jpg"
-          },
-          "byline": "Mucy Langan"
-        },
-        {
           "path": "/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
           "linked": true,
-          "headline": "Kristin Scott Thomas stars as a glamorous granny in John Lewis's 20th Christmas ad",
+          "headline": "Pickles the talking toy dog talks John Lewis's granny out of giving cash",
           "original": {
             "headline": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
             "url": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
@@ -2437,7 +2392,7 @@
             "byline": "Sarah Butler"
           },
           "kicker": "Media",
-          "trail": "The retailer tugs at heartstrings with Pickles the talking toy dog as it marks 20 years of blockbuster festive advertising.",
+          "trail": "Kristin Scott Thomas plays a glamorous granny on a gift hunt in the retailer's milestone 20th-anniversary festive advert.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/33449fd08ca45c7963893346d9e5e0e4e24fe68c/847_0_5000_4000/1000.jpg",
@@ -2460,8 +2415,8 @@
             "byline": "Ariana Baio"
           },
           "kicker": "US news",
-          "trail": "The US president shared the delayed results of a chaotic renovation project on the site in Washington DC as Americans prepare to head to the polls.",
-          "progress": "Prosecutors dropped the case against David Hearn, the Olympic canoeist wrongly accused of vandalising the pool.",
+          "trail": "Trump shared the delayed results of a chaotic renovation project on the Washington DC site, as Americans prepare to head to the polls.",
+          "progress": "The US attorney's office dropped the case after failing to produce evidence to back Trump's vandalism claims against Hearn.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f7f882d910cf5e618c41551fd7db158d88b1c034/0_0_4000_2770/1000.jpg",
@@ -2475,7 +2430,7 @@
         {
           "path": "/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
           "linked": false,
-          "headline": "Non-profit startup takes over running Britain's 39m smart meters",
+          "headline": "Non-profit startup takes charge of Britain's 39m smart meters",
           "original": {
             "headline": "Control of Britain’s 39m smart meters passes to non-profit startup",
             "url": "https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
@@ -2483,8 +2438,7 @@
             "byline": "Jillian Ambrose"
           },
           "kicker": "Environment",
-          "trail": "The handover ends a troubled 13-year licence held by Smart DCC, a subsidiary of Capita, marked by rising costs and delays.",
-          "progress": "A new non-profit startup is taking over running the smart meter network from Capita's Smart DCC.",
+          "trail": "The handover ends a troubled 13-year licence held by Smart DCC, a Capita subsidiary, marked by spiralling costs and delays.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c493609923b6c0efdae043b9e6960f29e88779fe/0_0_6558_5246/500.jpg"
@@ -2494,7 +2448,7 @@
         {
           "path": "/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
           "linked": false,
-          "headline": "Investigating who is hacking Europe's supermarket fridges and freezers – and why",
+          "headline": "Tracking down who is hacking Europe's supermarket fridges and freezers",
           "original": {
             "headline": "Who is hacking Europe’s supermarket fridges and freezers, and why? ",
             "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
@@ -2503,7 +2457,6 @@
           },
           "kicker": "Technology",
           "trail": "After a second apparent cyber-attack in weeks, we examine the possible culprits and their motives.",
-          "progress": "Investigators and analysts are examining who might be behind the attacks and why.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/e46f146ddf930c068118e9bb0de3d7aa63a9b267/211_0_4628_3703/500.jpg"
@@ -2513,7 +2466,7 @@
         {
           "path": "/politics/2026/nov/02/half-witted-at-best-a-people-pleaser-at-worst-step-forward-chris-philp",
           "linked": false,
-          "headline": "Chris Philp's response to immigration reform shows how out of touch Conservatives have become",
+          "headline": "Chris Philp needs a reality check on immigration reform",
           "original": {
             "headline": "Half-witted at best, a people-pleaser at worst: step forward, Chris Philp",
             "url": "https://www.theguardian.com/politics/2026/nov/02/half-witted-at-best-a-people-pleaser-at-worst-step-forward-chris-philp",
@@ -2521,7 +2474,7 @@
             "byline": "John Crace"
           },
           "kicker": "Politics",
-          "trail": "Responding to Shabana Mahmood's changes to indefinite leave to remain, the shadow home secretary appeared detached from reality.",
+          "trail": "Responding to Shabana Mahmood's changes to indefinite leave to remain, the shadow home secretary came across as half-witted at best and a people-pleaser at worst, our columnist writes.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/9e53c2a64e9a70daabc4dd1857b8b19251680067/362_416_6256_5005/500.jpg"
@@ -2541,12 +2494,12 @@
       },
       "publishedAt": "2026-11-02T19:06:40Z",
       "headline": "Care workers win exception from toughest new settlement rules",
-      "bodyHtml": "<p>Shabana Mahmood has granted care workers an exemption from her toughest settlement rules, after a cabinet backlash and pressure from health unions secured a carve-out allowing them to apply for indefinite leave to remain after five years. The home secretary rowed back from her original plan to make care workers wait 15 years for settlement in the UK, but told MPs on Monday that most other migrants would still face retrospective rule changes making them wait a decade.</p>\n<p>The key climbdown was the exemption for care workers, something the housing secretary, Angela Rayner, had explicitly criticised. The energy secretary, Miatta Fahnbulleh, had also repeatedly refused to say she backed proposals to prolong the qualifying period for settlement.</p>\n<p>Under pressure from health unions to make an exception for care workers, the home secretary moved to allow an estimated 280,000 care workers and their dependants to apply for indefinite leave to remain after five years. In the revised proposals, care workers earning more than £25,000 will be able to apply for indefinite leave to remain after five years, a third of the time that was announced last year.</p>\n<p>But most of the rigorous new rules drawn up by Mahmood's office last year remain, including plans to force those who arrived in the UK by irregular means such as small boats to face <a href=\"https://viewer.gutools.co.uk/uk-news/2025/nov/20/labour-tighter-rules-benefits-housing-people-migrating-to-uk-shabana-mahmood\" rel=\"noopener\">up to 30 years</a> before being able to apply for settlement.</p>\n<p>Mahmood told the Commons she would still enact sweeping changes that will mean many migrant workers will wait double the time they had expected for settlement. She said settlement was “one of most valuable rights this country can offer. Until now it has been given almost automatically. From today it must be earned. Those who contribute will settle fastest. Those who don’t play by the rules will be refused or wait much longer.”</p>\n\n<p>Highest earners – those earning more than £125,000 – will be able to settle within three years. Those earning more than £50,271 and some public service workers such as doctors, nurses and teachers will be able to settle after five years. For those earning under £50,000, the wait will double to 10 years, which was criticised by some Labour MPs who said vital workers such as research scientists and chefs would be caught by the changes.</p>\n<p>Home Office officials calculate that about 500,000 migrants will have to wait longer than the current five years. But critics of Mahmood's softening point out that 1.4 million out of the 1.9 million migrants who came to Britain under the so-called “Boriswave” surge in legal migrants will still be eligible for indefinite leave after five years.</p>\n<p>The exception will be the small number of refugees who enter through designated safe and legal routes such as the reopening of the scheme for Afghan women and girls and Palestinians. No other refugees will be eligible for settlement if they have accessed any public funds. Refugees will otherwise face a wait of 10 years, with an additional 10-year penalty for those who do not enter legally – and those who do not find employment will face a wait of up to 30 years.</p>\n<p>Andy Burnham, who promised voters in his Makerfield byelection that he would support Mahmood's migration agenda, endorsed the plans and said the home secretary was “gripping this problem” by introducing the earned element. “People want to see an immigration system based on control, contribution, and which rewards those who play by the rules,” the prime minister said. “It is only fair that those who are making the most valuable contribution to our communities are given the opportunity to settle earlier. Those in other roles should expect to wait longer while people who abuse the system or arrive illegally will be refused or will also have to wait longer.”</p>\n<p>Mahmood met union general secretaries to map out the changes on Monday morning, before presenting them to MPs. The Unison general secretary, Andrea Egan, said it was welcome that Mahmood had not implemented her original plans, which were “morally bankrupt and a threat to public services”.</p>\n<p>Egan said the obligations placed on care workers to qualify for the five-year path were still onerous. “The government must make sure it isn't unjustly denied to them. Thousands of migrant care workers have had their employment patterns and pay disrupted by rogue employers,” she said. “The power of employers to threaten workers with deportation or disrupt their route to settlement must end.”</p>\n<p>The changes drew cries of betrayal from the Conservatives and the Reform UK leader, Nigel Farage, who said it was “the beginning of the capitulation”. The shadow home secretary, Chris Philp, said Mahmood's decision to allow a carve-out for care workers who arrived on the visa before May 2025 would cost the country up to £10bn, a figure Mahmood has cited in support of her original plans. The home secretary said the longer wait for settlement for more than half a million people would mean a cut to the projected benefits bill.</p>\n<p>Other Conservative MPs acknowledged that it was the previous government who had allowed numbers to rise so significantly. The backbencher Edward Leigh said to Philp that “anybody who was serving as a Home Office minister at that time should wear sackcloth and ashes”.</p>\n<p>Some MPs suggested they would continue to press the home secretary to rethink the retrospective nature of the changes – though the new policies do not require a vote in parliament, so MPs have limited means to block them.</p>\n<p>The Law Society said the changing rules could threaten the rule of law, saying it “retrospectively undermines the legal certainty that individuals, families and employers rely on”.</p>\n<p>Abtisam Mohamed, the Labour MP for Sheffield Central, said: “Retrospectively uprooting someone's plans, sometimes made at the most vulnerable time in their lives, is unfair. I'll be pressing for those already here to be protected.”</p>\n<p>The former shadow home secretary Diane Abbott also criticised the retrospective changes. “You can come in legally, you can work legally and then have your residency rights turned upside down,” she said, warning of another potential Windrush scandal.</p>\n<p>The Walthamstow MP Stella Creasy said there was a “partial recognition” of the contribution migrants made but there were thousands of people “facing 10 years of limbo with many businesses unclear if talent will stay or not as a result”. She said: “The economic consequences of those people walking away from the UK will far outweigh any savings in entitlement to benefits, given many of them don't claim anyway, so the home secretary still has work to do to make these reforms work for our national interest.”</p>\n<p>Migrant rights organisations accused the government of “moving the goalposts” for those who had played by the rules. “People who have built their lives around the government's requirements deserve better than decisions that turn their own and their families' lives upside down,” said Amnesty International.</p>\n<p>Business groups warned that the retrospective nature of the changes would still cause far-reaching damage in some sectors. The CBI said the exemption for some care workers meant the policy risked “being higher costs for the relatively small number of businesses using skilled worker visas, without addressing the problem the policy was originally designed to solve”.</p>\n<p>Make UK said it would make it far more difficult for businesses to retain skilled workers and industries would “undoubtedly lose talent to countries that welcome skilled workers rather than moving the goalposts”.</p>",
+      "bodyHtml": "<p>Shabana Mahmood has granted care workers an exemption from her toughest settlement rules, after a cabinet backlash and pressure from health unions secured a carve-out allowing them to apply for indefinite leave to remain after five years. The home secretary rowed back from her original plan to make care workers wait 15 years for settlement in the UK, but told MPs on Monday that many migrants would still face retrospective rule changes making them wait a decade.</p>\n<p>The key climbdown was the exemption for care workers, something the housing secretary, Angela Rayner, had explicitly criticised. The energy secretary, Miatta Fahnbulleh, had also repeatedly refused to say she backed proposals to prolong the qualifying period for settlement.</p>\n<p>Under pressure from health unions to make an exception for care workers, the home secretary moved to allow an estimated 280,000 care workers and their dependants to apply for indefinite leave to remain after five years. In the revised proposals, care workers earning more than £25,000 will be able to apply for indefinite leave to remain after five years, a third of the time that was announced last year.</p>\n<p>But most of the rigorous new rules drawn up by Mahmood's office last year remain, including plans to force those who arrived in the UK by irregular means such as small boats to face <a href=\"https://viewer.gutools.co.uk/uk-news/2025/nov/20/labour-tighter-rules-benefits-housing-people-migrating-to-uk-shabana-mahmood\" rel=\"noopener\">up to 30 years</a> before being able to apply for settlement.</p>\n<p>Mahmood told the Commons she would still enact sweeping changes that will mean many migrant workers will wait double the time they had expected for settlement. She said settlement was “one of most valuable rights this country can offer. Until now it has been given almost automatically. From today it must be earned. Those who contribute will settle fastest. Those who don’t play by the rules will be refused or wait much longer.”</p>\n\n<p>Highest earners – those earning more than £125,000 – will be able to settle within three years. Those earning more than £50,271 and some public service workers such as doctors, nurses and teachers will be able to settle after five years. For those earning under £50,000, the wait will double to 10 years, which was criticised by some Labour MPs who said vital workers such as research scientists and chefs would be caught by the changes.</p>\n<p>Home Office officials calculate that about 500,000 migrants will have to wait longer than the current five years. But critics of Mahmood's softening point out that 1.4 million out of the 1.9 million migrants who came to Britain under the so-called “Boriswave” surge in legal migrants will still be eligible for indefinite leave after five years.</p>\n<p>The exception will be the small number of refugees who enter through designated safe and legal routes such as the reopening of the scheme for Afghan women and girls and Palestinians. No other refugees will be eligible for settlement if they have accessed any public funds. Refugees will otherwise face a wait of 10 years, with an additional 10-year penalty for those who do not enter legally – and those who do not find employment will face a wait of up to 30 years.</p>\n<p>Andy Burnham, who promised voters in his Makerfield byelection that he would support Mahmood's migration agenda, endorsed the plans and said the home secretary was “gripping this problem” by introducing the earned element. “People want to see an immigration system based on control, contribution, and which rewards those who play by the rules,” the prime minister said. “It is only fair that those who are making the most valuable contribution to our communities are given the opportunity to settle earlier. Those in other roles should expect to wait longer while people who abuse the system or arrive illegally will be refused or will also have to wait longer.”</p>\n<p>Mahmood met union general secretaries to map out the changes on Monday morning, before presenting them to MPs. The Unison general secretary, Andrea Egan, said it was welcome that Mahmood had not implemented her original plans, which were “morally bankrupt and a threat to public services”.</p>\n<p>Egan said the obligations placed on care workers to qualify for the five-year path were still onerous. “The government must make sure it isn't unjustly denied to them. Thousands of migrant care workers have had their employment patterns and pay disrupted by rogue employers,” she said. “The power of employers to threaten workers with deportation or disrupt their route to settlement must end.”</p>\n<p>The changes drew cries of betrayal from the Conservatives and the Reform UK leader, Nigel Farage, who said it was “the beginning of the capitulation”. The shadow home secretary, Chris Philp, said Mahmood's decision to allow a carve-out for care workers who arrived on the visa before May 2025 would cost the country up to £10bn, a figure Mahmood has cited in support of her original plans. The home secretary said the longer wait for settlement for more than half a million people would mean a cut to the projected benefits bill.</p>\n<p>Other Conservative MPs acknowledged that it was the previous government who had allowed numbers to rise so significantly. The backbencher Edward Leigh said to Philp that “anybody who was serving as a Home Office minister at that time should wear sackcloth and ashes”.</p>\n<p>Some MPs suggested they would continue to press the home secretary to rethink the retrospective nature of the changes – though the new policies do not require a vote in parliament, so MPs have limited means to block them.</p>\n<p>The Law Society said the changing rules could threaten the rule of law, saying it “retrospectively undermines the legal certainty that individuals, families and employers rely on”.</p>\n<p>Abtisam Mohamed, the Labour MP for Sheffield Central, said: “Retrospectively uprooting someone's plans, sometimes made at the most vulnerable time in their lives, is unfair. I'll be pressing for those already here to be protected.”</p>\n<p>The former shadow home secretary Diane Abbott also criticised the retrospective changes. “You can come in legally, you can work legally and then have your residency rights turned upside down,” she said, warning of another potential Windrush scandal.</p>\n<p>The Walthamstow MP Stella Creasy said there was a “partial recognition” of the contribution migrants made but there were thousands of people “facing 10 years of limbo with many businesses unclear if talent will stay or not as a result”. She said: “The economic consequences of those people walking away from the UK will far outweigh any savings in entitlement to benefits, given many of them don't claim anyway, so the home secretary still has work to do to make these reforms work for our national interest.”</p>\n<p>Migrant rights organisations accused the government of “moving the goalposts” for those who had played by the rules. “People who have built their lives around the government's requirements deserve better than decisions that turn their own and their families' lives upside down,” said Amnesty International.</p>\n<p>Business groups warned that the retrospective nature of the changes would still cause far-reaching damage in some sectors. The CBI said the exemption for some care workers meant the policy risked “being higher costs for the relatively small number of businesses using skilled worker visas, without addressing the problem the policy was originally designed to solve”.</p>\n<p>Make UK said it would make it far more difficult for businesses to retain skilled workers and industries would “undoubtedly lose talent to countries that welcome skilled workers rather than moving the goalposts”.</p>",
       "related": [
         {
           "path": "/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
           "linked": false,
-          "headline": "How will UK immigration rules change under Shabana Mahmood's softened plans?",
+          "headline": "Mahmood softens some of her toughest immigration proposals",
           "original": {
             "headline": "How will UK immigration rules change under Shabana Mahmood’s latest plans? ",
             "url": "https://www.theguardian.com/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
@@ -2554,7 +2507,7 @@
             "byline": "Rajeev Syal Home affairs editor"
           },
           "kicker": "UK news",
-          "trail": "The home secretary has eased some proposals, while still tightening rules for people wishing to settle permanently.",
+          "trail": "The home secretary has eased some of her plans, but is still tightening the rules for migrants seeking permanent settlement.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/921c515bcafdb0f52ac6ca7e553fcaa55a2b4821/880_261_4965_3972/1000.jpg",
@@ -2564,50 +2517,6 @@
             "height": 800
           },
           "byline": "Sajeev Ryal Home affairs editor"
-        },
-        {
-          "path": "/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
-          "linked": false,
-          "headline": "Shabana Mahmood hints she could ease plans on leave to remain for care workers",
-          "original": {
-            "headline": "Shabana Mahmood hints she could water down plans on leave to remain",
-            "url": "https://www.theguardian.com/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
-            "trail": "Home secretary under pressure over changes that would make it harder for foreign workers to claim permanent residence",
-            "byline": "Rajeev Syal Home affairs editor and Kiran Stacey Policy editor"
-          },
-          "kicker": "UK news",
-          "trail": "The home secretary was under pressure over changes that would make it harder for foreign workers to claim permanent residency.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/f5760bec911bf357bd37ae4b32ceccd49e278c79/0_86_6722_5378/1000.jpg",
-            "alt": "Shabana Mahmood speaks at a podium reading 'Hope Again' against a red backdrop",
-            "credit": "Photograph: Christopher Thomond/The Guardian",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Sajeev Ryal Home affairs editor and Stiran Kacey Policy editor"
-        },
-        {
-          "path": "/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
-          "linked": false,
-          "headline": "No 10 leaves door open to watering down immigration rules as cabinet split widens",
-          "original": {
-            "headline": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
-            "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
-            "trail": "No 10 declines to rule out watering down plans to extend waiting period for indefinite leave to remain as cabinet split widens",
-            "byline": "Rowena Mason and Matthew Weaver"
-          },
-          "kicker": "UK news",
-          "trail": "Shabana Mahmood has been urged to 'read the room' on Labour opposition to the policy.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/d1ff3a84cccfec72d4018b1ab8a24244023c85ff/595_0_4088_3271/1000.jpg",
-            "alt": "Shabana Mahmood speaks at a microphone against a red backdrop at Labour party conference",
-            "credit": "Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Mowena Rason and Watthew Meaver"
         },
         {
           "path": "/uk-news/2026/mar/05/shabana-mahmood-accused-of-mimicking-trump-as-she-announces-immigration-plans",
@@ -2632,9 +2541,31 @@
           "byline": "Stiran Kacey and Tiane Daylor"
         },
         {
+          "path": "/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
+          "linked": false,
+          "headline": "Mahmood opens door to softer rules for foreign care and visa workers",
+          "original": {
+            "headline": "Shabana Mahmood hints she could water down plans on leave to remain",
+            "url": "https://www.theguardian.com/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
+            "trail": "Home secretary under pressure over changes that would make it harder for foreign workers to claim permanent residence",
+            "byline": "Rajeev Syal Home affairs editor and Kiran Stacey Policy editor"
+          },
+          "kicker": "UK news",
+          "trail": "The home secretary is under pressure over changes that would make it harder for foreign workers to claim permanent residence.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/f5760bec911bf357bd37ae4b32ceccd49e278c79/0_86_6722_5378/1000.jpg",
+            "alt": "Shabana Mahmood speaks at a podium reading 'Hope Again' against a red backdrop",
+            "credit": "Photograph: Christopher Thomond/The Guardian",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Sajeev Ryal Home affairs editor and Stiran Kacey Policy editor"
+        },
+        {
           "path": "/politics/2025/dec/05/shabana-mahmood-urged-not-to-help-those-seeking-build-division-asylum-system",
           "linked": false,
-          "headline": "225 groups urge Mahmood not to help 'build division' with asylum overhaul",
+          "headline": "225 groups challenge Mahmood over asylum shake-up in open letter",
           "original": {
             "headline": "Shabana Mahmood urged not to help those ‘seeking to build division’",
             "url": "https://www.theguardian.com/politics/2025/dec/05/shabana-mahmood-urged-not-to-help-those-seeking-build-division-asylum-system",
@@ -2642,7 +2573,7 @@
             "byline": "Chris Osuh Community affairs correspondent"
           },
           "kicker": "UK news",
-          "trail": "In an open letter, the groups describe the home secretary's plan to overhaul the asylum system as 'cruel' and 'ruthless'.",
+          "trail": "The groups describe the home secretary's plan to overhaul the asylum system as 'cruel' and 'ruthless', urging her not to help those 'seeking to build division'.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/2a393522807dd91da48b393272a58b8e0fbe2207/0_102_3593_2874/1000.jpg",
@@ -2652,6 +2583,28 @@
             "height": 800
           },
           "byline": "Kenneth Loxley Community affairs correspondent"
+        },
+        {
+          "path": "/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+          "linked": false,
+          "headline": "No 10 leaves door open to watering down tougher settlement rules",
+          "original": {
+            "headline": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
+            "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+            "trail": "No 10 declines to rule out watering down plans to extend waiting period for indefinite leave to remain as cabinet split widens",
+            "byline": "Rowena Mason and Matthew Weaver"
+          },
+          "kicker": "UK news",
+          "trail": "The signal comes as Labour's cabinet split over the immigration plans widens, with Shabana Mahmood urged to 'read the room'.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/d1ff3a84cccfec72d4018b1ab8a24244023c85ff/595_0_4088_3271/1000.jpg",
+            "alt": "Shabana Mahmood speaks at a microphone against a red backdrop at Labour party conference",
+            "credit": "Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Mowena Rason and Watthew Meaver"
         }
       ],
       "status": "rewritten",
@@ -2662,7 +2615,7 @@
         "standfirst": "<p>Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five years</p>",
         "byline": "Rajeev Syal and Jessica Elgot"
       },
-      "standfirst": "Health union pressure has won care workers and their dependants an exception allowing them to apply for indefinite leave to remain after five years, as most other migrants face a decade-long wait for settlement",
+      "standfirst": "Health union pressure has won care workers and their dependants an exception allowing them to apply for indefinite leave to remain after five years, as many other migrants face a decade-long wait for settlement",
       "progress": "Mahmood met union leaders and granted care workers a carve-out, after sustained pressure from cabinet colleagues and unions.",
       "upside": 2,
       "byline": "Sajeev Ryal and Essica Jelgot",
@@ -2682,7 +2635,7 @@
         "name": "World news"
       },
       "publishedAt": "2026-11-02T22:30:30Z",
-      "headline": "Burnham to ask Commonwealth countries to help shape UK's slavery apology",
+      "headline": "Burnham to offer debt relief to Commonwealth as slavery apology talks open",
       "bodyHtml": "<p>Andy Burnham will ask countries affected by Britain’s role in slavery to help shape an expected formal apology, Downing Street has indicated, arguing that their input is indispensable in crafting an enduring message.</p> <p>The prime minister was en route to the Commonwealth heads of government summit (Chogm) in Antigua and Barbuda, which begins on Tuesday. No 10 said he would use the event to <a href=\"https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda\" rel=\"noopener\">launch a “structured dialogue”</a> into what form an apology might take.</p> <p>Downing Street has ruled out the idea of paying reparations after an apology, but Burnham is expected to set out plans at the summit for a system of debt restructuring for countries facing higher debt costs.</p> <p>UK officials already at the summit said other Commonwealth countries had responded positively to the move, and that it could help talks on separate issues such as trade and the climate.</p> <p>In comments released by No 10 before Burnham’s arrival, the prime minister said discussion of an apology marked a new approach towards the UK’s relations with the Commonwealth.</p> <p>“In today’s more divided, unpredictable world, the Commonwealth has the potential to be a powerful force for good, bringing together a third of the global population, and I believe it is key that the UK plays its full role in that,” Burnham said.<br><br>“Britain is bringing a new approach to this meeting as we look to reshape a new era for the Commonwealth, as well as being open to discussions about the past.”</p>    <p>Burnham set out his intention to look at a possible apology in an <a href=\"https://www.theguardian.com/commentisfree/2026/oct/30/british-people-slave-trade-reparations-andy-burnham\" rel=\"noopener\">article for the Guardian</a> on Saturday, in which he said the UK should “show leadership again today” as it had done in efforts to end the transatlantic slave trade.</p> <p>Asked why Burnham believed an apology was needed, his official spokesperson said: “The prime minister wants to strengthen the Commonwealth as a family of nations with shared values that can support growth around the world through trade and economic collaboration.” Having conversations about an apology would do this, and was also the right thing to do, he said.</p> <p>Tony Blair <a href=\"https://www.theguardian.com/politics/2006/nov/26/race.immigrationpolicy\" rel=\"noopener\">expressed “deep sorrow”</a> about the slave trade and Britain’s role in it in 2006, but stopped short of a formal apology.</p> <p>Burnham intended to go further, his spokesperson said. “The prime minister, like his predecessors, has expressed his sorrow and regret for the pain and suffering caused by the transatlantic slave trade, and recognised the way it still shapes our world today.</p>   <p>“That is distinct from a formal apology. We are opening a structured dialogue with those affected by the transatlantic slave trade, and listening to calls for a formal apology on behalf of the British state, and that will form an important part of that process.</p> <p>“We think it’s right that a formal apology is discussed properly with the countries and communities most affected, rather than simply deciding unilaterally what form it should take. An apology of this significance should be informed by the people and countries most affected, as they have asked for.”</p>    <p>Burnham is scheduled to take part in a series of assemblies at Chogm, as well as bilateral meetings with other leaders.</p> <p>There was no single event set aside to discuss slavery or an apology, but discussions would take place “throughout the next couple of days”, No 10 said, adding that the Foreign Office would lead talks over the form of an apology.</p> <p>The foreign secretary, Ed Miliband, is already at the summit. One Foreign Office official said other Commonwealth countries “are responding positively to our offer of a structured dialogue” on an apology.</p> <p>“The conversations at Chogm have been focused on the positive work this alliance can do together on issues like climate and trade,” they said. “By not shying away from difficult discussions about our past, we are building trust with our allies to focus on the big issues of the future.”</p> <p>No 10 denied that Burnham’s comments had potentially embarrassed King Charles, who is already in Antigua and Barbuda for a pre-Chogm visit.</p> <p>Buckingham Palace “was made aware in a timely manner”, Burnham’s spokesperson said. “The prime minister believes that being true to British values of decency and honesty means not shying away from these conversations.”</p>",
       "related": [
         {
@@ -2696,7 +2649,7 @@
             "byline": "Pippa Crerar and Natricia Duncan"
           },
           "kicker": "World news",
-          "trail": "The PM will launch the debt initiative but has rejected demands for reparations, while remaining open to calls for a formal apology for Britain's role in the slave trade.",
+          "trail": "The PM is open to calls for a formal apology for Britain's role in the slave trade, but rejects demands for reparations.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/6c341e23e61021ce4f2b591073bc01ad2f6e1221/410_0_3984_3188/1000.jpg",
@@ -2708,31 +2661,9 @@
           "byline": "Crippa Perar and Datricia Nuncan"
         },
         {
-          "path": "/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-          "linked": false,
-          "headline": "Burnham agrees to 'structured dialogue' on reparatory justice, despite UK's earlier resistance",
-          "original": {
-            "headline": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-            "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-            "trail": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda",
-            "byline": "Natricia Duncan in St John's, Antigua"
-          },
-          "kicker": "World news",
-          "trail": "Britain was previously 'vehement' that slavery reparations should not be on the Commonwealth summit agenda; the issue remains off the formal Chogm agenda, but talks will go ahead.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/223fc946a9add0d85761c121fd3c2a08504026a8/935_87_6394_5115/1000.jpg",
-            "alt": "King Charles caught in rain during downpour in Antigua on Sunday.",
-            "credit": "Photograph: Matias Delacroix/AP",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Datricia Nuncan in St John's, Antigua"
-        },
-        {
           "path": "/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
           "linked": false,
-          "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders",
+          "headline": "Most young Britons back dialogue on slavery reparations, poll finds",
           "original": {
             "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
             "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
@@ -2740,7 +2671,7 @@
             "byline": "Natricia Duncan Caribbean correspondent"
           },
           "kicker": "World news",
-          "trail": "The royal tour of the Caribbean comes as a poll suggests majority support among younger Britons for dialogue on slavery reparations.",
+          "trail": "The finding comes as King Charles's royal tour of the Caribbean includes talks with Commonwealth leaders on the legacy of slavery.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f25209cc53130959b013089a2e2c4956336fd11d/1440_0_7200_5760/1000.jpg",
@@ -2774,9 +2705,53 @@
           "byline": "Datricia Nuncan Caribbean correspondent and Meil Narks in Georgetown"
         },
         {
+          "path": "/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+          "linked": false,
+          "headline": "Burnham agrees to structured dialogue on reparatory justice with Commonwealth",
+          "original": {
+            "headline": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+            "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+            "trail": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda",
+            "byline": "Natricia Duncan in St John's, Antigua"
+          },
+          "kicker": "World news",
+          "trail": "The UK was previously 'vehement' that slavery reparations should not be on the summit agenda, and the issue remains off the formal Chogm agenda.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/223fc946a9add0d85761c121fd3c2a08504026a8/935_87_6394_5115/1000.jpg",
+            "alt": "King Charles caught in rain during downpour in Antigua on Sunday.",
+            "credit": "Photograph: Matias Delacroix/AP",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Datricia Nuncan in St John's, Antigua"
+        },
+        {
+          "path": "/world/2024/oct/14/slavery-reparations-not-on-agenda-at-commonwealth-summit-says-no-10",
+          "linked": false,
+          "headline": "Starmer heads to Samoa summit to 'discuss shared challenges and opportunities'",
+          "original": {
+            "headline": "Slavery reparations not on agenda at Commonwealth summit, says No 10",
+            "url": "https://www.theguardian.com/world/2024/oct/14/slavery-reparations-not-on-agenda-at-commonwealth-summit-says-no-10",
+            "trail": "Keir Starmer is going to Samoa to ‘discuss shared challenges and opportunities’, says spokesperson",
+            "byline": "Peter Walker Senior political correspondent"
+          },
+          "kicker": "World news",
+          "trail": "Slavery reparations are not on the agenda at the Commonwealth summit, No 10 says.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/689d6c199089cb90e238724373b127fdfc64ae64/0_146_4836_2902/1000.jpg",
+            "alt": "Patricia Scotland making a speech",
+            "credit": "Photograph: Luke Dray/Getty Images",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Weter Palker Senior political correspondent"
+        },
+        {
           "path": "/global-development/2026/oct/17/king-charles-caribbean-winston-churchill-empire-britain-wealth",
           "linked": false,
-          "headline": "King Charles should confront what Churchill admitted about empire 90 years ago, writer argues",
+          "headline": "King Charles should make the imperial-plunder speech Churchill's own words call for",
           "original": {
             "headline": "As King Charles heads to the Caribbean, he should know what Winston Churchill admitted to 90 years ago",
             "url": "https://www.theguardian.com/global-development/2026/oct/17/king-charles-caribbean-winston-churchill-empire-britain-wealth",
@@ -2784,7 +2759,7 @@
             "byline": "Kenneth Mohammed"
           },
           "kicker": "Global development",
-          "trail": "Modern politicians play on tales of empire to exaggerate what Britain left behind, but the monarch should consider a historical reckoning with imperial plunder.",
+          "trail": "Modern politicians play on tales of empire to exaggerate what Britain left behind, but 90 years ago Winston Churchill admitted the truth, the writer argues.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/aa4f4ed4c1a098af55e5311e6cabc3e84cc90264/0_0_5000_3333/1000.jpg",
@@ -2804,8 +2779,8 @@
         "standfirst": "<p>Andy Burnham to launch ‘structured dialogue’ on issue at Commonwealth summit in Antigua and Barbuda</p>",
         "byline": "Peter Walker Senior political correspondent"
       },
-      "standfirst": "Andy Burnham will launch a 'structured dialogue' on a possible apology at the Commonwealth summit in Antigua and Barbuda, as No 10 rules out paying reparations for Britain's role in the slave trade",
-      "progress": "Burnham has launched a structured dialogue with Commonwealth countries to help shape a possible formal apology, and plans a debt-restructuring scheme for struggling nations.",
+      "standfirst": "Andy Burnham is expected to offer debt restructuring to Commonwealth countries facing higher debt costs as he opens a 'structured dialogue' on a possible formal slavery apology, which UK officials say other countries have welcomed; ministers have ruled out paying reparations",
+      "progress": "The Foreign Office will lead talks on the apology's form, with foreign secretary Ed Miliband already at the Chogm summit in Antigua and Barbuda.",
       "upside": 2,
       "byline": "Weter Palker Senior political correspondent",
       "mainImage": {
@@ -2830,7 +2805,7 @@
         {
           "path": "/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
           "linked": false,
-          "headline": "Oil prices fall after peace deal is signed",
+          "headline": "Oil prices fall after peace deal signed",
           "original": {
             "headline": "Oil prices fall after peace deal signed – as it happened",
             "url": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
@@ -2838,7 +2813,7 @@
             "byline": "Adam Fulton, Nadeem Badshah, Joseph Gedeon, Tom Ambrose and Taz Ali"
           },
           "kicker": "World news",
-          "trail": "The live blog on the deal between Iran, Israel, the US and Hezbollah is now closed.",
+          "trail": "This blog is now closed.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/cafa7c6b5ada6655ba4279edf78d9b8a4f9654c9/2_0_4651_3721/1000.jpg",
@@ -2852,7 +2827,7 @@
         {
           "path": "/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
           "linked": false,
-          "headline": "Trump backs down on Iran strikes, voicing hope of 'rapidly' reaching a deal",
+          "headline": "Hopes of 'rapidly' reaching a deal lead Trump to pause Iran strikes",
           "original": {
             "headline": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
             "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
@@ -2860,7 +2835,7 @@
             "byline": "Rory Carroll and agencies"
           },
           "kicker": "World news",
-          "trail": "The US president says the delay also responds to requests from Iran and other countries in the region.",
+          "trail": "The US president says the delay is also in response to requests from Iran and other countries in the region.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/644a3d991ac481989ea97a3977c47e2f3677c714/0_0_3862_3088/1000.jpg",
@@ -2896,7 +2871,7 @@
         {
           "path": "/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
           "linked": false,
-          "headline": "De-escalation talks continue despite 10th round of US strikes on Iran",
+          "headline": "Diplomats say de-escalation talks with Iran continue",
           "original": {
             "headline": "US launches 10th round of strikes as Iran says it is in ‘full-scale war’",
             "url": "https://www.theguardian.com/world/2026/jul/20/us-strikes-iran-strait-of-hormuz-oil-prices",
@@ -2904,7 +2879,7 @@
             "byline": "William Christou in Beirut"
           },
           "kicker": "World news",
-          "trail": "Iran says it is in 'full-scale war', as Trump vows retaliation over US soldier deaths; diplomats say talks continue.",
+          "trail": "The talks continue even as the US launches a 10th round of strikes on Iran, which it says is now in 'full-scale war', and Trump vows retaliation over US soldier deaths.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/2d08b6761c977eac4129304423de26a9b65d0ea6/274_0_3164_2532/1000.jpg",
@@ -2924,7 +2899,7 @@
         "standfirst": "<p>Iranian state media reported the sound of explosions on the island in the strait of Hormuz, coming on the eve of crucial US midterms</p>",
         "byline": "Jonathan Yerushalmy"
       },
-      "standfirst": "The US reportedly carried out limited 'defensive' strikes on Iran's Qeshm Island, after Iranian state media reported hearing explosions in the strait of Hormuz, on the eve of crucial US midterm elections",
+      "standfirst": "JD Vance says the US and Iran have 'made some progress' towards a negotiated settlement, as the US reportedly carried out 'defensive' strikes on Iran's Qeshm Island on the eve of US midterm elections",
       "progress": "Vice-president JD Vance says he and Trump feel positive about reaching a negotiated settlement with Iran.",
       "upside": 2,
       "context": {
@@ -2955,7 +2930,7 @@
         {
           "path": "/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
           "linked": false,
-          "headline": "Appeals court rejects Trump's bid to restrict mail-in voting before midterms",
+          "headline": "US appeals court rejects Trump's bid to restrict mail-in voting before midterms",
           "original": {
             "headline": "US appeals court rejects Trump’s bid to restrict mail-in voting before midterms",
             "url": "https://www.theguardian.com/us-news/2026/sep/10/usps-mail-ballot-voting-court-ruling",
@@ -2964,7 +2939,7 @@
           },
           "kicker": "US news",
           "trail": "The court declined to put on hold an injunction preventing the USPS from tightening rules around postal voting.",
-          "upside": 2,
+          "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/78e3f6813b1028fd3cc242fc69e8f46a91a57c92/0_0_5001_4000/1000.jpg",
             "alt": "An election worker reaches for an unopened ballot during sorting",
@@ -2973,6 +2948,28 @@
             "height": 800
           },
           "byline": "Cucy Lampbell"
+        },
+        {
+          "path": "/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
+          "linked": false,
+          "headline": "Prosecutor moves to drop charges as contractor's flawed work emerges as culprit",
+          "original": {
+            "headline": "Trump’s reflecting pool saga: a timeline of failure and finger-pointing",
+            "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
+            "trail": "As Jeanine Pirro moves to drop charges, flawed work by Trump-connected contractor emerges as culprit",
+            "byline": "Edward Helmore"
+          },
+          "kicker": "US news",
+          "trail": "Jeanine Pirro moves to drop the charges, in a timeline of failure and finger-pointing over the renovation.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/e9f1cb37fd9c2f597642e00f1788f2e330c4c252/0_0_3351_3317/1000.jpg",
+            "alt": "Composite photo of the reflecting pool during its renovations.",
+            "credit": "Composite: Reuters",
+            "width": 1000,
+            "height": 990
+          },
+          "byline": "Hedward Elmore"
         },
         {
           "path": "/us-news/2026/aug/10/trump-reflecting-pool-makeover-vandalism-claim",
@@ -2997,31 +2994,9 @@
           "byline": "Goseph Jedeon in Washington"
         },
         {
-          "path": "/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
-          "linked": false,
-          "headline": "Reflecting pool saga: prosecutor moves to drop charges against contractor",
-          "original": {
-            "headline": "Trump’s reflecting pool saga: a timeline of failure and finger-pointing",
-            "url": "https://www.theguardian.com/us-news/2026/aug/01/trump-reflecting-pool-saga-timeline",
-            "trail": "As Jeanine Pirro moves to drop charges, flawed work by Trump-connected contractor emerges as culprit",
-            "byline": "Edward Helmore"
-          },
-          "kicker": "US news",
-          "trail": "As Jeanine Pirro moves to drop the charges, the flawed work of a Trump-connected contractor emerges as the cause of the project's failures.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/e9f1cb37fd9c2f597642e00f1788f2e330c4c252/0_0_3351_3317/1000.jpg",
-            "alt": "Composite photo of the reflecting pool during its renovations.",
-            "credit": "Composite: Reuters",
-            "width": 1000,
-            "height": 990
-          },
-          "byline": "Hedward Elmore"
-        },
-        {
           "path": "/us-news/2026/sep/13/trump-5000-dividend-pledge",
           "linked": false,
-          "headline": "Trump reiterates pledge of $5,000 'dividend' for Americans if Republicans win midterms",
+          "headline": "Republicans' midterm pitch includes Trump's promised $5,000 payment to Americans",
           "original": {
             "headline": "Trump reiterates $5,000 ‘dividend’ pledge if Republicans win midterms",
             "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge",
@@ -3029,7 +3004,7 @@
             "byline": "Guardian staff"
           },
           "kicker": "US news",
-          "trail": "The plan has been greeted with incredulity across the political spectrum, as well as strong criticism.",
+          "trail": "The $5,000 'dividend' plan has been greeted with incredulity across the political spectrum, as well as outrage.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/5c361ca74aac65d48491cdee97253eddceee34b5/218_0_2565_2053/1000.jpg",
@@ -3049,8 +3024,8 @@
         "standfirst": "<p>US president shares delayed results of chaotic renovation on DC site as Americans prepare to head to the polls</p>",
         "byline": "Ariana Baio"
       },
-      "standfirst": "Trump unveiled the delayed $14m reflecting pool renovation in his final midterms press conference, after an algae bloom turned the pool green and its coating peeled away",
-      "progress": "Prosecutors dropped the case against David Hearn, the Olympic canoeist wrongly accused of vandalising the pool.",
+      "standfirst": "Prosecutors have dropped the case against David Hearn, the Olympic canoeist wrongly accused of damaging Trump's $14m reflecting pool renovation, which the president unveiled in his final midterms press conference after an algae bloom turned the pool green and its coating peeled away",
+      "progress": "The US attorney's office dropped the case after failing to produce evidence to back Trump's vandalism claims against Hearn.",
       "upside": 2,
       "byline": "Bariana Aio",
       "mainImage": {
@@ -3069,7 +3044,7 @@
         "name": "Media"
       },
       "publishedAt": "2026-11-03T00:01:32Z",
-      "headline": "Kristin Scott Thomas stars as a glamorous granny in John Lewis's 20th Christmas ad",
+      "headline": "Pickles the talking toy dog talks John Lewis's granny out of giving cash",
       "bodyHtml": "<p>John Lewis has cast an actor best known for playing aristocrats to bring a playful, upmarket spin to this year's countdown to Christmas, with a festive ad starring a talking toy dog called Pickles and a glamorous granny.</p> <p>Kristin Scott Thomas, known for upper-crust roles in films such as Four Weddings and a Funeral and the Apple TV show Slow Horses, plays Gloria, a grandmother on the hunt for gift inspiration, under the tagline “don’t give up on giving”.</p>    <p>Now in its 20th year, the department store's blockbuster Christmas ad kicks off the official countdown with Pickles, voiced by the comedian Paul Whitehouse, challenging Gloria to “do better than cash” when choosing a gift for her grandchildren.</p> <p>Pickles drags Gloria out of the house on a last-minute mission to find gifts, and after rejecting options in other shops, she sets off on a magical tuk-tuk ride to John Lewis, where she snaps up disco balls and fairy lights to create a “gran cave” to hang out with her grandchildren, Freddie and Maggie.</p> <p>Rosie Hanley, the marketing director of John Lewis, said the retailer had increased its spend on this year's festive ad as the cost of production had risen, and that it wanted to “push the boat out” for its 20th year.</p> <p>She said the company was nonetheless confident it would see “a really strong return on our investment”, as it looks to grab shoppers' attention ahead of the Black Friday discount period later this month.</p> <p>Hanley said John Lewis had wanted the ad “to be more joyful” this year because “things are tough for lots of families”. Despite concerns among British households about higher energy bills and housing costs, she said spending on Christmas-related gear at John Lewis was already running ahead of last year.</p> <p>The ad, set to a Sam Fender version of the Rolling Stones song You Can’t Always Get What You Want, features a range of John Lewis products in different price brackets, including the £12.99 Fisher-Price pull-along toy dog and a £255 Weekend Max Mara top and matching £290 skirt worn by Gloria.</p>    <p>The three-minute ad will launch on social media on Tuesday morning, including Facebook, Instagram, TikTok and YouTube, before a 60-second version airs for the first time on TV in the ad breaks for ITV's Coronation Street and Channel 4's The Great British Bake Off on Tuesday evening.</p> <p>John Lewis will also erect a giant Christmas tree outside its store on London's Oxford Street to mark the <a href=\"https://www.theguardian.com/cities/2026/oct/27/shoppers-praise-oxford-street-pedestrianisation\" rel=\"noopener\">recent pedestrianisation of the road</a>. The company said the numbers of visitors to its store on the street last week were up by more than a fifth on the same week last year.</p>    <p>This year's ad, created by the Saatchi &amp; Saatchi agency, returns to a formula of using a cute character – such as Monty the penguin in 2014 and <a href=\"https://www.theguardian.com/tv-and-radio/2016/nov/10/john-lewis-christmas-advert-buster-the-bouncing-dog-a-sledgehammer-to-2016\" rel=\"noopener\">Buster the boxer</a> in 2016 – after two years foregrounding other family relationships. However, it has the twist of focusing on the relationship between Pickles and a grandmother rather than centring on cute children.</p>    <p>Hanley said the ad was inspired by research which had revealed that 52% of grandparents give cash as presents because they are not sure what youngsters really want. “People want to give thoughtful gifts but can often lack confidence, so resort to giving cash,” she said.</p> <p>Now considered a national moment which invites social media comment and skits, the first big-budget John Lewis festive TV ad launched in 2007, soundtracked by a piece of music by Prokofiev.</p> <p><a href=\"https://www.johnlewis.com/content/gifts/every-john-lewis-christmas-advert-ever-aired\" rel=\"noopener\">Previous</a> John Lewis Christmas TV ads have been soundtracked by covers including the Smiths song Please, Please, Please, Let Me Get What I Want and Together in Electric Dreams by Giorgio Moroder and Philip Oakey. <a href=\"https://www.theguardian.com/media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives\" rel=\"noopener\">Last year's ad</a> included the 1990s club classic Where Love Lives by Alison Limerick.</p> <p>This year's track, which features the choir from the John Spence community high school, which Fender previously attended, and the Easington Colliery Band, will be released on vinyl later this month, with proceeds going to Action For Children. Pickles the dog is based on an existing Fisher-Price pull-along toy called Little Snoopy that is celebrating its 60th year.</p> <p>The John Lewis ad launch comes hot on the heels of other festive ads for most of the big supermarkets that kicked off last weekend. Total ad spending across the festive period is set to reach £14bn, up 8.2% year-on-year according to the annual review by the Advertising Association and research group WARC. That growth is led by an 18.5% year-on-year surge in social media spend, while total TV spending is expected to be up by 1.6%.</p>",
       "related": [
         {
@@ -3189,7 +3164,7 @@
         "standfirst": "<p>Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads</p>",
         "byline": "Sarah Butler"
       },
-      "standfirst": "The department store's latest festive ad features a talking toy dog called Pickles, as John Lewis marks 20 years of blockbuster Christmas advertising with a call to 'do better than cash'",
+      "standfirst": "A talking toy dog called Pickles persuades a reluctant grandmother to ditch cash gifts and build a glittering 'gran cave', as John Lewis marks 20 years of blockbuster Christmas advertising",
       "upside": 2,
       "byline": "Barah Sutler",
       "mainImage": {
@@ -3214,7 +3189,7 @@
         {
           "path": "/media-network/media-network-blog/2014/apr/03/security-data-problem-machine-learning",
           "linked": false,
-          "headline": "Turning security into a data problem lets innovators turn the tables on cyber-attackers",
+          "headline": "By turning security into a data problem, we can turn the tables on the bad guys",
           "original": {
             "headline": "By turning security into a data problem, we can turn the tables on the bad guys",
             "url": "https://www.theguardian.com/media-network/media-network-blog/2014/apr/03/security-data-problem-machine-learning",
@@ -3222,7 +3197,7 @@
             "byline": "Marc Rogers"
           },
           "kicker": "Media Network",
-          "trail": "Mixing machine learning with big data allows security innovators to develop analytics that identify threats before they do harm.",
+          "trail": "Mixing machine learning with big data allows security innovators to develop analytics that identify threats before they cause harm.",
           "upside": 2,
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/3/1396520848526/Human-brain-wireframe-011.jpg",
@@ -3234,9 +3209,31 @@
           "byline": "Rarc Mogers"
         },
         {
+          "path": "/technology/2013/nov/21/us-police-force-pay-bitcoin-ransom-in-cryptolocker-malware-scam",
+          "linked": false,
+          "headline": "US police force calls Cryptolocker ransom payout 'an education'",
+          "original": {
+            "headline": "US police force pay bitcoin ransom in Cryptolocker malware scam",
+            "url": "https://www.theguardian.com/technology/2013/nov/21/us-police-force-pay-bitcoin-ransom-in-cryptolocker-malware-scam",
+            "trail": "Unprepared officials blindsided by sophisticated virus call experience 'an education'. By Samuel Gibbs",
+            "byline": "Samuel Gibbs"
+          },
+          "kicker": "Technology",
+          "trail": "Unprepared officials, blindsided by the sophisticated virus, paid a bitcoin ransom and called the experience 'an education'.",
+          "upside": 1,
+          "image": {
+            "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/11/21/1385031593717/626f9c45-a8fa-4463-af4a-ace360b5c28a-620x372.jpeg",
+            "alt": "Malware took Swansea, Massachusetts police computer hostage forcing officials to pay a bitcoin ransom.",
+            "credit": "Photograph: Garry Wade /Garry Wade",
+            "width": 620,
+            "height": 372
+          },
+          "byline": "Gamuel Sibbs"
+        },
+        {
           "path": "/technology/2013/feb/27/hackers-attack-european-governments-miniduke",
           "linked": false,
-          "headline": "Kaspersky identifies 'MiniDuke' malware used to target European governments",
+          "headline": "Kaspersky Lab uncovers 'MiniDuke' malware used to target European governments",
           "original": {
             "headline": "Hackers attack European governments using 'MiniDuke' malware",
             "url": "https://www.theguardian.com/technology/2013/feb/27/hackers-attack-european-governments-miniduke",
@@ -3244,7 +3241,7 @@
             "byline": "Josh Halliday"
           },
           "kicker": "Technology",
-          "trail": "The security firm found an attempt to steal intelligence from countries including Ireland and Romania, using an Adobe PDF bug.",
+          "trail": "The security firm identified an attempt to steal intelligence from countries including Ireland and Romania, exploiting an Adobe PDF bug.",
           "upside": 1,
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Media/Pix/pictures/2013/2/27/1361976750254/Man-using-a-laptop-008.jpg",
@@ -3258,7 +3255,7 @@
         {
           "path": "/technology/2015/feb/20/lenovo-malware-big-business-analysis-pc-superfish",
           "linked": false,
-          "headline": "Lenovo case shows how malware has become big business",
+          "headline": "Falling profit margins turn PCs into 'auctionable' malware targets, analysis finds",
           "original": {
             "headline": "Lenovo demonstrates that malware is big business",
             "url": "https://www.theguardian.com/technology/2015/feb/20/lenovo-malware-big-business-analysis-pc-superfish",
@@ -3266,7 +3263,7 @@
             "byline": "Charles Arthur"
           },
           "kicker": "Technology",
-          "trail": "With retail profit margins shrinking, the consumer PC has become a collection of auctionable software elements.",
+          "trail": "With retail margins shrinking, the consumer PC has become a collection of auctionable software elements, Lenovo's example shows.",
           "upside": 1,
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/2/20/1424447490235/54925bd1-1b49-487c-83e1-bd5ecb462cec-620x372.jpeg",
@@ -3275,21 +3272,6 @@
             "width": 620,
             "height": 372
           },
-          "byline": "Arles Charthur"
-        },
-        {
-          "path": "/technology/2010/may/17/facebook-sexiest-video-malware",
-          "linked": false,
-          "headline": "Microsoft urges Internet Explorer 6 upgrade, as 'sexiest video' malware spreads on Facebook",
-          "original": {
-            "headline": "Facebook 'sexiest video' malware spreading virally, warn experts",
-            "url": "https://www.theguardian.com/technology/2010/may/17/facebook-sexiest-video-malware",
-            "trail": "Fake video installs adware – while Microsoft compares its Internet Explorer 6 to 'nine-year-old milk' and urges upgrade",
-            "byline": "Charles Arthur"
-          },
-          "kicker": "Technology",
-          "trail": "The fake video installs adware; Microsoft compared the ageing IE6 browser to 'nine-year-old milk' in urging users to upgrade.",
-          "upside": 1,
           "byline": "Arles Charthur"
         }
       ],
@@ -3301,7 +3283,7 @@
         "standfirst": "<p>National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals</p>",
         "byline": "Dan Milmo Global technology editor"
       },
-      "standfirst": "The National Cyber Security Centre says AI-powered malware is highly likely to be used in a ransomware attack on UK power stations, airports and hospitals by 2028",
+      "standfirst": "AI is already helping cybersecurity experts catch dangerous flaws before hackers exploit them, but the National Cyber Security Centre says AI-powered malware is highly likely to attack UK power stations, airports and hospitals by 2028",
       "progress": "Leading AI firms including OpenAI and Anthropic have given some companies advance access to help identify serious security flaws before attackers do.",
       "upside": 2,
       "byline": "Man Dilmo Global technology editor",
@@ -3325,53 +3307,9 @@
       "bodyHtml": "<p>The Equality and Human Rights Commission (EHRC) said it had written to Nigel Farage’s party in the wake of revelations in ITV’s Undercover: A Year in Reform, which was broadcast in October.</p> <p>The official equalities watchdog raised concerns after the undercover TV documentary <a href=\"https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments\" rel=\"noopener\">showed councillors</a> and candidates for the party expressing racist and misogynistic views, with one of the party’s MPs complaining about ingrained sexism.</p> <p>An EHRC statement said its letter had asked Reform to provide information, “including what action the party is taking to comply with the Equality Act”.</p> <p>In the wake of the documentary, the statement said, the EHRC “received complaints alleging unlawful activity under the Equality Act 2010, including concerns about racial and sexual remarks expressed by councillors, prospective councillors and members”.</p> <p>It went on: “As with every complaint we receive, we will assess the information provided carefully and, following that consideration, take action where appropriate.</p> <p>“Political parties, like all duty-bearers, must comply with the Equality Act and take steps to avoid discrimination or harassment including on the grounds of race, religion or belief and sex. We have guidance advising parties on their responsibilities under the act and urge them to consider it. This could include reviewing party policies or practices to identify areas of potential discrimination, harassment or victimisation that need to be addressed.”</p> <p>While Farage has said the party’s vetting procedures have improved greatly, footage in the programme included Alan Feeney, a Reform councillor and deputy mayor of Solihull, calling Asian homeowners “parasites”, making Islamophobic remarks, and stating that “no more than 1% of [the] British population can be non-white”.</p> <p>Other candidates were recorded making comments of extreme violence and sharing deeply misogynistic and racist views, including a Bromley councillor calling for King Charles to be killed and another councillor who made disturbing sexual and misogynistic comments about female colleagues.</p> <p>In another section, the Reform MP Sarah Pochin was shown complaining that the party was “chauvinistic” and riven with “alpha male shit”.</p> <p>It comes weeks after the EHRC wrote to the Greens in England and Wales to seek more information about a new party policy which <a href=\"https://www.theguardian.com/politics/2026/nov/02/labour-end-cooperation-green-party-councils-zionism-racism-policy\" rel=\"noopener\">equates Zionism with racism</a> and calls for Israel to be replaced by a single Palestinian state.</p> <p>Reform has <a href=\"https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news?page=with%3Ablock-6ad8c4218f08356542e9ea2b#block-6ad8c4218f08356542e9ea2b\" rel=\"noopener\">said it </a>reported ITV and the reporters concerned to police, with separate threats of civil legal action against the broadcaster.</p> <p>Responding to the EHRC letter, a party spokesperson said: “We are confident we have fully complied with our obligations under the Equality Act. There is no room for racism in Reform UK.”</p>",
       "related": [
         {
-          "path": "/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
-          "linked": false,
-          "headline": "Reform suspends aspiring MP who said 'you cannot be Muslim and British'",
-          "original": {
-            "headline": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
-            "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
-            "trail": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang members",
-            "byline": "Ben Quinn Political correspondent"
-          },
-          "kicker": "Politics",
-          "trail": "Jason Powell also backed concentration camps, as Reform councillors talk of executing grooming gang members.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/7f601b339d3a0c9c463f93264f26ce7119101ed1/458_0_4583_3667/1000.jpg",
-            "alt": "A campaign placard for the Reform UK party is displayed outside a residential property",
-            "credit": "Photograph: Temilade Adelaja/Reuters",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Qen Buinn Political correspondent"
-        },
-        {
-          "path": "/politics/2025/may/10/reform-uk-councillors-face-allegations-sharing-far-right-islamophobic-content",
-          "linked": false,
-          "headline": "Reform UK councillors face scrutiny over sharing far-right and Islamophobic content",
-          "original": {
-            "headline": "Reform UK councillors face allegations of sharing far-right and Islamophobic content",
-            "url": "https://www.theguardian.com/politics/2025/may/10/reform-uk-councillors-face-allegations-sharing-far-right-islamophobic-content",
-            "trail": "Up to 12 winning councillors under scrutiny with three accused of retweeting Britain First comments",
-            "byline": "Ben Quinn"
-          },
-          "kicker": "Politics",
-          "trail": "Up to 12 winning councillors are under scrutiny, with three accused of retweeting Britain First comments.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/7ffc0240049b69e773a9c648a2c9b6f57c20b96c/167_0_4005_3204/1000.jpg",
-            "alt": "Nigel Farage holds his hands up to a supporter and smiles",
-            "credit": "Photograph: Leon Neal/Getty",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Qen Buinn"
-        },
-        {
           "path": "/politics/2025/mar/17/nigel-farage-names-29-councillors-joining-reform-as-he-tries-to-move-on-from-rifts",
           "linked": false,
-          "headline": "Farage welcomes 29 new councillors to Reform as he tries to move past internal rifts",
+          "headline": "Reform gains 29 new councillors, Farage announces",
           "original": {
             "headline": "Nigel Farage names 29 councillors joining Reform as he tries to move on from rifts",
             "url": "https://www.theguardian.com/politics/2025/mar/17/nigel-farage-names-29-councillors-joining-reform-as-he-tries-to-move-on-from-rifts",
@@ -3379,8 +3317,8 @@
             "byline": "Ben Quinn and Rachel Keenan"
           },
           "kicker": "Politics",
-          "trail": "Divisions continue to simmer after the suspension of an MP and Farage's claims of 'outright racism' towards the party chair.",
-          "upside": 1,
+          "trail": "The announcement comes as divisions continue to simmer after the suspension of an MP and Farage's claims of 'outright racism' towards the party chair.",
+          "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/bcf22787953a0de7dbbcb3c4e081bd9d1de05ddb/277_238_2823_1694/1000.jpg",
             "alt": "Farage and Yusuf stand in front of a group of people with blue Reform UK stickers on their jackets",
@@ -3393,7 +3331,7 @@
         {
           "path": "/politics/2026/jan/16/reform-uk-london-mayor-candidate-laila-cunningham-burqa-stop-and-search",
           "linked": false,
-          "headline": "Reform's London mayor candidate condemned over burqa stop-and-search remarks",
+          "headline": "Reform UK's London mayor candidate condemned for burqa stop and search remarks",
           "original": {
             "headline": "Reform UK’s London mayor candidate condemned for burqa stop and search remarks",
             "url": "https://www.theguardian.com/politics/2026/jan/16/reform-uk-london-mayor-candidate-laila-cunningham-burqa-stop-and-search",
@@ -3401,7 +3339,7 @@
             "byline": "Alexandra Topping Political correspondent"
           },
           "kicker": "Politics",
-          "trail": "Laila Cunningham is accused of endangering Muslims after saying it 'has to be assumed' people hiding their face have a criminal reason.",
+          "trail": "Laila Cunningham is accused of endangering Muslims after saying it 'has to be assumed' that people hiding their face have a criminal reason for doing so.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/4781a8a83485663869d5e49a5636bad34a0af829/554_0_3940_3152/1000.jpg",
@@ -3415,7 +3353,7 @@
         {
           "path": "/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
           "linked": false,
-          "headline": "Charities call proposed 30-year settlement rule for refugees 'unfair and unworkable'",
+          "headline": "Refugee Council calls 30-year settlement rule for some refugees 'unfair and unworkable'",
           "original": {
             "headline": "Charities condemn proposal to make some refugees wait up to 30 years for settlement – as it happened",
             "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
@@ -3423,12 +3361,34 @@
             "byline": "Andrew Sparrow"
           },
           "kicker": "Politics",
-          "trail": "The Refugee Council's executive director of external affairs called the proposals 'unfair and unworkable', as the live blog on the immigration changes closes.",
+          "trail": "Charities have condemned the proposal to make some refugees wait up to 30 years for settlement.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/19b510d5806d0b16054eaa840a1650c1e6d30dab/398_0_2083_1667/500.jpg"
           },
           "byline": "Spandrew Arrow"
+        },
+        {
+          "path": "/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+          "linked": false,
+          "headline": "Reform suspends aspiring MP over Islamophobic remarks",
+          "original": {
+            "headline": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
+            "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+            "trail": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang members",
+            "byline": "Ben Quinn Political correspondent"
+          },
+          "kicker": "Politics",
+          "trail": "Jason Powell said 'you cannot be Muslim and British' and backed concentration camps, as Reform councillors talk of executing grooming gang members.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/7f601b339d3a0c9c463f93264f26ce7119101ed1/458_0_4583_3667/1000.jpg",
+            "alt": "A campaign placard for the Reform UK party is displayed outside a residential property",
+            "credit": "Photograph: Temilade Adelaja/Reuters",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Qen Buinn Political correspondent"
         }
       ],
       "status": "rewritten",
@@ -3459,13 +3419,13 @@
         "name": "Science"
       },
       "publishedAt": "2026-11-02T16:53:15Z",
-      "headline": "'It's really, really unusual': a bull and donkey's tender bond baffles scientists",
+      "headline": "Chance sighting during a lunch break reveals a rare animal friendship",
       "bodyHtml": "<p>In Greek myth, Achilles and Patroclus were two heroes of the Trojan war whose intense bond some believed had turned into a sexual relationship.</p>\n<p>In modern science, they are a bull, Achille, and a donkey, Patroclo, whose tender interspecies affair is helping to shed new light on social and sexual interactions between animals.</p>\n<p>Researchers observed the two males licking and rubbing each other, with the bull sometimes mounting the donkey.</p>\n<p>The team said while other donkeys attempted to avoid Achille’s attentions and showed threatening facial expressions towards him, Patroclo often presented his hindquarters to Achille and nibbled him.</p>\n<p>“It is really, really unusual,” said Dr Elisabetta Palagi of the University of Pisa in Italy, who co-authored the study. “And it is the first time it is reported in literature.”</p>\n<p>André da Cruz, a PhD student at the University of Pisa and another author, said the relationship was discovered by accident while the researchers were studying geladas, or bleeding-heart monkeys, in Ethiopia.</p>\n<p>“We were having a little break for lunch, and in the distance I see something – it seemed a bit odd,” said da Cruz. “I told colleagues: ‘I think I saw a bull mounting a donkey.’ And they didn’t believe me.”</p>\n<p><a href=\"https://www.cell.com/current-biology/fulltext/S0960-9822(26)01230-3\" rel=\"noopener\">Writing in the journal Current Biology</a>, the researchers said the bull and the donkey belonged to different owners and only came into contact with each other when, as part of their daily routine, their herds used the same pasture.</p>\n<p>The researchers studied Achille and Patroclo over four days when they were both grazing in the same area, and four days when only one was present.</p>\n<p>The team recorded 51 mountings of Patroclo by Achille, and noted that licking and rubbing often occurred both before and, more surprisingly, after such events.</p>\n<p>“Rather than being solely attributable to sexual arousal, these interactions appear to play a role in prolonging the social interaction beyond the sexual act,” they wrote.</p>\n<p>Despite ample opportunity, neither Achille nor Patroclo tried to mount a member of their own species of either sex, although Achille did show courtship behaviours towards some female cattle.</p>\n\n<p>Such interspecies encounters are rare, but there have been other examples, including a <a href=\"https://www.theguardian.com/science/2017/jan/10/snow-monkey-attempts-sex-with-deer-in-rare-example-of-interspecies-mating\" rel=\"noopener\">male snow monkey attempting to have sex with a female sika deer</a>, and an <a href=\"https://news.bbc.co.uk/1/mobile/sci/tech/7379554.stm\" rel=\"noopener\">Antarctic fur seal that not only sexually harassed king penguins</a> but engaged in necrophilia.</p>\n<p>However, Palagi said there was no indication that the relationship between the donkey and the bull involved force.</p>\n<p>“We interpret our data as a special relationship,” Palagi said, adding that the two males searched for each other. “When Achille approached someone else in the plateau, Patroclo went to him and tried to distract him,” she said.</p>\n<p>Da Cruz said the mounting behaviour of Achille was unlikely to simply be a case of the bull exerting dominance.</p>\n<p>“We saw on several occasions what might have been semen from the bull, or he might have been orgasming, although we cannot verify [that] completely,” da Cruz said, adding that Patroclo was highly aggressive to bulls other than Achille.</p>\n<p>Palagi added that the relationship was an example of a sexual interaction that was disentangled from reproductive function.</p>\n<p>“When two individuals belonging to the same species or different species need to develop a special relationship, they fish simply from their entire [behavioural] repertoire,” she said.</p>\n<p>Palagi said it was unclear whether the sexual and social relationship between Patroclo and Achille had always co-existed or if one had led to the other. But, she added, the bond appeared to bring benefits, both in terms of attention but potentially also support.</p>\n<p>Josh Luke Davis, the author of A Little Gay Natural History, said interspecies relationships were not necessarily unusual and that the widespread and common nature of queer behaviours in the natural world meant it was “probably not that surprising” that they overlapped.</p>\n<p>“There is obviously value in reporting these kinds of behaviours,” Davis added. “But I would caution against reading too much into the significance of it and would be concerned about how it could be misconstrued or twisted by those who already deem homosexuality ‘unnatural’.”<br></p>",
       "related": [
         {
           "path": "/science/2023/feb/10/goffins-cockatoos-use-toolset-complete-tasks",
           "linked": false,
-          "headline": "Goffin's cockatoos able to use a toolset to complete tasks",
+          "headline": "Goffin's cockatoos able to use toolset to complete tasks",
           "original": {
             "headline": "Goffin’s cockatoos able to use toolset to complete tasks",
             "url": "https://www.theguardian.com/science/2023/feb/10/goffins-cockatoos-use-toolset-complete-tasks",
@@ -3473,7 +3433,7 @@
             "byline": "Nicola Davis Science correspondent"
           },
           "kicker": "Science",
-          "trail": "The parrot can figure out how to use a tool, pick the most suitable one, and even transport a set together.",
+          "trail": "The parrot can figure out how to use a tool, pick the most suitable one and even transport a set together.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/bd789a4de80008ae60fb6777fae3c181d341a530/0_106_2216_1331/1000.png",
@@ -3509,7 +3469,7 @@
         {
           "path": "/environment/2026/apr/02/sex-octopus-specialist-arm-mating-science",
           "linked": false,
-          "headline": "Male octopuses use a specialised arm to mate at a safe distance, scientists find",
+          "headline": "Male octopuses use a specialised arm to detect mates even without sight, scientists find",
           "original": {
             "headline": "Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find",
             "url": "https://www.theguardian.com/environment/2026/apr/02/sex-octopus-specialist-arm-mating-science",
@@ -3531,7 +3491,7 @@
         {
           "path": "/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
           "linked": false,
-          "headline": "Trill seekers: scientists use AI and tutors to help birds relearn lost songs",
+          "headline": "Research into AI and bird tutors offers hope for species struggling to sing",
           "original": {
             "headline": "Trill seekers: can scientists use AI and tutors to help birds remember lost songs?",
             "url": "https://www.theguardian.com/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
@@ -3539,7 +3499,7 @@
             "byline": "Rebecca Ratcliffe"
           },
           "kicker": "Environment",
-          "trail": "When populations fall, fledglings can struggle to learn the right notes to attract mates, but research on bird communication offers hope for species' survival.",
+          "trail": "When populations fall, fledglings can struggle to learn the right notes to attract mates — but research into how birds communicate could help.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/4e1bc462771d3504453cdb7719b53ba105bd9258/353_0_2639_2111/1000.jpg",
@@ -3603,8 +3563,8 @@
         "standfirst": "<p>Patroclo and Achille’s interspecies affair sheds new light on social and sexual relations between animals, scientists say</p>",
         "byline": "Nicola Davis Science correspondent"
       },
-      "standfirst": "Patroclo the donkey and Achille the bull's interspecies affair is shedding new light on social and sexual relations between animals, scientists say",
-      "progress": "Scientists are continuing to study the pair's unusual bond to better understand social and sexual behaviour across species.",
+      "standfirst": "Researchers studying monkeys in Ethiopia stumbled on a donkey and a bull from neighbouring herds who had formed an affectionate bond, in a finding they say sheds new light on social and sexual relations between animals",
+      "progress": "Researchers at the University of Pisa studied the pair over several days and published their findings in the journal Current Biology.",
       "upside": 3,
       "byline": "Dicola Navis Science correspondent",
       "mainImage": {

@@ -1,10 +1,17 @@
 [
   {
+    "path": "/politics/2026/nov/02/half-witted-at-best-a-people-pleaser-at-worst-step-forward-chris-philp",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"Responding to Shabana Mahmood's changes to indefinite leave to remain, the shadow home secretary came across as half-witted at best and a people-pleaser at worst, our columnist writes.\""
+  },
+  {
     "path": "/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Investigating who is hacking Europe's supermarket fridges and freezers – and why\""
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Tracking down who is hacking Europe's supermarket fridges and freezers\""
   },
   {
     "path": "/culture/2026/nov/02/tomb-raider-creators-lara-croft",
@@ -70,6 +77,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dustin Hoffman says filming The Graduate was 'a terrible experience' due to Mike Nichols' 'sadism'\""
   },
   {
+    "path": "/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"Disruption to winds above the Arctic threatens to alter weather patterns across parts of the continent as the polar vortex weakens.\""
+  },
+  {
     "path": "/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
     "kind": "preview",
     "field": "headline",
@@ -84,6 +98,13 @@
     "issue": "headline is unchanged from the original: \"Trial of nine men accused of abusing woman drugged and raped by husband begins\""
   },
   {
+    "path": "/education/2026/nov/02/franch-students-school-blockades-protests",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warned\": \"A minister has warned that weeks without lessons are putting exams at risk, as unions plan a nationwide strike on Thursday.\""
+  },
+  {
     "path": "/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
     "kind": "preview",
     "field": "headline",
@@ -91,11 +112,25 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Fossilised red blood cells found in 115m-year-old dinosaur bone, scientists say\""
   },
   {
-    "path": "/world/2026/nov/02/israel-opposition-bloc-arab-coalition-knesset-yousef-jabareen",
+    "path": "/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"spiralling\": \"The handover ends a troubled 13-year licence held by Smart DCC, a Capita subsidiary, marked by spiralling costs and delays.\""
+  },
+  {
+    "path": "/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Arab coalition leader says Israel has 'historic' opportunity to change direction\""
+    "issue": "headline has the setback as its subject or object (\"loss\"); build it on the upside or score the story honestly and let the front drop it: \"Laughter amid loss: Rhys Ifans and Laura Linney on playing a couple with Parkinson's\""
+  },
+  {
+    "path": "/film/2026/nov/02/rhys-ifans-laura-linney-onwards-sideways-film-interview-parkinsons-paul-mayhew-archer",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"Written by Vicar of Dibley co-creator Paul Mayhew-Archer, who has the disease, Onwards and Sideways sees the actors play a couple who bond over their diagnoses — 'we both know how we feel about death and dying,' they say — a devastating subject, but laced with humour too.\""
   },
   {
     "path": "/tv-and-radio/2026/nov/02/tv-tonight-the-gilded-age-returns-in-all-its-glossy-julian-fellowes-glory",
@@ -112,6 +147,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Funny and self-aware': why (500) Days of Summer is my feelgood movie\""
   },
   {
+    "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"'They said we incited riots': Bad Brains on drugs, self-destruction and recording from jail\""
+  },
+  {
     "path": "/tv-and-radio/2026/nov/02/rob-delaney-and-bel-powley-star-in-a-knotty-rehab-drama-best-podcasts-of-the-week",
     "kind": "preview",
     "field": "headline",
@@ -119,18 +161,25 @@
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Rob Delaney and Bel Powley lead a knotty rehab drama: best podcasts of the week\""
   },
   {
+    "path": "/books/2026/nov/02/the-rhyl-poster-by-tom-mccarthy-review-is-this-avant-garde-spy-drama-worth-the-riddles",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"The hallucinatory crisis of a war-scarred jurist with a painkiller dependency makes for frustrating reading, our critic finds.\""
+  },
+  {
+    "path": "/books/2026/oct/31/being-hated-is-very-bracing-helen-garner-on-surviving-three-marriages-and-being-called-a-rotten-feminist",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Being hated is very bracing': Helen Garner on surviving three marriages and being called a 'rotten feminist'\""
+  },
+  {
     "path": "/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"After 50 years of playing video games, I'm finally starring in one\""
-  },
-  {
-    "path": "/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Social media is full of weird video game mashups. Where are they all coming from?\""
   },
   {
     "path": "/games/2026/oct/27/new-indie-horror-games-halloween",
@@ -154,11 +203,25 @@
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"Big hair with the pre-Raphaelites, 17 Orkney stand-outs and Halloween haunts in Derry – the week in art\""
   },
   {
+    "path": "/music/2026/nov/02/steve-ellis-frontman-of-everlasting-love-hitmakers-love-affair-dies-aged-76",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Steve Ellis, frontman of Everlasting Love hitmakers Love Affair, dies aged 76\""
+  },
+  {
     "path": "/lunch-nation/2026/oct/12/why-soup-is-the-ultimate-comfort-food",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Nobody has ever felt hugged from within by a lettuce leaf' – a love letter to soup\""
+  },
+  {
+    "path": "/lunch-nation/2026/oct/12/how-hustle-culture-stole-the-lunch-break",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I survived on hot tea and biscuits': how hustle culture stole our lunch break – and how to get it back\""
   },
   {
     "path": "/lunch-nation/2026/oct/12/why-soup-is-the-perfect-autumn-comfort-food",
@@ -228,7 +291,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"My wife and I are in our late 70s and have no children – who can help us in our old age?\""
+    "issue": "headline is unchanged from the original: \"My wife and I are in our late 70s and have no children. Who can help us in our old age?\""
   },
   {
     "path": "/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
@@ -245,11 +308,18 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"What to look for if you're buying a smart lock in the UK\""
   },
   {
+    "path": "/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A gift to scammers: why you should probably keep your birthday a secret\""
+  },
+  {
     "path": "/money/2026/oct/31/mortgage-free-at-45-how-you-can-do-it",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We were mortgage-free at 45 — here's how you can do it too'\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We were mortgage-free at 45, here's how you can do it too'\""
   },
   {
     "path": "/lifeandstyle/2026/nov/02/is-it-true-that-drinking-alcohol-warm-you-up",
@@ -257,20 +327,6 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that drinking alcohol warms you up?\""
-  },
-  {
-    "path": "/global/2026/nov/01/the-truth-about-testicles-are-we-facing-spermageddon",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"The truth about testicles: are we really facing 'spermageddon'?\""
-  },
-  {
-    "path": "/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"How high-street brands are staging a fashion comeback with A-listers and AI stylists\""
   },
   {
     "path": "/fashion/2026/oct/30/fashion-autumn-rain-best-raincoats-accessories",
@@ -319,7 +375,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A new start after 60: at 26 I saw my dream Porsche. At 68, I built one from scratch\""
+    "issue": "headline is unchanged from the original: \"A new start after 60: At 26, I saw my dream Porsche. At 68, I built one from scratch\""
   },
   {
     "path": "/travel/2026/nov/02/dark-winter-holiday-swedish-lapland",
@@ -336,6 +392,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Starwatch: catch the striking trifecta of Venus, the moon and Spica at break of dawn\""
   },
   {
+    "path": "/uk-news/2026/nov/01/tommy-robinson-conviction-leaves-far-right-with-leadership-void",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blow\": \"With his heir apparent, Danny Tommo, also in custody, Robinson's conviction is a blow to the anti-migrant movement.\""
+  },
+  {
     "path": "/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
     "kind": "preview",
     "field": "headline",
@@ -350,18 +413,18 @@
     "issue": "headline is unchanged from the original: \"Share your tributes and memories of Patrick Stewart\""
   },
   {
-    "path": "/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
+    "path": "/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"How will UK immigration rules change under Shabana Mahmood's softened plans?\""
+    "issue": "trail leans on \"fears\": \"Shabana Mahmood's new rules have raised fears of staff shortages in health and social care, and of a second Windrush scandal.\""
   },
   {
-    "path": "/world/2024/oct/14/slavery-reparations-not-on-agenda-at-commonwealth-summit-says-no-10",
+    "path": "/us-news/2026/sep/13/trump-5000-dividend-pledge",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Slavery reparations not on the agenda at Commonwealth summit, No 10 says\""
+    "issue": "trail leans on \"outrage\": \"The $5,000 'dividend' plan has been greeted with incredulity across the political spectrum, as well as outrage.\""
   },
   {
     "path": "/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
@@ -375,7 +438,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Appeals court rejects Trump's bid to restrict mail-in voting before midterms\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"US appeals court rejects Trump's bid to restrict mail-in voting before midterms\""
   },
   {
     "path": "/business/2017/nov/10/john-lewis-christmas-ad-2017-meet-moz-the-monster-under-the-bed",
@@ -420,11 +483,25 @@
     "issue": "headline is unchanged from the original: \"John Lewis Christmas ad stars children, snowmen and hip-hop pigeons\""
   },
   {
-    "path": "/technology/2013/nov/21/us-police-force-pay-bitcoin-ransom-in-cryptolocker-malware-scam",
+    "path": "/media-network/media-network-blog/2014/apr/03/security-data-problem-machine-learning",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"US police force pay bitcoin ransom in Cryptolocker malware scam\""
+    "issue": "headline is unchanged from the original: \"By turning security into a data problem, we can turn the tables on the bad guys\""
+  },
+  {
+    "path": "/politics/2025/may/10/reform-uk-councillors-face-allegations-sharing-far-right-islamophobic-content",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Reform UK councillors face allegations of sharing far-right and Islamophobic content\""
+  },
+  {
+    "path": "/politics/2026/jan/16/reform-uk-london-mayor-candidate-laila-cunningham-burqa-stop-and-search",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Reform UK's London mayor candidate condemned for burqa stop and search remarks\""
   },
   {
     "path": "/society/2021/jan/18/ehrc-undermined-pressure-support-no-10-agenda-david-isaac",
@@ -434,18 +511,11 @@
     "issue": "headline is unchanged from the original: \"EHRC undermined by pressure to support No 10 agenda, says ex-chair\""
   },
   {
-    "path": "/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Reform suspends aspiring MP who said 'you cannot be Muslim and British'\""
-  },
-  {
     "path": "/science/2023/feb/10/goffins-cockatoos-use-toolset-complete-tasks",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Goffin's cockatoos able to use a toolset to complete tasks\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Goffin's cockatoos able to use toolset to complete tasks\""
   },
   {
     "path": "/environment/article/2024/jul/24/komodo-dragons-iron-coated-teeth",
@@ -460,13 +530,6 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Eagles adapt flight paths to avoid Ukraine conflict, scientists find\""
-  },
-  {
-    "path": "/environment/2026/oct/13/ornithology-trill-why-birds-sing-birdsong-dialects-tutors-ai-aoe",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Trill seekers: scientists use AI and tutors to help birds relearn lost songs\""
   },
   {
     "path": "/society/2026/nov/02/nhs-early-warning-system-child-illness-england",
