@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/uk-news/2026/nov/03/man-drugged-and-raped-wife-stockport-men-fantasy-unconscious-woman-court-told",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Man who drugged and raped wife found many men 'whose fantasy is an unconscious woman', court told\""
+  },
+  {
+    "path": "/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"You play a flight attendant in this clever, absorbing retro-style game that veers from daft horror spoof to genuinely disturbing.\""
+  },
+  {
+    "path": "/books/2026/nov/03/poet-grace-nichols-wins-pioneer-prize-royal-society-of-literature",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Grace Nichols wins £10,000 Pioneer prize as 'a trailblazer in the truest sense'\""
+  },
+  {
+    "path": "/artanddesign/2023/feb/24/charity-plans-to-save-bristol-rupert-street-car-park",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatened\": \"The concrete multistorey has been threatened with demolition, but C20 has now launched a campaign to keep the building.\""
+  }
+]
