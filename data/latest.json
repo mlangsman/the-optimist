@@ -1,31 +1,12 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T05:11:43.729Z",
+  "generatedAt": "2026-11-05T05:54:06.894Z",
   "engine": "claude-code",
   "front": [
     {
       "id": "highlights",
       "title": "Highlights",
       "cards": [
-        {
-          "path": "/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
-          "linked": false,
-          "headline": "Farage’s wrong midterm prediction makes for an awkward PMQs sketch",
-          "original": {
-            "headline": "The pollsters had got it wrong on the US midterms, said Nige. That aged well",
-            "url": "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
-            "trail": "After his embarrassment of epic proportions, Farage turned up at PMQs – the last place anyone would expect to find him",
-            "byline": "John Crace"
-          },
-          "kicker": "Politics",
-          "trail": "After badly misjudging the US midterms, Farage still turned up at PMQs – the last place anyone expected to find him",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "John Crace"
-          },
-          "byline": "Crohn Jace"
-        },
         {
           "path": "/books/2026/nov/04/alexander-god-king-man-by-edmund-richardson-review-dazzling-dizzying-adventure",
           "linked": false,
@@ -94,7 +75,7 @@
             "byline": "Keza MacDonald"
           },
           "kicker": "Games",
-          "trail": "This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches",
+          "trail": "This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches, though the melancholy remains",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/773_0_2160_2160/master/2160.jpg?width=620&dpr=1&s=none&crop=1%3A1",
@@ -120,7 +101,6 @@
           },
           "kicker": "US news",
           "trail": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin",
-          "progress": "Colom’s lead over the incumbent has been growing as more votes are counted.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5046d555128db1d47a613bd8500587d35c4727e2/676_1121_4970_3977/master/4970.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -156,7 +136,7 @@
         {
           "path": "/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson",
           "linked": false,
-          "headline": "Troy Jackson unseats three-decade senator Susan Collins in Maine",
+          "headline": "Troy Jackson unseats near three-decade senator Susan Collins in Maine",
           "original": {
             "headline": "What the downfall of near three-decade senator Susan Collins says about Republican unpopularity",
             "url": "https://www.theguardian.com/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson",
@@ -175,7 +155,7 @@
         {
           "path": "/commentisfree/2026/nov/04/abdul-el-sayed-opinion-sharia-law-islamophobia",
           "linked": false,
-          "headline": "Abdul El-Sayed answers Maga’s racism with Arabic pride in his victory speech",
+          "headline": "Abdul El-Sayed answers Maga’s racism with ‘shawarma law’ and Arabic pride",
           "original": {
             "headline": "Get ready habibis, Abdul El-Sayed’s ‘shawarma law’ is coming to the US ",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/04/abdul-el-sayed-opinion-sharia-law-islamophobia",
@@ -183,7 +163,7 @@
             "byline": "Arwa Mahdawi"
           },
           "kicker": "Opinion",
-          "trail": "When the US’s first Muslim senator used Arabic in his victory speech, it cut through the torrent of racism Maga launched at him during his campaign",
+          "trail": "When the US’s first Muslim senator used Arabic in his victory speech, it cut through the torrent of vile racism Maga launched at him during his campaign",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Arwa_Mahdawi,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -221,7 +201,7 @@
             "byline": "Robert Reich"
           },
           "kicker": "Opinion",
-          "trail": "The real question is whether Democrats will take advantage of this new wave of political energy",
+          "trail": "The real question is whether Democrats will take advantage of the new age of populism",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2020/03/22/Robert-Reich,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -238,7 +218,7 @@
         {
           "path": "/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
           "linked": true,
-          "headline": "UK and Caribbean agree to start reparations dialogue within a year",
+          "headline": "UK and Caribbean agree timeline for structured talks after summit",
           "original": {
             "headline": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
             "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
@@ -248,7 +228,7 @@
           },
           "kicker": "World news",
           "trail": "Commonwealth leaders have reached a consensus on a way forward, Antigua and Barbuda’s prime minister Gaston Browne says",
-          "progress": "The UK and Caribbean nations have agreed a timeline for formal talks, with Andy Burnham pledging £40m for Caribbean infrastructure and debt-relief discussions.",
+          "progress": "Andy Burnham has pledged £40m for Caribbean infrastructure and proposed debt-reset talks, though he has ruled out reparations themselves.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/82278aedbff4c16c072fa14cd9de4d6745f770b0/613_60_4358_3487/master/4358.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -268,7 +248,7 @@
             "byline": "Sarah Johnson"
           },
           "kicker": "World news",
-          "trail": "The patient is in a stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit",
+          "trail": "The patient, who has tested positive for Ebola, is in a stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit",
           "progress": "UK health authorities have activated well-established evacuation and treatment procedures, and say the risk to the public remains low.",
           "upside": 2,
           "image": {
@@ -290,7 +270,7 @@
           },
           "kicker": "Science",
           "trail": "Young people and women most at risk from unfortified alternatives, study finds, as researchers call for vegan products to include iodine",
-          "progress": "Brands including Alpro and Oatly already fortify their plant-based drinks with iodine, calcium and vitamin B12, and dietitians advise choosing these.",
+          "progress": "Brands including Alpro and Oatly already fortify their drinks, and a dietitian advises checking labels for an iodine-fortified option such as Alpro.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/704e724f06067525299523e158d790989b489e14/0_0_4856_3885/master/4856.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -301,7 +281,7 @@
         {
           "path": "/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales",
           "linked": true,
-          "headline": "Treatment charities call for new UK drugs strategy to save lives",
+          "headline": "Collective Voice urges new UK drugs strategy to save lives",
           "original": {
             "headline": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
             "url": "https://www.theguardian.com/society/2026/nov/04/cocaine-overtakes-heroin-drug-deaths-england-wales",
@@ -311,7 +291,7 @@
           },
           "kicker": "Society",
           "trail": "Government ‘must act now’, charities say, with cocaine-specific deaths eight times higher than in 2010",
-          "progress": "Addiction charities are urging ministers to publish a new drugs strategy with clear priorities for cutting drug-related deaths.",
+          "progress": "Collective Voice's Will Haydock says restoring funding frozen at year-three levels and acting on the Carol Black review are now urgent.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/246cfa4ec3c940a50b9ffda28c7548a15f6b0313/0_0_4902_3923/master/4902.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -331,7 +311,7 @@
             "byline": "Hannah Al-Othman"
           },
           "kicker": "UK news",
-          "trail": "The men are accused of taking part in, or encouraging online, the abuse of a woman whose husband has admitted more than 60 offences against her",
+          "trail": "Nine men on trial in Manchester accused of either taking part in abuse or encouraging offending on internet",
           "progress": "The case is being heard by a jury at Manchester Minshull Street crown court, with the trial continuing.",
           "upside": 1,
           "image": {
@@ -373,7 +353,7 @@
             "byline": "Nadeem Badshah"
           },
           "kicker": "Politics",
-          "trail": "Minister hints at restricting sale of the technology ‘to certain users’ amid concerns over covert filming",
+          "trail": "Minister hints at restricting sale of the technology ‘to certain users’ amid concerns over the surreptitious filming of women",
           "progress": "Ministers are exploring sales restrictions and setting-specific rules, while NHS England and the Department for Education review wearable-tech policy.",
           "upside": 1,
           "image": {
@@ -399,8 +379,7 @@
             "byline": "Fiona Harvey Environment editor"
           },
           "kicker": "Environment",
-          "trail": "The Cop30 host sets out concrete steps to break the link with coal, oil and gas, shifting the summit’s focus from negotiating to implementing",
-          "progress": "Brazil has published a roadmap setting out concrete steps to phase out coal, oil and gas.",
+          "trail": "The Cop30 host sets out steps to break the link with coal, oil and gas, as it aims to shift the summit’s focus from negotiating to implementing",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/500.jpg"
@@ -419,7 +398,6 @@
           },
           "kicker": "Science",
           "trail": "A space capsule 300 miles above us is growing the tiny crystals of a potential cancer drug in microgravity",
-          "progress": "A space capsule is growing cancer-drug crystals in microgravity 300 miles above Earth.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/2a865b49da16365d675cc0d538a0b3ce29ad7b76/53_0_1594_1275/500.jpg"
@@ -438,7 +416,6 @@
           },
           "kicker": "Society",
           "trail": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive care",
-          "progress": "Hope Haven is one of six trial hubs in England offering open-access, 24/7 preventive care.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/afec1c7fb7b7ff154a369cb45e020609e10262bf/1209_0_6830_5464/500.jpg"
@@ -457,7 +434,6 @@
           },
           "kicker": "Education",
           "trail": "The demand for individual applicant records, brought as part of a purported civil rights review, failed on procedural grounds",
-          "progress": "A federal judge has thrown out the lawsuit seeking Harvard’s admissions data.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/626f08ffc50fb944c4f9a31d4506926705df0ad2/386_0_3864_3092/500.jpg"
@@ -537,7 +513,7 @@
             "byline": "Micha Frazer-Carroll"
           },
           "kicker": "News",
-          "trail": "Slavery's profound impact on Caribbean and African nations means solidarity across the diaspora has become central to addressing its legacy, after Kemi Badenoch said Africans should apologise",
+          "trail": "Enslavement’s profound impact on Caribbean and African nations means solidarity across the diaspora has become central to addressing its legacy, after Kemi Badenoch said Africans should apologise",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6a7af3630dfcd889a7966c80580751b3099997d3/0_0_3750_3000/master/3750.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -606,7 +582,6 @@
           },
           "kicker": "Television & radio",
           "trail": "Fleabag creator joins stars signing up to a scheme aimed at tackling class barriers in theatre",
-          "progress": "The scheme, backed by Waller-Bridge and other stars, aims to tackle class barriers in theatre.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/c01826fbaa15f631eb912b5241903d74945b4a80/153_0_1200_960/master/1200.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -625,7 +600,7 @@
             "byline": "Keza MacDonald"
           },
           "kicker": "Games",
-          "trail": "This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches",
+          "trail": "This ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches, though the melancholy remains",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -655,7 +630,7 @@
         {
           "path": "/film/2026/nov/04/callum-turner-favourite-new-james-bond-pierce-brosnan-endorses",
           "linked": false,
-          "headline": "Callum Turner emerges as fans’ favourite to become the next James Bond",
+          "headline": "Callum Turner emerges as bookmakers’ favourite to play James Bond",
           "original": {
             "headline": "Callum Turner emerges as James Bond favourite as Pierce Brosnan endorses actor: ‘He’s so strong’",
             "url": "https://www.theguardian.com/film/2026/nov/04/callum-turner-favourite-new-james-bond-pierce-brosnan-endorses",
@@ -674,7 +649,7 @@
         {
           "path": "/film/2026/nov/04/a-dogs-perfect-christmas-review-netflix",
           "linked": false,
-          "headline": "A Dog’s Perfect Christmas brings a scene-stealing basset hound to Netflix",
+          "headline": "A Dog’s Perfect Christmas: a cute basset hound, not much else",
           "original": {
             "headline": "A Dog’s Perfect Christmas review: Netflix kicks off holiday movie season with a whimper",
             "url": "https://www.theguardian.com/film/2026/nov/04/a-dogs-perfect-christmas-review-netflix",
@@ -682,8 +657,8 @@
             "byline": "Adrian Horton"
           },
           "kicker": "Film",
-          "trail": "Dennis Quaid stars in a predictable Christmas drama that doesn’t offer much beyond its cute canine lead",
-          "upside": 2,
+          "trail": "Dennis Quaid is wasted in a predictable drama with a cute basset hound and not much more",
+          "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/98a0e89125f652445ce5777bdbf7a88933190123/237_0_3500_2800/master/3500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Brooke Lena Johnson, Ruby and Dennis Quaid in A Dog's Perfect Christmas"
@@ -699,7 +674,7 @@
         {
           "path": "/commentisfree/2026/nov/04/donald-trump-billionaire-coalition-class-politics-tech-us-democrats",
           "linked": false,
-          "headline": "Democrats make the case against America’s ‘grotesque unfairness’, and voters respond",
+          "headline": "Democrats make the case against America's grotesque unfairness, and voters respond",
           "original": {
             "headline": "Trump’s billionaire-blue collar coalition has been smashed by class politics",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/04/donald-trump-billionaire-coalition-class-politics-tech-us-democrats",
@@ -707,7 +682,7 @@
             "byline": "Aditya Chakrabortty"
           },
           "kicker": "Opinion",
-          "trail": "As tech bosses get richer and ordinary Americans struggle, the Guardian’s Aditya Chakrabortty says class politics broke Trump’s coalition",
+          "trail": "As tech bosses get richer and ordinary Americans struggle, the Guardian's Aditya Chakrabortty says class politics broke Trump's coalition",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Aditya-Chakrabortty,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -737,7 +712,7 @@
         {
           "path": "/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
           "linked": false,
-          "headline": "Farage’s wrong midterm prediction makes for an awkward PMQs sketch",
+          "headline": "Nigel Farage faces MPs at PMQs anyway",
           "original": {
             "headline": "The pollsters had got it wrong on the US midterms, said Nige. That aged well",
             "url": "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
@@ -745,8 +720,8 @@
             "byline": "John Crace"
           },
           "kicker": "Politics",
-          "trail": "After badly misjudging the US midterms, Farage still turned up at PMQs – the last place anyone expected to find him",
-          "upside": 2,
+          "trail": "His midterm prediction aged badly, but he turned up at PMQs all the same – the last place anyone expected to find him",
+          "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/John-Crace,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "John Crace"
@@ -819,7 +794,7 @@
         {
           "path": "/commentisfree/2026/nov/04/pay-transparency-coworkers-earn-know-open-workers",
           "linked": false,
-          "headline": "Pay transparency works best with care, says business academic",
+          "headline": "New pay transparency proposal needs careful design, academic cautions",
           "original": {
             "headline": "Want to know what all your co-workers earn? Be careful what you wish for",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/04/pay-transparency-coworkers-earn-know-open-workers",
@@ -827,7 +802,7 @@
             "byline": "André Spicer"
           },
           "kicker": "Opinion",
-          "trail": "A new proposal for openness about pay could have unexpected downsides if workers become demotivated or resentful, says business academic André Spicer",
+          "trail": "A new proposal for openness about pay could have unexpected downsides – workers may become demotivated, resentful and more likely to quit, says business academic André Spicer",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2023/09/25/Andre_Spicer.png?width=620&dpr=1&s=none&crop=1%3A1",
@@ -870,7 +845,7 @@
             "byline": "Editorial"
           },
           "kicker": "Opinion",
-          "trail": "Editorial: It is getting ever harder for Eurosceptics to deny that leaving the single market was a strategic blunder",
+          "trail": "Editorial: It is getting ever harder for Eurosceptics to deny that leaving the single market was an economic and strategic blunder",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/74c2ec7274ac807f4d1d9ea30f32fc0251a60801/42_0_4299_3440/500.jpg"
@@ -918,14 +893,14 @@
         {
           "path": "/uk-news/2026/nov/04/why-the-uk-settlement-rule-changes-are-unjust",
           "linked": false,
-          "headline": "Readers question the fairness of the UK’s new settlement rules",
+          "headline": "UK's new settlement rules are unjust, readers argue",
           "original": {
             "headline": "Why the UK settlement rule changes are unjust ",
             "url": "https://www.theguardian.com/uk-news/2026/nov/04/why-the-uk-settlement-rule-changes-are-unjust",
             "trail": "Letters: Readers question the motives and fairness behind Shabana Mahmood’s new immigration proposals"
           },
           "kicker": "UK news",
-          "trail": "Letters: Readers challenge the motives behind Shabana Mahmood’s new immigration proposals",
+          "trail": "Letters: Readers question the motives and fairness behind Shabana Mahmood's new immigration proposals",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/fb2b8319bdba6ca42fb10e89559fcb3b309a71a1/436_0_4902_3922/500.jpg"
@@ -1021,7 +996,7 @@
             "byline": "Gerard Meagher"
           },
           "kicker": "Sport",
-          "trail": "Steve Borthwick has the Rugby Football Union’s unequivocal support to lead England into next year’s World Cup, even after a tough autumn",
+          "trail": "Steve Borthwick has the Rugby Football Union's unequivocal support to lead England into next year's World Cup, even if the side flops this autumn",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/24a814b17f4b00814315e218113abaf5ceb4b2e1/214_0_2863_2290/master/2863.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1038,7 +1013,7 @@
         {
           "path": "/sport/2026/nov/04/billy-the-kid-loughnane-new-face-horse-racing-next-frankie-dettori-after-godolphin-deal",
           "linked": false,
-          "headline": "Billy ‘The Kid’ Loughnane tipped as racing’s next big name after Godolphin deal",
+          "headline": "Billy 'The Kid' Loughnane tipped as racing's next big name after Godolphin deal",
           "original": {
             "headline": "Billy ‘The Kid’ Loughnane can be new ‘face of racing’ and next Dettori after Godolphin deal",
             "url": "https://www.theguardian.com/sport/2026/nov/04/billy-the-kid-loughnane-new-face-horse-racing-next-frankie-dettori-after-godolphin-deal",
@@ -1046,7 +1021,7 @@
             "byline": "Greg Wood"
           },
           "kicker": "Sport",
-          "trail": "The teenage jockey’s prodigious talent and easy likeability make him a perfect fit for the Dubai operation, insiders say",
+          "trail": "Loughnane's prodigious talent and easy likeability make him a perfect fit for the Dubai operation",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f005235c36e75e06ce0a1ba9539857954ea4723b/275_0_2500_2000/master/2500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1146,7 +1121,7 @@
         {
           "path": "/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
           "linked": false,
-          "headline": "UK launches Ukrainian GCSE and apologises to refugee students",
+          "headline": "UK launches new Ukrainian GCSE for refugee students",
           "original": {
             "headline": "UK apologises to Ukrainian child refugees who were told to study Russian",
             "url": "https://www.theguardian.com/education/2026/nov/04/ukrainian-gcse-uk-apologises-child-refugees",
@@ -1155,7 +1130,6 @@
           },
           "kicker": "Education",
           "trail": "Exclusive: The schools minister says she is sorry Ukrainian students were pushed to study Russian in its absence",
-          "progress": "The schools minister has launched a new Ukrainian GCSE and apologised to affected students.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b8b0aec11536af2c3c7b7cf86a5da84b4af00125/454_0_6827_5464/master/6827.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1186,7 +1160,7 @@
         {
           "path": "/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies",
           "linked": false,
-          "headline": "BBC moves to reassure Jewish staff after antisemitism allegations",
+          "headline": "BBC attempts to reassure Jewish staff after ex-producer says she faced antisemitism",
           "original": {
             "headline": "BBC attempts to reassure Jewish staff after ex-producer says she faced antisemitism",
             "url": "https://www.theguardian.com/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies",
@@ -1194,9 +1168,7 @@
             "byline": "Michael Savage and Tara Conlan"
           },
           "kicker": "Media",
-          "trail": "Deputy director general Rhodri Talfan Davies meets staff group after Lucie Kon’s case prompted calls for an inquiry",
-          "progress": "The BBC’s deputy director general has met the staff group to address their concerns.",
-          "upside": 1,
+          "trail": "Deputy director general Rhodri Talfan Davies meets staff group after case of Lucie Kon prompted calls for inquiry",
           "image": {
             "src": "https://i.guim.co.uk/img/media/8540105d94c13cc78cfc1e890dbd8542ef5415c3/655_0_4320_3456/master/4320.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Closeup of the BBC lettering on the glass front of its headquarters in London."
@@ -1256,8 +1228,7 @@
             "byline": "Sam Jones"
           },
           "kicker": "World news",
-          "trail": "Spain’s socialist-led coalition faces an immense task to restore public confidence ahead of a snap election",
-          "progress": "Pedro Sánchez’s government is working to rebuild public trust ahead of a snap election.",
+          "trail": "Spain's socialist-led coalition faces an immense task to restore public confidence ahead of a snap election",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/761dff5040731572cd809d76f86cf7a461b0100f/517_447_2958_2366/500.jpg"
@@ -1267,7 +1238,7 @@
         {
           "path": "/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
           "linked": false,
-          "headline": "Palestine Action’s ban challenged at supreme court as curb on protest",
+          "headline": "Palestine Action's ban challenged at supreme court as curb on protest",
           "original": {
             "headline": "Palestine Action activists used similar tactics to the suffragettes, court told",
             "url": "https://www.theguardian.com/uk-news/2026/nov/04/palestine-action-tactics-suffragettes-uk-supreme-court",
@@ -1275,8 +1246,7 @@
             "byline": "Haroon Siddique Legal affairs correspondent"
           },
           "kicker": "UK news",
-          "trail": "Lawyers compare activists’ tactics to the suffragettes, telling the court the decision to proscribe the group as a terrorist organisation attacks free speech",
-          "progress": "The case is being heard by the supreme court as lawyers challenge the ban.",
+          "trail": "Lawyers compare activists' tactics to the suffragettes, telling the court the decision to proscribe the group as a terrorist organisation attacks free speech",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/537ec856066045f324f9d6bb89a717ca8322717a/945_19_4440_3551/500.jpg"
@@ -1292,7 +1262,7 @@
         {
           "path": "/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
           "linked": false,
-          "headline": "US stocks rise as investors cheer Democrats' election win",
+          "headline": "Wall Street rallies as Democrats' midterm victories ease investor jitters",
           "original": {
             "headline": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
             "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
@@ -1300,7 +1270,7 @@
             "byline": "Joanna Partridge"
           },
           "kicker": "Business",
-          "trail": "Government bond yields fall as initial concerns about the election result’s impact on the economy ease",
+          "trail": "Government bond yields fall and the dollar slides as initial jitters ease over the economic impact of the election results",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/500.jpg"
@@ -1371,7 +1341,7 @@
         {
           "path": "/artanddesign/2026/nov/04/smoke-bomb-road-cone-losing-mind-delton-barrett-best-photograph",
           "linked": false,
-          "headline": "‘I put a smoke bomb in a road cone and stuck it on my head’: Delton Barrett’s best photograph",
+          "headline": "'I put a smoke bomb in a road cone and stuck it on my head': Delton Barrett's best photograph",
           "original": {
             "headline": "‘I put a smoke bomb in a road cone and stuck it on my head’: Delton Barrett’s best photograph",
             "url": "https://www.theguardian.com/artanddesign/2026/nov/04/smoke-bomb-road-cone-losing-mind-delton-barrett-best-photograph",
@@ -1379,7 +1349,7 @@
             "byline": "Interview by Chris Broughton"
           },
           "kicker": "Art and design",
-          "trail": "‘It occurred to me that this image looked like someone losing their mind, going ballistic. I tried many shots and was getting tired’",
+          "trail": "'It occurred to me that this image looked like someone losing their mind, going ballistic. I tried many shots and was getting tired. Looking back, it's a wonder I survived'",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/4a4cc2eb3af1c6008750804e460fa10a1aa2ff44/0_628_3264_4077/master/3264.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -1497,7 +1467,7 @@
         {
           "path": "/music/2026/nov/04/brahms-first-is-150-years-old-today-heres-how-he-grappled-with-a-giant-on-his-back-to-write-a-masterpiece",
           "linked": false,
-          "headline": "How Brahms wrestled ‘a giant on his back’ to write a 150-year-old masterpiece",
+          "headline": "How Brahms wrestled 'a giant on his back' to write a 150-year-old masterpiece",
           "original": {
             "headline": "Brahms’ First is 150 years old today. Here’s how he grappled with ‘a giant on his back’ to write a masterpiece",
             "url": "https://www.theguardian.com/music/2026/nov/04/brahms-first-is-150-years-old-today-heres-how-he-grappled-with-a-giant-on-his-back-to-write-a-masterpiece",
@@ -1505,7 +1475,7 @@
             "byline": "Tom Service"
           },
           "kicker": "Music",
-          "trail": "Brahms’ first symphony was 21 years in the making – and well worth the wait",
+          "trail": "Brahms' first symphony was 21 years in the making – and well worth the wait. Also today: why Ivan Fischer and the Berlin Phil have parted company over a seating arrangement",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/61390266a96f590016444d858e3b2557dd3fe923/0_181_1240_992/master/1240.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1533,25 +1503,6 @@
           "byline": "Cian Sain"
         },
         {
-          "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
-          "linked": false,
-          "headline": "Bad Brains’ explosive first studio sessions, rereleased, celebrate punk legends",
-          "original": {
-            "headline": "‘They said we incited riots’: explosive punks Bad Brains on drugs, self-destruction and recording from jail",
-            "url": "https://www.theguardian.com/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
-            "trail": "Young, black and fuelled by self-help mantras, they were reputedly the best live band on Earth. As their wild first sessions are rereleased, the group talk about scaring club owners – and getting kicked out of the UK",
-            "byline": "Alex Deller"
-          },
-          "kicker": "Music",
-          "trail": "Young, Black and fuelled by self-help mantras, they were reputedly the best live band on Earth; the group reflect on their wild early days as their first sessions return",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/76e0877d62f18b1cf3f7877b95c35a8f61a0740f/808_107_3173_2540/master/3173.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "HR, centre, performs with Bad Brains in Wetlands in New York in 1999."
-          },
-          "byline": "Dalex Eller"
-        },
-        {
           "path": "/tv-and-radio/2026/nov/02/rob-delaney-and-bel-powley-star-in-a-knotty-rehab-drama-best-podcasts-of-the-week",
           "linked": false,
           "headline": "Rob Delaney and Bel Powley star in a knotty rehab drama: best podcasts of the week",
@@ -1569,6 +1520,24 @@
             "alt": "Sober Companion BBC Sounds. Rob Delaney and Bel Powley"
           },
           "byline": "Rollie Hichardson, Hil Pharrison and Leonie Merriweather Davies"
+        },
+        {
+          "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
+          "linked": false,
+          "headline": "‘They said we incited riots’: explosive punks Bad Brains on drugs, self-destruction and recording from jail",
+          "original": {
+            "headline": "‘They said we incited riots’: explosive punks Bad Brains on drugs, self-destruction and recording from jail",
+            "url": "https://www.theguardian.com/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
+            "trail": "Young, black and fuelled by self-help mantras, they were reputedly the best live band on Earth. As their wild first sessions are rereleased, the group talk about scaring club owners – and getting kicked out of the UK",
+            "byline": "Alex Deller"
+          },
+          "kicker": "Music",
+          "trail": "Young, black and fuelled by self-help mantras, they were reputedly the best live band on Earth. As their wild first sessions are rereleased, the group talk about scaring club owners – and getting kicked out of the UK",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/76e0877d62f18b1cf3f7877b95c35a8f61a0740f/808_107_3173_2540/master/3173.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "HR, centre, performs with Bad Brains in Wetlands in New York in 1999."
+          },
+          "byline": "Dalex Eller"
         }
       ]
     },
@@ -1598,7 +1567,7 @@
         {
           "path": "/books/2026/nov/04/a-table-for-fortune-by-william-t-vollmann-review-a-hugely-ambitious-3000-page-portrait-of-americas-decline",
           "linked": false,
-          "headline": "A Table for Fortune by William T Vollmann review – an ambitious 3,000-page CIA history",
+          "headline": "A Table for Fortune by William T Vollmann review – an ambitious CIA history charting America’s decline",
           "original": {
             "headline": "A Table for Fortune by William T Vollmann review – a hugely ambitious 3,000-page portrait of America’s decline",
             "url": "https://www.theguardian.com/books/2026/nov/04/a-table-for-fortune-by-william-t-vollmann-review-a-hugely-ambitious-3000-page-portrait-of-americas-decline",
@@ -1606,7 +1575,7 @@
             "byline": "Nick Holdstock"
           },
           "kicker": "Books",
-          "trail": "This insider’s history of the CIA explores 50 years of US foreign policy with granular detail and mordant humour",
+          "trail": "This insider’s history of the CIA explores the last 50 years of US foreign policy with granular detail and mordant humour",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/bf81bed640eb0b1793d819dfaed6595d2a9c5b49/290_0_4838_3870/master/4838.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1625,7 +1594,7 @@
             "byline": "Rebecca Nicholson"
           },
           "kicker": "Books",
-          "trail": "The author gets a backstage pass to the personal life of the world’s most famous woman",
+          "trail": "The author gets a backstage pass to the personal life of the world’s most famous woman – but how much do we really learn?",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0f50038ce7d4067b9da4331a8b93dfd68b3f14c6/0_138_3000_2400/master/3000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1718,7 +1687,7 @@
         {
           "path": "/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
           "linked": false,
-          "headline": "Night Plane review – a clever, retro-style thrill ride through an eerie flight",
+          "headline": "Night Plane review – a clever indie head trip aboard a jumbo jet to hell",
           "original": {
             "headline": "Night Plane review – join the jumbo jet to hell in this indie horror head trip",
             "url": "https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
@@ -1726,7 +1695,7 @@
             "byline": "Keith Stuart"
           },
           "kicker": "Games",
-          "trail": "You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft spoof to genuinely disturbing",
+          "trail": "You take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft spoof comedy to genuinely disturbing scenes",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1789,7 +1758,7 @@
             "byline": "Mark Lawson"
           },
           "kicker": "Stage",
-          "trail": "The Tony winner reflects on his show’s Trumpian parallels, the death of his collaborator Duncan Sheik, and the accident that turned him towards ancient classics",
+          "trail": "The Tony winner reflects on his show’s Trumpian parallels, the death of his collaborator Duncan Sheik, and the traumatic accident that turned him towards ancient classics",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/f0aebec80b48b56d66ae5631b0282fc36f3e5ca9/961_736_1062_850/master/1062.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2016,7 +1985,7 @@
             "byline": "Alan Martin"
           },
           "kicker": "The Filter",
-          "trail": "Dyson’s first electric toothbrush watches you brush and flosses for you, but there are far cheaper ways to get an effective clean for £420",
+          "trail": "Dyson’s first electric toothbrush watches you brush and flosses for you, but there are far cheaper ways to get an effective clean than its £420 price tag",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b119d0e5b0cb9c32a5810f049912675ee79924d9/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2176,25 +2145,6 @@
           "byline": "Nictoria Vodiff-Netanel, as told to Ann Lee"
         },
         {
-          "path": "/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
-          "linked": false,
-          "headline": "Dining across the divide: finding common ground with Trumpian relatives",
-          "original": {
-            "headline": "Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
-            "trail": "She thinks the answer to the climate crisis is cutting CO2, he favours population control and North Sea oil and gas extraction. Can they make it through a meal together?",
-            "byline": "Erica Buist"
-          },
-          "kicker": "Life and style",
-          "trail": "She thinks the answer to the climate crisis is cutting CO2; he favours population control and North Sea oil and gas extraction – but they share a meal together",
-          "upside": 3,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/1b6610919c7637c4316c9b9ef3a167de7ce5846d/479_0_6147_4918/master/6147.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A woman and man sitting at a restaurant table"
-          },
-          "byline": "Berica Uist"
-        },
-        {
           "path": "/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
           "linked": false,
           "headline": "This is how we do it: ‘We don’t have penetration – but it’s by far the best sex I’ve ever had’",
@@ -2212,6 +2162,25 @@
             "alt": "Illustration of crossed arms, hands touching wrists, against a pink background"
           },
           "byline": "As told to Elena Angelides"
+        },
+        {
+          "path": "/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
+          "linked": false,
+          "headline": "Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’",
+          "original": {
+            "headline": "Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
+            "trail": "She thinks the answer to the climate crisis is cutting CO2, he favours population control and North Sea oil and gas extraction. Can they make it through a meal together?",
+            "byline": "Erica Buist"
+          },
+          "kicker": "Life and style",
+          "trail": "She thinks the answer to the climate crisis is cutting CO2, he favours population control and North Sea oil and gas extraction. Can they make it through a meal together?",
+          "upside": 2,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/1b6610919c7637c4316c9b9ef3a167de7ce5846d/479_0_6147_4918/master/6147.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A woman and man sitting at a restaurant table"
+          },
+          "byline": "Berica Uist"
         }
       ]
     },
@@ -2512,7 +2481,7 @@
         {
           "path": "/lifeandstyle/2026/nov/03/houseplant-hacks-hygrometer-plant-temperature-humidity-winter",
           "linked": false,
-          "headline": "Whether a hygrometer is worth it for your houseplants this winter",
+          "headline": "Houseplant hacks: is a hygrometer a gimmick or a godsend?",
           "original": {
             "headline": "Houseplant hacks: is a hygrometer a gimmick or a godsend?",
             "url": "https://www.theguardian.com/lifeandstyle/2026/nov/03/houseplant-hacks-hygrometer-plant-temperature-humidity-winter",
@@ -2520,7 +2489,7 @@
             "byline": "Gynelle Leon"
           },
           "kicker": "Life and style",
-          "trail": "Hot radiators and cold draughts can wreak havoc with plants in winter, so a gadget to measure temperature and humidity can help",
+          "trail": "Hot radiators and cold draughts can wreak havoc with plants in winter, so is a gadget to measure the temperature and humidity of your home worth it?",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/46ff8afe44265ca5cdb661f3a53ccbf9ce5b6a62/0_2033_3456_2765/master/3456.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2537,7 +2506,7 @@
         {
           "path": "/lifeandstyle/2026/nov/03/political-strategist-claire-ainsley-challenging-left-take-it-back",
           "linked": false,
-          "headline": "‘The world is out of control’: political strategist Claire Ainsley on taking it back",
+          "headline": "‘The world is out of control’: Claire Ainsley challenges the left to take it back",
           "original": {
             "headline": "‘The world is out of control’: how political strategist Claire Ainsley is challenging the left to take it back ",
             "url": "https://www.theguardian.com/lifeandstyle/2026/nov/03/political-strategist-claire-ainsley-challenging-left-take-it-back",
@@ -2545,8 +2514,7 @@
             "byline": "Gaby Hinsliff"
           },
           "kicker": "Life and style",
-          "trail": "From children’s mental health to adults’ worries about AI, many feel neglected by politicians; Claire Ainsley, Keir Starmer’s former director of policy, sets out how to fix that",
-          "progress": "Ainsley, Starmer’s former director of policy, is setting out proposals to address public neglect.",
+          "trail": "From children struggling with their mental health to adults worried about AI, many feel neglected by politicians; Claire Ainsley, Keir Starmer’s former director of policy, considers how to fix that",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6672e9251b34c76f4c54dacb76fb7e3a72e88096/846_0_4371_5464/master/4371.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2588,7 +2556,7 @@
         {
           "path": "/commentisfree/2026/nov/04/abdul-el-sayed-opinion-sharia-law-islamophobia",
           "linked": false,
-          "headline": "Abdul El-Sayed answers Maga’s racism with Arabic pride in his victory speech",
+          "headline": "Abdul El-Sayed answers Maga’s racism with ‘shawarma law’ and Arabic pride",
           "original": {
             "headline": "Get ready habibis, Abdul El-Sayed’s ‘shawarma law’ is coming to the US ",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/04/abdul-el-sayed-opinion-sharia-law-islamophobia",
@@ -2596,7 +2564,7 @@
             "byline": "Arwa Mahdawi"
           },
           "kicker": "Opinion",
-          "trail": "When the US’s first Muslim senator used Arabic in his victory speech, it cut through the torrent of racism Maga launched at him during his campaign",
+          "trail": "When the US’s first Muslim senator used Arabic in his victory speech, it cut through the torrent of vile racism Maga launched at him during his campaign",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/faabf1d4445ff992cbbe8ee6625a2f919fabce1e/1310_72_3783_3027/500.jpg"
@@ -2606,7 +2574,7 @@
         {
           "path": "/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson",
           "linked": false,
-          "headline": "Troy Jackson unseats three-decade senator Susan Collins in Maine",
+          "headline": "Troy Jackson unseats near three-decade senator Susan Collins in Maine",
           "original": {
             "headline": "What the downfall of near three-decade senator Susan Collins says about Republican unpopularity",
             "url": "https://www.theguardian.com/us-news/2026/nov/04/susan-collins-senate-defeat-troy-jackson",
@@ -2624,7 +2592,7 @@
         {
           "path": "/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
           "linked": false,
-          "headline": "Democrats’ rout leaves Trump talking about his ‘magnificent’ ballroom instead",
+          "headline": "Trump talks up his ‘magnificent’ ballroom a day after Democrats’ big win",
           "original": {
             "headline": "Trump boasts about ‘magnificent’ ballroom day after Republican rout",
             "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-ballroom-midterms-reaction",
@@ -2651,30 +2619,11 @@
           },
           "kicker": "US news",
           "trail": "Scott Colom leads Republican Cindy Hyde-Smith by 1,138 votes with 96% of the vote counted – a small but growing margin",
-          "progress": "Colom’s lead over the incumbent has been growing as more votes are counted.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/500.jpg"
           },
           "byline": "Yonathan Jerushalmy (now); Cecilia Nowell, Hector Hollins, Theodore Vance and Cucy Lampbell (earlier)"
-        },
-        {
-          "path": "/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
-          "linked": false,
-          "headline": "Farage’s wrong midterm prediction makes for an awkward PMQs sketch",
-          "original": {
-            "headline": "The pollsters had got it wrong on the US midterms, said Nige. That aged well",
-            "url": "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
-            "trail": "After his embarrassment of epic proportions, Farage turned up at PMQs – the last place anyone would expect to find him",
-            "byline": "John Crace"
-          },
-          "kicker": "Politics",
-          "trail": "After badly misjudging the US midterms, Farage still turned up at PMQs – the last place anyone expected to find him",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/917b8a47ba39988e3a6f3dfc3081b7b1e454868c/0_2032_4000_3200/500.jpg"
-          },
-          "byline": "Crohn Jace"
         },
         {
           "path": "/thefilter/2026/nov/04/best-christmas-gifts-mums-grannies-aunties-friends-uk",
@@ -2693,6 +2642,24 @@
             "src": "https://media.guim.co.uk/9f55d14fe894f1a6c31f5899b68e9151b5389eb7/0_0_2000_1598/500.jpg"
           },
           "byline": "Sessica Jalter"
+        },
+        {
+          "path": "/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
+          "linked": false,
+          "headline": "Nigel Farage faces MPs at PMQs anyway",
+          "original": {
+            "headline": "The pollsters had got it wrong on the US midterms, said Nige. That aged well",
+            "url": "https://www.theguardian.com/politics/2026/nov/04/john-crace-nigel-farage-us-midterms",
+            "trail": "After his embarrassment of epic proportions, Farage turned up at PMQs – the last place anyone would expect to find him",
+            "byline": "John Crace"
+          },
+          "kicker": "Politics",
+          "trail": "His midterm prediction aged badly, but he turned up at PMQs all the same – the last place anyone expected to find him",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/917b8a47ba39988e3a6f3dfc3081b7b1e454868c/0_2032_4000_3200/500.jpg"
+          },
+          "byline": "Crohn Jace"
         },
         {
           "path": "/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
@@ -2723,7 +2690,7 @@
         "name": "World news"
       },
       "publishedAt": "2026-11-04T23:51:58Z",
-      "headline": "UK and Caribbean agree to start reparations dialogue within a year",
+      "headline": "UK and Caribbean agree timeline for structured talks after summit",
       "bodyHtml": "<p>The UK has agreed to “structured dialogue” in the next year with Caribbean nations affected by the slave trade and its legacy, Commonwealth leaders have said.</p> <p>Gaston Browne, Antigua and Barbuda’s prime minister, said there was a “consensus” in discussions between governments about a way forward on slavery reparations at the Commonwealth heads of government meeting (Chogm).</p> <p>“There’s camaraderie and where we have issues that potentially could have divided us, we’re able to come to a consensus on the way forward,” he said.</p> <p>Browne also praised UK prime minister Andy Burnham for being “very assertive in addressing [the] issue”.</p> <p>“Perhaps there are some who believe that he may have dodged the issue as a relatively new prime minister. I think he has shown a significant amount of courage and goodwill, and I can tell you that he has developed a lot of goodwill with the Caribbean nations.</p> <p>“And this structured dialogue that he has proposed, we are hoping that it will take place sometime within the next 12 months. We have also agreed in principle that by the end of this year, or early next year, that the whole framework for the dialogue would be established.”</p> <p>Browne said the region would not be making “unreasonable demands on the United Kingdom”.</p> <p>Burnham announced on Friday that he wanted to begin a structured dialogue and was <a href=\"https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade\" rel=\"noopener\">open to Britain apologising</a>, but ruled out reparations.</p> <p>Instead, he proposed discussions on debt resets for smaller Commonwealth nations and announced £40m ($54m) for critical infrastructure in the Caribbean over the next three years.</p> <p>A 10-point plan drawn up by the <a href=\"https://caricom.org/wp-content/uploads/CARICOM_ReparationsManifesto-D_260617_104759.pdf\" rel=\"noopener\">Caribbean Community’s reparations commission</a>, which outlines the region’s vision for reparations, specifically asks for “debt cancellation” – not debt restructuring – and “monetary compensation”, arguing that former colonies’ “existing debts are intergenerational and are ultimately and intimately tied to centuries of colonial extraction”.</p> <p>Asked whether Caribbean nations would urge Burnham to approach the talks with an open mind on reparations, Browne said: “We see the prime minister as an open-minded person, and the issue certainly will be raised.</p> <p>“On the commencement of the structured dialogue, he has taken his position and we are very clear on our position that reparations are important, that reparations must be part of this structured dialogue and we remain very optimistic that we will come to a consensus on the issue.”</p> <p>Leading figures in the Caribbean reparatory justice movement have said that debt relief and development assistance from the UK cannot be a replacement for reparations for centuries of slavery.</p> <p> Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement’s Repair Campaign, said: “When I listened to Andy Burnham, and I listened to the king, and they’re talking about what is helpful is not reparations, but for them to work on specific things like debt relief, and education and health, and climate change infrastructure.</p> <p>“Now, all those things are within the 10-point plan. But they are also within the <a href=\"https://www.theguardian.com/global-development/2015/jan/19/sustainable-development-goals-united-nations\" rel=\"noopener\">sustainable development goals</a> of 2015, which we all signed on to at the United Nations,” he told the Guardian.</p>    <p>He added: “There are things in the reparatory justice 10-point plan which deal with issues … the first one is the ecology, and then psychological repair. And for people like members of the Rastafari faith, or brothers and sisters who may wish repatriation, that’s something we have to work out with African countries, those who want to go back. But there are financial implications in that. So you’ll have to have a separate carve-out on the basis of the 10-point plan.”</p> <p>Labour MP Bell Ribeiro-Addy, chair of the House of Commons’ all-party parliamentary group for Afrikan Reparations, said the question was fundamentally about “agency”.</p> <p>Speaking at an event on Tuesday to launch a “<a href=\"https://www.theguardian.com/world/2026/oct/31/protests-expected-king-charles-reparations-slave-trade-commonwealth-summit-antigua\" rel=\"noopener\">global reparations caravan</a>”, which will travel across countries to educate and engage people in the reparations movement, she said: “So when it comes now to reparative justice, and as we move forward in the movement, I have to be clear with everybody, it has to be about agency, not making deals here and there, because agency was the crime. When you think about what was taken from people of African descent when they were enslaved, it was their agency, their right to decide all of these different things about their lives.</p> <p>“So when reparative justice arrangements are being made, it absolutely has to be made with those who were affected, because if it is done to us, it is not reparations. I don’t know what it is, but it is not reparative justice.”</p> <p>Gonsalves said the danger of reducing reparatory justice to development assistance was that such assistance remained discretionary on the UK’s part. “We have to understand the specificities of reparatory justice as distinct from general sustainable development goals. They’re shaping the discussion only within the frame of sustainable development goals,” he said.</p>   <p>Prof Kingsley Abbott, a human rights lawyer and director of the Institute of Commonwealth Studies at the University of London, also stressed the importance of harmed communities having a decisive say in what reparations should entail.</p> <p>Speaking at the global reparations caravan launch on Tuesday, he said: “It’s for you to say. It’s your story. It’s your lived experience. But it’s time to start listening to those who continue to suffer from those crimes even today. It’s time to listen to you and to listen and learn from you.</p> <p>“I reflected on my work as a human rights lawyer in different parts of the world. And in that time, I’ve met with many different victims of serious human rights violations, atrocity crimes, and their families and their descendants in places like Guatemala, Colombia, Nepal, Myanmar. And here in Antigua tonight, I’m meeting with all of you.</p> <p>“Wherever those victims of those terrible crimes and their families were from, and whatever their faith, whatever their ethnicity, whatever their beliefs, they all had one thing in common. When I met with them, they all said that they wanted justice. And they wanted not only justice, but they wanted to be made whole again.”</p> <p>A spokesperson for the Foreign Office said: “The prime minister wants to build stronger relationships to renew the relevance of the Commonwealth in a new era. We will do that by facing our past together and focusing on a future where every person living within it has equality, security and hope.</p> <p>“We are already committed to working with Commonwealth partners on issues facing the world, including the role of private finance in tackling global debt issues, addressing the climate crisis, and supporting economic development. We will continue to do so.”</p>",
       "related": [
         {
@@ -2759,7 +2726,7 @@
             "byline": "Natricia Duncan in St John's, Antigua"
           },
           "kicker": "World news",
-          "trail": "The issue remains off the formal Chogm agenda, though Britain was previously ‘vehement’ it should not be discussed at all",
+          "trail": "The issue remains off the formal Chogm agenda, though Britain was previously ‘vehement’ it should not be on the agenda",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/223fc946a9add0d85761c121fd3c2a08504026a8/935_87_6394_5115/1000.jpg",
@@ -2773,7 +2740,7 @@
         {
           "path": "/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
           "linked": false,
-          "headline": "Burnham open to formal apology, launches debt-relief drive for Commonwealth",
+          "headline": "Burnham plans debt-restructuring drive for poorest Commonwealth nations",
           "original": {
             "headline": "Andy Burnham open to calls for formal apology for Britain’s role in slave trade",
             "url": "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
@@ -2781,7 +2748,7 @@
             "byline": "Pippa Crerar and Natricia Duncan"
           },
           "kicker": "World news",
-          "trail": "Exclusive: The UK PM will launch a debt-restructuring drive for the poorest Commonwealth countries, though he rejects demands for reparations",
+          "trail": "Exclusive: The UK PM is to launch a debt-restructuring drive for the poorest Commonwealth countries and is open to calls for a formal apology, though he rejects demands for reparations",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/6c341e23e61021ce4f2b591073bc01ad2f6e1221/410_0_3984_3188/1000.jpg",
@@ -2847,7 +2814,7 @@
             "byline": "Natricia Duncan Caribbean correspondent"
           },
           "kicker": "News",
-          "trail": "Slavery’s legacy continues to affect the country, a minister says, as the group prepares to appeal to Jamaica’s head of state",
+          "trail": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as the group prepares to appeal to Jamaica’s head of state",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/514934ca4b4e8c7dba4e71b2c01cec9431eddf58/0_0_5000_4000/1000.jpg",
@@ -2867,8 +2834,8 @@
         "standfirst": "<p>Antigua and Barbuda’s prime minister says there was a consensus at Commonwealth summit on way forward</p>",
         "byline": "Natricia Duncan Caribbean correspondent"
       },
-      "standfirst": "Antigua and Barbuda’s prime minister Gaston Browne hails a ‘consensus’ at the Commonwealth summit, as the UK rules out reparations but commits to debt talks and £40m in Caribbean infrastructure funding",
-      "progress": "The UK and Caribbean nations have agreed a timeline for formal talks, with Andy Burnham pledging £40m for Caribbean infrastructure and debt-relief discussions.",
+      "standfirst": "Antigua and Barbuda’s prime minister Gaston Browne hails a ‘consensus’ at the Commonwealth summit, as the UK rules out reparations but proposes debt-reset talks and commits £40m to Caribbean infrastructure",
+      "progress": "Andy Burnham has pledged £40m for Caribbean infrastructure and proposed debt-reset talks, though he has ruled out reparations themselves.",
       "upside": 2,
       "byline": "Datricia Nuncan Caribbean correspondent",
       "mainImage": {
@@ -2915,7 +2882,7 @@
         {
           "path": "/world/2019/aug/30/hong-kong-pro-democracy-leader-joshua-wong-arrested-says-demosisto",
           "linked": false,
-          "headline": "Joshua Wong and fellow activists bailed after Hong Kong arrests",
+          "headline": "Hong Kong protests: Joshua Wong and other pro-democracy figures arrested",
           "original": {
             "headline": "Hong Kong protests: Joshua Wong and other pro-democracy figures arrested",
             "url": "https://www.theguardian.com/world/2019/aug/30/hong-kong-pro-democracy-leader-joshua-wong-arrested-says-demosisto",
@@ -2923,8 +2890,7 @@
             "byline": "Erin Hale in Hong Kong and Lily Kuo"
           },
           "kicker": "World news",
-          "trail": "Wong and fellow activist Agnes Chow were bailed following their arrest during the protests",
-          "upside": 1,
+          "trail": "Wong and fellow activist Agnes Chow subsequently bailed",
           "image": {
             "src": "https://media.guim.co.uk/3aa26a49c4151ca1fa2b3063f953fdff54ea556a/0_40_2734_1641/500.jpg"
           },
@@ -2958,7 +2924,7 @@
         "name": "Society"
       },
       "publishedAt": "2026-11-04T15:09:24Z",
-      "headline": "Treatment charities call for new UK drugs strategy to save lives",
+      "headline": "Collective Voice urges new UK drugs strategy to save lives",
       "bodyHtml": "<p>The government “must act now to reverse this deadly trend”, charities have said, after cocaine overtook heroin as the biggest cause of drug deaths in England and Wales, figures from the Office for National Statistics show, with 1,233 deaths caused by cocaine last year.</p> <p>Drug deaths fell slightly in 2025 compared with the previous year, though they “remained historically high” at double the rates of 10 years ago, with cocaine-specific deaths four times higher than a decade ago and eight times higher than in 2010.</p> <p>The Guardian revealed last week that police were recording a <a href=\"https://www.theguardian.com/uk-news/2026/oct/25/cocaine-linked-crimes-on-the-rise-in-britain-as-consumption-surges\" rel=\"noopener\">growing number of crimes linked to cocaine</a>, including assaults, domestic abuse and dangerous driving.</p>   <p>Wastewater analysis shows consumption of the class A drug is surging, becoming a <a href=\"https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit\" rel=\"noopener\">more common sight in pubs, festivals and workplaces</a>. It is linked with a rise of 10% in crime associated with cocaine since 2019.</p> <p>For the first time, cocaine was the drug most involved in drug-related deaths, the figures show, amounting to 22%. This included its use as a powder and deaths caused by injecting the drug or smoking it as crack cocaine.</p> <p>A total of 64% of cocaine deaths registered were of people over the age of 40, <a href=\"https://www.theguardian.com/society/2026/oct/25/deaths-cocaine-crime-survey-england-wales\" rel=\"noopener\">a trend</a> also seen among people seeking help from drug treatment services.</p> <p>Overall, 5,519 deaths related to drug poisoning were registered last year, 46 fewer than in 2024.</p>    <p>The north-east of England had the highest rates of drug deaths, at 135.2 deaths per million people in 2025, while London had the lowest rate at 58.3 deaths per million. Deaths were five times higher in the most deprived areas than the least deprived.</p> <p>The statistics also showed rates of deaths from ketamine had risen dramatically from a very low base a decade ago. Ketamine was mentioned in 115 deaths in 2025, compared with 27 in 2020 and seven in 2015.</p> <p>Niamh Eastwood, the executive director of Release, the UK’s national centre of expertise on drugs and drug laws, said cocaine deaths were “a direct result of policy failures both in the UK and internationally”.</p> <p>She said: “Cocaine production is at an all-time high; it’s more available, cheaper and purer than ever, despite billions spent on trying to disrupt or eradicate the trade.” </p> <p>The NGO said the UK’s focus on punishing drug use prevented drug services offering harm-reduction interventions, “meaning there is literally nothing practical on offer for people who use [cocaine]”.</p> <p>Mike Trace, the chief executive of the social justice charity Forward Trust, said the overall drug-related death rate was “a national scandal” that needed urgent attention.</p> <p>He said: “That cocaine has risen to the top of the statistics for drug-related deaths should come as no surprise. We’re facing the perfect storm of record levels of production in South America leading to falling prices combined with increasing purity, which means increasing potency and risk.”</p> <p>Will Haydock, the chief executive of Collective Voice, a drug treatment campaigning charity, said that improvements previously made were “now at risk due to government inaction”.</p>   <p>“For over two years the government has been largely silent on addiction, and has paused the planned investment programme, freezing funding at year-three levels rather than continuing to follow the path laid out by the independent review of drugs, which has amounted to a real-terms cut at a time when we are trying to support more people in treatment than ever before,” he said.</p> <p>The <a href=\"https://www.theguardian.com/society/2020/feb/27/failures-in-treatment-and-policing-behind-boom-in-illegal-drugs\" rel=\"noopener\">independent review led by Prof Carol Black</a> was commissioned by Boris Johnson’s government and published in 2021, and <a href=\"https://www.theguardian.com/society/2021/jan/21/new-funding-to-tackle-drug-misuse-is-820m-less-than-ministers-were-advised\" rel=\"noopener\">recommended an overhaul</a> of drug treatment services.</p> <p>Haydock said: “If the current prime minister is to achieve his ambitions on a whole range of policy issues – including violence against women and girls, the crisis in the criminal justice system, homelessness, and young people’s employment and mental health – then we must talk about drugs, and specifically treatment and recovery services.</p> <p>“We urgently need a new drugs strategy with clear priorities, including reducing drug-related deaths. If we get our response to alcohol and other drugs right, we can save and improve hundreds of thousands of lives.”</p>",
       "related": [
         {
@@ -2992,8 +2958,8 @@
         "standfirst": "<p>Charities say government ‘must act now’ with cocaine-specific deaths eight times higher than in 2010</p>",
         "byline": "Robyn Vinter North of England correspondent"
       },
-      "standfirst": "Charities are calling on ministers for a new national drugs strategy, after cocaine overtook heroin as the leading cause of drug deaths in England and Wales, with cocaine deaths eight times higher than in 2010",
-      "progress": "Addiction charities are urging ministers to publish a new drugs strategy with clear priorities for cutting drug-related deaths.",
+      "standfirst": "Collective Voice is calling on ministers for a new national drugs strategy, after cocaine overtook heroin as the leading cause of drug deaths in England and Wales, with cocaine deaths eight times higher than in 2010",
+      "progress": "Collective Voice's Will Haydock says restoring funding frozen at year-three levels and acting on the Carol Black review are now urgent.",
       "upside": 1,
       "byline": "Vobyn Rinter North of England correspondent",
       "mainImage": {
@@ -3013,7 +2979,7 @@
       },
       "publishedAt": "2026-11-04T18:18:37Z",
       "headline": "British healthcare worker who helped fight Ebola evacuated home for care",
-      "bodyHtml": "<p>A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.</p> <p>“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”</p> <p>The patient, whose identity is unknown, is in a stable condition and is expected to arrive in the UK on Wednesday or Thursday before being transferred in a specialist ambulance to a “high consequence” infectious disease unit, according to an official document seen by Reuters.</p> <p>A humanitarian organisation sent the worker to DR Congo to help in the response to the outbreak, which is the second largest on record. It is the first case involving a British national contracting Ebola in the current outbreak.</p> <p>The Royal Free hospital in London has a high-level isolation unit for infectious diseases such as Ebola; other centres are in Newcastle and Liverpool.</p> <p>Ebola is a highly contagious, <a href=\"https://www.who.int/news-room/fact-sheets/detail/ebola-disease\" rel=\"noopener\">severe and often fatal illness</a>. It is spread through direct contact with body fluids such as the blood or vomit of infected people, or dead bodies.</p> <p>Vaccine trials for the Bundibugyo virus behind the outbreak are under way, <a href=\"https://www.theguardian.com/global-development/2026/jun/04/the-race-to-combat-ebola-what-vaccines-and-treatments-are-being-developed-and-how-long-will-it-take\" rel=\"noopener\">though it has no approved treatment yet</a>. The current outbreak, declared on 15 May by DR Congo’s health ministry, has surpassed <a href=\"https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026\" rel=\"noopener\">10,000 cases, and 5,000 deaths</a>, and is <a href=\"https://www.cdc.gov/ebola/situation-summary/index.html\" rel=\"noopener\">the 17th in DR Congo</a> since Ebola was identified, making it the largest and deadliest in the country’s history.</p> <p>Since the outbreak started, it has spread to Kenya and Uganda in east Africa, while last month Nigeria confirmed <a href=\"https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest\" rel=\"noopener\">a case in the capital, Abuja</a>, after a woman who arrived from Uganda tested positive for the virus. She, along with a close contact, were evacuated to Switzerland for treatment.</p> <p>In an interview with the Guardian last month, Dr Jean Kaseya, the director general of the Africa Centres for Disease Control and Prevention (CDC), said the “unprecedented” <a href=\"https://www.theguardian.com/world/2026/aug/17/what-is-ebola-why-who-says-drc-uganda-outbreak-global-health-emergency\" rel=\"noopener\">spread of the Ebola outbreak</a> meant it could reach the UK and other countries.</p> <p>“We want all countries to know that they are not safe if they don’t take appropriate measures,” he said. “Each country, not only in the African region, but all continents, must now increase the preparedness level and the possibility for treatment.</p> <p>“It is the first time three African regions have been affected [by Ebola]. The geographic extension of this outbreak is unprecedented.”</p> <p>Other patients have already been successfully medically evacuated for specialised care since the start of the outbreak, including <a href=\"https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026\" rel=\"noopener\">two sent to Germany and one to the Netherlands</a>. Another case was <a href=\"https://sante.gouv.fr/actualites-presse/presse/communiques-de-presse/article/ebola-identification-d-un-1er-cas-chez-un-medecin-humanitaire-de-retour-de\" rel=\"noopener\">reported in France in July</a>.</p> <p>British health authorities say the risk to the wider public from imported Ebola cases remains low and the NHS has procedures in place to manage suspected and confirmed infections.</p> <p>There have only been <a href=\"https://ukhsa.blog.gov.uk/2026/10/15/ebola-what-are-the-symptoms-and-how-does-it-spread/\" rel=\"noopener\">four confirmed cases recorded in Britain</a> since 1976, according to the UK Health Security Agency.</p>",
+      "bodyHtml": "<p>A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.</p> <p>“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday. “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”</p> <p>The patient, whose identity is unknown, is in a stable condition and is expected to arrive in the UK on Wednesday or Thursday before being transferred in a specialist ambulance to a “high consequence” infectious disease unit, according to an official document seen by Reuters.</p> <p>A humanitarian organisation sent the worker to DR Congo to help in the response to the outbreak, which is the second largest on record. It is the first case involving a British national contracting Ebola in the current outbreak.</p> <p>The Royal Free hospital in London has a high-level isolation unit for infectious diseases such as Ebola; other centres are in Newcastle and Liverpool.</p> <p>Ebola is a highly contagious, <a href=\"https://www.who.int/news-room/fact-sheets/detail/ebola-disease\" rel=\"noopener\">severe and often fatal illness</a>. It is spread through direct contact with body fluids such as the blood or vomit of infected people, or dead bodies.</p> <p>Vaccine trials for the Bundibugyo virus behind the outbreak are under way, <a href=\"https://www.theguardian.com/global-development/2026/jun/04/the-race-to-combat-ebola-what-vaccines-and-treatments-are-being-developed-and-how-long-will-it-take\" rel=\"noopener\">though it has no approved treatment yet</a>. The current outbreak, declared on 15 May by DR Congo’s health ministry, has surpassed <a href=\"https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026\" rel=\"noopener\">10,000 cases, and 5,000 deaths</a>, and is <a href=\"https://www.cdc.gov/ebola/situation-summary/index.html\" rel=\"noopener\">the 17th in DR Congo</a> since Ebola was identified, making it the largest and deadliest in the country’s history.</p> <p>Since the outbreak started, it has spread to Kenya and Uganda in east Africa, while last month Nigeria confirmed <a href=\"https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest\" rel=\"noopener\">a case in the capital, Abuja</a>, after a woman who arrived from Uganda tested positive for the virus. She, along with a close contact, were evacuated to Switzerland for treatment.</p> <p>In an interview with the Guardian last month, Dr Jean Kaseya, the director general of the Africa Centres for Disease Control and Prevention (CDC), said the “unprecedented” <a href=\"https://www.theguardian.com/world/2026/aug/17/what-is-ebola-why-who-says-drc-uganda-outbreak-global-health-emergency\" rel=\"noopener\">spread of the Ebola outbreak</a> meant it could reach the UK and other countries.</p> <p>“We want all countries to know that they are not safe if they don’t take appropriate measures,” he said. “Each country, not only in the African region, but all continents, must now increase the preparedness level and the possibility for treatment.</p> <p>“It is the first time three African regions have been affected [by Ebola]. The geographic extension of this outbreak is unprecedented.”</p> <p>Other patients have already been medically evacuated for specialised care since the start of the outbreak, including <a href=\"https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026\" rel=\"noopener\">two sent to Germany and one to the Netherlands</a>. Another case was <a href=\"https://sante.gouv.fr/actualites-presse/presse/communiques-de-presse/article/ebola-identification-d-un-1er-cas-chez-un-medecin-humanitaire-de-retour-de\" rel=\"noopener\">reported in France in July</a>.</p> <p>British health authorities say the risk to the wider public from imported Ebola cases remains low and the NHS has procedures in place to manage suspected and confirmed infections.</p> <p>There have only been <a href=\"https://ukhsa.blog.gov.uk/2026/10/15/ebola-what-are-the-symptoms-and-how-does-it-spread/\" rel=\"noopener\">four confirmed cases recorded in Britain</a> since 1976, according to the UK Health Security Agency.</p>",
       "related": [
         {
           "path": "/global-development/2026/aug/24/ebola-100-days-deadliest-outbreak-disease-communities-who",
@@ -3026,7 +2992,7 @@
             "byline": "Jean Kaseya and Tedros Adhanom Ghebreyesus"
           },
           "kicker": "Global development",
-          "trail": "Ebola spreads through communities, so listening to and working with communities is key to halting its spread, experts say",
+          "trail": "Ebola spreads through communities, so listening to and working with communities is key to halting its spread",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/ce07534a9a2e2a2b21c3df5891a6fb42886e79e5/860_0_6880_5504/1000.jpg",
@@ -3036,28 +3002,6 @@
             "height": 800
           },
           "byline": "Kean Jaseya and Edros Tadhanom Ghebreyesus"
-        },
-        {
-          "path": "/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
-          "linked": false,
-          "headline": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
-          "original": {
-            "headline": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
-            "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
-            "trail": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control",
-            "byline": "Prosper Heri Ngorora in Goma"
-          },
-          "kicker": "Global development",
-          "trail": "Almost 3,500 people have died in the outbreak, and experts say more must be done to bring it fully under control",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/2cfefd500b4e0a49bfd91deaf4a4f190d877e1a1/772_0_3793_3036/1000.jpg",
-            "alt": "A black doctor in white coat washing his hands in a basic setup during treatment of Ebola patients",
-            "credit": "Photograph: Gradel Muyisa Mumbere/Reuters",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Hosper Preri Ngorora in Goma"
         },
         {
           "path": "/global-development/2026/aug/21/ebola-outbreak-five-big-questions",
@@ -3070,7 +3014,7 @@
             "byline": "Kat Lay, Global health correspondent"
           },
           "kicker": "Global development",
-          "trail": "By late August it will be 100 days since the Bundibugyo strain was first reported; experts weigh what must be done to stop it becoming the world’s largest outbreak",
+          "trail": "On 23 August, it will be 100 days since the Bundibugyo strain was first reported, raising the question of what must be done to stop it becoming the world’s largest outbreak",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/0a7757d145f4430a607e01a2481bcd73a878ac85/0_0_5500_3512/1000.jpg",
@@ -3084,7 +3028,7 @@
         {
           "path": "/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
           "linked": false,
-          "headline": "Health teams in Africa step up efforts to contain the Ebola outbreak",
+          "headline": "Health teams in Africa move to contain the Ebola outbreak",
           "original": {
             "headline": "Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts",
             "url": "https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak",
@@ -3092,7 +3036,7 @@
             "byline": "Kat Lay, Global health correspondent"
           },
           "kicker": "Global development",
-          "trail": "A pandemic report flags a growing global danger, while teams in Africa work to contain the current Ebola outbreak",
+          "trail": "A pandemic report finds hantavirus and Ebola are becoming more frequent and damaging, while health teams in Africa move to contain the current outbreak",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/f48a9ffe4e7999fd038c9240bf52a0403d1b8cf4/314_0_2994_2395/1000.jpg",
@@ -3102,6 +3046,27 @@
             "height": 800
           },
           "byline": "Lat Kay, Global health correspondent"
+        },
+        {
+          "path": "/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+          "linked": false,
+          "headline": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+          "original": {
+            "headline": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+            "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+            "trail": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control",
+            "byline": "Prosper Heri Ngorora in Goma"
+          },
+          "kicker": "Global development",
+          "trail": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control",
+          "image": {
+            "src": "https://media.guim.co.uk/2cfefd500b4e0a49bfd91deaf4a4f190d877e1a1/772_0_3793_3036/1000.jpg",
+            "alt": "A black doctor in white coat washing his hands in a basic setup during treatment of Ebola patients",
+            "credit": "Photograph: Gradel Muyisa Mumbere/Reuters",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Hosper Preri Ngorora in Goma"
         },
         {
           "path": "/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
@@ -3114,7 +3079,7 @@
             "byline": "Sarah Johnson"
           },
           "kicker": "Global development",
-          "trail": "Jean Kaseya says the outbreak could spread like Covid unless more funding is secured for preparedness and treatment",
+          "trail": "Jean Kaseya says the outbreak could reach the UK and spread like Covid unless more funding is secured for preparedness and treatment",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/4c8a92421c88cf3bb5c2743cd8f6b4900e511a1f/0_0_5500_3667/1000.jpg",
@@ -3134,7 +3099,7 @@
         "standfirst": "<p>Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit</p>",
         "byline": "Sarah Johnson"
       },
-      "standfirst": "The British citizen, sent to DR Congo to help tackle an Ebola outbreak that has infected more than 10,000 people and killed 5,000, is in a stable condition and being flown home to a specialist unit",
+      "standfirst": "The British citizen, sent to DR Congo to help tackle an Ebola outbreak that has infected more than 10,000 people and killed 5,000, has tested positive for the virus and is being flown home, in a stable condition, to a specialist unit",
       "progress": "UK health authorities have activated well-established evacuation and treatment procedures, and say the risk to the public remains low.",
       "upside": 2,
       "byline": "Jarah Sohnson",
@@ -3308,7 +3273,7 @@
         "byline": "Ian Sample Science editor"
       },
       "standfirst": "Fortifying plant-based dairy alternatives with iodine and other nutrients would prevent shortfalls, researchers say, after finding unfortified versions could leave young people and women short of key micronutrients",
-      "progress": "Brands including Alpro and Oatly already fortify their plant-based drinks with iodine, calcium and vitamin B12, and dietitians advise choosing these.",
+      "progress": "Brands including Alpro and Oatly already fortify their drinks, and a dietitian advises checking labels for an iodine-fortified option such as Alpro.",
       "upside": 2,
       "byline": "Sian Ample Science editor",
       "mainImage": {
@@ -3363,7 +3328,7 @@
             "byline": "Anna Bawden and Kiran Stacey"
           },
           "kicker": "Society",
-          "trail": "Exclusive: Former health secretary Alan Milburn says shifting some benefits spending to fund upfront work support is needed to tackle Neet unemployment",
+          "trail": "Exclusive: Former health secretary Alan Milburn says cutting benefits to fund upfront work support is needed ‘if we are going to end the Neet crisis’",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/c641e402d808f00f61489b84a29a01069fdf14bf/902_15_3323_2659/1000.jpg",
@@ -3406,7 +3371,7 @@
             "trail": "Letters: Mass suicides in electronic companies in China; deaths on stadium building sites in Qatar; crushed bodies in Bangladeshi factory – these are some of the perils of working in the 21st century"
           },
           "kicker": "Global",
-          "trail": "Letters: readers cite mass suicides at Chinese electronics plants, deaths on Qatari stadium building sites and a collapsed Bangladeshi factory as reasons to demand safer work worldwide",
+          "trail": "Letters: readers cite mass suicides at Chinese electronics plants, deaths on Qatari stadium building sites and crushed bodies in a Bangladeshi factory as reasons to demand safer work worldwide",
           "upside": 1,
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/10/6/1381078299594/Bangladeshi-garment-worke-008.jpg",
@@ -3473,7 +3438,7 @@
         {
           "path": "/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears",
           "linked": false,
-          "headline": "Restaurants, pubs and theatres ban Meta's 'spy glasses' to protect customer privacy",
+          "headline": "Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ to protect customer privacy",
           "original": {
             "headline": "Restaurants, pubs and theatres ban Meta’s ‘spy glasses’ over privacy fears",
             "url": "https://www.theguardian.com/technology/2026/aug/06/restaurants-pubs-and-theatres-ban-metas-spy-glasses-over-privacy-fears",
@@ -3495,7 +3460,7 @@
         {
           "path": "/technology/2026/sep/23/meta-smart-vr-glasses",
           "linked": false,
-          "headline": "Meta debuts no-camera smart glasses amid privacy concerns",
+          "headline": "Meta debuts no-camera smart glasses and VR spectacles amid privacy concerns",
           "original": {
             "headline": "Meta debuts no-camera smart glasses and virtual reality spectacles",
             "url": "https://www.theguardian.com/technology/2026/sep/23/meta-smart-vr-glasses",
@@ -3607,7 +3572,7 @@
         "standfirst": "<p>Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of women</p><p></p>",
         "byline": "Nadeem Badshah"
       },
-      "standfirst": "Safeguarding minister Satvir Kaur says the government is considering restrictions on smart glasses sales and use, after MPs raised cases of women secretly filmed without consent and the footage shared online",
+      "standfirst": "Safeguarding minister Satvir Kaur says the government is considering restrictions on smart glasses sales and use, after Lib Dem MP Anna Sabine raised cases of women secretly filmed without consent and the footage shared online",
       "progress": "Ministers are exploring sales restrictions and setting-specific rules, while NHS England and the Department for Education review wearable-tech policy.",
       "upside": 1,
       "byline": "Badeem Nadshah",

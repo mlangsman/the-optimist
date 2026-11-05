@@ -70,6 +70,27 @@
     "issue": "headline is unchanged from the original: \"Jeanette Winterson’s point about AI brings to mind an Isaac Asimov story\""
   },
   {
+    "path": "/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"French blood banks hacked in latest cyber-attack on Europe\""
+  },
+  {
+    "path": "/uk-news/2026/nov/04/cambridge-university-asks-barrister-to-lead-jason-arday-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday\""
+  },
+  {
+    "path": "/media/2026/nov/04/bbc-attempts-reassure-jewish-staff-antisemitism-rhodri-talfan-davies",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"BBC attempts to reassure Jewish staff after ex-producer says she faced antisemitism\""
+  },
+  {
     "path": "/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
     "kind": "preview",
     "field": "headline",
@@ -81,7 +102,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"‘I put a smoke bomb in a road cone and stuck it on my head’: Delton Barrett’s best photograph\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I put a smoke bomb in a road cone and stuck it on my head': Delton Barrett's best photograph\""
   },
   {
     "path": "/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
@@ -96,6 +117,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’\""
+  },
+  {
+    "path": "/music/2026/nov/02/riots-explosive-punks-bad-brains-first-studio-recording",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘They said we incited riots’: explosive punks Bad Brains on drugs, self-destruction and recording from jail\""
   },
   {
     "path": "/tv-and-radio/2026/nov/02/rob-delaney-and-bel-powley-star-in-a-knotty-rehab-drama-best-podcasts-of-the-week",
@@ -245,6 +273,13 @@
     "issue": "headline is unchanged from the original: \"The pet I’ll never forget: the tiny horse with a big personality – who helps psychiatric patients\""
   },
   {
+    "path": "/lifeandstyle/2026/nov/01/dining-across-the-divide-my-family-are-all-trumpian-so-ive-had-a-lot-of-practice-talking-to-people-who-are-far-right",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’\""
+  },
+  {
     "path": "/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
     "kind": "preview",
     "field": "headline",
@@ -329,11 +364,32 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: this small bridge is becoming the site of so many stories\""
   },
   {
+    "path": "/lifeandstyle/2026/nov/03/houseplant-hacks-hygrometer-plant-temperature-humidity-winter",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Houseplant hacks: is a hygrometer a gimmick or a godsend?\""
+  },
+  {
+    "path": "/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in northern England struggling to find work?\""
+  },
+  {
     "path": "/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Nature boys and girls – here’s your chance to get published in the Guardian\""
+  },
+  {
+    "path": "/money/2026/oct/06/tell-us-are-you-a-young-person-in-the-uk-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in the UK struggling to find work?\""
   },
   {
     "path": "/world/2023/nov/17/african-and-caribbean-nations-agree-move-to-seek-reparations-for-slavery",
@@ -355,6 +411,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Caribbean nations draft action plan to push UK to redress reparations over slavery\""
+  },
+  {
+    "path": "/world/2019/aug/30/hong-kong-pro-democracy-leader-joshua-wong-arrested-says-demosisto",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Hong Kong protests: Joshua Wong and other pro-democracy figures arrested\""
   },
   {
     "path": "/world/2021/jul/11/growing-risks-hong-kong-pro-democracy-group-scales-down",
