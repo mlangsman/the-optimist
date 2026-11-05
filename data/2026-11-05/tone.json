@@ -1,0 +1,436 @@
+[
+  {
+    "path": "/books/2026/nov/04/alexander-god-king-man-by-edmund-richardson-review-dazzling-dizzying-adventure",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Alexander: God, King, Man by Edmund Richardson review – a dazzling, dizzying adventure\""
+  },
+  {
+    "path": "/thefilter/2026/nov/04/best-christmas-gifts-mums-grannies-aunties-friends-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best Christmas gifts in the UK for mums, grannies, aunties and friends\""
+  },
+  {
+    "path": "/culture/2026/nov/04/readers-memories-of-patrick-stewart",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘He lent me his RSC Oberon cape for my school play’: Patrick Stewart remembered by readers\""
+  },
+  {
+    "path": "/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Legend of Zelda: Ocarina of Time review – a dream come true\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/04/democrats-elected-us-awakening",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The great sleeping giant of the US has awakened\""
+  },
+  {
+    "path": "/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"New Zealand heads for election cliffhanger with minor party cast as kingmaker\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/04/fleabag-creator-phoebe-waller-bridge-donates-flat-to-help-writers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Phoebe Waller-Bridge donates flat to help early-career writers live in London\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/03/midterms-trump-era-lame-duck",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The death knell of Trumpism has finally sounded\""
+  },
+  {
+    "path": "/technology/2026/nov/04/airbnb-can-be-positive-for-the-community",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Airbnb can be positive for the community\""
+  },
+  {
+    "path": "/books/2026/nov/04/jeanette-winterson-point-about-ai-brings-to-mind-an-isaac-asimov-story",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jeanette Winterson’s point about AI brings to mind an Isaac Asimov story\""
+  },
+  {
+    "path": "/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Israel’s election commission rejects Netanyahu’s voting fraud claims\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/04/smoke-bomb-road-cone-losing-mind-delton-barrett-best-photograph",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘I put a smoke bomb in a road cone and stuck it on my head’: Delton Barrett’s best photograph\""
+  },
+  {
+    "path": "/film/2026/nov/04/ramayana-rise-of-a-legend-review-indias-most-expensive-film-ever-becomes-spectacular-huge-scale-epic",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"Ramayana: Rise of a Legend review – India’s most expensive film becomes a spectacular epic\""
+  },
+  {
+    "path": "/music/2026/nov/03/rnb-star-ashanti-10-chaotic-questions",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ashanti: ‘I’ve had a bodysuit snap off on stage. That was not my coolest moment’\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/02/rob-delaney-and-bel-powley-star-in-a-knotty-rehab-drama-best-podcasts-of-the-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Rob Delaney and Bel Powley star in a knotty rehab drama: best podcasts of the week\""
+  },
+  {
+    "path": "/books/2026/nov/03/citizen-kim-by-jonathan-van-meter-review-kardashian-under-the-microscope",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Citizen Kim by Jonathan Van Meter review – Kardashian under the microscope\""
+  },
+  {
+    "path": "/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Why the weirdest game of 2026 is also one of my favourites\""
+  },
+  {
+    "path": "/culture/2026/nov/02/tomb-raider-creators-lara-croft",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tomb Raider’s creators on how the game changed their lives: ‘Skint staff were suddenly pulling up in sports cars’\""
+  },
+  {
+    "path": "/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"After 50 years of playing video games, I’m finally starring in one\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/04/constantinople-to-istanbul-review-v-and-a-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (94 per cent of the words are the same): \"Constantinople to Istanbul review – you won’t want to leave this lavish celebration of imperial splendour\""
+  },
+  {
+    "path": "/culture/2026/nov/04/every-family-has-silences-kathryn-hunter-on-despair-desire-dislodgeable-limbs-and-her-acting-genius",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"‘Every family has silences’: Kathryn Hunter on despair, desire and her acting genius\""
+  },
+  {
+    "path": "/music/2026/nov/04/herbert-blomstedt-renowned-conductor-with-a-seven-decade-career-dies-aged-99",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Herbert Blomstedt, conductor with a seven-decade career, dies aged 99\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"From spritzes to sours: how sherry is becoming mixology’s hottest ingredient\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-chefs-are-pairing-food-with-sherry-wine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘It truly comes alive at the table’: why chefs are singing the praises of sherry\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-sherry-wine-deserves-a-place-on-your-drinks-list",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Love at first sip: why sherry will always be at the top of my drinks list\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A spotlight on sherry: Britain’s storied history with the Spanish wine\""
+  },
+  {
+    "path": "/thefilter/2026/nov/03/best-diy-homemade-christmas-gifts-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Pickles, plant hangers and a hotel for bees: seven homemade Christmas gifts anyone can make\""
+  },
+  {
+    "path": "/thefilter/2025/nov/08/best-artificial-christmas-trees-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘An extravagantly illuminated beast’: the best artificial Christmas trees in the UK – tested\""
+  },
+  {
+    "path": "/thefilter/2026/oct/30/things-you-loved-most-october-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"From a life-changing garlic press to a super-glowy serum: 12 buys you’re loving right now\""
+  },
+  {
+    "path": "/thefilter/2026/nov/01/jess-cartner-morleys-november-style-essentials-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jess Cartner-Morley’s November style essentials: fancy flats, sexy knits and a Christmassy pigeon\""
+  },
+  {
+    "path": "/food/2026/nov/04/how-to-turn-pasta-odds-and-ends-into-a-winning-bake-recipe-zero-waste-cooking",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to turn pasta odds and ends into a winning bake – recipe\""
+  },
+  {
+    "path": "/food/2026/nov/04/vegetarian-diwali-recipes-kale-saag-paneer-tandoori-celeriac-turnip-sabzi-ravinder-bhogal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tandoori celeriac, kale saag paneer and turnip sabzi: Ravinder Bhogal’s vegetarian recipes for Diwali\""
+  },
+  {
+    "path": "/food/2026/nov/04/wanted-sausage-dinners-for-autumn",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Wanted: sausage dinners for autumn\""
+  },
+  {
+    "path": "/food/2026/nov/03/mussels-cider-chorizo-apple-recipe-jose-pizarro",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"José Pizarro’s recipe for mussels with cider, chorizo and apple\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/02/the-pet-ill-never-forget-the-tiny-horse-with-a-big-personality-who-helps-psychiatric-patients",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The pet I’ll never forget: the tiny horse with a big personality – who helps psychiatric patients\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"This is how we do it: ‘We don’t have penetration – but it’s by far the best sex I’ve ever had’\""
+  },
+  {
+    "path": "/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘They assume the man next to me is the owner’: four women doing business in Africa in their own way\""
+  },
+  {
+    "path": "/money/2026/nov/02/buying-smart-lock-uk-worth-it-affect-insurance",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"What to look for if you’re buying a smart lock in the UK\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/04/a-moment-that-changed-me-i-was-terrified-of-my-own-body-until-a-surprising-20-mile-bike-ride",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A moment that changed me: I was terrified of my own body – until a surprising 20-mile bike ride\""
+  },
+  {
+    "path": "/fashion/2026/nov/04/sali-hughes-on-beauty-eye-creams",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sali Hughes on beauty: eye creams that are worth using down to the last drop\""
+  },
+  {
+    "path": "/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A-listers and AI stylists: how high-street brands are staging a fashion comeback\""
+  },
+  {
+    "path": "/fashion/2026/oct/30/fashion-autumn-rain-best-raincoats-accessories",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Dripping with style: what fashion insiders wear in the rain – plus the best raincoats and accessories\""
+  },
+  {
+    "path": "/travel/2026/nov/04/calming-autumn-cabin-stay-in-north-norfolk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘Overlooked only by trees’: a calming autumn cabin stay in north Norfolk\""
+  },
+  {
+    "path": "/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A perfect weekend in the Darent valley, Kent: a ‘demi-paradise’ of art, lavender fields and great pubs\""
+  },
+  {
+    "path": "/travel/2026/nov/01/its-snow-time-the-best-winter-activity-holidays-in-europe-for-non-skiers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"It’s snow time: the best winter activity holidays in Europe for non-skiers\""
+  },
+  {
+    "path": "/travel/2026/oct/31/britain-spooky-places-to-visit-halloween",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"10 spine-chilling places to visit in Britain for Halloween\""
+  },
+  {
+    "path": "/environment/2026/nov/04/country-diary-this-small-bridge-is-becoming-the-site-of-so-many-stories",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: this small bridge is becoming the site of so many stories\""
+  },
+  {
+    "path": "/environment/2021/aug/27/nature-lovers-guardian-young-country-diary-writers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Nature boys and girls – here’s your chance to get published in the Guardian\""
+  },
+  {
+    "path": "/world/2023/nov/17/african-and-caribbean-nations-agree-move-to-seek-reparations-for-slavery",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"African and Caribbean nations agree move to seek reparations for slavery\""
+  },
+  {
+    "path": "/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles\""
+  },
+  {
+    "path": "/world/2026/sep/19/caribbean-leaders-uk-slavery-reparations-conference",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Caribbean nations draft action plan to push UK to redress reparations over slavery\""
+  },
+  {
+    "path": "/world/2021/jul/11/growing-risks-hong-kong-pro-democracy-group-scales-down",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Hong Kong pro-democracy group scales down amid ‘growing risks’\""
+  },
+  {
+    "path": "/society/2023/dec/19/drug-poisoning-deaths-in-england-and-wales-at-highest-level-in-past-30-years",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Drug poisoning deaths in England and Wales at highest level in 30 years\""
+  },
+  {
+    "path": "/society/2025/apr/02/young-women-england-wales-likely-have-just-one-child-35-ons-study",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Young women in England and Wales projected to have just one child by 35\""
+  },
+  {
+    "path": "/society/2026/oct/26/cocaine-britain-drug-habit-fuelling-domestic-abuse",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"‘He was like 10 men after taking cocaine’: how Britain’s drug habit is fuelling domestic abuse\""
+  },
+  {
+    "path": "/global-development/2026/aug/24/ebola-100-days-deadliest-outbreak-disease-communities-who",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"After 100 days of the deadliest Ebola outbreak, it can be stopped. Here’s how\""
+  },
+  {
+    "path": "/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ebola outbreak in DRC has peaked, say authorities, as infection rates slow\""
+  },
+  {
+    "path": "/science/2021/nov/18/mans-severe-migraines-completely-eliminated-on-plant-based-diet",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Man’s severe migraines ‘completely eliminated’ on plant-based diet\""
+  },
+  {
+    "path": "/lifeandstyle/2023/jul/15/scientists-find-vital-missing-ingredient-for-healthy-vegan-diet-algae",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Scientists find vital missing ingredient for healthy vegan diet – algae\""
+  },
+  {
+    "path": "/food/2019/jul/19/plant-based-milk-the-choice-for-almost-25-of-britons-now",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Plant-based milk the choice for almost 25% of Britons now\""
+  },
+  {
+    "path": "/business/2021/sep/17/britons-drink-plant-based-milk-demand",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"One in three Britons drink plant-based milk as demand soars\""
+  },
+  {
+    "path": "/theguardian/2013/oct/06/call-decent-jobs-across-world",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Call for decent jobs across the world\""
+  }
+]
