@@ -1,0 +1,261 @@
+[
+  {
+    "path": "/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"warn\": \"Mark Rowley wants England and Wales's 43 forces cut to as few as eight to 10, as a separate government review considers cutting England's 39 forces to as few as nine; Rowley will warn that public confidence is falling and crime detection rates have halved.\""
+  },
+  {
+    "path": "/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital",
+    "kind": "article",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"Specialist isolation care limits risk after UK doctor's Ebola evacuation\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/05/rise-of-the-rockstar-chef-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Rise of the Rockstar Chef review – Ramsay and Pierre White serve up the year's most sizzling TV\""
+  },
+  {
+    "path": "/business/2026/nov/06/luxury-australian-retailer-david-jones-collapse-administration",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"The 188-year-old department store abandoned its exclusive positioning to chase profits through expansion, and 6,000 staff across 38 stores now fear job cuts.\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/05/russell-brand-verdict-landmark-victory-consent",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"The Russell Brand verdict marks a landmark victory for the understanding of consent\""
+  },
+  {
+    "path": "/society/2026/nov/05/carers-deserve-a-new-fairer-social-contract",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Carers deserve a new, fairer social contract\""
+  },
+  {
+    "path": "/society/2026/nov/05/charity-shops-have-value-in-the-community",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Charity shops have value in the community\""
+  },
+  {
+    "path": "/food/2026/nov/05/give-us-this-day-our-wholemeal-bread",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Give us this day our wholemeal bread\""
+  },
+  {
+    "path": "/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'In moments of pain, football comes together': Spain says goodbye to Jesús de Miguel\""
+  },
+  {
+    "path": "/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Gavin Newsom commutes more than 500 death sentences in California\""
+  },
+  {
+    "path": "/uk-news/2026/nov/05/shabana-mahmood-accused-hardening-immigration-plans-200000-successful-asylum-applicants",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"Olivia Bailey wants children excluded from tougher trafficking tests and allowances made for domestic abuse victims, warning Mahmood's changes may otherwise harm women and children.\""
+  },
+  {
+    "path": "/music/2026/nov/05/full-of-life-and-catching-feelings-christine-and-the-queens-greatest-songs-ranked",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Full of life and catching feelings: Christine and the Queens' greatest songs – ranked\""
+  },
+  {
+    "path": "/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Why the weirdest game of 2026 is one of my favourites\""
+  },
+  {
+    "path": "/culture/2026/nov/02/tomb-raider-creators-lara-croft",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 15 words; keep it to 14 or fewer and move the detail to the trail: \"How Tomb Raider changed its creators' lives: 'skint staff were suddenly pulling up in sports cars'\""
+  },
+  {
+    "path": "/stage/2026/nov/04/emperor-nero-steven-sater-duncan-sheik-spring-awakening-jfk",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horrific\": \"It took the Tony winner 20 years to bring his 'showman' tyrant to London. He reflects on its Trumpian parallels, the death of Spring Awakening's Duncan Sheik, and the horrific accident that led him to ancient classics.\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"How sherry is becoming mixology's hottest ingredient, from spritzes to sours\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"A spotlight on sherry: Britain's long, storied history with the Spanish wine\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'We don't have penetration – but it's by far the best sex I've ever had'\""
+  },
+  {
+    "path": "/money/2026/nov/02/buying-smart-lock-uk-worth-it-affect-insurance",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"What to look for if you're buying a smart lock in the UK\""
+  },
+  {
+    "path": "/society/2026/nov/01/the-term-is-becoming-unrecognisable-have-the-experts-who-believed-in-a-single-autism-spectrum-changed-their-minds",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"surge\"); build it on the upside or score the story honestly and let the front drop it: \"What's behind the surge in autism diagnoses: greater understanding, or overdiagnosis?\""
+  },
+  {
+    "path": "/travel/2026/nov/04/calming-autumn-cabin-stay-in-north-norfolk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Overlooked only by trees': a calming autumn cabin stay in north Norfolk\""
+  },
+  {
+    "path": "/travel/2026/nov/03/perfect-weekend-darent-valley-kent-demi-paradise-great-pubs",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A perfect weekend in the Darent valley, Kent: a 'demi-paradise' of art, lavender fields and great pubs\""
+  },
+  {
+    "path": "/travel/2026/nov/01/its-snow-time-the-best-winter-activity-holidays-in-europe-for-non-skiers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"It's snow time: the best winter activity holidays in Europe for non-skiers\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/05/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-272",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Thursday news quiz: a captain's debut, a crypto snafu and some sausage dogs, too\""
+  },
+  {
+    "path": "/environment/2026/nov/04/country-diary-this-small-bridge-is-becoming-the-site-of-so-many-stories",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: this small bridge is becoming the site of so many stories\""
+  },
+  {
+    "path": "/world/2026/nov/05/tell-us-have-you-been-affected-by-the-bomb-threats-to-flights-in-europe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Tell us: were you affected by the bomb threats to flights in Europe?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/05/tell-us-how-are-you-celebrating-diwali-the-festival-of-lights",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: how are you celebrating Diwali, the festival of lights?\""
+  },
+  {
+    "path": "/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you a young person in northern England struggling to find work?\""
+  },
+  {
+    "path": "/society/2026/may/30/sexual-abuse-victims-children-jess-phillips-sentencing-guidelines",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"Former safeguarding minister Jess Phillips is calling for a review of sentencing guidelines, after raising fears that such crimes are being treated as 'content for an eyeball economy'.\""
+  },
+  {
+    "path": "/uk-news/2026/jun/24/police-officers-eight-minutes-henry-nowak-stabbed",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Evidence shows police officers took eight minutes to find Henry Nowak's stab wound\""
+  },
+  {
+    "path": "/world/2016/jun/02/flights-across-europe-cancelled-amid-french-strikes-labour-law",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"More than 100 flights across Europe cancelled amid French strikes\""
+  },
+  {
+    "path": "/uk-news/2016/nov/16/ad-for-new-met-chief-signals-start-of-race-to-find-hogan-howe-successor",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Metropolitan police chief job opens to foreign candidates for first time\""
+  },
+  {
+    "path": "/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"British healthcare worker with Ebola evacuated from DR Congo to UK\""
+  },
+  {
+    "path": "/global-development/2026/jun/26/whereabouts-of-nearly-300-people-with-ebola-unknown-in-drc",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"There are fears over 'huge community transmission' as modelling predicts thousands of deaths in DRC by September.\""
+  },
+  {
+    "path": "/world/2015/mar/27/british-military-nurse-infected-with-ebola-has-been-discharged-from-hospital",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"British military nurse successfully treated for Ebola\""
+  },
+  {
+    "path": "/us-news/2026/oct/10/donald-trump-oval-office-replica",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Replica of Trump's Oval Office goes for the gold in Washington DC\""
+  },
+  {
+    "path": "/us-news/2018/jan/14/donald-trump-haiti-shithole-miami-haitian-americans",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"The president called the country they came from a 'shithole' and removed protected status for some; there is fear, but also a shared determination to forgive and succeed.\""
+  }
+]
