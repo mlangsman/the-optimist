@@ -1,7 +1,7 @@
 {
   "/culture/2026/nov/06/russell-brand-trial-other-women": {
-    "headline": "Russell Brand awaits sentencing as police say more victims may come forward",
-    "trail": "The Met police chief declined to give a number but said many more women could come forward beyond the case that saw Brand convicted.",
+    "headline": "Russell Brand awaits sentencing following his conviction",
+    "trail": "Brand awaits sentencing after his conviction; the Met police chief says 'many more' of the at least 10 women he is suspected of having attacked could still come forward.",
     "progress": null,
     "upside": 1
   },
@@ -14,8 +14,8 @@
   "/uk-news/2026/nov/06/thomas-markle-arrested": {
     "headline": "Thomas Markle charged in Florida over child sexual abuse material",
     "trail": "The father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said.",
-    "progress": "US prosecutors say Markle was taken into custody near Tampa as the case against him proceeds.",
-    "upside": 1
+    "progress": null,
+    "upside": 0
   },
   "/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph": {
     "headline": "Global stocks fall amid 'big worries over AI'",
@@ -43,8 +43,8 @@
   },
   "/music/2026/nov/06/macklemore-arenas-free-palestine-tour": {
     "headline": "Macklemore says nine US arenas turned down his Free Palestine tour",
-    "trail": "The rapper called out 'intimidation, manipulation and suppression' in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy.",
-    "progress": "Macklemore says the arenas withdrew previously offered dates once they learned the shows were for Palestine.",
+    "trail": "The rapper called out 'intimidation, manipulation and suppression' in a social media post, saying major arenas refused to host him after the Ed Sheeran controversy.",
+    "progress": null,
     "upside": 1
   },
   "/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you": {
@@ -144,16 +144,16 @@
     "upside": 0
   },
   "/sport/2026/nov/06/hamilton-v-leclerc-how-can-ferrari-solve-problem-of-two-number-one-drivers": {
-    "headline": "Ferrari eye return to world championship mix next season",
-    "trail": "The Scuderia are hopeful of being in the title race, but risk puncturing their chances if they can't corral Hamilton and Leclerc in the cockpits.",
+    "headline": "Ferrari hopeful of being in the world championship mix next season",
+    "trail": "The Scuderia are hopeful of being in the title mix, but risk puncturing their chances if they can't corral Hamilton and Leclerc in the cockpits.",
     "progress": null,
     "upside": 1
   },
   "/sport/2026/nov/06/ecb-forecasting-losses-of-up-to-50m-in-2027-despite-visit-of-australia-for-the-ashes": {
-    "headline": "Australia's Ashes visit set to be highlight of ECB's year",
-    "trail": "The England and Wales Cricket Board is forecasting losses of up to £50m in 2027, with county executives told last week that the deficit could be that large, despite hosting Australia for the Ashes.",
+    "headline": "ECB forecasts up to £50m loss in 2027 despite hosting the Ashes",
+    "trail": "The England and Wales Cricket Board expects losses of up to £50m next year, with county executives warned of the deficit last week, even as it hosts Australia for the Ashes.",
     "progress": null,
-    "upside": 1
+    "upside": 0
   },
   "/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills": {
     "headline": "Charlton's struggles expose 'absolute ocean' between WSL and second tier",
@@ -162,13 +162,13 @@
     "upside": 0
   },
   "/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans": {
-    "headline": "After the midterms, the right must learn vigilance against the next Trumpism",
-    "trail": "Yes, the Republicans suffered humiliating defeat. But the fact that a Trump presidency was even possible means something like it could happen again, says Guardian columnist Jonathan Freedland.",
+    "headline": "The global right reels after a historic midterms defeat",
+    "trail": "Jonathan Freedland writes that Republicans suffered a humiliating defeat in the midterms, but warns that because a Trump presidency was once possible, something like it could happen again.",
     "progress": null,
     "upside": 2
   },
   "/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai": {
-    "headline": "Farage's Telegraph exit is cause for cheer — but journalism must resist the pull towards AI",
+    "headline": "Farage's Telegraph exit may be cause for cheer, but AI's rise in newsrooms should worry us more",
     "trail": "The clear-out at the newspaper seems driven less by politics than by a shift towards AI – and journalism will pay the price, says Guardian columnist Jane Martinson.",
     "progress": null,
     "upside": 1
@@ -192,8 +192,8 @@
     "upside": 2
   },
   "/commentisfree/2026/nov/06/anti-vaccine-unreason-nhs-staff-flu": {
-    "headline": "NHS must close the flu vaccine gap among its own staff",
-    "trail": "Raising flu vaccine uptake among health service workers, where it has fallen below half, would set an example the rest of us could follow, says Guardian columnist Polly Toynbee.",
+    "headline": "This is an age of anti-vaccine unreason – and even NHS staff are not immune",
+    "trail": "When fewer than half of health service workers have taken up the flu vaccine, there is little hope for the rest of us, says Guardian columnist Polly Toynbee.",
     "progress": null,
     "upside": 0
   },
@@ -216,10 +216,10 @@
     "upside": 2
   },
   "/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want": {
-    "headline": "Learning from Denmark on how we fund the society we want",
+    "headline": "Like the Danes, we need to pay for the society we want",
     "trail": "Letter: Karin Blak responds to an article about children's homes in crisis, and what can be learned from the Danish system.",
     "progress": null,
-    "upside": 1
+    "upside": 2
   },
   "/society/2026/nov/06/autism-masking-and-building-a-more-inclusive-world": {
     "headline": "Autism, masking, and building a more inclusive world",
@@ -240,8 +240,8 @@
     "upside": 0
   },
   "/politics/2026/nov/06/kemi-badenoch-slavery-comments-anger-black-voters-operation-black-vote": {
-    "headline": "Operation Black Vote chair holds Badenoch to account over slavery remarks",
-    "trail": "The Tory leader's claim that Britain should not apologise for slavery has caused 'profound anger' among black voters, and 'hurt and disbelief', the organisation's chair says.",
+    "headline": "Operation Black Vote chair speaks out over Badenoch's slavery remarks",
+    "trail": "Kemi Badenoch's claim that Britain should not apologise for slavery has caused 'profound anger' among black voters, and left 'hurt and disbelief', the Operation Black Vote chair says.",
     "progress": null,
     "upside": 1
   },
@@ -265,7 +265,7 @@
   },
   "/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll": {
     "headline": "Most Europeans back action on climate crisis, poll finds",
-    "trail": "A YouGov survey finds broad support for tree planting and emissions taxes, but opposition to new levies on air travel and fuel.",
+    "trail": "A YouGov survey finds broad support for tree planting and emissions taxes, but opposition to air travel and fuel levies.",
     "progress": null,
     "upside": 2
   },
@@ -277,7 +277,7 @@
   },
   "/environment/2026/nov/06/cop31-coal-turkey-fossil-fuel-reliance": {
     "headline": "Cop31 summit to focus on world's shift to clean electricity",
-    "trail": "The climate summit, opening next week in coal-reliant Turkey, will also expose contradictions in the world's fossil fuel reliance, and the outlook is not promising.",
+    "trail": "The shift to clean electricity will be the focus of next week's climate summit in coal-reliant Turkey, which will also expose contradictions in the world's fossil fuel reliance — and the outlook is not promising.",
     "progress": null,
     "upside": 1
   },
@@ -308,7 +308,7 @@
   "/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion": {
     "headline": "Ukraine war briefing: Xi-Trump-Putin meeting under discussion",
     "trail": "Beijing confirms a possible meeting of the three leaders, which Russia could use to nudge China and the US closer to its position. Day 1,718 of the war.",
-    "progress": "Beijing has confirmed a possible three-way summit is under discussion.",
+    "progress": null,
     "upside": 1
   },
   "/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us": {
@@ -318,8 +318,8 @@
     "upside": 0
   },
   "/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam": {
-    "headline": "Activists break into Microsoft datacentre building site in Amsterdam",
-    "trail": "Separate actions also took place outside the fence and across Europe, in a backlash against the impact of the AI boom.",
+    "headline": "Activists mobilise across Europe against the impact of the AI boom",
+    "trail": "Protesters broke into the building site of a Microsoft datacentre in Amsterdam, among separate actions outside the site and elsewhere in Europe.",
     "progress": null,
     "upside": 1
   },
@@ -336,9 +336,9 @@
     "upside": 1
   },
   "/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health": {
-    "headline": "EU takes action against TikTok over algorithm's harm to mental health",
-    "trail": "The regulator's initial ruling says TikTok's algorithm 'can be harmful' and has led young and vulnerable users 'down rabbit holes they can't easily escape'.",
-    "progress": "EU regulators have opened formal proceedings against TikTok over the design of its recommendation algorithm.",
+    "headline": "EU takes action against TikTok to protect young users",
+    "trail": "The regulator's initial ruling says TikTok's algorithm 'can be harmful' and risks leading young and vulnerable viewers 'down rabbit holes they can't easily escape'.",
+    "progress": null,
     "upside": 1
   },
   "/business/2026/nov/06/dream-ticket-super-rich-singapore-airlines-largest-double-bed": {
@@ -654,8 +654,8 @@
     "upside": 0
   },
   "/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist": {
-    "headline": "Russell Brand's conviction brings accountability after years hiding in plain sight",
-    "trail": "The former comedian long traded on his extreme persona, from Big Brother to Hollywood; many will now ask how he was allowed to act in plain sight for so long.",
+    "headline": "Russell Brand convicted of rape after rise from Big Brother to Hollywood stardom",
+    "trail": "The former comedian long traded on his extreme persona; many will wonder how he was allowed to act in plain sight for so long.",
     "progress": null,
     "upside": 1
   },
@@ -714,10 +714,10 @@
     "upside": 1
   },
   "/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project": {
-    "headline": "White House to appeal for green light on $400m ballroom",
-    "trail": "An appeals court has paused construction of Trump's $400m White House ballroom for two weeks, giving the administration time to take its case to the US supreme court.",
-    "progress": "The two-week pause gives the administration time to prepare an appeal to the US supreme court.",
-    "upside": 2
+    "headline": "Trump administration gets two weeks to appeal White House ballroom construction halt",
+    "trail": "An appeals court had ordered a halt to construction of Trump's $400m White House ballroom; the ruling itself has been put on hold for two weeks while the administration prepares its appeal to the US supreme court.",
+    "progress": null,
+    "upside": 1
   },
   "/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout": {
     "headline": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
@@ -750,9 +750,9 @@
     "upside": 1
   },
   "/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox": {
-    "headline": "Fergie Chambers applies for asylum in Spain as US seeks his extradition",
-    "trail": "His lawyer says US authorities seized the American heir's cellphone in violation of a treaty agreement, as Chambers, in prison in Spain, resists extradition over alleged Hamas support.",
-    "progress": "His lawyer says the cellphone seizure breached the treaty between the two countries.",
+    "headline": "Fergie Chambers applies for asylum in Spain",
+    "trail": "The American heir, in prison in Spain as the US seeks his extradition over alleged Hamas support, has applied for asylum; his lawyer says the seizure of his cellphone breached a treaty between the two countries.",
+    "progress": null,
     "upside": 1
   },
   "/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results": {
@@ -774,14 +774,14 @@
     "upside": 0
   },
   "/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall": {
-    "headline": "Gold hits fresh record amid market volatility",
-    "trail": "Fear of US recession rattles global markets as tech shares fall; Europe's main indices all decline and Japanese equities suffer their worst day since 2020.",
+    "headline": "US recession concerns push global markets lower",
+    "trail": "Tech shares fell as Europe's main indices declined and Japanese equities had their worst day since 2020, while gold hit a fresh record as investors sought safety.",
     "progress": null,
     "upside": 0
   },
   "/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears": {
-    "headline": "Global stock markets slide sharply on AI bubble worries",
-    "trail": "The drop across the US, Asia and Europe follows a warning from bank bosses that a market correction could lie ahead.",
+    "headline": "Global markets fall sharply after bank bosses flagged possible correction",
+    "trail": "The drop across the US, Asia and Europe follows bank bosses' earlier caution that a market correction could lie ahead, amid concern about an AI bubble.",
     "progress": null,
     "upside": 0
   },
@@ -858,9 +858,9 @@
     "upside": 0
   },
   "/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail": {
-    "headline": "Doreen Lawrence testifies against Daily Mail publisher, says she felt 'taken for a fool'",
-    "trail": "Lady Lawrence tells the high court she is 'a victim all over again' owing to alleged unlawful information gathering.",
-    "progress": "Lawrence has testified in court about the alleged conduct.",
+    "headline": "Doreen Lawrence confronts Daily Mail publisher in court over 'taken for a fool' claim",
+    "trail": "Lady Lawrence told the high court she felt 'a victim all over again' owing to alleged unlawful information gathering.",
+    "progress": null,
     "upside": 1
   },
   "/uk-news/2026/jul/29/prince-harry-and-co-claimants-face-huge-legal-bill-due-to-insurance-shortfall": {
@@ -894,10 +894,10 @@
     "upside": 0
   },
   "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone": {
-    "headline": "Bangkok submerged in waist-high flood water as rainstorms shift direction",
-    "trail": "The capital was declared a 'disaster zone', while elsewhere Hurricane Nolo threatens Hawaii's Big Island.",
+    "headline": "Bangkok declared a 'disaster zone' as authorities respond to severe flooding",
+    "trail": "The capital was submerged in waist-high flood water after rainstorms shifted direction; Hurricane Nolo also threatens Hawaii's Big Island.",
     "progress": null,
-    "upside": 0
+    "upside": 1
   },
   "/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs": {
     "headline": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
@@ -912,8 +912,8 @@
     "upside": 1
   },
   "/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment": {
-    "headline": "Sheeran breaks silence on Macklemore's tour removal amid backlash",
-    "trail": "The English singer sets out his reasoning, after US stadium owners refused to let the rapper perform following his 'Free Palestine' speech.",
+    "headline": "Ed Sheeran responds to backlash over Macklemore's tour removal",
+    "trail": "The singer outlined his position after US stadium owners refused to let the rapper perform following his 'Free Palestine' comments.",
     "progress": null,
     "upside": 1
   },
@@ -924,10 +924,10 @@
     "upside": 3
   },
   "/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas": {
-    "headline": "Sheeran's entire opening lineup quits tour in solidarity with Macklemore",
-    "trail": "Four opening acts and Sheeran's live band departed the tour after Macklemore's removal over his 'free Palestine' comments.",
+    "headline": "Solidarity with Macklemore spreads as Sheeran's entire opening lineup withdraws from tour",
+    "trail": "Four openers and the live band for Sheeran's tour departed after the removal of Macklemore over his 'free Palestine' comments.",
     "progress": null,
-    "upside": 2
+    "upside": 1
   },
   "/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour": {
     "headline": "Ed Sheeran returns to the stage as his tour resumes in Philadelphia",
@@ -942,9 +942,9 @@
     "upside": 3
   },
   "/technology/2023/oct/01/apple-says-software-bug-and-certain-apps-causing-iphone-15-overheating": {
-    "headline": "Apple to fix software bug behind iPhone overheating",
-    "trail": "The company says it will update iOS 17 to fix the bug and is working with developers of apps that overload handsets.",
-    "progress": "Apple says it will roll out a software update and is working with app developers to resolve the issue.",
+    "headline": "Apple to fix iPhone overheating bug with iOS 17 update",
+    "trail": "The company blames a software bug and certain apps for the overheating, and says it is working with the developers of those apps to resolve it.",
+    "progress": null,
     "upside": 2
   },
   "/technology/2021/nov/27/what-is-it-like-trying-to-fix-an-iphone-yourself": {

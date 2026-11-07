@@ -22,8 +22,12 @@
   {
     "path": "/uk-news/2026/nov/06/thomas-markle-arrested",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline ('Philippines inquiry led FBI to Florida arrest of Meghan's father') and the opening paragraphs assert the Philippines inquiry led directly to the Florida arrest; the original only supports that developments in the Philippines investigation prompted the FBI to look into the Los Angeles storage units — it never ties the Philippines inquiry to the specific Florida arrest, which instead followed simply from Markle living at a Polk county care facility.",
+      "Added sentence 'The FBI's violent crimes against children unit pursued the case after the bureau was alerted by developments in a Philippines investigation into Markle' is not supported by the original, which only says the (redacted) agent who signed the complaint is assigned to that unit — it never states that the unit itself 'pursued the case'.",
+      "The new lead sentence describes the seized images as showing Markle 'with underage girls', replacing the original's more specific and severe description of the storage-unit material ('sexually explicit photographs of himself with prepubescent girls') with a vaguer term at first mention; the original wording is preserved later in the body, but this first reference softens it."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -115,8 +119,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline ('Thomas Markle charged in Florida over child sexual abuse material') is a near word-for-word copy of the original ('Thomas Markle, Meghan's father, charged in Florida in connection to child sexual abuse material') and keeps the same subject and setback; the full article (reviewed separately) shows genuine response material — international law-enforcement cooperation, the prosecution itself — that was not drawn on here."
+      ]
     }
   },
   {
@@ -165,8 +171,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline is almost unchanged from the original (only 'that' is dropped) and keeps the arenas' rejection of the tour as its subject; the available 'speaking out' angle (Macklemore calling out 'intimidation, manipulation and suppression') was not used to lead instead."
+      ]
     }
   },
   {
@@ -345,8 +353,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline keeps the £50m loss as its main clause with hosting the Ashes demoted to a 'despite' clause — exactly the pattern the brief forbids ('the setback does not appear in the headline at all... not after despite'); hosting the Ashes is a genuine upside that should have led the headline instead, with the loss moved to the trail.",
+        "Essentially a cosmetic rewording of the original, which already had this same backwards structure (setback as subject, Ashes as the subordinate clause)."
+      ]
     }
   },
   {
@@ -362,8 +373,10 @@
   {
     "path": "/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline's 'historic midterms defeat' is not supported; the original characterises the defeat only as 'humiliating', never as 'historic'."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -372,11 +385,15 @@
   {
     "path": "/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline's second clause 'AI's rise in newsrooms should worry us more' asserts a comparative, normative claim ('worry us more [than the Farage news]') that is not in the original, which more neutrally calls it 'a sobering side to this story'."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Nearly a word-for-word copy of the original's two-part structure ('may be cause for cheer, but...'); rather than turning the writer's argument forward, it keeps the same shape and makes the warning more alarming ('should worry us more' vs 'a sobering side to this story'), leaving the reader feeling more worried, not less."
+      ]
     }
   },
   {
@@ -415,8 +432,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline and trail are completely unchanged from the original, including the explicitly despairing line 'there is little hope for the rest of us' — no rewrite has been applied at all, let alone one that leaves the reader feeling better about the world."
+      ]
     }
   },
   {
@@ -652,11 +671,15 @@
   {
     "path": "/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail changes 'led young and vulnerable viewers down rabbit holes they can't easily escape' (something the regulator's ruling says already happened) into 'risks leading young and vulnerable viewers down rabbit holes' (a mere possibility), turning an established finding into a hedge."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The same change minimises a real, already-identified harm: the regulator's finding that the algorithm did lead vulnerable viewers down rabbit holes is softened into a hypothetical risk in the trail."
+      ]
     }
   },
   {
@@ -1185,8 +1208,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline's main clause is now 'Russell Brand convicted of rape', with his earlier career reduced to a trailing 'after rise from...' clause — the reverse of the required structure, and more setback-forward than the original (which held 'convicted rapist' to the end of a list). No genuine upside exists in the headline/trail here to justify leading with his past fame instead of treating this plainly as a dark story with the setback stated calmly, not as the headline's lead verb."
+      ]
     }
   },
   {
@@ -1382,8 +1407,10 @@
   {
     "path": "/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail adds 'as investors sought safety' to explain gold's record high; the original states only that gold hit a fresh record, without attributing a reason."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1522,8 +1549,10 @@
   {
     "path": "/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline's 'confronts Daily Mail publisher in court' overstates the original's 'tells court she felt taken for a fool', which describes testimony, not a direct confrontation."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1582,8 +1611,11 @@
   {
     "path": "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail's 'submerged in waist-high flood water after rainstorms shifted direction' asserts that the shift in the rainstorms caused Bangkok's flooding; the original's 'as rainstorms shift direction' more plausibly describes a broader regional pattern (consistent with the same storms going on to threaten Hawaii) rather than stating that shift as the cause of Bangkok's specific flood.",
+      "Headline's 'authorities respond to severe flooding' generalises beyond the original, which states only that Bangkok was declared a 'disaster zone' — no other authority response is described in the given text."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1615,8 +1647,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline is almost identical to the original ('Ed Sheeran responds to backlash over Macklemore's tour removal' vs 'Ed Sheeran responds to backlash over removing Macklemore from tour after Free Palestine comments') and keeps 'backlash' as the subject; no alternative framing (e.g. Sheeran explaining or defending his position) was used to lead instead."
+      ]
     }
   },
   {
@@ -1632,8 +1666,10 @@
   {
     "path": "/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline's 'Solidarity with Macklemore spreads' implies an expanding, ongoing movement; the original and trail describe one discrete event (four openers and the live band departing), not a spreading phenomenon."
+    ],
     "tone": {
       "ok": true,
       "issues": []

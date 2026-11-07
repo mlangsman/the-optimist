@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T05:46:44.486Z",
+  "generatedAt": "2026-11-07T06:20:09.749Z",
   "engine": "claude-code",
   "front": [
     {
@@ -142,7 +142,7 @@
             "byline": "Owen Myers"
           },
           "kicker": "Music",
-          "trail": "The rapper called out 'intimidation, manipulation and suppression' in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy.",
+          "trail": "The rapper called out 'intimidation, manipulation and suppression' in a social media post, saying major arenas refused to host him after the Ed Sheeran controversy.",
           "progress": "Macklemore says he will keep organising Free Palestine shows with other artists after his sold-out European tour.",
           "upside": 2,
           "image": {
@@ -163,7 +163,7 @@
             "byline": "Vikram Dodd and Emine Sinmaz"
           },
           "kicker": "News",
-          "trail": "The Met police chief declined to give a number but said many more women could come forward beyond the case that saw Brand convicted.",
+          "trail": "Brand awaits sentencing after his conviction; the Met police chief says 'many more' of the at least 10 women he is suspected of having attacked could still come forward.",
           "progress": "Ministers say they will consider a legal duty requiring judges to challenge rape myths in court, following calls from the victims' commissioner.",
           "upside": 1,
           "image": {
@@ -192,27 +192,6 @@
             "alt": "Stephen Miller, in a grey suit and patterned tie, looks to the side with a slight smile"
           },
           "byline": "Smavid Dith in Washington"
-        },
-        {
-          "path": "/uk-news/2026/nov/06/thomas-markle-arrested",
-          "linked": true,
-          "headline": "International investigation leads FBI to arrest Meghan's father",
-          "original": {
-            "headline": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
-            "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-            "trail": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said",
-            "standfirst": "<p>Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said</p>",
-            "byline": "Richard Luscombe in Miami and agencies"
-          },
-          "kicker": "US news",
-          "trail": "The father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said.",
-          "progress": "The FBI's violent crimes against children unit, working with authorities in Mexico, the Philippines and the Marshall Islands, pursued the case that led to Markle's arrest.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Thomas Markle sitting on a white bench outside"
-          },
-          "byline": "Lichard Ruscombe in Miami and agencies"
         },
         {
           "path": "/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
@@ -654,7 +633,7 @@
         {
           "path": "/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans",
           "linked": false,
-          "headline": "After the midterms, the right must learn vigilance against the next Trumpism",
+          "headline": "After the midterms, the global right is reeling. But the danger of Trumpism will never be gone",
           "original": {
             "headline": "After the midterms, the global right is reeling. But the danger of Trumpism will never be gone",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans",
@@ -662,8 +641,7 @@
             "byline": "Jonathan Freedland"
           },
           "kicker": "Opinion",
-          "trail": "Yes, the Republicans suffered humiliating defeat. But the fact that a Trump presidency was even possible means something like it could happen again, says Guardian columnist Jonathan Freedland.",
-          "upside": 2,
+          "trail": "Yes, the Republicans suffered humiliating defeat. But the fact that a Trump presidency was even possible means something like it could happen again, says Guardian columnist Jonathan Freedland",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Jonathan-Freedland,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Jonathan Freedland"
@@ -673,7 +651,7 @@
         {
           "path": "/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
           "linked": false,
-          "headline": "Farage's Telegraph exit is cause for cheer — but journalism must resist the pull towards AI",
+          "headline": "Nigel Farage’s exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story ",
           "original": {
             "headline": "Nigel Farage’s exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story ",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
@@ -681,8 +659,7 @@
             "byline": "Jane Martinson"
           },
           "kicker": "Opinion",
-          "trail": "The clear-out at the newspaper seems driven less by politics than by a shift towards AI – and journalism will pay the price, says Guardian columnist Jane Martinson.",
-          "upside": 1,
+          "trail": "The clear-out at the newspaper seems driven less by politics than by a shift towards AI – and journalism will pay the price, says Guardian columnist Jane Martinson",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/06/Jane-Martinson,-L.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Jane Martinson"
@@ -798,6 +775,22 @@
           }
         },
         {
+          "path": "/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
+          "linked": false,
+          "headline": "Like the Danes, we need to pay for the society we want",
+          "original": {
+            "headline": "Like the Danes, we need to pay for the society we want",
+            "url": "https://www.theguardian.com/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
+            "trail": "Letter: Karin Blak responds to an article about children’s homes in crisis and what can be learned from the Danish system"
+          },
+          "kicker": "Society",
+          "trail": "Letter: Karin Blak responds to an article about children's homes in crisis, and what can be learned from the Danish system.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/a1b936496dc363a4b4b33756651215a981b08cdb/1309_1492_3878_3103/500.jpg"
+          }
+        },
+        {
           "path": "/society/2026/nov/06/autism-masking-and-building-a-more-inclusive-world",
           "linked": false,
           "headline": "Autism, masking, and building a more inclusive world",
@@ -828,22 +821,6 @@
           "image": {
             "src": "https://media.guim.co.uk/3a7f9d89e0728ebd1397470a65f1c3325d1ba33c/188_0_4641_3713/500.jpg"
           }
-        },
-        {
-          "path": "/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
-          "linked": false,
-          "headline": "Learning from Denmark on how we fund the society we want",
-          "original": {
-            "headline": "Like the Danes, we need to pay for the society we want",
-            "url": "https://www.theguardian.com/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
-            "trail": "Letter: Karin Blak responds to an article about children’s homes in crisis and what can be learned from the Danish system"
-          },
-          "kicker": "Society",
-          "trail": "Letter: Karin Blak responds to an article about children's homes in crisis, and what can be learned from the Danish system.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/a1b936496dc363a4b4b33756651215a981b08cdb/1309_1492_3878_3103/500.jpg"
-          }
         }
       ]
     },
@@ -862,7 +839,7 @@
             "byline": "Jon Henley Europe correspondent"
           },
           "kicker": "Environment",
-          "trail": "A YouGov survey finds broad support for tree planting and emissions taxes, but opposition to new levies on air travel and fuel.",
+          "trail": "A YouGov survey finds broad support for tree planting and emissions taxes, but opposition to air travel and fuel levies.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/be71ae395bd4e392d9a022f94aa37e4f2ac6e1d0/785_0_4124_3301/master/4124.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -881,7 +858,7 @@
             "byline": "Fiona Harvey"
           },
           "kicker": "Environment",
-          "trail": "The climate summit, opening next week in coal-reliant Turkey, will also expose contradictions in the world's fossil fuel reliance, and the outlook is not promising.",
+          "trail": "The shift to clean electricity will be the focus of next week's climate summit in coal-reliant Turkey, which will also expose contradictions in the world's fossil fuel reliance — and the outlook is not promising.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/19aacb55299de84295063e94a84a25513682f088/785_0_5840_4672/master/5840.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -970,7 +947,6 @@
           },
           "kicker": "World news",
           "trail": "Beijing confirms a possible meeting of the three leaders, which Russia could use to nudge China and the US closer to its position. Day 1,718 of the war.",
-          "progress": "Beijing has confirmed a possible three-way summit is under discussion.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/eefa44b6d1a8c7845f9c0bd685c18731ad826bb9/301_0_5833_4667/500.jpg"
@@ -980,7 +956,7 @@
         {
           "path": "/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
           "linked": false,
-          "headline": "Activists break into Microsoft datacentre building site in Amsterdam",
+          "headline": "Activists mobilise across Europe against the impact of the AI boom",
           "original": {
             "headline": "Activists break into building site of Microsoft datacentre in Amsterdam",
             "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
@@ -988,7 +964,7 @@
             "byline": "Ajit Niranjan"
           },
           "kicker": "World news",
-          "trail": "Separate actions also took place outside the fence and across Europe, in a backlash against the impact of the AI boom.",
+          "trail": "Protesters broke into the building site of a Microsoft datacentre in Amsterdam, among separate actions outside the site and elsewhere in Europe.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/500.jpg"
@@ -1059,7 +1035,7 @@
         {
           "path": "/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
           "linked": false,
-          "headline": "EU takes action against TikTok over algorithm's harm to mental health",
+          "headline": "EU charges TikTok with failing to protect users’ mental health",
           "original": {
             "headline": "EU charges TikTok with failing to protect users’ mental health",
             "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
@@ -1067,9 +1043,7 @@
             "byline": "Jennifer Rankin in Brussels"
           },
           "kicker": "Technology",
-          "trail": "The regulator's initial ruling says TikTok's algorithm 'can be harmful' and has led young and vulnerable users 'down rabbit holes they can't easily escape'.",
-          "progress": "EU regulators have opened formal proceedings against TikTok over the design of its recommendation algorithm.",
-          "upside": 1,
+          "trail": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’",
           "image": {
             "src": "https://media.guim.co.uk/73530bb71968af6a5b5d2dca4fd682c0f680fd80/0_253_3524_2819/500.jpg"
           },
@@ -2235,7 +2209,7 @@
             "byline": "Vikram Dodd and Emine Sinmaz"
           },
           "kicker": "News",
-          "trail": "The Met police chief declined to give a number but said many more women could come forward beyond the case that saw Brand convicted.",
+          "trail": "Brand awaits sentencing after his conviction; the Met police chief says 'many more' of the at least 10 women he is suspected of having attacked could still come forward.",
           "progress": "Ministers say they will consider a legal duty requiring judges to challenge rape myths in court, following calls from the victims' commissioner.",
           "upside": 1,
           "image": {
@@ -2336,28 +2310,6 @@
       "bodyHtml": "<p>Stephen Miller, <a href=\"https://www.theguardian.com/us-news/donaldtrump\" rel=\"noopener\">Donald Trump</a>’s most controversial aide and the architect of his sweeping immigration enforcement drive, will become his new White House chief of staff days after Republicans lost control of the US Congress in US midterm elections.</p> <p>The president announced the extraordinary appointment on Friday, confirming that <a href=\"https://www.theguardian.com/us-news/2025/dec/25/trump-chief-of-staff-susie-wiles\" rel=\"noopener\">Susie Wiles</a> – his current chief of staff, and the first woman to serve in the role – had been ousted.</p> <p>A growing chorus of Democrats condemned the appointment and said they were ready to fight it. Hakeem Jeffries, who is poised to become the first Black speaker of the House, posted: “Stephen Miller is a dangerous xenophobe and reckless extremist who has American blood on his hands. His presence in government should be eradicated like a malignant tumor. Fire him today.”</p> <p>Chuck Schumer, likely to be the next majority leader of the Senate, wrote: “Donald Trump learned nothing from his historic defeat. Stephen Miller is the architect of the most barbaric, inhumane policies of this administration. Trump couldn’t have made a worse choice. Our Democratic majorities will fight him every step of the way.”</p> <p>In a social media post, Trump called Miller, 41, “one of my most trusted advisors” and praised Wiles for doing “an outstanding job”. Miller will begin on Monday.</p> <p>Wiles, 69, reportedly handed in her resignation on Thursday night and said in a social media post that serving Trump “has been the honor of a lifetime”.</p> <p>Holding an umbrella, Trump emerged from the White House South Portico on Friday for a trip to Florida. “I wanted to make a change,” he said. “I think Susie’s done a very good job ... Stephen’s been great, and we’ve got to make moves.”</p> <p>“Stephen’s been with me from the beginning. He gets it,” the president said. “Very good politically and he’s a very good man. He’ll do a great job. Great manager.”</p>   <p>Trump then boarded the Marine One helicopter, followed by Miller, secretary of state Marco Rubio and close aide Natalie Harp.</p> <p>In a statement, Wiles added: “I’m so proud to have been a part of what we’ve accomplished together from securing our border and cutting taxes to strengthening our economy and putting America First.”</p> <p>She said her commitment to “the President and the mission” will not change.</p> <p>Miller posted on X that he was “honored beyond words” to serve as Trump’s chief of staff. He added: “The mission now is more clear than ever: Fight with all of our soul to support our President and defend this magnificent Republic.”</p> <p>Miller’s appointment is the first sign of a shake-up at the White House following Republicans’ catastrophic defeat in the midterms. His record as a far-right firebrand implies that Trump is preparing for an aggressive fight against congressional Democrats’ oversight and investigations.</p> <p>Chris Whipple, author of <a href=\"https://www.penguinrandomhouse.com/books/231946/the-gatekeepers-by-chris-whipple/\" rel=\"noopener\">The Gatekeepers: How the White House Chiefs of Staff Define Every Presidency</a>, told CNN: “It’s almost a declaration of war by Trump … He [Miller] only knows one gear and that’s full-throttle, full steam ahead over the cliff.”</p> <p>David Axelrod, a veteran Democratic strategist, <a href=\"https://x.com/davidaxelrod/status/2118783632806695282?a=u3euUdniUgm4XxQLJ-8&amp;s=20\" rel=\"noopener\">added on X</a>: “For those who hoped the @POTUS might pivot to work with the incoming Congress, the appointment of Miller is a bucket of ICE cold water.”</p> <p>Miller is one of the most polarising figures in the administration and one of Trump’s closest and longest-serving advisers, having joined his 2016 presidential campaign as a speechwriter. He is a former aide to the former senator Jeff Sessions of Alabama, who would go on to serve as Trump’s first attorney general.</p> <p>In Trump’s first term, Miller was the driving force behind policies such as family separation and a travel ban on Muslim-majority countries. More than a hundred Democrats in Congress <a href=\"https://beyer.house.gov/news/documentsingle.aspx?DocumentID=4645\" rel=\"noopener\">signed a letter</a> to Trump calling Miller a “documented white nationalist” and demanding his removal.</p> <p>A biography of Miller, written by journalist Jean Guerrero in 2020, was entitled Hatemonger.</p> <p>Miller has served as deputy chief of staff since Trump’s return to the presidency in January 2025. He had been hugely influential in hardline immigration policies and demanding an end to birthright citizenship. He is also one Trump’s most ardent, outspoken and pugnacious defenders.</p> <p>Appearing on Sean Hannity’s Fox News show on Monday, just before the midterms, Miller <a href=\"https://x.com/seanhannity/status/2117594782721884363/video/1?s=46\" rel=\"noopener\">said of the president</a>: “He saved America from a corrupt political class. He saved America from open borders. He saved America from countries that want the American way of life to end, from foreign adversaries, from domestic adversaries.”</p> <p>Miller added: “President Trump took a bullet for you, he bled for you, he faced life in prison for you. And what he needs from you tomorrow is your vote.”</p> <p>Wiles is the longest-serving White House chief of staff for Trump, who cycled through four of them during his first four-year term.</p> <p>Wiles led Trump’s 2024 presidential campaign to victory and was credited with bringing discipline to a chaotic effort and clamping down on leaks from his second administration.</p>   <p>The Florida operative generally shunned the limelight. At Trump’s 2024 election night victory party, she repeatedly shook her head and avoided the microphone as Trump tried to coax her to speak to the crowd.</p> <p>But Wiles made headlines last year when Vanity Fair magazine published a series of interviews with her and other top Trump administration officials. Her comments stood out for their candour, including her observation that Trump has an “alcoholic’s personality”.</p> <p>Her departure came months after she indicated she no longer showed evidence of breast cancer after she underwent months of treatment for the disease. She went public with the diagnosis in March.</p> <p>Critics said Miller’s appointment showed that Trump had learned the wrong lessons from Tuesday’s electoral reckoning.</p> <p>Becca Balint, a Democratic congresswoman from Vermont, posted on X: “On Tuesday, the American people rose up and overwhelmingly voted in opposition to the disgusting and inhumane policies of this second Trump administration. What does Trump do? He promotes Stephen Miller – the architect of some of this administration’s worst decisions. Sickening.”</p> <p>Anthony Scaramucci, who had a brief spell as White House communications director during Trump’s first term, <a href=\"https://x.com/Scaramucci/status/2118780611452383321?a=czsu4Y-Ht-oBHi2KDjM&amp;s=20\" rel=\"noopener\">tweeted</a>: “Trump saw the midterm results and decided elevating Stephen Miller is the answer. 🤣 He is even more delusional than I thought. Or maybe he actually wants to finish destroying the @GOP? 🤔”</p>",
       "related": [
         {
-          "path": "/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
-          "linked": false,
-          "headline": "White House to appeal for green light on $400m ballroom",
-          "original": {
-            "headline": "Appeals court halts construction of Trump’s $400m White House ballroom",
-            "url": "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
-            "trail": "Ruling put on hold for two weeks, allowing administration to appeal to US supreme court",
-            "byline": "Robert Tait in Washington"
-          },
-          "kicker": "US news",
-          "trail": "An appeals court has paused construction of Trump's $400m White House ballroom for two weeks, giving the administration time to take its case to the US supreme court.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/b858fada141d797b8df41d066acebd3c78d57fd1/0_0_5500_3668/1000.jpg",
-            "alt": "a man speaks next to a construction site",
-            "credit": "Photograph: Kevin Lamarque/Reuters",
-            "width": 1000,
-            "height": 667
-          },
-          "byline": "Tobert Rait in Washington"
-        },
-        {
           "path": "/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
           "linked": false,
           "headline": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
@@ -2400,6 +2352,28 @@
             "height": 800
           },
           "byline": "Moral Curphy Marcosand Robert Tait"
+        },
+        {
+          "path": "/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
+          "linked": false,
+          "headline": "Trump administration gets two weeks to appeal White House ballroom construction halt",
+          "original": {
+            "headline": "Appeals court halts construction of Trump’s $400m White House ballroom",
+            "url": "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
+            "trail": "Ruling put on hold for two weeks, allowing administration to appeal to US supreme court",
+            "byline": "Robert Tait in Washington"
+          },
+          "kicker": "US news",
+          "trail": "An appeals court had ordered a halt to construction of Trump's $400m White House ballroom; the ruling itself has been put on hold for two weeks while the administration prepares its appeal to the US supreme court.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/b858fada141d797b8df41d066acebd3c78d57fd1/0_0_5500_3668/1000.jpg",
+            "alt": "a man speaks next to a construction site",
+            "credit": "Photograph: Kevin Lamarque/Reuters",
+            "width": 1000,
+            "height": 667
+          },
+          "byline": "Tobert Rait in Washington"
         },
         {
           "path": "/us-news/2026/aug/14/trump-ballroom-supreme-court",
@@ -2452,8 +2426,8 @@
         "name": "US news"
       },
       "publishedAt": "2026-11-06T22:09:01Z",
-      "headline": "International investigation leads FBI to arrest Meghan's father",
-      "bodyHtml": "<p>Thomas Markle, the father of <a href=\"https://www.theguardian.com/uk-news/meghan-duchess-of-sussex\" rel=\"noopener\">Meghan, the Duchess of Sussex</a>, was arrested by US federal agents in <a href=\"https://www.theguardian.com/us-news/florida\" rel=\"noopener\">Florida</a> on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI), following an investigation that drew on authorities in Mexico, the Philippines and the Marshall Islands.</p> <p>The director of the <a href=\"https://www.theguardian.com/us-news/fbi\" rel=\"noopener\">FBI</a>, Kash Patel, said: “Mr Markle allegedly targeted innocent children and sought to steal their innocence through his criminal actions. This FBI will use every single resource at our disposal to protect innocent kids – any predator who targets children will have zero safe haven in this country or anywhere they try to hide.”</p> <p>Patel thanked FBI agents in Los Angeles and Tampa, and authorities in Mexico, the Philippines, and Marshall Islands that he said were involved in the investigation.</p> <p>“Mr Markle is accused of possessing child sexual abuse material, including photographs depicting himself with minor girls,” Bill Essayli, first assistant US attorney for the central district of California, said in a statement released by the US department of justice.</p> <p>“These allegations are extremely serious, and we will prosecute Mr Markle to the fullest extent of federal law.”</p> <p>Markle, 82, was taken into custody at a senior care facility in Polk county early on Friday, and made a brief initial appearance in federal court in Tampa on Friday afternoon, the Associated Press reported. He was later released with the condition that he be electronically monitored.</p> <p>A 14-page federal criminal complaint says that agents seized approximately 78 items and alleges that Markle kept child sexual abuse material, including sexually explicit photographs of himself with prepubescent girls, in two Los Angeles-area storage units that he rented for nearly two decades.</p> <p>An affidavit filed with the complaint that led to the arrest stated that two of the images inside the units showed a man identified by a witness as Markle with a nude underage girl.</p>    <p>The document, filed in federal court in California, said the recovered material included dozens of slides, photographs, film negatives and books containing the illegal material. It said the FBI was still reviewing the material.</p> <p>Some details in the criminal complaint are redacted, such as the name of the federal agent who signed the complaint, who states that they are assigned to the violent crimes against children unit in the LA office of the FBI. The case is presented as United States of America v Thomas Wayne Markle.</p> <p>Essayli told the <a href=\"https://apnews.com/article/meghan-markle-father-abuse-allegations-0bf10d1c7d915b82048c04bd9cca9fc5\" rel=\"noopener\">Associated Press</a> that there was no evidence of victims in the US, based on the seized material, but that the investigation was ongoing. He said his office was aware of public reporting that Markle might have dementia.</p> <p>Markle is charged with one count of possession of child sexual abuse material, and faces up to 20 years in federal prison if convicted.</p> <p>Efforts by the AP to reach Markle’s court-appointed lawyer for comment were unsuccessful, the news agency said.</p> <p>According to the justice department statement, FBI agents interviewed a person last month who was aware that Markle was renting the two storage units in California after the bureau became aware of developments in the Philippines.</p> <p>Markle rented the units since 2008, it said, with his most recent payments on both made last month by auto-pay.</p> <p>Authorities in the Philippines, where Markle had previously lived for some time, began investigating him last month over allegations he possessed child sexual abuse images. British police last month said they would refer allegations about him to overseas law enforcement agencies after finding that claims had not been passed to other authorities when they were first received.</p> <p>Meghan, the wife of Prince Harry, said last month that she was <a href=\"https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father\" rel=\"noopener\">“deeply distressed”</a> about allegations that a collection of child sexual abuse images was found at her father’s former home in the Philippines.</p> <p>The duchess also revealed that a letter containing “troubling allegations” about her father was sent to police in London in 2018.</p> <p>She had issued a statement after the Sun newspaper published claims that her half-brother, Thomas Markle Jr, alleged he had found a stash of images belonging to their father at his Philippines residence. He <a href=\"https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry\" rel=\"noopener\">was named</a> as a person of interest in the case earlier this week.</p> <p>Photographs produced by the Daily Mail showed Thomas Markle Sr being taken away in a wheelchair, in handcuffs, wearing a black T-shirt and surrounded by agents wearing jackets marked “FBI”. The UK tabloid asked Markle if he was a pedophile and he replied: “No.” Markle did not answer when the newspaper asked if he had ever collected child sexual abuse material.</p> <p>A spokesperson for the duchess did not immediately respond to a request for comment.</p> <p>He has denied the accusations, telling the Daily Mail they were untrue and “sick lies”.</p> <p>Markle is a retired television lighting and photography director and he did not attend the 2018 wedding of Harry and Meghan, amid acrimony and estrangement between father and daughter. Meghan has since said she decided to distance herself from him to protect her children.</p> <p>The duke and duchess returned <a href=\"https://www.theguardian.com/uk-news/2026/aug/19/prince-harry-and-meghan-moving-back-to-britain-this-month\" rel=\"noopener\">to live in Britain</a> in the summer after six years in the US.</p> <p><em>The Associated Press and Reuters contributed </em><em>reporting</em></p> <ul> <li><p><em>In the US, call or text the <a href=\"https://www.childhelp.org/hotline/\" rel=\"noopener\">Childhelp</a> abuse hotline on 800-422-4453 or visit <a href=\"https://www.childhelphotline.org/\" rel=\"noopener\">their website</a> for more resources and to report child abuse or DM for help. For adult survivors of child abuse, help is available at <a href=\"https://www.ascasupport.org/\" rel=\"noopener\">ascasupport.org</a>. In the UK, the <a href=\"https://www.nspcc.org.uk/\" rel=\"noopener\">NSPCC</a> offers support to children on 0800 1111, and adults concerned about a child on 0808 800 5000. The National Association for People Abused in Childhood (<a href=\"https://napac.org.uk/\" rel=\"noopener\">Napac</a>) offers support for adult survivors on 0808 801 0331. In Australia, children, young adults, parents and teachers can contact the Kids Helpline on 1800 55 1800, or <a href=\"https://bravehearts.org.au/\" rel=\"noopener\">Bravehearts</a> on 1800 272 831, and adult survivors can contact <a href=\"https://www.blueknot.org.au/\" rel=\"noopener\">Blue Knot Foundation</a> on 1300 657 380. Other sources of help can be found at <a href=\"https://www.childhelplineinternational.org/child-helplines/child-helpline-network/\" rel=\"noopener\">Child Helplines International</a></em></p></li> </ul>",
+      "headline": "Thomas Markle charged in Florida over child sexual abuse material",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
@@ -2542,7 +2516,7 @@
         {
           "path": "/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
           "linked": false,
-          "headline": "Fergie Chambers applies for asylum in Spain as US seeks his extradition",
+          "headline": "Fergie Chambers applies for asylum in Spain",
           "original": {
             "headline": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
             "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
@@ -2550,7 +2524,7 @@
             "byline": "Timothy Pratt"
           },
           "kicker": "US news",
-          "trail": "His lawyer says US authorities seized the American heir's cellphone in violation of a treaty agreement, as Chambers, in prison in Spain, resists extradition over alleged Hamas support.",
+          "trail": "The American heir, in prison in Spain as the US seeks his extradition over alleged Hamas support, has applied for asylum; his lawyer says the seizure of his cellphone breached a treaty between the two countries.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/5ee6419d2d9d2c9c71788b9331a935f477223ac7/347_0_4680_3744/1000.jpg",
@@ -2580,7 +2554,7 @@
           "byline": "Hedward Elmore"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
         "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
@@ -2588,9 +2562,7 @@
         "standfirst": "<p>Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said</p>",
         "byline": "Richard Luscombe in Miami and agencies"
       },
-      "standfirst": "FBI agents arrested Thomas Markle, the father of the Duchess of Sussex, in Florida following a multi-country investigation, and charged him with possessing child sexual abuse material, including images of himself with underage girls.",
-      "progress": "The FBI's violent crimes against children unit, working with authorities in Mexico, the Philippines and the Marshall Islands, pursued the case that led to Markle's arrest.",
-      "upside": 1,
+      "standfirst": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said",
       "byline": "Lichard Ruscombe in Miami and agencies",
       "mainImage": {
         "src": "https://media.guim.co.uk/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/1000.jpg",
@@ -2632,6 +2604,27 @@
             "height": 800
           },
           "byline": "Poanna Jartridge"
+        },
+        {
+          "path": "/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall",
+          "linked": false,
+          "headline": "Fear of US recession rattles global markets as tech shares fall",
+          "original": {
+            "headline": "Fear of US recession rattles global markets as tech shares fall",
+            "url": "https://www.theguardian.com/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall",
+            "trail": "Europe’s main indices all decline and Japanese equities suffer worst day since 2020 while gold hits fresh record",
+            "byline": "Graeme Wearden and Jasper Jolly"
+          },
+          "kicker": "Business",
+          "trail": "Europe’s main indices all decline and Japanese equities suffer worst day since 2020 while gold hits fresh record",
+          "image": {
+            "src": "https://media.guim.co.uk/10422e904782640d65fd9b9553db106d8f22c12c/2496_893_3468_2082/1000.jpg",
+            "alt": "A trader works on the floor of the New York stock exchange",
+            "credit": "Photograph: Michael M Santiago/Getty Images",
+            "width": 1000,
+            "height": 600
+          },
+          "byline": "Waeme Grearden and Jasmine Ellery"
         }
       ],
       "status": "rewritten",
@@ -2854,7 +2847,7 @@
         {
           "path": "/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail",
           "linked": false,
-          "headline": "Doreen Lawrence testifies against Daily Mail publisher, says she felt 'taken for a fool'",
+          "headline": "Doreen Lawrence tells court she felt ‘taken for a fool’ by Daily Mail publisher",
           "original": {
             "headline": "Doreen Lawrence tells court she felt ‘taken for a fool’ by Daily Mail publisher",
             "url": "https://www.theguardian.com/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail",
@@ -2862,8 +2855,7 @@
             "byline": "Michael Savage Media editor"
           },
           "kicker": "Media",
-          "trail": "Lady Lawrence tells the high court she is 'a victim all over again' owing to alleged unlawful information gathering.",
-          "upside": 1,
+          "trail": "Lady Lawrence tells high court she is ‘a victim all over again’ owing to alleged unlawful information gathering",
           "image": {
             "src": "https://media.guim.co.uk/1e11ef482ed2f1c2e4c9d1b978e5405f2b9fd37a/284_50_2352_1881/1000.jpg",
             "alt": "Doreen Lawrence wearing a blue velvet hat and a dark blue coat",
@@ -3014,6 +3006,27 @@
             "height": 600
           },
           "byline": "Bartin Melam"
+        },
+        {
+          "path": "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+          "linked": false,
+          "headline": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
+          "original": {
+            "headline": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
+            "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+            "trail": "Capital city submerged in waist-high flood water, while elsewhere Hurricane Nolo threatens Hawaii’s Big Island",
+            "byline": "James Parrish for MetDesk"
+          },
+          "kicker": "Environment",
+          "trail": "Capital city submerged in waist-high flood water, while elsewhere Hurricane Nolo threatens Hawaii’s Big Island",
+          "image": {
+            "src": "https://media.guim.co.uk/dcc2852e98a9bd1af71d8b7a03431f29f3cd6573/484_0_4169_3335/1000.jpg",
+            "alt": "people shopping in a flooded market are reflected in the flood water",
+            "credit": "Photograph: Athit Perawongmetha/Reuters",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Pames Jarrish for MetDesk"
         }
       ],
       "status": "rewritten",
@@ -3091,28 +3104,6 @@
           "byline": "Snaura Lapes"
         },
         {
-          "path": "/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
-          "linked": false,
-          "headline": "Sheeran's entire opening lineup quits tour in solidarity with Macklemore",
-          "original": {
-            "headline": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
-            "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
-            "trail": "Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments",
-            "byline": "Adrian Horton"
-          },
-          "kicker": "Music",
-          "trail": "Four opening acts and Sheeran's live band departed the tour after Macklemore's removal over his 'free Palestine' comments.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/b2a9ac3ba6aa816361c81ab65c5394d47c32279e/216_83_4034_3226/1000.jpg",
-            "alt": "Ed Sheeran sings into a microphone while playing acoustic guitar onstage",
-            "credit": "Photograph: Kevin Mazur/Kevin MazurGetty Images for iHeartRadio",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Hadrian Orton"
-        },
-        {
           "path": "/music/2026/sep/14/macklemore-dropped-ed-sheeran-tour-free-palestine",
           "linked": false,
           "headline": "Macklemore dropped from Ed Sheeran's US tour after 'free Palestine' speech",
@@ -3137,7 +3128,7 @@
         {
           "path": "/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
           "linked": false,
-          "headline": "Sheeran breaks silence on Macklemore's tour removal amid backlash",
+          "headline": "Ed Sheeran responds to backlash over Macklemore's tour removal",
           "original": {
             "headline": "Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments",
             "url": "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
@@ -3145,12 +3136,33 @@
             "byline": "Adrian Horton"
           },
           "kicker": "Music",
-          "trail": "The English singer sets out his reasoning, after US stadium owners refused to let the rapper perform following his 'Free Palestine' speech.",
+          "trail": "The singer outlined his position after US stadium owners refused to let the rapper perform following his 'Free Palestine' comments.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/9c314503d314b31cc885a246c27dcb225e19ef86/543_0_5429_4345/1000.jpg",
             "alt": "A man with a guitar sings on stage.",
             "credit": "Photograph: Mark Surridge/Frontier Touring",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Hadrian Orton"
+        },
+        {
+          "path": "/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
+          "linked": false,
+          "headline": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
+          "original": {
+            "headline": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
+            "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
+            "trail": "Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments",
+            "byline": "Adrian Horton"
+          },
+          "kicker": "Music",
+          "trail": "Four openers and live band for Sheeran’s tour depart after removal of Macklemore over ‘free Palestine’ comments",
+          "image": {
+            "src": "https://media.guim.co.uk/b2a9ac3ba6aa816361c81ab65c5394d47c32279e/216_83_4034_3226/1000.jpg",
+            "alt": "Ed Sheeran sings into a microphone while playing acoustic guitar onstage",
+            "credit": "Photograph: Kevin Mazur/Kevin MazurGetty Images for iHeartRadio",
             "width": 1000,
             "height": 800
           },
@@ -3235,7 +3247,7 @@
         {
           "path": "/technology/2023/oct/01/apple-says-software-bug-and-certain-apps-causing-iphone-15-overheating",
           "linked": false,
-          "headline": "Apple to fix software bug behind iPhone overheating",
+          "headline": "Apple to fix iPhone overheating bug with iOS 17 update",
           "original": {
             "headline": "Apple says software bug and certain apps causing iPhone overheating",
             "url": "https://www.theguardian.com/technology/2023/oct/01/apple-says-software-bug-and-certain-apps-causing-iphone-15-overheating",
@@ -3243,7 +3255,7 @@
             "byline": "Dan Milmo Global technology editor"
           },
           "kicker": "Technology",
-          "trail": "The company says it will update iOS 17 to fix the bug and is working with developers of apps that overload handsets.",
+          "trail": "The company blames a software bug and certain apps for the overheating, and says it is working with the developers of those apps to resolve it.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/a38da7f7d13f0e5b54bcb5b8541a846c4b37cdf9/0_236_5000_3002/1000.jpg",
