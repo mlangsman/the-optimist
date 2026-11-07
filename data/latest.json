@@ -1,6 +1,6 @@
 {
   "date": "2026-11-07",
-  "generatedAt": "2026-11-07T05:01:56.302Z",
+  "generatedAt": "2026-11-07T05:46:44.486Z",
   "engine": "claude-code",
   "front": [
     {
@@ -48,7 +48,7 @@
         {
           "path": "/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
           "linked": false,
-          "headline": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight",
+          "headline": "Russell Brand has faced justice. Now comedy must root out its hidden abusers",
           "original": {
             "headline": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
@@ -92,7 +92,7 @@
         {
           "path": "/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
           "linked": true,
-          "headline": "Strong US jobs growth steadies markets as tech shares rebound",
+          "headline": "Strong US jobs growth lifts Wall Street as tech shares rebound",
           "original": {
             "headline": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
             "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
@@ -163,7 +163,7 @@
             "byline": "Vikram Dodd and Emine Sinmaz"
           },
           "kicker": "News",
-          "trail": "Suspected to have attacked at least 10 other women, Russell Brand awaits sentencing as the Met says 'many more' could still come forward.",
+          "trail": "The Met police chief declined to give a number but said many more women could come forward beyond the case that saw Brand convicted.",
           "progress": "Ministers say they will consider a legal duty requiring judges to challenge rape myths in court, following calls from the victims' commissioner.",
           "upside": 1,
           "image": {
@@ -206,7 +206,7 @@
           },
           "kicker": "US news",
           "trail": "The father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said.",
-          "progress": "The FBI's child exploitation unit, working with authorities in Mexico, the Philippines and the Marshall Islands, pursued the case that led to Markle's arrest.",
+          "progress": "The FBI's violent crimes against children unit, working with authorities in Mexico, the Philippines and the Marshall Islands, pursued the case that led to Markle's arrest.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -217,7 +217,7 @@
         {
           "path": "/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
           "linked": true,
-          "headline": "Fifth death in Waterford family confirmed as boy, six, dies after suspected arson",
+          "headline": "Two charged and remanded in custody over Waterford fire investigation",
           "original": {
             "headline": "Boy, six, becomes fifth member of family to die after suspected arson in Ireland",
             "url": "https://www.theguardian.com/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
@@ -227,7 +227,7 @@
           },
           "kicker": "World news",
           "trail": "Elliot English died on Friday from injuries sustained in a fire in Waterford city that also claimed the lives of his parents.",
-          "progress": "Gardaí have arrested six people and charged two, a man and a woman, with criminal damage and assault causing serious harm in connection with the fire.",
+          "progress": "Jessica Dalton and Cian Stacey have been charged with criminal damage and assault causing serious harm, due in court on 17 November.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/cdd12751f8fd78a1a12f2a4408dde269fe8446f1/783_0_3606_2885/master/3606.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -314,7 +314,6 @@
           },
           "kicker": "World news",
           "trail": "Older voters are praised for helping tip the balance in the leftwing president's favour against far-right Flávio Bolsonaro in the runoff.",
-          "progress": "Older voters mobilised in large numbers to help secure Lula's win.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/3cd6d6a16bb0a7da4fb2d4d6f915b10c33ac5788/0_0_3500_2800/500.jpg"
@@ -403,7 +402,7 @@
         {
           "path": "/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity",
           "linked": false,
-          "headline": "'He's manipulating its power': why did Russell Brand convert to Christianity?",
+          "headline": "Russell Brand's conversion to Christianity reveals how faith became a culture war frontier",
           "original": {
             "headline": "‘He’s manipulating its power’: why did Russell Brand convert to Christianity?",
             "url": "https://www.theguardian.com/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity",
@@ -411,7 +410,7 @@
             "byline": "Chris Osuh and Aamna Mohdin"
           },
           "kicker": "News",
-          "trail": "Sincere or self-serving, the disgraced comedian's case shows how the church became a culture war frontier.",
+          "trail": "Sincere or self-serving, the disgraced comedian's case — in which he is accused of 'manipulating its power' — shows how the church became a culture war frontier.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/8b70f213ceb4c5a7218953f3635bb43459166ed3/0_0_5000_4000/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -430,7 +429,7 @@
             "byline": "Chris Osuh, Aamna Mohdin and Diane Taylor"
           },
           "kicker": "UK news",
-          "trail": "Some relatives of British citizens say they feel left behind, but the announcement has brought relief to many care workers.",
+          "trail": "The announcement has brought relief to many care workers, though some relatives of British citizens say they feel left behind.",
           "progress": "The shake-up has already brought relief to care workers affected by the previous rules.",
           "upside": 2,
           "image": {
@@ -601,8 +600,7 @@
             "byline": "Robert Kitson"
           },
           "kicker": "Sport",
-          "trail": "Injuries have mounted and Steve Borthwick faces scrutiny, but England need only focus on what they can control as the tournament begins.",
-          "progress": "England are focusing on executing their gameplan against a battle-hardened Australia side.",
+          "trail": "England need to stop looking for excuses and focus on what they can control, as Steve Borthwick's side battle injuries and scrutiny heading into the tournament.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/23ef141611c34bb6d9f3da43304bfe1bcc3cdd70/0_0_2500_2000/master/2500.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -613,7 +611,7 @@
         {
           "path": "/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
           "linked": false,
-          "headline": "'Clicky Ponting' cheating cricketer banned and club relegated",
+          "headline": "Cricket body bans 'Clicky Ponting' cheat for two years, relegates his club",
           "original": {
             "headline": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
             "url": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
@@ -621,38 +619,12 @@
             "byline": "Ali Martin"
           },
           "kicker": "Sport",
-          "trail": "Brian Devine, the grassroots cricketer at the heart of a clicking scandal to trick the umpire, has been banned for two years.",
-          "progress": "The cricketer has been banned for two years and his club relegated after the scandal was uncovered.",
+          "trail": "Brian Devine, the grassroots cricketer caught clicking to trick the umpire, receives a two-year ban as his club is also relegated.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2026/07/28/Cricket_player_seems_to_show_fielder_tricking_umpire_by_clicking_to_imitate_edges--30e617d4-d4fd-40d8-806a-d7b6a53a94a3-2.0.0000000.jpg?width=620&dpr=1&s=none&crop=5%3A4"
           },
           "byline": "Mali Artin"
-        }
-      ]
-    },
-    {
-      "id": "more-sport",
-      "title": "More sport",
-      "cards": [
-        {
-          "path": "/sport/2026/nov/06/hamilton-v-leclerc-how-can-ferrari-solve-problem-of-two-number-one-drivers",
-          "linked": false,
-          "headline": "Hamilton v Leclerc: how can Ferrari solve the problem of two number one drivers?",
-          "original": {
-            "headline": "Hamilton v Leclerc: how can Ferrari solve problem of two number one drivers?",
-            "url": "https://www.theguardian.com/sport/2026/nov/06/hamilton-v-leclerc-how-can-ferrari-solve-problem-of-two-number-one-drivers",
-            "trail": "The Scuderia are hopeful of being in the world championship mix next season but risk puncturing their chances if they can’t corral their men in the cockpits",
-            "byline": "Giles Richards"
-          },
-          "kicker": "Sport",
-          "trail": "The Scuderia are hopeful of being in the world championship mix next season but risk puncturing their chances if they can't corral their men in the cockpits.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/4449aa59d8710e6e1c7054dd8d9513c7dbec786d/363_288_3910_3127/master/3910.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Charles Leclerc and Lewis Hamilton"
-          },
-          "byline": "Riles Gichards"
         }
       ]
     },
@@ -663,7 +635,7 @@
         {
           "path": "/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
           "linked": false,
-          "headline": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight",
+          "headline": "Russell Brand has faced justice. Now comedy must root out its hidden abusers",
           "original": {
             "headline": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
@@ -682,7 +654,7 @@
         {
           "path": "/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans",
           "linked": false,
-          "headline": "The global right is reeling after the midterms. But the danger of Trumpism will never be gone",
+          "headline": "After the midterms, the right must learn vigilance against the next Trumpism",
           "original": {
             "headline": "After the midterms, the global right is reeling. But the danger of Trumpism will never be gone",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans",
@@ -701,7 +673,7 @@
         {
           "path": "/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
           "linked": false,
-          "headline": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there's a sobering side to this story",
+          "headline": "Farage's Telegraph exit is cause for cheer — but journalism must resist the pull towards AI",
           "original": {
             "headline": "Nigel Farage’s exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story ",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
@@ -867,7 +839,7 @@
             "trail": "Letter: Karin Blak responds to an article about children’s homes in crisis and what can be learned from the Danish system"
           },
           "kicker": "Society",
-          "trail": "Letter: Karin Blak responds to an article about the troubled state of children's homes, and what can be learned from the Danish system.",
+          "trail": "Letter: Karin Blak responds to an article about children's homes in crisis, and what can be learned from the Danish system.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/a1b936496dc363a4b4b33756651215a981b08cdb/1309_1492_3878_3103/500.jpg"
@@ -890,7 +862,7 @@
             "byline": "Jon Henley Europe correspondent"
           },
           "kicker": "Environment",
-          "trail": "A YouGov survey finds broad support for tree planting and emissions taxes, though less backing for new levies on air travel and fuel.",
+          "trail": "A YouGov survey finds broad support for tree planting and emissions taxes, but opposition to new levies on air travel and fuel.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/be71ae395bd4e392d9a022f94aa37e4f2ac6e1d0/785_0_4124_3301/master/4124.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -910,7 +882,6 @@
           },
           "kicker": "Environment",
           "trail": "The climate summit, opening next week in coal-reliant Turkey, will also expose contradictions in the world's fossil fuel reliance, and the outlook is not promising.",
-          "progress": "World leaders are gathering at Cop31 to discuss the move to clean electricity.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/19aacb55299de84295063e94a84a25513682f088/785_0_5840_4672/master/5840.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -936,7 +907,6 @@
           },
           "kicker": "Law",
           "trail": "Workers' rights campaigners say the measure will help young people and women in particular achieve more equal pay.",
-          "progress": "The government is legislating to require salary ranges on job adverts.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7be38b4c9d96e2e92e9362d0d1df716fa0472332/634_0_4426_3543/master/4426.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1000,7 +970,7 @@
           },
           "kicker": "World news",
           "trail": "Beijing confirms a possible meeting of the three leaders, which Russia could use to nudge China and the US closer to its position. Day 1,718 of the war.",
-          "progress": "Diplomats from Beijing, Washington and Moscow are discussing a possible three-way summit.",
+          "progress": "Beijing has confirmed a possible three-way summit is under discussion.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/eefa44b6d1a8c7845f9c0bd685c18731ad826bb9/301_0_5833_4667/500.jpg"
@@ -1010,7 +980,7 @@
         {
           "path": "/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
           "linked": false,
-          "headline": "Activists target Microsoft datacentre building site in Amsterdam protest",
+          "headline": "Activists break into Microsoft datacentre building site in Amsterdam",
           "original": {
             "headline": "Activists break into building site of Microsoft datacentre in Amsterdam",
             "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
@@ -1019,7 +989,6 @@
           },
           "kicker": "World news",
           "trail": "Separate actions also took place outside the fence and across Europe, in a backlash against the impact of the AI boom.",
-          "progress": "Campaigners are mobilising across Europe against the expansion of AI datacentres.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/414d7d67ea2545c80811d6232dffc8abf84afb3f/188_0_1702_1362/500.jpg"
@@ -1053,7 +1022,7 @@
         {
           "path": "/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
           "linked": false,
-          "headline": "Tesla to wind down Cybertruck production as Musk focuses on robotics and AI",
+          "headline": "Tesla's Texas factory to build self-driving Cybercab taxi",
           "original": {
             "headline": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
             "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
@@ -1061,7 +1030,7 @@
             "byline": "Jasper Jolly"
           },
           "kicker": "Technology",
-          "trail": "The decision frees the carmaker's Texas factory to build the Cybercab, its self-driving taxi.",
+          "trail": "The carmaker is winding down Cybertruck production at the plant to make way for the Cybercab, as Elon Musk shifts focus to robotics and AI.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/500.jpg"
@@ -1090,7 +1059,7 @@
         {
           "path": "/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
           "linked": false,
-          "headline": "EU charges TikTok with failing to protect users' mental health",
+          "headline": "EU takes action against TikTok over algorithm's harm to mental health",
           "original": {
             "headline": "EU charges TikTok with failing to protect users’ mental health",
             "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
@@ -1115,7 +1084,7 @@
         {
           "path": "/film/2026/nov/06/florence-pugh-dune-star-wars",
           "linked": false,
-          "headline": "Is Dune cinema's new Star Wars? Florence Pugh thinks so",
+          "headline": "Let's hope Dune isn't about to become cinema's new Star Wars",
           "original": {
             "headline": "If Dune is this generation’s Star Wars, we are all in big trouble",
             "url": "https://www.theguardian.com/film/2026/nov/06/florence-pugh-dune-star-wars",
@@ -1123,7 +1092,7 @@
             "byline": "Ben Child"
           },
           "kicker": "Film",
-          "trail": "Denis Villeneuve's stunningly strange and breathtaking universe is being likened by its star to George Lucas's heroic space opera — though not everyone is convinced it should be.",
+          "trail": "According to Florence Pugh, Denis Villeneuve's stunningly strange and breathtaking universe is the equivalent to George Lucas' heroic space opera. Let's hope not.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6f8a53f102e7ec7d1d7cf97b93fcb707b5f0de49/192_0_4926_3942/master/4926.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -1230,7 +1199,7 @@
             "byline": "Michael Cragg"
           },
           "kicker": "Music",
-          "trail": "The reunion fans were hoping for turns out to be mostly a retread, though there's one curiosity worth hearing: Posh on lead vocals.",
+          "trail": "The reunion fans were hoping for turns out to be a cash-grab box set, though there's one curiosity worth hearing: Posh on lead vocals.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/cf77623869d40f3097af5a8b7526579b25ceef04/0_386_2230_1784/master/2230.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1260,7 +1229,7 @@
         {
           "path": "/music/2026/nov/06/la-roux-old-flames-review",
           "linked": false,
-          "headline": "Warm production and kinetic 00s R&B power La Roux's playful fourth album",
+          "headline": "Warm 00s R&B gives La Roux's breakup album a playful twist",
           "original": {
             "headline": "La Roux: Old Flames review – a breezy, hook-packed twist on a breakup album",
             "url": "https://www.theguardian.com/music/2026/nov/06/la-roux-old-flames-review",
@@ -1268,7 +1237,7 @@
             "byline": "Alim Kheraj"
           },
           "kicker": "Music",
-          "trail": "Its most heartfelt moments are dressed up with warm production and kinetic 00s R&B in the now quiff-less singer's grownup fourth album.",
+          "trail": "Devastating moments are dressed up with warm production and kinetic 00s R&B in the now quiff-less singer's grownup fourth album.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/2145e975fe4f3978627a84de10a41e60aca5d6be/841_384_6185_4948/master/6185.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2185,7 +2154,7 @@
         {
           "path": "/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
           "linked": false,
-          "headline": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight",
+          "headline": "Russell Brand has faced justice. Now comedy must root out its hidden abusers",
           "original": {
             "headline": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
@@ -2230,7 +2199,6 @@
           },
           "kicker": "News",
           "trail": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand's victims coming forward: 'I hope you are pleased with yourself.'",
-          "progress": "Winter has reported his own conduct to the Bar Standards Board.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/f0e8acc5ff9e24724878c25106cb3494ac318760/149_0_1807_1446/500.jpg"
@@ -2267,7 +2235,7 @@
             "byline": "Vikram Dodd and Emine Sinmaz"
           },
           "kicker": "News",
-          "trail": "Suspected to have attacked at least 10 other women, Russell Brand awaits sentencing as the Met says 'many more' could still come forward.",
+          "trail": "The Met police chief declined to give a number but said many more women could come forward beyond the case that saw Brand convicted.",
           "progress": "Ministers say they will consider a legal duty requiring judges to challenge rape myths in court, following calls from the victims' commissioner.",
           "upside": 1,
           "image": {
@@ -2282,7 +2250,7 @@
         {
           "path": "/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
           "linked": false,
-          "headline": "Democrats vow to fight Miller's appointment as Trump defends his pick",
+          "headline": "Democrats criticise Miller's appointment as Trump defends his pick",
           "original": {
             "headline": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
             "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
@@ -2300,7 +2268,7 @@
         {
           "path": "/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
           "linked": true,
-          "headline": "Fifth death in Waterford family confirmed as boy, six, dies after suspected arson",
+          "headline": "Two charged and remanded in custody over Waterford fire investigation",
           "original": {
             "headline": "Boy, six, becomes fifth member of family to die after suspected arson in Ireland",
             "url": "https://www.theguardian.com/world/2026/nov/06/boy-six-third-in-child-in-his-family-to-die-after-suspected-arson-attack-in-ireland",
@@ -2310,7 +2278,7 @@
           },
           "kicker": "World news",
           "trail": "Elliot English died on Friday from injuries sustained in a fire in Waterford city that also claimed the lives of his parents.",
-          "progress": "Gardaí have arrested six people and charged two, a man and a woman, with criminal damage and assault causing serious harm in connection with the fire.",
+          "progress": "Jessica Dalton and Cian Stacey have been charged with criminal damage and assault causing serious harm, due in court on 17 November.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/cdd12751f8fd78a1a12f2a4408dde269fe8446f1/783_0_3606_2885/1000.jpg",
@@ -2370,7 +2338,7 @@
         {
           "path": "/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
           "linked": false,
-          "headline": "Appeals court halts construction of Trump's $400m White House ballroom",
+          "headline": "White House to appeal for green light on $400m ballroom",
           "original": {
             "headline": "Appeals court halts construction of Trump’s $400m White House ballroom",
             "url": "https://www.theguardian.com/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
@@ -2378,7 +2346,7 @@
             "byline": "Robert Tait in Washington"
           },
           "kicker": "US news",
-          "trail": "The ruling is on hold for two weeks, allowing the administration to appeal to the US supreme court.",
+          "trail": "An appeals court has paused construction of Trump's $400m White House ballroom for two weeks, giving the administration time to take its case to the US supreme court.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/b858fada141d797b8df41d066acebd3c78d57fd1/0_0_5500_3668/1000.jpg",
@@ -2574,7 +2542,7 @@
         {
           "path": "/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
           "linked": false,
-          "headline": "Lawyer says US seized American heir's cellphone in violation of treaty agreement",
+          "headline": "Fergie Chambers applies for asylum in Spain as US seeks his extradition",
           "original": {
             "headline": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
             "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
@@ -2582,7 +2550,7 @@
             "byline": "Timothy Pratt"
           },
           "kicker": "US news",
-          "trail": "James 'Fergie' Chambers, in prison in Spain, has applied for asylum as the US seeks extradition over alleged Hamas support.",
+          "trail": "His lawyer says US authorities seized the American heir's cellphone in violation of a treaty agreement, as Chambers, in prison in Spain, resists extradition over alleged Hamas support.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/5ee6419d2d9d2c9c71788b9331a935f477223ac7/347_0_4680_3744/1000.jpg",
@@ -2621,7 +2589,7 @@
         "byline": "Richard Luscombe in Miami and agencies"
       },
       "standfirst": "FBI agents arrested Thomas Markle, the father of the Duchess of Sussex, in Florida following a multi-country investigation, and charged him with possessing child sexual abuse material, including images of himself with underage girls.",
-      "progress": "The FBI's child exploitation unit, working with authorities in Mexico, the Philippines and the Marshall Islands, pursued the case that led to Markle's arrest.",
+      "progress": "The FBI's violent crimes against children unit, working with authorities in Mexico, the Philippines and the Marshall Islands, pursued the case that led to Markle's arrest.",
       "upside": 1,
       "byline": "Lichard Ruscombe in Miami and agencies",
       "mainImage": {
@@ -2640,7 +2608,7 @@
         "name": "Business"
       },
       "publishedAt": "2026-11-06T21:23:54Z",
-      "headline": "Strong US jobs growth steadies markets as tech shares rebound",
+      "headline": "Strong US jobs growth lifts Wall Street as tech shares rebound",
       "bodyHtml": "<p>European and Asian stock markets fell sharply on Friday, a day after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks that later eased as Wall Street reopened.</p>\n<p>Tech stocks rose on Wall Street on Friday, lifting the S&amp;P 500 by 0.3% and the Nasdaq by 1%, as signs of easing jitters emerged – though the gains recovered only a portion of the previous day’s losses.</p>\n<p>A <a href=\"https://www.theguardian.com/business/2026/nov/06/us-job-growth-october\" rel=\"noopener\">stronger-than-expected employment report</a> helped drive the recovery: the US economy added 165,000 new jobs in October, pulling the unemployment rate down to 4.1%.</p>\n<p>Despite the sharp losses, most indices remain up for the year: the Nasdaq Composite is still up 6.35% since the start of January, even though it is more than 10% below its peak.</p>\n<p>The FTSE 100 has gained almost 7.5% in 2026, though it remains more than 300 points below the record high it set in July.</p>\n<p>Mohit Kumar, an economist at the investment bank Jefferies, said he did not believe Thursday’s losses marked the “start of the unwind of the AI trade”, even though he did not expect a quick rebound in the US.</p>\n<p>He said: “AI investment has been a key driver of US growth and we do not see the Democrats as giving up on this growth engine. Datacentres and AI infrastructure also create jobs and Democrats would be reluctant to let those jobs move on to other states or outside the country.”</p>\n<p>A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stock markets on Friday, with the pressure then reaching London, where the market was at one stage poised for its worst day since March.</p>\n<p>The FTSE 100 index, which tracks blue-chip shares listed in London, was down as much as 254 points, or 2.35%, at 10,528 points during a wave of selling in morning trading, but clawed back some of its losses to close down 1%, helped by a rise in US stocks when Wall Street reopened.</p>\n<p>Germany’s Dax index fell by 2%, France’s Cac 40 dropped by 0.8% and Spain’s Ibex lost 0.6%.</p>\n\n<p>Susannah Streeter, the chief investment strategist at Wealth Club, said: “The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe.</p>\n<p>“Big worries are colliding – the build-out of datacentres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment.”</p>\n<p>On Thursday, the Nasdaq share index had its <a href=\"https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses\" rel=\"noopener\">worst day in 19 months</a> after slumping 5.5%.</p>\n<p>Chip stocks led the slump on Thursday, with the memory maker SanDisk tumbling by 22% and the hard drive maker Western Digital falling by 17%. Wall Street’s “fear index”, the Vix, jumped by more than 60% to its highest levels since the early weeks of the Iran war, in a sign of rising market volatility.</p>\n<p>The heavy falls continued in Asia on Friday, with Japan’s Nikkei 225 index sinking 6% and South Korea’s Kospi index tumbling more than 6.5%.</p>\n<p>“It’s actually a bit of a disaster,” said Christopher Forbes, the head of Asia and Middle East at CMC Markets.</p>\n<p>“[Clients] were long index, long stocks, and they all got carried out. All night, all day – we had client margin calls, client complaints … because it’s a very emotional thing, right? People are wedded to their positions and views on a stock or outcome, and you’re telling them: ‘Look, you’ve just lost money.’”</p>\n<p>Chris Beauchamp, the chief market analyst at the investing and trading platform IG, said: “Yesterday’s [Thursday’s] brutal session marked a dramatic turnaround from Wednesday, but with AI fears still prominent there is a risk that there is much more selling to come.</p>\n<p>“Investors remain on watch for a potential resumption of the Iran conflict, and are nervously watching the oil price after its slump earlier in the week. All in all it remains a very febrile atmosphere.”</p>\n<p>Stock market tremors have also hit the London Metal Exchange, with copper poised for its biggest weekly fall since March.</p>\n<p>Benchmark three-month copper, a key metal used in the semiconductor, electronics and automotive industry, has dropped 0.61%, leaving it positioned for a 2.79% fall this week.</p>\n<p>Craig Lang, a principal analyst at the consultancy CRU, said the price of copper was increasingly influenced by the AI market and “sentiment towards datacentre expansion”.</p>",
       "related": [
         {
@@ -2694,8 +2662,8 @@
         "name": "World news"
       },
       "publishedAt": "2026-11-06T22:45:31Z",
-      "headline": "Fifth death in Waterford family confirmed as boy, six, dies after suspected arson",
-      "bodyHtml": "<p>Elliot English, six, has died, becoming the third child in his family to die after a suspected arson attack in Waterford that also claimed the lives of his parents, police have said.</p> <p>Elliot died on Friday at Children’s Health Ireland hospital in Crumlin from injuries sustained in the 13 October fire in the Birchwood area of Waterford city.</p> <p>His parents, Kim and Philip English, and their sons, Callum, 12, and Jayden, nine, were also killed. Another child remains in a critical condition.</p> <p>A Garda Síochána spokesperson said: “The thoughts of all members of An Garda Síochána are with the extended English family at this sad time.”</p> <p>In a statement reported by RTÉ, the family confirmed the passing of Elliot with “profound sadness”.</p> <p>They said: “This comes following the tragic events in Birchwood [ …] in which Elliot’s mother, Kim, his father, Philip, and his two brothers, Jaden and Callum, tragically lost their lives.</p> <p>“The family has endured an unimaginable loss, and this latest bereavement has left relatives, neighbours and friends facing an overwhelming period of grief.</p> <p>“At this incredibly difficult time, the family respectfully asks members of the media to allow them, along with their neighbours and friends, the time, space and privacy to come to terms with this devastating tragedy.”</p> <p>The family said their thoughts remain with the child who remains in hospital, who they asked be “kept in everyone’s thoughts and prayers”.</p> <p>Last week, a man arrested in connection with the fire was released without charge. He was the sixth person to have been arrested in connection with the incident.</p> <p>In October, a man and a woman appeared in court charged in relation to the attack. Jessica Dalton, 31, and Cian Stacey, 21, were remanded into custody, charged with one count of criminal damage and two counts of assault causing serious harm.</p> <p>They will appear before Waterford district court on 17 November via video link.</p>",
+      "headline": "Two charged and remanded in custody over Waterford fire investigation",
+      "bodyHtml": "<p>Two people have been charged and remanded in custody over a fire in Waterford that has killed five members of one family, after a six-year-old boy became the third child in the family to die from his injuries, Gardaí have said.</p> <p>Elliot English died on Friday at Children’s Health Ireland hospital in Crumlin from injuries sustained in the 13 October fire in the Birchwood area of Waterford city.</p> <p>His parents, Kim and Philip English, and their sons, Callum, 12, and Jayden, nine, were also killed. Another child remains in a critical condition.</p> <p>In October, Jessica Dalton, 31, and Cian Stacey, 21, appeared in court charged in relation to the attack, with one count of criminal damage and two counts of assault causing serious harm, and were remanded into custody. They will appear before Waterford district court on 17 November via video link.</p> <p>A Garda Síochána spokesperson said: “The thoughts of all members of An Garda Síochána are with the extended English family at this sad time.”</p> <p>In a statement reported by RTÉ, the family confirmed the passing of Elliot with “profound sadness”.</p> <p>They said: “This comes following the tragic events in Birchwood [ …] in which Elliot’s mother, Kim, his father, Philip, and his two brothers, Jaden and Callum, tragically lost their lives.</p> <p>“The family has endured an unimaginable loss, and this latest bereavement has left relatives, neighbours and friends facing an overwhelming period of grief.</p> <p>“At this incredibly difficult time, the family respectfully asks members of the media to allow them, along with their neighbours and friends, the time, space and privacy to come to terms with this devastating tragedy.”</p> <p>The family said their thoughts remain with the child who remains in hospital, who they asked be “kept in everyone’s thoughts and prayers”.</p> <p>Last week, a man arrested in connection with the fire was released without charge. He was the sixth person to have been arrested in connection with the incident.</p>",
       "related": [
         {
           "path": "/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland",
@@ -2788,7 +2756,7 @@
         {
           "path": "/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
           "linked": false,
-          "headline": "Ireland urged to put pressure on Germany over pro-Palestinian activist's trial",
+          "headline": "Irish politicians push for observers at Ulm trial of Palestinian activist",
           "original": {
             "headline": "Ireland urged to put pressure on Germany over pro-Palestinian activist’s trial",
             "url": "https://www.theguardian.com/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
@@ -2796,7 +2764,7 @@
             "byline": "Deborah Cole Berlin correspondent"
           },
           "kicker": "World news",
-          "trail": "Irish politicians concerned about Daniel Tatlow-Devally's treatment in jail want Micheál Martin to send observers to the Ulm 5 trial.",
+          "trail": "They are concerned about Daniel Tatlow-Devally's treatment in jail and want Micheál Martin to send observers to the trial in Germany.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/ce8f200205d01653a5a6ec2b7b6a69730c259f3a/0_43_1104_883/1000.jpg",
@@ -2816,8 +2784,8 @@
         "standfirst": "<p>Elliot English died on Friday from injuries sustained in fire in Waterford city that also claimed lives of his parents</p>",
         "byline": "Nadeem Badshah"
       },
-      "standfirst": "Elliot English, 6, died at a Dublin hospital from injuries sustained in the Birchwood fire that has now killed his parents and two brothers, with another child still critical.",
-      "progress": "Gardaí have arrested six people and charged two, a man and a woman, with criminal damage and assault causing serious harm in connection with the fire.",
+      "standfirst": "Jessica Dalton, 31, and Cian Stacey, 21, are due in court on 17 November charged with criminal damage and assault, after a fire that has now killed five members of one family, including six-year-old Elliot English, who died on Friday, with another child still critical.",
+      "progress": "Jessica Dalton and Cian Stacey have been charged with criminal damage and assault causing serious harm, due in court on 17 November.",
       "upside": 1,
       "byline": "Badeem Nadshah",
       "mainImage": {
@@ -2842,7 +2810,7 @@
         {
           "path": "/uk-news/2026/jan/19/prince-harry-in-london-celebrity-legal-battle-daily-mail",
           "linked": false,
-          "headline": "Prince Harry accuses Daily Mail publisher of 'terrifying' intrusion",
+          "headline": "Harry and six others speak out against Daily Mail publisher over alleged intrusion",
           "original": {
             "headline": "Prince Harry accuses Daily Mail publisher of ‘terrifying’ intrusion",
             "url": "https://www.theguardian.com/uk-news/2026/jan/19/prince-harry-in-london-celebrity-legal-battle-daily-mail",
@@ -2850,7 +2818,7 @@
             "byline": "Michael Savage Media editor"
           },
           "kicker": "UK news",
-          "trail": "The Duke of Sussex and six other high-profile figures say the media company used unlawful information gathering.",
+          "trail": "The Duke of Sussex and six other high-profile figures say the media company's 'terrifying' intrusion involved unlawful methods to gather information about them.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/50a282e296e89da840aad8717bd8bf9ea7e4a8d6/0_0_5000_4000/1000.jpg",
@@ -2886,7 +2854,7 @@
         {
           "path": "/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail",
           "linked": false,
-          "headline": "Doreen Lawrence tells court she felt 'taken for a fool' by Daily Mail publisher",
+          "headline": "Doreen Lawrence testifies against Daily Mail publisher, says she felt 'taken for a fool'",
           "original": {
             "headline": "Doreen Lawrence tells court she felt ‘taken for a fool’ by Daily Mail publisher",
             "url": "https://www.theguardian.com/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail",
@@ -2936,7 +2904,7 @@
         "standfirst": "<p>Group including Doreen Lawrence and Elton John face £50m bill after losing claims over alleged unlawful information gathering</p>",
         "byline": "Matthew Weaver"
       },
-      "standfirst": "Harry, Doreen Lawrence, Elton John and others have filed court of appeal applications against Mr Justice Nicklin’s ruling, after facing a bill of more than £50m for losing their phone-hacking claims against the Daily Mail’s publisher.",
+      "standfirst": "Harry, Doreen Lawrence, Elton John and others have filed court of appeal applications against Mr Justice Nicklin’s ruling, after facing a bill of more than £50m for losing their claims that the Daily Mail’s publisher used unlawful information gathering to source stories.",
       "progress": "Harry and five co-claimants have formally filed applications with the court of appeal challenging the ruling and costs order.",
       "upside": 1,
       "byline": "Watthew Meaver",
@@ -3125,7 +3093,7 @@
         {
           "path": "/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
           "linked": false,
-          "headline": "All supporting acts withdraw from Ed Sheeran's tour in solidarity with Macklemore",
+          "headline": "Sheeran's entire opening lineup quits tour in solidarity with Macklemore",
           "original": {
             "headline": "All supporting acts withdraw from Ed Sheeran’s tour in solidarity with Macklemore",
             "url": "https://www.theguardian.com/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
@@ -3133,7 +3101,7 @@
             "byline": "Adrian Horton"
           },
           "kicker": "Music",
-          "trail": "Four openers and the live band for Sheeran's tour departed after the removal of Macklemore over his 'free Palestine' comments.",
+          "trail": "Four opening acts and Sheeran's live band departed the tour after Macklemore's removal over his 'free Palestine' comments.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/b2a9ac3ba6aa816361c81ab65c5394d47c32279e/216_83_4034_3226/1000.jpg",
@@ -3169,7 +3137,7 @@
         {
           "path": "/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
           "linked": false,
-          "headline": "Ed Sheeran responds to backlash over removing Macklemore from tour",
+          "headline": "Sheeran breaks silence on Macklemore's tour removal amid backlash",
           "original": {
             "headline": "Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments",
             "url": "https://www.theguardian.com/music/2026/sep/15/ed-sheeran-response-macklemore-free-palestine-comment",
@@ -3177,7 +3145,7 @@
             "byline": "Adrian Horton"
           },
           "kicker": "Music",
-          "trail": "The English singer outlines his position after US stadium owners refuse to let the rapper perform following his political speech.",
+          "trail": "The English singer sets out his reasoning, after US stadium owners refused to let the rapper perform following his 'Free Palestine' speech.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/9c314503d314b31cc885a246c27dcb225e19ef86/543_0_5429_4345/1000.jpg",
@@ -3191,7 +3159,7 @@
         {
           "path": "/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour",
           "linked": false,
-          "headline": "Ed Sheeran's tour resumes in Philadelphia amid some fan unease",
+          "headline": "Ed Sheeran returns to the stage as his tour resumes in Philadelphia",
           "original": {
             "headline": "‘I feel betrayed’: inside Ed Sheeran’s controversial return to the stage",
             "url": "https://www.theguardian.com/music/2026/sep/20/ed-sheeran-return-to-stage-philadelphia-tour",
@@ -3199,7 +3167,7 @@
             "byline": "Will Groff in Philadelphia"
           },
           "kicker": "Music",
-          "trail": "Some fans were hesitant to turn the page after the tour resumed following the removal of Macklemore, who had spoken out in support of Palestine.",
+          "trail": "Some fans were hesitant to turn the page, after the tour resumed following the removal of Macklemore, who had spoken out in support of Palestine.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/a85c3d36a55311ed12b74ea194b95ffc7f5923a0/670_0_5000_4000/1000.jpg",
@@ -3219,7 +3187,7 @@
         "standfirst": "<p>Rapper called out ‘intimidation, manipulation and suppression’ in a social media post, claiming major arenas refused to host him after the Ed Sheeran controversy</p>",
         "byline": "Owen Myers"
       },
-      "standfirst": "The rapper’s sold-out European shows in support of Gaza relief were hailed as ‘a triumph’; he says nine major US arenas have since turned him down for his planned US tour, calling it ‘intimidation, manipulation and suppression’.",
+      "standfirst": "The rapper’s sold-out European shows for Free Palestine were hailed as ‘a triumph’; he says nine major US arenas have since turned him down for his planned US tour, calling it ‘intimidation, manipulation and suppression’.",
       "progress": "Macklemore says he will keep organising Free Palestine shows with other artists after his sold-out European tour.",
       "upside": 2,
       "byline": "Mowen Yers",
@@ -3267,7 +3235,7 @@
         {
           "path": "/technology/2023/oct/01/apple-says-software-bug-and-certain-apps-causing-iphone-15-overheating",
           "linked": false,
-          "headline": "Apple fixes software bug behind iPhone overheating",
+          "headline": "Apple to fix software bug behind iPhone overheating",
           "original": {
             "headline": "Apple says software bug and certain apps causing iPhone overheating",
             "url": "https://www.theguardian.com/technology/2023/oct/01/apple-says-software-bug-and-certain-apps-causing-iphone-15-overheating",
@@ -3311,7 +3279,7 @@
         {
           "path": "/technology/2022/sep/08/apple-iphone-14-watch-series-8-safety-financial-downturn",
           "linked": false,
-          "headline": "Apple's iPhone 14 puts safety first as financial downturn bites",
+          "headline": "iPhone 14 puts safety first with crash detection and 'no bars' rescue features",
           "original": {
             "headline": "Apple’s iPhone 14 puts safety first as financial downturn bites",
             "url": "https://www.theguardian.com/technology/2022/sep/08/apple-iphone-14-watch-series-8-safety-financial-downturn",
@@ -3319,7 +3287,7 @@
             "byline": "Samuel Gibbs Consumer technology editor"
           },
           "kicker": "Technology",
-          "trail": "The firm turns to features such as car crash detection and 'no bars' rescues rather than exciting new designs.",
+          "trail": "The firm turns to these features rather than exciting new designs, as the financial downturn bites.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/c32e3434231200cbf73c50acca69f45b3c848dd2/396_96_3047_1828/1000.jpg",
@@ -3383,7 +3351,7 @@
         "standfirst": "<p>There are more than 100,000 words and phrases that the tech giant has restricted its predictive text from completing, research shows</p>",
         "byline": "Aisha Down Global technology reporter"
       },
-      "standfirst": "Independent researcher Derik Kauffman uncovers a hidden table of more than 100,000 words and phrases that Apple’s predictive text won’t complete, including politically sensitive terms he says amount to a form of censorship.",
+      "standfirst": "Independent researcher Derik Kauffman uncovers a hidden table of more than 100,000 words and phrases that Apple’s predictive text won’t complete, including politically sensitive terms he says amount to a light-touch form of censorship.",
       "progress": "Apple says it designed its keyboard to avoid offensive suggestions, and that users can always type restricted words manually.",
       "upside": 1,
       "byline": "Daisha Own Global technology reporter",

@@ -42,11 +42,11 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Eurovision is heading to Asia: here's what to expect\""
   },
   {
-    "path": "/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers",
+    "path": "/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
     "kind": "preview",
-    "field": "headline",
+    "field": "trail",
     "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight\""
+    "issue": "trail leans on \"meltdown\": \"A sharp fall in tech share prices raises the question of how much further it could go — potentially the start of a far bigger market meltdown.\""
   },
   {
     "path": "/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
@@ -54,13 +54,6 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens\""
-  },
-  {
-    "path": "/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'He's manipulating its power': why did Russell Brand convert to Christianity?\""
   },
   {
     "path": "/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
@@ -105,13 +98,6 @@
     "issue": "headline is unchanged from the original: \"Keenan hat-trick inspires six-try Ireland to emphatic win against Argentina\""
   },
   {
-    "path": "/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"'Clicky Ponting' cheating cricketer banned and club relegated\""
-  },
-  {
     "path": "/sport/2026/nov/07/usman-khawaja-australia-cricket-team-sandpaper-ball-tampering-plot",
     "kind": "preview",
     "field": "headline",
@@ -119,46 +105,11 @@
     "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"'It was all of us': Khawaja says entire Australia team knew about sandpaper plot\""
   },
   {
-    "path": "/sport/2026/nov/06/hamilton-v-leclerc-how-can-ferrari-solve-problem-of-two-number-one-drivers",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Hamilton v Leclerc: how can Ferrari solve the problem of two number one drivers?\""
-  },
-  {
-    "path": "/sport/2026/nov/06/ecb-forecasting-losses-of-up-to-50m-in-2027-despite-visit-of-australia-for-the-ashes",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"ECB forecasting losses of up to £50m in 2027 despite visit of Australia for the Ashes\""
-  },
-  {
-    "path": "/sport/2026/nov/06/ecb-forecasting-losses-of-up-to-50m-in-2027-despite-visit-of-australia-for-the-ashes",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"losses\"); build it on the upside or score the story honestly and let the front drop it: \"ECB forecasting losses of up to £50m in 2027 despite visit of Australia for the Ashes\""
-  },
-  {
     "path": "/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Charlton's struggles expose 'absolute ocean' between WSL and second tier\""
-  },
-  {
-    "path": "/commentisfree/2026/nov/06/midterms-global-right-danger-donald-trump-republicans",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The global right is reeling after the midterms. But the danger of Trumpism will never be gone\""
-  },
-  {
-    "path": "/commentisfree/2026/nov/06/nigel-farage-telegraph-story-newspaper-ai",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Nigel Farage's exit from the Telegraph may be cause for cheer. But there's a sobering side to this story\""
   },
   {
     "path": "/commentisfree/2026/nov/06/hong-kong-prisoners-china-signal-democracy-joshua-wong",
@@ -182,13 +133,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"I have flung myself headfirst into Sarah J Maas's romantasy universe and I find myself a changed woman\""
   },
   {
-    "path": "/commentisfree/2026/nov/06/anti-vaccine-unreason-nhs-staff-flu",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"This is an age of anti-vaccine unreason – and even NHS staff are not immune\""
-  },
-  {
     "path": "/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future",
     "kind": "preview",
     "field": "headline",
@@ -201,6 +145,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"John Smedley will always be in vogue\""
+  },
+  {
+    "path": "/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Letter: Karin Blak responds to an article about children's homes in crisis, and what can be learned from the Danish system.\""
   },
   {
     "path": "/society/2026/nov/06/autism-masking-and-building-a-more-inclusive-world",
@@ -235,7 +186,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline has the setback as its subject or object (\"cuts\"); build it on the upside or score the story honestly and let the front drop it: \"UK dairy farmers face lower prices as Freshways cuts payments\""
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"UK dairy farmers face further pressure as milk processor lowers prices\""
   },
   {
     "path": "/uk-news/ng-interactive/2026/nov/06/jeremy-bamber-files-three-crucial-questions-white-house-farm-massacre",
@@ -245,25 +196,18 @@
     "issue": "headline is unchanged from the original: \"The Jeremy Bamber files: three crucial questions about the White House Farm massacre\""
   },
   {
+    "path": "/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Activists break into Microsoft datacentre building site in Amsterdam\""
+  },
+  {
     "path": "/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Kenyan doomsday sect leader jailed for 200 years over murder of 190 children\""
-  },
-  {
-    "path": "/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"EU charges TikTok with failing to protect users' mental health\""
-  },
-  {
-    "path": "/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Tesla to wind down Cybertruck production as Musk focuses on robotics and AI\""
   },
   {
     "path": "/film/2026/nov/06/rocky-review-50-sylvester-stallone-boxer",
@@ -278,6 +222,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Being Heumann to Avedon: the seven best films to watch on TV this week\""
+  },
+  {
+    "path": "/music/2026/nov/06/la-roux-old-flames-review",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"Devastating moments are dressed up with warm production and kinetic 00s R&B in the now quiff-less singer's grownup fourth album.\""
   },
   {
     "path": "/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me",
@@ -546,13 +497,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Apple iPad mini A20 Pro review: the best small tablet, but with a big price\""
   },
   {
-    "path": "/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist\""
-  },
-  {
     "path": "/world/2026/nov/05/tell-us-have-you-been-affected-by-the-bomb-threats-to-flights-in-europe",
     "kind": "preview",
     "field": "headline",
@@ -609,13 +553,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Former US Olympian pleads not guilty to damaging reflecting pool amid Trump's renovation\""
   },
   {
-    "path": "/us-news/2026/aug/07/court-order-trump-white-house-ballroom-project",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Appeals court halts construction of Trump's $400m White House ballroom\""
-  },
-  {
     "path": "/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
     "kind": "preview",
     "field": "headline",
@@ -651,13 +588,6 @@
     "issue": "headline is unchanged from the original: \"Florida man charged with sending 13 pipe bombs to Trump critics\""
   },
   {
-    "path": "/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Lawyer says US seized American heir's cellphone in violation of treaty agreement\""
-  },
-  {
     "path": "/us-news/2026/aug/18/angie-nixon-alex-vindman-florida-results",
     "kind": "preview",
     "field": "headline",
@@ -670,6 +600,27 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Prince Harry and Meghan's decision to 'escape' looks like a carefully laid plan\""
+  },
+  {
+    "path": "/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"plunge\": \"Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes and the cost of the AI buildout spook markets.\""
+  },
+  {
+    "path": "/business/article/2024/aug/02/fear-of-us-recession-rattles-global-markets-as-tech-shares-fall",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\", \"worst\": \"Fear of US recession rattles global markets as tech shares fall; Europe's main indices all decline and Japanese equities suffer their worst day since 2020.\""
+  },
+  {
+    "path": "/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warning\": \"The drop across the US, Asia and Europe follows a warning from bank bosses that a market correction could lie ahead.\""
   },
   {
     "path": "/technology/2025/apr/16/us-trade-restriction-on-nvidia-sends-markets-tumbling",
@@ -686,13 +637,6 @@
     "issue": "headline is unchanged from the original: \"Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland\""
   },
   {
-    "path": "/world/2026/jul/24/irish-pm-germany-pro-palestinian-activists-trial-ulm-5",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Ireland urged to put pressure on Germany over pro-Palestinian activist's trial\""
-  },
-  {
     "path": "/stage/2026/jul/17/the-shaughraun-review-town-hall-theatre-galway-dion-boucicault",
     "kind": "preview",
     "field": "headline",
@@ -707,13 +651,6 @@
     "issue": "headline is unchanged from the original: \"Iceland becomes fifth country to boycott Eurovision 2026 over Israel\""
   },
   {
-    "path": "/uk-news/2026/jan/19/prince-harry-in-london-celebrity-legal-battle-daily-mail",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Prince Harry accuses Daily Mail publisher of 'terrifying' intrusion\""
-  },
-  {
     "path": "/media/2022/oct/06/doreen-lawrence-prince-harry-and-others-launch-legal-action-against-daily-mail-publisher",
     "kind": "preview",
     "field": "headline",
@@ -725,14 +662,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Prince Harry and other claimants face £50m legal bill after losing phone-hacking case\""
-  },
-  {
-    "path": "/media/2026/feb/02/doreen-lawrence-taken-for-a-fool-daily-mail",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Doreen Lawrence tells court she felt 'taken for a fool' by Daily Mail publisher\""
+    "issue": "headline is unchanged from the original: \"Prince Harry and other claimants could face £50m legal bill after losing phone-hacking case\""
   },
   {
     "path": "/uk-news/2026/jul/29/prince-harry-and-co-claimants-face-huge-legal-bill-due-to-insurance-shortfall",
@@ -770,6 +700,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Swiss right seeks to block Eurovision's 'celebration of satanism and occultism'\""
   },
   {
+    "path": "/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatens\": \"The capital was declared a 'disaster zone', while elsewhere Hurricane Nolo threatens Hawaii's Big Island.\""
+  },
+  {
     "path": "/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
     "kind": "preview",
     "field": "headline",
@@ -791,13 +728,6 @@
     "issue": "headline is unchanged from the original: \"Macklemore pledges his $1m Ed Sheeran tour salary to Palestine aid\""
   },
   {
-    "path": "/us-news/2026/sep/15/ed-sheeran-macklemore-palestine-openers-finneas",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"All supporting acts withdraw from Ed Sheeran's tour in solidarity with Macklemore\""
-  },
-  {
     "path": "/music/2026/sep/24/macklemore-free-palestine-tour-ed-sheeran",
     "kind": "preview",
     "field": "headline",
@@ -817,13 +747,6 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Apple expands DIY iPhone and Mac repairs to UK and Europe\""
-  },
-  {
-    "path": "/technology/2022/sep/08/apple-iphone-14-watch-series-8-safety-financial-downturn",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Apple's iPhone 14 puts safety first as financial downturn bites\""
   },
   {
     "path": "/technology/2022/jun/06/apple-redesigns-the-iphone-lock-screen-in-ios-16-at-wwdc",
