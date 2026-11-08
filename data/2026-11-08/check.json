@@ -5,8 +5,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The standfirst opens with the casualty figures (six killed, 16 wounded, three more found dead) rather than developing the upside first, as the brief requires ('opens by developing the upside, then gives the setback'); the upside (the justice minister's vow) only appears in the separate progress line, so the headline-standfirst pair itself reads setback-first.",
+        "The headline is built on a justice minister's bare vow to punish the gunman — rhetoric with no arrest, charge or legal process reported in the copy — which is exactly the kind of 'weak response' the brief says is worth at most upside 1 and should not be stretched into carrying a headline on a six-dead terror attack ('Do not stretch it')."
+      ]
     }
   },
   {
@@ -55,8 +58,12 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline joins two separate actions ('praises Russell Brand accusers' courage' and 'looks at rape trial reform') with 'and', reading as two stories rather than one; the standfirst never develops the 'praises accusers' courage' half at all, so headline and standfirst do not cohere.",
+        "The headline and standfirst sideline the story's real subject — the conviction and the feared scale of further victims — in favour of a politician's reaction.",
+        "The original headline's specific figure, 'at least 10 other women' suspected of having been attacked, is softened in the headline/standfirst pair to the vaguer 'possibly many more victims', understating the scale of the alleged wider offending."
+      ]
     }
   },
   {
@@ -92,11 +99,16 @@
   {
     "path": "/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The trail states '16 wounded' and 'the suspect, 25' — neither figure appears in the original headline/standfirst given for this preview (they exist only in the full article's body, which previews are not meant to draw on per the brief's 'headline and trail' rule for previews)."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the casualty figures rather than the upside, with the justice minister's vow appearing only in the separate progress line.",
+        "The headline is built on a bare political vow to punish, with no arrest, charge or trial reported — a weak response stretched into the lead of a mass-casualty terror attack."
+      ]
     }
   },
   {
@@ -122,11 +134,18 @@
   {
     "path": "/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'UK rejoins Erasmus+ scheme in January' is not in the original at all — the original is only about five EU leaders urging closer EU-UK energy cooperation ahead of a summit.",
+      "'Brussels' push for UK access to its electricity market remains contentious over Britain's required budget contribution' is invented; no such detail about a budget-contribution dispute appears in the original.",
+      "'backers say could lower British energy bills' is invented; the original makes no claim about the effect on bills."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline joins two distinct stories with 'as' (an invented Erasmus+ return and the EU leaders' energy-ties push), which is the two-stories-joined-by-a-conjunction pattern the brief rejects.",
+        "Because the Erasmus+ claim is fabricated, the whole headline is built on a fact the source copy does not support, not a genuine upside drawn from it."
+      ]
     }
   },
   {
@@ -142,11 +161,16 @@
   {
     "path": "/culture/2026/nov/06/russell-brand-trial-other-women",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'No 10 and the Ministry of Justice weigh a legal duty on jury directions in rape trials' is not supported by the original headline/trail given for this preview, which reports only that police are bracing for more victims to come forward; that claim exists only in the fuller article's body."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline centres on Burnham's reaction rather than the story's real subject (the suspected further victims and Brand's conviction), and joins two actions ('praises... courage' and '...looks at rape trial reform') with 'and'.",
+        "The original's specific 'at least 10 other women' is softened in the headline/trail pair to the vaguer 'possibly many more victims', understating the scale of the scandal."
+      ]
     }
   },
   {
@@ -202,8 +226,10 @@
   {
     "path": "/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'£39m-rated' changes the original's '£39m transfer' (a completed transfer fee) into a valuation claim — a different fact, not merely a rewording."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -232,11 +258,15 @@
   {
     "path": "/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline states the Uyghurs have been 'deported from Thailand' (a completed action), but the original says they are 'facing deportation' — i.e. deportation has not yet happened. This reverses the central fact of the story, and is inconsistent with the trail, which still says activists 'worry Bangkok will give in' (a future, unresolved outcome)."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline is close to a word-for-word reordering of the original ('facing deportation' → 'deported', 'will be' → 'will become'), a cosmetic edit rather than a genuine rewrite, on top of introducing the factual error above."
+      ]
     }
   },
   {
@@ -285,8 +315,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline keeps the setback (a scalper-driven, cutthroat market) as its own subject with no upside introduced — it largely restates the trail's problem rather than reframing it, and drops the original's 'how it became' investigative framing, which is exactly the 'finding-out' angle the brief says features should lead with."
+      ]
     }
   },
   {
@@ -355,8 +387,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Uses 'admitted' where the original has the neutral 'said'; the brief's vocabulary section explicitly prefers 'says' over 'admits', since 'admits' frames the manager as confessing fault rather than simply stating it."
+      ]
     }
   },
   {
@@ -365,8 +399,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline is a near word-for-word reordering of the original ('extends Arsenal lead at top with winner to break Hull resistance' → 'breaks Hull's resistance to stretch their lead at the top'), sharing almost all content words — a cosmetic edit rather than a fresh line."
+      ]
     }
   },
   {
@@ -612,11 +648,15 @@
   {
     "path": "/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline 'Andy Burnham presses on with plan to end rough sleeping by Christmas' asserts that Burnham is actively continuing/persisting with the plan despite the problem; nothing in the original (headline and standfirst given) states or implies any such action or stance by Burnham. This is an invented claim, not a fact the original supports."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The only 'upside' in the original is the pre-existing plan itself, which the brief treats as a weak response at best; the rewrite manufactures an active, resolve-driven upside ('presses on') that the copy does not report, rather than honestly scoring this a weak story and writing a headline the copy actually supports."
+      ]
     }
   },
   {
@@ -657,8 +697,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail runs to three sentences, the last ('Cisco employees have publicly protested the company's expanding military ties with Israel.') merely repeating the first sentence and the headline almost word for word, breaching the brief's one-or-two-sentence, 20-to-35-word limit for the standfirst/trail and its warning that lines must not repeat each other."
+      ]
     }
   },
   {
@@ -694,11 +736,15 @@
   {
     "path": "/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The original's hypothetical ('could the volatility be the start of a huge market meltdown?') is weakened in scale to 'questions are mounting over whether a broader market downturn is beginning' — 'huge meltdown' and 'broader downturn' are materially different magnitudes, not a neutral paraphrase."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Downgrading 'a huge market meltdown' to 'a broader market downturn' minimises the scale of the bad outcome the original raises, which the brief explicitly forbids even when pursuing a calmer framing."
+      ]
     }
   },
   {
@@ -734,8 +780,10 @@
   {
     "path": "/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Original says Monty Don bids farewell 'with barely a hint of fuss' (i.e. a small amount remains); the rewrite states 'without a trace of fuss' (i.e. none at all), a change in degree the original does not support."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -764,11 +812,15 @@
   {
     "path": "/music/2026/nov/06/wynonna-judd-country-music-interview-naomi-hard-truth-new-album",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline calls this her 'most personal album yet', a superlative comparison against her whole catalogue that the original does not make (it describes the album's content but never ranks it against her other work)."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail is padded with an extra third sentence ('Judd says making the album, built from grief, was itself a labour of love.') that merely restates the preceding sentence and the headline, pushing the standfirst well past the brief's one-or-two-sentence, 20-to-35-word limit."
+      ]
     }
   },
   {
@@ -834,11 +886,15 @@
   {
     "path": "/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The claim that the play 'finds unexpected depths in Marilyn Monroe's story' is an added evaluative claim beyond what the original supports; the original calls Monroe 'a magnetic misfit' in a 'spicy conspiracy drama full of bombshells' and calls the play merely 'intriguing', not that it uncovers depth in her story."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline opens with the word 'Flawed', leading with the critic's negative verdict rather than what the critic admired, contrary to the brief's explicit instruction that a negative/mixed review should lead with what the critic liked and keep the verdict in the trail."
+      ]
     }
   },
   {
@@ -1269,8 +1325,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Trail opens with the setback (ministers blaming Russian intelligence for the Warsaw fire) and only then states the response (closing the Kraków consulate), reversing the required upside-first, setback-second order.",
+        "Headline leans on the vague process phrase 'holds Russia to account' rather than the concrete action the copy reports (closing the consulate), which the brief's own vocabulary guidance prefers when the copy supports a concrete win."
+      ]
     }
   },
   {
@@ -1286,21 +1345,30 @@
   {
     "path": "/world/2026/aug/27/britain-ukraine-war-russia",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail adds 'already' before 'cautioned the Kremlin', implying the CIA chief's warning came before Burnham's missile announcement. The original only says the warning came 'amid' the reports, with no stated order of events."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Trail opens with Moscow's retaliation threat ('Moscow says it could retaliate') rather than with the upside (UK helping Ukraine build missile capacity), carrying over the original's threat-first order instead of leading with the upside.",
+        "Trail stacks further threat/danger language ('playing with fire', the CIA caution against attacking Nato) after the headline, with no restatement of the upside, so the headline-and-trail pair reads as more alarming, not less."
+      ]
     }
   },
   {
     "path": "/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline has Morawiecki say he was forced out 'over a loyalty pledge ultimatum'. In the original, Morawiecki and his allies attribute their ouster to 'factional disagreements'; the ultimatum is reported as the Guardian's own framing of what preceded the split, not as his stated reason for being pushed out."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline follows the pattern the brief explicitly rejects ('Family speaks out about years-long wait'): a person is grammatically the subject, but the setback (being forced out) is still the substance of the headline, which has not been rebuilt around a genuine upside."
+      ]
     }
   },
   {
@@ -1329,8 +1397,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline ('Demand for perinatal mental health care in England outstrips supply') is a cosmetic reword of the original's problem statement — same subject (the shortfall), words rearranged, no upside introduced.",
+        "Trail also opens with the setback (mothers left to suffer) with no upside anywhere in the headline-and-trail pair."
+      ]
     }
   },
   {
@@ -1409,8 +1480,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline is a near word-for-word cosmetic edit of the original: same subject (the opposition leader/Lapid telling the president he can form a government), same opening, with 'can form' merely reworded to 'has the numbers to form'."
+      ]
     }
   },
   {
@@ -1539,8 +1612,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline opens the same way as the original ('Trump names Jay Clayton...') and keeps the same subject and event (the appointment); 'new White House AI czar' is simply reworded as 'to steer White House AI policy' — a cosmetic edit rather than a rebuild around an upside."
+      ]
     }
   },
   {
@@ -1559,8 +1634,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline keeps the same subject as the original (the networks not taking part in pool coverage); 'suspend' is simply swapped for 'decline' and the networks named instead of described — a cosmetic edit that does not build on any upside, such as the networks' collective pushback against the ban."
+      ]
     }
   },
   {
@@ -1639,28 +1716,39 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline is the original's two clauses reordered ('parents rush to secure support' / 'changes at risk') rather than rebuilt around an upside; the setback (the overhaul unravelling, flagged concern) remains the substance of the headline, same as the original."
+      ]
     }
   },
   {
     "path": "/society/2009/feb/24/support-disabled-parents",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail changes 'Care watchdog says' to 'A care watchdog finds', turning the watchdog's stated view into an established finding — a hedge strengthened into a certainty the original does not support."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline ('Few councils strike the right balance for disabled parents, watchdog says') is essentially the original's own trail sentence promoted to headline, restating the setback (most councils failing to balance support) as the subject with no upside introduced.",
+        "'Strike the right balance' softens what the original states plainly (councils failing to get it right), edging toward minimising the setback rather than stating it plainly."
+      ]
     }
   },
   {
     "path": "/society/2008/sep/23/disability.children",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Trail changes 'a new report has claimed' to 'a new report finds', turning a hedged claim into an assertion of established fact — the original does not support this added certainty."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline ('Campaigners: disabled children shut out of play facilities') is a cosmetic edit of the original ('excluded from play facilities, campaigners say') — same subject, 'excluded' merely swapped for 'shut out', attribution moved to the front; the setback remains the whole of the headline with no upside."
+      ]
     }
   },
   {
@@ -1669,8 +1757,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline discards the original's own upside — people speaking up ('parents speak out over state care') — for a purely negative framing ('council funding worries grow'), leaving the reader with a more negative impression than the original, not a better one."
+      ]
     }
   },
   {

@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T05:33:39.467Z",
+  "generatedAt": "2026-11-08T05:46:15.229Z",
   "engine": "claude-code",
   "front": [
     {
@@ -44,25 +44,6 @@
             "alt": "Beachgoers in Lacanau, France, sit on sand watching wildfire smoke rise over a lake"
           },
           "byline": "Hiona Farvey in Antalya, Turkey"
-        },
-        {
-          "path": "/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
-          "linked": false,
-          "headline": "'A footballing alien' at six, Sangaré now shines for Brentford",
-          "original": {
-            "headline": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
-            "url": "https://www.theguardian.com/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league",
-            "trail": "Brentford’s Mali midfielder stood out when he was six and has shone in the Premier League since his £39m transfer",
-            "byline": "Coralie Salle"
-          },
-          "kicker": "Football",
-          "trail": "Brentford's £39m-rated midfielder from Mali first stood out at six, and has been shining in the Premier League since.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/e735d39c230e213e1ed1955930cc9c1477060973/929_0_2392_2392/master/2392.jpg?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Brentford’s Mamadou Sangaré"
-          },
-          "byline": "Soralie Calle"
         }
       ]
     },
@@ -82,7 +63,7 @@
             "byline": "Jennifer Rankin in Brussels and Sammy Gecsoyler"
           },
           "kicker": "World news",
-          "trail": "Germany, Belgium, the Netherlands, Luxembourg and Denmark say deeper clean energy cooperation would benefit both sides, as the UK rejoins the Erasmus+ scheme in January; Brussels' push for UK access to its electricity market remains contentious over Britain's required budget contribution.",
+          "trail": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sides",
           "progress": "Five EU leaders are also pressing for the UK to rejoin the EU's internal electricity market, which backers say could lower British energy bills.",
           "upside": 3,
           "image": {
@@ -164,7 +145,7 @@
             "byline": "Vikram Dodd and Emine Sinmaz"
           },
           "kicker": "News",
-          "trail": "Russell Brand has been convicted of rape and sexual assault and awaits sentencing, as No 10 and the Ministry of Justice weigh a legal duty on jury directions in rape trials and Scotland Yard braces for what police call possibly 'many more' victims.",
+          "trail": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing",
           "progress": "No 10 and the Ministry of Justice say they will carefully consider a legal duty on jury directions in rape trials.",
           "upside": 2,
           "image": {
@@ -205,7 +186,7 @@
             "byline": "Donna Ferguson and agencies"
           },
           "kicker": "World news",
-          "trail": "Six people were killed and 16 wounded when a gunman opened fire in Kraków's main square on Saturday, with three more found dead at his home; the suspect, 25, held 'ultra-nationalistic' views, the interior minister says.",
+          "trail": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister",
           "progress": "Poland's justice minister has vowed to ensure the gunman is held fully accountable and severely punished.",
           "upside": 1,
           "image": {
@@ -1080,6 +1061,23 @@
             "src": "https://media.guim.co.uk/28e97d03d0abcd9f1e2eb53b873f17079a1a7f82/998_270_3911_3129/500.jpg"
           },
           "byline": "Daisha Own Global technology reporter"
+        },
+        {
+          "path": "/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
+          "linked": false,
+          "headline": "US tech stock rout: is the AI bubble bursting?",
+          "original": {
+            "headline": "US tech stock rout: is the AI bubble bursting?",
+            "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
+            "trail": "After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown?",
+            "byline": "Richard Partington Senior economics correspondent"
+          },
+          "kicker": "Business",
+          "trail": "After Thursday’s share price plunge on Wall Street, could the volatility be the start of a huge market meltdown?",
+          "image": {
+            "src": "https://media.guim.co.uk/e304922b1742f8abb9512b6c85d484878c2dd647/667_0_3333_2668/500.jpg"
+          },
+          "byline": "Pichard Rartington Senior economics correspondent"
         }
       ]
     },
@@ -1126,25 +1124,6 @@
           "byline": "Holiver Olmes"
         },
         {
-          "path": "/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye",
-          "linked": false,
-          "headline": "Gardeners' World says a calm, unfussy farewell to its most soothing host",
-          "original": {
-            "headline": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye",
-            "trail": "TV’s most soothing gardener bids viewers farewell in his own inimitable style: poetically, and with barely a hint of fuss",
-            "byline": "Stuart Heritage"
-          },
-          "kicker": "Television & radio",
-          "trail": "Known for calming viewers for years, Monty Don leaves our screens in his own gentle way, without a trace of fuss.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/9df425bc8923d8dd198f9474f29b7d1af64144ff/253_0_3786_3029/master/3786.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Monty Don smiles outdoors, holding a sleepy golden retriever on his lap"
-          },
-          "byline": "Huart Steritage"
-        },
-        {
           "path": "/tv-and-radio/2026/nov/07/the-good-daughter-rose-byrne-legal-thriller-peacock-sky-atlantic",
           "linked": false,
           "headline": "The Good Daughter leans into glossy melodrama with Rose Byrne and Meghann Fahy",
@@ -1160,6 +1139,24 @@
           "image": {
             "src": "https://i.guim.co.uk/img/media/a568b24dac5379e0be579890ab5925df49b79728/420_6_2351_1880/master/2351.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Rose Byrne and Meghann Fahy in The Good Daughter."
+          },
+          "byline": "Huart Steritage"
+        },
+        {
+          "path": "/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye",
+          "linked": false,
+          "headline": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
+          "original": {
+            "headline": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
+            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye",
+            "trail": "TV’s most soothing gardener bids viewers farewell in his own inimitable style: poetically, and with barely a hint of fuss",
+            "byline": "Stuart Heritage"
+          },
+          "kicker": "Television & radio",
+          "trail": "TV’s most soothing gardener bids viewers farewell in his own inimitable style: poetically, and with barely a hint of fuss",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/9df425bc8923d8dd198f9474f29b7d1af64144ff/253_0_3786_3029/master/3786.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Monty Don smiles outdoors, holding a sleepy golden retriever on his lap"
           },
           "byline": "Huart Steritage"
         }
@@ -1210,7 +1207,7 @@
         {
           "path": "/music/2026/nov/06/wynonna-judd-country-music-interview-naomi-hard-truth-new-album",
           "linked": false,
-          "headline": "Wynonna Judd strips back Nashville polish for her most personal album yet",
+          "headline": "‘I went into a deep, deep hole’: Wynonna Judd on overcoming family tragedy and putting a lifetime of love and pain into her new album",
           "original": {
             "headline": "‘I went into a deep, deep hole’: Wynonna Judd on overcoming family tragedy and putting a lifetime of love and pain into her new album",
             "url": "https://www.theguardian.com/music/2026/nov/06/wynonna-judd-country-music-interview-naomi-hard-truth-new-album",
@@ -1218,9 +1215,7 @@
             "byline": "Garth Cartwright"
           },
           "kicker": "Music",
-          "trail": "The country star has dropped Nashville's gloss for pared-back songs confronting her mother's death and decades of personal struggle, calling the album 'a labour of love'.",
-          "progress": "Judd says making the album, built from grief, was itself a labour of love.",
-          "upside": 2,
+          "trail": "The country star has abandoned Nashville slickness for a set of raw, pared-back songs that reckon with the death of her mother and decades of personal struggle. ‘This is a labour of love,’ she says",
           "image": {
             "src": "https://i.guim.co.uk/img/media/bf2282b2f9dd44e11e836e0f1ba7bf50d1869d0f/1619_1323_6266_5013/master/6266.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Wynonna Judd, with long red hair and a wide-brimmed hat, gazes into the distance outdoors"
@@ -1360,25 +1355,6 @@
       "title": "What to visit",
       "cards": [
         {
-          "path": "/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn",
-          "linked": false,
-          "headline": "Flawed but intriguing, Speculations finds unexpected depths in Marilyn Monroe's story",
-          "original": {
-            "headline": "Marilyn Monroe is a magnetic misfit in Speculations, a spicy conspiracy drama full of bombshells",
-            "url": "https://www.theguardian.com/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn",
-            "trail": "Trevor Nunn directs Torben Betts’s intriguing but flawed play following US journalist Dorothy Kilgallen’s theories about the Kennedys",
-            "byline": "Arifa Akbar"
-          },
-          "kicker": "Stage",
-          "trail": "Trevor Nunn directs Torben Betts's play, built around US journalist Dorothy Kilgallen's theories about the Kennedys.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/0b5abc07224fca7105d008efc0c6999928832232/0_604_2304_1842/master/2304.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Natalie Dunne as Marilyn Monroe, in a pale slip and robe, looks upward on stage in Speculations"
-          },
-          "byline": "Maurice Ridley"
-        },
-        {
           "path": "/stage/2026/nov/06/the-last-hamlet-review-sadlers-wells-east",
           "linked": false,
           "headline": "Ben Duke's gamble on an unconventional Hamlet pays off, cuddly toys included",
@@ -1415,6 +1391,24 @@
             "alt": "17th Century Ottoman processional scroll from Constantinople to Istanbul: One City, Two Empires at the V&A."
           },
           "byline": "Callum Merriweather"
+        },
+        {
+          "path": "/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn",
+          "linked": false,
+          "headline": "Marilyn Monroe is a magnetic misfit in Speculations, a spicy conspiracy drama full of bombshells",
+          "original": {
+            "headline": "Marilyn Monroe is a magnetic misfit in Speculations, a spicy conspiracy drama full of bombshells",
+            "url": "https://www.theguardian.com/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn",
+            "trail": "Trevor Nunn directs Torben Betts’s intriguing but flawed play following US journalist Dorothy Kilgallen’s theories about the Kennedys",
+            "byline": "Arifa Akbar"
+          },
+          "kicker": "Stage",
+          "trail": "Trevor Nunn directs Torben Betts’s intriguing but flawed play following US journalist Dorothy Kilgallen’s theories about the Kennedys",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/0b5abc07224fca7105d008efc0c6999928832232/0_604_2304_1842/master/2304.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Natalie Dunne as Marilyn Monroe, in a pale slip and robe, looks upward on stage in Speculations"
+          },
+          "byline": "Maurice Ridley"
         }
       ]
     },
@@ -2207,7 +2201,7 @@
             "byline": "Donna Ferguson and agencies"
           },
           "kicker": "World news",
-          "trail": "Six people were killed and 16 wounded when a gunman opened fire in Kraków's main square on Saturday, with three more found dead at his home; the suspect, 25, held 'ultra-nationalistic' views, the interior minister says.",
+          "trail": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister",
           "progress": "Poland's justice minister has vowed to ensure the gunman is held fully accountable and severely punished.",
           "upside": 1,
           "image": {
@@ -2259,28 +2253,6 @@
       "bodyHtml": "<p>Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the city.</p>\n<p>Sunday and Monday will be a period of national mourning for the victims of the attack.</p>\n<p>The suspect, a 25-year-old Polish citizen, opened fire with an automatic weapon in the city’s main square at about 3pm on Saturday.</p>\n<p>He was fascinated with far-right ideologies and held “very radical” and “ultra-nationalistic” views, the Polish interior minister, Marcin Kierwiński, said at a news conference.</p>\n<p>Four women and two men were killed, one of them a British citizen, Polish police said. Three of the victims were Polish women and the remaining two victims had not been identified.</p>\n<p>The foreign nationals wounded were from Britain, Austria, Germany, Portugal and Russia, a Polish government spokesperson said.</p>\n<p>The injured included two police officers, one of whom is in a serious condition after being shot three times in the exchange of fire with the alleged attacker.</p>\n<p>Late on Saturday night, Poland’s prime minister, Donald Tusk, said two more women and one man had also been found dead in the suspect’s home, most likely members of his family, he added.</p>\n\n<p>The Polish defense minister, Władysław Kosiniak-Kamysz, called Saturday’s fatal shooting an “act of terror” on the people of Krakow, Poland’s second-largest city, which receives 15 million visitors a year, most of them passing through the main square.</p>\n<p>A tram driver reported about 3pm that his vehicle was shot at from a man in a moving car while passing nearby the main square, the Krakow municipal transport company said. The window to the tram driver’s cabin was shattered.</p>\n<p>On Saturday evening, government spokesperson Adam Szłapka wrote on X: “Today’s event in Kraków has shaken all of Poland,” adding that Tusk was “on his way to Kraków”</p>\n<p>The justice minister, Waldemar Żurek, wrote on X that authorities would “ensure that the perpetrator of this crime is held fully accountable and severely punished”.</p>\n<p>The Polish president, Karol Nawrocki, said he was “deeply concerned by reports of the tragic events” in Kraków, and that his thoughts are with victims, those injured and their families.</p>\n<p>Earlier this year, <a href=\"https://www.euronews.com/2026/02/18/poland-surpasses-1-million-registered-guns-as-poles-continue-to-arm-themselves\" rel=\"noopener\">Euronews reported</a> that the number of legally owned firearms in Poland surpassed 1m for the first time.</p>\n<p>Poland issued a record 50,700 gun permits in 2025, and the number of active permits registered in 2025 was almost double the number registered in 2015, according to the police statistics cited in the report.</p>",
       "related": [
         {
-          "path": "/world/2026/aug/27/britain-ukraine-war-russia",
-          "linked": false,
-          "headline": "UK moves to help Ukraine build long-range missile capacity",
-          "original": {
-            "headline": " Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
-            "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
-            "trail": "Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missiles",
-            "byline": "Peter Beaumont and Jessica Elgot"
-          },
-          "kicker": "World news",
-          "trail": "Moscow says it could retaliate after Andy Burnham said the UK would help Ukraine start producing long-range missiles, calling Britain 'playing with fire', after reports the CIA chief had already cautioned the Kremlin against attacking Nato.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/bd3530da9983b46f1c0d461c1e4b74c1c29e9a8a/327_0_2853_2282/1000.jpg",
-            "alt": "Vladimir Putin.",
-            "credit": "Photograph: Mikhail Metzel/AFP/Getty Images",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Beter Peaumont and Essica Jelgot"
-        },
-        {
           "path": "/world/2025/may/12/poland-to-close-russian-consulate-krakow-warsaw-shopping-centre-fire",
           "linked": false,
           "headline": "Poland holds Russia to account over Warsaw shopping centre fire",
@@ -2301,6 +2273,48 @@
             "height": 800
           },
           "byline": "Waun Shalker in Kyiv"
+        },
+        {
+          "path": "/world/2026/aug/27/britain-ukraine-war-russia",
+          "linked": false,
+          "headline": " Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
+          "original": {
+            "headline": " Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
+            "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
+            "trail": "Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missiles",
+            "byline": "Peter Beaumont and Jessica Elgot"
+          },
+          "kicker": "World news",
+          "trail": "Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missiles",
+          "image": {
+            "src": "https://media.guim.co.uk/bd3530da9983b46f1c0d461c1e4b74c1c29e9a8a/327_0_2853_2282/1000.jpg",
+            "alt": "Vladimir Putin.",
+            "credit": "Photograph: Mikhail Metzel/AFP/Getty Images",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Beter Peaumont and Essica Jelgot"
+        },
+        {
+          "path": "/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
+          "linked": false,
+          "headline": "Poland’s main rightwing opposition splits after loyalty pledge ultimatum",
+          "original": {
+            "headline": "Poland’s main rightwing opposition splits after loyalty pledge ultimatum",
+            "url": "https://www.theguardian.com/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
+            "trail": "Former prime minister Mateusz Morawiecki and allies say they were forced out over factional disagreements",
+            "byline": "Jakub Krupa"
+          },
+          "kicker": "World news",
+          "trail": "Former prime minister Mateusz Morawiecki and allies say they were forced out over factional disagreements",
+          "image": {
+            "src": "https://media.guim.co.uk/a9003f5a6ec28ddab7adece6b7b29039623aba9f/688_0_6880_5504/1000.jpg",
+            "alt": "Mateusz Morawiecki in glasses and a suit speaks at multiple microphones during a press conference",
+            "credit": "Photograph: Radek Pietruszka/EPA",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Krakub Jupa"
         }
       ],
       "status": "rewritten",
@@ -3002,6 +3016,37 @@
             "height": 800
           },
           "byline": "Ichard Radams Education editor"
+        },
+        {
+          "path": "/society/2009/feb/24/support-disabled-parents",
+          "linked": false,
+          "headline": "Disabled parents and their children lack support",
+          "original": {
+            "headline": "Disabled parents and their children lack support",
+            "url": "https://www.theguardian.com/society/2009/feb/24/support-disabled-parents",
+            "trail": "Care watchdog says few councils get the balance right in helping adults as well as the children who look after them",
+            "byline": "John Carvel, social affairs editor"
+          },
+          "kicker": "World news",
+          "trail": "Care watchdog says few councils get the balance right in helping adults as well as the children who look after them",
+          "byline": "Cohn Jarvel, social affairs editor"
+        },
+        {
+          "path": "/society/2008/sep/23/disability.children",
+          "linked": false,
+          "headline": "Disabled children excluded from play facilities, campaigners say",
+          "original": {
+            "headline": "Disabled children excluded from play facilities, campaigners say",
+            "url": "https://www.theguardian.com/society/2008/sep/23/disability.children",
+            "trail": "Disabled children and young people are missing out on chances to play alongside able-bodied youngsters, a new report has claimed",
+            "byline": "Pauline Eiferman"
+          },
+          "kicker": "World news",
+          "trail": "Disabled children and young people are missing out on chances to play alongside able-bodied youngsters, a new report has claimed",
+          "image": {
+            "src": "http://static.guim.co.uk/sys-images/Society/Pix/pictures/2007/12/07/3access.jpg"
+          },
+          "byline": "Auline Peiferman"
         },
         {
           "path": "/society/2011/jan/20/mother-disabled-child-parents",
