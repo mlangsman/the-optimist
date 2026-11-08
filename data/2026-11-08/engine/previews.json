@@ -1,0 +1,864 @@
+{
+  "/society/ng-interactive/2026/nov/07/feral-children-parenting": {
+    "headline": "Why feral children deserve more room to roam, writer argues",
+    "trail": "Adults say children should take up more space in the world, but push back when they do – it's time to make room for them, the writer argues.",
+    "upside": 2
+  },
+  "/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere": {
+    "headline": "Paris treaty still guides climate progress a decade on, experts say",
+    "trail": "Experts say the Paris treaty remains a vital moral compass for climate progress, even though its key temperature goal has been missed.",
+    "upside": 2
+  },
+  "/football/2026/nov/07/a-footballing-alien-mamadou-sangare-brentford-mali-premier-league": {
+    "headline": "'A footballing alien' at six, Sangaré now shines for Brentford",
+    "trail": "Brentford's £39m-rated midfielder from Mali first stood out at six, and has been shining in the Premier League since.",
+    "upside": 2
+  },
+  "/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences": {
+    "headline": "Bipartisan scrutiny mounts on Pete Hegseth after Democrats' midterm wave",
+    "trail": "The 'secretary of war' faces growing bipartisan scrutiny over his shameful history, with questions mounting over whether he could be the next casualty of the Democrats' sweeping midterm gains.",
+    "upside": 1
+  },
+  "/world/2026/nov/08/nz-election-2026-national-labour-rejection-by-voters": {
+    "headline": "New Zealand voters call for transformational change after election verdict",
+    "trail": "National and Labour both flatlined at the polls, as voters send a clear message that the two major parties have only themselves to blame.",
+    "upside": 1
+  },
+  "/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation": {
+    "headline": "Uyghurs deported from Thailand say they will become 'like slaves' in China",
+    "trail": "Activists worry Bangkok will give in to pressure from Beijing, despite reports of torture and human rights abuses against the mostly Muslim ethnic minority.",
+    "upside": 0
+  },
+  "/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle": {
+    "headline": "Charges and scrutiny test Reform's vetting as party expands rapidly",
+    "trail": "Charges against party members and off-piste remarks have exposed problems in how Reform vets candidates, as its rapid growth puts new strain on the process.",
+    "upside": 1
+  },
+  "/us-news/2026/nov/07/youth-vote-turnout-midterm-elections": {
+    "headline": "Young voters power Democratic wave after turning out in force",
+    "trail": "'People are active, they are fed up': having helped elect Trump in 2024, young voters swung decisively to Democrats, delivering a wave of midterm victories.",
+    "upside": 3
+  },
+  "/environment/2026/nov/07/dark-skies-festival-exmoor-light-pollution": {
+    "headline": "'Mind-blowing': stargazers escape light pollution at Exmoor dark skies festival",
+    "trail": "The UK is the 14th most light-polluted country, but in south-west England the veil is lifted at the dark skies festival, delighting visiting fans.",
+    "upside": 2
+  },
+  "/business/2026/nov/07/great-british-railways-new-dawn-for-a-new-network-but-with-plenty-of-old-problems-to-fix": {
+    "headline": "Great British Railways launches new era for Britain's train network",
+    "trail": "Great British Railways takes charge of the network, though experts predict a baptism of fire in 2027, from clapped-out trains and track to extreme weather.",
+    "upside": 2
+  },
+  "/games/2026/nov/07/gotta-buy-em-all-how-pokemon-card-collecting-became-race-against-scalpers": {
+    "headline": "Pokémon card collectors face a scalper-driven, cutthroat market",
+    "trail": "Fans trying to access the latest releases are being priced out in a cutthroat market driven by crypto-like hype.",
+    "upside": 0
+  },
+  "/film/2026/nov/07/johnny-depp-ebenezer-film-scrooge-hollywood": {
+    "headline": "Johnny Depp lands first big studio role as Ebenezer Scrooge",
+    "trail": "The actor takes on Dickens' Ebenezer Scrooge in his first big studio role since years overshadowed by legal battles with ex-wife Amber Heard.",
+    "upside": 2
+  },
+  "/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots": {
+    "headline": "Semi-retired professor stands her ground against Philadelphia's food delivery robots",
+    "trail": "Carolyn Marvin became a local celebrity for facing down the city's growing robot delivery army, insisting it is her 'first amendment right to protest'.",
+    "upside": 2
+  },
+  "/australia-news/2026/nov/06/what-now-for-trump-a-cruise-from-hell-and-manhood-enhancements": {
+    "headline": "Five Great Reads: Trump's next chapter, a cruise from hell and manhood enhancements",
+    "trail": "The Guardian's weekend wrap of essential reads from the past seven days, selected by Miles Herbert and Jacqui Housden.",
+    "upside": 2
+  },
+  "/culture/2026/nov/07/going-out-staying-in-wild-horse-nine-kings-of-leon": {
+    "headline": "Your complete entertainment guide for the week ahead",
+    "trail": "John Malkovich and Sam Rockwell team up in a typically offbeat Martin McDonagh comedy, and the Followill brothers reach album No 10 in rustic mode.",
+    "upside": 2
+  },
+  "/sport/2026/nov/06/nations-championship-rugby-league-world-cup-and-nfl-action-follow-with-us": {
+    "headline": "Follow live: Nations Championship, Rugby League World Cup and NFL action",
+    "trail": "Here's how to follow along with our coverage – the finest writing and up-to-the-minute reports.",
+    "upside": 2
+  },
+  "/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery": {
+    "headline": "Why Unai Emery is right to stay at Aston Villa, not Manchester United",
+    "trail": "The Spaniard may feel Old Trafford's allure when Villa visit on Sunday, but he is right to stick with a club offering brighter prospects, argues the Guardian's writer.",
+    "upside": 2
+  },
+  "/football/2026/nov/07/enzo-maresca-nottingham-forest-manchester-city-premier-league": {
+    "headline": "Man City's Maresca: 'we didn't match' the desire needed at Forest",
+    "trail": "The manager admitted after Manchester City's third successive league defeat, this time away at Nottingham Forest: 'You need desire and intensity to win duels … we didn't match them.'",
+    "upside": 0
+  },
+  "/football/2026/nov/07/arsenal-hull-premier-league-match-report": {
+    "headline": "Arsenal's Ødegaard breaks Hull's resistance to stretch their lead at the top",
+    "trail": "Martin Ødegaard scored in the 72nd minute to stretch Arsenal's lead at the top of the Premier League with a 1-0 victory at home to Hull.",
+    "upside": 3
+  },
+  "/sport/2026/nov/07/scotland-new-zealand-nations-championship-rugby-union-match-report": {
+    "headline": "Ewan Ashman's hat-trick shines for Scotland against dominant All Blacks",
+    "trail": "A first-half hat-trick from Ewan Ashman was not enough as Scotland were beaten 43-21 by New Zealand in the Nations Championship at Murrayfield.",
+    "upside": 2
+  },
+  "/sport/2026/nov/07/lando-norris-claims-pole-for-f1-sao-paulo-gp-as-rain-disrupts-qualifying": {
+    "headline": "Lando Norris claims pole for F1 São Paulo GP in the rain",
+    "trail": "The McLaren driver coped best with 'crazy' wet conditions to edge out Mercedes pair Kimi Antonelli and George Russell in qualifying for the Brazil Grand Prix.",
+    "upside": 3
+  },
+  "/commentisfree/2026/nov/07/andy-burnham-take-control-small-measures-ebikes": {
+    "headline": "Small measures on ebikes and flytipping can help people feel in control, writer argues",
+    "trail": "E-bikes, noisy headphones and flytipping may seem small, but Guardian columnist Gaby Hinsliff says Burnham's focus on these issues can make a real difference to how people feel about life.",
+    "upside": 2
+  },
+  "/commentisfree/2026/nov/06/russell-brand-justice-comedy-other-abusers": {
+    "headline": "Russell Brand's conviction shows survivors' voices can win justice, writer argues",
+    "trail": "Sarah Solemani says Brand has finally faced justice, but adds that other abusers in comedy still hide behind trusted public personas.",
+    "upside": 2
+  },
+  "/commentisfree/2026/nov/07/midterms-israel-criticism": {
+    "headline": "Criticism of Israel's actions may have boosted winning US midterm candidates, writer argues",
+    "trail": "In a reversal of longstanding assumptions, the writer argues that strong criticism of Israel's actions may have helped put candidates over the top in the US midterms.",
+    "upside": 2
+  },
+  "/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe": {
+    "headline": "Europe must show resilience against mounting greyzone sabotage, says security expert",
+    "trail": "Freezer meltdowns and airline hoaxes are a taste of things to come, writes Elisabeth Braw – hoping for the best is no longer an option for Europe.",
+    "upside": 1
+  },
+  "/commentisfree/2026/nov/07/moscow-novaya-gazeta-journalism-russia-newspaper": {
+    "headline": "Novaya Gazeta's spirit of journalism will live on, says reporter",
+    "trail": "Russia has shut down Novaya Gazeta, its best-known independent newspaper and journalist Elena Kostyuchenko's home for 17 years, but she says its spirit of truth-telling will live on.",
+    "upside": 1
+  },
+  "/commentisfree/2026/nov/06/the-guardian-view-on-russell-brand-his-conviction-sends-a-powerful-message": {
+    "headline": "Survivors' courage finally brings accountability for Brand, the Guardian view says",
+    "trail": "Editorial: the brave women who testified against the star have challenged the sexual entitlement that he personified.",
+    "upside": 2
+  },
+  "/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future": {
+    "headline": "The Guardian view on the AI backlash: voters are reclaiming power from Silicon Valley",
+    "trail": "Editorial: tech stocks have lost trillions in value as voters reject the industry's billionaire-backed political champions, forcing a democratic reckoning on AI's power.",
+    "upside": 2
+  },
+  "/fashion/2026/nov/06/john-smedley-will-always-be-in-vogue": {
+    "headline": "A reader's love letter to John Smedley's black jumper",
+    "trail": "Letter: Tim Heavisides recalls why he's stayed loyal to the historic fashion firm, and to one black jumper in particular.",
+    "upside": 2
+  },
+  "/society/2026/nov/06/like-the-danes-we-need-to-pay-for-the-society-we-want": {
+    "headline": "A reader makes the case for funding society the way Denmark does",
+    "trail": "Letter: Karin Blak responds to a piece on children's homes in crisis, drawing on lessons from Denmark's funding model.",
+    "upside": 2
+  },
+  "/society/2026/nov/06/autism-masking-and-building-a-more-inclusive-world": {
+    "headline": "Readers reflect on autism, masking and a more welcoming world",
+    "trail": "Letters: readers respond to John Harris's article on the rise in the number of people labelled autistic over the last 20 years.",
+    "upside": 2
+  },
+  "/world/2026/nov/06/israels-election-and-self-definition-invite-questions": {
+    "headline": "Israel's election and self-definition invite questions",
+    "trail": "Letter: Dr Richard Skues responds to Jonathan Freedland's argument that the opposition cannot win unless it joins forces with Arab parties.",
+    "upside": 2
+  },
+  "/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid": {
+    "headline": "Kyiv hit by blackouts after Russian missile and drone strikes on energy grid",
+    "trail": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and a bridge over the Dnipro, leaving parts of the city without water.",
+    "upside": 0
+  },
+  "/world/2026/nov/08/nepal-tibet-floods-australians-still-missing-families": {
+    "headline": "Families search for answers 10 weeks after Nepal's floods",
+    "trail": "From Sydney to South Africa, relatives text loved ones with no reply, but some still hold hope of an answer about those missing since the floods.",
+    "upside": 0
+  },
+  "/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies": {
+    "headline": "Charity members back search for a bank that matches National Trust's values",
+    "trail": "The charity's AGM voted overwhelmingly to launch a tendering process for a new bank, after criticism of current partner Barclays over fossil fuel investment.",
+    "upside": 2
+  },
+  "/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count": {
+    "headline": "New Zealand's National party leads as election count continues",
+    "trail": "National will be the largest party in parliament, though the final shape of the next government will not be settled for some time.",
+    "upside": 2
+  },
+  "/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office": {
+    "headline": "Court rules in favour of trafficking victim over Home Office",
+    "trail": "The department had argued that being kidnapped for ransom was not exploitation of a trafficking victim, in the case of a Syrian man abducted in Libya.",
+    "upside": 3
+  },
+  "/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia": {
+    "headline": "Thunderstruck: how our understanding of lightning is changing in a warming world",
+    "trail": "Humans have long been awed by lightning's power and beauty; here is how that experience and understanding are shifting as the climate warms.",
+    "upside": 2
+  },
+  "/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy": {
+    "headline": "Lanarkshire AI datacentre revises plan to run fully on renewable energy",
+    "trail": "DataVita revised its plans for the Chapelhall site after it emerged the development would have fully relied on the National Grid despite earlier claims of running entirely on renewables.",
+    "progress": "DataVita's new plan is to power the Chapelhall site entirely with 1GW of renewable energy.",
+    "upside": 2
+  },
+  "/environment/2026/nov/06/uk-trees-early-spring-mild-autumn": {
+    "headline": "UK trees flower six months early as mild autumn continues",
+    "trail": "Experts say mild autumn temperatures are triggering premature flowering in UK trees, and are concerned about the impact on pollinators.",
+    "upside": 0
+  },
+  "/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured": {
+    "headline": "Three teenagers arrested over Gloucester sword attack",
+    "trail": "The 17-year-old was injured and armed police attended the scene, which led to two nearby schools going into lockdown.",
+    "upside": 1
+  },
+  "/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans": {
+    "headline": "Researchers say TikTok helps OnlyFans performers market adult content to girls",
+    "trail": "Popular OnlyFans performers are covertly marketing adult content and highlighting a wealthy lifestyle to young followers on the platform, researchers found.",
+    "upside": 0
+  },
+  "/uk-news/2026/nov/07/super-force-plans-england-wales-threaten-local-policing-mayors": {
+    "headline": "Mayors push back against 'super-force' police merger plan",
+    "trail": "Regional leaders are pushing back against the Met chief's proposal to merge the 43 police forces into eight or 10, saying it runs counter to the devolution drive.",
+    "upside": 1
+  },
+  "/society/2026/nov/07/early-release-prisoners-street-homelessness-england": {
+    "headline": "Andy Burnham presses on with plan to end rough sleeping by Christmas",
+    "trail": "The plan comes under new strain as probation staff and charities say that releasing prisoners early exposes a 'fatal flaw' in reaching that goal.",
+    "upside": 1
+  },
+  "/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster": {
+    "headline": "'Finally there's hope': UK sees new opportunities as Trump stumbles",
+    "trail": "Senior British politicians and officials point to the chance to help end the Iran war after Trump's heavy losses in the US midterms, though they caution the president is not yet 'a spent force'.",
+    "progress": "British officials say the political shift creates room to help end the Iran war.",
+    "upside": 2
+  },
+  "/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena": {
+    "headline": "Paraguay charges ex-president Peña over banking failure",
+    "trail": "Prosecutors have requested Peña be placed in preventive custody over his alleged role in the banking failure that ended his presidency and left millions of Paraguayans broke.",
+    "progress": "Prosecutors are pursuing charges against Peña over his alleged role in the failure.",
+    "upside": 1
+  },
+  "/world/2026/nov/07/el-savador-war-on-gangs-haiti": {
+    "headline": "El Salvador extends its war on gangs into Haiti",
+    "trail": "Experts say soldiers could face fierce battles in Haiti's sprawling slums, and question President Bukele's motives for extending his anti-gang campaign there.",
+    "upside": 0
+  },
+  "/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine": {
+    "headline": "Cisco staff protest company's expanding military ties with Israel",
+    "trail": "Leaked documents show the tech giant deepened its relationship with the Israeli military during the Gaza war, even as its own staff protested the company's role.",
+    "progress": "Cisco employees have publicly protested the company's expanding military ties with Israel.",
+    "upside": 1
+  },
+  "/business/2026/nov/07/job-cuts-lost-customers-and-a-22bn-debt-pile-what-has-gone-wrong-at-virgin-media-o2": {
+    "headline": "Virgin Media O2 faces £22bn debt pile amid fierce competition for customers",
+    "trail": "The company has lost 182,000 broadband and 644,000 mobile customers in two years and carries a £22bn debt pile, as job cuts continue amid growing competition.",
+    "upside": 0
+  },
+  "/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate": {
+    "headline": "Nationwide launches savings account with 'market leading' 5.3% interest",
+    "trail": "Many experts think the fixed rate on the 30-month term will still look attractive even after the Bank of England raised its base rate.",
+    "upside": 3
+  },
+  "/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you": {
+    "headline": "More than 100,000 words are restricted from iPhone's predictive text, research finds",
+    "trail": "Apple's 'grey list' blocks the tech giant's predictive text from completing phrases such as 'male chauvinist pig', among more than 100,000 restricted words and phrases, research shows.",
+    "upside": 2
+  },
+  "/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer": {
+    "headline": "US tech stocks fall sharply as investors question AI valuations",
+    "trail": "After Thursday's share price tumble on Wall Street, questions are mounting over whether a broader market downturn is beginning.",
+    "upside": 0
+  },
+  "/tv-and-radio/2026/nov/07/the-good-daughter-rose-byrne-legal-thriller-peacock-sky-atlantic": {
+    "headline": "The Good Daughter leans into glossy melodrama with Rose Byrne and Meghann Fahy",
+    "trail": "This slightly overblown psychological drama, starring Rose Byrne and Meghann Fahy as sisters, verges on farce — though it is a story about trauma where everyone still looks astonishingly beautiful.",
+    "upside": 1
+  },
+  "/tv-and-radio/2026/nov/07/tv-tonight-from-bowie-to-stormzy-its-the-bbcs-greatest-music-moments": {
+    "headline": "TV tonight: music's biggest moments, from Bowie to Stormzy",
+    "trail": "Enjoy a night of wall-to-wall pop icons, plus Alfie Boe, James Emmanuel and Mica Paris performing at the Festival of Remembrance — here's what to watch this evening.",
+    "upside": 2
+  },
+  "/tv-and-radio/2026/nov/07/eurovision-asia-bangkok-song-contest": {
+    "headline": "Bangkok becomes the testing ground for Eurovision's leap into Asia",
+    "trail": "Organisers are hopeful that this bold attempt to bring the song contest to Asia will pay off.",
+    "upside": 2
+  },
+  "/tv-and-radio/2026/nov/06/monty-don-gardeners-world-farewell-goodbye": {
+    "headline": "Gardeners' World says a calm, unfussy farewell to its most soothing host",
+    "trail": "Known for calming viewers for years, Monty Don leaves our screens in his own gentle way, without a trace of fuss.",
+    "upside": 2
+  },
+  "/music/2026/nov/06/spice-girls-the-singles-collection-review-stop-fleecing-your-fans-right-now-thank-you-very-much": {
+    "headline": "Posh's lead vocal is the one true gem on new Spice Girls set",
+    "trail": "The reunion package fans hoped for turns out to be a cash-grab box set, the review says, though one rare track with Victoria Beckham on lead vocals stands out.",
+    "upside": 2
+  },
+  "/culture/2026/nov/06/laptop-twee-is-the-gloriously-awkward-sound-giving-british-pop-a-new-lease-of-life": {
+    "headline": "Laptop twee: the gloriously awkward sound reviving British pop",
+    "trail": "This week’s newsletter traces a new wave of artists embracing wonky electronic production, earnest lyrics, nostalgia and DIY pop to give British music fresh energy.",
+    "upside": 2
+  },
+  "/music/2026/nov/06/wynonna-judd-country-music-interview-naomi-hard-truth-new-album": {
+    "headline": "Wynonna Judd strips back Nashville polish for her most personal album yet",
+    "trail": "The country star has dropped Nashville's gloss for pared-back songs confronting her mother's death and decades of personal struggle, calling the album 'a labour of love'.",
+    "progress": "Judd says making the album, built from grief, was itself a labour of love.",
+    "upside": 2
+  },
+  "/books/2026/nov/06/nikita-gill-i-read-flowers-in-the-attic-too-young-someone-should-have-stopped-me": {
+    "headline": "Nikita Gill on the Mahabharata retelling that inspired her to write",
+    "trail": "The Indian-Irish poet discusses the book that sparked her writing career, Arundhati Roy’s courage and the poetry of Lucille Clifton, alongside reading ‘Flowers in the Attic’ too young.",
+    "upside": 2
+  },
+  "/books/2026/nov/06/true-north-by-paul-theroux-review-an-americans-view-of-canada": {
+    "headline": "Paul Theroux turns his travel writer’s eye on Canada in True North",
+    "trail": "The veteran American travel writer brings his eye for detail to his northern neighbour, exploring its people in this new book.",
+    "upside": 2
+  },
+  "/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch": {
+    "headline": "Zelda: Ocarina of Time revives the midnight game launch tradition",
+    "trail": "Joining hundreds queuing on Oxford Street for early copies and collectibles, our writer found a heartwarming reminder of the shared joy of fandom.",
+    "upside": 2
+  },
+  "/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto": {
+    "headline": "From Heat to Boyz n the Hood: the films behind Grand Theft Auto",
+    "trail": "With GTA 6 approaching, this guide traces the cinema that shaped Rockstar's creative vision, including Heat, Bonnie and Clyde, Boyz n the Hood and Speed.",
+    "upside": 2
+  },
+  "/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch": {
+    "headline": "Zelda: Ocarina of Time remake turns a classic into a modern masterpiece",
+    "trail": "This ambitious remake makes a landmark game clearer to navigate and more beautiful to look at, with playful musical touches. Yet the melancholy remains.",
+    "upside": 2
+  },
+  "/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites": {
+    "headline": "This 2026 oddity about 8-bit fairies and Shakespeare became a surprise favourite",
+    "trail": "Titanium Court's bizarre mix of 8-bit fairies, Shakespeare and surprise songs means never quite knowing what's going on — and that's the appeal.",
+    "upside": 2
+  },
+  "/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn": {
+    "headline": "Flawed but intriguing, Speculations finds unexpected depths in Marilyn Monroe's story",
+    "trail": "Trevor Nunn directs Torben Betts's play, built around US journalist Dorothy Kilgallen's theories about the Kennedys.",
+    "upside": 2
+  },
+  "/stage/2026/nov/06/the-last-hamlet-review-sadlers-wells-east": {
+    "headline": "Ben Duke's gamble on an unconventional Hamlet pays off, cuddly toys included",
+    "trail": "Clever, witty and wholly unpredictable, The Last Hamlet takes big liberties with the story and makes them work.",
+    "upside": 2
+  },
+  "/artanddesign/2026/nov/06/the-week-in-art": {
+    "headline": "This week's art dispatch spans ancient treasures, fakes and the human form",
+    "trail": "Swap doomscrolling for treasured scrolls, bodies in every form, and love triangles in Bloomsbury squares — this week in art.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/07/painting-like-picture-of-yamuna-ghat-india-priya-ojha-best-phone-picture": {
+    "headline": "Fog, patience and a sacred river shape Priya Ojha's best phone picture",
+    "trail": "Dense fog hung over a sacred Indian river, but the photographer was not deterred, capturing a view that made the patience worthwhile.",
+    "upside": 2
+  },
+  "/film/2026/nov/06/sebastian-lelio-chilean-film-maker": {
+    "headline": "Sebastián Lelio's gift for the personal and political defined his films",
+    "trail": "The Chilean director behind Gloria and A Fantastic Woman had a rare gift for capturing both the personal and the political.",
+    "upside": 2
+  },
+  "/film/2026/nov/06/sebastian-lelio-chilean-director-dies": {
+    "headline": "Sebastián Lelio, director of Gloria and A Fantastic Woman, dies at 52",
+    "trail": "The Chilean film-maker, who directed Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago.",
+    "upside": 0
+  },
+  "/following-firsts-from-puppy-to-guide-dog/2026/nov/02/guide-dog-puppy-quiz-find-the-one-youd-love-to-sponsor": {
+    "headline": "Meet Nutmeg, Rudy and Bruce in Guide Dogs' sponsor-a-puppy quiz",
+    "trail": "The charity Guide Dogs is raising three puppies, Nutmeg, Rudy and Bruce, and invites readers to take a quiz to choose which one to support.",
+    "upside": 2
+  },
+  "/kick-on-effect/2026/oct/28/lucy-bronze-and-the-footballers-inspiring-girls-to-play": {
+    "headline": "Kick On initiative equips grassroots clubs growing women's football",
+    "trail": "Local clubs shaping tomorrow's stars are being equipped with essential kit through Starling's Kick On initiative, as one young player calls Lucy Bronze 'such an icon'.",
+    "upside": 2
+  },
+  "/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk": {
+    "headline": "What teens actually want this Christmas: 36 ideas, chosen by teens",
+    "trail": "From Polaroid cameras and skincare to loungewear and gaming accessories, teenage boys and girls share the presents they rate most for Christmas 2026.",
+    "upside": 2
+  },
+  "/thefilter/2026/nov/07/best-worst-supermarket-crumpets-tasted-rated": {
+    "headline": "The best supermarket crumpets, tasted and rated",
+    "trail": "Holey toasters: some supermarket crumpets turn out to be excellent, so our tasters rank which ones are worth buying and which to avoid.",
+    "upside": 2
+  },
+  "/thefilter/2026/sep/08/best-beauty-advent-calendars-2026-tested-uk": {
+    "headline": "Twenty beauty Advent calendars tested to find the UK’s best for 2026",
+    "trail": "With Christmas approaching and this year’s calendars already on sale, our tester picks the best bargain buys, cult favourites and cruelty-free options worth the money.",
+    "upside": 2
+  },
+  "/thefilter/2026/nov/05/best-reusable-christmas-decorations-uk": {
+    "headline": "Twelve ways to deck the halls without throwaway decorations",
+    "trail": "This year, swap throwaway decorations for 12 long-lasting, waste-free finds, from recycled wreaths to fabric advent calendars, that you'll reuse year after year.",
+    "upside": 2
+  },
+  "/thefilter/2026/nov/03/best-diy-homemade-christmas-gifts-uk": {
+    "headline": "How to craft seven special Christmas gifts, from pickles to a bee hotel",
+    "trail": "The best presents do not always come from a shop: here's how to make something special for 2026, with ideas from DIY decorations to gifts for the garden.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/07/blind-date-william-abigail": {
+    "headline": "William and Abigail’s blind date: ‘I told her I don’t like the theatre’",
+    "trail": "William, a 28-year-old PhD candidate, meets Abigail, a 24-year-old theatre artist, for a blind date.",
+    "upside": 2
+  },
+  "/food/2026/nov/07/stabbed-jailed-reborn-the-chef-who-lost-his-love-of-food-then-regained-it-behind-bars": {
+    "headline": "The chef who rediscovered his love of food while in jail",
+    "trail": "Nathaniel Mortley, stabbed and later jailed for drug offences, once dreamed of opening his own restaurant; now free, he is making up for lost time.",
+    "upside": 2
+  },
+  "/food/2026/nov/07/vegetarian-roast-beetroot-recipe-pickled-raisins-blue-cheese-jackson-boxer": {
+    "headline": "Jackson Boxer turns roast beetroot into a dish worth converting sceptics",
+    "trail": "Even beetroot sceptics may be surprised by the flavours in this vegetarian dish of roast beetroot, pickled raisins and blue cheese.",
+    "upside": 2
+  },
+  "/food/2026/nov/06/steamed-chocolate-puddings-malted-chocolate-sauce-recipe-benjamina-ebuehi": {
+    "headline": "Benjamina Ebuehi's steamed chocolate puddings warm up pudding season",
+    "trail": "It's steamed pudding season again, and there are few better ways to serve it than with hot chocolate sauce and a scoop of ice-cream.",
+    "upside": 2
+  },
+  "/wellness/2026/nov/06/single-women-relationship-to-sex": {
+    "headline": "14 single women open up on their relationship to sex",
+    "trail": "Women of all ages across the globe share their sexual experiences amid a time of supposed societal sexual upheaval.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/06/my-childhood-was-one-of-survival-and-resilience-how-can-i-model-a-joyful-life-for-my-kids": {
+    "headline": "How to model a joyful life for your kids after a childhood of survival",
+    "trail": "Start with the feeling, not the activities, writes advice columnist Eleanor Gordon-Smith. Making more room for enjoyment is also making more room for your actual self.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/05/you-be-the-judge-wife-keep-out-neighbours-disputes": {
+    "headline": "You be the judge: should my wife keep out of our neighbours' disputes?",
+    "trail": "Rosie has become co-chair of their apartment block committee, but Marcus thinks she should take a back seat. Whose argument falls flat? You decide.",
+    "upside": 2
+  },
+  "/money/2026/nov/07/can-ai-save-you-money-heating-bill": {
+    "headline": "Two years testing AI control of my heating bill surprised me, writer finds",
+    "trail": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control. The results surprised him.",
+    "upside": 2
+  },
+  "/money/2026/nov/04/our-house-purchase-is-at-risk-from-a-frozen-revolut-account": {
+    "headline": "Frozen Revolut account holds up couple's £37,000 house purchase",
+    "trail": "Access to their £37,000 deposit in a savings account is restricted after a 'routine security review'.",
+    "upside": 0
+  },
+  "/money/2026/nov/03/british-airways-lost-my-fathers-vital-life-saving-machine": {
+    "headline": "Father left without dialysis machine after British Airways damages, then loses it",
+    "trail": "He needs the machine to survive; on the flight it was first damaged, then lost entirely.",
+    "upside": 0
+  },
+  "/lifeandstyle/2026/nov/07/yes-saunas-are-great-but-have-you-heard-of-this-amazing-thing-called-a-bath": {
+    "headline": "Science confirms what the ancient Greeks suspected: a hot bath aids health",
+    "trail": "Ever since the ancient Greeks, we've suspected that soaking in hot water is good for your health. Now science has proved it.",
+    "upside": 3
+  },
+  "/lifeandstyle/2026/nov/04/a-moment-that-changed-me-i-was-terrified-of-my-own-body-until-a-surprising-20-mile-bike-ride": {
+    "headline": "A moment that changed me: a 20-mile bike ride transformed how I saw my body",
+    "trail": "I grew up with spinal conditions that solidified my sense of being 'weak and weird'. By my late 30s, I was feeling burnt out. But an invitation from a colleague set me on an unexpected and exhilarating new path.",
+    "upside": 3
+  },
+  "/wellness/2026/nov/03/what-is-sad-nipple-syndrome": {
+    "headline": "'The nipple touch of doom': the mystery behind sudden bursts of sadness",
+    "trail": "People everywhere are searching for the reason behind their sudden bursts of anguish or homesickness.",
+    "upside": 2
+  },
+  "/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries": {
+    "headline": "Docuseries examines the dark, deadly world of looksmaxxing",
+    "trail": "A disturbing new docuseries delves deep into a world where men are pushing their bodies to the extreme, and some of them are dying for it.",
+    "upside": 0
+  },
+  "/fashion/2026/nov/06/minimal-look-maximal-politics-how-the-black-t-shirt-became-a-political-weapon": {
+    "headline": "Why the plain black T-shirt has become a symbol of political power",
+    "trail": "Worn by Democrat Abdul El-Sayed, Andy Burnham and Volodymyr Zelenskyy, fashion experts say the look radiates authority and no-nonsense masculinity.",
+    "upside": 2
+  },
+  "/fashion/2026/nov/06/martine-rose-appointed-creative-director-balenciaga-fashion-house": {
+    "headline": "Martine Rose breaks race and gender barriers as Balenciaga's creative director",
+    "trail": "Fashion house move marks breakthrough in white, male-dominated industry.",
+    "upside": 3
+  },
+  "/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season": {
+    "headline": "Prince, the pope and autumn 2026: purple is having a moment",
+    "trail": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is hot this season. If you really want to stand out, wear it with red.",
+    "upside": 2
+  },
+  "/travel/2026/nov/06/readers-travel-tips-best-conservation-tourism-holidays": {
+    "headline": "Readers share best conservation trips, from reef regrowth to rewilding",
+    "trail": "From a sea turtle rescue centre in Italy to rewilding in the Scottish Highlands, here are some of your favourite trips that give a little back.",
+    "upside": 3
+  },
+  "/travel/2026/nov/05/locals-guide-belgrade-best-sights-restaurants-nightlife": {
+    "headline": "A local's guide to Belgrade, where new optimism follows the elections",
+    "trail": "A new optimism pervades the Serbian capital following the recent elections, making it a great time to visit its bars, clubs, markets and riverside hotspots.",
+    "upside": 2
+  },
+  "/travel/2026/nov/04/calming-autumn-cabin-stay-in-north-norfolk": {
+    "headline": "'Overlooked only by trees': a calming autumn cabin stay in north Norfolk",
+    "trail": "With its secluded orchard location, private sauna and hot tub, this off-grid cabin is the perfect place to kick back, with beaches and pubs just a short stroll away.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/07/tim-dowling-moral-of-this-story-is-i-am-easily-led": {
+    "headline": "Tim Dowling: my wife out-diplomats me over the closed street",
+    "trail": "When our street is closed for roadworks, I join the neighbours in their indignation. My wife, meanwhile, charms the man in the hard hat into reopening it.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/07/what-links-leonard-cohen-amelia-earhart-and-graham-nash-the-saturday-quiz": {
+    "headline": "What links Leonard Cohen, Amelia Earhart and Graham Nash? The Saturday quiz",
+    "trail": "From carpals, metacarpals and phalanges to the Valsalva manoeuvre, test your knowledge with the Saturday quiz.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/07/is-crochet-or-knitting-harder-to-do-and-how-are-glasses-made-the-kids-quiz": {
+    "headline": "Is crochet or knitting harder to do and how are glasses made? The kids' quiz",
+    "trail": "Five multiple-choice questions, set by children, to test your knowledge, and a chance to submit your own junior brainteasers for future quizzes.",
+    "upside": 2
+  },
+  "/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist": {
+    "headline": "Brand's conviction raises questions about fame and accountability",
+    "trail": "The former comedian long traded on his extreme persona; his conviction as a rapist now leaves many wondering how he was allowed to act in plain sight for so long.",
+    "upside": 1
+  },
+  "/world/2026/nov/05/tell-us-have-you-been-affected-by-the-bomb-threats-to-flights-in-europe": {
+    "headline": "Tell us: have you been affected by the bomb threats to flights in Europe?",
+    "trail": "We'd like to hear from passengers and airline staff caught up in the disruption caused by a series of bomb threats to commercial flights.",
+    "upside": 2
+  },
+  "/technology/2026/nov/06/teachers-and-parents-what-are-your-experiences-of-ai-generated-emails": {
+    "headline": "Teachers and parents: what are your experiences of AI-generated emails?",
+    "trail": "We'd like to hear from teachers and parents about how AI is changing communication between schools and families.",
+    "upside": 2
+  },
+  "/lifeandstyle/2026/nov/05/tell-us-how-are-you-celebrating-diwali-the-festival-of-lights": {
+    "headline": "Tell us: how are you celebrating Diwali, the festival of lights?",
+    "trail": "We'd love to hear from people in India and around the world about how they are celebrating Diwali.",
+    "upside": 2
+  },
+  "/uk-news/2026/jul/08/tell-us-are-you-a-young-person-in-northern-england-struggling-to-find-work": {
+    "headline": "Tell us: young people in northern England, tell us about your search for work",
+    "trail": "We would like to hear from young people in the north of England who are struggling to find work about their experiences.",
+    "upside": 1
+  },
+  "/us-news/2026/nov/07/wisconsin-state-trooper-ice-released": {
+    "headline": "ICE releases Wisconsin trooper held in immigration custody",
+    "trail": "Carel Aaron Van Der Merwe immigrated to the US at 14 and has been waiting seven years for his asylum case to be heard.",
+    "upside": 3
+  },
+  "/us-news/2026/nov/07/donald-trump-dana-white-press-secretary": {
+    "headline": "Trump says he asked UFC boss Dana White to be press secretary",
+    "trail": "White says he has a meeting with Trump in Washington DC on Monday, without saying whether he will accept the job.",
+    "upside": 2
+  },
+  "/world/2025/may/12/poland-to-close-russian-consulate-krakow-warsaw-shopping-centre-fire": {
+    "headline": "Poland holds Russia to account over Warsaw shopping centre fire",
+    "trail": "Ministers say an investigation found Russian intelligence services responsible for a Warsaw shopping centre fire last year, and are now closing Russia's Kraków consulate in response.",
+    "upside": 1
+  },
+  "/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims": {
+    "headline": "Bus crash in Hungary kills 12 Polish pilgrims",
+    "trail": "Ten more people are in serious condition after the bus veered off a motorway and overturned.",
+    "upside": 0
+  },
+  "/world/2026/aug/27/britain-ukraine-war-russia": {
+    "headline": "UK moves to help Ukraine build long-range missile capacity",
+    "trail": "Moscow says it could retaliate after Andy Burnham said the UK would help Ukraine start producing long-range missiles, calling Britain 'playing with fire', after reports the CIA chief had already cautioned the Kremlin against attacking Nato.",
+    "upside": 2
+  },
+  "/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki": {
+    "headline": "Morawiecki says he was forced out over a loyalty pledge ultimatum",
+    "trail": "Former prime minister Mateusz Morawiecki and his allies say they were pushed out of the party over factional disagreements, following a loyalty pledge ultimatum.",
+    "upside": 0
+  },
+  "/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer": {
+    "headline": "The bomb threats disrupting flights across Europe, explained",
+    "trail": "More than 30 flights have been disrupted this week, prompting questions about how worried travellers should be about their plans.",
+    "upside": 0
+  },
+  "/world/2026/jul/07/woman-suspected-monaco-bombing-shot-dead-kyiv": {
+    "headline": "Woman sought over Monaco bombing found shot dead near Kyiv",
+    "trail": "Police had been looking for Anastasiia Berezovska over an attack that seriously injured a Ukraine-born businessman.",
+    "upside": 0
+  },
+  "/society/2023/sep/04/sharp-rise-in-wait-times-for-perinatal-mental-health-care-in-england": {
+    "headline": "Demand for perinatal mental health care in England outstrips supply",
+    "trail": "New and expectant mothers are being left to 'suffer in silence' as demand for care outstrips supply, the Guardian has found.",
+    "upside": 0
+  },
+  "/society/2026/jun/24/nottingham-maternity-care-scandal-review-key-findings": {
+    "headline": "Review lays out scale of failures in Nottingham maternity scandal",
+    "trail": "An examination of 2,500 cases between 2012 and 2025 found systemic, deep-rooted failures, a bullying culture and racism.",
+    "upside": 0
+  },
+  "/society/2025/dec/17/caesareans-overtake-natural-vaginal-births-england-for-first-time-nhs-data": {
+    "headline": "Caesarean births overtake vaginal deliveries in England for the first time",
+    "trail": "NHS data shows 45% of births were by caesarean section, 44% by natural vaginal delivery and 11% assisted with forceps or ventouse.",
+    "upside": 2
+  },
+  "/society/2024/sep/19/poor-nhs-maternity-care-in-danger-of-becoming-normalised-regulator-cqc": {
+    "headline": "CQC report spotlights danger of normalising poor maternity care",
+    "trail": "The regulator issued a damning report on maternity services in England, as a minister admitted anxiety about the 'risk of disaster'.",
+    "upside": 0
+  },
+  "/society/2021/jul/22/nhs-staff-have-lost-thousands-in-real-pay-since-2011-study-finds": {
+    "headline": "Studies reveal scale of NHS pay erosion since 2011",
+    "trail": "Analysis by a thinktank and the GMB union shows how far pay has fallen once adjusted for inflation.",
+    "upside": 0
+  },
+  "/society/2026/feb/09/almost-70-percent-nhs-areas-england-one-cycle-ivf-data-infertility": {
+    "headline": "Data lays bare patchy access to NHS fertility treatment in England",
+    "trail": "Almost 70% of areas offer only one cycle of IVF, which a charity says breaks Nice guidelines and devastates couples struggling with infertility.",
+    "upside": 0
+  },
+  "/world/2019/nov/20/israel-opposition-leader-benny-gantz-fails-to-form-coalition-government": {
+    "headline": "Gantz unable to form Israeli coalition government",
+    "trail": "The failure pushes the country closer to a third round of elections within a year.",
+    "upside": 0
+  },
+  "/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision": {
+    "headline": "Eisenkot wins backing of 67 lawmakers in Israeli coalition race",
+    "trail": "President Herzog says he will decide on Sunday who should try to form a government, as Netanyahu's rival gains significant support.",
+    "upside": 2
+  },
+  "/world/2021/jun/02/yair-lapid-israel-president-government-naftali-bennett-benjamin-netanyahu": {
+    "headline": "Yair Lapid tells Israel's president he has the numbers to form a government",
+    "trail": "Under Yair Lapid's proposed deal, far-right politician Naftali Bennett would replace Benjamin Netanyahu as prime minister.",
+    "upside": 2
+  },
+  "/world/2021/may/04/israels-netanyahu-struggles-to-form-government-before-deadline": {
+    "headline": "Netanyahu unable to build coalition before deadline",
+    "trail": "The veteran leader could not create a coalition after an inconclusive election on 23 March.",
+    "upside": 0
+  },
+  "/world/2026/oct/15/israel-gadi-eisenkot-profile-netanyahu-election": {
+    "headline": "Gadi Eisenkot: the 'menschy' former general taking on Netanyahu",
+    "trail": "The 'menschy' former general contrasts with the prime minister in style and character, though on key policy points, peace included, he keeps a studied ambiguity.",
+    "upside": 2
+  },
+  "/world/2019/sep/25/israels-president-chooses-netanyahu-to-form-government": {
+    "headline": "Rivlin hands Netanyahu mandate to form government",
+    "trail": "The president acted after talks between the ruling party and opposition stalled, frustrating him.",
+    "upside": 0
+  },
+  "/environment/2023/apr/24/european-countries-pledge-huge-expansion-of-north-sea-wind-farms": {
+    "headline": "Europe backs major North Sea wind power expansion",
+    "trail": "Nine countries have signed a declaration to turn the North Sea into what they call 'Europe's biggest green power plant'.",
+    "upside": 3
+  },
+  "/uk-news/ng-interactive/2017/feb/20/what-the-eu27-want-brexit-red-lines-from-the-other-side-of-the-table": {
+    "headline": "What Europe's red lines reveal about the shape of a Brexit deal",
+    "trail": "Britain's dealbreakers are well known; this looks at what its negotiating partners want, not all shared, but each set to shape any final deal.",
+    "upside": 2
+  },
+  "/politics/live/2019/may/26/european-elections-2019-results-eu-election-parliament-brexit-party-farage-tories-may-live": {
+    "headline": "Greens and far right make gains across European election",
+    "trail": "Tories are unlikely to deliver on Brexit, Nigel Farage said, as voters boosted the Greens and the far right at the expense of the centre, leaving centrist groups diminished across the EU.",
+    "upside": 1
+  },
+  "/politics/2016/may/18/brexeunt-stage-left-europeans-hoping-britain-votes-brexit": {
+    "headline": "Meet the Eurosceptics cheering on a British Brexit vote",
+    "trail": "While EU state leaders are firmly in the remain camp, some Eurosceptic parties would be glad to see Britain go.",
+    "upside": 2
+  },
+  "/world/2020/feb/21/eu-leaders-at-odds-over-filling-brexit-shortfall": {
+    "headline": "EU leaders fail to agree plan to fill €75bn Brexit budget gap",
+    "trail": "States were deeply divided over the budget, with big contributors rejecting proposals for them to pay more.",
+    "upside": 0
+  },
+  "/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander": {
+    "headline": "Minister makes case for deeper EU trade ties over solo deals",
+    "trail": "Douglas Alexander, on a trade delegation to India, argued joint trading arrangements with Europe offer greater economic benefits for the UK.",
+    "upside": 2
+  },
+  "/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump": {
+    "headline": "Trump names Stephen Miller as incoming White House chief of staff",
+    "trail": "Susie Wiles, the first woman to hold the role, is stepping down as Miller, architect of the president's hardline immigration enforcement drive, takes over.",
+    "upside": 1
+  },
+  "/us-news/2026/nov/07/stephen-miller-trump-loyalty": {
+    "headline": "Stephen Miller pledges 'total devotion' to Trump in new chief of staff role",
+    "trail": "The hardline aide offered 'unwavering commitment' to the president, amid concern the White House will double down on its far-right immigration agenda.",
+    "upside": 1
+  },
+  "/us-news/2026/aug/20/natalie-harp-security-clearance": {
+    "headline": "Ethics concerns raised over security clearance of top Trump aide",
+    "trail": "A former ethics tsar called it 'shocking' that Natalie Harp, an executive assistant to the president, reportedly worked for a year without clearance.",
+    "upside": 1
+  },
+  "/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar": {
+    "headline": "Trump names Jay Clayton to steer White House AI policy",
+    "trail": "Clayton, the intelligence chief, becomes the new White House AI czar, after saying during his confirmation hearing that AI is a 'gamechanger' that also poses 'a threat'.",
+    "upside": 2
+  },
+  "/us-news/2026/sep/19/stephen-miller-trump-migrant-children": {
+    "headline": "Critics challenge Stephen Miller's push to speed migrant child removals",
+    "trail": "The White House loyalist is orchestrating a multi-agency effort to accelerate the removal of migrant children, a push condemned by critics as cruel and racist.",
+    "progress": "Rights groups and critics have publicly condemned the push as cruel and racist.",
+    "upside": 1
+  },
+  "/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage": {
+    "headline": "ABC, CBS, Fox News and NBC decline White House pool coverage",
+    "trail": "The networks each declined to take part after Trump imposed a media ban; the White House has promoted its own 'Trump TV' feed online instead.",
+    "upside": 1
+  },
+  "/football/live/2025/mar/08/nottingham-forest-v-manchester-city-premier-league-live-score-updates": {
+    "headline": "Hudson-Odoi's late strike lifts Nottingham Forest past Manchester City",
+    "trail": "Callum Hudson-Odoi's late strike secured a 1-0 win over Manchester City and boosted Nottingham Forest's hopes of reaching the Champions League; join Scott Murray for live reaction.",
+    "upside": 3
+  },
+  "/football/live/2025/dec/27/nottingam-forest-v-manchester-city-premier-league-live": {
+    "headline": "Manchester City dig deep to edge past Nottingham Forest after Robertson tribute",
+    "trail": "City needed all their resolve to edge a 2-1 win at the City Ground, on an afternoon when John Robertson was remembered.",
+    "upside": 2
+  },
+  "/football/live/2024/apr/28/nottingham-forest-v-manchester-city-premier-league-live": {
+    "headline": "Gvardiol and Haaland goals keep Manchester City on top of the table",
+    "trail": "Josko Gvardiol and Erling Haaland both scored as City's 2-0 win at Nottingham Forest kept them in pole position for the title, with Forest still fighting to avoid relegation.",
+    "upside": 2
+  },
+  "/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live": {
+    "headline": "Delap's two stunning goals end Nottingham Forest's home barren run",
+    "trail": "Liam Delap's two stunning goals helped end Nottingham Forest's barren run at home, as they produced an impressive 3-1 win over Manchester City.",
+    "upside": 3
+  },
+  "/football/2023/feb/18/nottingham-forest-manchester-city-premier-league-match-report": {
+    "headline": "Chris Wood's late leveller denies Manchester City victory at Forest",
+    "trail": "Chris Wood's 84th-minute equaliser earned Nottingham Forest a 1-1 draw against a wasteful Manchester City.",
+    "upside": 3
+  },
+  "/football/2025/dec/27/nottingham-forest-manchester-city-premier-league-match-report": {
+    "headline": "Cherki's late winner extends Manchester City's run to six straight wins",
+    "trail": "Rayan Cherki struck in the 83rd minute to edge City to a 2-1 victory at a bold Nottingham Forest, extending City's Premier League winning run to six games.",
+    "upside": 3
+  },
+  "/society/2020/may/13/parents-disabled-children-buckling-under-24-hour-care-coronavirus": {
+    "headline": "Parents of disabled children carry 24-hour care alone during pandemic",
+    "trail": "With much outside help cancelled during the pandemic, families are providing complex care without support, with some parents describing being on the 'brink of collapse'.",
+    "upside": 0
+  },
+  "/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england": {
+    "headline": "Parents rush to secure Send support as thinktank flags concern for Labour's overhaul",
+    "trail": "The shake-up could unravel, a thinktank finds, as parents rush to secure support before a 'use it before you lose it' squeeze.",
+    "upside": 1
+  },
+  "/society/2009/feb/24/support-disabled-parents": {
+    "headline": "Few councils strike the right balance for disabled parents, watchdog says",
+    "trail": "A care watchdog finds that few councils get the balance right in helping disabled adults and the children who care for them.",
+    "upside": 0
+  },
+  "/society/2008/sep/23/disability.children": {
+    "headline": "Campaigners: disabled children shut out of play facilities",
+    "trail": "A new report finds that disabled children and young people are missing out on chances to play alongside able-bodied youngsters.",
+    "upside": 0
+  },
+  "/society/2011/jan/20/mother-disabled-child-parents": {
+    "headline": "Council funding worries grow for parents seeking disabled children support",
+    "trail": "Parents are struggling to get state support for their disabled children amid concern about the impact of council cuts.",
+    "progress": null,
+    "upside": 1
+  },
+  "/society/2018/aug/14/disabled-children-waiting-too-long-for-nhs-wheelchairs": {
+    "headline": "NHS England falls short of wheelchair delivery target for disabled children",
+    "trail": "NHS England has missed its target for delivering wheelchairs to more than 5,000 disabled children, leaving many waiting too long for essential equipment.",
+    "upside": 0
+  },
+  "/music/2023/jan/28/tom-verlaine-frontman-and-guitarist-of-us-band-television-dies-at-73": {
+    "headline": "Tom Verlaine, Television frontman behind Marquee Moon, dies at 73",
+    "trail": "The New York singer-songwriter fronted Television, who broke up in 1978 and are best remembered for Marquee Moon; he also worked with Patti Smith.",
+    "upside": 0
+  },
+  "/music/2021/sep/21/cabaret-voltaire-richard-h-kirk-dies-aged-65": {
+    "headline": "Richard H Kirk, influential Cabaret Voltaire founder, dies aged 65",
+    "trail": "Kirk was a founding member of the experimental Sheffield band, known for their provocative performances, and maintained a prolific solo career.",
+    "upside": 0
+  },
+  "/music/2013/nov/17/television-sage-gateshead-review": {
+    "headline": "Television's rare reunion gig keeps Marquee Moon's magic alive",
+    "trail": "The pioneering New York art-punks' rare appearance retains much of the magic of their legendary album Marquee Moon, writes Dave Simpson.",
+    "upside": 2
+  },
+  "/music/2025/mar/07/brian-james-founding-guitarist-of-the-damned-dies-aged-70": {
+    "headline": "Brian James, the Damned's founding guitarist, dies aged 74",
+    "trail": "James, the lead songwriter for the trailblazing British punks' debut album Damned Damned Damned, went on to collaborate with musicians including Iggy Pop.",
+    "upside": 0
+  },
+  "/us-news/2026/sep/21/chad-gilbert-new-found-glory-dead": {
+    "headline": "Chad Gilbert, New Found Glory's founding guitarist, dies aged 45",
+    "trail": "Gilbert's family say he died peacefully in his sleep, months after the My Friends Over You musician shared his stage four cancer diagnosis.",
+    "upside": 0
+  },
+  "/music/2016/may/20/john-berry-dead-founding-beastie-boys-member": {
+    "headline": "John Berry, who named the Beastie Boys, dies aged 52",
+    "trail": "Berry was part of the original punk band the hip-hop outfit sprang from, and left after the release of their first EP.",
+    "upside": 0
+  },
+  "/environment/2026/nov/06/proud-as-a-peacock-community-effort-sees-bird-that-broke-into-brisbane-home-reunited-with-owners": {
+    "headline": "Whole suburb's search reunites peacock Hex with his owners",
+    "trail": "Hex the peacock was found in an Alexandra Hills bathroom last week, admiring himself in the mirror, before a whole-of-suburb search helped reunite him with his owners.",
+    "progress": "Neighbours launched a suburb-wide search effort that successfully tracked down Hex's owners.",
+    "upside": 3
+  },
+  "/environment/2026/nov/07/country-diary-after-the-devastating-summer-fires-the-first-green-shoots": {
+    "headline": "Cairngorms show first green shoots of recovery after summer fires",
+    "trail": "The scale and depth of damage from the summer fires in the Cairngorms is shocking, but precious small signs of recovery are now emerging.",
+    "progress": "Early signs of regrowth are now appearing across the fire-damaged landscape.",
+    "upside": 3
+  },
+  "/environment/2026/nov/06/alaska-juneau-food-access": {
+    "headline": "In Juneau, community sharing feeds Alaska's isolated capital",
+    "trail": "With little arable land, a short growing season and few farmers, Juneau relies on deep traditions of residents and the land feeding each other.",
+    "progress": "Residents sustain Juneau through longstanding traditions of sharing food directly with each other.",
+    "upside": 3
+  },
+  "/science/2026/nov/06/better-conversation-study-pink-noise": {
+    "headline": "Scientists find 'pink noise' balance makes conversations more enjoyable",
+    "trail": "A new study finds the most enjoyable conversations strike a balance between exploring a topic and pulling in fresh ideas — a balance scientists call 'pink noise'.",
+    "upside": 3
+  },
+  "/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman": {
+    "headline": "Poland vows full accountability after Kraków market square shooting",
+    "trail": "Six people were killed and 16 wounded when a gunman opened fire in Kraków's main square on Saturday, with three more found dead at his home; the suspect, 25, held 'ultra-nationalistic' views, the interior minister says.",
+    "upside": 1,
+    "progress": "Poland's justice minister has vowed to ensure the gunman is held fully accountable and severely punished."
+  },
+  "/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights": {
+    "headline": "Cheltenham birth centre set to reopen in February, NHS trust announces",
+    "trail": "Gloucester hospitals trust says the midwife-led Cheltenham unit, shut since 2022, will reopen along with suspended home births, even as 12 birth centres have closed in England since 2019.",
+    "progress": "The health secretary, Yvette Cooper, is due to publish an action plan for maternity and neonatal care before Christmas.",
+    "upside": 2
+  },
+  "/world/2026/nov/07/israel-president-gadi-eisenkot-form-government": {
+    "headline": "Gadi Eisenkot tasked with forming government to unite Israel",
+    "trail": "Israel's president, Isaac Herzog, has given Eisenkot, Netanyahu's leading rival, 28 days to form a government, after an election on 27 October left the Knesset deadlocked with neither bloc holding a majority.",
+    "progress": "Eisenkot has received the backing of both Arab-majority party lists, who could provide the votes he needs to build a majority.",
+    "upside": 1
+  },
+  "/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit": {
+    "headline": "UK rejoins Erasmus+ as five EU leaders push for closer energy ties",
+    "trail": "Germany, Belgium, the Netherlands, Luxembourg and Denmark say deeper clean energy cooperation would benefit both sides, as the UK rejoins the Erasmus+ scheme in January; Brussels' push for UK access to its electricity market remains contentious over Britain's required budget contribution.",
+    "progress": "Five EU leaders are also pressing for the UK to rejoin the EU's internal electricity market, which backers say could lower British energy bills.",
+    "upside": 3
+  },
+  "/us-news/2026/nov/07/stephen-miller-democrats-react": {
+    "headline": "Democrats and some Republicans challenge Trump's promotion of Stephen Miller",
+    "trail": "Senators and the top House Democrat branded the new White House chief of staff a 'dangerous xenophobe' who built Trump's mass deportation drive, with some Republicans also voicing unease.",
+    "progress": "Senators including Dick Durbin and Chuck Schumer, plus one Republican congressman, have publicly condemned or demanded Miller's removal.",
+    "upside": 1
+  },
+  "/culture/2026/nov/06/russell-brand-trial-other-women": {
+    "headline": "Burnham praises Russell Brand accusers' courage and looks at rape trial reform",
+    "trail": "Russell Brand has been convicted of rape and sexual assault and awaits sentencing, as No 10 and the Ministry of Justice weigh a legal duty on jury directions in rape trials and Scotland Yard braces for what police call possibly 'many more' victims.",
+    "progress": "No 10 and the Ministry of Justice say they will carefully consider a legal duty on jury directions in rape trials.",
+    "upside": 2
+  },
+  "/football/2026/nov/07/nottingham-forest-manchester-city-premier-league-match-report": {
+    "headline": "Delap’s double sends Nottingham Forest to shock win over Manchester City",
+    "trail": "Jair Cunha and Liam Delap scored as Forest won 3-1 at home, condemning Manchester City under Enzo Maresca to a third successive Premier League defeat",
+    "upside": 3
+  },
+  "/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children": {
+    "headline": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+    "trail": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds",
+    "progress": "Founder Stephanie Wheen already plans 12 more centres so every child in the UK is within an hour of one",
+    "upside": 3
+  },
+  "/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75": {
+    "headline": "Richard Lloyd's sophisticated guitar style shaped punk's early sound",
+    "trail": "Lloyd, founding member and guitarist of the influential band Television, has died aged 75.",
+    "upside": 2
+  }
+}
