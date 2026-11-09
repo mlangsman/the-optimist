@@ -275,8 +275,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "For this opinion piece, the rewrite keeps the original's subject and warning essentially intact ('could still ignite new conflicts' mirrors 'could still aggravate old tensions and spark new explosions') instead of turning Tisdall's argument into a forward-facing claim as the brief requires for opinion pieces — a cosmetic restatement of the same thesis, not a re-angled one."
+      ]
     }
   },
   {
@@ -385,8 +387,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail states the setback in full first ('asked about the risk of being sacked following a 4-4 draw with Aston Villa that leaves the club in the bottom three') and only puts the upside (Carrick's dismissive retort) at the very end; rule 3 requires the standfirst/trail to open with the upside and give the setback second, not the reverse."
+      ]
     }
   },
   {
@@ -815,8 +819,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Inside the scalper economy swallowing Pokémon card collecting' and the near-untouched trail keep the original's exact subject and angle (scalpers overwhelming collectors), making this a cosmetic reword rather than a rebuild, and the added verb 'swallowing' is more dire than the original's 'race against scalpers', leaving the reader feeling worse rather than better; nothing in the headline or trail offers any upside to build on."
+      ]
     }
   },
   {
@@ -965,8 +971,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'A move closer to family brings its own costs to weigh' leads with the downside (costs) rather than the one upside the copy offers — that forming friendships 'takes time', implying things may still improve where they are — so the headline still leaves the reader weighing loss rather than progress or possibility."
+      ]
     }
   },
   {
@@ -1015,8 +1023,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Reader's house purchase hangs on a frozen £37,000 Revolut deposit' keeps the original's exact subject and angle ('is at risk from a frozen Revolut account'), just reworded and with the figure moved up — a cosmetic edit — and 'hangs on' is a more dramatic, suspenseful verb than the plain statement a genuinely dark, no-response story calls for."
+      ]
     }
   },
   {
@@ -1315,8 +1325,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a cosmetic edit: the rewrite keeps the original's exact subject and angle — Netanyahu rejecting the Gaza plan under conflicting pressure from allies and Trump — merely reordering and softening the wording ('amid demands' for 'cannot placate all his allies') without building the headline on any upside."
+      ]
     }
   },
   {
@@ -1475,8 +1487,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline ('Ombudsman flags rise in NHS stroke care investigations') just restates the bad figure under a nominal 'ombudsman' subject rather than an upside — the copy gives no sign these investigations are being acted on, so this matches the brief's own example of a failing headline ('Report lays bare the state of social care') where 'their subject is the problem.'"
+      ]
     }
   },
   {
