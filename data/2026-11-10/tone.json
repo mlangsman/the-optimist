@@ -1,0 +1,310 @@
+[
+  {
+    "path": "/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"M John Harrison becomes first science fiction author to win the Booker prize\""
+  },
+  {
+    "path": "/music/2026/nov/09/paul-mccartney-billionaire",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Paul McCartney becomes a billionaire and world's third richest musician\""
+  },
+  {
+    "path": "/games/2026/nov/09/grand-theft-auto-creators-gta",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Crime pays: how Grand Theft Auto became a cultural colossus\""
+  },
+  {
+    "path": "/music/2026/nov/09/jorge-drexler-doctor-oscar-winner-the-motorcycle-diaries",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I didn't dance until I was 45': how Jorge Drexler went from repressed doctor to rump-shaking Oscar-winner\""
+  },
+  {
+    "path": "/culture/2026/nov/09/tenpole-tudor-made-swords-of-a-thousand-men-king",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'A three-minute history of England written in the tour bus toilet': how Tenpole Tudor made Swords of a Thousand Men\""
+  },
+  {
+    "path": "/stage/2026/nov/09/harry-potter-and-the-cursed-child-one-part-production-review-palace-theatre-london-jack-thorne",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A one-part wonder: the West End's streamlined Harry Potter and the Cursed Child works like magic\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/09/kerr-smith-dawsons-creek-tv",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'We did 10 takes of it!' Kerr Smith on Dawson's Creek and filming US TV's first gay kiss\""
+  },
+  {
+    "path": "/thefilter/2026/apr/05/best-bean-cup-coffee-machines-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The 10 best bean-to-cup coffee machines in the UK, tried and tested\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/09/the-hill-i-will-die-on-lasagne-food-meat-cheese",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The hill I will die on: nobody just 'rustles up' a lasagne\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/09/us-midterms-winners-losers",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Tuesday was a victory for equity and inclusivity and a rejection of hate and fear. The biggest losers? Megadonors and Super Pacs.\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/09/my-sons-back-home-and-my-mothering-skills-have-gone-out-of-the-window",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"My son's back home – and my mothering skills have gone out of the window\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/09/the-guardian-view-on-the-british-library-dont-privatise-the-reading-rooms",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Cybercriminals are to blame for the British Library's current crisis, the editorial argues, but renting out its study space to the public is no route back to recovery.\""
+  },
+  {
+    "path": "/environment/2026/nov/09/like-fridges-heat-pumps-dont-need-an-annual-service",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Like fridges, heat pumps don't need an annual service\""
+  },
+  {
+    "path": "/sport/2026/nov/09/uncapped-spinner-patterson-white-england-test-call-up-south-africa-cricket",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Uncapped spinner Patterson-White earns England Test call-up for South Africa\""
+  },
+  {
+    "path": "/world/2026/nov/09/witnesses-struggle-save-people-buried-gaza-landslide",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"collapse\": \"High winds and heavy train triggered the collapse of a sand bank overlooking a camp for displaced families.\""
+  },
+  {
+    "path": "/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Supreme court clears way for Trump's border wall in Texas's Big Bend\""
+  },
+  {
+    "path": "/film/2026/nov/09/gone-girl-david-fincher-comfort-movie",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘Sadistic, forbidden pleasure’: why Gone Girl is my feelgood movie\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/09/chris-packhams-lovely-new-wildlife-show-best-podcasts-of-the-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Chris Packham’s lovely new wildlife show: best podcasts of the week\""
+  },
+  {
+    "path": "/music/2026/nov/08/leo-sayer-honest-playlist-jerry-lee-lewis-bob-marley-john-lennon",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘My dad said Great Balls of Fire was pagan music – and threw it out of the window’: Leo Sayer’s honest playlist\""
+  },
+  {
+    "path": "/books/2026/nov/09/look-at-me-by-dustin-hoffman-review-an-era-defining-actor-says-his-piece",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Look at Me by Dustin Hoffman review – an era-defining actor says his piece\""
+  },
+  {
+    "path": "/books/2026/nov/09/two-women-by-jacqueline-rose-review-a-memorial-to-gillian-rose",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Two Women by Jacqueline Rose review – a memorial to Gillian Rose\""
+  },
+  {
+    "path": "/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Legend of Zelda: Ocarina of Time review – a dream come true\""
+  },
+  {
+    "path": "/games/2026/nov/05/its-so-glossy-and-sexy-10-movies-and-one-tv-show-that-inspired-grand-theft-auto",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"‘It’s so glossy and sexy’: 10 movies (and one TV show) that inspired Grand Theft Auto\""
+  },
+  {
+    "path": "/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Why the weirdest game of 2026 is also one of my favourites\""
+  },
+  {
+    "path": "/music/2026/nov/08/orbiting-orbital-review-nitin-sawhney-samantha-harvey-booker-schwarzmann",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Orbiting Orbital review – Nitin Sawhney casts a spell inspired by Samantha Harvey’s Booker winner\""
+  },
+  {
+    "path": "/stage/2026/nov/06/marilyn-monroe-speculations-conspiracy-drama-marylebone-theatre-london-trevor-nunn",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Marilyn Monroe is a magnetic misfit in Speculations, a spicy conspiracy drama full of bombshells\""
+  },
+  {
+    "path": "/stage/2026/nov/06/the-last-hamlet-review-sadlers-wells-east",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"This extraordinary new Hamlet turns Shakespeare inside out with infinite jest – and cuddly toys\""
+  },
+  {
+    "path": "/music/2026/nov/06/post-your-questions-for-folk-music-legend-judy-collins",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Post your questions for folk music legend Judy Collins\""
+  },
+  {
+    "path": "/the-big-decluttering-guide/2026/sep/25/decluttering-tips-what-not-to-throw-away",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘Everybody has that one thing they don’t want to throw away’: how I became a decluttering guru\""
+  },
+  {
+    "path": "/the-big-decluttering-guide/2026/oct/16/how-to-declutter-your-wardrobe-and-sell-on-vinted",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘It’s time for even things I love to find new homes’: how to curate your clutter for Vinted\""
+  },
+  {
+    "path": "/the-big-decluttering-guide/2026/sep/08/how-to-sell-on-vinted-expert-tips-for-better-listings",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Be specific with your listing, embrace your niche: expert Vinted sellers share their tips\""
+  },
+  {
+    "path": "/the-big-decluttering-guide/2026/sep/08/how-to-declutter-your-home-dos-and-donts",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to declutter: the dos and don’ts of having a good clear out\""
+  },
+  {
+    "path": "/thefilter/2026/nov/06/how-to-have-greener-christmas",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best Christmas things aren’t new – and that’s precisely the point\""
+  },
+  {
+    "path": "/thefilter/2026/nov/08/best-mens-coats-autumn-winter-under-200-2026-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best men’s coats for autumn and winter: 48 favourites for £200 or less\""
+  },
+  {
+    "path": "/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens\""
+  },
+  {
+    "path": "/thefilter/2026/nov/05/best-christmas-gifts-dads-grandads-uncles-friends-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/09/the-pet-ill-never-forget-mae-black-labrador-medical-alert-dog",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The pet I’ll never forget: Mae the labrador, who keeps me safe with her keen nose and piercing stare\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/09/is-it-true-that-dock-leaves-cure-nettle-stings",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is it true that dock leaves cure nettle stings?\""
+  },
+  {
+    "path": "/food/2026/nov/03/bakers-and-cake-lovers-have-you-used-ai-for-inspiration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Bakers and cake lovers: have you used AI for inspiration?\""
+  },
+  {
+    "path": "/world/2026/nov/05/tell-us-have-you-been-affected-by-the-bomb-threats-to-flights-in-europe",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Tell us: were you affected by the bomb threats to flights in Europe?\""
+  },
+  {
+    "path": "/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Jemima Goldsmith says ex-partner Russell Brand physically assaulted her\""
+  },
+  {
+    "path": "/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Nvidia to buy developer platform Hugging Face in $12.9bn deal\""
+  },
+  {
+    "path": "/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Nvidia CEO reportedly targeted by an alleged Chinese spy\""
+  },
+  {
+    "path": "/books/2020/jul/31/booker-prize-longlisted-author-tsitsi-dangarembga-arrested-in-zimbabwe-this-mournable-body",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crackdown\": \"The author of This Mournable Body was detained as part of a sweeping crackdown by security agencies.\""
+  }
+]
