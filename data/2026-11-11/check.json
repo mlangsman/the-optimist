@@ -32,8 +32,11 @@
   {
     "path": "/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline's 'as judge praises their bravery' reads as praising the new people who 'come forward' since the trial, but the original has Mr Justice Bennathan praising the bravery of the women whose evidence led to conviction (i.e. the trial witnesses), not the people who have since contacted police with further allegations — this misattributes his praise to the wrong group.",
+      "'More victims come forward' presumes the further contacts are themselves victims, but the original says only that people 'provided further information or reported potential criminal allegations', which does not establish that all are victims."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -72,8 +75,10 @@
   {
     "path": "/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Standfirst says the opposition bills were submitted 'after' Netanyahu's racist attack on Palestinian-led lawmakers, but the original only says the bills were submitted 'moments after the swearing in' itself — it does not establish that they followed, or responded to, his speech."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -92,8 +97,10 @@
   {
     "path": "/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Rewrite drops that the man arrested is a senior US soldier/member of the US Army — a central identifying fact in the original — referring to him only as 'a 41-year-old man', which weakens this into vagueness."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -142,8 +149,10 @@
   {
     "path": "/society/2026/nov/11/louise-casey-england-social-care-system",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Progress line calls the review 'government-commissioned', a detail not supported by the original headline and trail given (they say only that the head of a major review will speak)."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -152,11 +161,15 @@
   {
     "path": "/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Changing 'House Republicans block' to 'House blocks' drops which party blocked the impeachment effort, turning a specific attribution into a vaguer, effectively different one (the whole House vs House Republicans)."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline and trail are almost unchanged from the original (only 'Republicans' and 'Pete' are dropped), keeping the same subject and the setback (the blocked accountability effort) as the headline's subject — a cosmetic edit with no upside used or attempted."
+      ]
     }
   },
   {
@@ -245,8 +258,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a cosmetic edit: the trail is almost word for word the original ('calls for clear next steps as countries face pressure to agree concrete measures' → 'calls for \"clear next steps\", as the Cop31 hosts face pressure to agree concrete measures'), and the headline keeps the same subject and angle (Guterres pressing the hosts) with only synonym swaps ('urges ... to turn ... into action' → 'presses ... for ... action')."
+      ]
     }
   },
   {
@@ -352,11 +367,15 @@
   {
     "path": "/commentisfree/2026/nov/10/jd-vance-iran-war-2028-presidential-candidate",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline softens 'his profound weakness as a candidate' to 'the challenges facing his 2028 bid', weakening the original's blunt assessment into vaguer language."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline is essentially a synonym-swapped version of the original ('reveals his profound weakness' → 'lay bare the challenges facing his bid'), keeping the same subject and argument rather than turning it into a forward-facing statement of what the writer wants or believes possible; the trail is left completely unchanged."
+      ]
     }
   },
   {
@@ -502,8 +521,10 @@
   {
     "path": "/world/2026/nov/11/ukraine-war-briefing-zelenskyy-says-putin-lives-in-a-different-reality-as-abu-dhabi-talks-get-under-way",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline presents 'constructive' as a direct quotation ('talks ... make a \"constructive\" start, Zelenskyy says') when the original reports this only as indirect speech ('says ... were constructive'), not as a quoted word."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -512,11 +533,15 @@
   {
     "path": "/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The word 'affair' is dropped throughout the rewrite; the headline says only 'ties to alleged spy' and the trail only 'links with Alice Huang', weakening the original's specific claim that the lawsuit concerns an affair into vague 'ties'/'links'."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The scandal at the centre of the story (the affair with an alleged spy) has been softened out of the headline-and-standfirst pair entirely, replaced by the vague 'ties'/'links' language, rather than stated plainly as the brief requires when a setback is moved out of the headline."
+      ]
     }
   },
   {
@@ -575,8 +600,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Headline 'Study lays bare scale of early-death gap facing England's poorest areas' keeps the problem (the early-death gap) as its subject — the same pattern the brief explicitly names as a failing example ('Report lays bare the state of social care'). Knowledge only counts as an upside when the copy shows it being acted on, and nothing here is."
+      ]
     }
   },
   {
@@ -652,8 +679,10 @@
   {
     "path": "/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite asserts a causal link the given headline/trail do not make explicit: 'to avoid manufacturing retreat' (headline) and 'without such a shift' (trail) present the supply-chain move as the remedy for the 2030 retreat, a connection the original's two separate statements do not spell out."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -902,8 +931,10 @@
   {
     "path": "/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline states 'the walking pads worth buying' as a verdict; the original only poses the question 'Are walking pads worth it?' and the trail gives no answer, so the rewrite turns a hedge into a certainty not supported by the given text."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1185,8 +1216,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail restates the same claim twice, almost verbatim ('ecotourism now offers it a lifeline' ... 'Ecotourism is emerging as a lifeline for a region historically dominated by mining'), reading as a drafting error rather than one developing thought, and it drops the original's evocative opening without adding any new information in exchange."
+      ]
     }
   },
   {
@@ -1445,8 +1478,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline keeps the original's 'downfall' framing and subject (fame to convicted rapist), just reordering the same two clauses, rather than building on the available upside in this story — Brand's conviction itself, a resolution of the criminal case that the copy reports — so the piece still centres on his personal decline, which is a cosmetic edit of the setback-centred original."
+      ]
     }
   },
   {
@@ -1472,11 +1507,15 @@
   {
     "path": "/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline 'What Russell Brand's conversion reveals about faith and redemption narratives' introduces a 'redemption narrative' framing that is not stated in or clearly supported by the ORIGINAL, which frames the conversion skeptically via the quote 'He's manipulating its power' and the open 'sincere or self-serving' question — the ORIGINAL never establishes that this is a redemption story."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The new headline swaps the original's skeptical, accusatory framing (the direct quote 'He's manipulating its power') for a softer, more affirming 'faith and redemption narratives' framing that the piece's own content does not support — the trail still calls Brand 'disgraced' and keeps 'sincere or self-serving' — so the headline manufactures a gentler narrative the copy does not give it."
+      ]
     }
   },
   {
@@ -1515,8 +1554,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline keeps the setback ('another rate rise') in a 'despite' clause even though the upside ('Bank of England hints at a brighter future') is strong enough to carry the whole headline on its own; the brief explicitly bars the setback from the headline, even subordinated after 'despite', whenever an upside can stand alone — this is a direct instance of the banned 'rise in a bad number' pattern."
+      ]
     }
   },
   {
@@ -1532,11 +1573,16 @@
   {
     "path": "/business/2024/dec/18/uk-inflation-hits-eight-month-high-adding-to-pressure-to-hold-interest-rates",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL headline's key figure — inflation at an 'eight-month high of 2.6%' — is dropped entirely; it appears in neither the REWRITE's headline nor its trail, so the reader never learns the actual number.",
+      "The REWRITE attributes the call to hold rates specifically to 'Economists' ('Economists urge...', 'Economists are calling on...'), but the ORIGINAL only says the rise is 'fuelling calls to hold interest rates' without identifying economists as the source — this is an attribution the ORIGINAL does not support."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline and trail together drop the bad figure (2.6%, eight-month high) entirely instead of moving it to the standfirst; the brief requires a reader who reads only the headline and trail to still learn the bad news, and here they do not — this is a minimisation, not a relocation, of the figure."
+      ]
     }
   },
   {
@@ -1565,8 +1611,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline's subject remains the setback itself — 'Nearly 100,000 adults... go without state-funded social care' — matching the brief's explicitly banned pattern of a knowledge-only headline whose subject is the problem (compare 'Report lays bare the state of social care'); nothing in the headline or trail shows this finding being acted on."
+      ]
     }
   },
   {
@@ -1585,8 +1633,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline is left completely unchanged from the ORIGINAL ('Social care in England needs input of at least £7bn a year, say MPs'), keeping the funding shortfall as the grammatical subject; the added third sentence shows MPs are 'calling for' the £7bn, which is the available response and should have been made the headline's subject (an MPs-led call-for-funding headline, as the brief's own worked examples build for this kind of weak-response story), not left as an afterthought."
+      ]
     }
   },
   {
@@ -1765,8 +1815,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline still states the setback in full — the tax 'faces $340m opposition campaign' — with no response or counter-action reported anywhere in the copy; the subject is reframed around the tax's purpose, but the predicate keeps the same adversarial angle as the ORIGINAL (billionaires spending heavily to kill it) just reordered, rather than moving the opposition fully to the trail or finding a genuine response to lead with."
+      ]
     }
   },
   {
