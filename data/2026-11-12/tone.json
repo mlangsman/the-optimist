@@ -1,0 +1,387 @@
+[
+  {
+    "path": "/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"turmoil\""
+  },
+  {
+    "path": "/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blow\": \"His departure, described as Reform's 'latest fall guy', is expected to be a blow to the party as questions over past vetting failures continue to be scrutinised.\""
+  },
+  {
+    "path": "/business/2026/nov/11/drug-addiction-shoplifting-rehabilitation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I'd steal 10-15 times a day': ex-offenders on the addictions driving prolific shoplifting\""
+  },
+  {
+    "path": "/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\", \"threat\": \"Since the US war on Iran began in February, there have been hundreds of oil spills from boat strikes, posing a 'generational' threat to wildlife and a devastating impact on fragile Gulf ecosystems.\""
+  },
+  {
+    "path": "/environment/ng-interactive/2026/nov/11/the-temperature-was-building-and-it-was-getting-more-and-more-frightening-this-is-climate-breakdown",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (95 per cent of the words are the same): \"'My classroom was 30C. No one was learning. Then I started to feel dizzy' - this is climate breakdown\""
+  },
+  {
+    "path": "/music/2026/nov/11/richard-lloyd-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Richard Lloyd obituary\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"disaster\": \"Brockes says Hegseth has survived blame for the US midterms disaster and dodged an impeachment vote, but one battle after another now awaits him.\""
+  },
+  {
+    "path": "/uk-news/2026/nov/11/asylum-law-changes-are-causing-refugee-families-like-mine-terrible-worry",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Asylum law changes are causing refugee families like mine terrible worry\""
+  },
+  {
+    "path": "/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I've had to prove people wrong': Kane still striving before record England cap\""
+  },
+  {
+    "path": "/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Complaint filed to IRS in relation to Fifa head Gianni Infantino's housekeeper\""
+  },
+  {
+    "path": "/sport/2026/nov/11/jockey-tom-obrien-cheltenham-festival-winner-horse-racing-dies-aged-39",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jockey Tom O'Brien, Cheltenham festival winner, dies aged 39\""
+  },
+  {
+    "path": "/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Danny Kelly, football broadcaster and renowned editor, dies aged 69\""
+  },
+  {
+    "path": "/sport/2026/nov/11/stephen-curry-ayesha-movie-kiss-arenas-young",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Stephen Curry attacks treatment of women after former players criticise wife Ayesha's movie kiss\""
+  },
+  {
+    "path": "/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies\""
+  },
+  {
+    "path": "/world/2026/nov/11/bird-flu-poultry-captive-birds-kept-inside-england-scotland",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"devastating\": \"Restrictions, now in place for a second year running, follow an increased risk of a devastating strain affecting flocks kept in England and Scotland.\""
+  },
+  {
+    "path": "/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\", \"warn\": \"Charities warn of a lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas.\""
+  },
+  {
+    "path": "/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"British soldier charged with rape of army servicewoman in Cyprus\""
+  },
+  {
+    "path": "/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"British man who died in Kraków shooting named as James Campbell\""
+  },
+  {
+    "path": "/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"BMI alternative for identifying obesity 'could prevent misdiagnosis in millions'\""
+  },
+  {
+    "path": "/film/2026/nov/11/irma-p-hall-actor-dies",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91\""
+  },
+  {
+    "path": "/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"Despite the drop in oil prices, diesel remains close to a 'dismal' £2 a litre at UK pumps, as a leading bank official warns energy costs are likely to stay elevated.\""
+  },
+  {
+    "path": "/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Nvidia hires leading US law firm to investigate Jensen Huang's relationship\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/11/david-walliams-power-and-silence-review-itvx-youtube",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (87 per cent of the words are the same): \"David Walliams: Power and Silence review - some footage will make your head spin\""
+  },
+  {
+    "path": "/film/2026/nov/11/prima-facie-review-cynthia-erivo-sexual-assault-drama",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Prima Facie review – Cynthia Erivo's brilliant barrister blazes in sexual assault drama\""
+  },
+  {
+    "path": "/music/ng-interactive/2026/nov/11/jane-wiedlin-go-gos-fame-sexuality",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'My partners would all tell you I was a nut job': Jane Wiedlin on the Go-Go's, fame and the freedom of sex dungeons\""
+  },
+  {
+    "path": "/music/2026/nov/09/u2-carnaval-de-luz-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"U2: Carnaval de Luz review – rousing, restorative rock from a band ready to take on the world again\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/09/chris-packhams-lovely-new-wildlife-show-best-podcasts-of-the-week",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Chris Packham's lovely new wildlife show: best podcasts of the week\""
+  },
+  {
+    "path": "/music/2026/nov/09/beethoven-symphony-no-3-album-review-minasi-ensemble-resonanz",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Beethoven: Symphony No 3 album review – thrilling, but Minasi's determination to shock often feels self-conscious\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/11/stacy-keach-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Stacy Keach obituary\""
+  },
+  {
+    "path": "/thefilter/2026/nov/06/how-to-have-greener-christmas",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"The best Christmas things aren't new - and that's precisely the point\""
+  },
+  {
+    "path": "/thefilter/2026/nov/08/best-mens-coats-autumn-winter-under-200-2026-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The best men's coats for autumn and winter: 48 favourites for £200 or less\""
+  },
+  {
+    "path": "/food/2026/nov/11/how-to-turn-excess-crumpets-into-a-hearty-breakfast-recipe-zero-waste-cooking",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"How to turn excess crumpets into a hearty breakfast - recipe\""
+  },
+  {
+    "path": "/food/2026/nov/10/school-lunchbox-bento-box-ideas-inspiration",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to brighten up a school lunchbox\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"A moment that changed me: a failed date led to one of my greatest friendships\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/08/this-is-how-we-do-it-leaving-our-cult-has-made-sex-more-intimate",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"This is how we do it: 'Leaving our cult has made sex more intimate'\""
+  },
+  {
+    "path": "/travel/2026/nov/11/10-best-wild-winter-weekends-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"10 of the best wild winter weekends in the UK\""
+  },
+  {
+    "path": "/travel/2026/nov/10/immersive-learning-french-in-rouen-normandy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Walk the talk: a week learning French with a personal tutor in Normandy\""
+  },
+  {
+    "path": "/travel/2026/nov/09/trekking-holiday-brazil-atlantic-rainforests-minas-gerais",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Trekking in Brazil's Atlantic rainforests: 'the day unfolds in a blaze of biodiversity'\""
+  },
+  {
+    "path": "/travel/2026/nov/08/walking-with-spirits-cambodia-cardamom-mountains",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threatened\": \"Former loggers and poachers have embraced ancient traditions to promote and protect the Cardamom Mountains' ever-threatened natural wonders.\""
+  },
+  {
+    "path": "/environment/2026/nov/11/house-sparrows-spain-childhood-memory",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Humble house sparrows roosting in Spain evoke a childhood memory\""
+  },
+  {
+    "path": "/environment/2026/nov/11/country-diary-could-this-be-the-most-beautiful-fungus-in-the-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: this could be the most beautiful fungus in the UK\""
+  },
+  {
+    "path": "/science/2026/nov/11/tell-us-did-you-have-a-memorable-experience-during-the-solar-eclipse",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Tell us: did you have a momentous experience during the solar eclipse?\""
+  },
+  {
+    "path": "/business/2026/nov/10/shop-workers-in-the-uk-have-you-experienced-abuse-from-customers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Shop workers in the UK: have you experienced abuse from customers?\""
+  },
+  {
+    "path": "/world/2008/may/01/gender.comedy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Johnny Vegas at the Bloomsbury theatre\""
+  },
+  {
+    "path": "/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier\""
+  },
+  {
+    "path": "/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"High fossil fuel prices spread inflation 'like a cancer', UN climate chief tells Cop31\""
+  },
+  {
+    "path": "/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warned\": \"Talks are under way in Turkey on speeding up the shift to electrification, as Simon Stiell, opening Cop31, warned that high fossil fuel prices spread inflation 'like a cancer'.\""
+  },
+  {
+    "path": "/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Explainer: how live facial recognition works and how many UK police forces use it\""
+  },
+  {
+    "path": "/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warn\": \"Biometrics commissioners say face-scanning is not as effective as claimed, and warn that oversight has lagged far behind the technology.\""
+  },
+  {
+    "path": "/technology/2026/feb/26/met-police-to-pilot-facial-recognition-identity-checks-mayor-confirms",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Met police to trial facial recognition identity checks, mayor confirms\""
+  },
+  {
+    "path": "/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race\""
+  },
+  {
+    "path": "/us-news/2026/oct/29/mississippi-scott-colom-democrats",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A Mississippi Democrat is unexpectedly threatening Republicans' grip on the US Senate\""
+  },
+  {
+    "path": "/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Farage accused of 'protecting' Reform candidate over racist slurs against David Lammy\""
+  },
+  {
+    "path": "/politics/2026/jun/24/labour-criticise-language-kemi-badenoch-pmqs-parliament",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Labour MPs criticise language used by Kemi Badenoch in fractious PMQs\""
+  },
+  {
+    "path": "/uk-news/2022/apr/07/english-heritage-corbridge-roman-town-edwardian-navvies-hadrians-wall",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"English Heritage brings Roman town's lost Edwardian labourers to life\""
+  }
+]

@@ -1,0 +1,1762 @@
+{
+  "date": "2026-11-12",
+  "engine": "claude-code",
+  "results": [
+    {
+      "id": "a:/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns",
+      "kind": "article",
+      "output": {
+        "headline": "Clean energy investment doubles that of fossil fuels, analysis finds",
+        "bodyHtml": "<p>Clean energy investment is now <a href=\"https://www.iea.org/news/investment-in-clean-energy-this-year-is-set-to-be-twice-the-amount-going-to-fossil-fuels\">double</a> that of fossil fuels, electric car use is <a href=\"https://www.theguardian.com/environment/2026/apr/20/electric-car-ev-sales-mainland-europe-petrol-prices-iran-war\">soaring</a>, deforestation of the Amazon in Brazil has <a href=\"https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election\">fallen sharply</a> and carbon pollution <a href=\"https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push?CMP=Share_AndroidApp_Other\">is set to dip slightly this year</a> – causes for optimism, according to Climate Action Tracker (CAT), even though the world is still failing to cut emissions in line with the science and countries’ own promises.</p> <p>The report by <a href=\"https://climateactiontracker.org/\">Climate Action Tracker </a>(CAT) found that, under current policies, the planet will heat up by 2.7C on average by the end of the century compared with preindustrial times – up slightly from a prediction of 2.6C in the group’s analysis conducted last year.</p> <p>The analysis found that the world is heading for an “irrecoverable overshoot” of global temperature thresholds that will plunge billions of people into disastrous climate impacts, because governments have stalled for so long to cut planet-heating emissions.</p> <p>This level of warming smashes the 1.5C threshold that was <a href=\"https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere\">agreed by countries a decade ago</a> but is set to be <a href=\"https://www.theguardian.com/environment/2026/sep/02/global-heating-warming-1-8c-best-case-scenario-un-united-nations-environment-programme-report\">breached</a> in just a few years. Scientists have warned that beyond this point already harmful storms, droughts, heatwaves, flooding and other impacts will become intolerable for parts of the world and potentially trigger <a href=\"https://www.theguardian.com/environment/2026/feb/11/point-of-no-return-hothouse-earth-global-heating-climate-tipping-points\">runaway climate change</a> that won’t be contained.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/environment/ng-interactive/2026/nov/11/the-temperature-was-building-and-it-was-getting-more-and-more-frightening-this-is-climate-breakdown\">‘My classroom was 30C. No one was learning. Then I started to feel dizzy’ – This is climate breakdown</a> </p> </aside>  <p>The UN secretary-general, António Guterres, <a href=\"https://www.theguardian.com/environment/2026/nov/10/un-antonio-guterres-cop31-fossil-fuels-turkey-australia\">said on Tuesday</a> that this reality should compel governments to act quickly to phase out the fossil fuels that are causing the climate crisis, as countries, <a href=\"https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms\">minus the US</a>, gathered in the Turkish city of Antalya for UN climate talks that have centred on the looming “overshoot” of the temperature target.</p> <p>If countries did act decisively to slash emissions then the future temperature projections would become less daunting, the CAT report states. However, in even the most optimistic scenario – where all pledges, targets and other long-term promises made by countries were fulfilled – the world would still heat up by 1.9C by the end of the century.</p> <p>Such targets have been routinely flouted by the countries that have made them, however. This means leaders face a crunch moment, experts say.</p> <p>Bill Hare, chief executive of CAT partner organisation Climate Analytics, says: “The stark choice for governments is to either continue to support the fossil fuel industry, which would consign humanity to insurmountable economic damages, rising mortality from heat and climate-driven diseases and disasters that they are unable to adapt to – or pivot to the solutions which are available and cheaper than ever.”</p> <p>Hare said exceeding 1.5C warming “cannot be an excuse to open the door to defeatism” and that every small increment of temperature rise will be significant. The CAT analysis is similar to <a href=\"https://www.theguardian.com/environment/2026/oct/21/world-cut-emissions-un-climate-crisis\">one recently put out by the UN</a>, which uses previous CAT data to inform its own projections.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31\">National security of all countries at risk due to climate crisis, UK foreign secretary warns</a> </p> </aside>  <p>Greta Thunberg, the Swedish climate advocate, arrived in Antalya on Tuesday and warned that “everything and everyone we love is at stake” because of the failure to confront the climate crisis, even as more will need to be done to avert disastrous climate impacts.</p> <p>“Governments collectively are simply not moving fast enough to adopt the policies that would enable us to escape from the emerging overshoot trap,” said Sarah Heck, lead author of the CAT report. Some countries, such as the US, Canada and New Zealand, are even slowing down their climate action to a “staggering level”, she added.</p>",
+        "captions": [],
+        "standfirst": "<p>Clean energy investment is now double that of fossil fuels, analysis finds, even as the world is told it risks an 'irrecoverable overshoot' that would 'consign humanity to disasters they are unable to adapt to'.</p>",
+        "progress": "UN secretary-general António Guterres says the findings should spur governments to act quickly and phase out fossil fuels.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "kind": "article",
+      "output": {
+        "headline": "Police watchdog calls for stronger safeguards on facial recognition technology",
+        "bodyHtml": "<p>Britain’s police watchdog has called for a clearer statutory framework, stronger national standards and improved oversight of facial recognition technology, after an inspection found that errors and bias in the systems risk the wrongful arrest of innocent people, especially those from ethnic minorities.</p> <p>The report by His Majesty’s Inspectorate of Constabulary, published on Wednesday, covers only retrospective facial recognition. The technology is seen as less controversial and less tricky to get right than live facial recognition, which is used in real time to find suspects.</p> <p>His Majesty’s Inspector of Constabulary Kathryn Stone said continued public support relied on showing the technology was being used properly: “Police forces must be able to show that appropriate safeguards are in place, risks relating to bias and data retention are effectively managed, and decisions are still subject to human judgment. A clearer statutory framework, stronger national standards and improved governance and oversight arrangements are essential to maintaining public confidence.”</p> <p>Although the technology can help fight crime, the report found it is beset by <a href=\"https://www.theguardian.com/technology/2025/aug/23/expert-rejects-met-police-claim-that-study-backs-bias-free-live-facial-recognition-use\">errors and biases</a>, and operators do not always realise they must make further inquiries to verify the data.</p> <p>“Some investigators didn’t know that RFR results were intelligence rather than evidence and required further enquiries before officers took enforcement action,” the report said.</p> <p>“This creates a risk that people could be incorrectly identified or arrested, which could undermine public confidence in the technology.</p> <p>“We found that some investigators didn’t always carry out enough corroborative enquiries before acting on potential matches. In a small number of cases, officers relied too heavily on RFR results, which led to inappropriate investigative action.”</p> <p>The report said there are still issues with bias in the algorithm, including being more likely to wrongly flag people from ethnic minorities as suspects.</p> <p>It said: “More needs to be done to reduce the risks of people being wrongly arrested … Auditors also identified cases where users uploaded poor-quality or unsuitable probe images, including blurred images and images containing multiple faces. These factors reduced the system’s ability to return reliable matches.”</p> <p>Inspectors also found a risk of public confidence being undermined because custody images that should have been deleted were in fact kept.</p> <p>The report says: “Inspectors found that legislation hasn’t kept up with changes in facial recognition technology and there is no comprehensive statutory framework governing this technology’s use. This makes it more difficult for forces to understand the lawful basis for RFR’s use and what safeguards are needed to protect the public.”</p> <p>Facial recognition is seen by police chiefs as the next big leap forward in crime fighting, and next huge threat to civil liberties by sceptics.</p> <p>Ben Russell, lead on facial recognition for the National Police Chiefs’ Council, said: “Policing remains committed to the ethical, proportionate and responsible use of retrospective facial recognition to help investigate crime, bring offenders to justice and keep communities safe and we are pleased that HMICFRS has recognised the exciting possibilities of this technology.”</p> <p>Jasleen Chaggar, from Big Brother Watch, said: “The revelations that officers are treating facial recognition as bona fide evidence rather than a probability score is alarming.</p> <p>“This approach significantly increases the risk that more innocent people will have officers knock on their door to arrest them for crimes committed in towns they’ve never visited, as we’ve seen before.</p> <p>“Worse still, police aren’t even logging their use of retrospective facial recognition, meaning people could wrongfully become suspects in criminal investigations without even realising why they’ve been accused.</p> <p>“Police cannot be allowed to continue using the algorithm with so few safeguards and at biased settings that are more likely to misidentify women, Asian and black people and search against millions of unlawfully held custody images.”</p> <p>Prof Pete Fussey of the University of Southampton, formerly a police adviser on facial recognition, said: “Meaningful human scrutiny of AI systems is a legal requirement, yet the report gives examples of investigators taking the computer’s suggestions at face value without further checks.”</p>",
+        "captions": [],
+        "standfirst": "<p>His Majesty’s Inspectorate of Constabulary says a clearer statutory framework and stronger standards are needed, after finding facial recognition errors and bias risk the wrongful arrest of innocent people, particularly ethnic minorities</p>",
+        "progress": "His Majesty’s Inspectorate of Constabulary has recommended a clearer statutory framework, stronger national standards and improved oversight of the technology.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+      "kind": "article",
+      "output": {
+        "headline": "Scott Colom becomes first Black senator popularly elected in Mississippi's history",
+        "bodyHtml": "<p>Democrat Scott Colom has defeated Cindy Hyde-Smith, the incumbent Republican senator, to become the first Black senator in Mississippi elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states.</p>\n<p>“For me, this journey started with a prayer, y’all,” Colom said while addressing supporters Wednesday night in Jackson, Mississippi. “And in Mississippi, our prayers have often changed the course of history.”</p>\n<p>Colom opened up a narrow lead over Hyde-Smith late on election night. His lead widened as election officials counted absentee and provisional ballots. <a href=\"https://apnews.com/article/mississippi-senate-colom-hydesmith-midterm-7f098b8834f598c923ba73572ea2223f\">The Associated Press</a> called the contest on Wednesday, after it was clear Hyde-Smith was not able to close the gap.</p>\n<p>In a two-minute concession video shared on social media, Hyde-Smith said: “While this is not the outcome we worked for or hoped for, I respect the decision of Mississippi voters.” She offered her congratulations to Colom and said she wished him well “as he takes on the tremendous responsibility of representing our great state”.</p>\n<p>Mississippi has not elected a Democrat to the Senate since 1982. It’s been much longer – not since 1875 – that the state sent a Black senator to Washington. Colom is also the first Black man popularly elected to the Senate in the state’s history – during Reconstruction, senators were chosen by state lawmakers.</p>\n<p>With Colom’s election, Mississippi, the first state to send Black lawmakers to Congress, has sent more Black people to the Senate than any other state besides Illinois. Blanche K Bruce, the last Black man elected to the Senate from Mississippi, was born into slavery; John C Stennis, the last Democrat to be sent from Mississippi, was, for most of his career, a staunch segregationist.</p>\n<p>Colom’s election capped a national wave of anger at Donald Trump’s administration, sweeping away Republicans in places where Democrats hadn’t been competitive in decades. With the addition of Colom, Democrats will hold at least 55 seats in the Senate – the party’s largest midterm gain since 1986.</p>\n<p>Across the south, voters were further motivated by the president’s attempt to drastically redraw Black majority districts, attempting to dilute the largely Democratic voting blocs.</p>\n<figure class=\"element element-atom\">\n <gu-atom data-atom-id=\"interactives/2026/11/midterms/single-race\" data-atom-type=\"interactive\">\n  <div>default</div>\n </gu-atom>\n</figure>\n<p>Colom has a track record of success in the state. In 2015, Colom unseated a nearly 30-year incumbent when he was elected the first Black district attorney for the 16th circuit. As district attorney, he had a 94 per cent success rate for convictions. He’s a seventh-generation Mississippian, whose father was a longtime Republican who campaigned for Ronald Reagan and was friendly with Thad Cochran, a longtime state politician who resigned from his US Senate seat in 2018 due to declining health.</p>\n<p>A string of Democratic stars visited the state late in the race as the polls showed a tightening race – Cory Booker, Pete Buttigieg, Kamala Harris and Bill Clinton all made appearances for Colom. Trump rallied for Hyde-Smith last month.</p>\n<p>Joe Biden nominated Colom to be a federal judge in the northern district of Mississippi. With support from both Republicans and Democrats, he appeared to be on track to a lifetime appointment on the federal bench, when Hyde-Smith blocked him from having a confirmation hearing.</p>\n<p>“I blocked Scott Colom from being a federal judge, and you blocked him from being a US senator,” Hyde-Smith <a href=\"https://www.wlox.com/video/2026/11/04/rep-cindy-hyde-smith-addresses-watch-party-election-night-comes-close/\">said</a> in remarks to supporters on election day.</p>\n<p>In the days after the election, as Colom’s vote-margin inched higher, he kept a dizzying campaign pace, visiting Millsaps College, his alma mater, and local colleges Jackson State University and Tougaloo College. With national and international cameras on him, Colom stopped by small, local businesses, including<a href=\"https://oxfordamerican.org/magazine/issue-126-fall-2024/a-walk-with-ancestors\"> Marshall’s Music and Book Store</a> and OffBeat, both of which are Black-owned, and Brent’s Drugs, a Jackson classic.</p>\n<p>Colom campaigned on the promise that “Mississippi matters”. He told voters that he would represent all Mississippians, even those who supported his opponent – and the president.</p>\n<p>A week before the vote, he attended Trump’s rally for Hyde-Smith in Corinth to engage the president’s supporters and listen to their economic concerns. He <a href=\"https://www.thedailybeast.com/she-denied-him-the-bench-now-hes-eyeing-her-seat\">posed</a> for photos with some rally-goers, as they talked to him about high gas prices, grocery bills and health insurance. He later said the face-to-face conversations helped him convert the unlikeliest of voters to his campaign.</p>\n<p>Colom drew national attention for a viral ad that played on his opponent’s response to a question about the rising cost of beef: “You have so many proteins to choose from,” Hyde-Smith told a local television host during the interview. Colom’s campaign seized on the moment, producing a 30-second ad that jumps from her reply to a man grilling beef patties. “Pick another protein?” the man says. “Shiiiit. I’d rather pick another senator instead.”</p>\n<p>Colom drove a “pick your protein” taco truck around the state, handing out free tacos to voters.</p>\n<p>As the days-long counting process commenced, both Hyde-Smith and Colom projected confidence that they would prevail.</p>\n<p>National voting groups and attorneys descended upon the Magnolia state, joining the local groups that worked to mobilize voters. Democratic and Republican groups, including the Democratic Senatorial Campaign Committee (DSCC) and Democratic election attorneys from the Elias Law Group, have deployed hundreds of volunteers and lawyers to all the state’s 82 counties to oversee the final rounds of counting.</p>\n<p>Mississippi has no automatic recount law. A recount can only happen if ordered by a court in response to a lawsuit against a county or county election commission from a political party or campaign. Mississippi law does not establish a system for challenging ballots on a statewide scale, so the process would have to be on a county-by-county basis.</p>\n<p>“I assure you,” Hyde-Smith <a href=\"https://www.youtube.com/watch?v=NC3QjPeKf7w\">said</a> on election night, “I will continue to be your US senator.”</p>\n<p>Asked about those comments at a press conference the next day, Colom <a href=\"https://x.com/BulwarkClips/status/2118014317467463877\">replied</a>: “Bless her heart.”</p>",
+        "captions": [],
+        "standfirst": "<p>Colom's win, by a razor-thin margin after more than a week of counting, makes him the first Black man popularly elected to the US Senate in Mississippi's history and ends Republican Cindy Hyde-Smith's tenure in one of the country's most reliably red states</p>",
+        "progress": "Colom has pledged to represent all Mississippians, including those who backed his opponent and the president.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "a:/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
+      "kind": "article",
+      "output": {
+        "headline": "Nuttall takes charge of vetting as Reform names interim general secretary",
+        "bodyHtml": "<p>Candidate <a href=\"https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle\">vetting</a> at Reform is now run by Paul Nuttall, the party’s deputy chair and a former Ukip leader, after the recent case of Madgwick once again brought the process into the spotlight and severely embarrassed the party; Waterhouse’s departure reflects continuing organisational turmoil at Reform.</p> <p>A Reform UK spokesperson said: “Tom Waterhouse has left his role with Reform UK. The party leader has now appointed an interim general secretary.”</p> <p>Nigel Farage’s party continues to face turmoil over questions about vetting failures and professionalisation after Reform UK’s general secretary left the role.</p> <p>The departure of Tom Waterhouse comes after Reform UK’s leader on Hampshire county council, George Madgwick, was <a href=\"https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape\">charged with 12 counts of rape</a> and one of distributing indecent images of a child.</p> <p>Waterhouse, a public affairs executive who previously worked in the world of Westminster thinktanks and for the crown estate, was recruited in August last year. Labour described him as Reform’s “latest fall guy” for problems in the party.</p> <p>Waterhouse’s departure will be a blow to Reform’s drive towards professionalisation, a project of which he had been at the centre. He had been involved in a big recruitment push, bankrolled by wealthy donors, and in the selection of candidates for a future general election.</p> <p>Waterhouse had also been <a href=\"https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation\">involved in Reform’s internal investigation</a> into two of its senior officials, James Orr and Dan Jukes, alongside Adam Richardson, the party’s legal secretary and a longstanding associate of Farage. Their investigation cleared Orr and Jukes of breaking laws that ban foreign donations, despite the matter remaining under police investigation.</p> <p>Bridget Phillipson, the Labour party chair, said: “As the scandals pile up for Reform, everyone is being forced to take the blame except Nigel Farage. Their general secretary is the latest fall guy, but we all know nobody in Reform makes a decision without Farage’s approval.</p> <p>“Farage is yet to come clean on what he knew about the arrest of his senior campaign manager and leader in Hampshire, who is now facing 35 very serious charges. And he tried to cover up a secret £5m ‘gift’ from a crypto billionaire.”</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/commentisfree/2026/nov/11/donald-trump-elon-musk-nigel-farage-voters-billionaires-midterms\">For Trump, Musk and Farage, the message is the same: voters don’t want to be hijacked by billionaires | Rafael Behr</a> </p> </aside>  <p>The Reform leader has not concealed his unhappiness at continued failures in candidate vetting and other matters. “I wasn’t very happy,” Farage said when asked why Madgwick, who was arrested in January over several alleged sexual offences, was still in his role nearly 10 months later. Madgwick denies any wrongdoing.</p> <p>Farage last month blamed “staff incompetence” for a poor turnout and a half-empty hall during a Reform UK economic policy launch event in London.</p> <p>Staff at Reform’s Millbank HQ were informed on Wednesday that Waterhouse was leaving. He is one of a number of figures seen as an asset to Reform’s push for power who have recently parted ways with the party or been sidelined.</p> <p><a href=\"https://www.theguardian.com/politics/tim-montgomerie\">Tim Montgomerie</a>, a high-profile activist who defected from the Conservatives, was suspended in August after he criticised Farage’s decision not to attend the count when he won the Clacton byelection.</p>",
+        "captions": [],
+        "standfirst": "Paul Nuttall now oversees Reform's candidate vetting as the party names an interim general secretary following Tom Waterhouse's departure, amid continued fallout including the case of councillor George Madgwick, charged with 12 counts of rape.",
+        "progress": "Nuttall takes over after Reform's internal inquiry cleared two senior officials of breaking foreign-donation rules, even as that case stays under police investigation.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy",
+      "kind": "article",
+      "output": {
+        "headline": "Government presses ahead with bill to outlaw LGBT+ conversion practices",
+        "bodyHtml": "<p>A draft bill to ban LGBT+ conversion practices, <a href=\"https://www.theguardian.com/world/2026/jun/25/government-draft-bill-ban-conversion-practices-lgbtq-england-wales-historic-campaigners\">published in June</a> and now open for consultation, sets out potential jail sentences of up to five years for attempts to change someone’s sexual orientation or gender identity that are abusive and cause serious harm.</p> <p>As equalities minister under previous Conservative governments, Kemi Badenoch supported the idea of a legal ban on conversion practices, <a href=\"https://parallelparliament.co.uk/mp/kemi-badenoch/debate/2021-03-08/commons/westminster-hall/lgbt-conversion-therapy\">saying in 2021</a> that she wanted to give people ‘the freedom to live their life as they see fit without fear or intimidation’.</p> <p>Kemi Badenoch has ‘no interest in supporting LGBT+ people’ or promoting tolerance more widely, a government minister has said, after the Conservatives dropped support for a planned law to ban conversion practices.</p> <p>The comments by Bridget Phillipson, the equalities minister, come after the Tories removed their previous backing for a law targeting abusive practices that aim to change someone’s sexual orientation or gender identity.</p> <p>Badenoch’s party says this is because of concerns about the scope of the bill, particularly the way it deals with gender identity.</p> <p>Asked about the bill last week, Badenoch said it would ‘mean that parents start getting arrested for parenting their children’, agreeing with a question by a journalist who said this could happen if parents refuse to let their child identify as a cat.</p> <p>Government officials argue this is not possible, since the bill sets a high threshold for an offence, requiring both abuse and serious harm as well as an attempt to change the person’s sexual orientation or gender identity.</p> <p>Phillipson said: ‘This government is clear: we should live in a society that is tolerant, and that allows people to be their true selves without living in fear. That is the modern Britain I know.</p> <p>‘For almost a decade, there has been political consensus and there has been international consensus that abusing someone to try and change their sexuality should be illegal.</p> <p>‘Until now, that consensus has included Kemi Badenoch and much of the Conservative frontbench, who we now see pledged their support loudly and clearly.</p> <p>‘In chasing Reform into the gutter, Badenoch’s Conservatives have shown their true colours: no interest in supporting LGBT+ people, no interest in calling out abuse of LGBT+ people, and no interest in a tolerant, modern Britain.’</p> <p>Many of the Conservative objections to the bill were set out in a report by the Policy Exchange thinktank last week, including the idea that protections in the bill for people with non-binary identities could end up being so broad as to include those who are ‘catgender’, meaning they identify as cats.</p> <p>Calling the bill an attack on people who do not share a ‘narrow set of beliefs about gender identity’, the report also argues that conversion practices are comparatively rare, and that any offences arising from those practices are already covered by existing laws.</p> <p>A Conservative spokesperson said: ‘No one can accuse Kemi Badenoch of abandoning LGBT people. Years ago, against civil servants’ advice, she met Keira Bell, a young lesbian who had been prescribed puberty blockers and testosterone and later underwent a double mastectomy, treatment she came to regret.</p> <p>‘Labour’s conversion practices bill risks criminalising the honest, exploratory conversations that young people like Keira should have before they are led towards life-changing surgery.</p> <p>‘Proper protections for young LGBT people means ensuring they receive thoughtful support and clinical advice without pressure to reach a particular conclusion. That is why we are concerned about this bill and its implications for young people.’</p>",
+        "captions": [],
+        "standfirst": "A draft law banning LGBT+ conversion practices, carrying jail terms of up to five years, remains open for consultation after the Conservatives withdrew support; Phillipson accused Badenoch of ‘no interest in supporting LGBT+ people’.",
+        "progress": "The government’s draft bill to ban LGBT+ conversion practices remains open for public consultation, with potential jail terms of up to five years for abusers.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/world/ng-interactive/2026/nov/12/how-namdaemun-scarf-man-became-seouls-biggest-attraction",
+      "kind": "article",
+      "output": {
+        "headline": "Scarf seller who talks shoppers out of buying becomes Seoul’s biggest attraction",
+        "bodyHtml": "<figure class=\"element element-atom\">\n <gu-atom data-atom-id=\"interactives/2023/01/interactive-article-structure/portrait-image-mainmedia\" data-atom-type=\"interactive\">\n  <div>default</div>\n </gu-atom>\n</figure>\n<p>By mid-morning the main alley of Namdaemun market in Seoul is ringed by private security guards and police, and the queue – penned behind a cordon – shuffles forward clutching numbered tickets. Those in it, mostly middle-aged women, have waited more than an hour.</p>\n<p>In front of them, a stall holder is selling scarves, offering a deal of six for 10,000 won (about $6.80), roughly $1.15 each. The salesman – who is known by nicknames such as “scarf ajeossi”, or scarf uncle – has become something of a national sensation for a sales technique that consists of talking customers out of purchases. “Don’t spend your money,” he quips. “It doesn’t suit you.”</p>\n<p>The combination of his affectionate bluntness and amusing selling style – coupled with praise for his looks – has seen him become a huge star on social media, with customers and livestreamers flocking to the market and clips racking up millions of views online.</p>\n<p>Lee Mi-hwa, who came from Yongin, about 35km south of Seoul, after seeing him on YouTube, says: “He’s really famous. He’s the hottest thing right now.”</p>\n<p>Namdaemun is South Korea’s oldest and largest traditional market, a warren of alleys beside the old south gate that gives it its name, and a place long synonymous with the hard sell.</p>\n<p>Passersby stop to ask whether a celebrity is inside due to all the commotion, while YouTubers try to get a glimpse of him, livestreaming the chaos.</p>\n<p>The scarf seller does not publicise his real name, so nicknames fill the gap. As well as scarf uncle, there is “Scarfrio”, a playful mashup of scarf and Leonardo DiCaprio, in a nod to his looks and easy charm. “He’s so handsome,” says a woman in the queue.</p>\n<figure class=\"element element-atom\">\n <gu-atom data-atom-id=\"655ec88d-21a5-4e41-98c5-e21417a7ba90\" data-atom-type=\"media\">\n  <div>\n   <video controls=\"controls\" preload=\"metadata\" poster=\"https://uploads.guim.co.uk/2026/11/11/South_Korean_scarf_seller_in_Namdaemun_market_goes_viral__Seoul__South_Korea--655ec88d-21a5-4e41-98c5-e21417a7ba90-1.0.0000000.jpg\"> <source type=\"application/vnd.apple.mpegurl\" src=\"https://uploads.guim.co.uk/2026/11/11/South_Korean_scarf_seller_in_Namdaemun_market_goes_viral__Seoul__South_Korea--655ec88d-21a5-4e41-98c5-e21417a7ba90-1.0.m3u8\"><source type=\"video/mp4\" src=\"https://uploads.guim.co.uk/2026/11/11/South_Korean_scarf_seller_in_Namdaemun_market_goes_viral__Seoul__South_Korea--655ec88d-21a5-4e41-98c5-e21417a7ba90-1.0_480w_q8.mp4\"><source type=\"video/mp4\" src=\"https://uploads.guim.co.uk/2026/11/11/South_Korean_scarf_seller_in_Namdaemun_market_goes_viral__Seoul__South_Korea--655ec88d-21a5-4e41-98c5-e21417a7ba90-1.0_720h_q8.mp4\"><source type=\"text/vtt\" src=\"https://uploads.guim.co.uk/2026/11/11/South_Korean_scarf_seller_in_Namdaemun_market_goes_viral__Seoul__South_Korea--655ec88d-21a5-4e41-98c5-e21417a7ba90-1.0.vtt\"> </video>\n  </div>\n </gu-atom>\n</figure>\n<p>Scarfrio is rugged rather than polished, dressed in a market trader’s layers for the autumn cold, and poses for selfies with his newfound fanbase.</p>\n<p>That appeal has seen him go viral for his salesmanship and he has since opened <a href=\"https://www.instagram.com/nam_dadaguri/\">Instagram</a> and <a href=\"https://youtube.com/channel/UCcvdIF6zik9BurevJyFSBuw?si=V187eGRzxoi4PQw-\">YouTube</a> accounts, racking up millions of views.</p>\n<p>On Wednesday, Lee Ji-hyun joined the queue at 10am and reached the front at 11.20am. “I finally got some,” she says excitedly, holding up her prize. “The way he talks is so lovely. A man like that deserves to do well, so I came to cheer him on, and I ended up buying.”</p>\n<p>She had stood beside him long enough to hear the sales pitch. “Nothing worth seeing here,” he tells shoppers, and “come on, mum, dig underneath, dig underneath”, endearingly urging them to rummage through the pile of scarves. “He feels like my son, like a younger brother,” she says.</p>\n<p>“This fabric is marvellous. Have you felt how soft it is? How is this 1,600 won?” she says. The packaging says made in China.</p>\n<p>Police have been called in to usher his devotees out of the crowded alley as his popularity and the crowds have grown, and the scarf seller has had to shut up shop several times as a result. Private security was hired in early November to manage the hordes, and he has stopped announcing his opening hours.</p>\n<p>But not everyone is amused. A few metres away, another stall holder, who has sold shoes at the market for more than 30 years, is unimpressed with the crowds that now spill across his shopfront.</p>\n<p>“Business is bad. The passage next to me gets blocked and it’s really hard on me,” says the man, who gives his name only as Moon. “The wider area is fine, because the people come. It’s the shops nearby that take the damage.”</p>\n<p>Young people film the scarf seller for YouTube and Instagram, he says, and come just to see his face. “This is pulling a lot of people in,” he says. “But there’s no spending.”</p>\n<p>Bae Jong-min, who sells scarves next to Scarfrio’s stall, was more upbeat.</p>\n<p>“There are a lot of people coming to the market, so for the market as a whole it’s a good thing,” he says, pointing to the restaurants, coffee shops and food stalls. “But I do worry about crowding issues.”</p>\n<p>Scarfrio said days earlier on social media that the attention had left him carrying “enormous pressure and anxiety”, and he apologised to the traders around him.</p>\n<p>Lee Ji-hyun, meanwhile, had not set foot in Namdaemun for 30 years, despite living in Seoul. “If I need something I go to the supermarket, I never thought about coming to this market,” she says. “I now plan to come once a month.”</p>",
+        "captions": [],
+        "standfirst": "<p>Known as Seoul’s ‘scarf uncle’, a Namdaemun market trader has become a South Korean sensation for a sales technique built on talking customers out of purchases, drawing queues, livestreamers and crowds so large that police and private security now help manage them</p>",
+        "progress": "Police and private security have been brought in to manage the crowds flocking to see him, after the scarf seller had to shut up shop several times.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+      "kind": "article",
+      "output": {
+        "headline": "Extra funding keeps Poundland trading as rescue talks continue",
+        "bodyHtml": "<p>Gordon Brothers, which is understood to be supportive of a further 10 working days’ grace for Poundland, has released £10m more in funds to help the retailer secure new stock and keep trading. Poundland’s directors are now seeking that extension, which must be approved by the high court.</p> <p>MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a “knife-edge” as it seeks extra time to secure a rescue deal.</p> <p>The management of Poundland, which employs 12,000 people and operates 600 stores in the UK and Ireland, will seek a two-week extension of legal protection from creditors from the high court on Thursday morning.</p> <p>The budget chain’s owner, Gordon Brothers, is under pressure to accept a bid for the company that would save retail jobs and protect thousands of suppliers. Poundland <a href=\"https://www.theguardian.com/business/2026/oct/29/poundland-brink-administration-12000-jobs-at-risk\">filed a notice of intention to appoint administrators</a> two weeks ago.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/business/2026/nov/11/drug-addiction-shoplifting-rehabilitation\">‘I’d steal 10-15 times a day’: ex-offenders on the addictions driving prolific shoplifting</a> </p> </aside>  <p>The legal measure protects Poundland from the demands of creditors until Thursday morning while a solution to its problems is sought.</p> <p>Without the legal protection in place, Poundland is likely to have to call in administrators; the advisory firm Alix Partners is already lined up.</p> <p>The European head of Gordon Brothers, Mark Newton-Jones, gave evidence in private for almost two hours to the Commons business select committee on Wednesday afternoon after MPs called on the government to <a href=\"https://www.theguardian.com/business/2026/nov/03/protect-poundland-mps-tell-government-retail\">protect Poundland </a>and other high street stores from “predatory capitalism” and asset-stripping last week.</p> <p>Liam Byrne, the chair of the committee, said that after questioning Newton-Jones he was “deeply concerned that Gordon Brothers’ behaviour may have jeopardised thousands of jobs on Britain’s high streets”.<br><br>He said: “Over the last 17 months, they have taken millions out of Poundland when the business was on a ‘knife-edge’. <br><br>“Now Poundland appears to be on the rebound, there’s concerning signs it’s been strangled of access to its own funds in what should be its busiest trading period in the run-up to Christmas. <br><br>“Worse, Gordon Brothers refused to say it will prioritise saving jobs over and above its own financial returns.”<br><br></p> <p>The committee separately heard from Poundland’s management team, led by Barry Williams, who had been fighting to save the business.</p> <p>Sources said Poundland continued to trade well, with sales up year on year, despite its problems, but it has only enough cash to support the business for a short period. Gordon Brothers has said Poundland remains “challenged and vulnerable to any potential downturn in future trading”.</p> <p>Gordon Brothers is understood to remain in talks with three potential bidders for the entire chain but has indicated it can raise more from a break-up of Poundland, selling off stock and parcels of stores to rival retailers.</p> <p>The bids are understood to be worth less than the £30m in debts taken on by shareholders when Gordon Brothers bought the chain. It <a href=\"https://www.theguardian.com/business/2025/jun/12/poundland-sold-for-1-with-dozens-of-store-closures-expected\">bought Poundland for a nominal £1</a> from its previous owner, the European retail group Pepco, in June 2025.</p> <p>Pepco still holds £7.5m of the £30m shareholder debt. It is prepared to wait for repayment in the hope of saving the business.</p> <p>Gordon Brothers is still in talks with Martin Property Group, the Northern Irish family-owned firm supporting a management-backed rescue bid for the discount chain, which includes the Dealz chain in Ireland.</p> <p>Martin Property Group’s first bid had been rejected by Gordon Brothers as it amounted to no more than half the £30m it wants for Poundland with less than £7m up front.</p> <p>A little-known finance company, Xyra Group, is thought to have offered about £12m up front and close to £30m in total. However, Xyra has not been involved with retail businesses previously.</p> <p>Gordon Brothers has been approached for comment.</p>",
+        "captions": [],
+        "standfirst": "<p>Extra funding and a bid for more time at the high court aim to keep Poundland trading, as MPs accuse its owner of extracting millions from the chain while it was on a 'knife-edge'</p>",
+        "progress": "Gordon Brothers has released an extra £10m so Poundland can secure new stock and keep trading.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
+      "kind": "article",
+      "output": {
+        "headline": "Lost Roman leg recasts the story of empire’s reach into Scotland",
+        "bodyHtml": "<p>A bronze leg dug from a bog in rural Scotland more than 200 years ago, then tucked away for a century in a duke’s storeroom, is now helping to rewrite the history of the Roman empire.</p> <p>The so-called Mislington leg was long assumed by antiquarians to have been looted, perhaps from York, hacked off by marauding Scottish tribes and carried north over Hadrian’s Wall. “We cannot visualise the conditions which would have led to its erection anywhere north of the Great Wall,” the scholar James Curle said in 1932.</p> <p>Archaeologists now believe the hefty gilded bronze limb instead came from the Scottish Borders, part of a vast statue of the emperor Antoninus Pius on horseback erected near Hawick after his armies took control of southern Scotland in about AD140.</p>    <p>Bearing significant similarities to imperial statues in other frontier regions, it is the centrepiece of the largest exhibition ever staged on the Romans in Scotland, which opens on Saturday at the National Museum of Scotland in Edinburgh.</p> <p>It spent a century in the “charter room” at Dalkeith House near Edinburgh, one of the stately homes owned by the Duke of Buccleuch, after being dug up in 1820.</p> <p>It is now displayed alongside other artefacts that the museum’s curators believe prove the Romans were a far more significant force north of Hadrian’s Wall than previously realised, occupying large areas of the country, producing new artworks and shaping the politics of Scotland long after they retreated.</p> <p>Dr Fraser Hunter, principal curator of the exhibition, Roman Scotland: Life on the Edge of Empire, believes such statues would have had a profound impact on iron-age communities – and that, far from being hacked off, the leg was carefully removed and deposited where it was found 1,700 years later.</p> <p>“These kind of things are not only visually dominant but they look really, really alien,” Hunter said. “There is effectively no naturalist art in the iron age – very, very little. The whole idea of depicting a person is absolutely alien to the iron-age worldview.”</p> <p>Among a series of firsts, the exhibition also includes a new reconstruction of a heavily decorated earthenware bowl from Inveresk, east of Edinburgh. The village is the site of a large Roman fort and town that was, Hunter believes, a centre of imperial power during the Antonine period in Scotland of AD142 to 165 – the second of three periods of Roman occupation of Scotland.</p> <p>Hunter estimates that about 10,000 troops, including auxiliaries from places such as modern-day Romania and north Africa, were stationed across southern and eastern Scotland, alongside perhaps another 10,000 camp followers, wives and enslaved people.</p> <p>Bethany Simpson, an assistant curator, said the bowl displayed a unique combination of animal reliefs involving dolphins, stags and a stylised hunting dog. “You only find it in Inveresk. It’s not seen anywhere else in Scotland; it’s not seen anywhere in the UK,” she said.</p>    <p>The museum is also showing for the first time two remarkably well preserved, locally carved stone altars from a mithraeum excavated at Inveresk. The museum uses dramatic lighting to demonstrate the vibrant colours originally painted on them.</p> <p>One has slits cut into its hollowed-out stone, radiating from the carved head of Mithras, with holes carved into its eyes and mouth to allow lamplight to shine out in the smoky darkness of the temple. </p>    <p>The show also includes the entire skeleton of a horse, carefully buried at Inveresk, which was also home to a small amphitheatre – a rare find in frontier towns. “The burial of cavalry horses in Britain is rare,” Hunter said. “Normally they just get disposed of, so this must have been a valued steed, which is really interesting.”</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/artanddesign/2026/nov/05/what-did-the-romans-ever-give-scotland-heated-floors-flashy-sandals-sun-gods-and-a-lot-of-nails\">What did the Romans ever give Scotland? Heated floors, flashy sandals, sun gods – and a lot of nails </a> </p> </aside>  <p>The exhibition focuses on Rome’s influence on indigenous Celtic tribes, their culture and political structures. Recent scholarship suggests there was no tradition of carving in pre-Roman Scotland, but from the Roman occupation sprang rich native styles, leading to highly ornate Pictish standing stones.</p> <p>Celtic rulers were beguiled by the silver used by the Romans for coins and jewellery; until then silver was unknown locally. The Romans used it to buy loyalty. Yet, by the third and fourth centuries, the Roman threat led the Pictish tribes to merge forces into an “anti-Roman coalition”.</p> <p>“What Roman interventions effectively do is they create a worse enemy. It’s the problem that empires often have in dabbling around their edges,” Hunter said.</p> <p>“So you get these larger-scale polities emerging. But they are also using Rome as a model, and the emergence of things like the Pictish symbols is absolutely tied into their exposure to sculpture and writing. So these are local responses to these kind of things, but in a highly creative, wonderfully magnificent manner.”</p>",
+        "captions": [],
+        "standfirst": "Once dismissed as looted war booty, the gilded bronze limb is now understood to be part of a huge statue of Antoninus Pius – centrepiece of the biggest exhibition staged on Roman Scotland, opening in Edinburgh.",
+        "progress": "Fraser Hunter and National Museum of Scotland curators now believe the leg came from a Roman statue near Hawick, and it is the centrepiece of the largest exhibition ever staged on Roman Scotland.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns",
+      "kind": "preview",
+      "output": {
+        "headline": "World set for ‘irrevocable overshoot’ of temperature thresholds, analysis finds",
+        "trail": "Failure to cut emissions would consign humanity to disasters it is unable to adapt to, the report says.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "kind": "preview",
+      "output": {
+        "headline": "Nvidia board reportedly weighs Jensen Huang's future amid share slide – live",
+        "trail": "Huang's potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia's shares sliding about 8% in after-hours trading.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+      "kind": "preview",
+      "output": {
+        "headline": "Police watchdog finds gaps in facial recognition checks risking wrongful arrests",
+        "trail": "Inspectors find some officers acted on potential matches from retrospective searches without making enough checks, risking wrongful arrest for ethnic minorities.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+      "kind": "preview",
+      "output": {
+        "headline": "Scott Colom claims historic Mississippi Senate win for Democrats",
+        "trail": "The Democrat unseats Cindy Hyde-Smith by a razor-thin margin, the party's first Senate win in the state since 1982.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
+      "kind": "preview",
+      "output": {
+        "headline": "Tom Waterhouse quits as senior Reform UK official",
+        "trail": "His departure, described as Reform's 'latest fall guy', is expected to be a blow to the party as questions over past vetting failures continue to be scrutinised.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/11/bridget-phillipson-kemi-badenoch-lgbt-people-conversion-therapy",
+      "kind": "preview",
+      "output": {
+        "headline": "Phillipson accuses Tories of abandoning LGBT+ conversion-ban pledge",
+        "trail": "The equalities minister accuses the Conservatives of 'chasing Reform into the gutter' after they dropped support for a planned law to ban conversion practices.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/ng-interactive/2026/nov/12/how-namdaemun-scarf-man-became-seouls-biggest-attraction",
+      "kind": "preview",
+      "output": {
+        "headline": "The $1 scarf seller who became Seoul's most unlikely sensation",
+        "trail": "Known as the city's 'scarf uncle', the vendor has won a devoted following for a sales technique built on talking customers out of buying.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+      "kind": "preview",
+      "output": {
+        "headline": "MPs accuse Poundland owner of extracting millions as retailer sought court protection",
+        "trail": "The retailer's management is seeking a two-week extension of legal protection from creditors in the high court.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit",
+      "kind": "preview",
+      "output": {
+        "headline": "Gilded Roman leg takes centre stage in new Edinburgh exhibition",
+        "trail": "Once believed to have been looted by Scottish tribes, the bronze and gilded limb now anchors a new exhibition on Roman Scotland in Edinburgh, after being found in a Scottish bog.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/11/drug-addiction-shoplifting-rehabilitation",
+      "kind": "preview",
+      "output": {
+        "headline": "'I'd steal 10-15 times a day': ex-offenders on the addictions driving prolific shoplifting",
+        "trail": "Former shoplifters say treatment and drug rehabilitation are essential to ending the cycle of theft and imprisonment.",
+        "progress": "Former shoplifters are calling for wider access to drug treatment and rehabilitation programmes.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+      "kind": "preview",
+      "output": {
+        "headline": "'Hear the goals during the afterlife': Barça fans can inter ashes at new memorial",
+        "trail": "The memorial, part of an upgrade to Camp Nou stadium, will have 26,000 niches where fans can deposit their ashes.",
+        "progress": "FC Barcelona has built 26,000 niches into the stadium upgrade for fans' ashes.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/wellness/2026/nov/11/cat-language-behavior-translate",
+      "kind": "preview",
+      "output": {
+        "headline": "Decoding your cat's slow blinks, trills and other signs of affection",
+        "trail": "Experts explain how felines communicate affection through slow blinking and trilling, advising owners to 'read the whole cat in context'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
+      "kind": "preview",
+      "output": {
+        "headline": "Nandy to meet TV, film and publishing leaders over protecting women",
+        "trail": "Lisa Nandy is expected to meet leaders from TV, film and publishing to discuss tackling abuse in the industry; ministers say they could legislate if voluntary action is deemed insufficient.",
+        "progress": "Ministers say they could introduce legislation if the industry's voluntary steps prove insufficient.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "kind": "preview",
+      "output": {
+        "headline": "Satellite images reveal scale of boat-strike oil spills in the Gulf",
+        "trail": "Since the US war on Iran began in February, there have been hundreds of oil spills from boat strikes, posing a 'generational' threat to wildlife and a devastating impact on fragile Gulf ecosystems.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
+      "kind": "preview",
+      "output": {
+        "headline": "Scott Colom becomes Mississippi's first Black senator since Reconstruction",
+        "trail": "The Democrat chatted up voters at hair salons, colleges and Trump rallies to win deep-red Mississippi with little help from his own party.",
+        "progress": "Colom built support directly with voters, campaigning in hair salons, colleges and at Trump rallies.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/12/meet-three-eurovision-asia-2026-hopefuls",
+      "kind": "preview",
+      "output": {
+        "headline": "Bar singer, K-pop veteran and 'railway track diva' vie for history at Eurovision Asia",
+        "trail": "For some it's a first big break, for others a chance to secure fame, but for all 11 acts this is a shot at becoming Eurovision Asia's first-ever champion.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/ng-interactive/2026/nov/11/the-temperature-was-building-and-it-was-getting-more-and-more-frightening-this-is-climate-breakdown",
+      "kind": "preview",
+      "output": {
+        "headline": "'My classroom was 30C. No one was learning. Then I started to feel dizzy' - this is climate breakdown",
+        "trail": "As a UK heatwave intensified in early summer this year, the health impacts began to worsen - this is Gill's story.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/11/developing-countries-climate-finance-delay",
+      "kind": "preview",
+      "output": {
+        "headline": "Developing countries left in limbo as rich nations stall on climate finance plans",
+        "trail": "Many rich-country governments are yet to set targets, leaving recipient countries struggling to plan and attract private investment.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham hails £12bn offshore wind investment ahead of climate summit",
+        "trail": "The package for the plan off the Norfolk coast was revealed as the government works to calm critics after approving the Jackdaw gasfield.",
+        "progress": "The government says it is working to calm critics of the Jackdaw gasfield decision.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/11/succession-jesse-armstrong-writers-room-hunting-alice-bell",
+      "kind": "preview",
+      "output": {
+        "headline": "'Like having your brain squeezed': inside the rollercoaster of TV's writers' rooms, with Jesse Armstrong",
+        "trail": "Our film critic co-wrote new thriller Hunting Alice Bell and joined the hallowed writers' room, finding its mix of support, buzz, abrasion and chocolate snacks, and asks veteran showrunners about their own experiences.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/blog/2026/nov/12/pat-cummins-can-end-sandpapergate-with-full-disclosure",
+      "kind": "preview",
+      "output": {
+        "headline": "Cummins can end sandpapergate by being honest about what players knew, not what they didn't",
+        "trail": "Australia's captain can confront the ball-tampering scandal with transparency about the team's environment at the time and how its members made their choices.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/11/hunting-alice-bell-review-thriller-simon-pegg-alexandra-roach-channel-4",
+      "kind": "preview",
+      "output": {
+        "headline": "Hunting Alice Bell review: a sprawling thriller on witch hunts and incel culture",
+        "trail": "Starring Simon Pegg and inspired by the story of Maxine Carr, this twisty drama follows a group of women accused of helping a killer - our critic calls it a hot mess that unravels like a real-life version of The Traitors.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/richmond-upon-thames-britains-happiest-place-to-live-rightmove-property",
+      "kind": "preview",
+      "output": {
+        "headline": "Richmond upon Thames named Britain's happiest place to live",
+        "trail": "Rightmove's survey finds residents of the London borough highly satisfied with their neighbourhood - though there's one potential catch for anyone hoping to move there.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/11/richard-lloyd-obituary",
+      "kind": "preview",
+      "output": {
+        "headline": "Richard Lloyd obituary",
+        "trail": "American guitarist and songwriter who was a founding member of the punk band Television.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/britain-streets-polluted-car-industry-electric-vehicles-transition",
+      "kind": "preview",
+      "output": {
+        "headline": "Carmakers and politicians alike must stop stalling Britain's EV transition, says George Monbiot",
+        "trail": "Monbiot blames incompetence, expedience and cowardice for Britain's stalled shift to electric vehicles, saying car industry 'dinosaurs' do as they like because politicians let them.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment",
+      "kind": "preview",
+      "output": {
+        "headline": "Pete Hegseth's 'dopey but dangerous' act faces its next battle, says Emma Brockes",
+        "trail": "Brockes says Hegseth has survived blame for the US midterms disaster and dodged an impeachment vote, but one battle after another now awaits him.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/11/kemi-badenoch-pmqs-unfunny-jokes",
+      "kind": "preview",
+      "output": {
+        "headline": "PMQs delivers more flop than fireworks from Kemi Badenoch's joke-filled set",
+        "trail": "The Conservative leader ran through a set of gags, from the budget to Russell Brand, that left even her own MPs stony-faced.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/nils-pratley-on-finance/2026/nov/11/kkr-rwe-uk-state-loan-vanguard-windfarms",
+      "kind": "preview",
+      "output": {
+        "headline": "Vanguard's windfarm backers can afford to do without taxpayers' help, Pratley argues",
+        "trail": "The National Wealth Fund is lending £1bn towards the Vanguard offshore wind projects, but the private-equity-backed developer may not have needed the help, Pratley writes.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/different-countries-animals-as-bywords-for-cowardice-chicken",
+      "kind": "preview",
+      "output": {
+        "headline": "It's time to stand up for the chicken's reputation",
+        "trail": "After Peta's call to reject mischaracterisations of chickens, our writer wonders what other nations' chicken-adjacent put-downs - Polish polecats, Croatian cuckoos - might have to say.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/impeachment-pete-hegseth-donald-trump",
+      "kind": "preview",
+      "output": {
+        "headline": "A third Trump impeachment is now plausible, Arwa Mahdawi writes",
+        "trail": "Trump has already made history as the only president to be impeached twice, Arwa Mahdawi writes; after Republicans' thrashing in the midterms, she asks whether a third attempt could follow.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/the-guardian-view-on-maga-after-the-midterms-doubling-down-on-trumpism",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view on Maga after the midterms: time to stop doubling down",
+        "trail": "Editorial: Republicans know that the president's folly and excesses cost them the elections. That doesn't mean they're ready to challenge him.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/the-guardian-view-on-welfare-reform-time-to-retire-lazy-myths-and-stereotypes",
+      "kind": "preview",
+      "output": {
+        "headline": "Welfare claimants deserve a debate free of lazy myths and stereotypes",
+        "trail": "Editorial: a speech by the leader of the opposition shows much that is wrong with how British politics conventionally talks about benefit claimants.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/11/russell-brand-trial-myths-and-a-questionable-faith",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers respond to Russell Brand's trial, rape myths and his 'questionable faith'",
+        "trail": "Letters: readers respond to reporting on the disgraced actor and comedian's trial and conviction for rape and sexual assault.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/11/hacked-fridges-and-other-dangers-lurking-in-the-internet-of-shit",
+      "kind": "preview",
+      "output": {
+        "headline": "Reader flags security gaps across our connected devices",
+        "trail": "A reader flags security gaps across our connected devices, following a series of cyber-attacks on supermarket fridges.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/11/clearing-up-confusion-over-iodine-in-milk",
+      "kind": "preview",
+      "output": {
+        "headline": "Dale Vince explains why cow's milk needs iodine added at all",
+        "trail": "Letter: Dale Vince of the Green Britain Foundation notes that cow's milk is not a natural source of iodine – it is fortified, at the cow.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/11/asylum-law-changes-are-causing-refugee-families-like-mine-terrible-worry",
+      "kind": "preview",
+      "output": {
+        "headline": "Asylum law changes are causing refugee families like mine terrible worry",
+        "trail": "Letter: A reader highlights how the government's immigration changes are affecting those who have been granted asylum and wish to apply for indefinite leave to remain.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager",
+      "kind": "preview",
+      "output": {
+        "headline": "Pochettino looks for a fit between his style and Manchester United",
+        "trail": "Mauricio Pochettino has been hurt by experiences at elite clubs, but several players at Old Trafford could fit the style he wants to build.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+      "kind": "preview",
+      "output": {
+        "headline": "'I've had to prove people wrong': Kane still striving before record England cap",
+        "trail": "Captain's 126th cap against Croatia will top Peter Shilton's record, with Kane aiming to extend the record further for younger players to catch.",
+        "progress": "Kane says he aims to extend England's caps record further for future players to catch.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/11/england-return-to-site-of-ashes-angst-but-australia-gaze-stuck-on-sandpaper",
+      "kind": "preview",
+      "output": {
+        "headline": "England's white-ball tour begins in Perth as Australia's gaze stays on sandpaper",
+        "trail": "England's white-ball tour begins in Perth on Friday, but there is only one story dominating Australian cricket right now, and the tourists are not it.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/11/complaint-us-irs-fifa-gianni-infantino-housekeeper",
+      "kind": "preview",
+      "output": {
+        "headline": "Complaint filed to IRS in relation to Fifa head Gianni Infantino's housekeeper",
+        "trail": "A complaint has been filed to the US Internal Revenue Service calling for an investigation into claims an individual on the Fifa payroll was working privately for Gianni Infantino.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/11/jockey-tom-obrien-cheltenham-festival-winner-horse-racing-dies-aged-39",
+      "kind": "preview",
+      "output": {
+        "headline": "Jockey Tom O'Brien, Cheltenham festival winner, dies aged 39",
+        "trail": "Tom O'Brien, who rode more than 1,000 winners over jumps including five Grade Ones and two at the Cheltenham festival, has died aged 39 after being diagnosed with cancer.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/11/danny-kelly-football-broadcaster-editor-q-magazine-nme-dies-aged-69",
+      "kind": "preview",
+      "output": {
+        "headline": "Danny Kelly, football broadcaster and renowned editor, dies aged 69",
+        "trail": "Danny Kelly, the renowned sport and music journalist, has died at the age of 69.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/11/eddie-jones-england-reunion-rugby",
+      "kind": "preview",
+      "output": {
+        "headline": "Eddie Jones's tough love still pays off ahead of England reunion",
+        "trail": "The Japan head coach was criticised for discarding players harshly during his time with the Red Rose, but for some that tough love has paid off as he returns to face England.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/11/stephen-curry-ayesha-movie-kiss-arenas-young",
+      "kind": "preview",
+      "output": {
+        "headline": "Stephen Curry attacks treatment of women after former players criticise wife Ayesha's movie kiss",
+        "trail": "Warriors star accuses former athletes of disrespecting his wife's acting career and perpetuating double standards after on-screen kiss.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/11/andy-burnham-safety-concerns-astley-manchester-megashed-inquiry",
+      "kind": "preview",
+      "output": {
+        "headline": "Burnham raised safety concerns about Manchester 'monster' warehouse before becoming PM, inquiry hears",
+        "trail": "The prime minister wrote to the transport commissioner to oppose the 'megashed' development in Astley shortly before entering No 10, an inquiry has heard.",
+        "progress": "Burnham wrote to the transport commissioner opposing the warehouse before taking office.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/11/spain-general-strike-housing-costs",
+      "kind": "preview",
+      "output": {
+        "headline": "Millions join Spain's first general strike in 14 years over housing emergency",
+        "trail": "The 24-hour stoppage drew high participation, weeks before an election in which the far right could gain power.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukraine talks in Abu Dhabi yield progress on prisoner releases",
+        "trail": "Progress on prisoners emerged from talks in Abu Dhabi, with peace still elusive, as US envoys prepare to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy.",
+        "progress": "US envoys are due in Moscow and Dublin on Thursday to continue talks with Putin and Zelenskyy.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+      "kind": "preview",
+      "output": {
+        "headline": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+        "trail": "Remains believed to have belonged to Africans or Afro-Brazilians were repatriated after being flown back by diplomats, following their use in eugenics studies at Harvard.",
+        "progress": "Diplomats flew the remains back to Brazil for repatriation.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
+      "kind": "preview",
+      "output": {
+        "headline": "Historic ocean liner becomes world's largest artificial reef off Florida",
+        "trail": "The SS United States, which set the transatlantic speed record on its maiden voyage in 1952, has been sunk off the coast of Destin.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/11/bird-flu-poultry-captive-birds-kept-inside-england-scotland",
+      "kind": "preview",
+      "output": {
+        "headline": "England and Scotland order poultry kept indoors to guard against bird flu",
+        "trail": "Restrictions, now in place for a second year running, follow an increased risk of a devastating strain affecting flocks kept in England and Scotland.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/11/wildlife-bird-flu-killed-millions-animals-iucn-endangered-red-list-aoe",
+      "kind": "preview",
+      "output": {
+        "headline": "IUCN moves to update red list of species hit by bird flu",
+        "trail": "Bird flu has caused severe die-offs, and scientists are working out whether a wave of extinctions could follow as they calculate the true toll.",
+        "progress": "The IUCN is updating its red list of endangered species in response to the die-offs.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "kind": "preview",
+      "output": {
+        "headline": "150,000 tents sought for displaced families in storm-hit Gaza",
+        "trail": "Charities warn of a lack of protection amid health fears for more than 940,000 displaced people living in flood-prone areas.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/11/scots-soldier-charged-with-of-army-servicewoman-in-cyprus",
+      "kind": "preview",
+      "output": {
+        "headline": "British soldier charged with rape of army servicewoman in Cyprus",
+        "trail": "L/Cpl Nicholas Horne, from 4th Battalion of the Royal Regiment of Scotland, was charged on 23 October with one count of rape.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
+      "kind": "preview",
+      "output": {
+        "headline": "Police reassure schools there is no danger after hoax bomb threats",
+        "trail": "Police assure parents and teachers there is no danger, as thousands of schools in Italy and hundreds in the UK are affected by the hoax threats.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
+      "kind": "preview",
+      "output": {
+        "headline": "British man who died in Kraków shooting named as James Campbell",
+        "trail": "Campbell, 32, from Prestwick, South Ayrshire, was one of six people killed in the 7 November attack in the Polish city.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+      "kind": "preview",
+      "output": {
+        "headline": "Oceanic sovereignty doctrine faces fresh legal challenge in Falklands oil dispute",
+        "trail": "An Argentinian lawyer says Britain is wrong to believe in the historic doctrine that gives the crown sovereignty over parts of the ocean.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football",
+      "kind": "preview",
+      "output": {
+        "headline": "Ethics watchdogs question Rubio's $1.2m taxpayer-funded travel bill",
+        "trail": "The US secretary of state is reported to have spent over $1.2m of taxpayer money flying between Washington DC and Gainesville to watch his son's football games.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+      "kind": "preview",
+      "output": {
+        "headline": "BMI alternative for identifying obesity 'could prevent misdiagnosis in millions'",
+        "trail": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say.",
+        "progress": "Experts say combining BMI with other measurements and tests would lead to better care and outcomes.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/11/irma-p-hall-actor-dies",
+      "kind": "preview",
+      "output": {
+        "headline": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
+        "trail": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/11/diesel-prices-petrol-business-oil-hormuz",
+      "kind": "preview",
+      "output": {
+        "headline": "Oil prices extend decline on global markets",
+        "trail": "Despite the drop in oil prices, diesel remains close to a 'dismal' £2 a litre at UK pumps, as a leading bank official warns energy costs are likely to stay elevated.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+      "kind": "preview",
+      "output": {
+        "headline": "Nvidia hires leading US law firm to investigate Jensen Huang's relationship",
+        "trail": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
+      "kind": "preview",
+      "output": {
+        "headline": "Nissan accelerates shift to EVs as China sales boom",
+        "trail": "Nissan says the shift to new energy vehicles is happening faster than expected in a market it calls harsh, leading it to cut petrol car production.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/11/property-london-empty-high-end-flats-developers",
+      "kind": "preview",
+      "output": {
+        "headline": "London's stock of unsold high-end flats continues to grow",
+        "trail": "Homes in the West End, Mayfair and Marylebone are going unsold, with developers counting the cost of the slowdown in sales.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/11/david-walliams-power-and-silence-review-itvx-youtube",
+      "kind": "preview",
+      "output": {
+        "headline": "David Walliams: Power and Silence review - some footage will make your head spin",
+        "trail": "From the visceral accounts of those the comedian allegedly groomed to archive footage of Jonathan Ross joking about him taking 15-year-olds home, this is dizzying TV.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/11/how-to-rob-a-bank-movie-review-amazon",
+      "kind": "preview",
+      "output": {
+        "headline": "Nicholas Hoult, Anna Sawai and Pete Davidson lead anti-capitalist bank-heist caper",
+        "trail": "How to Rob a Bank review – Amazon's attempt to mix social commentary with action proves simple-minded and unexciting, despite its starry cast.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/11/rivals-review-disney-series-two-aidan-turner-danny-dyer-david-tennant",
+      "kind": "preview",
+      "output": {
+        "headline": "Rivals review – this TV joy delivers real poignancy, not just a romp",
+        "trail": "It's not just backcombing, betrayals and bonking in this second part of series two. There are moments of real poignancy.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/11/prima-facie-review-cynthia-erivo-sexual-assault-drama",
+      "kind": "preview",
+      "output": {
+        "headline": "Prima Facie review – Cynthia Erivo's brilliant barrister blazes in sexual assault drama",
+        "trail": "Adaptation of the international stage hit stars a commanding Erivo as Tessa, whose career defending rape suspects is undermined by experience.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/11/the-lord-of-the-rings-the-rings-of-power-season-three-review",
+      "kind": "preview",
+      "output": {
+        "headline": "Rings of Power season three: new faces, more romance, same dullness",
+        "trail": "They've sidelined the harfoots, introduced a Stranger Things star and thrown in full-blooded romance, but it's probably not enough to stop the fantasy prequel feeling boring.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/ng-interactive/2026/nov/11/jane-wiedlin-go-gos-fame-sexuality",
+      "kind": "preview",
+      "output": {
+        "headline": "'My partners would all tell you I was a nut job': Jane Wiedlin on the Go-Go's, fame and the freedom of sex dungeons",
+        "trail": "As she releases a brutally honest memoir, the new wave icon opens up about industry sexism, living with bipolar disorder and becoming 'the world's first atheist ordained minister'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/09/u2-carnaval-de-luz-review",
+      "kind": "preview",
+      "output": {
+        "headline": "U2: Carnaval de Luz review – rousing, restorative rock from a band ready to take on the world again",
+        "trail": "On their first album of new songs in nearly a decade, even earnest Bono-isms carry weight amid music that is impassioned and rejuvenated.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/09/chris-packhams-lovely-new-wildlife-show-best-podcasts-of-the-week",
+      "kind": "preview",
+      "output": {
+        "headline": "Chris Packham's lovely new wildlife show: best podcasts of the week",
+        "trail": "Nature fans can get nerdy questions answered in this weekly video pod. Plus, Siobhán McSweeney is your new Comfort Eating host.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/09/beethoven-symphony-no-3-album-review-minasi-ensemble-resonanz",
+      "kind": "preview",
+      "output": {
+        "headline": "Beethoven: Symphony No 3 album review – thrilling, but Minasi's determination to shock often feels self-conscious",
+        "trail": "Riccardo Minasi radically reassesses the Eroica, bringing its acerbic innovation to the fore in a startling and compelling new recording that will surely prompt heated debate.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/11/m-john-harrison-booker-science-fiction",
+      "kind": "preview",
+      "output": {
+        "headline": "M John Harrison's Booker win fuels hope for sci-fi's literary acceptance",
+        "trail": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers consider what the award means for a genre long overlooked by a 'snobby' literary establishment.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/11/social-resistance-secret-history-central-europe-gay-saunas-vratislav-manak-wittgenstein",
+      "kind": "preview",
+      "output": {
+        "headline": "New book traces deep-rooted queer subcultures from Budapest to Prague",
+        "trail": "A new book, With Wittgenstein in a Gay Sauna, defies regional stereotypes by uncovering this hidden history, and has inspired an art exhibition on masculinity.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/11/ten-lives-by-mona-chalabi-review-what-if-we-were-totally-honest-about-our-wealth",
+      "kind": "preview",
+      "output": {
+        "headline": "Ten Lives: Mona Chalabi turns her data journalism on her own wealth",
+        "trail": "Ten Lives by Mona Chalabi review – the data journalist puts her own finances, and those of 10 others from across the economic spectrum, under a microscope.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/11/the-man-with-many-names-by-georgi-gospodinov-review-playful-and-profound-tales-from-bulgaria",
+      "kind": "preview",
+      "output": {
+        "headline": "Georgi Gospodinov's 40 short stories brim with invention and warmth",
+        "trail": "The International Booker winner's new collection gathers 40 short stories from Bulgaria, playful and profound.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
+      "kind": "preview",
+      "output": {
+        "headline": "GTA VI developers reveal years of research behind their most detailed world yet",
+        "trail": "The team behind GTA VI's virtual Florida describe building their most ambitious game world so far.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/09/grand-theft-auto-creators-gta",
+      "kind": "preview",
+      "output": {
+        "headline": "How Grand Theft Auto built a rebellious cultural empire",
+        "trail": "Since arriving on PC and consoles in the late 1990s, GTA has torn up the game-making rulebook; we explore how its cultural references, rebel spirit and sprawling freedom make it a defining work of art.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+      "kind": "preview",
+      "output": {
+        "headline": "Zelda relaunch revives the magic of the midnight game launch",
+        "trail": "Hundreds queued on Oxford Street for early copies and collectibles of Ocarina of Time's rerelease, in a heartwarming reminder of the shared experience of fandom.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+      "kind": "preview",
+      "output": {
+        "headline": "Zelda: Ocarina of Time remake turns a classic into a modern masterpiece",
+        "trail": "The Legend of Zelda: Ocarina of Time review – clearer, easier to navigate and more beautiful to look at, with playful musical touches, yet the melancholy remains.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/nov/11/cloud-9-review-national-theatre-london-caryl-churchill",
+      "kind": "preview",
+      "output": {
+        "headline": "Caryl Churchill's Cloud 9 soars at the National Theatre",
+        "trail": "The experimental 1979 drama gleefully muddles roles in a century-spanning caper that bounces from colonial Africa to hippy London.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/nov/10/old-vic-2027-season-damian-lewis-henry-v",
+      "kind": "preview",
+      "output": {
+        "headline": "Damian Lewis to lead a 'provocative' Henry V in Old Vic's 2027 season",
+        "trail": "Rupert Goold opens his tenure as artistic director with Shakespeare's history play, followed by shows starring Supergirl's Milly Alcock and Arinzé Kene.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/stage/2026/nov/10/dogstar-review-hampstead-theatre-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Scurvy, mutiny and mystery drive Daisy Bell's icebound drama Dogstar",
+        "trail": "A bickering trio of trapped survivors, cut off from their lost comrades, are kept in ominous stasis in Daisy Bell's play - but our review finds the drama, like its icebound ship, goes nowhere.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/08/orbiting-orbital-review-nitin-sawhney-samantha-harvey-booker-schwarzmann",
+      "kind": "preview",
+      "output": {
+        "headline": "Nitin Sawhney blends space, ecosystems and Samantha Harvey's Booker-winning prose in new show",
+        "trail": "Nitin Sawhney's eclectic global fusion brings in new writings from Harvey, drawings by Antony Gormley and collaborations from academics in space and ecosystems.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/11/space-rocket-explodes-rhiannon-adam-best-photograph-spacex-moon",
+      "kind": "preview",
+      "output": {
+        "headline": "A test flight explodes, ending my shot at the moon: Rhiannon Adam's best photograph",
+        "trail": "Chosen to go around the moon on a SpaceX starship, Adam says preparations took over her life – until, four minutes into watching a test flight, the rocket broke apart.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/11/jilly-cooper-typewriter-at-auction-rutshire-chronicles",
+      "kind": "preview",
+      "output": {
+        "headline": "The Olivetti 'Monica 2' that typed Jilly Cooper's racy novels heads to auction",
+        "trail": "The trusty machine, named 'Monica 2', was used to write the Rutshire chronicles and could fetch up to £8,000.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/11/stacy-keach-obituary",
+      "kind": "preview",
+      "output": {
+        "headline": "Stacy Keach obituary",
+        "trail": "Versatile American stage and screen actor whose roles ranged from Hamlet to the tough private eye Mike Hammer.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/11/bbc-symphony-oramo-review-inmo-yang-barbican-hall-sakari-oramo",
+      "kind": "preview",
+      "output": {
+        "headline": "Sakari Oramo and the BBC Symphony outshine a phenomenal Inmo Yang",
+        "trail": "Korean violinist Inmo Yang brought poise and passion to Bartók, while Sakari Oramo and the BBC Symphony added bite and touches of humour.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/the-future-of-it-is-here/2026/sep/01/how-ai-is-transforming-it-support",
+      "kind": "preview",
+      "output": {
+        "headline": "How a new generation of AI tools is smoothing out IT support",
+        "trail": "IT problems cost businesses money and frustrate staff enough to drive some to quit; a new generation of AI-enhanced support software may help change that.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/smarter-homes-lower-bills/2026/oct/13/smart-home-guide-how-does-yours-compare",
+      "kind": "preview",
+      "output": {
+        "headline": "Inside the smart home: an interactive tour of comfort and savings",
+        "trail": "An interactive tour shows how a tech-filled smart home can be comfortable to live in and cut your energy bills.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Tweens pick their own top 37 Christmas gift ideas",
+        "trail": "Twenty 10- to 12-year-olds told us what they already own, love and would want as gifts – think Lego, dance mats and plenty of lotions and potions.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/10/how-i-shop-with-jamie-oliver",
+      "kind": "preview",
+      "output": {
+        "headline": "Jamie Oliver's Christmas shopping rule: 'The most important thing? Gravy'",
+        "trail": "The chef and campaigner talks whisky, matching waistcoats and the joy of a local bookshop, revealing how he shops, dresses and eats for Christmas.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "We put the best under-desk walking pads to the test",
+        "trail": "Want to get your steps in while working or watching TV? Our expert puts walking pads through their paces to find the best for comfort, noise and ease of storage.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/06/how-to-have-greener-christmas",
+      "kind": "preview",
+      "output": {
+        "headline": "The best Christmas things aren't new - and that's precisely the point",
+        "trail": "Whether it's vintage baubles or homemade gifts, there's joy in a Christmas full of memories and personal touches. Plus, the best coats to keep out the chill this winter.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/08/best-mens-coats-autumn-winter-under-200-2026-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "The best men's coats for autumn and winter: 48 favourites for £200 or less",
+        "trail": "From a puffer made of old fishing nets to a trench worthy of Bogart, these are the coats worth braving the cold for.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/11/jess-cartner-morley-on-fashion-fashions-big-idea-this-season-wear-a-skirt",
+      "kind": "preview",
+      "output": {
+        "headline": "Jess Cartner-Morley: the key autumn look is already in your wardrobe",
+        "trail": "Looking on-trend this season just takes a skirt – no new shopping required, Cartner-Morley writes, since it's probably already in your wardrobe.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/touch-of-evil-the-terrifying-truth-about-sleep-paralysis",
+      "kind": "preview",
+      "output": {
+        "headline": "The scientist studying sleep paralysis as a portal into the mind",
+        "trail": "One in five people have experienced the frightening state of sleep paralysis; Harvard neuroscientist Baland Jalal has dedicated his career to understanding it, and asks whether it could reveal more about the mind.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/live/2026/nov/10/reader-q-and-a-ask-bestselling-roasting-tin-cookbook-recipe-writer-rukmini-iyer-a-question",
+      "kind": "preview",
+      "output": {
+        "headline": "Feast's Rukmini Iyer answers your midweek cooking questions",
+        "trail": "Rukmini Iyer, author of the bestselling Roasting Tin cookbook series, answered reader queries from simple weeknight meals prepped in 15 minutes to leftovers for lunches and whether one pan is always better than two.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/11/how-to-turn-excess-crumpets-into-a-hearty-breakfast-recipe-zero-waste-cooking",
+      "kind": "preview",
+      "output": {
+        "headline": "How to turn excess crumpets into a hearty breakfast - recipe",
+        "trail": "They're full of childhood nostalgia, and a packet rarely lasts long, but if you happen to have leftover crumpets, here's an eggy, cheesy way to use them up.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/10/school-lunchbox-bento-box-ideas-inspiration",
+      "kind": "preview",
+      "output": {
+        "headline": "How to brighten up a school lunchbox",
+        "trail": "Try a bento box stacked with familiar and fun shapes, colours and textures.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/the-thermostat-wars-tearing-couples-apart-its-hard-to-feel-sexy-when-youre-freezing-cold",
+      "kind": "preview",
+      "output": {
+        "headline": "Making peace in the thermostat wars that divide couples",
+        "trail": "Almost two-thirds of bedfellows disagree about the perfect room temperature, an issue that can affect office workers and housemates too and often leads to subterfuge and skulduggery.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/ng-interactive/2026/nov/11/young-americans-prenups-before-marriage",
+      "kind": "preview",
+      "output": {
+        "headline": "Young women reshape the prenup conversation: 'I want to protect myself'",
+        "trail": "Zillennial couples say they want 'radical transparency' around their finances, bucking the idea that prenuptial agreements are rooted in division.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
+      "kind": "preview",
+      "output": {
+        "headline": "A moment that changed me: a failed date led to one of my greatest friendships",
+        "trail": "My romance with Steven quickly fizzled, but I gained something just as good. It made me realise that in the endless, exhausting pursuit of love I had closed myself off to other kinds of connection.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/08/this-is-how-we-do-it-leaving-our-cult-has-made-sex-more-intimate",
+      "kind": "preview",
+      "output": {
+        "headline": "This is how we do it: 'Leaving our cult has made sex more intimate'",
+        "trail": "Jude and Tess grew up in an ultra-strict Christian sect, and when they broke away they had to redefine their relationship.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/10/uk-pensions-scottish-widows-young-worker",
+      "kind": "preview",
+      "output": {
+        "headline": "How a chat with 'auntie' helped a young worker bag free pension money",
+        "trail": "Joining a company pension scheme at 18 seemed 'too expensive' for Rio, until someone close put him right.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/09/royal-mail-letter-deliveries-parcels",
+      "kind": "preview",
+      "output": {
+        "headline": "Royal Mail delivered letters just twice in three months, reader says",
+        "trail": "The reader is awaiting the overdue results of a cancer test, as the postal service appears to prioritise parcels over letters.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/08/free-grand-piano-scam-emails",
+      "kind": "preview",
+      "output": {
+        "headline": "How a 'free grand piano' email scam targets music lovers' goodwill",
+        "trail": "The emails claim to be from a widow giving away her late husband's piano, but the offer is not what it seems.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/07/can-ai-save-you-money-heating-bill",
+      "kind": "preview",
+      "output": {
+        "headline": "AI and a heating bill: two years of testing turn up a surprise",
+        "trail": "Samuel Gibbs doubted AI could cut his heating costs while keeping him warm, but two years of testing produced a result he didn't expect.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/11/selena-gomez-says-vaping-has-changed-her-voice-can-e-cigarettes-really-affect-your-vocal-cords-and-is-it-reversible",
+      "kind": "preview",
+      "output": {
+        "headline": "Selena Gomez's vaping concern highlights how e-cigarettes can affect the voice",
+        "trail": "Experts say the practice can damage delicate tissues in the voice box, and there is not yet sufficient data to say whether people can recover.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency",
+      "kind": "preview",
+      "output": {
+        "headline": "What B12 shots can and can't do for tiredness and energy",
+        "trail": "Med spas are promoting vitamin B12 shots as a pick-me-up, but it remains an open question whether they truly boost energy levels.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/08/what-is-this-emotion-telling-me-how-anger-fear-and-jealousy-can-point-the-way-to-a-better-life",
+      "kind": "preview",
+      "output": {
+        "headline": "How embracing difficult emotions can lead to a better life",
+        "trail": "It's tempting to ignore uncomfortable feelings, but they may be the key to a happier, more successful future and greater psychological flexibility.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/07/yes-saunas-are-great-but-have-you-heard-of-this-amazing-thing-called-a-bath",
+      "kind": "preview",
+      "output": {
+        "headline": "The ancient, science-backed case for a good hot bath",
+        "trail": "Ever since the ancient Greeks, people have suspected that soaking in hot water is good for your health – now science has proved it.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/11/sali-hughes-on-beauty-dryness-eczema-sore-skin-bioderma",
+      "kind": "preview",
+      "output": {
+        "headline": "Sali Hughes on beauty: the lotion that cures autumn dryness and eczema soreness",
+        "trail": "Bioderma's new eczema lotion is comforting for anyone with dry skin, plus another brilliant problem-solving moisturiser.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/11/maybelline-new-tagline-maybe-quote-slogan-new-update",
+      "kind": "preview",
+      "output": {
+        "headline": "Maybelline's 35-year-old slogan gets an update, 'maybe' with more punctuation",
+        "trail": "Introduced in 1991, 'Maybe she's born with it' is retired as Maybelline unveils a new look for its slogan.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2026/nov/09/fashion-lagos-chanel-model-rachel-ojuromi-nigeria-thrift-style",
+      "kind": "preview",
+      "output": {
+        "headline": "Lagos thrift-shop style takes a creative from the streets to the Chanel catwalk",
+        "trail": "Rachel Ojuromi and her stylist friend Debby Fasingha recreated high-end designs in effortlessly cool videos shot around the city – then the fashion house came calling.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
+      "kind": "preview",
+      "output": {
+        "headline": "Met Gala 2027 swaps spectacle for an homage to 'poetics of everyday'",
+        "trail": "The event, regarded as the fashion industry's Oscars, replaces its John Galliano retrospective theme with a focus on the 'extra ordinary'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/11/10-best-wild-winter-weekends-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "10 of the best wild winter weekends in the UK",
+        "trail": "Saunas, seal-watching and spectacular skies feature among our picks for a wild winter break, plus cosy boltholes to warm up in afterwards.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/10/immersive-learning-french-in-rouen-normandy",
+      "kind": "preview",
+      "output": {
+        "headline": "Walk the talk: a week learning French with a personal tutor in Normandy",
+        "trail": "Hiring a personal tutor to learn French while exploring the beautiful city of Rouen proves a refreshing and affordable alternative to language school.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/09/trekking-holiday-brazil-atlantic-rainforests-minas-gerais",
+      "kind": "preview",
+      "output": {
+        "headline": "Trekking in Brazil's Atlantic rainforests: 'the day unfolds in a blaze of biodiversity'",
+        "trail": "Minas Gerais' biodiversity sent Charles Darwin into ecstasies, but the area has always been dominated by mining. Now ecotourism offers a lifeline.",
+        "progress": "Ecotourism is offering an economic lifeline to a region whose biodiversity has long been overshadowed by mining.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/08/walking-with-spirits-cambodia-cardamom-mountains",
+      "kind": "preview",
+      "output": {
+        "headline": "Former loggers and poachers turn protectors of Cambodia's sacred forests",
+        "trail": "Former loggers and poachers have embraced ancient traditions to promote and protect the Cardamom Mountains' ever-threatened natural wonders.",
+        "progress": "They now draw on ancient local traditions to guide the work of protecting the forest.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/10/laundry-miracle-solve-stubborn-problems-stains-rough-towels-permastank",
+      "kind": "preview",
+      "output": {
+        "headline": "The laundry miracle: solving 10 stubborn problems, from stains to 'permastank'",
+        "trail": "For 1 million people on Reddit, the science of clothes-washing is a regular topic of discussion. The writer tried their tips and found simple, sustainable answers.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/puzzles/2026/nov/10/why-mysteries-and-cryptic-crosswords-go-hand-in-hand-cluesletter",
+      "kind": "preview",
+      "output": {
+        "headline": "Why murder mysteries and cryptic crosswords pair so naturally",
+        "trail": "From Agatha Christie to a new generation of crime writers, cryptic crosswords have long had a place in murder fiction – as novelist and Guardian setter Alys Cummings explains.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/11/house-sparrows-spain-childhood-memory",
+      "kind": "preview",
+      "output": {
+        "headline": "Humble house sparrows roosting in Spain evoke a childhood memory",
+        "trail": "Forget the hoopoes and the ring-necked parakeets - the highlight of our writer's trip was a sound they hadn't heard for 50 years.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/11/country-diary-could-this-be-the-most-beautiful-fungus-in-the-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Country diary: this could be the most beautiful fungus in the UK",
+        "trail": "Upwood, Cambridgeshire: this woodland is a stronghold for elm trees - and that brings the prospect of finding a stunning rarity, the wrinkled peach.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/11/barack-obama-blue-wave-us-midterms-democrats-republicans",
+      "kind": "preview",
+      "output": {
+        "headline": "Outsiders, not Obama, powered the Democrats' blue wave, analysis argues",
+        "trail": "The former president's centrism lacks substance, the piece argues, but his enduring political capital helped give rank outsiders the chance to spark radical change.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/11/private-renters-in-the-uk-how-difficult-is-the-rental-market-where-you-live",
+      "kind": "preview",
+      "output": {
+        "headline": "Guardian seeks private renters' experiences of the UK's rental market",
+        "trail": "We'd like to hear from private renters about rising costs, finding somewhere to live and dealing with landlords.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/09/insurance-industry-workers-how-is-climate-related-risk-managed-in-your-company",
+      "kind": "preview",
+      "output": {
+        "headline": "Insurance industry workers: tell us how your company manages climate exposure",
+        "trail": "Whether you're a modeller, actuary or underwriter, we'd like to hear how the insurance industry is dealing with climate-related risk.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/11/tell-us-did-you-have-a-memorable-experience-during-the-solar-eclipse",
+      "kind": "preview",
+      "output": {
+        "headline": "Tell us: did you have a momentous experience during the solar eclipse?",
+        "trail": "We would like to hear from people who had memorable experiences during the solar eclipse in August this year.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/10/shop-workers-in-the-uk-have-you-experienced-abuse-from-customers",
+      "kind": "preview",
+      "output": {
+        "headline": "Shop workers in the UK: have you experienced abuse from customers?",
+        "trail": "We'd like to hear from retail workers about their experiences of abuse, threats and violence at work.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+      "kind": "preview",
+      "output": {
+        "headline": "Scott Colom claims victory in historic Mississippi Senate win",
+        "trail": "Colom beat Republican Cindy Hyde-Smith after the race was called eight days after midterm election day.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2008/may/01/gender.comedy",
+      "kind": "preview",
+      "output": {
+        "headline": "Johnny Vegas at the Bloomsbury theatre",
+        "trail": "In stand-up comedy the best jokes often leave an audience feeling uncomfortable. But nothing could have prepared Mary O'Hara for the way Johnny Vegas treated a young woman at a London gig.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier",
+      "kind": "preview",
+      "output": {
+        "headline": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+        "trail": "A group attending a Veterans Day ceremony was sharply reminded by a sentinel to maintain 'silence and respect' at the sacred site.",
+        "progress": "A tomb guard stepped in immediately to enforce the memorial's standard of silence and respect.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/apr/17/colombia-convenes-climate-coalition-of-the-willing-to-break-global-fossil-fuel-deadlock",
+      "kind": "preview",
+      "output": {
+        "headline": "Frustrated nations gather in Colombia to chart a path round fossil-fuel deadlock",
+        "trail": "The Santa Marta conference was born out of frustration with Cop summits, where major polluters have stalled progress on renewable energy; Colombia convened the 'coalition of the willing' to find a way through the impasse.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/jun/09/third-of-world-energy-electricity-by-2035-says-turkey-cop31-host",
+      "kind": "preview",
+      "output": {
+        "headline": "'Electrify daily life', says Turkey's Cop31 host",
+        "trail": "Turkish minister Murat Kurum says a third of the world's energy needs should come from electricity by 2035, setting out his priorities for this year's UN climate summit.",
+        "progress": "Kurum is pressing for electrification to be a central priority as Turkey hosts this year's Cop31 summit.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+      "kind": "preview",
+      "output": {
+        "headline": "High fossil fuel prices spread inflation 'like a cancer', UN climate chief tells Cop31",
+        "trail": "Talks are under way in Turkey on speeding up the shift to electrification, as Simon Stiell, opening Cop31, warned that high fossil fuel prices spread inflation 'like a cancer'.",
+        "progress": "Cop31 negotiators are discussing ways to speed up the shift to electrification.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2025/nov/26/john-kerry-australia-carbon-emitters-cop31-climate-summit",
+      "kind": "preview",
+      "output": {
+        "headline": "John Kerry urges Australia to take tougher stance at Cop31",
+        "trail": "Exclusive: the former US secretary of state calls for more demanding steps from Australia as it takes over the presidency of next year's UN climate summit.",
+        "progress": "Kerry is pressing Australia, as incoming Cop31 president, to push fossil-fuel-producing nations further.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/sep/07/heatwaves-wildfires-setting-back-air-quality-improvements-un-finds",
+      "kind": "preview",
+      "output": {
+        "headline": "WMO details toll of heatwaves and wildfires on air quality gains",
+        "trail": "The World Meteorological Organization highlights years of air quality improvement now challenged by extreme heatwaves and wildfires, which it says are fuelling a serious feedback loop for health.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
+      "kind": "preview",
+      "output": {
+        "headline": "First global talks aim to break the stalemate on fossil fuels",
+        "trail": "A 'coalition of the willing' has gathered in Colombia, trying to bypass petrostate blockages at Cop summits and chart a fresh path.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "kind": "preview",
+      "output": {
+        "headline": "Nvidia and Jensen Huang face US lawsuit over alleged spy affair",
+        "trail": "The California lawsuit comes as Donald Trump says the FBI is investigating the Nvidia chief executive's links to Alice Huang, who is alleged to be a Chinese spy.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/09/jensen-huang-image-nvidia",
+      "kind": "preview",
+      "output": {
+        "headline": "Nvidia board weighs Jensen Huang's future after alleged affair with Chinese spy",
+        "trail": "Huang built Nvidia as a family business, but after the co-founder's alleged affair with a Chinese spy, the board faces a difficult decision.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "kind": "preview",
+      "output": {
+        "headline": "Nvidia bets on open AI with $12.9bn deal for Hugging Face",
+        "trail": "The chipmaker's bet on support for open AI models is intended to offset a potential slowdown in demand for chips.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
+      "kind": "preview",
+      "output": {
+        "headline": "Nvidia strikes $500bn Wall Street deal to fund AI infrastructure",
+        "trail": "Apollo, BlackRock, Goldman Sachs and KKR are among the firms partnering with the chipmaker to fund a major build-out of AI infrastructure.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy",
+      "kind": "preview",
+      "output": {
+        "headline": "Donald Trump voices support for Nvidia's Jensen Huang",
+        "trail": "The US president praised the chipmaker's CEO, despite reports of an alleged affair with a suspected Chinese spy.",
+        "progress": "Trump has spoken out in Huang's defence amid the unverified allegations.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away",
+      "kind": "preview",
+      "output": {
+        "headline": "Thames Valley police face damages claim over facial recognition error",
+        "trail": "Alvi Choudhury is claiming damages after biased technology confused him with a man looking '10 years younger', leading to his arrest for a burglary 100 miles away.",
+        "progress": "Choudhury is pursuing a legal claim against the force over the wrongful arrest.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+      "kind": "preview",
+      "output": {
+        "headline": "Explainer: how live facial recognition works and how many UK police forces use it",
+        "trail": "The technology has been deployed since 2020 in London, raising concerns over data privacy and racial bias.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+      "kind": "preview",
+      "output": {
+        "headline": "Watchdogs call for new laws to regulate AI facial recognition",
+        "trail": "Biometrics commissioners say face-scanning is not as effective as claimed, and warn that oversight has lagged far behind the technology.",
+        "progress": "Commissioners are calling for new laws to regulate face-scanning technology.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/feb/26/met-police-to-pilot-facial-recognition-identity-checks-mayor-confirms",
+      "kind": "preview",
+      "output": {
+        "headline": "Met police to trial facial recognition identity checks, mayor confirms",
+        "trail": "Sadiq Khan says 100 officers will use the roaming technology for six months, with opponents calling its use 'alarming'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "kind": "preview",
+      "output": {
+        "headline": "Met police chief calls facial recognition critics 'ill-informed'",
+        "trail": "Cressida Dick defended the technology after civil liberties groups raised concerns over its accuracy and effect on privacy.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales",
+      "kind": "preview",
+      "output": {
+        "headline": "Police facial recognition use set to grow, investigation finds",
+        "trail": "The Guardian and Liberty Investigates found police in England and Wales expect facial recognition camera use to grow further after 4.7m faces were scanned in 2024.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers",
+      "kind": "preview",
+      "output": {
+        "headline": "Lawyers descend on Mississippi as vote counting continues in razor-thin Senate race",
+        "trail": "Democratic and Republican lawyers and groups are trading sharp legal letters over procedures for counting ballots in the tight race.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/aug/05/michigan-senate-primary-results-abdul-el-sayed",
+      "kind": "preview",
+      "output": {
+        "headline": "Progressive Abdul El-Sayed wins Michigan's Democratic Senate primary",
+        "trail": "He will next face Republican Mike Rogers in the race to represent the midwestern purple state in the Senate.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/29/alaska-investigation-mary-peltola-dan-sullivan",
+      "kind": "preview",
+      "output": {
+        "headline": "Alaska orders investigation into voter confusion allegations in Senate race",
+        "trail": "Republican governor Mike Dunleavy has ordered a search after Democrat Mary Peltola was accused of recruiting Republican Dan Sullivan to confuse voters.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/29/mississippi-scott-colom-democrats",
+      "kind": "preview",
+      "output": {
+        "headline": "A Mississippi Democrat is unexpectedly threatening Republicans' grip on the US Senate",
+        "trail": "As Scott Colom challenges Cindy Hyde-Smith, one of the country's most reliably Republican states may be in play.",
+        "progress": "Colom's unexpectedly strong challenge has put a reliably Republican Senate seat in play.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/aug/19/alaska-senate-primary-results",
+      "kind": "preview",
+      "output": {
+        "headline": "Republican senator Sullivan and Democrat Peltola set up Alaska Senate showdown",
+        "trail": "Their win in the Alaska Senate primary sets up a marquee race in the US midterms that could decide which party controls the Senate.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/jul/09/five-pressing-questions-farage-reform-uk-finances",
+      "kind": "preview",
+      "output": {
+        "headline": "Reform UK faces five pressing questions over its finances",
+        "trail": "Questions swirl about the origins of gifts, loans and donations, as even party supporters wonder whether Reform UK can weather the storm.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+      "kind": "preview",
+      "output": {
+        "headline": "Questions mount for Farage over claim of second standards probe",
+        "trail": "The Reform leader said the inquiry had been widened, but the standards watchdog is not believed to have decided whether to do so.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2026/jul/08/untold-story-why-reform-figures-face-nca-scrutiny-nigel-farage",
+      "kind": "preview",
+      "output": {
+        "headline": "Bankers flag Reform figures' financial transactions to National Crime Agency",
+        "trail": "Exclusive: the financial transactions behind Reform figures' scrutiny by the National Crime Agency, as detailed by the bankers who flagged them.",
+        "progress": "Bankers alerted the National Crime Agency to the transactions, prompting the scrutiny.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/apr/23/toxic-views-reform-uk-candidates-raise-questions-about-elections-vetting",
+      "kind": "preview",
+      "output": {
+        "headline": "Hope Not Hate identifies Reform candidates with 'toxic' views, prompting vetting questions",
+        "trail": "The campaign group found election hopefuls calling for a 'white Britain' and complaining of 'kowtowing to the black community'.",
+        "progress": "Hope Not Hate's findings have raised fresh questions about Reform's candidate vetting.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
+      "kind": "preview",
+      "output": {
+        "headline": "Farage accused of 'protecting' Reform candidate over racist slurs against David Lammy",
+        "trail": "Exclusive: an ITV investigation shows the Reform leader stood by a mayoral candidate who said the Labour MP should 'go home to the Caribbean'.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2026/jul/17/nigel-farage-questions-finances-coordinated-pile-on-reform-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Farage dismisses finance scrutiny as 'coordinated pile-on'",
+        "trail": "The Reform leader said he has been 'demonised' since it emerged he received £5m from a billionaire before the election.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/feb/22/tories-scrap-high-interest-student-loans-says-kemi-badenoch",
+      "kind": "preview",
+      "output": {
+        "headline": "Badenoch pledges to scrap high-interest 'debt trap' student loans",
+        "trail": "The Conservative leader's pledge comes as the education secretary, Bridget Phillipson, suggests priority should go to grants for poorer students rather than cutting interest.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/jun/24/labour-criticise-language-kemi-badenoch-pmqs-parliament",
+      "kind": "preview",
+      "output": {
+        "headline": "Labour MPs criticise language used by Kemi Badenoch in fractious PMQs",
+        "trail": "The Tory leader was reprimanded by the speaker for invective against a minister and for saying Starmer had '400 knives in his back'; Labour MPs separately criticised her language.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/article/2024/jun/02/tories-will-allow-bars-on-trans-women-says-kemi-badenoch",
+      "kind": "preview",
+      "output": {
+        "headline": "Kemi Badenoch says a Tory government would bar trans women from single-sex spaces",
+        "trail": "Conservatives would change the law so trans people could be excluded from single-sex spaces, if the party wins the election.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/live/2025/apr/22/supreme-court-single-sex-provision-bridget-phillipson-uk-politics-latest-updates-news",
+      "kind": "preview",
+      "output": {
+        "headline": "Supreme court ruling on gender recognition prompts fresh political debate",
+        "trail": "Badenoch said Labour's claims to have always defended single-sex spaces were a 'shameless work of fiction', as the minister for women and equality responded to the ruling.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2023/dec/06/gender-affirming-care-for-children-form-of-conversion-therapy-says-badenoch",
+      "kind": "preview",
+      "output": {
+        "headline": "Badenoch confirms plan to ban conversion practices",
+        "trail": "The minister says gender-affirming care for children is a 'form of conversion therapy', and that the law will have to address issues with affirmative care.",
+        "progress": "Badenoch has confirmed a plan to ban conversion practices.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2023/apr/04/kemi-badenoch-could-rewrite-law-to-allow-trans-exclusion-from-single-sex-spaces",
+      "kind": "preview",
+      "output": {
+        "headline": "Kemi Badenoch considers redefining 'biological sex' in law to restrict trans people's access",
+        "trail": "A redefinition of sex as 'biological sex' in the Equality Act would enable single-sex restrictions against trans people.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2022/aug/19/north-korea-rejects-seouls-absurd-offer-of-economic-aid-for-denuclearisation",
+      "kind": "preview",
+      "output": {
+        "headline": "South Korea offers economic aid to North Korea for denuclearisation",
+        "trail": "North Korea's leader's sister dismissed the offer as 'absurd' and mocked the South Korean president's 'great dream' of ridding the North of nuclear weapons.",
+        "progress": "South Korea proposed economic incentives as a way to persuade the North to give up its nuclear weapons.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2023/sep/13/seoul-south-korea-secret-tunnel-mystery-3000-square-metre",
+      "kind": "preview",
+      "output": {
+        "headline": "Mystery tunnel beneath Seoul's plaza finally comes to light",
+        "trail": "A 3,000 square metre void has sat hidden beneath one of the capital's most iconic plazas, and even experts cannot say why it is there.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2022/oct/31/grief-over-loved-ones-lost-in-seoul-deadly-halloween-crowd-crush-itaewon",
+      "kind": "preview",
+      "output": {
+        "headline": "Mother's grief for those killed in Seoul's deadliest Halloween crowd crush",
+        "trail": "Mothers and fathers tell of the excruciating wait for news before learning the fate of the missing in South Korea's deadliest crowd crush event; 'I don't know how to live,' one mother said.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/music/2026/mar/22/bts-concert-arirang-kpop-fans-comeback-south-korea-seoul",
+      "kind": "preview",
+      "output": {
+        "headline": "BTS's biggest comeback in four years delights tens of thousands in Seoul",
+        "trail": "Fans gathered in Seoul to show that, after a four-year hiatus, the band still has a place in a very changed world.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2020/aug/01/global-report-philippines-losing-battle-as-who-records-biggest-jump-in-covid-19-cases",
+      "kind": "preview",
+      "output": {
+        "headline": "WHO records Philippines' biggest jump in Covid-19 cases as health system teeters",
+        "trail": "Filipino medics are pleading for a lockdown as the health system teeters, while the US endures its deadliest month of the pandemic and South Korea arrests a sect leader.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/may/22/camp-humphreys-south-korea-us-military-base",
+      "kind": "preview",
+      "output": {
+        "headline": "South Korea's Camp Humphreys, America's biggest overseas base, faces an uncertain future under Trump",
+        "trail": "Camp Humphreys is a vital expression of the alliance between Washington and Seoul, though the nature of the partnership is shifting.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/04/poundland-suppliers-facing-losses-gordon-brothers",
+      "kind": "preview",
+      "output": {
+        "headline": "Poundland suppliers call for a fairer deal from the retailer's owner",
+        "trail": "British companies that supply the US-owned retailer say they face millions of pounds' worth of losses if it ceases trading, as its owner seeks to maximise its own return at their expense.",
+        "progress": "Suppliers are speaking out and calling publicly for a fairer deal from Poundland's owner.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/oct/28/business-secretary-jonathan-reynolds-poundland-owner-gordon-brothers-administration-fears",
+      "kind": "preview",
+      "output": {
+        "headline": "Business secretary presses Poundland owner for answers on its future",
+        "trail": "Jonathan Reynolds's team has written to Gordon Brothers, which bought the retailer for £1 last summer, to 'establish the facts' as concern grows that it could enter administration.",
+        "progress": "Jonathan Reynolds has written to Gordon Brothers seeking to establish the facts behind concerns for Poundland's future.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2020/mar/12/coronavirus-prompts-poundland-owner-to-postpone-flotation",
+      "kind": "preview",
+      "output": {
+        "headline": "Poundland owner postpones stock market flotation amid coronavirus volatility",
+        "trail": "Retail and stock market volatility, and the illness of boss Andy Bond, were cited as reasons for delaying the float.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/03/protect-poundland-mps-tell-government-retail",
+      "kind": "preview",
+      "output": {
+        "headline": "MPs urge government action to save Poundland and its 12,000 jobs",
+        "trail": "The budget retailer and its 12,000 jobs are at risk after its US owner failed to accept buyout offers.",
+        "progress": "MPs are calling on the government to step in and protect Poundland from what they call predatory capitalism.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2025/mar/06/poundland-up-for-sale-as-budget-tax-changes-drive-up-costs",
+      "kind": "preview",
+      "output": {
+        "headline": "Pepco Group weighs options for Poundland's future amid rising costs",
+        "trail": "Poundland is up for sale after budget tax changes drove up costs, its owner Pepco Group says, in an 'increasingly challenging UK retail landscape'.",
+        "progress": "Pepco Group is considering 'all strategic options' for the chain's future.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2025/jun/12/poundland-sold-for-1-with-dozens-of-store-closures-expected",
+      "kind": "preview",
+      "output": {
+        "headline": "Gordon Brothers buys Poundland for £1, pledging up to £80m turnaround investment",
+        "trail": "The buyer will invest up to £80m in the discount retail chain in an attempt to turn the business around, though dozens of store closures are expected.",
+        "progress": "New owner Gordon Brothers plans to invest up to £80m to try to turn Poundland around.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2024/apr/29/mysterious-roman-dodecahedron-display-lincoln",
+      "kind": "preview",
+      "output": {
+        "headline": "Lincoln museum prepares to display its mysterious Roman dodecahedron",
+        "trail": "No one has found any description or drawing of the object anywhere in Roman literature, leaving its purpose a mystery.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2017/nov/08/reconstructed-roman-temple-mithras-opens-public-bloomberg-hq",
+      "kind": "preview",
+      "output": {
+        "headline": "London museum revives Roman mystery cult of Mithras the bull slayer",
+        "trail": "At the new museum, visitors can explore the ancient mystery cult of Mithras the bull slayer in a multi-sensory experience.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2022/apr/07/english-heritage-corbridge-roman-town-edwardian-navvies-hadrians-wall",
+      "kind": "preview",
+      "output": {
+        "headline": "English Heritage brings Roman town's lost Edwardian labourers to life",
+        "trail": "Exhibition identifies 11 of the forgotten labourers who uncovered Corbridge Roman town on Hadrian's Wall.",
+        "progress": "English Heritage's exhibition identifies 11 of the previously forgotten workers by name.",
+        "upside": 2
+      }
+    }
+  ]
+}
