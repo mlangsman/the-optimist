@@ -32,8 +32,10 @@
   {
     "path": "/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The progress line \"Nuttall takes over after Reform's internal inquiry cleared two senior officials of breaking foreign-donation rules\" invents a causal/temporal link between Nuttall now overseeing vetting and the conclusion of the Orr/Jukes inquiry; the ORIGINAL states both facts separately (Nuttall \"is now run by\" the vetting process; the Richardson-led inquiry \"cleared Orr and Jukes\") and never connects them with 'after' or any sequence."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -75,8 +77,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a no-setback feature (a historical discovery with nothing to respond to), so per the brief its progress line should be null; instead the rewrite supplies 'Fraser Hunter and National Museum of Scotland curators now believe the leg came from a Roman statue near Hawick, and it is the centrepiece of the largest exhibition ever staged on Roman Scotland', which just repeats the headline and standfirst's own claims rather than naming any new action being taken."
+      ]
     }
   },
   {
@@ -152,13 +156,13 @@
   {
     "path": "/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "The headline's 'sought court protection' states as a completed action what the trail itself (correctly) describes as still in progress ('is seeking a two-week extension'); the tense is inconsistent with the original's 'to seek'."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'MPs accuse Poundland owner of extracting millions as retailer sought court protection' keeps the setback (the extraction accusation) as its subject and relegates the only available upside in the copy - management's action to seek legal protection from creditors, a genuine next-step/response - to a subordinate 'as' clause; rule 1 explicitly forbids this pattern when the original offers an upside the headline could be built on instead, so it should be rebuilt around the retailer's move to seek court protection, with the MPs' accusation moved to the trail."
+      ]
     }
   },
   {
@@ -176,21 +180,27 @@
     "kind": "preview",
     "ok": false,
     "issues": [
-      "The progress line 'calling for wider access to drug treatment and rehabilitation programmes' invents a specific policy ask (wider access) that the original does not state; the original only says former shoplifters believe treatment and rehabilitation are 'essential', not that they are calling for expanded access."
+      "The added progress line 'Former shoplifters are calling for wider access to drug treatment and rehabilitation programmes' goes beyond what the ORIGINAL trail supports: it says ex-offenders find treatment and rehabilitation 'essential' to ending the cycle, not that they are organised in 'calling for wider access' to specific programmes."
     ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline \"'I'd steal 10-15 times a day': ex-offenders on the addictions driving prolific shoplifting\" is carried over completely unchanged from the ORIGINAL, even though the copy (as reflected in the new progress line) shows former shoplifters pointing to treatment and rehabilitation as the essential fix - a genuine upside the headline should have been rebuilt around rather than leading with the crime itself."
+      ]
     }
   },
   {
     "path": "/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The progress line's claim that 'FC Barcelona has built 26,000 niches into the stadium upgrade' asserts the construction is already complete, but the ORIGINAL trail says the memorial 'will consist of' 26,000 niches - a planned, future state, not a finished one."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a no-setback feature (a warm human-interest story with nothing to respond to), so its progress line should be null; instead the rewrite adds 'FC Barcelona has built 26,000 niches into the stadium upgrade for fans' ashes', which only repeats the trail's own figures rather than naming any further action."
+      ]
     }
   },
   {
@@ -206,8 +216,10 @@
   {
     "path": "/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline 'Nandy to meet TV, film and publishing leaders over protecting women' adds the specific detail that the meeting concerns 'protecting women'; the ORIGINAL headline and trail refer only to tackling 'abuse' generally in the industry and never specify women as the subject."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -406,8 +418,10 @@
   {
     "path": "/news/2026/nov/11/russell-brand-trial-myths-and-a-questionable-faith",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite renders 'questionable faith' in quotation marks ('his 'questionable faith''), presenting it as a direct quotation; the ORIGINAL headline uses 'a questionable faith' as its own unquoted phrase, not an attributed quote."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -536,10 +550,8 @@
   {
     "path": "/world/2026/nov/11/spain-general-strike-housing-costs",
     "kind": "preview",
-    "ok": false,
-    "issues": [
-      "The headline's 'housing emergency' substitutes for the original's 'housing crisis' \u2014 a different characterisation (acute emergency vs ongoing crisis) not clearly supported as equivalent by the given text."
-    ],
+    "ok": true,
+    "issues": [],
     "tone": {
       "ok": true,
       "issues": []
@@ -590,12 +602,14 @@
     "kind": "preview",
     "ok": false,
     "issues": [
-      "The trail's 'severe die-offs' downgrades the original's 'catastrophic die-offs', softening the scale of the loss into vaguer, milder language not supported by the stronger original wording."
+      "The rewrite's trail claims \"scientists are working out whether a wave of extinctions could follow\" as an activity under way, but the ORIGINAL only poses this as an open headline question and says scientists are explaining why calculating the pandemic's true toll is hard \u2014 it does not say they are actively determining whether extinctions will follow.",
+      "The progress line \"The IUCN is updating its red list of endangered species in response to the die-offs\" asserts a causal link (\"in response to\") between the red-list update and the bird-flu die-offs that the ORIGINAL does not state; it only places the two facts in the same piece."
     ],
     "tone": {
       "ok": false,
       "issues": [
-        "Downgrading 'catastrophic' to 'severe' minimises the original's characterisation of the die-offs with no compensating upside justifying the softening (rule 5)."
+        "The headline \"IUCN moves to update red list of species hit by bird flu\" keeps the same subject as the original (bird-flu die-offs / the IUCN's red-list process) and leans on the procedural verb \"moves to\", which the brief flags for avoidance, instead of building on the stronger finding-out angle the copy offers (scientists explaining why calculating the true toll is so hard) \u2014 this reads as a cosmetic reshuffle rather than a genuine re-angling.",
+        "The progress line \"The IUCN is updating its red list of endangered species in response to the die-offs\" substantially repeats the headline's own content (IUCN, red list, die-offs), rather than telling the reader something the headline hasn't already said."
       ]
     }
   },
@@ -684,7 +698,7 @@
     "kind": "preview",
     "ok": false,
     "issues": [
-      "The headline 'Oil prices extend decline on global markets' asserts a continuing trend ('extend') across a broad scope ('global markets') that the given original text \u2014 which only says diesel costs remain high 'despite oil price falls' \u2014 does not support."
+      "The headline \"Oil prices extend decline on global markets\" adds detail and framing not supported by the ORIGINAL, which only says diesel prices stay high \"despite oil price falls\" \u2014 it does not characterise the fall as an ongoing, extending decline, nor does it specify \"global markets\"."
     ],
     "tone": {
       "ok": true,
@@ -1247,8 +1261,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline's \"an homage\" uses the American silent-h convention; Guardian British house style takes \"a homage\" (the h is pronounced), so this is an Americanism in British copy."
+      ]
     }
   },
   {
@@ -1406,11 +1422,13 @@
     "kind": "preview",
     "ok": false,
     "issues": [
-      "The progress line's 'stepped in immediately' adds a detail about timing/immediacy that the original does not state."
+      "The progress line's \"A tomb guard stepped in immediately to enforce the memorial's standard of silence and respect\" adds the qualifier \"immediately\", a detail of timing not stated in the ORIGINAL, which only says the group was \"sharply reminded\"."
     ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline \"Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier\" is left completely unchanged from the ORIGINAL, keeping the scolding/laughing setback as its subject, even though the copy's own progress line shows the guard's enforcement of the memorial's standards is an available upside (capacity/response) the headline could have been built around instead \u2014 this is a cosmetic non-edit, failing rules 1 and 2."
+      ]
     }
   },
   {
@@ -1439,8 +1457,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline \"High fossil fuel prices spread inflation 'like a cancer', UN climate chief tells Cop31\" is left completely unchanged from the ORIGINAL and keeps the inflation/fossil-fuel setback as its entire subject, when the copy offers a genuine upside \u2014 talks under way at Cop31 to speed up the shift to electrification \u2014 that the rewrite itself used to open the trail but never brought into the headline; fails rules 1 and 2."
+      ]
     }
   },
   {
@@ -1488,11 +1508,13 @@
     "kind": "preview",
     "ok": false,
     "issues": [
-      "Both the headline ('alleged affair with Chinese spy') and trail ('alleged affair with a Chinese spy') move the original's hedge from the spy's identity ('an affair with an alleged Chinese spy') onto the affair itself, turning 'Chinese spy' into a stated fact while hedging the affair, which the original does not support."
+      "The headline's \"after alleged affair with Chinese spy\" and the trail's \"after the co-founder's alleged affair with a Chinese spy\" move the hedge \"alleged\" from the person's status as a spy (as in the ORIGINAL's \"an alleged Chinese spy\", where the affair itself is stated as fact) onto the affair itself, while now stating \"Chinese spy\" as settled fact \u2014 this reverses which claim the ORIGINAL treats as established and which it treats as alleged."
     ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline \"Nvidia board weighs Jensen Huang's future after alleged affair with Chinese spy\" is substantively the same dilemma as the ORIGINAL's \"Jensen Huang's image has been shattered. Could he be pushed out at Nvidia?\" merely reworded without a question mark, and still names the scandal in the headline itself; the board \"weighing\" his future is simply the same uncertainty restated, not a genuine upside the copy supports, so this reads as a cosmetic edit that keeps the setback in the headline."
+      ]
     }
   },
   {
@@ -1528,11 +1550,15 @@
   {
     "path": "/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The ORIGINAL headline specifies the wrongly arrested man as \"Asian\", a detail central to the story's point about biased facial-recognition technology; the rewrite's headline and trail drop this entirely, leaving only the vaguer \"biased technology\" without saying what kind of bias is alleged."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Dropping \"Asian man\" from the headline-and-trail pair softens the specific racial-bias allegation that was the ORIGINAL's point into a generic, unspecified \"facial recognition error\"/\"biased technology\", which minimises the particular harm the ORIGINAL describes."
+      ]
     }
   },
   {
@@ -1553,7 +1579,7 @@
     "tone": {
       "ok": false,
       "issues": [
-        "The progress line ('Commissioners are calling for new laws to regulate face-scanning technology') is a near-total restatement of the headline ('Watchdogs call for new laws to regulate AI facial recognition') with no new information, violating the rule that the progress line must never repeat the headline."
+        "The progress line 'Commissioners are calling for new laws to regulate face-scanning technology' simply restates the headline ('Watchdogs call for new laws to regulate AI facial recognition') rather than telling the reader anything new about what is being done, which rule 8 disallows; there is no further 'what's being done' fact in this preview to build on instead."
       ]
     }
   },
@@ -1623,8 +1649,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Colom's unexpectedly strong challenge has put a reliably Republican Senate seat in play' only repeats the headline and trail's claim rather than naming a new action or development (rule 8); nothing else in this preview supports a genuine 'what's being done' fact to use instead."
+      ]
     }
   },
   {
@@ -1663,8 +1691,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Bankers alerted the National Crime Agency to the transactions, prompting the scrutiny' repeats the headline ('Bankers flag Reform figures' financial transactions to National Crime Agency') instead of adding a new fact about what is being done (rule 8)."
+      ]
     }
   },
   {
@@ -1673,8 +1703,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Hope Not Hate's findings have raised fresh questions about Reform's candidate vetting' repeats the headline's own claim ('...prompting vetting questions') rather than stating a new action being taken (rule 8)."
+      ]
     }
   },
   {
@@ -1743,8 +1775,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Badenoch has confirmed a plan to ban conversion practices' repeats the headline ('Badenoch confirms plan to ban conversion practices') almost word for word, giving the reader no new 'what's being done' information (rule 8)."
+      ]
     }
   },
   {
@@ -1813,8 +1847,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'South Korea's Camp Humphreys, America's biggest overseas base, faces an uncertain future under Trump' leads with the threat/uncertainty and keeps the original's own angle (the base's uncertain future), when the original offers a genuine upside to build on instead -- 'Camp Humphreys is a vital expression of the alliance between Washington and Seoul' (rules 1 and 2)."
+      ]
     }
   },
   {
@@ -1863,8 +1899,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Pepco Group is considering \"all strategic options\" for the chain's future' repeats the headline ('Pepco Group weighs options for Poundland's future amid rising costs') rather than adding a new fact about what is being done (rule 8)."
+      ]
     }
   },
   {

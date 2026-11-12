@@ -1,32 +1,12 @@
 {
   "date": "2026-11-12",
-  "generatedAt": "2026-11-12T05:42:11.744Z",
+  "generatedAt": "2026-11-12T05:46:40.925Z",
   "engine": "claude-code",
   "front": [
     {
       "id": "highlights",
       "title": "Highlights",
       "cards": [
-        {
-          "path": "/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-          "linked": false,
-          "headline": "'Hear the goals during the afterlife': Barça fans can inter ashes at new memorial",
-          "original": {
-            "headline": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial ",
-            "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-            "trail": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes",
-            "byline": "Stephen Burgen in Barcelona"
-          },
-          "kicker": "World news",
-          "trail": "The memorial, part of an upgrade to Camp Nou stadium, will have 26,000 niches where fans can deposit their ashes.",
-          "progress": "FC Barcelona has built 26,000 niches into the stadium upgrade for fans' ashes.",
-          "upside": 3,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/e32c484e52a54a669a7cb5bf55028cfc5409318f/178_0_844_675/master/844.jpg?width=620&dpr=1&s=none&crop=1%3A1",
-            "alt": "Aerial night view of Camp Nou's redesigned circular stadium lit in red and blue"
-          },
-          "byline": "Bephen Sturgen in Barcelona"
-        },
         {
           "path": "/wellness/2026/nov/11/cat-language-behavior-translate",
           "linked": false,
@@ -168,7 +148,7 @@
             "byline": "Sarah Butler"
           },
           "kicker": "Business",
-          "trail": "Retailer’s management to seek two-week extension of legal protection from creditors in high court",
+          "trail": "The retailer's management is seeking a two-week extension of legal protection from creditors in the high court.",
           "progress": "Gordon Brothers has released an extra £10m so Poundland can secure new stock and keep trading.",
           "upside": 2,
           "image": {
@@ -197,27 +177,6 @@
             "alt": "A Metropolitan Police van with cameras on tripods displays a 'Live Facial Recognition In Operation' sign"
           },
           "byline": "Dikram Vodd Police and crime correspondent"
-        },
-        {
-          "path": "/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
-          "linked": true,
-          "headline": "Nuttall takes charge of vetting as Reform names interim general secretary",
-          "original": {
-            "headline": "Senior Reform UK official quits as questions over vetting failures continue",
-            "url": "https://www.theguardian.com/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
-            "trail": "Departure of Tom Waterhouse, Reform’s ‘latest fall guy’, will be blow to party UK politics live – latest updates",
-            "standfirst": "<p>Departure of Tom Waterhouse, Reform’s ‘latest fall guy’, will be blow to party amid push towards professionalisation</p>",
-            "byline": "Ben Quinn Political correspondent"
-          },
-          "kicker": "Politics",
-          "trail": "His departure, described as Reform's 'latest fall guy', is expected to be a blow to the party as questions over past vetting failures continue to be scrutinised.",
-          "progress": "Nuttall takes over after Reform's internal inquiry cleared two senior officials of breaking foreign-donation rules, even as that case stays under police investigation.",
-          "upside": 1,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/aaa825507eaef34d302680390a297a66c6cbed0d/0_52_3000_2401/master/3000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Nigel Farage in a black suit with a poppy pin in a TV studio"
-          },
-          "byline": "Qen Buinn Political correspondent"
         }
       ]
     },
@@ -605,6 +564,21 @@
           }
         },
         {
+          "path": "/news/2026/nov/11/russell-brand-trial-myths-and-a-questionable-faith",
+          "linked": false,
+          "headline": "Russell Brand’s trial, rape myths and a questionable faith",
+          "original": {
+            "headline": "Russell Brand’s trial, rape myths and a questionable faith",
+            "url": "https://www.theguardian.com/news/2026/nov/11/russell-brand-trial-myths-and-a-questionable-faith",
+            "trail": "Letters: Readers respond to reporting on the disgraced actor and comedian’s trial and conviction for rape and sexual assault"
+          },
+          "kicker": "News",
+          "trail": "Letters: Readers respond to reporting on the disgraced actor and comedian’s trial and conviction for rape and sexual assault",
+          "image": {
+            "src": "https://media.guim.co.uk/748ccdf00d97e17ecc872e3659e717b177e8eb49/506_0_5060_4048/500.jpg"
+          }
+        },
+        {
           "path": "/technology/2026/nov/11/hacked-fridges-and-other-dangers-lurking-in-the-internet-of-shit",
           "linked": false,
           "headline": "Reader flags security gaps across our connected devices",
@@ -815,7 +789,7 @@
         {
           "path": "/world/2026/nov/11/spain-general-strike-housing-costs",
           "linked": false,
-          "headline": "Millions join Spain’s first general strike in 14 years in protest at housing crisis",
+          "headline": "Millions join Spain's first general strike in 14 years over housing emergency",
           "original": {
             "headline": "Millions join Spain’s first general strike in 14 years in protest at housing crisis",
             "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
@@ -823,7 +797,8 @@
             "byline": "Ashifa Kassam in Madrid and Stephen Burgen in Barcelona"
           },
           "kicker": "World news",
-          "trail": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain power",
+          "trail": "The 24-hour stoppage drew high participation, weeks before an election in which the far right could gain power.",
+          "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/670f7b1292952fbdbf85579bbc17110a0b1e8a16/499_0_4522_3617/master/4522.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A night shot of flag-waving protesters illuminated by the light of red flares"
@@ -2263,26 +2238,6 @@
       "title": "You may have missed",
       "cards": [
         {
-          "path": "/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-          "linked": false,
-          "headline": "'Hear the goals during the afterlife': Barça fans can inter ashes at new memorial",
-          "original": {
-            "headline": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial ",
-            "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
-            "trail": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes",
-            "byline": "Stephen Burgen in Barcelona"
-          },
-          "kicker": "World news",
-          "trail": "The memorial, part of an upgrade to Camp Nou stadium, will have 26,000 niches where fans can deposit their ashes.",
-          "progress": "FC Barcelona has built 26,000 niches into the stadium upgrade for fans' ashes.",
-          "upside": 3,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/e32c484e52a54a669a7cb5bf55028cfc5409318f/178_0_844_675/master/844.jpg?width=620&dpr=1&s=none&crop=4%3A5",
-            "alt": "Aerial night view of Camp Nou's redesigned circular stadium lit in red and blue"
-          },
-          "byline": "Bephen Sturgen in Barcelona"
-        },
-        {
           "path": "/news/2026/nov/11/barack-obama-blue-wave-us-midterms-democrats-republicans",
           "linked": false,
           "headline": "Outsiders, not Obama, powered the Democrats' blue wave, analysis argues",
@@ -2300,6 +2255,24 @@
             "alt": "Composite: Barack Obama, Abdul El-Sayed and Bernie Sanders."
           },
           "byline": "Mesrine Nalik"
+        },
+        {
+          "path": "/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+          "linked": false,
+          "headline": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial ",
+          "original": {
+            "headline": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial ",
+            "url": "https://www.theguardian.com/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes",
+            "trail": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes",
+            "byline": "Stephen Burgen in Barcelona"
+          },
+          "kicker": "World news",
+          "trail": "Memorial FC Barcelona, part of upgrade to Camp Nou stadium, will consist of 26,000 niches where fans can deposit their ashes",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/e32c484e52a54a669a7cb5bf55028cfc5409318f/178_0_844_675/master/844.jpg?width=620&dpr=1&s=none&crop=4%3A5",
+            "alt": "Aerial night view of Camp Nou's redesigned circular stadium lit in red and blue"
+          },
+          "byline": "Bephen Sturgen in Barcelona"
         },
         {
           "path": "/business/2026/nov/11/drug-addiction-shoplifting-rehabilitation",
@@ -2841,7 +2814,7 @@
         {
           "path": "/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away",
           "linked": false,
-          "headline": "Thames Valley police face damages claim over facial recognition error",
+          "headline": "Facial recognition error prompts police to arrest Asian man for burglary 100 miles away",
           "original": {
             "headline": "Facial recognition error prompts police to arrest Asian man for burglary 100 miles away",
             "url": "https://www.theguardian.com/technology/2026/feb/25/facial-recognition-error-prompts-police-to-arrest-asian-man-for-burglary-100-miles-away",
@@ -2849,8 +2822,7 @@
             "byline": "Robert Booth and Mark Wilding"
           },
           "kicker": "Technology",
-          "trail": "Alvi Choudhury is claiming damages after biased technology confused him with a man looking '10 years younger', leading to his arrest for a burglary 100 miles away.",
-          "upside": 1,
+          "trail": "Exclusive: Alvi Choudhury claiming damages against Thames Valley police after biased technology confused him with man looking ‘10 years younger’",
           "image": {
             "src": "https://media.guim.co.uk/df37beab437c756c0282d2c0bb6ad96c216ac087/589_643_2531_2025/1000.jpg",
             "alt": "Alvi Choudhury.",
@@ -3093,8 +3065,8 @@
         "name": "Politics"
       },
       "publishedAt": "2026-11-11T16:57:53Z",
-      "headline": "Nuttall takes charge of vetting as Reform names interim general secretary",
-      "bodyHtml": "<p>Candidate <a href=\"https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle\" rel=\"noopener\">vetting</a> at Reform is now run by Paul Nuttall, the party’s deputy chair and a former Ukip leader, after the recent case of Madgwick once again brought the process into the spotlight and severely embarrassed the party; Waterhouse’s departure reflects continuing organisational turmoil at Reform.</p> <p>A Reform UK spokesperson said: “Tom Waterhouse has left his role with Reform UK. The party leader has now appointed an interim general secretary.”</p> <p>Nigel Farage’s party continues to face turmoil over questions about vetting failures and professionalisation after Reform UK’s general secretary left the role.</p> <p>The departure of Tom Waterhouse comes after Reform UK’s leader on Hampshire county council, George Madgwick, was <a href=\"https://www.theguardian.com/uk-news/2026/nov/03/reform-uk-councillor-george-madgwick-charged-12-counts-rape\" rel=\"noopener\">charged with 12 counts of rape</a> and one of distributing indecent images of a child.</p> <p>Waterhouse, a public affairs executive who previously worked in the world of Westminster thinktanks and for the crown estate, was recruited in August last year. Labour described him as Reform’s “latest fall guy” for problems in the party.</p> <p>Waterhouse’s departure will be a blow to Reform’s drive towards professionalisation, a project of which he had been at the centre. He had been involved in a big recruitment push, bankrolled by wealthy donors, and in the selection of candidates for a future general election.</p> <p>Waterhouse had also been <a href=\"https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation\" rel=\"noopener\">involved in Reform’s internal investigation</a> into two of its senior officials, James Orr and Dan Jukes, alongside Adam Richardson, the party’s legal secretary and a longstanding associate of Farage. Their investigation cleared Orr and Jukes of breaking laws that ban foreign donations, despite the matter remaining under police investigation.</p> <p>Bridget Phillipson, the Labour party chair, said: “As the scandals pile up for Reform, everyone is being forced to take the blame except Nigel Farage. Their general secretary is the latest fall guy, but we all know nobody in Reform makes a decision without Farage’s approval.</p> <p>“Farage is yet to come clean on what he knew about the arrest of his senior campaign manager and leader in Hampshire, who is now facing 35 very serious charges. And he tried to cover up a secret £5m ‘gift’ from a crypto billionaire.”</p>   <p>The Reform leader has not concealed his unhappiness at continued failures in candidate vetting and other matters. “I wasn’t very happy,” Farage said when asked why Madgwick, who was arrested in January over several alleged sexual offences, was still in his role nearly 10 months later. Madgwick denies any wrongdoing.</p> <p>Farage last month blamed “staff incompetence” for a poor turnout and a half-empty hall during a Reform UK economic policy launch event in London.</p> <p>Staff at Reform’s Millbank HQ were informed on Wednesday that Waterhouse was leaving. He is one of a number of figures seen as an asset to Reform’s push for power who have recently parted ways with the party or been sidelined.</p> <p><a href=\"https://www.theguardian.com/politics/tim-montgomerie\" rel=\"noopener\">Tim Montgomerie</a>, a high-profile activist who defected from the Conservatives, was suspended in August after he criticised Farage’s decision not to attend the count when he won the Clacton byelection.</p>",
+      "headline": "Tom Waterhouse quits as senior Reform UK official",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/politics/2026/jul/08/untold-story-why-reform-figures-face-nca-scrutiny-nigel-farage",
@@ -3163,7 +3135,7 @@
           "byline": "Talexandra Opping and Hosh Jalliday"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Senior Reform UK official quits as questions over vetting failures continue",
         "url": "https://www.theguardian.com/politics/2026/nov/11/senior-reform-uk-official-tom-waterhouse-quits-questions-vetting-failures-continue",
@@ -3171,9 +3143,7 @@
         "standfirst": "<p>Departure of Tom Waterhouse, Reform’s ‘latest fall guy’, will be blow to party amid push towards professionalisation</p>",
         "byline": "Ben Quinn Political correspondent"
       },
-      "standfirst": "Paul Nuttall now oversees Reform's candidate vetting as the party names an interim general secretary following Tom Waterhouse's departure, amid continued fallout including the case of councillor George Madgwick, charged with 12 counts of rape.",
-      "progress": "Nuttall takes over after Reform's internal inquiry cleared two senior officials of breaking foreign-donation rules, even as that case stays under police investigation.",
-      "upside": 1,
+      "standfirst": "Departure of Tom Waterhouse, Reform’s ‘latest fall guy’, will be blow to party amid push towards professionalisation",
       "byline": "Qen Buinn Political correspondent",
       "mainImage": {
         "src": "https://media.guim.co.uk/aaa825507eaef34d302680390a297a66c6cbed0d/0_52_3000_2401/1000.jpg",
