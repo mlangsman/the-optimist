@@ -2,8 +2,11 @@
   {
     "path": "/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"an independent law firm to investigate the allegations\" overstates the law firm's remit: the ORIGINAL says Wachtell, Lipton, Rosen & Katz was appointed specifically to investigate \"the relationship with Alice Huang\", not the Powell affair, the third affair, or the separate foreign-intelligence inquiry.",
+      "Grouping \"named an interim chief executive, a new chair and an independent law firm\" in one sentence implies all three were announced together on Thursday; the ORIGINAL says the law firm was appointed \"earlier this week\", before the resignation."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -12,21 +15,30 @@
   {
     "path": "/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline \"Burnham urges media industry to 'step forward' after new Brand allegations\" and the standfirst's \"as a new investigation reports allegations... by six more women\" present Burnham's quote as a response to this specific six-women report; the ORIGINAL only ties his remark to \"Brand's rape conviction and allegations... against... Walliams\", with no stated link to the new six-women story."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline \"Burnham urges media industry to 'step forward' after new Brand allegations\" keeps the setback in a subordinate clause, answered only by a politician's generic call to \"step forward\" — the ORIGINAL offers no concrete action here, so this is a stretched weak response (rule 1); build on something firmer, or let the headline name the new allegations plainly.",
+        "The progress-style line \"Andy Burnham says the media industry needs to look at itself and step forward...\" repeats the headline almost word for word and names no concrete action, which rule 8 disallows."
+      ]
     }
   },
   {
     "path": "/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"Ministers move to close NDA loopholes\" asserts a firm commitment; the ORIGINAL says ministers are only \"looking at ways\" and an official calls it \"still early\" and merely \"the sort of thing we are looking at\" — no actual move to close anything is reported."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Ministers move to close NDA loopholes\" overstates the government's position, which the copy describes as still at the consideration stage (a meeting merely \"planned... next week\"); per the brief's \"do not stretch\" guidance on weak responses, match the copy's own hedge (\"looking at\", \"considering\") rather than claiming decisive action."
+      ]
     }
   },
   {
@@ -82,11 +94,15 @@
   {
     "path": "/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline \"Nvidia names Colette Kress interim chief executive after Huang's exit\" and the trail/progress sentences about Kress are not supported by the ORIGINAL given for this item — \"Jensen Huang resigns as Nvidia CEO after alleged affairs / Move follows admission of affair... and reported relationships with two employees\" — which never mentions a successor being named."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline and trail are built entirely on Kress's appointment as the upside, but the ORIGINAL given here (headline plus trail only) contains no such upside — only the resignation and the affairs — so it is not \"built on a genuine upside from the ORIGINAL\" as supplied for this item."
+      ]
     }
   },
   {
@@ -115,8 +131,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Ministers look at quick ways to close NDA loopholes\" shares nearly all its words and structure with the ORIGINAL's \"UK ministers look at quick ways to limit NDAs...\" and opens the same way — a cosmetic edit that rule 2 disallows however neutral the new words are.",
+        "The progress line \"Ministers say they are looking at ways to close NDA loopholes quickly\" repeats the headline almost word for word, which rule 8 disallows."
+      ]
     }
   },
   {
@@ -192,11 +211,16 @@
   {
     "path": "/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"a store manager who looks out for her team\" assigns the store manager a gender (\"her\"); the ORIGINAL given here says only \"a store manager tells me\", with no gender stated."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Poundland's failings reveal a problem reaching well beyond the high street\" keeps the same subject and structure as the ORIGINAL's \"the Poundland scandal and see a crisis that goes beyond Britain's high streets\" — a cosmetic edit (rule 2) that also leaves the setback (the failings) as the headline's subject, when the quoted store manager who \"looks out for my team\" offered a person-acting upside the headline could have been built on instead (rule 1).",
+        "For an opinion piece the argument should be turned to face forward (rule 6); this headline restates the same backward-looking observation about Poundland's failings rather than the forward-facing case the manager's example supports."
+      ]
     }
   },
   {
@@ -252,8 +276,10 @@
   {
     "path": "/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"'sci-fi scenarios of destruction' now 'regular occurrences'\" puts quotation marks around \"sci-fi scenarios of destruction\", presenting it as Miliband's exact words; the ORIGINAL quotes only \"now regular occurrences\" and leaves \"sci-fi scenarios of destruction\" unquoted."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -322,11 +348,15 @@
   {
     "path": "/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"before the next costly indiscretion\" changes the ORIGINAL's warning that Huang's affair is \"a preview of what awaits when the tech bubble bursts\" (a systemic, economic risk) into a narrower claim about preventing a future personal scandal — a different claim, not a rephrasing of the same one."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "Per rule 6, an opinion headline should turn the writer's argument to face forward without changing it; \"Tech bros must be reined in before the next costly indiscretion\" changes Chakrabortty's actual argument — that concentrated power in individuals threatens a tech-bubble crash — into a claim about preventing future personal scandals, rather than restating the original argument forward-facing."
+      ]
     }
   },
   {
@@ -572,11 +602,16 @@
   {
     "path": "/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite's added line 'The guidelines are a first attempt to bring oversight to the emerging ocean geoengineering industry' is not supported by the original, which only says the guidelines 'put spotlight on' the industry — 'bring oversight' is an invented characterisation of what the guidelines do."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'First guidelines shine spotlight on ocean geoengineering industry' is a cosmetic edit of the original's 'First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry' — same subject and most of the same words, which rule 2 fails regardless of how neutral the wording is.",
+        "The added progress sentence ('The guidelines are a first attempt to bring oversight...') merely restates the headline's 'first guidelines'/'spotlight' idea instead of naming a specific actor and action, which rule 8 treats as a failing progress line."
+      ]
     }
   },
   {
@@ -585,8 +620,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback ('mountains of rubbish have blighted poor neighbourhoods on the edge of the city, and the problems have spread') and only reaches the upside ('prompting the belated reckoning now under way') at the end; rule 3 requires the standfirst to open with the upside and give the setback second."
+      ]
     }
   },
   {
@@ -675,8 +712,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback ('fixes to restore Outlook and Teams for thousands of affected users have not yet succeeded') rather than the upside already used in the headline (the ruled-out cyber-attack); rule 3 requires the standfirst to open with the upside and state the setback second.",
+        "The added progress sentence ('Microsoft says the fixes attempted so far have not restored full service for Outlook and Teams') names no actor doing anything constructive and simply repeats that the fixes have failed, which rule 8 treats as a vague, non-progress progress line."
+      ]
     }
   },
   {
@@ -1042,8 +1082,10 @@
   {
     "path": "/lifeandstyle/2026/nov/12/you-be-the-judge-should-my-sister-stop-calling-when-on-move",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite's clause 'Nadia says the disjointed chats drive her mad but doesn't think she should have to make an appointment to phone her' reassigns to Nadia the view the original attributes to Maddie ('Maddie drives Nadia mad with her disjointed conversations, but doesn't think she should have to make an appointment to phone her sister'); it is Maddie, not Nadia, who doesn't want to need an appointment to call."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1102,8 +1144,10 @@
   {
     "path": "/lifeandstyle/ng-interactive/2026/nov/11/young-americans-prenups-before-marriage",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite drops the original's specific framing that young WOMEN are driving the boom (headline: 'The young women driving the US prenup boom: \"I want to protect myself\"'), generalising to 'young couples' and losing both the gendered claim and the direct 'protect myself' motive the original quotes."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1112,8 +1156,10 @@
   {
     "path": "/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite's 'so focused on finding love' weakens the original's stronger phrase 'the endless, exhausting pursuit of love' into vaguer language."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1282,8 +1328,10 @@
   {
     "path": "/environment/2026/nov/12/country-diary-an-ancient-bridge-laid-low-by-one-storm-after-another",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite drops the bridge's actual name, 'Tarr Steps', given in the original ('Tarr Steps is no stranger to flooding'), calling it only 'the bridge' throughout."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1382,11 +1430,16 @@
   {
     "path": "/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The rewrite drops 'Chinese' from the original's 'alleged Chinese spy', calling her only a 'suspected spy' and losing the nationality detail the original states."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'US lawsuit filed against Nvidia and Huang over alleged affair with suspected spy' keeps the original's subject and angle (the lawsuit over the affair), merely swapping 'sued' for 'lawsuit filed against', without building on the available upside — the FBI investigation already reported in the trail — which rule 2 treats as a cosmetic edit.",
+        "The trail states the lawsuit (the setback) first and the FBI investigation (the only available upside) last; rule 3 requires the standfirst to open with the upside and give the setback second."
+      ]
     }
   },
   {
@@ -1405,8 +1458,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Board members are weighing whether Huang should stay in the role, following his admission' just restates the headline's own claim that the board 'weighs removing Jensen Huang as chief executive' rather than naming a distinct action, which rule 8 treats as repeating the headline."
+      ]
     }
   },
   {
@@ -1455,8 +1510,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Providers are advising passengers on extra steps to take during the disruption' repeats the headline 'Travellers offered extra guidance by providers during the outage' almost word for word, adding no new information about what's being done."
+      ]
     }
   },
   {
@@ -1465,8 +1522,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Microsoft is relaunching Hotmail as Outlook after recent stagnation in its growth' repeats the headline's own clause 'Microsoft relaunches it as Outlook' instead of telling readers something the headline hasn't."
+      ]
     }
   },
   {
@@ -1475,8 +1534,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Significant number of devices restored, CrowdStrike says, after global outage' only reorders the clauses of the original 'CrowdStrike says significant number of devices back online after global outage' and swaps 'back online' for 'restored' — a cosmetic edit that rule 2 fails regardless of how neutral the wording is.",
+        "The progress line 'CrowdStrike says a significant number of devices are back online' repeats the headline almost verbatim instead of adding a new fact."
+      ]
     }
   },
   {
@@ -1535,18 +1597,25 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Brand's barrister reports himself to watchdog following clash with journalist' merely swaps a few words from the original 'Russell Brand barrister reports himself to watchdog over clash with journalist' while keeping the identical subject and structure — a cosmetic edit.",
+        "The progress line 'Winter referred his own conduct to the watchdog for scrutiny' just restates the self-report already given in the headline, adding nothing new."
+      ]
     }
   },
   {
     "path": "/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The trail's 'act decisively to protect women and girls' softens the original's specific demand 'take decisive action to end violence against women and girls' into the vaguer goal of 'protect', changing what the organisations are reported to be demanding."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Nearly 90 organisations have signed a joint letter urging the prime minister to take decisive action' restates the same claim already in the headline 'Almost 90 organisations urge Burnham to act on violence against women' rather than reporting a distinct update on what's being done."
+      ]
     }
   },
   {
@@ -1555,8 +1624,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Ministers press TV industry to tackle abuse or face legislation' still leads with the threat of legislation even though the copy offers a genuine next step — Nandy's planned meeting with industry leaders — that the headline could have been built on instead, which rule 1 fails."
+      ]
     }
   },
   {
@@ -1575,8 +1646,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Nandy says closer UK-EU co-operation, short of rejoining, would fulfil the Brexit referendum's promises' is a near-paraphrase of the headline 'Closer EU ties would honour referendum promises, Nandy says', adding only the qualifier 'short of rejoining' rather than a distinct fact."
+      ]
     }
   },
   {
@@ -1615,8 +1688,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Witkoff and Kushner are travelling from Moscow to Kyiv to discuss next steps toward ending the war' repeats the same action already stated in the headline 'US envoys head to Kyiv after discussing Ukraine war next steps with Putin'."
+      ]
     }
   },
   {
@@ -1635,8 +1710,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Ukraine struck a major datacentre in Russia even as the negotiations continue' repeats the headline's claim and pads it with the vague filler 'negotiations continue', which rule 8 explicitly disallows."
+      ]
     }
   },
   {
@@ -1645,18 +1722,26 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline 'Europe presses ahead with Russia sanctions as Putin seeks peace memorandum' keeps the same subject as the original 'Europe proceeds with Russia sanctions after Trump-Putin talk', only swapping synonyms and the subordinate clause — a cosmetic edit.",
+        "The progress line 'Europe is maintaining pressure on Moscow with sanctions while diplomatic contacts continue' repeats the headline and adds only the vague filler 'diplomatic contacts continue'."
+      ]
     }
   },
   {
     "path": "/world/2025/aug/20/ukraine-war-briefing-squeeze-on-putin-to-accept-direct-peace-talks-with-zelenskyy",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline attributes the suggestion to 'US suggests air power may back security guarantee', where the original specifically attributes it to Trump ('Trump suggests US air power might enforce security guarantee') — the claim is reassigned from a named individual to the US generally.",
+      "'might enforce a security guarantee' is weakened to 'may back a security guarantee' — 'enforce' and 'back' are materially different commitments, so the rewrite understates what was suggested."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'The US is suggesting air power might help guarantee security as part of a potential peace deal' simply repeats the headline's claim, adding no new information about what's being done."
+      ]
     }
   },
   {
@@ -1665,8 +1750,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Vance continues to lead the diplomatic push despite the deal's troubles' repeats the headline's claim that 'Vance leads the US push for peace in Iran', adding no distinct fact."
+      ]
     }
   },
   {
@@ -1745,8 +1832,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'China has hugely accelerated its shift to renewable energy, Kerry says, urging other countries to match its pace' is nearly a verbatim repeat of the headline 'China's renewable energy push has hugely accelerated, Kerry says'."
+      ]
     }
   },
   {
@@ -1775,8 +1864,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Simon Stiell is addressing the summit as talks continue on speeding up the switch to electrification' closely repeats the headline's own claim about talks speeding up the shift to electrification, rather than telling the reader something new."
+      ]
     }
   },
   {
@@ -1855,8 +1946,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Conservationists relocated all 3,400 plants after they were put at risk by coastal erosion' repeats the same rescue action already stated in the headline 'Conservationists rescue rare wildflowers from Scotland's eroding coast', merely adding the number already given in the trail."
+      ]
     }
   },
   {

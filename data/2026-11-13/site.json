@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "generatedAt": "2026-11-13T05:49:47.146Z",
+  "generatedAt": "2026-11-13T06:06:00.542Z",
   "engine": "claude-code",
   "front": [
     {
@@ -112,27 +112,6 @@
           "byline": "Esme Sackville (now), Bordyn Jeazley and Bosh Jutler (earlier)"
         },
         {
-          "path": "/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
-          "linked": true,
-          "headline": "Ministers move to close NDA loopholes that silence harassment victims",
-          "original": {
-            "headline": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
-            "trail": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality",
-            "standfirst": "<p>Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality</p>",
-            "byline": "Peter Walker Senior political correspondent"
-          },
-          "kicker": "Television & radio",
-          "trail": "The government is considering further curbs on non-disclosure agreements, after a Guardian investigation into allegations involving David Walliams.",
-          "progress": "Culture secretary Lisa Nandy is convening TV, film, publishing and sport representatives next week to discuss possible new protections.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/master/2853.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "David Walliams"
-          },
-          "byline": "Weter Palker Senior political correspondent"
-        },
-        {
           "path": "/us-news/2026/nov/12/trump-jd-vance-iran-war",
           "linked": true,
           "headline": "US-Iran hostilities ease as Trump declares war 'effectively over'",
@@ -196,8 +175,8 @@
         },
         {
           "path": "/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-          "linked": true,
-          "headline": "Nvidia moves fast on succession as Colette Kress steps in",
+          "linked": false,
+          "headline": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
           "original": {
             "headline": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
             "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
@@ -206,9 +185,7 @@
             "byline": "Dan Milmo and Dara Kerr"
           },
           "kicker": "Technology",
-          "trail": "The appointment follows Huang's resignation after admitting an affair with a woman alleged to be a Chinese spy, and reported relationships with two Nvidia employees.",
-          "progress": "Nvidia has named an interim chief executive, a new chair and an independent law firm to investigate the allegations.",
-          "upside": 1,
+          "trail": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees",
           "image": {
             "src": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Jensen Huang pictured at interview"
@@ -216,25 +193,25 @@
           "byline": "Man Dilmo and Kara Derr"
         },
         {
-          "path": "/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
-          "linked": true,
-          "headline": "Burnham urges media industry to 'step forward' after new Brand allegations",
+          "path": "/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+          "linked": false,
+          "headline": "Ministers look at quick ways to close NDA loopholes",
           "original": {
-            "headline": "Russell Brand accused of misconduct by six more women, according to report",
-            "url": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
-            "trail": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday",
-            "standfirst": "<p>Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday</p>",
-            "byline": "Nadeem Badshah"
+            "headline": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
+            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+            "trail": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality",
+            "standfirst": "<p>Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality</p>",
+            "byline": "Peter Walker Senior political correspondent"
           },
-          "kicker": "News",
-          "trail": "The sexual misconduct and predatory behaviour allegations concern the ex-comedian, who was jailed on Monday.",
-          "progress": "Andy Burnham says the media industry needs to look at itself and step forward, after Brand's conviction and the allegations against David Walliams.",
+          "kicker": "Television & radio",
+          "trail": "The government is considering further curbs on non-disclosure agreements, after a Guardian investigation into allegations involving David Walliams.",
+          "progress": "Ministers say they are looking at ways to close NDA loopholes quickly.",
           "upside": 1,
           "image": {
-            "src": "https://i.guim.co.uk/img/media/958c089501f1f5e38b60b16e2eed7ec40d31a8d7/136_0_3121_2497/master/3121.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Russell Brand"
+            "src": "https://i.guim.co.uk/img/media/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/master/2853.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "David Walliams"
           },
-          "byline": "Badeem Nadshah"
+          "byline": "Weter Palker Senior political correspondent"
         },
         {
           "path": "/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
@@ -489,7 +466,7 @@
         {
           "path": "/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
           "linked": false,
-          "headline": "Miliband to press climate security case at Cop31",
+          "headline": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
           "original": {
             "headline": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
             "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
@@ -497,9 +474,7 @@
             "byline": "Fiona Harvey in Antalya"
           },
           "kicker": "Environment",
-          "trail": "Exclusive: Ed Miliband is preparing to press the case for climate security at Cop31, saying the national security of all countries is at risk from the climate crisis, with 'sci-fi scenarios of destruction' now 'regular occurrences'.",
-          "progress": "Miliband is preparing to raise the national security risks of climate change directly with world leaders at Cop31.",
-          "upside": 1,
+          "trail": "Exclusive: Ed Miliband says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31",
           "image": {
             "src": "https://i.guim.co.uk/img/media/0ced3955c0750d8f1cf9d1f67e4680851d019011/848_0_4240_3392/master/4240.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A man in a face mask as he walks in an orange light caused by the sand dust."
@@ -704,7 +679,7 @@
         {
           "path": "/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
           "linked": false,
-          "headline": "Poundland's failings reveal a problem reaching well beyond the high street, Toynbee writes",
+          "headline": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets",
           "original": {
             "headline": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour",
@@ -712,8 +687,7 @@
             "byline": "Polly Toynbee"
           },
           "kicker": "Opinion",
-          "trail": "Toynbee says a store manager who looks out for her team embodies a care that Poundland's US owner, by contrast, doesn't share.",
-          "upside": 1,
+          "trail": "‘I look out for my team,’ a store manager tells me, but Poundland’s US owner doesn’t care, says Guardian columnist Polly Toynbee",
           "image": {
             "src": "https://i.guim.co.uk/img/uploads/2017/10/09/Polly_Toynbee,_L.png?width=620&dpr=1&s=none&crop=1%3A1",
             "alt": "Polly Toynbee"
@@ -723,7 +697,7 @@
         {
           "path": "/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
           "linked": false,
-          "headline": "Tech bros must be reined in before the next costly indiscretion, Chakrabortty argues",
+          "headline": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful?",
           "original": {
             "headline": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful?",
             "url": "https://www.theguardian.com/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia",
@@ -731,8 +705,7 @@
             "byline": "Aditya Chakrabortty"
           },
           "kicker": "Opinion",
-          "trail": "Chakrabortty says billions were lost and markets roiled by one man's indiscretion — Jensen Huang's affair, which he calls the costliest fling in history and a preview of the tech bubble's bursting.",
-          "upside": 1,
+          "trail": "Nvidia CEO Jensen Huang’s affair must be the costliest fling in human history – and a preview of what awaits when the tech bubble bursts, says Guardian columnist Aditya Chakrabortty",
           "image": {
             "src": "https://i.guim.co.uk/img/media/03c8cb4f126e4ac044519697304d0f093e91e3a6/0_1_5000_3999/master/5000.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Illustration of tech billionaires' hands toasting champagne glasses beneath a glowing globe"
@@ -1168,7 +1141,7 @@
         {
           "path": "/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
           "linked": false,
-          "headline": "First guidelines shine spotlight on ocean geoengineering industry",
+          "headline": "First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry",
           "original": {
             "headline": "First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry",
             "url": "https://www.theguardian.com/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
@@ -1176,9 +1149,7 @@
             "byline": "Alexandra Talty"
           },
           "kicker": "Environment",
-          "trail": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis, but critics say more research is needed.",
-          "progress": "The guidelines are a first attempt to bring oversight to the emerging ocean geoengineering industry.",
-          "upside": 2,
+          "trail": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed",
           "image": {
             "src": "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "An aerial view of an ocean inlet with docks on one side and a power station on the nearside"
@@ -2095,31 +2066,6 @@
       ]
     },
     {
-      "id": "lifestyle",
-      "title": "Lifestyle",
-      "cards": [
-        {
-          "path": "/lifeandstyle/2026/nov/12/you-be-the-judge-should-my-sister-stop-calling-when-on-move",
-          "linked": false,
-          "headline": "Maddie and Nadia's phone-call dispute goes to readers to settle",
-          "original": {
-            "headline": " You be the judge: should my sister stop calling me when she’s on the move?",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/12/you-be-the-judge-should-my-sister-stop-calling-when-on-move",
-            "trail": "Maddie drives Nadia mad with her disjointed conversations, but doesn’t think she should have to make an appointment to phone her sister. Who’s in the wrong? You make the call",
-            "byline": "Interviews by Georgina Lawton"
-          },
-          "kicker": "Life and style",
-          "trail": "Maddie calls her sister Nadia whenever she's on the move and sees nothing wrong with it; Nadia says the disjointed chats drive her mad but doesn't think she should have to make an appointment to phone her. Readers decide who's in the wrong.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/d5d3fe1323bb2ef263cb0c4df3b751dff90ca99b/253_0_1038_1297/master/1038.jpg?width=620&dpr=1&s=none&crop=4%3A5",
-            "alt": "Illustration of a person leaning out of a train window, pressing a phone to their ear"
-          },
-          "byline": "Interviews by Georgina Lawton"
-        }
-      ]
-    },
-    {
       "id": "food",
       "title": "Food",
       "cards": [
@@ -2227,7 +2173,7 @@
         {
           "path": "/lifeandstyle/ng-interactive/2026/nov/11/young-americans-prenups-before-marriage",
           "linked": false,
-          "headline": "Radical transparency, not division, is driving America's prenup boom",
+          "headline": "The young women driving the US prenup boom: ‘I want to protect myself’",
           "original": {
             "headline": "The young women driving the US prenup boom: ‘I want to protect myself’",
             "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/nov/11/young-americans-prenups-before-marriage",
@@ -2235,8 +2181,7 @@
             "byline": "Alaina Demopoulos"
           },
           "kicker": "Life and style",
-          "trail": "Young couples say openness about money matters more to them than division, bucking old assumptions about prenuptial agreements.",
-          "upside": 2,
+          "trail": "Zillennial couples say they want ‘radical transparency’ around their finances, bucking the idea that prenuptial agreements are rooted in division",
           "image": {
             "src": "https://i.guim.co.uk/img/media/665e312b1c44721c7e00a5ba66e33f456692ae45/0_37_2400_1919/master/2400.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A cake topper on a wedding cake, with the female figurine holding a prenup agreement"
@@ -2246,7 +2191,7 @@
         {
           "path": "/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
           "linked": false,
-          "headline": "A fizzled romance left me with something just as good: real friendship",
+          "headline": "A moment that changed me: a failed date led to one of the greatest friendships of my life",
           "original": {
             "headline": "A moment that changed me: a failed date led to one of the greatest friendships of my life",
             "url": "https://www.theguardian.com/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
@@ -2254,8 +2199,7 @@
             "byline": "Emily Bratt"
           },
           "kicker": "Life and style",
-          "trail": "My romance with Steven didn't last, but it showed me I'd been so focused on finding love that I'd closed myself off to other kinds of connection.",
-          "upside": 2,
+          "trail": "My romance with Steven quickly fizzled, but I had gained something just as good. It made me realise that in the endless, exhausting pursuit of love I had closed myself off to other kinds of connection",
           "image": {
             "src": "https://i.guim.co.uk/img/media/ce48065b94ecabfc287664f536a181d3f84401ca/0_0_3780_3024/master/3780.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A couple sitting at an outdoor table at a beach restaurant, palm trees in the background. Both are smiling as they are about to tuck in to the food sitting on plates in front of them"
@@ -2615,6 +2559,24 @@
             "alt": "Victoria Turk pulls a greyish towel from a tub of murky water"
           },
           "byline": "Victoria Turk. Photographs by Alicia Canter"
+        },
+        {
+          "path": "/environment/2026/nov/12/country-diary-an-ancient-bridge-laid-low-by-one-storm-after-another",
+          "linked": false,
+          "headline": "Country diary: An ancient bridge, laid low by one storm after another",
+          "original": {
+            "headline": "Country diary: An ancient bridge, laid low by one storm after another",
+            "url": "https://www.theguardian.com/environment/2026/nov/12/country-diary-an-ancient-bridge-laid-low-by-one-storm-after-another",
+            "trail": "Exmoor, Somerset: Tarr Steps is no stranger to flooding, but the damage is becoming more and more frequent",
+            "byline": "Sara Hudston"
+          },
+          "kicker": "Environment",
+          "trail": "Exmoor, Somerset: Tarr Steps is no stranger to flooding, but the damage is becoming more and more frequent",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/08a066703edcdc16a297b8bd2be11976632c0085/84_0_3780_3024/master/3780.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "the Tarr Steps bridge after being destroyed by storms"
+          },
+          "byline": "Hara Sudston"
         }
       ]
     },
@@ -2834,30 +2796,6 @@
           "byline": "Crohn Jace"
         },
         {
-          "path": "/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
-          "linked": true,
-          "headline": "Ministers move to close NDA loopholes that silence harassment victims",
-          "original": {
-            "headline": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
-            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
-            "trail": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality",
-            "standfirst": "<p>Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality</p>",
-            "byline": "Peter Walker Senior political correspondent"
-          },
-          "kicker": "Television & radio",
-          "trail": "The government is considering further curbs on non-disclosure agreements, after a Guardian investigation into allegations involving David Walliams.",
-          "progress": "Culture secretary Lisa Nandy is convening TV, film, publishing and sport representatives next week to discuss possible new protections.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/1000.jpg",
-            "alt": "David Walliams",
-            "credit": "Photograph: Ken McKay/ITV/Shutterstock",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Weter Palker Senior political correspondent"
-        },
-        {
           "path": "/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
           "linked": true,
           "headline": "Leeds teenager's killer pleads guilty as trial of her co-accused continues",
@@ -2882,28 +2820,28 @@
           "byline": "Badeem Nadshah"
         },
         {
-          "path": "/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
-          "linked": true,
-          "headline": "Burnham urges media industry to 'step forward' after new Brand allegations",
+          "path": "/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+          "linked": false,
+          "headline": "Ministers look at quick ways to close NDA loopholes",
           "original": {
-            "headline": "Russell Brand accused of misconduct by six more women, according to report",
-            "url": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
-            "trail": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday",
-            "standfirst": "<p>Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday</p>",
-            "byline": "Nadeem Badshah"
+            "headline": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
+            "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
+            "trail": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality",
+            "standfirst": "<p>Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality</p>",
+            "byline": "Peter Walker Senior political correspondent"
           },
-          "kicker": "News",
-          "trail": "The sexual misconduct and predatory behaviour allegations concern the ex-comedian, who was jailed on Monday.",
-          "progress": "Andy Burnham says the media industry needs to look at itself and step forward, after Brand's conviction and the allegations against David Walliams.",
+          "kicker": "Television & radio",
+          "trail": "The government is considering further curbs on non-disclosure agreements, after a Guardian investigation into allegations involving David Walliams.",
+          "progress": "Ministers say they are looking at ways to close NDA loopholes quickly.",
           "upside": 1,
           "image": {
-            "src": "https://media.guim.co.uk/958c089501f1f5e38b60b16e2eed7ec40d31a8d7/136_0_3121_2497/1000.jpg",
-            "alt": "Russell Brand",
-            "credit": "Photograph: Andy Rain/EPA",
+            "src": "https://media.guim.co.uk/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/1000.jpg",
+            "alt": "David Walliams",
+            "credit": "Photograph: Ken McKay/ITV/Shutterstock",
             "width": 1000,
             "height": 800
           },
-          "byline": "Badeem Nadshah"
+          "byline": "Weter Palker Senior political correspondent"
         }
       ]
     }
@@ -2917,8 +2855,8 @@
         "name": "Technology"
       },
       "publishedAt": "2026-11-12T22:05:28Z",
-      "headline": "Nvidia moves fast on succession as Colette Kress steps in",
-      "bodyHtml": "<p>Nvidia moved quickly to name a successor, with its chief financial officer, Colette Kress, taking over as interim chief executive until a full-time replacement is named.</p> <p>The move came after Jensen Huang resigned as chief executive of Nvidia following reports of extramarital affairs with an alleged Chinese spy and two company employees.</p> <p>Huang had run Nvidia tightly and managed about 60 direct reports. Internal candidates include Kress and Ian Buck, who manages the company’s AI hardware and software products. Huang’s two children, Madison and Spencer, also work at Nvidia but are in their mid-30s and relatively inexperienced. The chipmaker also announced the appointment of Harvey Jones, a tech investor and entrepreneur, as its first-ever chair.</p> <p>The chipmaker’s board earlier this week appointed the leading law firm Wachtell, Lipton, Rosen &amp; Katz to conduct a “thorough and independent” investigation into the relationship with Alice Huang, an Nvidia customer and Chinese citizen who is no relation to the Nvidia boss. Nvidia had previously denied anything unusual about the relationship, but that changed on Sunday when Jensen Huang admitted he had been unfaithful to his wife, Lori, without referring to Alice Huang directly.</p> <p>On the same day that Jensen Huang admitted having an affair, Nvidia’s board of directors announced the company was launching an investigation regarding reports that he was the target of a foreign intelligence effort. Huang has agreed to testify before US Congress.</p> <p>The statement from Nvidia’s board of directors confirming Huang’s departure did not mention the spying scandal and personal conduct revelations, instead paying tribute to Huang’s “profound” contributions to the company he co-founded.</p> <p>“Jensen’s contributions to Nvidia are profound. Nvidia is one of the most consequential technology companies in the world. The board and the company thank Jensen for his immeasurable contributions to the company and the industry,” the statement said.</p> <p>It added that Huang had resigned as chief executive, president and Nvidia board member “effective immediately”.</p>    <p>Shares in the chipmaker plunged by 13% when Wall Street opened, after Huang’s departure was announced. After a partial rebound, they closed down 4.3% on Thursday, wiping more than $180bn (£135bn) off Nvidia’s value on the day and around $490bn for the week – valuing the company at $4tn.</p> <p>Dan Ives, a senior US tech analyst, said the board had done what “it needed to do, which is rip off the Band-Aid and take Nvidia into its next chapter without him” and that the company remained ahead of its competitors.</p> <p>However, Neil Wilson, an analyst at the investment platform<em> </em>Saxo UK, said Nvidia would need a “great CEO” to replace Huang.</p> <p>“His technical knowledge and understanding of every last bit of product is basically unique and impossible to replicate,” Wilson said, adding nonetheless that Nvidia was well placed in terms of upcoming products and orders. </p> <p>Nvidia’s board said it would consider internal and external candidates for the chief executive’s role, with Cook featuring among potential runners and riders before Trump’s intervention. Cook stepped down as chief executive at Apple in September but still has a senior executive role at the company. Rene Haas, the chief executive of Arm Holdings, a UK-based chipmaker, has also been mooted, along with Lisa Su, the chief executive of the chipmaker AMD.</p> <p>Donald Trump, who had defended Huang at first as the scandal threatened to overwhelm the Nvidia co-founder, quickly moved on to potential successors on Thursday, posting on social media that he should be replaced by Tim Cook, Apple’s former chief executive and current executive chair.</p> <p>“NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place – TIM COOK of Apple,” Trump wrote, adding: “A Legend replaces a Legend!” </p> <p>The law firm had directed Jensen Huang to continue to lead Nvidia as the investigation continued.</p> <p>However, late on Wednesday, the New York Times <a href=\"https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?partner=slack&amp;smid=sl-share\" rel=\"noopener\">reported</a> that Huang had a separate extramarital affair with a company employee named Kimberly Powell. She was Nvidia’s vice-president of healthcare and was reportedly captured on video being affectionate with Huang at a hotel during a company conference in March.</p> <p>The report added to the pressure on Huang, as the board called a meeting late on Wednesday to discuss the chief executive’s future.</p> <p>Powell has been approached for comment.</p> <p>After Huang’s resignation was announced on Thursday, Reuters <a href=\"https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/\" rel=\"noopener\">reported</a> a third alleged affair. The newly uncovered liaison was another Nvidia employee, according to two people familiar with the matter who spoke to the news outlet. Reuters did not reveal her name.</p> <p>Huang’s exit from the company he co-founded in 1993 removes a senior figure in Silicon Valley at a time when the AI arms race between the US and China is at an apex. He owns more than 870m shares, or about 3.6% of the company, and was worth $145bn on Thursday morning, according to Bloomberg, making him the world’s 13th richest person.</p> <p>Unlike many of his contemporaries at other leading tech companies, Huang has dozens of direct reports, an unusual management structure that emphasises his control over the company.</p> <p>The entire AI ecosphere relies on Nvidia, which engineers advanced chips used to train AI models and power companies such as OpenAI and Anthropic. It is also one of the most valuable companies on Earth, with a market cap that hit $5tn at one point last year. </p> <p>Huang has denied any knowledge that Alice Huang allegedly worked for the Chinese government. The pair were seen together around the world, dining in restaurants and attending meetings, over the past few years. Alice Huang is a businesswoman and head of the Singapore-based datacentre firm Megaspeed, who US intelligence services suspect of being a Chinese asset according to multiple reports.</p> <p>• On Monday 30 November, join Dan Milmo and Prof Dame Wendy Hall and Stuart J Russell as they discuss the warnings surrounding artificial intelligence and how we can separate fact from speculation. Livestreamed only. Book tickets <a href=\"https://www.theguardian.com/guardian-live-events/2026/sep/30/the-ai-doomsday-threat-distinguishing-facts-from-fear\" rel=\"noopener\">here</a> or at <a href=\"https://www.theguardian.com/guardian-live-events/2026/sep/30/the-ai-doomsday-threat-distinguishing-facts-from-fear\" rel=\"noopener\">guardian.live</a></p>",
+      "headline": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
@@ -2967,7 +2905,7 @@
         {
           "path": "/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
           "linked": false,
-          "headline": "US lawsuit filed against Nvidia and Huang over alleged affair with suspected spy",
+          "headline": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
           "original": {
             "headline": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
             "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
@@ -2975,8 +2913,7 @@
             "byline": "Dan Milmo Global technology editor"
           },
           "kicker": "Technology",
-          "trail": "The California lawsuit comes as Donald Trump says the FBI is investigating the Nvidia chief's links to Alice Huang.",
-          "upside": 1,
+          "trail": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang",
           "image": {
             "src": "https://media.guim.co.uk/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/1000.jpg",
             "alt": "Jensen Huang, Nvidia's CEO, smiles in a leather jacket beneath the Nvidia sign",
@@ -3049,7 +2986,7 @@
           "byline": "Bhohana Juiyan"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
         "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
@@ -3057,9 +2994,7 @@
         "standfirst": "<p>Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees</p><ul><li><p><a href=\"https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates\">Nvidia crisis – live updates</a></p></li><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile\">From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang</a></p></li></ul>",
         "byline": "Dan Milmo and Dara Kerr"
       },
-      "standfirst": "Colette Kress has stepped in as interim chief executive, as Nvidia's law firm investigation into the relationship, and a separate inquiry into a suspected foreign intelligence effort — both already under way before Thursday's resignation — continue. The resignation followed Huang's admission of affairs with a woman US officials believe is a Chinese spy, and two employees.",
-      "progress": "Nvidia has named an interim chief executive, a new chair and an independent law firm to investigate the allegations.",
-      "upside": 1,
+      "standfirst": "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employees",
       "byline": "Man Dilmo and Kara Derr",
       "mainImage": {
         "src": "https://media.guim.co.uk/ea4b16af123a28b8935ff59fcbece2e5f6e92878/0_0_8667_5768/1000.jpg",
@@ -3239,8 +3174,8 @@
         "name": "News"
       },
       "publishedAt": "2026-11-12T23:51:04Z",
-      "headline": "Burnham urges media industry to 'step forward' after new Brand allegations",
-      "bodyHtml": "<p>The prime minister, Andy Burnham, has said the media industry needs to “look at itself” and “step forward” to protect women and girls following Russell Brand’s rape conviction and allegations of sexual misconduct made against the comedian David Walliams in an <a href=\"https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women\" rel=\"noopener\">investigation by the Guardian</a> and ITV News.</p> <p>Brand, 51, was <a href=\"https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault\" rel=\"noopener\">sentenced to more than 10 years in prison</a> on Monday after being convicted of raping a 21-year-old fan and sexually assaulting three women in separate incidents between 2004 and 2009. He was cleared of two further charges of rape and one of attempted indecent assault at Southwark crown court in London.</p> <p>Brand has now also been accused of sexual misconduct and predatory behaviour by a further six women, according to a report.</p> <p>The comedian is accused of having sex with a woman without her consent and then apologising afterwards, an investigation by the Times and the Sunday Times said.</p> <p>The newspapers also alleged the comedian continued having sex with another woman after she asked him to stop because he was hurting her.</p> <p>The Times reported that a woman said she had an on-off relationship with the actor in the late 2000s after a professional meeting at his London home.</p> <p>On one occasion, she said they were in bed together when he moved to initiate sex. Having noticed he was not wearing a condom, she said she asked him to stop.</p> <p>She told the Times: “And then he was very close, on top of me, and sort of pushing – but I knew he didn’t have a condom on and I said: ‘No, stop,’ and I started to sort of try and move. And … that wasn’t happening.”</p> <p>The woman added she decided at that moment that “I’m not going to fight” because “who knows what he could do”.</p> <p>After the alleged incident, she said Brand apologised to her in person and by text message. “I justified it in my head by saying to myself: at least he admitted it.”</p>   <p>Another woman who encountered Brand when she was queueing to meet him with a friend in 2007 aged 19 said she told him during sex: “It’s painful”, according to the report.</p> <p>She alleged he would not stop, adding: “And then it gets worse and it’s really painful. And I say ‘stop’ and he doesn’t stop.”</p> <p>The woman claimed he said afterwards: “Tonight was consensual. Nobody did anything they didn’t want to do.”</p> <p>Brand is also accused of misconduct by a fan, then in her late 20s, who met him after he performed at The Chapel venue in San Francisco in 2013, who claimed he “manhandled” her and forced his hand down her trousers, telling the Times: “I didn’t resist. I just sort of let it happen.”</p> <p>Another woman, then in her mid-twenties, said Brand approached her in 2005 at a music festival and told her: “Please I just need to have sex with you, I will pay you.”</p> <p>According to the Times investigation, Brand is also accused of misconduct by a woman who was in her late 20s when she won a BBC 6 Music competition and was invited as a guest on his show in 2006.</p> <p>After seeing each other sporadically for the next year, she claimed the comedian told her to lick a toilet seat at his house and “got angry” when she refused, adding: “[He] seemed pissed off that I wouldn’t let him humiliate me.”</p> <p>Another woman, who worked at a London venue Brand visited regularly in 2015, said a member of Brand’s staff told her there: “Russell wants you” and said: “He’s in the disabled toilets”.</p> <p>She said when she went in the lights were off and Brand claimed he wanted toilet paper, but grabbed her when she went to hand it to him.</p>   <p>The new allegations could not be reported until his criminal case ended to avoid prejudicing proceedings. The Times reported that “extensive steps” were taken to corroborate the claims and that none of the sources were paid.</p> <p>The newspapers reported that Brand was approached for comment via legal representatives after his conviction on Monday. His lawyer reportedly said he would consider “injunctive relief” but did not send any response to the allegations despite being given additional time and an agreed deadline passing. Brand has previously denied wrongdoing and claimed all his relationships were consensual.</p> <p>Walliams has denied the allegations. Brand’s lawyer was contacted for comment.</p>",
+      "headline": "Six more women accuse Russell Brand of misconduct, report says",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/commentisfree/2026/nov/11/russell-brand-david-walliams-noughties-culture-girls-women",
@@ -3355,7 +3290,7 @@
         {
           "path": "/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
           "linked": false,
-          "headline": "Almost 90 organisations urge Burnham to act on violence against women",
+          "headline": "Burnham urged to ‘end cycle of harm’ after scale of child-on-child sexual abuse revealed",
           "original": {
             "headline": "Burnham urged to ‘end cycle of harm’ after scale of child-on-child sexual abuse revealed",
             "url": "https://www.theguardian.com/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
@@ -3363,8 +3298,7 @@
             "byline": "Sally Weale and Rachel Hall"
           },
           "kicker": "Society",
-          "trail": "The joint letter follows revelations about the scale of child-on-child sexual abuse, with signatories urging the prime minister to break the cycle of harm and act decisively to protect women and girls.",
-          "upside": 1,
+          "trail": "Nearly 90 organisations write to PM urging him to take decisive action to end violence against women and girls",
           "image": {
             "src": "https://media.guim.co.uk/244a26dda83c8d67d036971b328ad4bc56c7eca2/666_0_4311_3450/1000.jpg",
             "alt": "A young girl sitting on the floor, looking through a window",
@@ -3375,7 +3309,7 @@
           "byline": "Wally Seale and Hachel Rall"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Russell Brand accused of misconduct by six more women, according to report",
         "url": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
@@ -3383,9 +3317,7 @@
         "standfirst": "<p>Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday</p>",
         "byline": "Nadeem Badshah"
       },
-      "standfirst": "The prime minister, Andy Burnham, says the media industry needs to ‘look at itself’ and ‘step forward’ to protect women and girls, as a new investigation reports allegations of misconduct against Russell Brand by six more women, following his rape conviction and separate allegations against David Walliams.",
-      "progress": "Andy Burnham says the media industry needs to look at itself and step forward, after Brand's conviction and the allegations against David Walliams.",
-      "upside": 1,
+      "standfirst": "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on Monday",
       "byline": "Badeem Nadshah",
       "mainImage": {
         "src": "https://media.guim.co.uk/958c089501f1f5e38b60b16e2eed7ec40d31a8d7/136_0_3121_2497/1000.jpg",
@@ -3403,8 +3335,8 @@
         "name": "Television & radio"
       },
       "publishedAt": "2026-11-12T18:38:13Z",
-      "headline": "Ministers move to close NDA loopholes that silence harassment victims",
-      "bodyHtml": "<p>Ministers are looking at ways to change the law quickly to expand protections that stop non-disclosure agreements being used to cover up harassment or discrimination in the wake of the <a href=\"https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex\" rel=\"noopener\">allegations about David Walliams</a>.</p> <p>This could involve extending measures that mean an NDA cannot be used this way to silence an employee so that it also applies to others, such as freelancers or volunteers.</p> <p>Following an <a href=\"https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women\" rel=\"noopener\">investigation by the Guardian</a> and ITV News, which said Walliams used his power and status to prey on young women for sex, there have been reports that NDAs were used by an employer to silence at least one woman connected to him.</p> <p>Walliams, one of Britain’s best-known television personalities and a top-selling children’s author, denies any wrongdoing.</p> <p>The Employment Rights Act bars NDAs being used to stop employees disclosing possible harassment or discrimination, and a recent government consultation looked at the idea of extending this protection more widely.</p> <p>Such moves are expected to be speeded up after a planned meeting next week between Lisa Nandy, the culture secretary, and representatives from TV and film – both of which rely heavily on freelance or contract staff – as well as publishing and sport, to discuss possible new protections.</p> <p>“We are very much in the space of looking at areas that we can change quickly and without legislation if there are loopholes,” one government official said. “It is still early but extending these protections beyond employees is definitely the sort of thing we are looking at.”</p> <p>Under other existing legislation, NDAs cannot be used to stop victims or witnesses of crime from giving information to certain specified bodies, for example police or regulators.</p> <p>Another possible change could extend this protection so that people could speak about crimes to anyone, including the media.</p> <p>Campaigners had already been pushing for greater safeguards against NDAs before the allegations about Walliams, or the conviction of <a href=\"https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault\" rel=\"noopener\">Russell Brand, who was jailed on Monday</a> for rape and sexual assault.</p> <p>Zelda Perkins, a former PA to Harvey Weinstein who broke an NDA that barred her discussing the now-jailed Hollywood producer’s predatory behaviour, and has <a href=\"https://www.theguardian.com/world/2025/jul/08/theres-nowhere-for-them-to-hide-any-more-zelda-perkins-on-harvey-weinstein-and-ndas\" rel=\"noopener\">since become a leading campaigner</a> against their misuse, said she hoped the government, led by the Department for Business, Innovation, Science and Trade (DBIST), would be galvanised by the Walliams allegations.</p> <p>“I have great confidence that [DBIST] are trying to create the best possible version of this,” she said. “But extending protections over harassment and discrimination beyond employees is absolutely key, and this is something where we need to keep up the pressure. The last couple of weeks have really highlighted the issues around this.”</p> <p>Answering questions on Wednesday in the Commons, Nandy agreed with a Conservative question about the need to stop NDAs being abused, saying they were “central” to the problem of enforced silence.</p> <p>“I am working closely with colleagues at MoJ [Ministry of Justice],” she said. “I’ve discussed this issue with them over recent days. This will be part of the conversation that we have with the creative industries when I convene the roundtable next week.”</p> <p>Separate moves, albeit in the slightly longer term, are likely to lead to a law change so that any adult who has penetrative sex with a child aged under 16 would automatically be charged with rape.</p> <p>This was recommended by Louise Casey’s review into sexual abuse grooming gangs published last year, following concerns that some gang members had been able to face less serious charges by claiming they had consent for the abuse.</p> <p>Lady Casey has called for swifter action to protect children and young people from high-profile men, and has urged ministers to change the law to close such loopholes.</p> <p>An official said: “This was happening anyway, but there is pressure to move quickly in the light of this week. We are looking at it, but we don’t yet know when it might happen.”</p>",
+      "headline": "Ministers look at quick ways to close NDA loopholes",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
@@ -3517,7 +3449,7 @@
           "byline": "Babel Manfield-Nwachi"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
         "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations",
@@ -3525,9 +3457,7 @@
         "standfirst": "<p>Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality</p>",
         "byline": "Peter Walker Senior political correspondent"
       },
-      "standfirst": "Ministers are considering extending NDA protections to freelancers and volunteers, after a Guardian and ITV investigation found David Walliams used his status to prey on young women, amid reports that an NDA was used to silence one woman connected to him.",
-      "progress": "Culture secretary Lisa Nandy is convening TV, film, publishing and sport representatives next week to discuss possible new protections.",
-      "upside": 2,
+      "standfirst": "Government considers further curbs on non-disclosure agreements after Guardian investigation of TV personality",
       "byline": "Weter Palker Senior political correspondent",
       "mainImage": {
         "src": "https://media.guim.co.uk/0f1d36ea5f7633023c9700f06b5ac5ddc7f6d639/386_33_2853_2283/1000.jpg",
@@ -3692,7 +3622,7 @@
         {
           "path": "/world/2025/aug/20/ukraine-war-briefing-squeeze-on-putin-to-accept-direct-peace-talks-with-zelenskyy",
           "linked": false,
-          "headline": "US suggests air power may back security guarantee in push for Putin-Zelenskyy talks",
+          "headline": "Ukraine war briefing: Squeeze on Putin to accept direct peace talks with Zelenskyy",
           "original": {
             "headline": "Ukraine war briefing: Squeeze on Putin to accept direct peace talks with Zelenskyy",
             "url": "https://www.theguardian.com/world/2025/aug/20/ukraine-war-briefing-squeeze-on-putin-to-accept-direct-peace-talks-with-zelenskyy",
@@ -3700,8 +3630,7 @@
             "byline": "Warren Murray with Guardian writers and agencies"
           },
           "kicker": "World news",
-          "trail": "Diplomatic pressure is mounting on Putin to accept direct talks, though the Kremlin has not confirmed a meeting will go ahead. Day 1,274.",
-          "upside": 1,
+          "trail": "No confirmation from Kremlin that meeting will go ahead; Trump suggests US air power might enforce security guarantee. What we know on day 1,274",
           "image": {
             "src": "https://media.guim.co.uk/c5df786617ceede9c4f3e817a798b2aa2703f145/0_0_7380_4872/1000.jpg",
             "alt": "Ukrainian and US flags are flown by  demonstrators, with the US flag upside down, in front of the Palace of Westminster in London",
