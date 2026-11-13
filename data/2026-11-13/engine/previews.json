@@ -1,57 +1,57 @@
 {
   "/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns": {
-    "headline": "Nvidia moves quickly to name a successor after Huang's exit",
-    "trail": "The chipmaker swiftly named Colette Kress interim chief executive, after Huang admitted to an affair with a woman linked to Chinese intelligence and two company employees.",
-    "progress": "Nvidia has already named an interim chief executive to lead the company.",
+    "headline": "Nvidia names Colette Kress interim chief executive after Huang's exit",
+    "trail": "The appointment follows Huang's resignation after admitting an affair with a woman alleged to be a Chinese spy, and reported relationships with two Nvidia employees.",
+    "progress": "Nvidia has named Colette Kress as interim chief executive while a board search for a permanent successor continues.",
     "upside": 1
   },
   "/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news": {
-    "headline": "Microsoft services start to come back online as recovery effort continues",
-    "trail": "A recovery process is under way after a global outage affected Outlook, Teams and Microsoft 365, with some servers already back in service.",
-    "progress": "Microsoft says some servers are returning to service as its recovery process continues.",
-    "upside": 1
+    "headline": "Microsoft rolls out new recovery steps as Outlook outage eases",
+    "trail": "Some servers are returning to service, Microsoft says, after initial attempts to fix a global outage failed to restore Outlook.",
+    "progress": "Engineers have switched to a new recovery process after initial attempts did not restore Outlook services.",
+    "upside": 2
   },
   "/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report": {
-    "headline": "Brand already behind bars for rape as new misconduct claims emerge",
-    "trail": "The ex-comedian, already sentenced to more than 10 years for rape, is now accused of sexual misconduct and predatory behaviour by six more women.",
-    "progress": "Brand was sentenced to more than 10 years in prison for rape and sexual assault on Monday.",
-    "upside": 1
+    "headline": "Six more women accuse Russell Brand of misconduct, report says",
+    "trail": "The sexual misconduct and predatory behaviour allegations concern the ex-comedian, who was jailed on Monday.",
+    "progress": null,
+    "upside": 0
   },
   "/tv-and-radio/2026/nov/12/uk-ministers-look-at-quick-ways-to-limit-ndas-after-walliams-allegations": {
     "headline": "Ministers look at quick ways to close NDA loopholes",
-    "trail": "The government is considering curbs on non-disclosure agreements after a Guardian investigation into a TV personality.",
-    "progress": "Ministers are looking at ways to change the law quickly to close NDA loopholes.",
-    "upside": 2
+    "trail": "The government is considering further curbs on non-disclosure agreements, after a Guardian investigation into allegations involving David Walliams.",
+    "progress": "Ministers say they are looking at ways to close NDA loopholes quickly.",
+    "upside": 1
   },
   "/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds": {
-    "headline": "Kayla Smith admits murdering Leeds teenager Chloe Watson Dransfield",
-    "trail": "Smith, 18, stabbed 16-year-old Chloe Watson Dransfield to death during a planned fight over a young man.",
-    "progress": "Kayla Smith has pleaded guilty to murder.",
+    "headline": "Kayla Smith, 18, pleads guilty to murdering Chloe Watson Dransfield, 16",
+    "trail": "Smith's guilty plea comes after she stabbed Watson Dransfield to death in Leeds during what prosecutors say was a planned fight over a young man.",
+    "progress": null,
     "upside": 1
   },
   "/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers": {
-    "headline": "Peace talks to widen to include Europe, Kushner says",
-    "trail": "Jared Kushner says the next round of talks will also tackle Europe's security, as both sides edge toward what could be the war's largest prisoner swap. Putin held firm on territory and said he would treat any peacekeepers as a 'continuation of war'.",
-    "progress": "Envoys are working toward what could be the war's largest prisoner exchange.",
+    "headline": "Europe joins Ukraine negotiations to shape postwar security, Kushner says",
+    "trail": "Jared Kushner says the move will let talks address broader postwar European security arrangements; Putin has refused to soften Russia's territorial demands. What we know on day 1,724.",
+    "progress": "The US says expanding the talks to include European partners is a deliberate step toward wider regional security guarantees.",
     "upside": 1
   },
   "/us-news/2026/nov/12/trump-jd-vance-iran-war": {
-    "headline": "US-Iran hostilities ease as Trump declares war 'effectively over'",
-    "trail": "Neither side has launched major strikes for months, Trump says, as he redirects JD Vance to focus on domestic politics instead of pursuing a deal.",
-    "progress": "Neither side has launched major strikes for months.",
+    "headline": "Vance to shift focus to domestic issues as Trump rules out new Iran deal",
+    "trail": "The president says a new deal on the Iran war is not needed, and will have the vice-president focus instead on what he calls 'massive corruption and crime' in Democrat-run cities and states.",
+    "progress": "Trump says he will redirect Vance's attention to domestic matters instead of the war.",
     "upside": 1
   },
   "/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028": {
-    "headline": "China will not host Cop33 climate summit in 2028",
-    "trail": "The decision leaves the field open for other Asian nations to host the summit, after some had hoped the world's biggest emitter would take a global lead on the climate crisis.",
+    "headline": "China confirms it will not bid to host the 2028 Cop33 summit",
+    "trail": "The decision disappoints experts who had hoped the world's biggest emitter would take the global lead on the climate crisis.",
     "progress": null,
     "upside": 0
   },
   "/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover": {
-    "headline": "Hidden second world war 'brain' bunker beneath Dover's cliffs opens to public",
-    "trail": "Entered via a hatch in a field, the bunker housed a pioneering computer that controlled a gun battery used to attack German ships in the Channel.",
+    "headline": "Secret wartime bunker beneath Dover's white cliffs opens its doors to visitors",
+    "trail": "Reached through a hatch in a field, the 'brain' bunker once controlled a gun battery that fired on German ships in the Channel.",
     "progress": null,
-    "upside": 2
+    "upside": 3
   },
   "/tv-and-radio/2026/nov/12/cunk-on-cinema-review-philomena-cunk-diane-morgan-bbc-two": {
     "headline": "Cunk on Cinema review – Diane Morgan's hilariously idiotic guide to film history",
@@ -60,51 +60,51 @@
     "upside": 2
   },
   "/business/2026/nov/12/ai-uk-economy-john-healey": {
-    "headline": "AI has helped UK economy defy expectations, Healey says",
-    "trail": "The minister points to the tech boost as the economy faces headwinds this winter from a possible tech slowdown and rising energy bills.",
-    "progress": "Healey credits AI investment with helping the UK economy outperform forecasts this year.",
+    "headline": "AI helps UK economy defy expectations, says Healey",
+    "trail": "AI-driven growth has helped the UK economy defy expectations, Healey says, though a tech slowdown and rising energy bills this winter could test that resilience.",
+    "progress": "Healey points to AI-driven growth as a sign of economic resilience, though whether that holds remains to be seen.",
     "upside": 2
   },
   "/commentisfree/2026/nov/12/poundland-scandal-law-britain-store-manager-labour": {
-    "headline": "Store managers who look out for their teams deserve owners who do the same",
-    "trail": "Poundland's US owner doesn't care about the high street's struggles, writes Guardian columnist Polly Toynbee – but the store managers on the ground do.",
+    "headline": "Poundland's failings reveal a problem reaching well beyond the high street, Toynbee writes",
+    "trail": "Toynbee says a store manager who looks out for her team embodies a care that Poundland's US owner, by contrast, doesn't share.",
     "progress": null,
     "upside": 1
   },
   "/environment/2026/nov/12/china-battery-swapping-e-trucks-catl-ev-range-anxiety": {
-    "headline": "China's battery-swapping e-trucks could solve EV range anxiety, says CATL",
-    "trail": "The battery maker aims to have 2,000 swapping stations in China by the end of 2027, and plans to bring the technology to Europe.",
-    "progress": "CATL is scaling up its battery-swapping network toward 2,000 stations by the end of 2027.",
-    "upside": 3
+    "headline": "CATL plans 2,000 battery-swap stations to ease EV range anxiety",
+    "trail": "'It is much, much faster' — the Chinese battery maker aims to have 2,000 swapping stations by the end of 2027, with plans to bring the technology to Europe too.",
+    "progress": null,
+    "upside": 2
   },
   "/global/2026/nov/12/naza-how-to-watch-guardian-acclaimed-gaza-documentary": {
-    "headline": "NAZA: how to watch the Guardian's acclaimed documentary on Gaza",
-    "trail": "The film features testimony from 24 Israeli officials involved in surveillance and the remote killing of Palestinian civilians.",
+    "headline": "NAZA, the Guardian's acclaimed Gaza documentary, is now available to watch",
+    "trail": "The documentary features testimony from 24 Israeli officials involved in surveillance and the remote killing of Palestinian civilians.",
+    "progress": null,
+    "upside": 2
+  },
+  "/world/2026/nov/13/indonesia-vice-president-diploma-resignation-explained": {
+    "headline": "Gibran Rakabuming Raka resigns as Indonesia's vice-president over missing high school diploma",
+    "trail": "The son of former president Joko Widodo had faced months of questions about his eligibility for office because of the missing qualification.",
     "progress": null,
     "upside": 1
   },
-  "/world/2026/nov/13/indonesia-vice-president-diploma-resignation-explained": {
-    "headline": "Indonesia's vice-president resigns amid questions over his qualifications",
-    "trail": "Gibran Rakabuming Raka, son of former president Joko Widodo, stepped down after months of scrutiny over his eligibility for office.",
-    "progress": "Gibran Rakabuming Raka resigned following months of public scrutiny over his qualifications for the role.",
-    "upside": 1
-  },
   "/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security": {
-    "headline": "UK names world's first climate security envoy",
-    "trail": "Madeleine Alessandri, former chair of the joint intelligence committee, will advise No 10 on the national security risks of the climate crisis.",
-    "progress": "Alessandri will advise the government on climate-related national security risks in the newly created role.",
+    "headline": "UK names Madeleine Alessandri to world-first climate security post",
+    "trail": "Exclusive: Alessandri, former chair of the joint intelligence committee, becomes the UK's special representative for climate security, advising No 10 on climate-related national security risks.",
+    "progress": "Alessandri will advise No 10 on the national security risks posed by the climate crisis.",
     "upside": 3
   },
   "/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31": {
-    "headline": "UN chief calls for a windfall tax on oil and gas firms",
-    "trail": "The UN chief's proposal would help fund climate action, as the Marshall Islands' president says floods will worsen without urgent action at Cop31.",
-    "progress": "The UN secretary-general is calling for a windfall tax on oil and gas companies to help fund climate action.",
+    "headline": "UN chief calls for windfall tax on oil and gas giants at Cop31",
+    "trail": "The UN secretary-general has called for a windfall tax on oil and gas companies, as the Marshall Islands president says 'the world we know is over' without urgent climate action, citing worsening floods.",
+    "progress": "The UN secretary-general is pushing for a windfall tax on oil and gas companies.",
     "upside": 1
   },
   "/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31": {
-    "headline": "Miliband presses case for climate security action at Cop31",
-    "trail": "Ed Miliband says the national security of all countries is at risk from the climate crisis, with sci-fi scenarios of destruction now 'regular occurrences'.",
-    "progress": "Miliband is addressing world leaders at Cop31 to press the case for urgent climate security action.",
+    "headline": "Miliband to press climate security case at Cop31",
+    "trail": "Exclusive: Ed Miliband is preparing to press the case for climate security at Cop31, saying the national security of all countries is at risk from the climate crisis, with 'sci-fi scenarios of destruction' now 'regular occurrences'.",
+    "progress": "Miliband is preparing to raise the national security risks of climate change directly with world leaders at Cop31.",
     "upside": 1
   },
   "/thefilter/2026/nov/12/best-beauty-christmas-gifts-sali-hughes-2026-uk": {
@@ -114,8 +114,8 @@
     "upside": 2
   },
   "/tv-and-radio/2026/nov/12/the-good-daughter-review-brendan-gleeson-rose-byrne-meghann-fahy": {
-    "headline": "The Good Daughter review – Brendan Gleeson steals the show as a broken, big-hearted father",
-    "trail": "Rose Byrne and Meghann Fahy are given little to do as small-town lawyers in this uneven legal thriller, but Gleeson's performance makes it worth watching.",
+    "headline": "Brendan Gleeson's broken father steals the show in The Good Daughter",
+    "trail": "Rose Byrne and Meghann Fahy have little to do as small-town lawyers in a drama meant to explore female trauma; it is Gleeson, earning the nickname 'Shatticus Finch', who steals the show.",
     "progress": null,
     "upside": 2
   },
@@ -126,32 +126,32 @@
     "upside": 2
   },
   "/world/2026/nov/12/leonardo-bertulazzi-escape-argentina": {
-    "headline": "How a 74-year-old escaped house arrest in Argentina",
-    "trail": "Leonardo Bertulazzi, an ex-member of Italy's radical far-left Red Brigades, escaped custody using a makeshift harness before his planned extradition to Italy.",
+    "headline": "Pork fat, a heating pad and a five-storey jump: a 74-year-old's dramatic escape",
+    "trail": "Leonardo Bertulazzi, an ex-member of Italy's radical far-left Red Brigades under house arrest in Argentina, fled in a scene 'like something out of a movie'.",
     "progress": null,
-    "upside": 0
+    "upside": 2
   },
   "/news/ng-interactive/2026/nov/12/motorway-services": {
-    "headline": "Staff work to turn around Britain's most-maligned service station",
-    "trail": "Hartshead Moor East, near Leeds, was rated the UK's lowest-ranked service station in 2022 and 2023 – staff have been on a mission to redeem its reputation ever since.",
-    "progress": "Staff at Hartshead Moor East have spent two years working to improve the service station's reputation.",
+    "headline": "Staff at Britain's most maligned service station fight to turn it around",
+    "trail": "Staff at Hartshead Moor East, near Leeds, have been on a mission to redeem its reputation ever since it was ranked Britain's bottom-placed service station in 2022 and 2023.",
+    "progress": "Staff have been working ever since to turn around the service station's reputation.",
     "upside": 2
   },
   "/politics/2026/nov/12/john-crace-nigel-farage-russell-brand": {
-    "headline": "Farage loses another senior Reform official after a difficult week",
-    "trail": "The Reform leader also faced a tense interview and criticism from the BBC this week, the sketch notes.",
+    "headline": "John Crace sketches a rough week for Nigel Farage",
+    "trail": "It's not been a good week for Farage: that interview, disrespect from the BBC, and the loss of another senior Reform official.",
     "progress": null,
-    "upside": 0
+    "upside": 2
   },
   "/commentisfree/2026/nov/12/billions-lost-markets-roiled-one-man-indiscretion-tech-bro-jensen-huang-affair-nvidia": {
-    "headline": "Tech billionaires' unchecked power is the real lesson of Jensen Huang's downfall",
-    "trail": "Nvidia CEO Jensen Huang's affair may be the costliest fling in history, writes Guardian columnist Aditya Chakrabortty – and a preview of the reckoning awaiting an overvalued tech bubble.",
+    "headline": "Tech bros must be reined in before the next costly indiscretion, Chakrabortty argues",
+    "trail": "Chakrabortty says billions were lost and markets roiled by one man's indiscretion — Jensen Huang's affair, which he calls the costliest fling in history and a preview of the tech bubble's bursting.",
     "progress": null,
     "upside": 1
   },
   "/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go": {
-    "headline": "Nvidia was right to let Jensen Huang go, says Nils Pratley",
-    "trail": "The CEO was long viewed as 'irreplaceable', but the recklessness of an affair with a woman regarded by US officials as a Chinese spy made him a liability Nvidia could not keep.",
+    "headline": "Nvidia was right to let Jensen Huang go, writes Nils Pratley",
+    "trail": "Huang was viewed as 'irreplaceable', but the recklessness of an affair with a woman US officials regard as a Chinese spy made him a political liability.",
     "progress": null,
     "upside": 1
   },
@@ -162,8 +162,8 @@
     "upside": 1
   },
   "/commentisfree/2026/nov/12/brexits-gains-were-a-fiction-its-harms-are-real-we-dont-have-to-go-on-living-in-this-nightmare": {
-    "headline": "The prime minister must now persuade his party to face up to Brexit's harm",
-    "trail": "Even Leave voters understand the damage done by Brexit, and so does the PM – now he must convince his own party, writes Guardian columnist Zoe Williams.",
+    "headline": "Keir Starmer should lead Labour to face up to Brexit's reality, writes Zoe Williams",
+    "trail": "Even Leave voters and the prime minister recognise the damage Brexit has done; now he must persuade his party to act on it, writes the Guardian columnist.",
     "progress": null,
     "upside": 1
   },
@@ -174,9 +174,9 @@
     "upside": 2
   },
   "/commentisfree/2026/nov/12/the-guardian-view-on-gazas-misery-dont-let-palestinian-deaths-mount-in-this-bleak-winter": {
-    "headline": "The Guardian view on Gaza: sustained pressure must stop the killing",
-    "trail": "Editorial: the formation of a new Israeli government won't by itself end the deaths – only sustained pressure from the international community can prevent further loss this winter.",
-    "progress": "Editorial: only sustained international pressure can halt Gaza's death toll this winter, not a change of government alone.",
+    "headline": "World must keep up pressure on Gaza's suffering, the Guardian view says",
+    "trail": "Sustained international pressure must be applied this winter, the Guardian view argues, as the formation of a new Israeli government won't stop the killing in Gaza and Palestinian deaths risk mounting further.",
+    "progress": "The editorial calls on the international community to maintain sustained pressure this winter.",
     "upside": 1
   },
   "/commentisfree/2026/nov/12/the-guardian-view-on-venture-capitalism-investor-profits-are-no-industrial-strategy": {
@@ -198,45 +198,45 @@
     "upside": 2
   },
   "/tv-and-radio/2026/nov/12/clem-cattini-remember-he-was-a-womble-and-almost-a-member-of-led-zeppelin": {
-    "headline": "Clem Cattini: the session drummer who played on more than 40 No 1 hits",
-    "trail": "Letters: Clem Cattini was modest about his remarkable talent as a session musician, writes Mark Sweet, with a further tribute from DLL Gould.",
+    "headline": "Letter writers celebrate Clem Cattini, the Womble who nearly joined Led Zeppelin",
+    "trail": "Mark Sweet recalls how Cattini, modest about playing on more than 40 No1 hits as a session musician, deserves to be remembered; plus a letter from DLL Gould.",
     "progress": null,
     "upside": 2
   },
   "/artanddesign/2026/nov/12/participating-in-art-and-culture-has-measurable-benefits-on-our-wellbeing": {
-    "headline": "Art and culture participation brings real benefits to our wellbeing",
-    "trail": "Letter: William Rees says Ealing council's creative workshops show that even an hour spent on a creative pursuit can change someone's day.",
+    "headline": "Ealing council workshops show how an hour of creativity can change your day",
+    "trail": "Letter: William Rees cites Ealing council's workshops, which show that participating in art and culture has measurable benefits on wellbeing.",
     "progress": null,
     "upside": 2
   },
   "/sport/live/2026/nov/13/australia-vs-england-cricket-odi-perth-live-scores": {
-    "headline": "Australia look to move past sandpapergate as England arrive for ODI opener",
-    "trail": "Over-by-over: Australia host England in the first one-day international of the series in Perth. Join our writers for live updates.",
-    "progress": "Australia are looking to put the ball-tampering scandal behind them as they begin a fresh ODI series.",
+    "headline": "Australia v England: first men's cricket ODI – live",
+    "trail": "Over-by-over report: Australia aim to move past sandpapergate as they host England in the first match of an ODI series in Perth. Join our writers for live updates.",
+    "progress": null,
     "upside": 2
   },
   "/football/2026/nov/12/england-croatia-nations-league-match-report": {
-    "headline": "Harry Kane's penalty seals England win over Croatia on his record night",
-    "trail": "The captain's spot-kick on the night he won his 126th cap gave England a 2-1 Nations League win over Croatia and a place in the quarter-finals.",
-    "progress": null,
+    "headline": "England reach Nations League quarter-finals as Kane scores winning penalty on landmark night",
+    "trail": "The captain's penalty, on the night he won his 126th cap, sent England into the Nations League quarter-finals with a 2-1 win over Croatia.",
+    "progress": "England have secured a place in the Nations League quarter-finals.",
     "upside": 3
   },
   "/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager": {
-    "headline": "Discipline, defence and fast starts: how United's new coach can spark a revival",
-    "trail": "Michael Carrick's successor must find solutions on the pitch, and press the club's hierarchy to accept its share of the blame.",
+    "headline": "Three fixes that could spark a Manchester United revival",
+    "trail": "Michael Carrick's successor must address defensive problems and slow starts on the pitch, and press the hierarchy to accept its share of the blame.",
     "progress": null,
     "upside": 2
   },
   "/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report": {
-    "headline": "Arsenal dig deep to hold out for WCL draw against dominant Barcelona",
-    "trail": "Frida Maanum put Arsenal ahead but Caroline Graham Hansen's equaliser left the visitors earning a hard-fought 1-1 draw in the Champions League.",
+    "headline": "Maanum goal earns Arsenal a share of the points against Barcelona",
+    "trail": "Frida Maanum put Arsenal ahead, but Caroline Graham Hansen's equaliser meant the visitors had to dig deep to hold on for a 1-1 Champions League draw.",
     "progress": null,
     "upside": 2
   },
   "/sport/2026/nov/13/pat-cummins-press-conference-sandpapergate-usman-khawaja-ball-tampering-australia-cricket-captain-statement-ntwnfb": {
-    "headline": "Cummins hits back at Khawaja's 'sandpapergate' claims, calls them 'nonsense'",
-    "trail": "The Australia captain faced the media and reasserted that knowledge of the ball-tampering plot was not widespread within the team.",
-    "progress": "Cummins publicly rejected the ball-tampering claims, insisting most of the team had no knowledge of the plot.",
+    "headline": "Cummins stands by teammates as he rejects Khawaja's 'sandpapergate' accusations",
+    "trail": "Facing the media, Cummins called Khawaja's claims 'complete and utter nonsense' and said knowledge of the ball-tampering plot was not widespread within the team.",
+    "progress": "Cummins says most of the squad had no knowledge of the ball-tampering plot.",
     "upside": 1
   },
   "/sport/2026/nov/12/much-changed-england-japan-nations-championship-rugby": {
@@ -246,46 +246,46 @@
     "upside": 2
   },
   "/football/2026/nov/12/pierre-sage-sacked-manager-crystal-palace-steve-parish-premier-league": {
-    "headline": "Crystal Palace turn the page on Pierre Sage in search of a fresh start",
-    "trail": "A losing run and set-piece struggles led Steve Parish to part ways with Sage after five months in the role.",
-    "progress": "Crystal Palace are searching for a new manager to address the team's defensive issues.",
+    "headline": "Crystal Palace turn page with search for new manager after Sage exit",
+    "trail": "Crystal Palace are now searching for a new manager after Steve Parish cut ties with Pierre Sage, following a losing run, set-piece struggles and a call for help.",
+    "progress": "Crystal Palace are now searching for a new manager to address the defensive issues.",
     "upside": 1
   },
   "/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record": {
-    "headline": "Andy Robertson honours Dalglish as he equals Scotland's cap record",
-    "trail": "Andy Robertson praised Kenny Dalglish as he prepared to match his record of 102 Scotland caps.",
+    "headline": "Scotland's Andy Robertson set to equal Kenny Dalglish's Scotland caps record",
+    "trail": "Andy Robertson praised Dalglish as he prepared to win his 102nd Scotland cap, matching the Scottish football great's record.",
     "progress": null,
     "upside": 3
   },
   "/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says": {
-    "headline": "Burnham says a 'win-win' EU deal is within reach",
-    "trail": "The prime minister says a reset could deliver a deal 'like the Brexit people thought they were voting for in 2016'.",
-    "progress": "Burnham says a 'win-win' deal with the EU could still be reached through the ongoing reset talks.",
-    "upside": 2
+    "headline": "A 'win-win' Brexit reset is achievable, Burnham says",
+    "trail": "The prime minister said a reset deal could resemble what people thought they were voting for in 2016.",
+    "progress": null,
+    "upside": 1
   },
   "/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush": {
-    "headline": "How an Australian teenager survived six nights lost in the bush",
-    "trail": "William, 17, kept himself going on chips, creek water and the song Take Me Home, Country Roads, during six cold nights in the bush.",
+    "headline": "Chips, creek water and a comfort song: inside a teenager's bush survival",
+    "trail": "William, 17, said the nights were cold and that he 'honestly didn't think' he would make it out alive.",
     "progress": null,
     "upside": 3
   },
   "/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink": {
-    "headline": "Putin holds firm on Ukraine demands amid renewed Starlink disruptions",
-    "trail": "The Russian president said he would target any foreign peacekeeping troops sent to Ukraine, as Kyiv reported fresh disruption to its Starlink satellite communications.",
+    "headline": "Putin holds firm on troops and territory in Ukraine talks with the US",
+    "trail": "The Russian president said he would target any foreign troops sent to Ukraine and refused to soften Moscow's territorial demands.",
     "progress": null,
-    "upside": 0
+    "upside": 1
   },
   "/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition": {
-    "headline": "Rayner approves plans for new 1,200-bed asylum centre in Oxfordshire",
-    "trail": "The Piddington site still needs Home Office sign-off, after the Oxfordshire village voted symbolically to leave the UK in protest.",
-    "progress": "Angela Rayner has granted planning approval for the centre, which still needs Home Office sign-off.",
+    "headline": "Rayner approves 1,200-bed asylum centre in Piddington pending final sign-off",
+    "trail": "Final Home Office sign-off is still needed for the site, which would house 1,200 asylum seekers; some in the Oxfordshire village, which once voted to leave the UK, oppose the plan.",
+    "progress": null,
     "upside": 1
   },
   "/us-news/2026/nov/12/dc-shooting-logan-circle": {
-    "headline": "Police name suspect and victim in Washington DC gym shooting",
-    "trail": "Authorities identified the suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot wound; four others were injured.",
-    "progress": "Police have identified the suspect and victim following the shooting, aiding their investigation.",
-    "upside": 1
+    "headline": "Washington DC gym shooting: suspect and victim named by police",
+    "trail": "Lambert, 55, died from a self-inflicted gunshot wound; the attack also injured four others, authorities said.",
+    "progress": null,
+    "upside": 0
   },
   "/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun": {
     "headline": "Sweden built a datacentre that's made of wood and fully renewable",
@@ -294,20 +294,20 @@
     "upside": 3
   },
   "/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement": {
-    "headline": "New guidelines aim to bring oversight to ocean geoengineering industry",
-    "trail": "Proponents say ocean carbon removal could help counteract the climate crisis, though critics argue more research is still needed.",
-    "progress": "Regulators have issued the first guidelines governing attempts to manipulate the ocean for carbon removal.",
+    "headline": "First guidelines shine spotlight on ocean geoengineering industry",
+    "trail": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis, but critics say more research is needed.",
+    "progress": "The guidelines are a first attempt to bring oversight to the emerging ocean geoengineering industry.",
     "upside": 2
   },
   "/global-development/2026/nov/12/rats-dengue-and-an-all-day-stench-can-panama-city-solve-its-waste-crisis": {
-    "headline": "Panama City starts a reckoning with decades of uncollected waste",
-    "trail": "Mountains of waste have blighted poor neighbourhoods on the edge of the city for decades, but the problems are now prompting action.",
-    "progress": "City officials are beginning to confront decades of uncollected waste in poor neighbourhoods.",
+    "headline": "A belated reckoning begins over Panama City's mountains of rubbish",
+    "trail": "For decades, mountains of rubbish have blighted poor neighbourhoods on the edge of the city, and the problems have spread, prompting the belated reckoning now under way.",
+    "progress": null,
     "upside": 1
   },
   "/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems": {
-    "headline": "Oil slicks from boat strikes threaten fragile Gulf ecosystems, images show",
-    "trail": "Hundreds of oil spills have occurred in the Gulf since the US war on Iran began in February, with experts raising serious, long-term concerns for wildlife.",
+    "headline": "Oil slicks from boat strikes now visible from space across the Gulf",
+    "trail": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a 'generational' threat to wildlife.",
     "progress": null,
     "upside": 0
   },
@@ -318,21 +318,21 @@
     "upside": 1
   },
   "/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists": {
-    "headline": "Two men convicted over Iranian plot to target UK journalists",
-    "trail": "Mostafa Sepahvand and Farhad Javadi Manesh were found guilty of carrying out surveillance intended to inflict violence on their targets.",
-    "progress": "A jury has convicted both men over the surveillance plot against UK-based journalists.",
-    "upside": 2
+    "headline": "Two men convicted over Iranian plot to 'eliminate' UK-based journalists",
+    "trail": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets, the court found.",
+    "progress": null,
+    "upside": 1
   },
   "/uk-news/2026/nov/12/children-criminal-records-england-wales-labour": {
-    "headline": "Children convicted of offences to get 'a second chance' under new plan",
-    "trail": "The government proposal aims to reduce the number of children in custody in England and Wales and boost youth employment.",
-    "progress": "Ministers plan to stop requiring children with criminal records to declare them, to boost their job prospects.",
-    "upside": 3
+    "headline": "Government plan gives children convicted of serious offences 'a second chance'",
+    "trail": "The proposal aims to cut the number of children in custody in England and Wales and boost their chances of employment, by no longer requiring them to declare serious convictions.",
+    "progress": "Ministers are advancing a proposal to end disclosure requirements for children's serious convictions.",
+    "upside": 2
   },
   "/uk-news/2026/nov/12/tim-westwood-in-court-to-deny-two-more-sexual-offence-charges": {
-    "headline": "Tim Westwood due in court to face two more charges",
-    "trail": "The former Radio 1 DJ denies the new offences against women in London, and now faces trial in January on 17 charges in total.",
-    "progress": "Westwood is set to stand trial in January to answer the charges against him.",
+    "headline": "Trial date set as Tim Westwood denies two more sex offence charges",
+    "trail": "The former Radio 1 DJ is accused of new offences against women in London and now faces trial in January on 17 charges in total.",
+    "progress": null,
     "upside": 1
   },
   "/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc": {
@@ -342,8 +342,8 @@
     "upside": 1
   },
   "/us-news/2026/nov/12/cdc-measles-deaths": {
-    "headline": "CDC reports six measles deaths during 2026 outbreak in the US",
-    "trail": "The figures highlight the spread of a virus officially declared eliminated in the US in 2000; the CDC has not identified which states accounted for the deaths.",
+    "headline": "CDC records six measles deaths as US outbreak reaches a 35-year high",
+    "trail": "The figures track the spread of a virus officially declared eliminated in the US in 2000; the CDC has not said which states recorded the deaths.",
     "progress": null,
     "upside": 0
   },
@@ -354,9 +354,9 @@
     "upside": 3
   },
   "/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports": {
-    "headline": "Microsoft rules out cyber-attack as it works to fix Outlook and Teams outage",
-    "trail": "The company says initial fixes have not yet resolved the outage affecting thousands of Outlook, Teams, Word and Excel users.",
-    "progress": "Microsoft has ruled out a cyber-attack and is continuing efforts to fix the issue.",
+    "headline": "No cyber-attack behind Outlook and Teams disruption, Microsoft says",
+    "trail": "The company says fixes to restore Outlook and Teams for thousands of affected users have not yet succeeded.",
+    "progress": "Microsoft says the fixes attempted so far have not restored full service for Outlook and Teams.",
     "upside": 1
   },
   "/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu": {
@@ -396,8 +396,8 @@
     "upside": 2
   },
   "/film/2026/nov/12/youve-got-mail-reboot-email": {
-    "headline": "Pitches pour in for the You've Got Mail reboot",
-    "trail": "Substack romances, dodgy scam plots and Jeff Bezos as the dashing lead – film-makers behind the dial-up classic's remake face an embarrassment of ideas.",
+    "headline": "Your pitch, please: reinventing You've Got Mail for the Substack era",
+    "trail": "Substackers in love, dodgy romance scams and Jeff Bezos as the dashing lead — the film-makers remaking the dial-up classic face an embarrassment of pitches.",
     "progress": null,
     "upside": 2
   },
@@ -408,14 +408,14 @@
     "upside": 2
   },
   "/tv-and-radio/2026/nov/12/south-park-episode-5-world-of-club-sports": {
-    "headline": "South Park tackles the pricey, confusing world of club sports",
-    "trail": "The episode follows gay couple Craig and Tweek as they join a 'pay-to-play' team promising them a better future, with a nod to Heated Rivalry.",
+    "headline": "South Park takes on the pricey, confusing world of club sports",
+    "trail": "This week's episode, which also references the US midterms, follows gay couple Craig and Tweek as they join a 'pay-to-play' team promising a better future, with a nod to Heated Rivalry.",
     "progress": null,
     "upside": 2
   },
   "/music/2026/nov/12/blackhaine-saints-in-the-wethouse-review": {
-    "headline": "Blackhaine: Saints in the Wethouse review – spectacularly intense UK rap",
-    "trail": "His Playboi Carti collaborations brought Tom Heyes out of the underground, but this bracing debut remains far from the mainstream.",
+    "headline": "Blackhaine's Saints in the Wethouse is spectacularly intense UK rap that wrings you out",
+    "trail": "His Playboi Carti collabs may have dragged Tom Heyes out of the underground, but this bracing debut remains far from the mainstream, full of garbled barks and walls of noise.",
     "progress": null,
     "upside": 2
   },
@@ -426,14 +426,14 @@
     "upside": 2
   },
   "/music/2026/nov/12/handel-giulio-cesare-in-egitto-album-review-il-pomo-d-oro-francesco-corti-jakub-jozef-orlinski-sabine-devieilhe": {
-    "headline": "Giulio Cesare in Egitto album review – Sabine Devieilhe's exquisite Cleopatra steals the show",
-    "trail": "Francesco Corti keeps the drama on the boil in this period-instrument recording of Handel's opera, with superb vocal dexterity from Jakub Józef Orliński in the title role.",
+    "headline": "Devieilhe's breathtaking Cleopatra steals this period-instrument Giulio Cesare",
+    "trail": "Francesco Corti keeps the drama on the boil in this period-instrument recording of Handel's opera, with heroic vocal dexterity from Jakub Józef Orliński in the title role.",
     "progress": null,
     "upside": 2
   },
   "/music/ng-interactive/2026/nov/11/jane-wiedlin-go-gos-fame-sexuality": {
-    "headline": "Jane Wiedlin on the Go-Go's, fame and her new tell-all memoir",
-    "trail": "The new wave icon's brutally honest memoir opens up about industry sexism, living with bipolar disorder, and her unconventional path to becoming an ordained minister.",
+    "headline": "Jane Wiedlin on the Go-Go's, fame and the freedom of sex dungeons",
+    "trail": "In a brutally honest new memoir, the new wave icon opens up about industry sexism, living with bipolar disorder and becoming 'the world's first atheist ordained minister'.",
     "progress": null,
     "upside": 2
   },
@@ -444,10 +444,10 @@
     "upside": 2
   },
   "/books/2026/nov/11/m-john-harrison-booker-science-fiction": {
-    "headline": "M John Harrison's Booker win opens the door for science fiction",
-    "trail": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on the publishing world's genre wars.",
+    "headline": "M John Harrison's Booker win reopens debate on science fiction's status",
+    "trail": "Kazuo Ishiguro, Jeff VanderMeer, Olivia Laing and other writers weigh in on whether the win means science fiction is finally accepted by a 'snobby' literary establishment, and on publishing's enduring genre wars.",
     "progress": null,
-    "upside": 3
+    "upside": 2
   },
   "/books/2026/nov/11/social-resistance-secret-history-central-europe-gay-saunas-vratislav-manak-wittgenstein": {
     "headline": "The gay-sauna travelogue revealing central Europe's hidden queer history",
@@ -486,8 +486,8 @@
     "upside": 3
   },
   "/artanddesign/2026/nov/12/you-can-almost-smell-the-sweat-striptease-artists-and-steel-pans-light-up-this-weeks-free-art-shows": {
-    "headline": "Striptease artists and steel pans light up this week's free art shows",
-    "trail": "Four free exhibitions take you from a luxury enclave in Rio de Janeiro to touring erotic dancers in the US and a culture-changing London address.",
+    "headline": "Four free exhibitions this week, from steel pans to touring striptease artists",
+    "trail": "They take you from a luxury white enclave in Rio de Janeiro to exhausted erotic dancers touring the US and a culture-changing London address.",
     "progress": null,
     "upside": 2
   },
@@ -498,8 +498,8 @@
     "upside": 2
   },
   "/stage/2026/nov/10/old-vic-2027-season-damian-lewis-henry-v": {
-    "headline": "Old Vic's 2027 season to feature Damian Lewis in Henry V",
-    "trail": "Rupert Goold begins his tenure as artistic director with Shakespeare's history play, followed by shows starring Supergirl's Milly Alcock and Arinzé Kene.",
+    "headline": "Damian Lewis to play a 'provocative' Henry V in Old Vic's 2027 season",
+    "trail": "Rupert Goold begins his tenure as artistic director with a version of Shakespeare's history play, followed by shows starring Supergirl's Alcock and Arinzé Kene.",
     "progress": null,
     "upside": 2
   },
@@ -516,8 +516,8 @@
     "upside": 3
   },
   "/stage/2026/nov/12/adam-buxton-joe-cornish-odyssey-patrick-stewart-tv-cult": {
-    "headline": "Adam and Joe on spoofing 'Christopher No-Laughs' with a toys' Odyssey",
-    "trail": "Adam Buxton and Joe Cornish returned to the stage with a night as packed with pop-culture jokes as the show that made them a 90s TV cult.",
+    "headline": "What we learned as Adam and Joe revived their 90s TV spoofs on stage",
+    "trail": "Adam Buxton and Joe Cornish returned for a night as packed with pop-culture pisstakes as the show that made them a 90s TV cult, spoofing 'Christopher No-Laughs' with a toy Odyssey and recalling Patrick Stewart's haunted house.",
     "progress": null,
     "upside": 2
   },
@@ -564,38 +564,38 @@
     "upside": 2
   },
   "/thefilter/2026/nov/06/how-to-have-greener-christmas": {
-    "headline": "Why the best Christmas things are never new",
-    "trail": "Whether it's vintage baubles or homemade gifts, there's joy in a Christmas full of memories and personal touches. Plus, the best coats to keep out the chill this winter.",
+    "headline": "Vintage baubles and homemade gifts: the recipe for a happier Christmas",
+    "trail": "Vintage baubles and homemade gifts bring more joy than anything new, filling Christmas with memories and personal touches – plus the best coats to keep out the chill this winter.",
     "progress": null,
     "upside": 2
   },
   "/thefilter/2026/nov/08/best-mens-coats-autumn-winter-under-200-2026-uk": {
-    "headline": "48 of the best men's coats for autumn and winter, all under £200",
+    "headline": "Recycled puffers to Bogart-style trenches: 48 men's coats for under £200",
     "trail": "From a puffer made of old fishing nets to a trench worthy of Bogart, these are the coats worth braving the cold for.",
     "progress": null,
     "upside": 2
   },
   "/lifeandstyle/2026/nov/12/you-be-the-judge-should-my-sister-stop-calling-when-on-move": {
-    "headline": "Is it fair for my sister to call me mid-errand? You decide",
-    "trail": "Maddie drives Nadia mad with her disjointed conversations, but doesn't think she should have to make an appointment to phone her sister. Who's in the wrong? You make the call.",
+    "headline": "Maddie and Nadia's phone-call dispute goes to readers to settle",
+    "trail": "Maddie calls her sister Nadia whenever she's on the move and sees nothing wrong with it; Nadia says the disjointed chats drive her mad but doesn't think she should have to make an appointment to phone her. Readers decide who's in the wrong.",
     "progress": null,
     "upside": 2
   },
   "/food/2026/nov/12/christmas-chefs-eight-easy-things-to-do-now-relax-day": {
-    "headline": "Chefs share eight easy things to do now for a relaxed Christmas Day",
-    "trail": "No one wants to slog away in the kitchen while everyone else gets festive. Thanks to these hacks and recipes from professionals, you won't have to.",
+    "headline": "Eight easy Christmas kitchen tips from the professionals",
+    "trail": "No one wants to be stuck in the kitchen while everyone else gets festive. These hacks and recipes from professionals mean you won't have to be.",
     "progress": null,
     "upside": 2
   },
   "/food/2026/nov/12/school-night-wine-the-best-bottles-for-an-impromptu-midweek-treat": {
-    "headline": "The best wine bottles for a spontaneous midweek treat",
-    "trail": "Five wines that hit the spot without breaking the bank.",
+    "headline": "Five wines worth opening on a weeknight, without the weekend price tag",
+    "trail": "Five picks that hit the spot for a midweek treat, none of them breaking the bank.",
     "progress": null,
     "upside": 2
   },
   "/food/2026/nov/12/torta-tenerina-rich-chocolate-cake-rachel-roddy-recipe": {
-    "headline": "Rachel Roddy's rich chocolate cake, or torta tenerina",
-    "trail": "This soft-but-dense, velvety cake is at its prime still warm from the oven, but gets gloriously fudgy after a night in the fridge.",
+    "headline": "Rachel Roddy's torta tenerina: a chocolate cake that improves overnight",
+    "trail": "This soft, velvety cake is good warm from the oven, but turns gloriously fudgy after a night in the fridge.",
     "progress": null,
     "upside": 2
   },
@@ -606,28 +606,28 @@
     "upside": 2
   },
   "/lifeandstyle/2026/nov/11/the-thermostat-wars-tearing-couples-apart-its-hard-to-feel-sexy-when-youre-freezing-cold": {
-    "headline": "Couples at war over the thermostat: 'hard to feel sexy when you're freezing'",
-    "trail": "Almost two-thirds of bedfellows disagree about the perfect room temperature – and the issue can affect office workers and housemates too. It often leads to subterfuge and skulduggery. So is there any way to reach a truce?",
+    "headline": "Couples, housemates and colleagues search for a truce in the thermostat wars",
+    "trail": "Almost two-thirds of bedfellows disagree about the perfect room temperature, a clash that often leads to subterfuge and skulduggery as both sides look for a way to settle it.",
     "progress": null,
     "upside": 2
   },
   "/lifeandstyle/ng-interactive/2026/nov/11/young-americans-prenups-before-marriage": {
-    "headline": "Why young American women are embracing the prenup boom: 'I want to protect myself'",
-    "trail": "Zillennial couples say they want 'radical transparency' around their finances, bucking the idea that prenuptial agreements are rooted in division.",
+    "headline": "Radical transparency, not division, is driving America's prenup boom",
+    "trail": "Young couples say openness about money matters more to them than division, bucking old assumptions about prenuptial agreements.",
     "progress": null,
     "upside": 2
   },
   "/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life": {
-    "headline": "A moment that changed me: a failed date led to a lifelong friendship",
-    "trail": "My romance with Steven quickly fizzled, but I had gained something just as good – it made me realise that in the pursuit of love I had closed myself off to other kinds of connection.",
+    "headline": "A fizzled romance left me with something just as good: real friendship",
+    "trail": "My romance with Steven didn't last, but it showed me I'd been so focused on finding love that I'd closed myself off to other kinds of connection.",
     "progress": null,
-    "upside": 3
+    "upside": 2
   },
   "/money/2026/nov/10/uk-pensions-scottish-widows-young-worker": {
-    "headline": "How a chat with 'auntie' helped a young worker bag free money in his pension",
-    "trail": "Joining a company scheme at 18 seemed 'too expensive' for Rio until someone close put him right.",
-    "progress": null,
-    "upside": 3
+    "headline": "Rio nearly missed out on free pension money – one chat changed that",
+    "trail": "Joining a company pension scheme at 18 seemed 'too expensive' to Rio, until someone close put him right.",
+    "progress": "An informal chat persuaded Rio to join his employer's pension scheme and start claiming free money.",
+    "upside": 2
   },
   "/money/2026/nov/09/royal-mail-letter-deliveries-parcels": {
     "headline": "Royal Mail has delivered letters only twice in three months, reader says",
@@ -636,16 +636,16 @@
     "upside": 0
   },
   "/money/2026/nov/08/free-grand-piano-scam-emails": {
-    "headline": "How to spot the 'free grand piano' scam targeting music lovers",
-    "trail": "Emails claim to come from a widow giving away her late husband's piano – but the offer isn't what it seems.",
-    "progress": "Readers are being warned about the scam so they can recognise it and avoid it.",
+    "headline": "'Free grand piano' email exposed as scam targeting music lovers",
+    "trail": "The emails claim to come from a widow giving away her late husband's piano – but the offer isn't what it seems.",
+    "progress": null,
     "upside": 1
   },
   "/money/2026/nov/07/can-ai-save-you-money-heating-bill": {
-    "headline": "Two years on, AI has kept my heating bill in check",
-    "trail": "Samuel Gibbs doubted he could cut costs and still keep warm by putting tech in control – the results surprised him.",
-    "progress": null,
-    "upside": 3
+    "headline": "Samuel Gibbs let AI control his heating for two years. The results surprised him",
+    "trail": "He doubted he could cut costs and still keep warm by putting tech in control.",
+    "progress": "Gibbs tested AI-controlled heating for two years to find out whether it could really cut his bills.",
+    "upside": 2
   },
   "/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index": {
     "headline": "New BMI alternative could prevent obesity misdiagnosis in millions, experts say",
@@ -660,10 +660,10 @@
     "upside": 2
   },
   "/commentisfree/2026/nov/11/selena-gomez-says-vaping-has-changed-her-voice-can-e-cigarettes-really-affect-your-vocal-cords-and-is-it-reversible": {
-    "headline": "Can vaping really damage your voice? What the science says",
-    "trail": "Experts say vaping can damage delicate tissues in the voice box, and there is not yet enough data to say if people can recover.",
+    "headline": "What the science says about vaping's effect on your voice",
+    "trail": "Experts say vaping can damage delicate tissues in the voice box, and there is not yet enough data to say whether the effects are reversible.",
     "progress": null,
-    "upside": 1
+    "upside": 2
   },
   "/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency": {
     "headline": "What to know about B12 shots and whether they really boost energy",
@@ -678,8 +678,8 @@
     "upside": 2
   },
   "/fashion/2026/nov/11/sali-hughes-on-beauty-dryness-eczema-sore-skin-bioderma": {
-    "headline": "A new lotion that soothes eczema and autumn's driest skin, says Sali Hughes",
-    "trail": "Bioderma's new eczema lotion will be comforting for anyone with dry skin, plus another brilliant problem-solving moisturiser.",
+    "headline": "The lotion Sali Hughes says cures autumn dryness and soothes eczema-prone skin",
+    "trail": "Bioderma's new eczema lotion will be comforting for anyone with dry skin. Plus another brilliant problem-solving moisturiser.",
     "progress": null,
     "upside": 2
   },
@@ -690,10 +690,10 @@
     "upside": 2
   },
   "/global-development/2026/nov/09/fashion-lagos-chanel-model-rachel-ojuromi-nigeria-thrift-style": {
-    "headline": "From the streets of Lagos to the Chanel catwalk: a thrift-shop stylist's rise to Paris",
-    "trail": "Rachel Ojuromi and her stylist friend Debby Fasingha recreated high-end designs in effortlessly cool videos shot around the city. Then the fashion house came calling.",
+    "headline": "Lagos creative's thrift-shop style earns her a place on Chanel's catwalk",
+    "trail": "Rachel Ojuromi and stylist friend Debby Fasingha recreated high-end designs in effortlessly cool videos filmed around Lagos. Then the fashion house came calling.",
     "progress": null,
-    "upside": 3
+    "upside": 2
   },
   "/lifeandstyle/2026/nov/11/richmond-upon-thames-britains-happiest-place-to-live-rightmove-property": {
     "headline": "Rightmove names Richmond upon Thames Britain's happiest place to live – but there's a catch",
@@ -720,8 +720,8 @@
     "upside": 2
   },
   "/environment/2026/nov/12/country-diary-an-ancient-bridge-laid-low-by-one-storm-after-another": {
-    "headline": "Country diary: an ancient bridge, worn down by one storm after another",
-    "trail": "Exmoor, Somerset: Tarr Steps is no stranger to flooding, but the damage is becoming more and more frequent.",
+    "headline": "Country diary: Exmoor's ancient bridge faces repeated storm damage",
+    "trail": "Exmoor, Somerset: the bridge is no stranger to flooding, but the damage is becoming more and more frequent.",
     "progress": null,
     "upside": 0
   },
@@ -738,14 +738,14 @@
     "upside": 2
   },
   "/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms": {
-    "headline": "Scott Colom's path to becoming Mississippi's first Black senator since Reconstruction",
-    "trail": "The Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi's first Black senator since Reconstruction.",
-    "progress": null,
+    "headline": "Scott Colom makes history as Mississippi's first Black senator since Reconstruction",
+    "trail": "The Democrat won the deep-red state with little help from his party, instead chatting up voters directly at hair salons, colleges and Trump rallies.",
+    "progress": "Colom built support directly with voters at hair salons, colleges and Trump rallies, winning with little help from the Democratic party.",
     "upside": 3
   },
   "/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood": {
-    "headline": "Storms leave thousands in Gaza without shelter as cold turns lethal",
-    "trail": "Charities say more than 940,000 displaced people in flood-prone areas lack adequate protection from the cold.",
+    "headline": "Displaced Gazans face 'lethal' cold as storms leave thousands without shelter",
+    "trail": "More than 940,000 displaced people are living in flood-prone areas with little protection from the storms, aid groups say.",
     "progress": null,
     "upside": 0
   },
@@ -780,21 +780,21 @@
     "upside": 2
   },
   "/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi": {
-    "headline": "Nvidia and Huang face lawsuit as FBI opens inquiry into Alice Huang links",
-    "trail": "A California lawsuit comes as Donald Trump says the FBI is investigating the chipmaker's chief executive's links with Alice Huang.",
-    "progress": "The FBI has opened an investigation into Huang's links with Alice Huang, Trump says.",
+    "headline": "US lawsuit filed against Nvidia and Huang over alleged affair with suspected spy",
+    "trail": "The California lawsuit comes as Donald Trump says the FBI is investigating the Nvidia chief's links to Alice Huang.",
+    "progress": null,
     "upside": 1
   },
   "/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy": {
-    "headline": "Trump praised Jensen Huang despite reports of affair with suspected spy",
-    "trail": "Donald Trump praised the chipmaker's CEO despite reports he had an affair with a suspected Chinese spy.",
+    "headline": "Trump praises Nvidia's Jensen Huang amid US-China tensions",
+    "trail": "The praise comes despite reports that the chipmaker's chief executive had an affair with a woman suspected of being a Chinese spy, fuelling wider US-China tensions.",
     "progress": null,
     "upside": 1
   },
   "/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair": {
-    "headline": "Nvidia board moves to decide Jensen Huang's future as CEO",
-    "trail": "The meeting comes after the chief executive admitted to a relationship with a woman alleged to be a Chinese spy.",
-    "progress": "Nvidia's board is meeting to decide whether Huang should remain as chief executive.",
+    "headline": "Nvidia board reportedly weighs removing Jensen Huang as chief executive",
+    "trail": "The board meeting, as Nvidia's stock price plunges, follows Huang's admission of a relationship with a woman alleged to be a Chinese spy.",
+    "progress": "Board members are weighing whether Huang should stay in the role, following his admission.",
     "upside": 1
   },
   "/technology/2026/nov/09/jensen-huang-image-nvidia": {
@@ -810,9 +810,9 @@
     "upside": 2
   },
   "/technology/2020/sep/29/major-microsoft-outage-brings-down-office-365-outlook-and-teams": {
-    "headline": "Microsoft says fix under way after Teams, Office 365 and Outlook outage",
-    "trail": "Microsoft says a recent update affected authentication requests, making its cloud-based services temporarily inaccessible.",
-    "progress": "Microsoft identified the update that caused the outage.",
+    "headline": "Microsoft identifies cause of global Teams, Outlook and Office 365 outage",
+    "trail": "The company says a recent update affected the processing of authentication requests, making its cloud-based services inaccessible worldwide.",
+    "progress": "Microsoft has identified the update that caused the authentication failures behind the outage.",
     "upside": 1
   },
   "/technology/live/2024/jul/20/microsoft-global-it-outage-crowdstrike-windows-latest-updates": {
@@ -822,33 +822,33 @@
     "upside": 1
   },
   "/technology/article/2024/jul/20/holidaymakers-warned-of-more-airport-delays-after-global-windows-outage": {
-    "headline": "Travellers advised to check for 'extra steps' after Windows outage disruption",
-    "trail": "At least 45 UK flights were cancelled on Saturday after the global Windows outage, with more disruption expected.",
-    "progress": "Airlines are advising passengers to check for any extra steps needed because of the outage.",
+    "headline": "Travellers offered extra guidance by providers during the outage",
+    "trail": "The advice comes as at least 45 UK flights were cancelled on Saturday because of the global Windows outage, with further disruption expected.",
+    "progress": "Providers are advising passengers on extra steps to take during the disruption.",
     "upside": 1
   },
   "/technology/2012/aug/01/microsoft-outlook-hotmail-lost-cool": {
-    "headline": "Microsoft relaunches Hotmail as Outlook after years of stagnation",
-    "trail": "Hotmail remained the busiest webmail site by traffic, but recent stagnation prompted the decision to relaunch, writes Josh Halliday.",
-    "progress": "Microsoft is relaunching the stagnating webmail service under the Outlook brand.",
-    "upside": 1
+    "headline": "Hotmail remains world's busiest webmail site as Microsoft relaunches it as Outlook",
+    "trail": "Despite recent stagnation, Hotmail's traffic still leads the field; Microsoft is rebranding the service as Outlook, writes Josh Halliday.",
+    "progress": "Microsoft is relaunching Hotmail as Outlook after recent stagnation in its growth.",
+    "upside": 2
   },
   "/technology/article/2024/jul/22/crowdstrike-says-significant-number-of-devices-back-online-after-global-outage": {
-    "headline": "Most devices back online again after CrowdStrike's global IT outage",
-    "trail": "But experts say full recovery from Friday's IT failure could take weeks.",
-    "progress": "A significant number of affected devices have already been brought back online, CrowdStrike says.",
+    "headline": "Significant number of devices restored, CrowdStrike says, after global outage",
+    "trail": "Experts say full recovery from Friday's outage could still take weeks.",
+    "progress": "CrowdStrike says a significant number of devices are back online, though experts say full recovery could take weeks.",
     "upside": 2
   },
   "/technology/article/2024/jul/20/the-microsoftcrowdstrike-outage-shows-the-danger-of-monopolization": {
-    "headline": "The Microsoft/CrowdStrike outage shows why IT infrastructure needs more redundancy",
-    "trail": "As the world recovers from the largest IT outage in history, it reveals the risk of relying on one point of failure in IT infrastructure.",
+    "headline": "To prevent the next outage, the writer says we must end IT's dangerous monopolies",
+    "trail": "As the world recovers from the biggest IT outage in history, the writer argues reducing market concentration would help prevent single points of failure in IT infrastructure.",
     "progress": null,
     "upside": 1
   },
   "/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims": {
-    "headline": "Police continue to investigate further allegations against Russell Brand",
-    "trail": "The Met says several people have been in contact since the start of the disgraced comedian's rape and sexual assault trial.",
-    "progress": "The Metropolitan police are investigating further allegations that have come forward since the trial began.",
+    "headline": "More people come forward to police over Russell Brand allegations",
+    "trail": "The Metropolitan police say several people have contacted them with further claims since the start of the disgraced comedian's rape and sexual assault trial.",
+    "progress": null,
     "upside": 1
   },
   "/commentisfree/2026/nov/11/russell-brand-david-walliams-noughties-culture-girls-women": {
@@ -870,34 +870,34 @@
     "upside": 1
   },
   "/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist": {
-    "headline": "Barrister who clashed with journalist reports himself to watchdog",
-    "trail": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand's victims coming forward: 'I hope you are pleased with yourself'.",
-    "progress": "Ian Winter KC has reported himself to the bar watchdog over the exchange.",
-    "upside": 1
+    "headline": "Brand's barrister reports himself to watchdog following clash with journalist",
+    "trail": "Ian Winter KC's remark to Sunday Times journalist Rosamund Urwin — whose investigation led Brand's victims to come forward — was: 'I hope you are pleased with yourself.'",
+    "progress": "Winter referred his own conduct to the watchdog for scrutiny.",
+    "upside": 2
   },
   "/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed": {
-    "headline": "Nearly 90 organisations urge Burnham to take decisive action on abuse",
-    "trail": "The letter follows revelations about the scale of child-on-child sexual abuse, and urges the PM to help end the cycle of harm.",
-    "progress": "Nearly 90 organisations are urging the prime minister to take decisive action to end violence against women and girls.",
+    "headline": "Almost 90 organisations urge Burnham to act on violence against women",
+    "trail": "The joint letter follows revelations about the scale of child-on-child sexual abuse, with signatories urging the prime minister to break the cycle of harm and act decisively to protect women and girls.",
+    "progress": "Nearly 90 organisations have signed a joint letter urging the prime minister to take decisive action.",
     "upside": 1
   },
   "/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy": {
-    "headline": "Nandy to convene TV, film and publishing leaders on protecting women",
-    "trail": "Lisa Nandy is expected to meet leaders from TV, film and publishing, and could legislate if voluntary action proves insufficient.",
-    "progress": "Nandy is convening industry leaders and has warned she will legislate if voluntary measures fall short.",
-    "upside": 2
+    "headline": "Ministers press TV industry to tackle abuse or face legislation",
+    "trail": "Culture secretary Lisa Nandy is expected to meet leaders from TV, film and publishing over abuse in the industry, and could legislate if voluntary action proves insufficient.",
+    "progress": "Nandy is expected to meet industry leaders and says she could introduce legislation if voluntary steps fall short.",
+    "upside": 1
   },
   "/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand": {
-    "headline": "Nandy says Brand case should be a wake-up call for the media industry",
-    "trail": "The culture secretary says there is still a problem with exploitation and abuse in the industry and public life.",
-    "progress": null,
-    "upside": 2
-  },
-  "/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu": {
-    "headline": "Nandy says closer EU ties could fulfil Brexit referendum promises",
-    "trail": "The culture secretary pushes back against talk of revisiting Brexit but says closer ties would honour promises made in the referendum.",
+    "headline": "Nandy calls for stronger protections for women across the media industry",
+    "trail": "The culture secretary says the Russell Brand case must be a wake-up call, pointing to ongoing problems with exploitation and abuse across the industry and public life.",
     "progress": null,
     "upside": 1
+  },
+  "/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu": {
+    "headline": "Closer EU ties would honour referendum promises, Nandy says",
+    "trail": "The culture secretary dismissed talk of rejoining the EU as 'circular arguments', but said deeper co-operation would fulfil the promises made at the Brexit referendum.",
+    "progress": "Nandy says closer UK-EU co-operation, short of rejoining, would fulfil the Brexit referendum's promises.",
+    "upside": 2
   },
   "/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations": {
     "headline": "Jonathan Ross says he was 'genuinely unaware' of Walliams and Brand's conduct",
@@ -912,16 +912,16 @@
     "upside": 1
   },
   "/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion": {
-    "headline": "Beijing confirms historic Xi-Trump-Putin summit is under discussion",
-    "trail": "Russia could use the three-way summit to nudge China and the US closer to its position on Ukraine, experts say.",
-    "progress": "Beijing has confirmed that a historic three-way summit between Xi, Trump and Putin is under discussion.",
+    "headline": "Trump, Putin and Xi could hold landmark Ukraine summit, Beijing confirms",
+    "trail": "Experts say Russia may use a three-way summit to nudge China and the US closer to its position on the war. Day 1,718.",
+    "progress": null,
     "upside": 1
   },
   "/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks": {
-    "headline": "Witkoff and Kushner discuss 'next steps' with Putin to end Ukraine war",
-    "trail": "Donald Trump's business ally and son-in-law are now heading from Moscow to Kyiv to meet Zelenskyy.",
-    "progress": null,
-    "upside": 2
+    "headline": "US envoys head to Kyiv after discussing Ukraine war 'next steps' with Putin",
+    "trail": "Steve Witkoff and Jared Kushner, Donald Trump's business ally and son-in-law, are now travelling from Moscow to meet Volodymyr Zelenskyy.",
+    "progress": "Witkoff and Kushner are travelling from Moscow to Kyiv to discuss next steps toward ending the war.",
+    "upside": 1
   },
   "/world/2025/jan/25/ukraine-war-briefing-putin-aiming-to-manipulate-trump-zelenskyy-warns": {
     "headline": "Putin says he is 'ready for negotiations' with Trump on Ukraine war",
@@ -930,33 +930,33 @@
     "upside": 1
   },
   "/world/2026/oct/10/ukraine-war-briefing-trumps-russian-diesel-deal-derided-as-weak-and-a-betrayal-of-ukraine-and-us-national-security": {
-    "headline": "Peace talks continue despite criticism of Trump's Russian diesel deal",
-    "trail": "Kyiv dismissed the talks as a 'smokescreen' for the diesel deal, which Democrats call a betrayal of Ukraine; Ukraine struck a major datacentre in Russia.",
-    "progress": null,
+    "headline": "Ukraine strikes major datacentre in Russia as Trump pursues Russian diesel deal",
+    "trail": "Kyiv dismissed Trump's peace talks as a 'smokescreen' for his Russian diesel deal, which Democrats called a betrayal of Ukraine. Day 1,690.",
+    "progress": "Ukraine struck a major datacentre in Russia even as the negotiations continue.",
     "upside": 1
   },
   "/world/2025/may/20/ukraine-war-briefing-europe-proceeds-with-russia-sanctions-after-trump-putin-talk": {
-    "headline": "Europe presses ahead with Russia sanctions after Trump-Putin talks",
-    "trail": "Putin wants a 'memorandum on a possible future peace accord' with Kyiv; Zelenskyy rejects surrendering land by pulling back troops.",
-    "progress": "European leaders are proceeding with new sanctions on Russia despite the Trump-Putin talks.",
-    "upside": 2
+    "headline": "Europe presses ahead with Russia sanctions as Putin seeks peace memorandum",
+    "trail": "The Russian president wants a 'memorandum on a possible future peace accord' with Kyiv, but Volodymyr Zelenskyy has rejected surrendering land by pulling back troops. Day 1,182.",
+    "progress": "Europe is maintaining pressure on Moscow with sanctions while diplomatic contacts continue.",
+    "upside": 1
   },
   "/world/2025/aug/20/ukraine-war-briefing-squeeze-on-putin-to-accept-direct-peace-talks-with-zelenskyy": {
-    "headline": "Pressure builds on Putin to accept direct peace talks with Zelenskyy",
-    "trail": "There is no confirmation yet from the Kremlin that the meeting will go ahead; Trump suggests US air power might enforce a security guarantee.",
-    "progress": null,
+    "headline": "US suggests air power may back security guarantee in push for Putin-Zelenskyy talks",
+    "trail": "Diplomatic pressure is mounting on Putin to accept direct talks, though the Kremlin has not confirmed a meeting will go ahead. Day 1,274.",
+    "progress": "The US is suggesting air power might help guarantee security as part of a potential peace deal.",
     "upside": 1
   },
   "/us-news/2026/jun/25/jd-vance-iran-peace-deal": {
-    "headline": "JD Vance leads US effort on a fragile Iran peace deal",
-    "trail": "The vice-president, leading a foundering peace effort to end a war he once opposed, risks being left holding the bag if it fails.",
-    "progress": null,
+    "headline": "Vance leads the US push for peace in Iran",
+    "trail": "The vice-president is leading the push for peace in Iran, having previously opposed this kind of war; critics say he is now fronting a foundering deal and bears the risk if it fails.",
+    "progress": "Vance continues to lead the diplomatic push despite the deal's troubles.",
     "upside": 1
   },
   "/us-news/2026/nov/09/trump-iran-war": {
-    "headline": "Trump says Iran war is 'effectively over', plays down new strikes",
-    "trail": "The president, after talks with Qatar's prime minister, suggests an end to the war is coming 'fairly soon' and that military escalation is not needed.",
-    "progress": "Trump says military escalation is not needed and an end to the war could come soon.",
+    "headline": "Trump says end to Iran war could come 'fairly soon' after Qatar talks",
+    "trail": "The president called the US war in Iran 'effectively over' and played down concerns about further escalation.",
+    "progress": "Trump held talks with Qatar's prime minister as part of efforts to wind down the conflict.",
     "upside": 2
   },
   "/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran": {
@@ -972,33 +972,33 @@
     "upside": 0
   },
   "/world/2026/jun/21/trump-iran-deal-bipartisan-criticism": {
-    "headline": "Vance hails progress on Iran peace talks despite bipartisan criticism",
-    "trail": "Objections to Trump's handling of the Iran deal come as he threatens to renew attacks if Tehran doesn't rein in its proxy in Lebanon.",
-    "progress": null,
+    "headline": "Vance hails Iran peace talks as administration pursues deal",
+    "trail": "The vice-president's optimism comes as Trump faces fresh bipartisan criticism over the deal and says he will renew attacks on Iran if it fails to rein in its proxy in Lebanon.",
+    "progress": "Vance is publicly championing the peace talks as the administration pushes the deal forward.",
     "upside": 1
   },
   "/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel": {
-    "headline": "Iran agrees to let UN nuclear inspectors return, as part of US deal",
-    "trail": "Other measures include Washington lifting sanctions on Tehran's oil exports and reopening the strait of Hormuz.",
+    "headline": "Iran strikes deal with US to let nuclear inspectors return",
+    "trail": "The agreement also includes Washington lifting sanctions on Tehran's oil exports and reopening the Strait of Hormuz.",
     "progress": null,
     "upside": 3
   },
   "/environment/2026/nov/12/greta-thunberg-cop31-climate-summit": {
-    "headline": "Greta Thunberg tells Cop31 the planet 'is being killed'",
-    "trail": "The Swedish activist criticised world governments for their failure to prevent environmental breakdown.",
+    "headline": "Greta Thunberg tells Cop31 world governments have failed to act",
+    "trail": "The Swedish activist said the planet 'is being killed', criticising world governments for failing to prevent environmental breakdown.",
     "progress": null,
     "upside": 0
   },
   "/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato": {
-    "headline": "Spend 'much more' on climate than defence, Cop31 host urges wealthy nations",
-    "trail": "'The climate issue is the security issue,' says the Turkish minister at the Pacific pre-Cop summit in Fiji.",
-    "progress": null,
+    "headline": "Cop31 host makes security case for far larger climate spending",
+    "trail": "'The climate issue is the security issue,' the Turkish minister tells wealthy nations at the Pacific pre-Cop summit in Fiji, urging them to spend much more on climate than on defence.",
+    "progress": "The Turkish presidency is urging rich nations to commit far more funding before the formal Cop31 talks begin.",
     "upside": 1
   },
   "/environment/2026/nov/10/china-green-energy-john-kerry-cop31": {
-    "headline": "Kerry says US and the world should learn from China's green energy lead",
-    "trail": "The former US secretary of state says most nations are 'stumbling along' while Beijing has 'hugely accelerated'.",
-    "progress": null,
+    "headline": "China's renewable energy push has 'hugely accelerated', Kerry says",
+    "trail": "The former US secretary of state says most nations are 'stumbling along' while Beijing presses ahead, urging others to follow its lead.",
+    "progress": "China has hugely accelerated its shift to renewable energy, Kerry says, urging other countries to match its pace.",
     "upside": 2
   },
   "/environment/2026/nov/08/cop31-key-players-climate-talks": {
@@ -1008,38 +1008,38 @@
     "upside": 1
   },
   "/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says": {
-    "headline": "Climate progress at Cop31 must be real, not just promises, summit host says",
-    "trail": "High-stakes talks involving 190 countries begin as the world grapples with El Niño supercharged by fossil fuels.",
-    "progress": null,
+    "headline": "Cop31 opens with push for climate action people can see working",
+    "trail": "The summit's host says any progress must be real and visible, as high-stakes talks involving 190 countries begin on Monday amid an El Niño supercharged by fossil fuels.",
+    "progress": "190 countries are opening high-stakes talks aimed at delivering visible, concrete climate action.",
     "upside": 1
   },
   "/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31": {
-    "headline": "Cop31 talks accelerate shift to electrification, UN climate chief says",
-    "trail": "Simon Stiell told the summit in Turkey that high fossil fuel prices are spreading inflation 'like a cancer' through economies.",
-    "progress": "Talks in Turkey are under way to speed up the global shift to electrification.",
-    "upside": 2
+    "headline": "Cop31 talks look to speed up shift to electrification, UN climate chief says",
+    "trail": "Simon Stiell, the UN climate chief, used Cop31's opening address in Turkey to push talks on speeding up the shift to electrification, warning that high fossil fuel prices are spreading inflation 'like a cancer'.",
+    "progress": "Simon Stiell is addressing the summit as talks continue on speeding up the switch to electrification.",
+    "upside": 1
   },
   "/uk-news/2015/jul/20/churchill-wartime-tunnels-dover-national-trust": {
-    "headline": "Churchill's hidden wartime tunnels beneath Dover's white cliffs open to the public",
-    "trail": "The surprise find of an abandoned tunnel complex by the National Trust offers the public a descent into second world war history.",
+    "headline": "National Trust opens Churchill's secret wartime tunnels to the public",
+    "trail": "The surprise find beneath the white cliffs of Dover offers visitors a descent into second world war history.",
     "progress": null,
     "upside": 2
   },
   "/culture/2025/may/30/london-tunnels-inspired-james-bond-creator-spy-museum": {
-    "headline": "London tunnels that inspired the James Bond creator will become a spy museum",
-    "trail": "The second world war complex is to include military equipment, interactive exhibitions and a bar.",
+    "headline": "Wartime tunnels behind James Bond's creation reborn as London spy museum",
+    "trail": "The underground complex, built during the second world war, will include military equipment, interactive exhibitions and a bar.",
     "progress": null,
     "upside": 2
   },
   "/world/2019/jun/05/d-day-key-facts-on-the-largest-military-operation-ever-attempted": {
-    "headline": "Key facts on D-day, one of history's most vital military operations",
-    "trail": "How the invasion of France was kept secret, why it's called D-day, and what exactly was the plan.",
+    "headline": "Secrecy and planning behind D-day, one of history's most vital operations",
+    "trail": "How was the invasion of France kept secret, why is it called D-day, and what exactly was the plan?",
     "progress": null,
     "upside": 2
   },
   "/uk-news/2026/nov/08/second-world-war-veterans-outnumber-former-pms-for-possible-last-time-on-remembrance-sunday": {
-    "headline": "King Charles joined by nine former PMs at Remembrance Sunday service",
-    "trail": "Andy Burnham took part for the first time alongside about a dozen second world war veterans, as ceremonies were held across the UK.",
+    "headline": "Andy Burnham marks his first Remembrance Sunday alongside King Charles",
+    "trail": "Nine former prime ministers and about 12 second world war veterans joined the King in London, as ceremonies were held across the UK.",
     "progress": null,
     "upside": 2
   },
@@ -1056,39 +1056,39 @@
     "upside": 2
   },
   "/science/2026/nov/12/european-euclid-mission-reveals-900m-galaxies-secrets-dark-universe": {
-    "headline": "Euclid mission's survey reveals 900m galaxies and clues to the 'dark universe'",
-    "trail": "The unprecedented view of the cosmos from the Euclid mission has thrown up many more cases of gravitational lensing.",
+    "headline": "European astronomers catalogue 900m galaxies in search for the universe's dark secrets",
+    "trail": "The unprecedented view of the cosmos from the Euclid mission has also produced many more cases of gravitational lensing that could possibly point to secrets of the 'dark universe'.",
     "progress": null,
     "upside": 3
   },
   "/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland": {
-    "headline": "Rare wildflowers rescued from Scotland's eroding coast",
-    "trail": "Conservationists relocated 3,400 one-flowered wintergreens, a species that has lost more than half its UK population in the past 50 years.",
-    "progress": "Conservationists have relocated 3,400 plants to save them from the eroding coastline.",
+    "headline": "Conservationists rescue rare wildflowers from Scotland's eroding coast",
+    "trail": "Conservationists have relocated 3,400 one-flowered wintergreens – a species estimated to have lost more than half its UK population in the past 50 years – after the plants were put at risk by coastal erosion.",
+    "progress": "Conservationists relocated all 3,400 plants after they were put at risk by coastal erosion.",
     "upside": 3
   },
   "/technology/2026/nov/12/us-workers-governments-unions-ai": {
-    "headline": "US public workers are winning fights to protect their jobs from AI",
+    "headline": "US public workers win some fights to keep jobs safe from AI",
     "trail": "As governments adopt AI, workers are gaining ground in how it's used and securing safeguards against its harms.",
-    "progress": null,
-    "upside": 3
+    "progress": "Unions are negotiating safeguards and winning some protections as governments adopt AI in public sector jobs.",
+    "upside": 2
   },
   "/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike": {
-    "headline": "NHS consultants suspend planned walkout to allow talks with government",
-    "trail": "Action on 25 and 26 November has been suspended to allow for formal negotiations with the government.",
-    "progress": "The strike has been suspended to allow formal negotiations with the government to proceed.",
+    "headline": "England's consultant doctors stand down two-day strike for pay talks",
+    "trail": "The planned action on 25 and 26 November has been suspended to allow for formal negotiations with the government.",
+    "progress": "Doctors have paused their walkout so formal pay talks with ministers can go ahead.",
     "upside": 3
   },
   "/football/2026/nov/11/barcelona-fc-camp-nou-stadium-memorial-fans-ashes": {
-    "headline": "Barça fans will be able to inter their ashes at club's new memorial",
-    "trail": "The memorial, part of the Camp Nou upgrade, will have 26,000 niches where fans can rest for good.",
+    "headline": "Camp Nou's new memorial lets fans 'hear the goals' in the afterlife",
+    "trail": "The memorial, part of the stadium's upgrade, will have 26,000 niches where Barça fans can deposit their ashes.",
     "progress": null,
-    "upside": 3
+    "upside": 2
   },
   "/uk-news/2026/nov/12/bronze-leg-scottish-bog-roman-occupation-exhibit": {
-    "headline": "Gilded bronze leg found in Scottish bog illuminates Roman occupation",
-    "trail": "Once thought to have been looted by Scottish tribes, the gilded limb is the centrepiece of a new exhibition on Roman Scotland in Edinburgh.",
+    "headline": "Gilded Roman-era leg found in Scottish bog goes on show in Edinburgh",
+    "trail": "Once thought to have been looted by Scottish tribes, the bronze limb is now the centrepiece of a new exhibition on Roman Scotland.",
     "progress": null,
-    "upside": 3
+    "upside": 2
   }
 }
