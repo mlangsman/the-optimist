@@ -1,0 +1,37 @@
+[
+  {
+    "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Once the ultimate symbol of Hollywood rebellion, the look is now being mocked as a midlife crisis cliche.\""
+  },
+  {
+    "path": "/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"cut\"); build it on the upside or score the story honestly and let the front drop it: \"'They've cut all entry-level jobs': Bournemouth's finance sector faces AI shake-up\""
+  },
+  {
+    "path": "/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"risk\"); build it on the upside or score the story honestly and let the front drop it: \"US evacuates aircraft from RAF Mildenhall following reported Iran risk\""
+  },
+  {
+    "path": "/uk-news/2026/nov/10/us-reportedly-evacuated-aircraft-from-raf-mildenhall-over-iran-threat",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"The relocation follows a reported Iran threat, after bombers were earlier withdrawn from RAF Fairford following a suspected security incident.\""
+  },
+  {
+    "path": "/world/2020/mar/09/mod-regulators-drone-safety-warnings",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline has the setback as its subject or object (\"delay\"); build it on the upside or score the story honestly and let the front drop it: \"Documents reveal MoD pressed regulators to delay drone safety warnings\""
+  }
+]
