@@ -1,0 +1,1699 @@
+{
+  "date": "2026-11-15",
+  "engine": "claude-code",
+  "results": [
+    {
+      "id": "a:/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+      "kind": "article",
+      "output": {
+        "headline": "Government points to 290,000 more people diagnosed on time or cleared of cancer",
+        "bodyHtml": "<p>A Department of Health and Social Care spokesperson said cancer waiting times are moving in the right direction, with all three cancer standards better than a year ago and around 290,000 more people diagnosed on time or having cancer ruled out over the past year than in the year before the election.</p> <p>“But we know there is much more to do,” the spokesperson added. “Our national cancer plan will help more people to get diagnosed earlier and begin treatment sooner, giving them the best possible chances of recovery and survival.”</p> <p>Even so, nearly 10,000 more cancer patients in England are on course not to be treated on time, as the government falls short of its treatment target – a shortfall experts attribute to a lack of staff, equipment and leadership.</p> <p>The NHS set an interim target to treat 80% of cancer patients within 62 days of urgent referral or consultant upgrade by March 2027. But with little more than 100 days to go, the proportion of patients starting treatment on time in September was 70.7%, down from 71.9% in August, <a href=\"https://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/\">NHS figures</a> show.</p> <p>Exclusive analysis of official figures for the Guardian reveals the NHS would have to treat 2,850 additional patients on time each month to get back on track, assuming patient volumes remain consistent.</p> <p>According to calculations by Radiotherapy UK, 24,400 cancer patients a month would need to start treatment on time to hit the 80% target in March. But the NHS is only treating about 21,500 cancer patients a month within the 62-day target, leaving a monthly shortfall of 2,850 and a cumulative shortfall of 9,490 patients, the charity found. </p> <p>Prof Pat Price, the chair of Radiotherapy UK and a leading oncologist, said: “The government is going to miss its cancer treatment target because the NHS does not have enough staff or equipment to treat the number of patients coming through its doors. This lack of leadership means thousands more people could die because they don’t get their treatment on time.”</p>  <figure class=\"element element-interactive interactive\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/uploader/embed/2026/11/cancer-zip/giv-32554cLtzHPgDEqVK/\" data-alt=\"A graph showing that NHS England is short of its target of treating 80% of cancer patients within 62 days of urgent referrals or consultant upgrade\"> <a href=\"https://interactive.guim.co.uk/uploader/embed/2026/11/cancer-zip/giv-32554cLtzHPgDEqVK/\">Interactive</a> </figure>  <p>The analysis also found significant disparities between treatment of common cancer types. While more than two-thirds of patients with prostate and breast cancers were treated within two months (70.1% and 68.8% respectively), only 60.9% of those with lung cancer and 60% of those with gynaecological cancers were treated on time. For head and neck cancers, barely half (56.5%) were. Regional inequalities were also stark, the research found. The Midlands had the lowest proportion treated on time, at 66.6%, compared with 77.3% in London.</p> <p>Mark Lawler, a professor of digital health and chair in translational cancer genomics at Queen’s University Belfast, believes failures of accountability and focus are to blame. He said: “The whole system is being held together by goodwill glue alone. Lack of leadership is derailing efforts to improve cancer survival. Unless there is accountability for these failures by the NHS, a radical change in mindset and a focus on the basics, we will miss hitting treatment targets for another decade.”</p> <p>The figures come as analysis of latest cancer diagnosis targets by Cancer Research UK shows that, over the last year, <a href=\"https://assets.ctfassets.net/u7vsjnoopqo5/4JtseRCP4zUHVSzopoja1Y/e44baf8b9cccd8430630b05ea45f8364/Faster_Diagnosis_Standard_performance_by_referral_outcome.pdf\">barely half (55.4%)</a> of patients with cancer were diagnosed within 28 days of an urgent referral, against the faster diagnostic standard <a href=\"https://news.cancerresearchuk.org/2026/10/12/cancer-waiting-times-latest-updates-and-analysis/\">target of 80%</a>, compared with 79.1% of patients who received the all-clear on time.</p> <aside class=\"element element-rich-link element--supporting\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day\">Cancer diagnoses in England hit record high of more than 1,000 people a day</a> </p> </aside>  <p>Naser Turabi, Cancer Research UK’s director of health policy and evidence, said hospital capacity was not able to keep pace with surging demand for cancer diagnosis – with urgent referrals in England up about 20% over the past four years alone. “While recent investment in diagnostic equipment is welcome, we’re not seeing enough progress to cut waiting times for the 6% of people who go on to receive a cancer diagnosis,” he said.</p> <p>Dr Hilary Williams, the Royal College of Physicians clinical vice-president and a consultant in medical oncology, said crucial earlier diagnosis was only beneficial if patients could then be treated quickly.</p> <p>“To close the gap, the NHS needs sufficient capacity across the whole cancer pathway,” Williams said. “That means more diagnostic capacity, including imaging, endoscopy and pathology, alongside the specialist workforce needed to deliver and interpret those tests. It also means enough treatment capacity in surgery, radiotherapy and systemic treatments so that diagnosing people more quickly doesn’t simply move the bottleneck further down the pathway.”</p> <p>Dr Stephen Harden, the president of the Royal College of Radiologists, said “chronic shortages” of clinical radiologists and clinical oncologists, who diagnose, monitor and treat cancer, were “driving dangerous delays” in diagnosing and treating the disease.</p> <p>“Perversely, NHS hiring freezes for these doctors have doubled in the last year, making it even harder to keep patients safe,” Harden said. “Technology and new ways of working can relieve pressure to an extent, but fundamentally, rising demand for cancer care has outpaced workforce capacity. The government must now step in to end recruitment freezes and ensure services have the doctors they need to diagnose and treat patients on time.”</p>",
+        "captions": [],
+        "standfirst": "The government cites 290,000 more people diagnosed on time or cleared of cancer this year, though NHS England is on track to miss its 62-day target by nearly 10,000 patients, which Prof Pat Price says could cost lives.",
+        "progress": "A new national cancer plan aims to help more people get diagnosed earlier and start treatment sooner, the government says.",
+        "upside": 2,
+        "context": {
+          "text": "NHS England's cancer lead said diagnosis was moving in the right direction, with earlier-stage diagnoses rising and record daily caseloads in 2024.",
+          "sourceUrl": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day"
+        }
+      }
+    },
+    {
+      "id": "a:/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
+      "kind": "article",
+      "output": {
+        "headline": "Zelenskyy says Dublin summit brought tangible gains in weapons and energy support",
+        "bodyHtml": "<p>Volodymyr Zelenskyy said recent conversations with European leaders who met in Dublin had brought tangible results for Ukraine, including pledges from Denmark to supply ammunition for F-16 jets – used to shoot down Russian drones – as well as energy support packages for Kyiv and other cities.</p> <p>Zelenskyy has accused SpaceX of not telling the truth over restrictions to Ukraine’s <a href=\"https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained\">Starshield satellite system</a>, saying the decision to impose speed limits appears to be “political” rather than “technical”.</p> <p>Speaking on Friday, Ukraine’s president said the restrictions affecting Ukrainian drones had been in place for five days. They could no longer fly at speeds of more than 161km/h (100mph), he said, with connections at higher speeds lost.</p> <p>As a result, <a href=\"https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails\">incoming jet-powered Russian Shahed drones could no longer be intercepted</a>. Ukraine’s own mid-range strikes against military targets in Russian-occupied territory were also severely affected, he said.</p> <p>Speaking to the Guardian and other journalists at the presidential palace in Kyiv, Zelenskyy said he had asked his military leadership to raise the issue with Elon Musk’s company SpaceX, as well as with the Pentagon and the US state department.</p> <p>There was <a href=\"https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line\">“no clear explanation”</a> as to why Ukraine’s operations were being throttled. He said SpaceX had told Kyiv that there were “no restrictions”. The claim, Zelenskyy suggested, was untrue, <a href=\"https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line\">with problems detected across the “entire frontline”.</a></p>    <p>“There have been discussions with the company at the institutional level. The ministry of defence spoke with SpaceX. They replied: ‘We are not imposing any restrictions.’ They say it is some kind of technical issue. We do not believe that is the case,” Zelenskyy said.</p> <p>He added: “The question is not whether we believe them or not. There may be some further checks. But every day, we test this in different directions. Every day, we get the same confirmation. So these are not isolated cases; they are widespread.”</p> <p>Ukraine suspects the slowdown is a deliberate US tactic, designed to put pressure on Zelenskyy to make concessions to Russia’s president, Vladimir Putin. It follows a similar issue last month and coincided with <a href=\"https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace\">US-brokered talks last week in Abu Dhabi</a> featuring Ukrainian and Russian representatives.</p> <p>The Kremlin insists Ukraine give up the entire eastern Donbas region.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained\">What is Starshield, SpaceX’s military-grade Starlink system, and how will its restriction affect Ukraine?</a> </p> </aside>  <p>But Zelenskyy categorically ruled out giving away further land to Russian “terrorists”. He also revealed that US negotiators, Donald Trump’s son-in-law Jared Kushner and real estate developer Steve Witkoff, had asked if Ukraine was willing to give up the Donbas in exchange for membership of Nato, or Nato-like security guarantees.</p> <p>Details of the proposal were vague, Zelenskyy said. They did not appear to involve US peacekeeping troops on the ground, he added. He said the war could only end with a ceasefire agreement, alongside meaningful security guarantees, underwritten by western partners.</p> <p>Zelenskyy also dismissed an offer by Putin for a “<a href=\"https://kyivindependent.com/witkoff-kushner-arrive-in-moscow-following-ukraine-peace-talks/\">humanitarian mission” in the eastern city of Kostiantynivka</a> as a ploy. Russia has called for a five-day ceasefire, modelled on a truce last month in the Russian-occupied town of Oleshky, from where civilians were evacuated.</p> <p>“It’s an absolutely primitive move. Putin simply wants us to leave Kostiantynivka so that they can move in and occupy the entire city that way,” Zelenskyy said. He said civilians had already fled the area as fierce street-by-street fighting continued, with huge Russian losses.</p> <p>Zelenskyy said he had proposed repeating the Oleshky truce in nearby Russian-occupied villages and towns in southern Ukraine, along the Dnipro River. Putin rejected this. His true goal was to swallow up Kostiantynivka and the Ukrainian garrison cities of Sloviansk and Kramatorsk, Zelenskyy said.</p> <p>He also called Russian attempts to discuss Europe’s security architecture – a topic raised last week by the Trump administration – “concerning”. The Kremlin has called for Nato to return to its pre-1997 configuration, before eastern European countries including the Baltic states joined the alliance.</p> <p>Putin first made this demand in 2021, in the run-up to his full-scale Ukraine invasion. Its revival after nearly five years of full-scale war, Zelenskyy said, was an alarming signal, indicative of imperial thinking. “Putin’s desire to change borders in Europe is a fact,” Zelenskyy said, stressing: “We cannot turn everything upside down.”</p> <p>Russia was “betting everything” on its winter campaign, he added. In recent months Moscow has escalated its attacks on Ukrainian cities, in an attempt to make civilians capitulate. The US Congress could pressure Putin to de-escalate by passing laws on sanctions and giving Ukraine weapons, Zelenskyy said.</p> <p>On Saturday night Kushner said ​the US ‌is ‌focused on ‌facilitating direct engagement between Russia and ‌European nations on ​the Ukraine war, ⁠after meetings ​involving Washington, ​Moscow ​and ​Kyiv ‌this ​week.</p>",
+        "captions": [],
+        "standfirst": "Denmark pledged ammunition and energy support after Dublin talks, Zelenskyy said, as he accused SpaceX of lying about Starshield limits hampering Ukraine's drone defences and rejected a US land-for-Nato proposal.",
+        "progress": "Denmark has pledged ammunition for F-16 jets and energy support for Ukrainian cities after talks with European leaders in Dublin.",
+        "upside": 1,
+        "context": {
+          "text": "A similar Starshield slowdown in October, during tensions over strikes on Russian oil refineries, was resolved when SpaceX restored full service on 24 October.",
+          "sourceUrl": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line"
+        }
+      }
+    },
+    {
+      "id": "a:/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "kind": "article",
+      "output": {
+        "headline": "Mia Latter's courage puts the age of consent back in the spotlight",
+        "bodyHtml": "<p>The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a 16-year-old schoolgirl.</p> <p>Mia Latter, now 37, alleged she had been orally raped by the jailed comedian when she was a teenager and he was 30 years old.</p> <p>In an interview with the Sunday Times, she called for the introduction of a staggered age of consent – which would make relationships between adults and teenagers aged 16 and 17 illegal.</p> <p>Louise Haigh, the de facto deputy prime minister, told the newspaper that Latter’s “heart-breaking story” meant a law change deserved consideration.</p> <p>She said: “We need to listen to Mia and other victims like her who have been through these experiences because it’s really important that as lawmakers their experience is at the heart of what we consider.</p> <p>“It clearly would be a massive step to change the age of consent, but it deserves proper consideration and scrutiny. I can absolutely understand why she is calling for it.”</p> <p>Under UK law, adults of any age are legally able to have sex with 16 and 17-year-olds.</p> <p>Latter said: “It’s shocking to me time and time again that whenever the news comes up again about him, it’s always in the comments about the relationship with a 16-year-old.</p> <p>“That’s not the most heinous bit. But why is that the thing that everybody collectively gets stuck on? I think we all sort of agree that … adults shouldn’t be allowed to have sexual relationships with children, with somebody under the age of 18. That really doesn’t seem like a gigantic leap to take.”</p> <p>Latter was referred to under the pseudonym of Alice in previous reporting by the Sunday Times, the Times, and Channel 4’s Dispatches documentary.</p> <p>She was 16 when she first met Brand in Leicester Square, central London, while she was on her way home from a shopping trip.</p> <p>He took her number and later messaged her, asking if she wanted to go for dinner, she said.</p> <p>She told the newspaper that Brand – who was working at MTV at the time – still asked her to meet after she had confessed her age to him.</p> <p>Latter alleges Brand orally raped her towards the end of their three-month relationship.</p> <p>Brand denied all of the allegations made against him by Latter when they were first reported in 2023 by the Times.</p> <p>She spoke to the police after the documentary, but the Crown Prosecution Service (CPS) decided not to include her case in Brand’s trial at Southwark Crown Court.</p> <p>He was convicted of attacks against four of the six women who gave evidence against him, and is <a href=\"https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault\">now serving a 10-and-a-half-year prison term</a> for one count of rape and three sexual assaults.</p> <p>Earlier this week, it was announced that a series of “serious” sex offence allegations against comedian David Walliams are being probed by the Metropolitan police after an investigation by the Guardian and ITV News.</p> <p>One woman described her alleged encounter with Walliams when she was 15 as “sexual assault”.</p> <p>Walliams denies any wrongdoing.</p> <p>Haigh went on to say that, in light of news that one of Walliams’s accusers was asked to sign a non disclosure agreement (NDA), the government should also look at banning them in cases of alleged sexual assault and harassment. She said: “When we consider the allegations against David Walliams, teenagers who were fans wouldn’t come under the current consultation.</p> <p>“I do think there is a very strong case to look at banning NDAs in all circumstances where they relate to harassment or discrimination, to make sure that no victim, regardless of where it happened or what their relationship was with the perpetrator, should ever be silenced.”</p> <p>It is believed MPs outside Labour may support a bill to change the age of consent laws, with Jess Brown-Fuller, the Liberal Democrat justice spokesperson, coming out in favour of reviewing them.</p> <p>Commending Latter for the “extraordinary bravery” it took to waive her anonymity, Brown-Fuller said: “I think we must go further to increase protections for young women and girls, and looking at a staggered age of consent is an important step.</p> <p>“We already have rules that recognise power imbalances in professions: between teachers and students, or barristers and junior colleagues. It’s time for the government to recognise the implicit power imbalance held by older men over teenage girls.”</p> <p>Latter’s decision to come forward was also praised by Bridget Phillipson, the minister for women and equalities, who said she “and thousands of others across the country will be in awe of her courage and determination”. She added that it is “up to all of us to send a message to women and girls who experience sexual violence: the shame is not yours. Women like Mia are leading the charge, but we can and must do more to make this a moment of change.”</p> <p>Latter’s allegation was reported to the Met police, who said the investigation into the alleged rape remains ongoing.</p> <p>A Met Police spokesperson said: “Officers launched an investigation in January 2026 after receiving an allegation of rape.</p> <p>“Detectives sought advice from the Crown Prosecution Service to determine how best to proceed, and officers were advised that further information was needed before a charging decision could be made.</p> <p>“This investigation remains ongoing. We understand the delay has been distressing for this victim-survivor. However, our focus has been on putting forward the best possible evidence.”</p> <p>The CPS said: “The Crown Prosecution Service will continue to work closely with investigators to provide advice and make sure cases progress as quickly as possible.”</p>",
+        "captions": [],
+        "standfirst": "Latter, now 37, waived anonymity to allege Russell Brand raped her at 16; the deputy prime minister says a staggered age of consent 'deserves proper consideration', and Brand is already serving over 10 years for other convictions.",
+        "progress": "The deputy prime minister says Mia Latter's 'heart-breaking story' means a staggered age of consent deserves consideration, and is weighing a ban on NDAs in abuse cases.",
+        "upside": 1,
+        "context": {
+          "text": "The fallout from Brand's conviction led the government to pledge an examination of 'rape myths' in criminal trials.",
+          "sourceUrl": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women"
+        }
+      }
+    },
+    {
+      "id": "a:/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "kind": "article",
+      "output": {
+        "headline": "Trade, tech and nuclear talks headline a week of Asian summitry",
+        "bodyHtml": "<p>The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US.</p> <p>Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">lost midterm elections</a>.</p> <p>The summit also comes after an awkward-at-best <a href=\"https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy\">revelation</a> that the head of Nvidia, the US chipmaker that for a long time was the world’s most valuable company, was having an affair with <a href=\"https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo\">a woman US intelligence suspects was a Chinese spy</a>.</p> <p>Apec represents more than 60% of global GDP and has primarily promoted free trade and multilateralism. This year’s meeting could be defined, however, by the<strong> </strong>confirmed trilateral meeting between Trump, the Chinese president, Xi Jinping, and Vladimir Putin of Russia.</p> <p>The three-way meeting has been likened to a modern-day Yalta, when in 1945 then US president, Franklin D Roosevelt, Britain’s Winston Churchill and the Soviet leader Joseph Stalin met in Crimea to carve up Europe after the second world war. However, analysts say a “Yalta 2.0” that issues edicts on Ukraine and Taiwan without their involvement is unlikely.</p>    <p>Xiaoyu Pu, an associate professor at the University of Nevada’s department of political science, said a three-way meeting “might be more symbolic than substantive, although symbolism itself matters in great-power diplomacy.</p> <p>“Trump appears interested in nuclear arms control and denuclearisation. Xi’s priority is likely to maintain a stable relationship with Washington while preserving China’s strategic partnership with Russia. Putin, meanwhile, wants to maintain his bargaining leverage over Ukraine.”</p> <p>Apec begins on Wednesday and follows a flurry of other diplomatic gatherings, chief among them the Association of Southeast Asian Nations (Asean) meeting in the Philippines, starting on Sunday, which Trump will attend.</p>    <p>While he is in Manila, US officials will hold a sidelines meeting of the <a href=\"https://www.theguardian.com/world/2022/may/24/what-is-the-quad-and-how-did-it-come-about\">so-called Quad</a> – Australia, India, Japan and the US. In addition, a Francophone summit, which includes the Canadian prime minister, Mark Carney, and the French president, Emmanuel Macron, is happening concurrently in Cambodia.</p> <p>Critical global issues at all these summits will include AI supply chains and governance, tariff reductions and the green energy transition. Trump’s focus has been on denuclearisation. A key regional focus will be on the South China Sea, where Beijing has built massive military outposts in disputed waters, as well as the gigantic Indonesian forest fire haze blanketing the region.</p> <p>The humanitarian and security crisis in Myanmar has become a perennial issue, as is status of Taiwan, which China does not recognise. The self-ruled island is sending the founder of the tech hardware company Acer as its envoy to Apec.</p>    <h2>Global pivots towards Asia</h2> <p>For well over a decade, Washington’s engagement in the region has been coloured by concern over the rise of China, with the then president Barack Obama <a href=\"https://obamawhitehouse.archives.gov/the-press-office/2011/11/17/remarks-president-obama-australian-parliament\">telling</a> Australia’s parliament in 2011 that the US was “a Pacific power, and we are here to stay” – a policy known as the “pivot to Asia”.</p> <p>The strategy of intense diplomacy and trade deals was adopted by Joe Biden, who hoped to gather allies on the continent who wanted to balance their relationships with both superpowers.</p> <p>Some analysts see Trump’s transactional style in Asia as a continuation of the pivot policy. Still, the president’s volatility and unpredictability have spooked smaller nations, who regard China as a more predictable partner.</p> <p>Jayant Menon, an economist at Singapore’s Iseas-Yusof Ishak Institute, said that countries in south-east Asia had been “laying the groundwork for a future with reduced dependence on the United States” by seeking deals elsewhere, including with each other and the EU.</p> <p>“Amid persistent uncertainty and an administration determined to levy tariffs by any legal means, south-east Asia’s ability to ride out another round of tariffs depends on deeper regional integration and diversification beyond the US market,” <a href=\"https://eastasiaforum.org/2026/11/09/southeast-asia-rides-out-the-return-of-trumps-tariffs/\">he wrote</a> this month in the East Asia Forum.</p>    <p>Beijing’s more predictable policies do not necessarily make it any more palatable for its regional neighbours, however, and the Chinese premier, Li Qiang, could have tough talks when he goes to Manila for the Asean summit, especially on the South China Sea.</p> <p>China’s top diplomat, Wang Yi, recently urged Manila to rein in Filipino politicians who he said had repeatedly “smeared” Beijing, after public outcries in the country over the disputed waters.</p> <p>Brunei, China, Malaysia, the Philippines, Taiwan and Vietnam have been locked in decades-long territorial standoffs in the busy waterway, which could sit on deposits of oil and gas<em>. </em>Washington has sent military ships on “freedom of navigation operations,” despite Chinese outcries, although US-linked crises in Iran, Ukraine, Venezuela, and Palestine and Israel have sucked up Washington’s focus under Trump’s second term.</p> <p>A decades-long attempt to sign a South China Sea pact is not expected to happen at this year’s Asean summit, as previously hoped. Despite monthly meetings, negotiations will have to continue next year, when Asean’s leadership rotates to Singapore<em>.</em></p> <p>Diplomats at the Asean summit will also be focusing on Myanmar, which is <a href=\"https://www.theguardian.com/commentisfree/2026/oct/18/myanmar-donald-trump-dictator-rare-earths-china\">seeking reintegration</a>. Each country in the group is assessing how to deal with their isolated neighbour. The timing of summits this week coincides with a judgment in the international court of justice on Thursday that could find Myanmar responsible for genocide. The coup leader, Min Aung Hlaing, remains barred from Asean but is allowed to send a representative.</p> <p>Asia’s week of diplomacy will be followed next month by the G20 summit in Miami, Florida, which Xi is expected to attend if US and Chinese relations continue to hold steady.</p> <p><em>Additional research by Yu-chen Li</em></p>",
+        "captions": [],
+        "standfirst": "World leaders meet in China, the Philippines and Cambodia this week for Apec, Asean and Quad summits, including a rare trilateral between Trump, Xi and Putin, amid a tussle for influence between Beijing and Washington.",
+        "progress": "World leaders are using this week's Apec, Asean and Quad summits to pursue trade deals, denuclearisation talks and Myanmar's return to the regional fold.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "kind": "article",
+      "output": {
+        "headline": "Jonathan Kreiss-Tomkins becomes Alaska's first Democratic governor in nearly 30 years",
+        "bodyHtml": "<p><a href=\"https://www.theguardian.com/us-news/democrats\">Democrats</a> have captured <a href=\"https://www.theguardian.com/us-news/alaska\">Alaska</a>’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that has dramatically shifted political power across the US.</p> <p>Former Alaska state legislator Jonathan Kreiss-Tomkins defeated three Republican opponents, including a candidate backed by <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>, becoming the first Democrat <a href=\"https://www.theguardian.com/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins\">elected governor of Alaska</a> since 1998.</p> <p>His victory – called by the Associated Press on Friday, 10 days after the polls closed – adds to a growing list of Democratic gains nationwide, bringing the party’s total to 30 US governorships. Democrats have also taken control of governor’s offices in several other longtime Republican strongholds, including Iowa, Georgia, Ohio and Texas.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference\">‘We must deliver’: jubilant Democrats gather in Denver to chart way forward</a> </p> </aside>  <p>Kreiss-Tomkins, widely known as JKT, secured the win having mounted a political comeback three years after departing the Alaska house of representatives.</p> <p>The 37-year-old traveled extensively throughout the state during his campaign, building support around economic concerns and a promise to change the direction of Alaska’s government.</p> <p>His platform centered on tackling affordability, ensuring full funding for public education, and requiring all oil and gas producers to pay corporate income taxes. He also pushed for a temporary halt to new datacenter developments until state lawmakers establish regulations governing their construction.</p> <p>Throughout the campaign, Kreiss-Tomkins sharply criticized the leadership of outgoing the Republican governor, Mike Dunleavy, arguing that Alaska had become “broken” during his eight years in office.</p> <p>“Alaskans are hungry for change,” Kreiss-Tomkins said. “We’ve been running the same campaign since we launched in February, and I don’t take anyone’s vote for granted.”</p> <p>Among his criticisms was the deterioration of the state’s ferry system, which Kreiss-Tomkins said had been left in disarray as service to numerous communities was drastically reduced. The ferry network serves as a critical transportation link for communities in south-east Alaska that lack road connections, including some with limited access to air travel.</p> <p>Despite his criticism of the outgoing administration, Kreiss-Tomkins presented himself as a leader willing to work across political divisions. He pledged to assemble a cabinet that includes Democrats, Republicans and independents.</p> <p>Unlike most states, Alaska allows voters to rank candidates by preference through ranked-choice voting – a system that also permits multiple candidates from the same political party to run against one another.</p> <p>But Kreiss-Tomkins avoided the need for additional rounds of vote counting after winning more than 50% of first-choice votes, securing an outright victory.</p> <p>The Alaska result comes just days after Democrats scored another major gubernatorial win in staunchly conservative Kansas, where the Democratic state senator Cindy Holscher narrowly defeated the Republican state senate president, Ty Masterson.</p> <p>Masterson, who received Trump’s endorsement, faced a campaign in which Holscher repeatedly highlighted his ties to the Republican president. At the same time, Holscher maintained that she would remain willing to cooperate with the Trump administration on issues where common ground could be found.</p> <p>The back-to-back victories in Alaska and Kansas underscore the scale of Democratic gains in what has become a nationwide electoral shift.</p> <p>The party’s long-anticipated “blue wave” has <a href=\"https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections\">now materialized</a>, with Democrats flipping eight seats in the US Senate, gaining more than two dozen seats in the House and significantly expanding their control of governors’ offices after the 3 November midterms.</p> <p>Such gains have handed Democrats a strong majority in Congress for the latter half of Trump’s second presidency, delivering a major shift in the balance of power in Washington and state governments across the US.</p> <p>Meanwhile, with few ballots left to count for Alaska’s midterm US Senate election, Democrat Mary Peltola on Saturday was leading Republican incumbent Dan S Sullivan, Alaska Public Media <a href=\"https://alaskapublic.org/news/politics/elections/2026-11-13/peltola-leads-in-u-s-senate-race-nearing-50-mark-with-almost-all-ballots-counted\">reported</a>. That had prompted MS Now to characterize that Senate race as “leans Democratic”.</p> <p>Beside Alaska and Kansas, the Democratic party won gubernatorial elections over Republicans in Georgia, Iowa, Nevada, Ohio and Texas, putting them in control of a majority of governorships for the first time since 2010. Gina Hinojosa is the first Democrat to be elected governor of Texas in 35 years – and also the state’s first Hispanic governor.</p> <p>A major factor in the GOP’s midterm defeat is the unpopularity of Trump, whom most Republican lawmakers clung to even as polls indicated voters did not support his immigration crackdown, tariffs, the war with Iran or his signature domestic policy bill.</p>",
+        "captions": [],
+        "standfirst": "The former state legislator defeated three Republican rivals, including one backed by Donald Trump, winning outright under ranked-choice voting as Democrats also flipped governorships in Georgia, Iowa, Kansas, Nevada, Ohio and Texas.",
+        "progress": "Kreiss-Tomkins has pledged a bipartisan cabinet and campaigned on full school funding, oil and gas taxes, and a pause on new datacentres.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "a:/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+      "kind": "article",
+      "output": {
+        "headline": "Detectives appeal for witnesses after elderly woman set alight in Watford",
+        "bodyHtml": "<p>Hertfordshire constabulary have said a 33-year-old man was arrested on suspicion of conspiracy to commit arson with intent to endanger life but has been released on bail with strict conditions.</p> <p>The family of an elderly woman who was set on fire outside a block of flats in Watford have said they are “desperate for answers”.</p> <p>Brenda Raymond, 80, was found set alight outside her flat on Caractacus Cottage View on Monday. She was taken to a nearby hospital, where she is in critical condition.</p> <p>Raymond’s family said the attack had left them in “complete shock” and that they were confused over why she was targeted.</p> <p>In a statement issued via Hertfordshire constabulary, they said: “Words cannot describe how distressing the past few days have been for us as a family.</p> <p>“Our beautiful, chatty, fun-loving and much-loved Brenda, who loves to keep fit and dancing, has suffered catastrophic injuries in the most devastating of circumstances; circumstances which have left us all in complete shock.</p> <p>“We simply cannot understand why anyone would have wanted to hurt her in this way. Someone out there knows something. They know what happened to Brenda. We are desperate for answers and are pleading for anyone with information to please come forward.”</p> <p>The family also asked for their privacy to be respected during this “unimaginably difficult time”.</p> <p>Police believe that Raymond was attacked as she returned home at around noon, with her attackers pouring some kind of flammable liquid on her before setting her alight. Detectives said that an accelerant was also poured through the letterbox of a nearby flat, but they have not officially linked the two events.</p> <p>The decision to publicly name Raymond was made by police with the blessing of her family on Wednesday in the hope it would lead to anyone with knowledge of the attack coming forward.</p> <p>DI Adam Bridges, from the major crime unit, said: “This was an appalling and deeply distressing attack on an elderly woman who suffered horrific injuries after being set alight outside her own home.</p> <p>“Our thoughts very much remain with Brenda and her family as we continue to do everything we can to find out what happened and who is responsible.</p> <p>“Her family are understandably distraught and have taken the step of releasing her name and photograph to help jog people’s memories around this distressing and highly unusual incident.</p> <p>“Someone out there knows something. You may have witnessed suspicious activity, heard a conversation, noticed unusual behaviour, or captured something on CCTV or dashcam footage without realising its significance.</p> <p>“Please do not assume that what you know is too small or unimportant to tell us about. It could be a seemingly insignificant piece of information that provides investigators with the breakthrough they need.</p> <p>“If you know anything about what happened to Brenda or think you may have information that could assist our inquiries, please come forward. Your information could be crucial in helping us find answers and bring those responsible to justice.”</p>",
+        "captions": [],
+        "standfirst": "Hertfordshire police, who have arrested and bailed a 33-year-old man, are appealing for witnesses after Brenda Raymond, 80, was set alight outside her Watford flat on Monday and remains in critical condition.",
+        "progress": "Hertfordshire police have arrested one man on bail and are appealing publicly for witnesses to help catch those responsible.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+      "kind": "article",
+      "output": {
+        "headline": "UKHSA steps up advice to protect vulnerable people as temperatures swing this week",
+        "bodyHtml": "<p>More cold health alerts have been issued for parts of the UK on Sunday night and next week.</p> <p>The alerts were issued by the UK Health Security Agency (UKHSA) for the north-west, West Midlands and Yorkshire and the Humber, and will be in place from 9pm on Sunday until 9am on Thursday.</p> <p>These alerts mean the weather is “likely to have minor impacts on health and social care services”, including an increased use of healthcare services and a greater risk to life for vulnerable people, the agency said. The warning came after forecasters predicted the UK was in for a milder weekend, before another cold snap arrives on Monday.</p> <p>Paul Coleman, a consultant in public health at the UKHSA, said: “This is the latest cold health alert of the season and we can expect more as we move further into winter.</p> <p>“Cold weather can have a serious impact on the health of some people, including those aged 65 and over and those with pre-existing health conditions, so it is vital to check in on friends, family and neighbours who are most vulnerable.”</p> <p>Coleman advised people to heat the rooms they use most and wear warm clothes.</p>    <p>The Met Office said that on Saturday night, central and easterly parts of England should remain dry with clear spells and a touch of frost, though cloudier conditions are forecast elsewhere as well as some showery rain.</p> <p>On Sunday, temperatures are expected to not fall below freezing in the morning, with sunshine forecast in the east and across the far north and west as the day progresses.</p> <p>Conditions are otherwise expected to be fairly bleak with plenty of grey skies, cold breezes and outbreaks of rain, some heavy, and potential hill snow in the north.</p>    <p>On Monday, colder weather is expected to return. Sunny skies will appear in patches across the UK, while cold showers are forecast to rain down in the north of the UK. Light snow is also expected in hilly areas in the north.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas\">Air pollution soars as fog traps emissions in England’s urban areas</a> </p> </aside>  <p>Ethan Douglas, operational meteorologist at the Met Office, told the Press Association: “On Sunday night and Monday morning, there is the potential for some disruptive ice (given the preceding rain and cold night) and snow.</p> <p>“The snow risk will be constrained to Scottish hills, bringing difficult driving conditions there. The ice risk may be present more widely across the north of the UK, causing extended journey times and potentially hazardous travelling conditions.”</p> <p>The brighter weather will continue throughout the week, though people should expect declining temperatures, the Met Office said.</p> <p>On Friday night, temperatures plunged as low as -6.6C in Sennybridge, near Brecon in south Wales, and -6.5C in Shap, a village near Penrith in Cumbria.</p> <p>The first yellow cold health alerts of the season were issued earlier this week by the UKHSA for the West Midlands and the north-west, and remained in place until noon on Saturday.</p>",
+        "captions": [],
+        "standfirst": "The UKHSA has issued fresh cold health alerts for the north-west, West Midlands and Yorkshire, in place from Sunday night until Thursday, urging extra care for over-65s and people with health conditions.",
+        "progress": "UKHSA advises heating the rooms used most, wearing warm clothes and checking on vulnerable friends, family and neighbours.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/science/2026/nov/14/spacex-starship-double-catch",
+      "kind": "article",
+      "output": {
+        "headline": "SpaceX catches Starship's upper stage for the first time, in step toward moon missions",
+        "bodyHtml": "<p>SpaceX’s megarocket Starship <a href=\"https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit\">returned</a> to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight.</p> <p>The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times.</p> <p>Starship’s 15th test flight was envisioned as a historic double-catch mission, where all parts of the rocket would be returned intact to the launch site, rather than recovered from the ocean as with some previous test flights.</p> <p>The hulking spacecraft is composed of two parts: a lower booster stage called Super Heavy, whose Raptor engines powered the orbital ascent, and an upper stage also called Starship.</p> <p>Those double-catch ambitions were dashed<strong> </strong>on Friday, when the booster diverted a few minutes after takeoff and exploded in the Gulf of Mexico.</p> <p>The guidance, navigation and control (GNC) system triggered the no-go.</p> <p>“It was doing what it was supposed to do. Basically, it detected that the booster was not in the place it was supposed to be to proceed with a catch,” SpaceX spokesperson Dan Huot said <a href=\"https://x.com/SpaceX/status/2121629656868614213\">early</a> on Saturday. The booster was also “slightly low on fuel”, <a href=\"https://x.com/elonmusk/status/2121630197611208994\">according</a> to SpaceX chief executive Elon Musk.</p> <p>This week’s test flight was still a victory for SpaceX, marking the first time that the company caught its upper stage.</p> <p>It was also only the second time Starship has entered Earth’s orbit.</p> <p>The feat comes as the 2028 date nears for Nasa’s plan to return humans to the lunar surface. The agency has contracted SpaceX and Jeff Bezos’s Blue Origin for the mission.</p> <p>“Making more believers by the day,” <a href=\"https://x.com/NASAAdmin/status/2121715782350504106\">wrote</a> Nasa administrator Jared Isaacman on X, praising the 15th flight. “One step closer to [the moon].” Isaacman is an ally of Musk, who advised Donald Trump to appoint him to lead Nasa.</p> <p>SpaceX has plans to ramp up its Starship test flights to a weekly, then twice-weekly cadence, Musk said on a <a href=\"https://www.orlandosentinel.com/2026/10/22/with-florida-launch-sites-online-musk-expects-weekly-starship-launches-next-year/\">recent</a> earnings call. He has sought to make Starship rapidly reusable so that it can land and take off much like standard airplanes. Musk has touted the rocket’s reusability as a way to reel in the enormous costs of space travel.</p> <p>Beyond another Moon landing, Musk has also pushed a plan of carrying humans to Mars.</p> <p>Starship’s advances have also aided the expansion of Musk’s satellite internet empire. The spacecraft deployed 26 Starlink V3 satellites during this recent flight.</p>",
+        "captions": [],
+        "standfirst": "The booster exploded over the Gulf of Mexico when its guidance system aborted the catch, but Starship's upper stage returned intact to the Texas tower for the first time, boosting Nasa's 2028 moon plans.",
+        "progress": "Nasa's administrator hailed the flight as a step closer to its 2028 plan to return astronauts to the moon.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
+      "kind": "preview",
+      "output": {
+        "headline": "Leadership failures will leave almost 10,000 cancer patients untreated on time, experts say",
+        "trail": "2,850 more patients a month would need to be treated within 62 days to meet the March 2027 goal, with experts pointing to a failure of leadership.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
+      "kind": "preview",
+      "output": {
+        "headline": "US proposes Donbas-for-Nato deal as Zelenskyy raises Starshield concerns",
+        "trail": "Ukraine's president accuses SpaceX of being dishonest about throttling Elon Musk's military-grade satellite system, which he says is affecting the whole frontline.",
+        "progress": "US officials have floated a Donbas-for-Nato deal as a potential path to a security arrangement for Ukraine.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "kind": "preview",
+      "output": {
+        "headline": "Deputy prime minister says age of consent change deserves serious consideration",
+        "trail": "The deputy prime minister says any change would be a massive step but 'deserves proper consideration and scrutiny', as the government considers changing the age of consent following allegations against Russell Brand.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "kind": "preview",
+      "output": {
+        "headline": "Leaders converge on Asia for talks on trade, tech and security",
+        "trail": "Trade, tech and regional security take centre stage as world leaders meet in China, the Philippines and Cambodia, in what is also a tussle for influence.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "kind": "preview",
+      "output": {
+        "headline": "Kreiss-Tomkins becomes first Democrat to win Alaska governorship in nearly 30 years",
+        "trail": "His win takes Democrats to 30 US governorships nationwide after a midterm blowout.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+      "kind": "preview",
+      "output": {
+        "headline": "Police appeal for information after Watford woman set alight",
+        "trail": "Brenda Raymond, 80, was set on fire outside her flat on Monday; her family say they are desperate for answers.",
+        "progress": "Police have launched an appeal for information to help find who attacked Brenda Raymond.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+      "kind": "preview",
+      "output": {
+        "headline": "Cold weather alerts aim to protect vulnerable people this weekend",
+        "trail": "Frosty conditions are expected to continue until Thursday, and the agency is urging people to look out for vulnerable neighbours.",
+        "progress": "UKHSA has issued alerts to help protect vulnerable people through the cold spell.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/14/spacex-starship-double-catch",
+      "kind": "preview",
+      "output": {
+        "headline": "SpaceX catches Starship upper stage for first time in reuse push",
+        "trail": "The booster exploded, but the company caught the upper stage after it returned to the launch pad from orbit — a step towards making the megarocket reusable.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer",
+      "kind": "preview",
+      "output": {
+        "headline": "Honey review – a stylish spy caper with real bite",
+        "trail": "This Killing Eve prequel, set in 1980s East Berlin, follows a young spy's rise with sharp humour and style.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/media/2026/nov/14/small-businesses-fighting-back-influencers-behaving-badly",
+      "kind": "preview",
+      "output": {
+        "headline": "Small business owners call out 'entitled' influencers demanding free stuff",
+        "trail": "Entrepreneurs are now calling out content creators over diva-like behaviour and freebie requests that never result in a review, a growing blight on small-business owners.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/14/king-athelstan-england-1100-anniversary-2027",
+      "kind": "preview",
+      "output": {
+        "headline": "King Æthelstan founded England in 927 – let's finally celebrate the anniversary",
+        "trail": "The nation's first king drove out the 'heathen' Vikings, declared war on starvation and made 'Englalonde' what it is today, says journalist and author Tom Holland.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+      "kind": "preview",
+      "output": {
+        "headline": "Sustainable design shows its beauty in five standout eco buildings",
+        "trail": "These five projects, from a bamboo gym in Bali to a house made from earth in Wiltshire, reveal the beauty of sustainable design, and why it's an architect's dream.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/14/young-people-shut-out-of-work-ai",
+      "kind": "preview",
+      "output": {
+        "headline": "Four young people describe their search for work in a tough job market",
+        "trail": "In the first of a new series, these four young people describe feeling shut out of careers and say the social contract feels broken.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+      "kind": "preview",
+      "output": {
+        "headline": "Fires, deadly heat and floods mark 2026's year of extreme weather",
+        "trail": "People around the world have faced extreme weather and its fatal effects this year, driven by the climate crisis.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+      "kind": "preview",
+      "output": {
+        "headline": "Midterm results curb Trump's power as presidency enters final stretch",
+        "trail": "Critics worry about the president's next move in what's described as his 'fat Elvis' stage, after the midterms left him with less room to manoeuvre.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/14/two-courtrooms-one-celebrity-russell-brand-case-compare-rape-trial-next-door",
+      "kind": "preview",
+      "output": {
+        "headline": "Unequal scrutiny: how the Russell Brand trial compared with the rape case next door",
+        "trail": "One case involved a high-profile defendant watched by more than 100 journalists; the other, a rape trial for an unknown man who preyed on a girl almost half his age, played out of the spotlight.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/ng-interactive/2026/nov/15/forgotten-australians-trauma-childrens-homes-orphanages-ntwnfb",
+      "kind": "preview",
+      "output": {
+        "headline": "More than half a million 'Forgotten Australians' still searching for who they are",
+        "trail": "'I'm still trying to find out who I am,' says one of more than half a million Forgotten Australians whose ongoing trauma from time in orphanages and institutions remains poorly known.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/15/epidemic-of-lonely-women-female-male-loneliness",
+      "kind": "preview",
+      "output": {
+        "headline": "Research shows women are just as lonely as men, despite far less attention",
+        "trail": "The world has grown used to hearing about the male loneliness epidemic, but research suggests women are just as affected, even though their experience goes largely unheard.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
+      "kind": "preview",
+      "output": {
+        "headline": "James Blunt on Ibiza, odd romantic gestures and his reluctant Traitors stint",
+        "trail": "The singer talks about his love for Ibiza, the oddest thing he's done for romance, and being signed up for Celebrity Traitors against his will.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer",
+      "kind": "preview",
+      "output": {
+        "headline": "Our critics review this week's new UK cinema releases",
+        "trail": "From Cynthia Erivo's bravura barrister to Johnny Depp's surprisingly good Scrooge, here's a quick glance at this week's new films.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/13/rugby-league-world-cup-finals-atp-and-wta-tennis-plus-wsl-follow-with-us",
+      "kind": "preview",
+      "output": {
+        "headline": "Follow live: Rugby League World Cup finals, tennis and WSL action",
+        "trail": "Here's how to follow along with our coverage — the finest writing and up-to-the-minute reports.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+      "kind": "preview",
+      "output": {
+        "headline": "Australia v England: second men's cricket ODI - live",
+        "trail": "Australia aim to build on their dominant start to the series in the second one-day international against England in Adelaide.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/14/england-japan-nations-championship-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Will Joseph equals try-scoring record as England demolish Japan 78-15",
+        "trail": "Steve Borthwick's side scored 13 tries in a scintillating display, beating Japan 78-15 after the visitors had a man sent off in the first minute.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+      "kind": "preview",
+      "output": {
+        "headline": "Declan Rice returns stronger as England prepare to face Spain",
+        "trail": "Rice says he needed time out after a gruelling season and an average World Cup, but is now ready to hit his best level.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/14/wales-dewi-lake-new-zealand-victory-amazing-feeling-historic-win",
+      "kind": "preview",
+      "output": {
+        "headline": "Dewi Lake hails Wales's historic win over New Zealand as 'amazing'",
+        "trail": "Wales's captain said the win was deserved for the group's hard work, while the All Blacks' Beauden Barrett praised their defence as 'a brick wall'.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+      "kind": "preview",
+      "output": {
+        "headline": "Manchester United finally land Pochettino – but should never have waited this long",
+        "trail": "Mauricio Pochettino's arrival feels, in the writer's view, like yet another Manchester United appointment that would have been better made a few years ago.",
+        "progress": "Manchester United have appointed Mauricio Pochettino as their new head coach.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
+      "kind": "preview",
+      "output": {
+        "headline": "Andreeva reaches WTA Finals showpiece to face Svitolina",
+        "trail": "The Russian teenager will meet the Ukrainian star in the final, after Aryna Sabalenka issued a public apology following a social media storm.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/14/chelsea-manchester-city-womens-super-league-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Chelsea go top of WSL as Sandy Baltimore seals win over City",
+        "trail": "Baltimore scored just before half-time, and Manchester City's goalkeeper was sent off with 15 minutes left, as Chelsea won 1-0.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "kind": "preview",
+      "output": {
+        "headline": "UK households expected to pick up the tab for a rapid interest rate rise",
+        "trail": "A rapid interest rate rise now seems inevitable, and raising borrowing costs too far risks laying waste to whatever growth there is in the economy.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/14/stars-russell-brand-darkness-celebrity-interviews-fame",
+      "kind": "preview",
+      "output": {
+        "headline": "Sophie Heawood: don't be fooled by the shine of stars like Russell Brand",
+        "trail": "After years of interviewing stars, Sophie Heawood says we only ever know what the famous choose to show us, and that behind the brightest shine there is darkness in the shadows.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+      "kind": "preview",
+      "output": {
+        "headline": "Progressives should reject corporate Democrats' weaponising of identity politics against them",
+        "trail": "House members have responded to legitimate criticism with cynicism, the writer argues, and progressives should not let it become another 'Bernie bros' moment.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/14/absurd-black-englishness-census-claim-identity",
+      "kind": "preview",
+      "output": {
+        "headline": "'Black English' deserves a place on the census, like Welsh and Scottish identities",
+        "trail": "The arguments against recognising the identity have been endless and fatuous, says author Calum Jacobs — England should follow Wales and Scotland's lead.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/14/ukraine-gaza-better-stories-war-artists-remembrance",
+      "kind": "preview",
+      "output": {
+        "headline": "Artists are telling richer stories of war, from Ukraine to Gaza",
+        "trail": "Acts of remembrance about destruction and violence defy the dominant narratives of heroism and sacrifice, writes the Guardian's chief culture writer Charlotte Higgins.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/13/men-dirty-secrets-law-abuse-david-walliams",
+      "kind": "preview",
+      "output": {
+        "headline": "The law, not just culture, must change to stop shielding abusers",
+        "trail": "Perpetrators of abuse have used lawyers as effective shields, writes Guardian columnist Gaby Hinsliff — a challenge to that can't come soon enough.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+      "kind": "preview",
+      "output": {
+        "headline": "Journalism's power is proven by how hard authoritarians fight it",
+        "trail": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers, the Guardian view argues.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/13/the-guardian-view-on-m-john-harrisons-booker-win-a-new-frontier-for-science-fiction",
+      "kind": "preview",
+      "output": {
+        "headline": "Genre boundaries fall as M John Harrison's novel wins the Booker prize",
+        "trail": "The End of Everything, Harrison's novel for our age of permacrisis, has won the Booker prize — proof, the Guardian view says, that genre boundaries belong to the past.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/13/toxic-media-industry-must-face-a-reckoning",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers call for a reckoning in the media industry",
+        "trail": "Letters: readers respond to Rhiannon Lucy Cosslett's piece questioning why it took so long to unmask Russell Brand and David Walliams.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/13/how-it-feels-to-battle-with-a-flood-of-ai-generated-complaints",
+      "kind": "preview",
+      "output": {
+        "headline": "Why a human touch still beats AI-generated complaint noise",
+        "trail": "Letters: an investigator writes that a human-written grievance gets to the heart of the issue immediately, plus letters from Dexter Jandoo and Pete Bibby.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/13/monty-don-was-the-best-teacher-and-presenter-imaginable",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers pay tribute to Monty Don, 'the best teacher and presenter imaginable'",
+        "trail": "Letters: Saul Abbott says his pace of presenting matched the pace of the world around him, Jane Bates values Gardeners' World immeasurably, and Joe Mackenzie shares a poignant memory.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/13/the-folly-of-just-in-time-supply-chains",
+      "kind": "preview",
+      "output": {
+        "headline": "Reader makes the case against just-in-time supply chains",
+        "trail": "Letters: Hannah Walker argues systems designed to minimise cost can end up less able to fulfil their actual purpose.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+      "kind": "preview",
+      "output": {
+        "headline": "PM Andy Burnham pursues EU deal to bring down food prices",
+        "trail": "Andy Burnham, the PM, says an EU deal will 'get food prices down', while accusing the Tories of burning 'all our bridges' and saying the UK has 'lost more than we gained' through Brexit.",
+        "progress": "The prime minister is negotiating a deal with the EU to lower UK food prices.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+      "kind": "preview",
+      "output": {
+        "headline": "Carmelle brings home the Philippines' first Eurovision Asia win",
+        "trail": "The 19-year-old's pop-rap entry, Sobra-Sobra, took her to victory at the grand final in Bangkok.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+      "kind": "preview",
+      "output": {
+        "headline": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+        "trail": "Russia and US approach potential summit seeking China’s help to extricate them from wars of choice, as Putin hopes to find consensus on new global order",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/14/new-orleans-mississippi-river-tanker-crash-lawsuit",
+      "kind": "preview",
+      "output": {
+        "headline": "New Orleans seizes tanker and files $1m lawsuit to recoup damages",
+        "trail": "The port has filed a $1m lawsuit against the tanker, Atlantic Asphalt, and succeeded in seizing the vessel, after it crashed into a cruise ship in what was called a 'Mississippi miracle'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "kind": "preview",
+      "output": {
+        "headline": "Bank of England says it may raise interest rates again to tackle inflation",
+        "trail": "Huw Pill, the Bank of England's chief economist, says 'we have further to go' after this month's increase to 4 per cent, as the Bank works to tackle rising inflation.",
+        "progress": "The Bank of England has already raised rates to 4 per cent this month in its fight against inflation.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+      "kind": "preview",
+      "output": {
+        "headline": "Greenpeace activists protest against seabed trawling at North Sea windfarm site",
+        "trail": "Activists dumped rocks off the Norfolk coast at the site of the Burnham-backed £12bn windfarm project, in a protest against seabed trawling that may delay construction.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+      "kind": "preview",
+      "output": {
+        "headline": "LGBTQ+ campaigners in Turkey march in solidarity with Cop31 activists",
+        "trail": "Civil society campaigners formed a protective cordon around the group as they defied government suppression of LGBTQ+ expression to unfurl flags and placards.",
+        "progress": "Civil society campaigners organised a protective cordon to support the LGBTQ+ marchers.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/14/salmon-organic-british-farmed-environmental-welfare",
+      "kind": "preview",
+      "output": {
+        "headline": "Soil Association strips organic status from British farmed salmon",
+        "trail": "The Soil Association withdrew organic certification from British farmed salmon this week after 20 years, in what is called 'an environmental and welfare disaster', as the piece examines what went wrong.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/14/bristol-first-uk-wetland-city-flood",
+      "kind": "preview",
+      "output": {
+        "headline": "Bristol plans to become UK's first 'wetland city'",
+        "trail": "A five-year project will build wetlands and wildlife corridors across the city, widening access to green and blue spaces while helping guard against flooding.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/14/king-charles-elton-john-rocket-hour",
+      "kind": "preview",
+      "output": {
+        "headline": "King Charles marks 78th birthday with turn on Elton John's Rocket Hour",
+        "trail": "The king marked the 50th anniversary of the King's Trust charity with a playlist for a special episode of the podcast, joking 'still standing'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+      "kind": "preview",
+      "output": {
+        "headline": "Blind Nigerian pensioner denied right to remain after 26 years in UK",
+        "trail": "The Home Office's new settlement rules mean she is being told to go to India for medical treatment.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+      "kind": "preview",
+      "output": {
+        "headline": "Experts call for closer supervision of children prescribed obesity jabs",
+        "trail": "An exclusive investigation found hundreds of children in England, including some under 12, have been prescribed weight-loss jabs, prompting experts to stress the need for long-term monitoring.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+      "kind": "preview",
+      "output": {
+        "headline": "Eurotunnel plans airport-style checks to keep border crossing smooth",
+        "trail": "Eurotunnel owner Getlink wants to replicate the 'airport experience' at Folkestone and Calais, without making people get out of their cars, in a breakthrough aimed at avoiding border 'chaos'.",
+        "progress": "Getlink wants to roll out airport-style checks at Folkestone and Calais without drivers leaving their cars.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "kind": "preview",
+      "output": {
+        "headline": "Officials trace flight disruption to routine maintenance issue",
+        "trail": "Thousands of flights remain cancelled as officials blame an ageing air traffic control system for the nationwide ground stop.",
+        "progress": "Investigators have pinpointed an ageing air traffic control system as the cause behind the nationwide ground stop.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "kind": "preview",
+      "output": {
+        "headline": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+        "trail": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/drones-redefining-warfare-sudan-massacring-civilians",
+      "kind": "preview",
+      "output": {
+        "headline": "Drones are redefining warfare in Sudan, massacring its civilians",
+        "trail": "Strikes with huge death tolls are an increasing occurrence, as drones 'bring the war to places that were once safe'.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+      "kind": "preview",
+      "output": {
+        "headline": "Artists and industry figures urge culture secretary to outlaw ticket resale for profit",
+        "trail": "A tout is offering £1m of U2 tickets on StubHub, raising questions about the 'bot' clampdown, as artists and industry call for the culture secretary to 'shut down the touts'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/14/guardian-young-people-search-for-work",
+      "kind": "preview",
+      "output": {
+        "headline": "Eight young people share their search for work in new Guardian series",
+        "trail": "The series will ask how long it takes and what challenges they face, shining a light on one of the biggest crises facing the UK.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "kind": "preview",
+      "output": {
+        "headline": "Microsoft resolves global outage after Teams and Outlook disruption",
+        "trail": "The tech firm said it was 'deeply sorry' for the disruption that took services down and has now addressed the underlying issue.",
+        "progress": "Microsoft has apologised and says it has addressed the underlying issue behind the outage.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+      "kind": "preview",
+      "output": {
+        "headline": "No 10 considers extending work and training support beyond under-25s",
+        "trail": "Plans to replace key disability benefits for young people with work and training support could be extended to affect older adults too, an exclusive reveals.",
+        "progress": "Ministers are examining whether older claimants could also move from disability benefits onto work and training support.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/14/my-cultural-awakening-under-milk-wood-dylan-thomas-helped-me-grieve",
+      "kind": "preview",
+      "output": {
+        "headline": "I felt nothing but numbness at my dad’s death – but then I read the book he gave me on my wedding day",
+        "trail": "Dylan Thomas’s Under Milk Wood reminded me of my dad’s decency and mischief. I laughed as I cried, and realised there’s no right way to go through the grieving process",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/14/honey-bbc-flirty-kinky-killing-eve-prequel-should-have-been-called-carre-on-spying",
+      "kind": "preview",
+      "output": {
+        "headline": "Ann Skelly dazzles in Honey, a steamy, camp Killing Eve prequel",
+        "trail": "The amazing Ann Skelly plays Eve's spy-handler Carolyn in this flirty, kinky, camp cold war thriller set in east Germany, with the tagline 'everyone is watching – look hot!'",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/14/soul-patrol-documentary-black-soldiers-vietnam",
+      "kind": "preview",
+      "output": {
+        "headline": "Soul Patrol documentary gives voice to Vietnam's first Black special ops team",
+        "trail": "The ambitious film explores the complicated experiences, on and off the battlefield, of the war's first Black special operations unit.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/13/billie-piper-women-industry-elsinore-oscar-buzz",
+      "kind": "preview",
+      "output": {
+        "headline": "Billie Piper on turning personal struggle into Elsinore's Oscar buzz",
+        "trail": "The teen pop star turned Olivier-winning actor, who says women in the industry are 'pitted against each other' in a 'bloodsport', stars in the acclaimed Ian Charleson biopic Elsinore and talks about trying to channel a 'mad storm of grief' into her performance.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/13/the-body-coming-of-age-review-netflix",
+      "kind": "preview",
+      "output": {
+        "headline": "The Body review – a gleefully camp, satanic spin on teen nostalgia",
+        "trail": "This coming-of-age tale of Catholic school girls is full of fun 2004-set references – until a Halloween party goes properly wrong.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/12/the-good-daughter-review-brendan-gleeson-rose-byrne-meghann-fahy",
+      "kind": "preview",
+      "output": {
+        "headline": "The Good Daughter review – Brendan Gleeson steals this legal thriller",
+        "trail": "Rose Byrne and Meghann Fahy are given little to do as small-town lawyers, but it's Gleeson, as their broken father, who makes the show worth watching.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip",
+      "kind": "preview",
+      "output": {
+        "headline": "Stalybridge restaurant staff receive £1,000 tip from Stevie Wonder after late-night visit",
+        "trail": "The 76-year-old singer was in Manchester with his band for the penultimate UK show of his Songs in the Key of Life anniversary tour.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/13/interview-art-pop-duo-charlotte-adigery-and-bolis-pupul",
+      "kind": "preview",
+      "output": {
+        "headline": "Charlotte Adigéry and Bolis Pupul turn personal life into goofy, spiky art-pop",
+        "trail": "After wittily blending pop and politics on their debut, the Belgian duo are now processing their personal lives; we join them on a mindbending tour of their home city of Ghent.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/13/the-weeks-best-new-tracks-and-the-act-you-need-to-know-acrobatic-lagos-producer-azzi-on-the-beat",
+      "kind": "preview",
+      "output": {
+        "headline": "The week's best new tracks, plus acrobatic Lagos producer Azzi on the Beat",
+        "trail": "An innovator in mara, the fast, sample-heavy dance music of neighbourhood parties, the Nigerian producer's debut album will be relentlessly energising.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/13/sheherazaad-khudgarzi-review",
+      "kind": "preview",
+      "output": {
+        "headline": "Sheherazaad: Khudgarzi review – Urdu folk acoustics transformed by grunge haze",
+        "trail": "Dreamy, reverb-laden arrangements, virtuosic vocals and echoes of PJ Harvey and Massive Attack make this debut one-of-a-kind.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "kind": "preview",
+      "output": {
+        "headline": "Accusations of AI use cost authors deals and shortlist places",
+        "trail": "Accusations of AI use are sending shock waves through publishing, with authors losing lucrative deals and writers removed from prize shortlists, raising the question of whether machine writing's tide can still be turned.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/14/pride-and-no-prejudice-how-tough-guy-book-club-taught-10000-men-to-be-unashamed-of-reading",
+      "kind": "preview",
+      "output": {
+        "headline": "How Tough Guy Book Club got 10,000 men reading without shame",
+        "trail": "Founder Shay Leighton started by putting fliers in tattoo parlours, barbers and boxing gyms in Australia — and the idea quickly went global.",
+        "progress": "The club has grown globally, helping thousands of men shed their embarrassment about reading.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/13/simon-winchester-obituary",
+      "kind": "preview",
+      "output": {
+        "headline": "Simon Winchester, intrepid chronicler of the Troubles and Watergate",
+        "trail": "The journalist and author's run of bestsellers began with The Surgeon of Crowthorne.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/12/tanuki-pons-summer-review",
+      "kind": "preview",
+      "output": {
+        "headline": "Tanuki: Pon's Summer review – a raccoon mending the world one parcel at a time",
+        "trail": "This gentle game of fixing and fetching, played as a furry post office worker on a BMX, has a slow, calming magic.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
+      "kind": "preview",
+      "output": {
+        "headline": "Developers reveal the obsessive research behind GTA VI's virtual Florida",
+        "trail": "The developers behind its virtual Florida share how they built their most ambitious world yet.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/09/grand-theft-auto-creators-gta",
+      "kind": "preview",
+      "output": {
+        "headline": "How Grand Theft Auto became a cultural colossus",
+        "trail": "Since its late-90s debut, GTA has torn up the game-making rulebook; we explore how its cultural references and sense of freedom make it a defining work of art.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+      "kind": "preview",
+      "output": {
+        "headline": "Midnight launches return for Zelda: Ocarina of Time, to fans' delight",
+        "trail": "Hundreds queued on Oxford Street for early copies and collectibles, in a heartwarming reminder of the shared joy of fandom.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/13/nicole-eisenman-the-last-human-kiss-roman-scotland-the-week-in-art",
+      "kind": "preview",
+      "output": {
+        "headline": "Kisses, seaside scenes and Roman relics – the week in art",
+        "trail": "Nicole Eisenman heads to the coast, Scotland remembers its Roman history, and Wolfgang Tillmans and Tracey Emin turn romantic.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/13/how-do-we-find-love-review-last-human-kiss-ecstasy-and-the-aftermath-sainsbury-museum-art-centre-norwich",
+      "kind": "preview",
+      "output": {
+        "headline": "How Do We Find Love? review finds uplifting moments despite its obviousness",
+        "trail": "This broad double-hander takes a lipsmacking journey from kisses galore to tears of despair, tackling the vast topics of love, smooching and the aftermath.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/13/philharmonia-manfred-honeck-emanuel-ax-review-royal-festival-hall-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Philharmonia/Honeck/Ax review – a scorching taste of things to come",
+        "trail": "Manfred Honeck, who joins as principal conductor in 2028, gave an exciting statement of intent with Strauss and Mozart, and soloist Emanuel Ax.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/12/you-can-almost-smell-the-sweat-striptease-artists-and-steel-pans-light-up-this-weeks-free-art-shows",
+      "kind": "preview",
+      "output": {
+        "headline": "‘You can almost smell the sweat’: striptease artists and steel pans light up this week’s free art shows",
+        "trail": "Four free exhibitions take you from a luxury white enclave in Rio de Janeiro to exhausted erotic dancers touring the US and a culture-changing London address",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+      "kind": "preview",
+      "output": {
+        "headline": "Music and animation bring Kyffin Williams' landscapes to life in Aberystwyth",
+        "trail": "Paintings by one of Wales' most important artists have been animated and set to music at the National Library of Wales.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/14/maurice-bakley-photographer-solar-eclipse-best-phone-picture",
+      "kind": "preview",
+      "output": {
+        "headline": "Maurice Bakley's best phone picture: a school's first glimpse of a solar eclipse",
+        "trail": "An elementary school watch party turned into a chance to capture a child's-eye view of a spectacular astral phenomenon.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/13/the-ident-epidemic-and-the-true-cost-of-movie-making",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guide #269: what those flashy studio idents really cost",
+        "trail": "The deluge of flashy production logos before films is a necessary annoyance, though there's no excuse for them looking so naff.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/the-good-daughter/2026/oct/30/skys-the-good-daughter-what-to-know-about-the-new-thriller",
+      "kind": "preview",
+      "output": {
+        "headline": "What to know about Sky's gripping new thriller, The Good Daughter",
+        "trail": "When tragedy reunites two estranged sisters, they find a town full of dark secrets and people with plenty to hide.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/the-good-daughter/2026/nov/06/why-dark-thrillers-are-the-perfect-antidote-to-cosy-season",
+      "kind": "preview",
+      "output": {
+        "headline": "Why a dark thriller is the perfect antidote to cosy season",
+        "trail": "Sky's The Good Daughter offers a gripping, intelligent alternative to the usual festive comfort viewing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/14/best-supermarket-instant-coffee-tasted-rated",
+      "kind": "preview",
+      "output": {
+        "headline": "The best supermarket instant coffees, tasted and rated",
+        "trail": "Our coffee expert rates each jar for aroma and flavour, from ones hinting at chocolate and caramel to a few with a bitter note.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Tweens pick their own Christmas gifts: Lego, dance mats and lotions",
+        "trail": "Twenty 10- to 12-year-olds told us what they already love and want this Christmas – Lego, dance mats and plenty of lotions and potions top the list.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2024/dec/29/best-electric-toothbrushes",
+      "kind": "preview",
+      "output": {
+        "headline": "We tested 32 electric toothbrushes to find the UK's best for every budget",
+        "trail": "We put 32 electric toothbrushes to the test, from oscillating Oral-B models to sustainable brands such as Suri, to find the best in the UK for cleaning power and value for money.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/10/how-i-shop-with-jamie-oliver",
+      "kind": "preview",
+      "output": {
+        "headline": "Jamie Oliver talks whisky, waistcoats and festive gravy wisdom",
+        "trail": "Always wondered how celebrities do Christmas, what they wear, eat, and always buy ready-made? The chef and campaigner talks whisky, matching waistcoats and the joy of a local bookshop with the Filter.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/14/blind-date-leon-lucy",
+      "kind": "preview",
+      "output": {
+        "headline": "Blind date: Lucy and Leon swap numbers after their first meeting",
+        "trail": "Lucy, 40, a general manager, meets Leon, 45, an operations manager at a food charity, in this week's blind date.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/14/sauteed-cabbage-cheese-cream-sunflower-seeds-vegetarian-recipe-jackson-boxer",
+      "kind": "preview",
+      "output": {
+        "headline": "A warming vegetarian plate from Jackson Boxer: sautéed cabbage and cheese cream",
+        "trail": "Rich and comforting – like a bowl of pasta, only without the carbs.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/13/rice-pudding-hibiscus-poached-pears-recipe-helen-goh",
+      "kind": "preview",
+      "output": {
+        "headline": "Hibiscus-poached pears bring a tart kick to Helen Goh's spiced rice pudding",
+        "trail": "Cold pears stained red with tart hibiscus and offset by a hot, creamy, spiced rice pudding.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/13/how-can-i-support-pregnant-friend-advice",
+      "kind": "preview",
+      "output": {
+        "headline": "A reader asks how to support a pregnant friend despite being bad with babies",
+        "trail": "Children vary just like the rest of us, writes advice columnist Eleanor Gordon-Smith. You don't know you're bad with this baby yet, because you don't know them yet.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/the-thermostat-wars-tearing-couples-apart-its-hard-to-feel-sexy-when-youre-freezing-cold",
+      "kind": "preview",
+      "output": {
+        "headline": "The great thermostat debate: how couples find a truce over room temperature",
+        "trail": "Almost two-thirds of bedfellows disagree about the perfect room temperature – and the issue can affect office workers and housemates too. So is there a way to reach a truce?",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/ng-interactive/2026/nov/11/young-americans-prenups-before-marriage",
+      "kind": "preview",
+      "output": {
+        "headline": "Young women drive a boom in US prenups seeking 'radical transparency'",
+        "trail": "Zillennial couples say they want 'radical transparency' around their finances, bucking the idea that prenuptial agreements are rooted in division.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/a-moment-that-changed-me-a-failed-date-led-to-one-of-the-greatest-friendships-of-my-life",
+      "kind": "preview",
+      "output": {
+        "headline": "A moment that changed me: a fizzled date led to one of my greatest friendships",
+        "trail": "My romance with Steven quickly fizzled, but I gained something just as good: realising that in the pursuit of love, I had closed myself off to other kinds of connection.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/media/2026/nov/13/reselling-apps-dark-side-under-16s-social-media-ban-child-protection",
+      "kind": "preview",
+      "output": {
+        "headline": "Ministers weigh under-16 ban on resale apps after misuse concerns",
+        "trail": "Reports of messaging functions and users' photos being misused on reselling apps have prompted ministers to consider banning under-16s from online marketplaces.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/10/uk-pensions-scottish-widows-young-worker",
+      "kind": "preview",
+      "output": {
+        "headline": "Rio claims free pension money after a tip-off from 'auntie'",
+        "trail": "Joining a company scheme at 18 seemed 'too expensive' for Rio until someone close put him right.",
+        "progress": "Someone close to Rio persuaded him that joining the pension scheme at 18 was worth it.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/09/royal-mail-letter-deliveries-parcels",
+      "kind": "preview",
+      "output": {
+        "headline": "Royal Mail delivered letters only twice in three months, reader says",
+        "trail": "A reader waiting for the overdue results of a cancer test says the postal service seems to be prioritising parcels over letters.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/08/free-grand-piano-scam-emails",
+      "kind": "preview",
+      "output": {
+        "headline": "How to spot the 'free grand piano' scam targeting music lovers",
+        "trail": "Fraudulent emails claim to come from a woman whose husband has died, offering a free grand piano – but the offer isn't what it seems.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students",
+      "kind": "preview",
+      "output": {
+        "headline": "Molly Callahan takes 16 pelvic exams daily to spare future patients the pain",
+        "trail": "Molly Callahan, a gynecological teaching assistant, helps medical students practice pap smears and breast exams.",
+        "progress": "Callahan lets medical students practise pelvic and breast exams on her to make future exams less painful.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/11/bmi-alternative-obesity-diagnosis-body-mass-index",
+      "kind": "preview",
+      "output": {
+        "headline": "New way to diagnose obesity could spare millions a wrong diagnosis, experts say",
+        "trail": "Combining body mass index with other measurements and tests would lead to better care and outcomes, experts say.",
+        "progress": "Experts say combining BMI with other measurements and tests would lead to more accurate diagnoses and better care.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/touch-of-evil-the-terrifying-truth-about-sleep-paralysis",
+      "kind": "preview",
+      "output": {
+        "headline": "The neuroscientist unravelling the mystery of sleep paralysis",
+        "trail": "One in five people have experienced this frightening state, and Harvard neuroscientist Baland Jalal has dedicated his career to studying it, asking whether it could be a portal to a deeper understanding of the mind.",
+        "progress": "Harvard neuroscientist Baland Jalal has spent his career researching sleep paralysis, seeking a deeper understanding of the mind.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+      "kind": "preview",
+      "output": {
+        "headline": "From Hollywood rebel icon to internet meme: the rise of Jensen Huang's jacket",
+        "trail": "Once the ultimate symbol of Hollywood rebellion, Marlon Brando's leather jacket now defines Jensen Huang's look too — and is being mocked as a 'midlife crisis' cliche.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/12/wool-pricing-natural-fibre-menswear-knitwear-women",
+      "kind": "preview",
+      "output": {
+        "headline": "Viral video reveals striking gender gap in knitwear pricing",
+        "trail": "Men routinely get more wool for their money, a viral video shows, raising the question of whether women pay a 'pink tax' for their jumpers.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/11/jess-cartner-morley-on-fashion-fashions-big-idea-this-season-wear-a-skirt",
+      "kind": "preview",
+      "output": {
+        "headline": "Jess Cartner-Morley's style tip for autumn: raid your wardrobe for a skirt",
+        "trail": "You don't need to shop this autumn — the only thing missing from your look is a skirt you probably already own, writes Jess Cartner-Morley.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/14/exploring-catalonias-wild-side-train-foothills-pyrenees",
+      "kind": "preview",
+      "output": {
+        "headline": "A historic train line into the Pyrenees reveals Catalonia's wild side",
+        "trail": "'Seduced by a dramatic landscape of canyons and lakes', travellers ride a historic single-track line through the foothills of the Pyrenees into a pristine wilderness of forests, gorges and thundering rivers.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/13/readers-favourite-wild-escapes-scotland-skye-cairngorms",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers share their favourite wild escapes, from Skye to the Cairngorms",
+        "trail": "From the Isle of Skye to the Cairngorms, our readers found white-sand beaches, secret lochs and solitude.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/11/richmond-upon-thames-britains-happiest-place-to-live-rightmove-property",
+      "kind": "preview",
+      "output": {
+        "headline": "Richmond upon Thames named Britain's happiest place to live",
+        "trail": "Rightmove's survey found residents of the London borough are highly satisfied with their neighbourhood, despite one catch for anyone hoping to move there.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/14/country-diary-one-of-britains-oldest-surviving-traditions-and-its-all-over-in-four-minutes",
+      "kind": "preview",
+      "output": {
+        "headline": "Country diary: the centuries-old ceremony that lasts just four minutes",
+        "trail": "Ryton-on-Dunsmore, Warwickshire: the wroth silver ceremony has endured for centuries, taking place in the dark and, this year, through misty rain, yet it is all over in four minutes.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/14/tim-dowling-ive-made-being-ill-an-art-form-and-my-wife-has-notes",
+      "kind": "preview",
+      "output": {
+        "headline": "Tim Dowling tries an acting-led approach to faking his way to wellness",
+        "trail": "I'm so tired of this illness, I wonder if an acting-led approach to faking wellness might help me recover.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/14/saturday-quiz-day-of-the-jackal-1979-sun-headline",
+      "kind": "preview",
+      "output": {
+        "headline": "Test your knowledge with this week's Saturday quiz",
+        "trail": "From four-year-old Binkie Stuart to Peter the cat, test your knowledge with the Saturday quiz.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/14/why-do-whales-live-in-the-sea-kids-quiz",
+      "kind": "preview",
+      "output": {
+        "headline": "Children set this week's quiz: why do whales live in the sea?",
+        "trail": "Five multiple-choice questions, set by children, to test your knowledge – plus a chance to submit your own brainteasers for future quizzes.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/14/2000s-pop-culture-women-david-walliams-russell-brand",
+      "kind": "preview",
+      "output": {
+        "headline": "At last, we can be honest about 2000s pop culture's cruelty to women",
+        "trail": "The imprisonment of Russell Brand and allegations against David Walliams have prompted fresh scrutiny of a culture that encouraged male transgression.",
+        "progress": "Scrutiny of that culture has intensified since Brand's imprisonment and the allegations against Walliams came to light.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/14/how-i-survived-being-forced-into-pornography-i-died-in-that-hotel-room-i-was-a-walking-corpse",
+      "kind": "preview",
+      "output": {
+        "headline": "Sex trafficking survivor Mariah Rief vows to stop others suffering her fate",
+        "trail": "In 2016, Mariah Rief, then 19, was trafficked into pornography after thinking she was going to a modelling job; she knows of 15 fellow victims who have since died by suicide or drug overdose.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech",
+      "kind": "preview",
+      "output": {
+        "headline": "Bournemouth's finance hub faces new disruption from AI",
+        "trail": "The seaside town became a hub for thousands of finance jobs after the 1980s 'big bang', but one firm has already 'cut all entry-level jobs' as new technology disrupts Dorset's economy.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/11/tell-us-did-you-have-a-memorable-experience-during-the-solar-eclipse",
+      "kind": "preview",
+      "output": {
+        "headline": "Tell us: what was your most memorable moment during the solar eclipse?",
+        "trail": "Share your story of the solar eclipse in August — we'd like to hear about the experiences that stayed with you.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/10/what-would-you-like-to-ask-our-writers-about-2026",
+      "kind": "preview",
+      "output": {
+        "headline": "Ask the Guardian's writers your questions about 2026",
+        "trail": "Submit your questions for our live panel as writers look back on the year's biggest stories.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it",
+      "kind": "preview",
+      "output": {
+        "headline": "Tell us: what's it really like to retire in the countryside?",
+        "trail": "England's chief medical officer has warned of the challenges of growing older in rural areas; we'd like to hear from those who have faced isolation or difficulty accessing services and support.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/11/private-renters-in-the-uk-how-difficult-is-the-rental-market-where-you-live",
+      "kind": "preview",
+      "output": {
+        "headline": "Private renters: tell us about your experience of the UK rental market",
+        "trail": "We'd like to hear from private renters about rising costs, finding somewhere to live and dealing with landlords.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2022/may/02/30000-cancer-patients-waiting-for-treatment-in-england",
+      "kind": "preview",
+      "output": {
+        "headline": "30,000 cancer patients waiting for treatment in England",
+        "trail": "Experts call on ministers to tackle chronic staff shortages, with delays worsened by pandemic",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2022/aug/28/black-asian-people-wait-longer-cancer-diagnosis-england-than-white-people",
+      "kind": "preview",
+      "output": {
+        "headline": "Research finds racial gap in time to cancer diagnosis in England",
+        "trail": "An analysis of 126,000 cases over a decade found black and Asian patients in England wait longer than white patients for a cancer diagnosis.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2025/oct/03/more-than-60000-cancer-patients-in-england-not-getting-any-radiotherapy-research-shows",
+      "kind": "preview",
+      "output": {
+        "headline": "Tens of thousands of cancer patients in England go without radiotherapy they need",
+        "trail": "Radiotherapy UK's analysis of NHS data found more than 60,000 cancer patients in England are not getting the radiotherapy they need, with some facing waits of up to six months.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2025/feb/13/sharp-rise-in-cancer-patients-in-england-waiting-months-for-treatment",
+      "kind": "preview",
+      "output": {
+        "headline": "Cancer treatment times in England have grown longer, new data shows",
+        "trail": "More than 11 per cent of patients had to wait more than 104 days for treatment last year, up from 4.4 per cent in 2016, analysis shows.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2025/apr/14/melanoma-patients-in-england-get-fast-track-access-to-cancer-vaccine",
+      "kind": "preview",
+      "output": {
+        "headline": "NHS expands cancer vaccine trial to give melanoma patients fast-track access",
+        "trail": "The NHS Cancer Vaccine Launch Pad has been expanded to include a trial for patients with an advanced type of skin cancer.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/society/2022/nov/16/gps-england-send-suspected-cancer-patients-directly-tests",
+      "kind": "preview",
+      "output": {
+        "headline": "New scheme lets GPs in England refer suspected cancer cases straight for tests",
+        "trail": "The scheme, starting this month, aims to improve Britain's poor record on early cancer diagnosis.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukraine's military reports Starlink satellite connection has stabilised since restrictions",
+        "trail": "Elon Musk's SpaceX, however, accuses Ukraine's military of violating the company's terms.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2022/oct/14/elon-musk-spacex-no-longer-fund-starlink-internet-ukraine",
+      "kind": "preview",
+      "output": {
+        "headline": "SpaceX reportedly asks US government to take over funding Starlink in Ukraine",
+        "trail": "The company says it can no longer fund Starlink internet in Ukraine itself, as its relationship with Kyiv breaks down.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink",
+      "kind": "preview",
+      "output": {
+        "headline": "Russia unveils plans for its own satellite network as Putin praises Musk's 'genius'",
+        "trail": "Russia says it intends to build its own version of the US billionaire's satellite communications technology, which it plans to use to help attack Ukraine.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2023/feb/09/zelenskiy-aide-takes-aim-at-curbs-on-ukraine-use-of-starlink-to-pilot-drones-elon-musk",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukraine objects after SpaceX limits Starlink's use for drones",
+        "trail": "SpaceX says the satellite service was 'never, never meant to be weaponised', amid sharp criticism in Ukraine over curbs on using Starlink to pilot drones.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukrainian military's Starlink access is restricted amid Russian missile strikes",
+        "trail": "The outage, managed by Elon Musk's SpaceX, coincided with a Russian ballistic missile launch on Ukraine that came with no advance US notice.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained",
+      "kind": "preview",
+      "output": {
+        "headline": "Explainer: what Starshield is, and how its restriction affects Ukraine",
+        "trail": "Zelenskyy has framed the sudden restriction as a betrayal by Trump, as scrutiny grows over how Elon Musk's SpaceX and the Pentagon control the service.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
+      "kind": "preview",
+      "output": {
+        "headline": "More people come forward to police during Russell Brand's trial",
+        "trail": "The Metropolitan police say several people have contacted them with further criminal allegations against Brand since his rape and sexual assault trial began.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+      "kind": "preview",
+      "output": {
+        "headline": "Brand's barrister refers himself to watchdog following clash with journalist",
+        "trail": "Rosamund Urwin's Sunday Times investigation led Brand's victims to come forward, but Ian Winter KC has reported himself to the watchdog after telling her: 'I hope you are pleased with yourself.'",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist",
+      "kind": "preview",
+      "output": {
+        "headline": "How Russell Brand's persona unravelled into a rape conviction",
+        "trail": "The former comedian traded for years on his extreme persona; many will ask how he was allowed to act in plain sight for so long.",
+        "progress": "His conviction marks the point at which the allegations against him were finally tested and proven in court.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/06/the-guardian-view-on-russell-brand-his-conviction-sends-a-powerful-message",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view: justice for Russell Brand's victims sends a powerful message",
+        "trail": "Editorial: the brave women who testified against the star have exposed and undercut the sexual entitlement he personified.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/culture/2023/sep/24/russell-brand-and-why-the-allegations-took-so-long-to-surface",
+      "kind": "preview",
+      "output": {
+        "headline": "How the allegations against Russell Brand finally came to light",
+        "trail": "Publishing claims like this in England and Wales carries legal risk for media groups and accusers alike, which helps explain the long delay.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/06/why-did-russell-brand-convert-to-christianity",
+      "kind": "preview",
+      "output": {
+        "headline": "What Russell Brand's conversion to Christianity reveals about faith and power",
+        "trail": "Sincere or self-serving, the disgraced comedian's case shows how the church became a culture war frontier.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/aug/08/president-xi-jinping-global-order-minorities-china",
+      "kind": "preview",
+      "output": {
+        "headline": "The world must not let Iran, Ukraine and Palestine distract from Xi's grip",
+        "trail": "As Iran, Ukraine and Palestine draw the world's attention elsewhere, Simon Tisdall writes that the Chinese leader is taking the offensive, at home and abroad - bad news, he argues, for global order and minorities in his country.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2025/oct/31/era-of-free-trade-and-investment-over-canada-pm-mark-carney-apec-summit-korea",
+      "kind": "preview",
+      "output": {
+        "headline": "China's president makes the case for free trade at Apec summit",
+        "trail": "China's president mounted a defence of free trade at the summit, after Canada's PM Mark Carney told Asia-Pacific leaders the era of free trade and investment is over.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/us-news/2025/oct/24/trump-asia-tour-key-questions-xi-jinping-china-japan-south-korea-malaysia",
+      "kind": "preview",
+      "output": {
+        "headline": "What to expect as Trump heads to Asia for Apec and Asean summits",
+        "trail": "Donald Trump will travel to Malaysia, Japan and South Korea; it remains to be seen whether he meets Xi Jinping and what tariff deals might be secured.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/australia-news/2015/nov/17/malcolm-in-the-middle-turnbull-woos-china-and-the-us",
+      "kind": "preview",
+      "output": {
+        "headline": "Turnbull finds common ground with Obama at Apec and Xi at G20",
+        "trail": "The prime minister's charm offensive saw him confirm common ground with Barack Obama at Apec, while striking the right note with Xi Jinping at the G20.",
+        "progress": "Turnbull is pursuing a balanced diplomatic approach that keeps both Washington and Beijing on side.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/business/2020/nov/15/china-and-14-asia-pacific-countries-agree-historic-free-trade-deal",
+      "kind": "preview",
+      "output": {
+        "headline": "China and 14 Asia-Pacific nations forge trade pact spanning 2.2 billion people",
+        "trail": "The RCEP agreement, signed by China and 14 Asia-Pacific countries, also covers 28 per cent of global trade.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/29/alaska-investigation-mary-peltola-dan-sullivan",
+      "kind": "preview",
+      "output": {
+        "headline": "Alaska governor orders investigation into Democrat Mary Peltola’s Senate campaign",
+        "trail": "Republican Mike Dunleavy plans search after Peltola accused of recruiting Dan Sullivan to confuse voters",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/aug/19/alaska-senate-primary-results",
+      "kind": "preview",
+      "output": {
+        "headline": "Sullivan and Peltola advance to pivotal Alaska Senate race",
+        "trail": "The result sets up a marquee contest in the US midterms that could decide which party controls the Senate.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
+      "kind": "preview",
+      "output": {
+        "headline": "Peltola's campaign reportedly recruited second Dan Sullivan for Alaska Senate race",
+        "trail": "Republicans have condemned the presence of two Dan Sullivans on the ballot, calling it a ploy by Peltola's campaign to split votes.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/03/maine-senate-midterm-results",
+      "kind": "preview",
+      "output": {
+        "headline": "Troy Jackson unseats Susan Collins to win Maine Senate seat",
+        "trail": "The Democratic nominee toppled the five-term Republican incumbent in one of the most hard-fought contests of the midterms.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/oct/02/alaska-governor-candidate-jonathan-kreiss-tomkins",
+      "kind": "preview",
+      "output": {
+        "headline": "Jonathan Kreiss-Tomkins fuels Democratic upset bid in Alaska's governor race",
+        "trail": "Growing support for the 37-year-old could upend the race in heavily Republican Alaska, as Donald Trump's popularity craters.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/may/18/geoff-duncan-ex-republican-georgia-democratic-primary-governor",
+      "kind": "preview",
+      "output": {
+        "headline": "Ex-Republican Geoff Duncan seeks a comeback as a Democrat in Georgia",
+        "trail": "After being excommunicated from the GOP, Geoff Duncan is attempting a comeback on the Democratic ticket.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk/2007/jun/12/ukcrime",
+      "kind": "preview",
+      "output": {
+        "headline": "Merseyside police launch murder investigation",
+        "trail": "A young woman was deliberately set on fire in the countryside outside St Helens and later died; detectives have opened a murder investigation.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2017/jun/24/family-of-london-man-who-died-after-arrest-demand-answers",
+      "kind": "preview",
+      "output": {
+        "headline": "Edir Frederico Da Costa's family press for answers over his death following arrest",
+        "trail": "Edir Frederico Da Costa died in hospital on Wednesday, six days after being apprehended by police and falling unwell.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2022/mar/26/belly-mujinga-family-seeking-answers-two-years-after-death",
+      "kind": "preview",
+      "output": {
+        "headline": "Two years on, Belly Mujinga's family keep pressing for answers",
+        "trail": "The transport worker died of Covid two weeks after allegedly being spat and coughed at by an irate passenger.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2018/nov/10/edinburgh-woman-seriously-injured-after-doorstep-acid-attack",
+      "kind": "preview",
+      "output": {
+        "headline": "Edinburgh woman, 37, badly hurt in suspected doorstep 'acid' attack",
+        "trail": "A masked man threw a corrosive substance at the 37-year-old woman, in what police believe was a targeted attack.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2018/may/08/woman-in-hospital-after-suspected-acid-attack-in-brixton",
+      "kind": "preview",
+      "output": {
+        "headline": "Firefighters treat woman after suspected acid attack near Brixton tube",
+        "trail": "A witness described seeing firefighters hose the victim down outside the tube station.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/uk-news/2021/jul/14/oldham-council-leader-arooj-shah-car-arson-attack",
+      "kind": "preview",
+      "output": {
+        "headline": "Politicians rally behind Oldham council leader Arooj Shah",
+        "trail": "Politicians voiced solidarity with Shah, the town's first female Muslim council leader, after her car was deliberately set alight in what was called an 'appalling' attack.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2025/nov/17/uk-weather-amber-cold-health-alerts-issued-for-northern-england",
+      "kind": "preview",
+      "output": {
+        "headline": "Health alerts aim to protect northern England from overnight cold",
+        "trail": "Warnings are in place until 8am Saturday, with sub-zero temperatures also expected to disrupt transport.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2023/nov/29/amber-cold-weather-health-alert-issued-for-northern-england",
+      "kind": "preview",
+      "output": {
+        "headline": "Health alert system kicks in as cold weather hits northern England",
+        "trail": "The amber alert means the cold's impact is likely to be 'felt across the whole health service for an extended period of time'.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2025/dec/28/rise-in-deaths-predicted-as-amber-cold-health-alerts-issued-in-northern-england",
+      "kind": "preview",
+      "output": {
+        "headline": "‘Rise in deaths’ predicted as amber cold health alerts issued in northern England",
+        "trail": "UKHSA warns vulnerable and elderly people may be at risk with temperatures to drop severely overnight",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2025/dec/31/nhs-amber-cold-health-alerts-england",
+      "kind": "preview",
+      "output": {
+        "headline": "NHS prepares for new year as amber cold alerts cover all of England",
+        "trail": "Hospitals are preparing for a new year surge in sick patients, already under 'extraordinary pressure' as temperatures plummet and with 95% of beds full.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
+      "kind": "preview",
+      "output": {
+        "headline": "Met Office flags conditions for thick fog across most of southern England",
+        "trail": "Forecasters say the conditions create a 'perfect recipe' for fog, with travel likely to be disrupted until Monday morning in most of southern England and across the Midlands.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/science/2025/aug/25/elon-musk-spacex-starship-rocket-launch-texas",
+      "kind": "preview",
+      "output": {
+        "headline": "Second scrubbed Starship launch in two days adds to SpaceX's run of technical issues",
+        "trail": "The delay is the latest in a streak of setbacks for Elon Musk's company, which includes a liquid oxygen leak on Sunday.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2025/mar/06/spacex-starship-explodes-musk",
+      "kind": "preview",
+      "output": {
+        "headline": "Second consecutive Starship explosion marks new setback for Musk's Mars ambitions",
+        "trail": "Back-to-back mishaps mark big setbacks for the program to launch satellites and send humans to the moon and Mars.",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2021/dec/20/spacex-starship-humans-moon-next-year",
+      "kind": "preview",
+      "output": {
+        "headline": "SpaceX unveils fully recyclable rocket built to carry humans to Mars",
+        "trail": "The largest and most powerful rocket ship ever built, Starship is fully recyclable and may be the first vehicle to land humans on Mars.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+      "kind": "preview",
+      "output": {
+        "headline": "SpaceX Starship megarocket launches on long-haul test before reuse",
+        "trail": "Flight 15 is expected to orbit Earth about 14 times over 22 hours, before the company attempts to catch the rocket at Starbase, Texas.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/article/2024/jun/06/spacex-starship-successful-test-flight",
+      "kind": "preview",
+      "output": {
+        "headline": "Massive SpaceX rocket completes first successful flight with Indian Ocean splashdown",
+        "trail": "The world's most powerful rocket flew for an hour before splashing down in the Indian Ocean, marking Starship's first successful test flight.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2024/nov/19/trump-musk-spacex-starship-rocket-launch",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump watches on as Musk's SpaceX flies Starship's sixth test flight",
+        "trail": "The launch was Starship's sixth experimental flight, following its first successful test in June.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+      "kind": "preview",
+      "output": {
+        "headline": "World enters 'age of electricity' as fossil fuels lose dominance, IEA says",
+        "trail": "The energy agency's chief says fossil fuels are no longer the dominant energy source, as the summit weighs an electrification pledge.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/13/diabetes-wellfed-vegetable-prescriptions-cornwall",
+      "kind": "preview",
+      "output": {
+        "headline": "Vegetable prescriptions help Cornwall's diabetes patients manage blood sugar",
+        "trail": "WellFed participants in Cornwall report better blood sugar levels with the help of free veg boxes, cooking and gardening.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "kind": "preview",
+      "output": {
+        "headline": "AI unlocks hundreds of hidden theorems in Kurt Gödel's notebooks",
+        "trail": "The mathematician left 1,009 densely written pages, much of it in an obsolete shorthand, now said to contain hundreds of proved theorems 'ahead of his time'.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/13/ireland-banned-books-room-censorship",
+      "kind": "preview",
+      "output": {
+        "headline": "Readers can now explore decades of Ireland's banned 'evil literature'",
+        "trail": "The books are now accessible to the public, having been censored in Ireland between 1926 and 1996 for themes judged 'likely to corrupt or deprave', or for references to contraception or violence.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/13/fan-bay-plotting-room-national-trust-white-cliffs-dover",
+      "kind": "preview",
+      "output": {
+        "headline": "Visitors can now step inside Dover's second world war 'brain' bunker",
+        "trail": "Entered via a hatch in a field, the bunker once controlled a gun battery used to attack German ships in the Channel.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+      "kind": "preview",
+      "output": {
+        "headline": "Microsoft's global outage fix reaches every affected customer and region",
+        "trail": "The tech company says operations are back for all customers and regions hit by one of the most disruptive IT failures in years.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "kind": "preview",
+      "output": {
+        "headline": "Transportation secretary says airspace reopens after cause of US ground stop found",
+        "trail": "Sean Duffy says flights are slowly resuming nationwide now that the US aviation agency has lifted its ground stop and identified the problem.",
+        "upside": 2
+      }
+    }
+  ]
+}
