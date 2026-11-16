@@ -1,0 +1,366 @@
+[
+  {
+    "path": "/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"crisis\": \"Burnham pledges childhood-level intervention to cut Neet numbers, which topped a million this year, as the Milburn review recommends moving some under-25s off personal independence payments onto a lower youth allowance.Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response\""
+  },
+  {
+    "path": "/sport/2026/nov/16/lewis-hamilton-urges-f1-push-harder-move-faster-diversity",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"warning\""
+  },
+  {
+    "path": "/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+    "kind": "article",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Russell Brand accuser Mia Latter waives anonymity to call for consent law change\""
+  },
+  {
+    "path": "/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
+    "kind": "article",
+    "field": "standfirst",
+    "severity": "warning",
+    "issue": "standfirst leans on \"crisis\": \"Exclusive: Rambert releases a trailer for its dance adaptation of Russell T Davies’s series about friendship amid the 80s Aids crisis, built around the ‘extraordinary freedom’ of clubbing\""
+  },
+  {
+    "path": "/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
+    "kind": "article",
+    "field": "opening",
+    "severity": "warning",
+    "issue": "opening paragraph leans on \"crisis\""
+  },
+  {
+    "path": "/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"The newly released trailer for Rambert's adaptation, which puts the dancefloor at its heart, tells Russell T Davies's 'loaded with potential' story of friendship amid the 1980s Aids crisis.\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/15/burnham-housing-crisis-revolution-pipedream-children-hope",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"dire\": \"Nearly 2 million children are housed in dire conditions and anxious families are living out of carrier bags, with little sign yet of the hope the prime minister promised.\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/15/dining-across-the-divide-ilyan-daniel",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dining across the divide: 'It was futile – we didn't agree on anything. But we had a nice meal'\""
+  },
+  {
+    "path": "/music/2026/nov/15/ocean-colour-scene-review-ulster-hall-moseley-shoals",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ocean Colour Scene review – no other band of their era can do it like this\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/15/britain-veto-uae-united-nations-miliband-lana-nusseibeh-russia-us-sudan",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"horror\": \"Steve Bloomfield, former international editor of the Observer, says Lana Nusseibeh's role glossing the horror in Sudan makes her unsuitable for the post.\""
+  },
+  {
+    "path": "/world/2026/nov/15/chickens-are-great-characters-not-cowards",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Chickens are great characters, not cowards\""
+  },
+  {
+    "path": "/football/2026/nov/15/thomas-tuchel-england-spain-nations-league",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tuchel hails England's statement win over Spain as 'complete performance'\""
+  },
+  {
+    "path": "/sport/2026/nov/15/scotland-australia-nations-championship-rugby-union-match-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Scotland hold off late Australia rally to secure narrow victory\""
+  },
+  {
+    "path": "/football/2026/nov/15/arsenal-london-city-lionesses-womens-super-league-wsl-match-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Mary Earps frustrates Arsenal as London City Lionesses earn battling draw\""
+  },
+  {
+    "path": "/sport/2026/nov/15/mirra-andreeva-elina-svitolina-wta-finals-tennis",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Mirra Andreeva holds nerve against Svitolina to win WTA Finals for first time\""
+  },
+  {
+    "path": "/sport/2026/nov/15/tom-banton-century-england-win-second-mens-cricket-odi-australia",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Banton's century leads England to emphatic win in second ODI amid Australian soap opera\""
+  },
+  {
+    "path": "/sport/2026/nov/15/climate-crisis-cheltenham-major-headache-more-pain-coming-horse-racing",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"chaos\": \"There was little Cheltenham's bosses could have done to prevent the chaos on and off the track this weekend, with more disruption expected as the climate changes\""
+  },
+  {
+    "path": "/sport/2026/nov/15/rory-mcilroy-wins-golfs-race-to-dubai-title-for-record-equalling-eighth-time",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Emotional Rory McIlroy dedicates record-equalling eighth Race to Dubai title to father\""
+  },
+  {
+    "path": "/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Record-breaking Andy Robertson is Scotland's finest captain\""
+  },
+  {
+    "path": "/world/2026/nov/16/ukraine-war-briefing-energy-attacks-made-possible-by-continuing-starshield-restrictions-says-zelenskyy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Ukraine war briefing: energy attacks made possible by continuing Starshield restrictions, says Zelenskyy\""
+  },
+  {
+    "path": "/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (89 per cent of the words are the same): \"Digital finance products used to abuse almost 20 per cent of young women and girls, UK report finds\""
+  },
+  {
+    "path": "/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 18 words; keep it to 14 or fewer and move the detail to the trail: \"Digital finance products used to abuse almost 20 per cent of young women and girls, UK report finds\""
+  },
+  {
+    "path": "/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Iran launches drone attacks against US military base in Bahrain\""
+  },
+  {
+    "path": "/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Labour rebellion over Rosebank oilfield expected to top 100 MPs\""
+  },
+  {
+    "path": "/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"UKHSA warns of health impact on those vulnerable to cold and urges people to check in with neighbours.\""
+  },
+  {
+    "path": "/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Judge blocks Trump plan to renovate historic DC golf course\""
+  },
+  {
+    "path": "/music/2026/nov/15/paris-paloma-review-bristol-beacon",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fury\": \"The UK singer combines feminist fury with accessible melodies and dramatic flair, alternately pogoing and seeking out the wind machines at the prow of the stage.\""
+  },
+  {
+    "path": "/music/2026/nov/13/stevie-wonder-stalybridge-restaurant-cafe-continental-1000-tip",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip\""
+  },
+  {
+    "path": "/books/2026/nov/13/simon-winchester-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Simon Winchester obituary\""
+  },
+  {
+    "path": "/games/2026/nov/12/tanuki-pons-summer-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time\""
+  },
+  {
+    "path": "/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How years of research built Grand Theft Auto VI’s obsessively detailed world\""
+  },
+  {
+    "path": "/games/2026/nov/09/grand-theft-auto-creators-gta",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Crime pays: how Grand Theft Auto became a cultural colossus\""
+  },
+  {
+    "path": "/music/2026/nov/15/spark-review-glyndebourne-youth-opera-lucy-armstrong",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Spark review – Glyndebourne Youth Opera light up a terrific new show of monsters and magic\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Immersive show brings Kyffin Williams' rugged Welsh landscapes to life\""
+  },
+  {
+    "path": "/stage/2026/nov/15/cranford-review-orange-tree-theatre-tamsin-greig",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tamsin Greig is sensational in a Cranford where comedy and pain are in perfect balance\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/13/nicole-eisenman-the-last-human-kiss-roman-scotland-the-week-in-art",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Kisses galore, seaside shenanigans, McRoman adventures and street feats – the week in art\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Philippines’ Carmelle wins first Eurovision contest in Asia\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"‘It’s an architect’s dream’: five beautiful eco buildings around the world\""
+  },
+  {
+    "path": "/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’\""
+  },
+  {
+    "path": "/thefilter/2026/nov/15/best-mens-boots-winter-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The 14 best men’s boots for winter, from chelseas and lace-ups to wellies\""
+  },
+  {
+    "path": "/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds\""
+  },
+  {
+    "path": "/thefilter/2024/dec/29/best-electric-toothbrushes",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best electric toothbrushes in the UK for every budget – tested\""
+  },
+  {
+    "path": "/food/2026/nov/15/how-to-make-the-perfect-vietnamese-caramel-pork-thit-kho-recipe-felicity-cloake",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to make the perfect Vietnamese caramel pork, or thịt kho – recipe\""
+  },
+  {
+    "path": "/food/2026/nov/14/sauteed-cabbage-cheese-cream-sunflower-seeds-vegetarian-recipe-jackson-boxer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jackson Boxer's vegetarian recipe for sauteed cabbage with cheese cream and sunflower seeds\""
+  },
+  {
+    "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief's signature look is now being mocked as a midlife-crisis cliche.\""
+  },
+  {
+    "path": "/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"warns\": \"As England's chief medical officer warns of the challenges of growing older in rural areas, we want to hear from people who have struggled with isolation or accessing services and support.\""
+  },
+  {
+    "path": "/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Internet Watch Foundation reports sharp rise in AI child sexual abuse material\""
+  },
+  {
+    "path": "/world/article/2024/may/24/number-abortions-england-wales-record-levels",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is 15 words; keep it to 14 or fewer and move the detail to the trail: \"England and Wales recorded 251,377 abortions in 2022, up 17 per cent, figures show\""
+  },
+  {
+    "path": "/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"plunges\": \"The board's meeting follows Jensen Huang's admission that he had a relationship with a woman alleged to be a Chinese spy, as Nvidia's stock price plunges.\""
+  },
+  {
+    "path": "/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"turmoil\": \"This live blog, which covered Jensen Huang's resignation as Nvidia chief executive amid an affairs scandal, is now closed after a day of turmoil for the company.\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/06/the-guardian-view-on-russell-brand-his-conviction-sends-a-powerful-message",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"blow\": \"Editorial: Brand was convicted of sexual offences after brave women testified against him, striking a blow against the sexual entitlement he personified.\""
+  },
+  {
+    "path": "/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"The tech company says it has restored operations to all customers and regions hit by one of the worst IT failures in years.\""
+  }
+]
