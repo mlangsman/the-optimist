@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/film/2026/nov/16/filipinana-review-rafael-manuel-golf",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"threat\": \"A sense of threat permeates a verdant private golf course in water-deprived Manila, where sexual exploitation plays out amid submissive tee-girls and geisha-style caddies catering to the male clientele.\""
+  },
+  {
+    "path": "/stage/2026/nov/16/stage-version-tv-series-its-a-sin-trailer",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"A trailer has been released for Rambert's version of Russell T Davies's show about friendship amid the 80s Aids crisis and the 'extraordinary freedom' of clubbing.\""
+  },
+  {
+    "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Once Hollywood's ultimate symbol of rebellion, the former Nvidia chief's signature look is now mocked as a midlife crisis cliche.\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/15/dining-across-the-divide-ilyan-daniel",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dining across the divide: 'It was futile – we didn't agree on anything. But we had a nice meal'\""
+  },
+  {
+    "path": "/uk-news/2021/jan/11/police-in-england-and-wales-face-targets-in-return-for-20000-new-officers",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"In return, the Home Office is seeking cuts of up to 20% to a range of crimes, though police fear a return to a target-driven approach.\""
+  },
+  {
+    "path": "/uk-news/2025/apr/02/twenty-three-more-women-contact-met-police-over-serial-rapist-zhenhao-zou",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fears\": \"Twenty-three more women have contacted Met police over the student, who was convicted of 10 rapes and may have up to 60 more victims, the force fears.\""
+  }
+]
