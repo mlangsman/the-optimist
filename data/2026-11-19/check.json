@@ -5,8 +5,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The standfirst opens with the setback ('Prof Peter Hindmarsh ... was barred from treating patients during Lucy Letby's trial on safety grounds, which jurors were never told') and gives the upside second ('dozens of experts have separately challenged his clinical evidence ... backing her bid for an appeal'); the brief requires the standfirst to open with the upside and state the setback second."
+      ]
     }
   },
   {
@@ -32,8 +34,10 @@
   {
     "path": "/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline says 'Bayesian sinks in seconds', but the report says the yacht heeled over/capsized in under 15 seconds and did not actually sink until 18 minutes later ('It sank 18 minutes later') — the headline misstates the timeline of the sinking itself, which the rewrite's own trail ('capsized ... in under 15 seconds') gets right."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -52,8 +56,10 @@
   {
     "path": "/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
     "kind": "article",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Headline 'Marital rape must be outlawed everywhere, says rights lawyer' overstates the geographic scope of Murunga's call: the original has him saying 'rape laws across the continent needed to change' (i.e. Africa), not a global/worldwide call ('everywhere')."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -95,8 +101,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a cosmetic edit: the headline keeps the same subject and almost the same wording as the original ('EU to close door on long-term UK ties until Burnham decides on Brexit' vs 'EU \"to close door\" to talks on long-term UK ties until Burnham has decided on Brexit'), with no upside built in at all, and the trail is likewise a near word-for-word paraphrase."
+      ]
     }
   },
   {
@@ -115,18 +123,24 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback ('was hit by two attacks that destroyed a section of road') and only then mentions officials assessing the damage, the reverse of the required order (upside first, setback second)."
+      ]
     }
   },
   {
     "path": "/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "Added sentence 'Marine accident investigators are examining why the vulnerability was not identified before the sinking' implies an ongoing inquiry; the given original states the report 'finds' this and investigators 'say' it had not been fully assessed — a completed finding, not an open-ended 'examining why'."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a cosmetic edit: the headline keeps the original's subject and angle — the unassessed vulnerability — just reordered ('Report identifies superyacht Bayesian's vulnerability to high winds' vs 'Mike Lynch's superyacht had unidentified vulnerability to high winds, report finds'), with no upside (e.g. the rescue of the nine crew and six guests, used successfully in the full article on this same story) built in."
+      ]
     }
   },
   {
@@ -135,8 +149,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "This is a cosmetic edit: headline and trail are virtually unchanged paraphrases of the original ('Ministers reportedly ask Google to block Russell Brand's YouTube account' vs 'UK ministers reportedly ask Google to block Russell Brand's YouTube account'), with the same subject and only minor word swaps."
+      ]
     }
   },
   {
@@ -212,8 +228,10 @@
   {
     "path": "/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The trail attributes the paramedics quote to 'one superfan' speaking, but the original never identifies who said it (it is a bare pull-quote); the original's 'even for the super fans' refers to a different claim, that one scene proved too much for them, not to this quote's speaker."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -312,11 +330,15 @@
   {
     "path": "/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'the slide in Nvidia's share price' weakens the original's 'the share collapse' into vagueness — 'slide' is materially softer than 'collapse'."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "For this opinion piece, the writer's argument has simply been restated, not turned into a forward-facing version of it: 'Poor Jensen Huang's leather-jacket reboot can't fix his real problems' keeps the same backward-looking, critical verdict as the original ('The reboot ... almost worked. But who can explain away 30 leather jackets?') rather than rephrasing it as what Brockes thinks should happen or is possible."
+      ]
     }
   },
   {
@@ -325,18 +347,24 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "For this opinion piece, the writer's argument has been dropped rather than re-phrased forward: the original's thesis ('Instant gratification is ruining our lives') is replaced with a neutral description of the column's content ('Adrian Chiles traces today's instant-gratification habit back to his CD player's shuffle button'), losing the writer's claim instead of turning it into its forward-facing version."
+      ]
     }
   },
   {
     "path": "/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"Nearly 49 years after launch\" changes the original's \"After 49 years\" to a different, vaguer duration claim (one implies the full 49 years have passed, the other that they have not quite)."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail states the setback (\"has done great damage to our planet\") before the upside (\"a clear view of ourselves\"), when the standfirst must open with the upside and give the setback second."
+      ]
     }
   },
   {
@@ -362,8 +390,10 @@
   {
     "path": "/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"the west needs its own response\" replaces the original's central judgement that the meeting \"is not progress\" with a prescriptive claim that is not stated anywhere in the given original."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -372,8 +402,10 @@
   {
     "path": "/commentisfree/2026/nov/18/the-guardian-view-on-two-tier-policing-tackle-the-myth-dont-pander-to-it",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"Confidence in policing survives when myths are confronted, not indulged\" asserts an outcome (confidence surviving) the original does not support; the original says only that confidence \"is being corroded\", not that it survives."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -402,8 +434,10 @@
   {
     "path": "/society/2026/nov/18/what-stops-us-building-the-houses-britain-needs",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline claims the letters are \"on how Britain can build more homes\", but both the original and the rewrite's own trail say the letters are about \"what's blocking new homes\" – a different subject than the headline claims."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -452,11 +486,15 @@
   {
     "path": "/sport/2026/nov/18/rugby-brain-injury-lawsuits-on-brink-of-collapse-over-medical-documents-delay",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "\"hundreds of former rugby players\" adds \"former\", a detail not present in the original, which says only \"hundreds of rugby players\"."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Hundreds of rugby players face a fresh test\" is a vague euphemism for the jeopardy the copy describes; with no genuine upside in the original, the setback should be stated plainly rather than softened into an ambiguous 'test'."
+      ]
     }
   },
   {
@@ -465,8 +503,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Netflix and Fox gear up for a $2bn fight over 2030 World Cup rights\" keeps the original's exact subject and words (Netflix, Fox, $2bn, World Cup) with only synonym swaps (\"bid\" to \"fight\"), a cosmetic edit."
+      ]
     }
   },
   {
@@ -495,8 +535,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Elon Musk distances himself from Maga, says big Republican spending was a mistake\" keeps the original's exact subject and claims, merely swapping synonyms (\"claims\" to \"distances himself\", \"regrets\" to \"was a mistake\"), a cosmetic edit."
+      ]
     }
   },
   {
@@ -525,8 +567,11 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline \"Ground rent for leaseholders in England and Wales to be capped by 2028\" is a clause-reorder of the original's \"Leaseholders in England and Wales to have ground rent capped in 2028\", a cosmetic edit.",
+        "The trail runs to two overlapping paragraphs that largely repeat each other, far exceeding the brief's 20-35 word, one-to-two sentence standfirst."
+      ]
     }
   },
   {
@@ -575,8 +620,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Ex-Tory MPs barred from shaping Reform UK's immigration policy, Yusuf says\" is almost word-for-word the original headline with only the attribution's position moved, a cosmetic edit."
+      ]
     }
   },
   {
@@ -595,8 +642,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail \"The launch is overshadowed by widespread PlayStation network problems in the hours beforehand\" states only the setback and does not open with the upside (the launch itself), as the standfirst rule requires."
+      ]
     }
   },
   {
@@ -632,11 +681,15 @@
   {
     "path": "/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline's \"Lawmakers demand transparency\" generalises the original's specific \"Democrats demand answers\", weakening who is reported to be asking the questions."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "\"Lawmakers demand transparency from Lutnick over Nvidia family dealings\" keeps the original's subject and structure with only synonym swaps (\"Democrats\" to \"Lawmakers\", \"demand answers\" to \"demand transparency\"), a cosmetic edit."
+      ]
     }
   },
   {
@@ -1095,8 +1148,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Energy bills in Great Britain forecast to rise 26% to £2,166 in January' only drops 'by' and swaps 'from' for 'in' from the original headline, and the trail's 'faces pressure' for 'under pressure' is the same pattern — a cosmetic edit that keeps the original's subject and sentence exactly (rule 2); even with no upside in this copy to build on, the piece needed genuinely recast, calm prose rather than a near-verbatim copy."
+      ]
     }
   },
   {
@@ -1125,8 +1180,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'NHS in England reports more than 3,000 staff snooping incidents' only reorders the original's 'incidents of staff snooping on patients' records', keeping the same quote, subject and sentence shape — a cosmetic edit (rule 2); with no response reported anywhere in this copy, the brief still asks for calmly recast prose, not a word shuffle."
+      ]
     }
   },
   {
@@ -1152,8 +1209,11 @@
   {
     "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'is now being mocked online as a cliche' adds 'online', a detail not in the original, which says only that the look 'is now being mocked' without naming where.",
+      "'a cliche of midlife rebellion' changes the original's 'a midlife crisis cliche' to a different idea; midlife rebellion is not the same claim as midlife crisis."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1255,8 +1315,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'how Reform's Doge-style blitz compared to other councils' keeps the original's quote and sentence template, swapping only 'crackdown fell flat' for a vaguer comparison — a cosmetic edit (rule 2) that also softens the finding that the crackdown failed outright (rule 5); the copy's own 'failed to cut harder or faster than comparable local authorities' is the plainer, stronger line to build the headline on."
+      ]
     }
   },
   {
@@ -1275,8 +1337,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'A decades-long potato war between the US and Japan nears boiling point' only compresses the original's 'has been simmering for decades... about to reach boiling point', keeping the same dramatic metaphor and the same subject — a cosmetic edit (rule 2); a story with no upside in the copy should still be stated plainly without dramatic verbs, which this does not do."
+      ]
     }
   },
   {
@@ -1402,21 +1466,29 @@
   {
     "path": "/politics/2019/sep/27/no-deal-brexit-fault-uk-government-alone-juncker-eu",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'the talks are now approaching a decisive moment' changes the original, where the UK's Brexit secretary warns the EU specifically that it is facing a 'moment of truth'; the rewrite attributes this to 'the talks' generally rather than to the EU being warned."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The standfirst 'Brexit talks ended in acrimony, with the EU saying the UK was \"solely\" to blame; the UK's Brexit secretary says the talks are now approaching a decisive moment' opens with the setback (acrimony, blame) and gives the upside second, the reverse of what the brief requires (rule 3); it should open with the 'moment of truth' framing and state the blame and acrimony second."
+      ]
     }
   },
   {
     "path": "/politics/2019/apr/15/downing-street-under-pressure-to-close-down-labour-talks-on-brexit",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'to break Brexit deadlock with Labour' invents a 'deadlock' the original never states; the original says only that Downing Street is under pressure to close down the talks, not that the talks are deadlocked."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail 'Downing Street is under pressure to close down talks with Labour on Brexit, before what could be heavy losses in the European elections' is pure setback with no upside at all, when the brief requires the standfirst to open with the upside (rule 3); the copy's own 'scrambles to explore options' is the material to lead the standfirst with instead."
+      ]
     }
   },
   {
@@ -1442,11 +1514,15 @@
   {
     "path": "/politics/2020/nov/20/brexit-deal-close-to-being-finalised-eu-ambassadors-told",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'Most Brexit deal issues now agreed' drops the original's qualifier 'largely', overstating how settled the issues are; the original says 'most key issues largely agreed', not that they are now fully agreed."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Most Brexit deal issues now agreed, EU ambassadors hear' keeps the same sentence frame and claim as the original's 'Brexit deal close to being finalised, EU ambassadors told', merely swapping 'close to being finalised'/'told' for 'now agreed'/'hear' — a cosmetic edit (rule 2)."
+      ]
     }
   },
   {
@@ -1462,8 +1538,10 @@
   {
     "path": "/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "'opens blockbuster Apec summit with Putin' conflates the Apec summit with the separate 'blockbuster trilateral meeting with Putin' the original describes; the original has the hug come before the Apec summit, with the trilateral meeting with Putin a distinct, later event, not the Apec summit itself."
+    ],
     "tone": {
       "ok": true,
       "issues": []
@@ -1555,8 +1633,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Satellite images confirm Russian warplanes destroyed at Crimea airbase' keeps the same subject and angle as the original 'Russian warplanes destroyed in Crimea airbase attack, satellite images show', just reordering the clauses and swapping 'show' for 'confirm' — a cosmetic edit."
+      ]
     }
   },
   {
@@ -1575,8 +1655,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Investigators have identified wind as the cause of the sinking' only repeats what the headline and trail already state, rather than naming any further action being taken."
+      ]
     }
   },
   {
@@ -1585,8 +1667,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Investigators are preparing to launch the $30m salvage operation, hoping it will reveal fresh clues about the sinking' repeats the headline 'Investigators hope $30m operation will reveal clues to superyacht's sinking' rather than stating a distinct action."
+      ]
     }
   },
   {
@@ -1595,8 +1679,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Salvage teams have completed the operation to raise the wreck, a step toward establishing what caused the fatal sinking' repeats the headline's own content rather than stating a further action."
+      ]
     }
   },
   {
@@ -1612,11 +1698,15 @@
   {
     "path": "/world/2025/may/10/operation-to-recover-mike-lynchs-superyacht-suspended-after-diver-dies",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline and trail call the diver's death a 'Bayesian salvage accident' / 'salvage accident', but the original reports only that a diver died and that investigators are seeking to establish the cause — 'accident' asserts a conclusion the original does not state."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Investigators are working to establish the cause of the diver's death' repeats the headline 'Investigators move to determine cause of Bayesian salvage accident' rather than stating a further action."
+      ]
     }
   },
   {
@@ -1635,8 +1725,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Barrister who clashed with journalist takes himself to professional watchdog' keeps the same subject and angle as the original 'Russell Brand barrister reports himself to watchdog over clash with journalist', with synonyms swapped ('reports himself'→'takes himself', 'over clash with'→'who clashed with') — a cosmetic edit."
+      ]
     }
   },
   {
@@ -1652,21 +1744,29 @@
   {
     "path": "/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline 'Nandy pushes for stronger protections for women across the media industry' claims she is actively pushing for specific stronger protections; the original reports only that she said the Brand case 'must be a wake-up call to protect women in media' — it does not say she is pushing for any particular protections."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline's claim that Nandy 'pushes for stronger protections' is not borne out by the trail, which states only her general 'wake-up call' remark — the headline is built on a concrete policy push the copy does not describe."
+      ]
     }
   },
   {
     "path": "/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The headline 'TV insiders renew call to confront Brand-case misogyny and sexism' states insiders are making an active call to action; the original, and the rewrite's own trail, report only that insiders say the misogyny and sexism 'have not gone away' and that the industry is 'still failing to confront' it — no such call is reported."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The headline credits 'TV insiders' with renewing a call to action that is not reported anywhere in the copy (the trail states only that the industry is 'still failing to confront' the problem) — the upside the headline is built on is not actually in the copy."
+      ]
     }
   },
   {
@@ -1695,8 +1795,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback ('was tortured and jailed for three years ... after speaking out') and gives the upside second ('now free, she vows to keep fighting for them'), rather than opening with the upside and giving the setback second as required."
+      ]
     }
   },
   {
@@ -1835,8 +1937,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Robbie Williams to Florence Pugh: the celebrity feeds keeping lockdown boredom at bay' keeps the original's exact phrase 'Robbie Williams to Florence Pugh' and the same subject (celebrity feeds to follow during lockdown boredom), merely reordered and reworded — a cosmetic edit."
+      ]
     }
   },
   {
@@ -1882,11 +1986,15 @@
   {
     "path": "/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
     "kind": "preview",
-    "ok": true,
-    "issues": [],
+    "ok": false,
+    "issues": [
+      "The trail adds scare quotes around 'threatens' (Vučić \"'threatens'\" mass protests) that are not in the original ('Aleksandar Vučić threatens mass protests of his own'), implying doubt about the threat that the original does not convey."
+    ],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "'Serbia inaugurates Student List's MPs following their election win' keeps the same subject and angle as the original 'Serbia's Student List candidates sworn in as MPs after election triumph', with synonyms swapped ('sworn in'→'inaugurates', 'triumph'→'win') — a cosmetic edit."
+      ]
     }
   },
   {
@@ -1895,8 +2003,10 @@
     "ok": true,
     "issues": [],
     "tone": {
-      "ok": true,
-      "issues": []
+      "ok": false,
+      "issues": [
+        "The progress line 'Gazi has turned early terror into work that helps tigers and people live safely side by side' repeats the headline 'From terror to protector: the man keeping Bengal tigers and people safe' rather than stating a further action."
+      ]
     }
   },
   {

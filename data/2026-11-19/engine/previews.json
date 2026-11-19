@@ -1,123 +1,104 @@
 {
   "/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial": {
-    "headline": "Letby case puts legal safeguards against miscarriages of justice to the test",
-    "trail": "Rules to guard against miscarriages of justice are in focus after the Guardian found Prof Peter Hindmarsh, whose evidence helped convict Lucy Letby, was barred from treating patients during trial; the jury was never told.",
-    "progress": null,
-    "upside": 1
+    "headline": "Lucy Letby jury never told key doctor was barred from practice",
+    "trail": "Exclusive: jurors in the Lucy Letby trial were never told that Prof Peter Hindmarsh, whose evidence helped convict her, had been barred from practising over patient-safety concerns.",
+    "upside": 0
   },
   "/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit": {
-    "headline": "UK and EU near reset deal on food, emissions trading and youth mobility",
-    "trail": "A UK-EU summit on Friday is expected to agree reset measures on food, emissions trading and youth mobility, but diplomats say there will be no talks on Britain's longer-term ties until Burnham decides on Brexit.",
-    "progress": "UK and EU negotiators are expected to agree a reset deal on Friday, covering food, emissions trading and youth mobility.",
-    "upside": 2
+    "headline": "EU to close door on long-term UK ties until Burnham decides on Brexit",
+    "trail": "Diplomats say the EU's piecemeal approach to resetting relations is reaching its limits, and Europe wants clarity on whether Britain intends to reverse its exit.",
+    "upside": 0
   },
   "/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china": {
-    "headline": "Apec summit live: Xi, Trump and Putin hold historic first trilateral in China",
-    "trail": "Leaders of the US, China and Russia take part in their first trilateral, with developments on trade, AI and global conflicts closely watched",
-    "progress": "World leaders are using the summit to discuss trade, AI cooperation and progress on several global conflicts.",
+    "headline": "Apec summit live: Xi, Trump and Putin prepare for historic first trilateral",
+    "trail": "World leaders from the US, China and Russia are due to hold their first three-way meeting, with trade, AI and global conflicts among the issues being closely watched.",
     "upside": 2
   },
   "/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine": {
-    "headline": "Ukraine strikes symbolic Kerch bridge for third time in a week",
-    "trail": "The attack is the third this week on the bridge linking annexed Crimea to Russia, part of a Ukrainian campaign using domestically developed drones and missiles; the Kremlin-appointed governor says traffic has been halted.",
-    "progress": "Ukraine's campaign to strike the bridge uses domestically developed drones and missiles.",
-    "upside": 2
+    "headline": "Damage assessment under way at Crimea's Kerch bridge, governor says",
+    "trail": "The bridge linking annexed Crimea to Russia was hit by two attacks that destroyed a section of road, days before Russian-installed officials began assessing the damage.",
+    "upside": 1
   },
   "/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report": {
-    "headline": "MAIB report sets out cause of Bayesian yacht sinking that killed seven",
-    "trail": "A UK investigation found the Bayesian had never been assessed for high winds at anchor; it sank off Sicily in August 2024, killing seven, including Mike Lynch and his teenage daughter, with 15 others rescued.",
-    "progress": "The UK's Marine Accident Investigations Branch has completed its final report into the sinking.",
+    "headline": "Report identifies superyacht Bayesian's vulnerability to high winds",
+    "trail": "Investigators say the Bayesian, Mike Lynch's superyacht which sank off Sicily killing seven people including the tech tycoon, had not been fully assessed for this risk.",
+    "progress": "Marine accident investigators are examining why the vulnerability was not identified before the sinking.",
     "upside": 1
   },
   "/news/2026/nov/18/uk-government-russell-brand-youtube-deactivated-google": {
-    "headline": "Ministers and tech firms move to shut down Russell Brand's social media",
-    "trail": "Google has been asked to deactivate Russell Brand's YouTube account, after Meta disabled his Instagram and Facebook profiles, following his claim of innocence from prison after his conviction for rape and sexual assault.",
-    "progress": "The government, Meta and Google are acting to limit the reach of Brand's message from prison.",
-    "upside": 2
-  },
-  "/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa": {
-    "headline": "Equality Now lawyer calls for African rape laws to be reformed",
-    "trail": "Equality Now lawyer Jean-Paul Murunga says Africa's Maputo protocol offers a route to change, as a UN report finds almost half of women in west and central Africa cannot refuse sex within marriage.",
-    "progress": "Equality Now's Jean-Paul Murunga is calling for rape laws to be reformed across Africa, building on the African Union's Maputo protocol, which guarantees consent.",
+    "headline": "Ministers reportedly ask Google to block Russell Brand's YouTube account",
+    "trail": "The government made the request to the tech firm after the 51-year-old sent a message from prison, according to Sky News.",
     "upside": 1
   },
+  "/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa": {
+    "headline": "UN finds one in four women unable to refuse sex within marriage",
+    "trail": "Almost half of women in west and central Africa cannot withhold consent, with girls most affected, the UN's population agency finds.",
+    "upside": 0
+  },
   "/technology/2026/nov/18/anthropic-share-price-stock-market-ipo": {
-    "headline": "Anthropic prices IPO above range, in sight of SpaceX's stock market record",
-    "trail": "Anthropic priced shares at $83, above its expected range and within reach of SpaceX's record stock market debut, as the AI firm reported an $80bn loss for the first half of 2026.",
-    "progress": "Anthropic is going public on Thursday, pricing its shares above the expected range despite reporting an $80bn loss.",
-    "upside": 2
+    "headline": "Anthropic prices shares above range in one of history's biggest IPOs",
+    "trail": "The artificial intelligence firm priced shares at $83, above its expected range, as trading in one of the largest ever stock market debuts is set to begin on Thursday.",
+    "upside": 3
   },
   "/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards": {
-    "headline": "Florence Pugh calls for kindness after suing over fake surgery images",
-    "trail": "The actor says she has sued publications over AI-generated images of cosmetic procedures, and is calling for kindness, after a wave of 'stressful' online speculation followed viral photos of her at the Governors awards.",
-    "progress": "Pugh says she has sued publications over AI-generated images of cosmetic procedures.",
+    "headline": "Florence Pugh pushes back on cosmetic surgery speculation",
+    "trail": "The actor called the online conjecture 'stressful' and 'disturbing' in a lengthy statement after photos of her at the Governors awards went viral, denying she had ever used Ozempic or had surgery.",
     "upside": 2
   },
   "/film/2026/nov/18/guarding-stars-review-netflix-leighton-meester": {
-    "headline": "Guarding Stars review – Leighton Meester shines in fizzy Netflix holiday romance",
-    "trail": "As a female bodyguard protecting an A-list star, the Gossip Girl actor shines in a Christmas movie a cut above the competition",
-    "progress": null,
+    "headline": "Guarding Stars review – a fizzy Christmas romance lifted by Leighton Meester",
+    "trail": "The Gossip Girl alum plays a bodyguard protecting an A-list star in a festive romance that rises above its genre rivals.",
     "upside": 2
   },
   "/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece": {
-    "headline": "'Most extraordinary virtual world': critics hail Grand Theft Auto VI as masterpiece",
-    "trail": "Reviewers praise the relationship between two leads in the hotly anticipated release, whose trailer attracted 90m views in 24 hours",
-    "progress": null,
-    "upside": 3
+    "headline": "Critics hail Grand Theft Auto VI as a masterpiece: 'most extraordinary virtual world'",
+    "trail": "Reviewers have praised the relationship between the game's two leads in the hotly anticipated release, after its trailer drew 90m views within 24 hours.",
+    "upside": 2
   },
   "/politics/2026/nov/18/kemi-badenoch-andy-burnham-consensus-politics-pmqs": {
-    "headline": "PMQs clash exposes gap between Badenoch's combativeness and Burnham's hopes for consensus",
-    "trail": "A parliamentary sketch on how the Tory leader's hardwired conflict met the prime minister's demand for an end to her patronising tone",
-    "progress": null,
+    "headline": "Burnham's consensus politics will need more than good intentions to survive Badenoch",
+    "trail": "The Tory leader is hardwired for conflict, and it was futile for the prime minister to demand an end to her patronising tone.",
     "upside": 1
   },
   "/world/2026/nov/18/quechua-rapper-renata-flores-indigenous-language-incas": {
-    "headline": "The Quechua rapper reclaiming the language of the Incas through music",
-    "trail": "Renata Flores has gained global recognition for her music in an Indigenous language whose speakers have faced social stigma",
-    "progress": "Renata Flores's music is helping revive and destigmatise the Quechua language, earning global recognition.",
-    "upside": 3
+    "headline": "Quechua rapper Renata Flores wins global recognition reclaiming Inca language",
+    "trail": "Flores has gained international recognition for her music in Quechua, an Indigenous language whose speakers have faced social stigma.",
+    "upside": 2
   },
   "/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry": {
-    "headline": "'I hope paramedics are on standby for the sex scenes!' The wet and wild TV experience leaving fans dizzy",
-    "trail": "From icy squirts to bed-bouncing vibrations, erotic hockey drama Heated Rivalry just got even raunchier in 'extreme sensory' 4DX cinema screenings",
-    "progress": null,
+    "headline": "Fans left dizzy by Heated Rivalry's new 'extreme sensory' 4DX screenings",
+    "trail": "From icy squirts to bed-bouncing vibrations, the erotic hockey drama got even raunchier in cinema screenings so intense one superfan said: 'I hope paramedics are on standby for the sex scenes!'",
     "upside": 2
   },
   "/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis": {
     "headline": "No 10 backs Burnham to make the case for closer EU ties",
-    "trail": "No 10 is confident the PM can make the case for closer EU ties against a resurrected leave campaign, while others worry about leaving the response solely in his hands",
-    "progress": "Downing Street says it is confident Burnham can make the case for closer EU ties.",
-    "upside": 2
+    "trail": "Downing Street is confident the prime minister can make the case for closer EU ties, though others worry about leaving the campaign solely in his hands as the leave movement is resurrected.",
+    "upside": 1
   },
   "/us-news/2026/nov/18/presidential-election-aoc-candidate": {
-    "headline": "Fresh off recent wins, the left sets its sights on an AOC run for president",
-    "trail": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028",
-    "progress": null,
+    "headline": "Progressives set a new goal: persuade AOC to run for president in 2028",
+    "trail": "Buoyed by recent election wins and increasingly mainstream policy priorities, the left is channelling its momentum toward 2028.",
     "upside": 3
   },
   "/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31": {
-    "headline": "Thirty countries move to forge fossil fuel treaty outside UN process at Cop31",
-    "trail": "Panama's minister accused an 'oil mafia' of holding the world hostage, as key issues remain unresolved in the summit's final days",
-    "progress": "Thirty countries have signed up to negotiate a fossil fuel treaty separate from the stalled UN process.",
+    "headline": "Thirty countries sign up to forge a fossil fuel treaty outside UN talks",
+    "trail": "Thirty countries have signed up to forge a new fossil fuel treaty outside the stalled UN process, after Panama's minister said the world is being 'held hostage by oil mafia' with key issues still unresolved as Cop31 enters its final days.",
     "upside": 2
   },
   "/environment/ng-interactive/2026/nov/18/el-bosque-mexico-displaced-sea-level-this-is-climate-breakdown": {
-    "headline": "'The sea washed away trees, then a whole row of houses' – a Mexican village lost to climate breakdown",
-    "trail": "She noticed the trees going first. Slowly she understood that the sea was going to take the whole village. This is Guadalupe Cobos Pacheco's story",
-    "progress": null,
-    "upside": 0
-  },
-  "/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc": {
-    "headline": "Climate advisers urge UK to hold firm on EV sales rules",
-    "trail": "Analysts say a mooted move to let more petrol and diesel vehicles be sold would wreck the plan to reach net zero by 2050",
-    "progress": "The Climate Change Committee is urging ministers to keep existing EV sales rules in place to stay on track for net zero.",
+    "headline": "'I knew it was time to get out': Guadalupe Cobos Pacheco's climate breakdown story",
+    "trail": "Guadalupe Cobos Pacheco watched the sea take the trees first, then 'a whole row of houses', as she came to understand it would eventually claim her entire village.",
     "upside": 1
   },
+  "/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc": {
+    "headline": "Net zero car targets depend on keeping EV sales rules, analysts say",
+    "trail": "Keeping the UK's EV sales rules in place is what protects its 2050 net zero plan, analysts say, adding that letting more petrol and diesel vehicles be sold would undermine it.",
+    "upside": 0
+  },
   "/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors": {
-    "headline": "UK backs new levies on polluting sectors to pay for climate action",
-    "trail": "Britain joins other signatories to a statement urging the introduction of targeted taxes on heavy emitters",
-    "progress": "The UK and other signatories are urging new targeted taxes on heavy emitters to fund climate action.",
-    "upside": 2
+    "headline": "UK joins global call for new taxes on heavy-polluting industries",
+    "trail": "Britain is one of several countries signing a statement urging the introduction of targeted levies on heavy emitters to help pay for climate action costs.",
+    "upside": 1
   },
   "/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar": {
     "headline": "Grand Theft Auto VI review – a foulmouthed, chaotic world with real heart at its centre",
@@ -132,28 +113,24 @@
     "upside": 2
   },
   "/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million": {
-    "headline": "Van Gogh painting sells for record $190.4m after Nazi-era ownership dispute",
-    "trail": "Chataigniers en fleurs (Chestnut Trees in Blossom), painted in 1890 in Auvers-sur-Oise, France, set a new record for the Dutch post-impressionist",
-    "progress": null,
-    "upside": 2
+    "headline": "Van Gogh's Chestnut Trees in Blossom sells for record $190.4m",
+    "trail": "Chataigniers en fleurs (Chestnut Trees in Blossom), painted in 1890 in Auvers-sur-Oise, set a new auction record for the Dutch post-impressionist, after a dispute over its Nazi-era sale.",
+    "upside": 3
   },
   "/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse": {
-    "headline": "Jensen Huang's carefully built image unravels under scrutiny, writes Emma Brockes",
-    "trail": "He seemed like the thinking person's tech titan. But then came the affairs, the fall in Nvidia's share price – and the sorry items in his wardrobe, says Guardian columnist Emma Brockes",
-    "progress": null,
+    "headline": "Poor Jensen Huang's leather-jacket reboot can't fix his real problems, writes Emma Brockes",
+    "trail": "He seemed like the thinking person's tech titan, but the affairs, the slide in Nvidia's share price and the sorry contents of his wardrobe make the rebrand impossible to sustain, writes Guardian columnist Emma Brockes.",
     "upside": 1
   },
   "/commentisfree/2026/nov/18/instant-gratification-is-ruining-our-lives-and-for-me-it-started-with-my-cd-players-shuffle-button": {
-    "headline": "Instant gratification has been reshaping how we live since my CD player's shuffle button, writes Adrian Chiles",
-    "trail": "Not even a compelling TV drama can stop me from staring at my phone. But this urge started 40 years ago, with what was at first presented as a useful feature",
-    "progress": null,
-    "upside": 2
+    "headline": "Adrian Chiles traces today's instant-gratification habit back to his CD player's shuffle button",
+    "trail": "Not even a compelling TV drama can stop me checking my phone, writes Adrian Chiles – a habit that began 40 years ago with his CD player's shuffle button, first sold to him as a useful feature.",
+    "upside": 1
   },
   "/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot": {
-    "headline": "After 49 years, Nasa's Voyager 1 still gives us a clear view of ourselves",
-    "trail": "Since the spacecraft's 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves",
-    "progress": null,
-    "upside": 2
+    "headline": "We must act now to save our 'pale blue dot'",
+    "trail": "Nearly 49 years after launch, Voyager 1 is now one light-day from Earth, and our wonderful and terrible species has done great damage to our planet – but Voyager has given us a clear view of ourselves.",
+    "upside": 1
   },
   "/commentisfree/2026/nov/18/david-beckhams-perfume-poundland-and-a-mighty-mighty-stink": {
     "headline": "David Beckham's perfume, Poundland and the limits of brand monetisation",
@@ -162,22 +139,19 @@
     "upside": 2
   },
   "/music/2026/nov/18/huddersfield-contemporary-music-festival-glass-osborne": {
-    "headline": "Sublime and ridiculous: the wild experiments of Huddersfield's contemporary music festival",
-    "trail": "The 49th edition of the new music festival begins this weekend. Where else can you indulge in a world of pure imagination, see the future – and chat over a curry with some of contemporary music's biggest names?",
-    "progress": null,
-    "upside": 3
+    "headline": "Pure imagination and wild experiments: inside Huddersfield's new music festival",
+    "trail": "Now in its 49th year, the contemporary music festival promises curry chats with some of the genre's biggest names, and a glimpse of the future of sound.",
+    "upside": 2
   },
   "/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress": {
-    "headline": "The Guardian view on the Trump, Xi and Putin meeting: a first, but not progress",
-    "trail": "Editorial: A trilateral gathering is good news for China and Russia, but bad for the US – and its traditional allies",
-    "progress": null,
-    "upside": 0
+    "headline": "The Guardian view on the Trump, Xi and Putin meeting: the west needs its own response",
+    "trail": "Editorial: the gathering is good news for China and Russia, but bad for the US and its traditional allies.",
+    "upside": 1
   },
   "/commentisfree/2026/nov/18/the-guardian-view-on-two-tier-policing-tackle-the-myth-dont-pander-to-it": {
-    "headline": "The Guardian view on 'two-tier policing': tackle the myth, don't pander to it",
-    "trail": "Editorial: Confidence in the system is being corroded by cynical campaigns and far-right propaganda – that is the challenge to be confronted",
-    "progress": "The editorial calls for confronting cynical campaigns and far-right propaganda to restore confidence in policing.",
-    "upside": 2
+    "headline": "Confidence in policing survives when myths are confronted, not indulged",
+    "trail": "Editorial: Confidence in the system is being corroded by cynical campaigns and far-right propaganda – that is the challenge to be confronted.",
+    "upside": 1
   },
   "/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs": {
     "headline": "Letter: the NHS should stick to a patient-centred model, not Palantir's insurance-based system",
@@ -186,51 +160,44 @@
     "upside": 1
   },
   "/education/2026/nov/18/blaming-ofsted-inspectors-for-the-system-is-unfair": {
-    "headline": "Letter: Ofsted inspectors deserve support, not blame, amid rising pressures",
-    "trail": "Inspectors and educators alike have been placed under even greater pressure year after year, says Helen Kenny",
-    "progress": null,
+    "headline": "Inspectors need support, not blame, as pressure on the system mounts, says Helen Kenny",
+    "trail": "Letter: Inspectors and educators alike have been placed under even greater pressure year after year, says Helen Kenny.",
     "upside": 1
   },
   "/society/2026/nov/18/what-stops-us-building-the-houses-britain-needs": {
-    "headline": "Letters: what's really stopping Britain from building the homes it needs",
-    "trail": "Emeritus professor Simon Price, Smart Growth UK's Jon Reeds and former Labour council leader Steve Siddon respond to a column by John Harris",
-    "progress": null,
-    "upside": 2
+    "headline": "Three readers respond to John Harris on how Britain can build more homes",
+    "trail": "In response to a column by John Harris, emeritus professor Simon Price, Smart Growth UK's Jon Reeds and former Labour council leader Steve Siddon share their views on what's blocking new homes.",
+    "upside": 1
   },
   "/society/2026/nov/18/bmi-was-never-meant-to-evaluate-an-individuals-health": {
-    "headline": "Letter: BMI was never meant to evaluate an individual's health",
-    "trail": "Clinicians should start with the patient in front of them to identify obesity, not rely on a 200-year-old method that was aimed at entire populations, says James Capon",
-    "progress": null,
+    "headline": "Doctors should judge obesity by the patient, not a population-level number, writes James Capon",
+    "trail": "Letter: Clinicians should start with the patient in front of them to identify obesity, not rely on a 200-year-old method that was aimed at entire populations, says James Capon.",
     "upside": 2
   },
   "/sport/2026/nov/18/australia-cricket-sandpaper-scandal-comment-bancroft-cummins": {
-    "headline": "Shame has been punishment enough in Australian cricket's sandpaper scandal, argues columnist",
-    "trail": "The time for formal measures has passed but all involved have betrayed the trust of a country whose Test team is sacred",
-    "progress": null,
+    "headline": "Let shame be the final word on Australian cricket's sandpaper scandal",
+    "trail": "The moment for formal punishment has passed, but all involved have betrayed the trust of a country that holds its Test team sacred, argues our columnist.",
     "upside": 1
   },
   "/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history": {
-    "headline": "Manchester United's 1974 relegation offers lessons for a club in decline again",
-    "trail": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again",
-    "progress": null,
+    "headline": "Manchester United must heed the lessons of their 1974 relegation",
+    "trail": "The era was different, but the 1970s hold hard lessons for a club once again in serious decline, writes our columnist.",
     "upside": 1
   },
   "/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report": {
-    "headline": "Veerle Buurman's late winner sends Chelsea top of Women's Champions League group",
-    "trail": "Chelsea lacked spark in attack but Veerle Buurman's scrambled winner put them top of the league phase and earned praise from Sonia Bompastor",
-    "progress": null,
+    "headline": "Veerle Buurman's late winner sends Chelsea top of Women's Champions League",
+    "trail": "Chelsea lacked spark in attack, but Veerle Buurman's scrambled late winner put them top of the league phase and earned praise from Sonia Bompastor.",
     "upside": 3
   },
   "/sport/2026/nov/18/rugby-brain-injury-lawsuits-on-brink-of-collapse-over-medical-documents-delay": {
-    "headline": "Rugby brain injury lawsuits continue as hundreds of players seek accountability",
-    "trail": "Two lawsuits involving hundreds of rugby players are again close to being struck out, after court orders requiring claimants to send medical documents to defendants were not met",
-    "progress": "Hundreds of former players are pursuing legal action against rugby's governing bodies over brain injuries.",
-    "upside": 1
+    "headline": "Hundreds of rugby players face a fresh test in their brain injury case",
+    "trail": "Court orders require hundreds of former rugby players to send necessary medical documents to the defendants, with two lawsuits once more in jeopardy.",
+    "progress": null,
+    "upside": 0
   },
   "/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights": {
-    "headline": "Netflix and Fox battle for $2bn prize of 2030 World Cup TV rights",
-    "trail": "The battle for the tournament's US TV rights will pit the traditional broadcaster and the 'whatever-it-takes' streamer. It could be a tipping point in the industry",
-    "progress": null,
+    "headline": "Netflix and Fox gear up for a $2bn fight over 2030 World Cup rights",
+    "trail": "Netflix and Fox are preparing a $2bn battle for the US rights to the 2030 World Cup, a fight that could become a tipping point for the industry.",
     "upside": 2
   },
   "/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship": {
@@ -240,22 +207,19 @@
     "upside": 2
   },
   "/sport/2026/nov/18/reid-wiseman-the-rocketman-shooting-for-the-moon-in-f1-with-mercedes": {
-    "headline": "Reid Wiseman, the astronaut shooting for the moon in F1 with Mercedes",
-    "trail": "Nasa crew member is fast seeing the similarities between flying Artemis II into lunar orbit and the F1 team's drive for sporting brilliance",
-    "progress": null,
-    "upside": 3
+    "headline": "From lunar orbit to the pit lane: astronaut Reid Wiseman's F1 adventure",
+    "trail": "Nasa's Reid Wiseman, part of the Artemis II crew, sees striking parallels between flying to the moon and Mercedes' pursuit of F1 glory.",
+    "upside": 2
   },
   "/us-news/2026/nov/18/elon-musk-maga-trump": {
-    "headline": "Elon Musk says he regrets his vast spending on Republicans, denies being 'Maga'",
-    "trail": "Musk, who aligned with Trump and was a frequent White House guest, says he feels 'pretty foolish' about his record midterm spending",
-    "progress": null,
+    "headline": "Elon Musk distances himself from Maga, says big Republican spending was a mistake",
+    "trail": "Musk, who aligned with Trump and was a frequent White House guest, says he feels 'pretty foolish' about his record midterm spending.",
     "upside": 2
   },
   "/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza": {
-    "headline": "Israeli tanks cross Gaza boundary as Eisenkot seeks government without Netanyahu",
-    "trail": "First incursion across the 'yellow line' boundary since the ceasefire deal comes as Eisenkot seeks to form a government without Netanyahu",
-    "progress": null,
-    "upside": 1
+    "headline": "Israeli tanks make first crossing of 'yellow line' into Hamas-held central Gaza",
+    "trail": "First incursion across the boundary since the ceasefire deal, it comes as Eisenkot seeks to form a government without Netanyahu.",
+    "upside": 0
   },
   "/technology/2026/nov/18/russian-national-spying-silicon-valley": {
     "headline": "US charges Russian national over alleged spying on Silicon Valley tech, defence firm",
@@ -264,76 +228,72 @@
     "upside": 2
   },
   "/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028": {
-    "headline": "Leaseholders in England and Wales to have ground rent capped in 2028",
-    "trail": "Housing minister hails 'historic moment' as he publishes bill to eventually ban almost all new leasehold properties",
-    "progress": "The housing minister has published a bill to cap ground rent and eventually ban most new leasehold properties.",
+    "headline": "Ground rent for leaseholders in England and Wales to be capped by 2028",
+    "trail": "The housing minister hailed a 'historic moment' as he published a bill that will cap ground rent for leaseholders in England and Wales by 2028, and aims to eventually ban almost all new leasehold properties.",
+    "progress": "The housing minister has published a bill capping ground rent and aiming to end almost all new leasehold sales.",
     "upside": 3
   },
   "/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours": {
-    "headline": "Court grants Birmingham council interim ban on lamp-post union flags",
-    "trail": "High court judge issues order against Raise the Colours over flags on council-owned street furniture",
-    "progress": null,
+    "headline": "Court orders halt to Raise the Colours' lamp-post flags in Birmingham",
+    "trail": "A high court judge has issued the order against campaign group Raise the Colours, which put union jacks on council-owned lamp-posts and other street furniture in Birmingham.",
     "upside": 1
   },
   "/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison": {
-    "headline": "Anti-migrant activist convicted of Staffordshire murder, police say",
-    "trail": "Raise the Colours activist Billy Allison, 36, killed a man in a 'completely unprovoked and unjustified' attack, say police",
-    "progress": "Billy Allison, 36, has been convicted of murder over an 'unprovoked and unjustified' attack, police say.",
+    "headline": "Billy Allison convicted of Staffordshire murder, jury finds",
+    "trail": "The Raise the Colours activist, 36, is found guilty of killing a man in an attack police call 'completely unprovoked and unjustified'.",
     "upside": 1
   },
   "/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears": {
-    "headline": "UK inquest examines cosmetic procedure death as jury hears of filler overdose",
-    "trail": "Jury told Jordan Parke injected seven times the amount of filler he was taught to use during Alice Webb's cosmetic procedure",
-    "progress": "A coroner's inquest is examining how much filler was used in Alice Webb's fatal cosmetic procedure.",
-    "upside": 1
+    "headline": "Jury hears how filler entered heart and brain of woman who died after 'butt lift'",
+    "trail": "A jury is told Jordan Parke injected seven times the amount of filler he was taught to use during Webb's cosmetic 'butt lift'.",
+    "upside": 0
   },
   "/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform": {
-    "headline": "Mahmood says police trust 'must be restored' as she backs pride uniform ban",
-    "trail": "Home secretary says 'routine two-tier policing' does not exist, but public trust in impartial law enforcement must be restored",
-    "progress": "Shabana Mahmood says restoring public trust in impartial policing is a priority.",
-    "upside": 1
+    "headline": "Mahmood moves to keep police neutral by banning pride march uniforms",
+    "trail": "The home secretary says 'routine two-tier policing' does not exist, but that public trust in impartial law enforcement must be restored.",
+    "progress": null,
+    "upside": 2
   },
   "/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf": {
-    "headline": "Ex-Tory defectors barred from shaping Reform UK's immigration policy, says Yusuf",
-    "trail": "Comments by Reform's home affairs spokesperson raise questions about unity at the top of the party",
+    "headline": "Ex-Tory MPs barred from shaping Reform UK's immigration policy, Yusuf says",
+    "trail": "Comments by Reform's home affairs spokesperson raise questions about unity at the top of the party.",
     "progress": null,
-    "upside": 1
+    "upside": 0
   },
   "/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv": {
-    "headline": "EU proposes €45bn loan to help secure Ukraine's finances and boost its defences",
-    "trail": "Von der Leyen says she wants to give Kyiv a 'strong hand' in talks and is confident all 27 member states will back the idea",
-    "progress": "Von der Leyen says she is confident all 27 EU member states will back the loan.",
+    "headline": "Von der Leyen offers Ukraine a 'strong hand' with €45bn loan plan",
+    "trail": "The European Commission president's proposal is designed to avert a Ukrainian funding shortfall and boost its defences, and she is confident all 27 member states will back it.",
+    "progress": "The European Commission has proposed the €45bn loan and is seeking unanimous backing from all 27 member states.",
     "upside": 2
   },
   "/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release": {
-    "headline": "PlayStation network problems disrupt hours before high-profile GTA VI launch",
-    "trail": "Disruption comes at a critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history",
+    "headline": "Grand Theft Auto VI launches as one of the most anticipated titles in history",
+    "trail": "The launch is overshadowed by widespread PlayStation network problems in the hours beforehand.",
+    "progress": null,
+    "upside": 2
+  },
+  "/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions": {
+    "headline": "Attorney general says caretaker government should not decide on E1 settlement",
+    "trail": "Israel has delayed building contracts for the West Bank settlement after the UK imposed sanctions.",
     "progress": null,
     "upside": 1
   },
-  "/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions": {
-    "headline": "UK sanctions lead Israel to pause West Bank settlement contracts",
-    "trail": "Attorney general says the E1 settlement decision should not be taken by a caretaker government led by Netanyahu",
-    "progress": "The UK's sanctions appear to have led Israel to delay contracts for the E1 settlement.",
-    "upside": 2
-  },
   "/business/nils-pratley-on-finance/2026/nov/18/more-gas-storage-is-at-risk-whats-the-government-plan-for-secure-supplies": {
-    "headline": "Ministers face calls to set out a plan for securing Britain's gas storage",
-    "trail": "SSE's threat to close a big storage facility in Yorkshire highlights successive governments' failures to build a strategy and safeguard supplies",
-    "progress": null,
+    "headline": "Britain needs a plan to secure its gas storage, before more capacity is lost",
+    "trail": "SSE's threat to close a big storage facility in Yorkshire exposes successive governments' failure to build a strategy to safeguard supplies, the columnist argues.",
     "upside": 1
   },
   "/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil": {
-    "headline": "UK inflation climbs to 3.6% as petrol and diesel prices hit record high",
-    "trail": "Increase in October piles pressure on households as the Iran war pushes up oil costs and rattles the global economy",
+    "headline": "Record petrol and diesel costs drive UK inflation to 3.6%",
+    "trail": "The October increase piles pressure on households as the Iran war pushes up oil costs and rattles the global economy.",
     "progress": null,
     "upside": 0
   },
   "/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald": {
-    "headline": "Democrats demand answers from Howard Lutnick about Nvidia and his family's business",
-    "trail": "Democratic lawmakers ask if the commerce secretary favoured Nvidia to enrich his adult children and Cantor Fitzgerald",
-    "progress": "Democratic lawmakers are asking whether commerce secretary Howard Lutnick favoured Nvidia to benefit his family's business.",
-    "upside": 2
+    "headline": "Lawmakers demand transparency from Lutnick over Nvidia family dealings",
+    "trail": "Democratic lawmakers ask whether the commerce secretary favoured Nvidia to enrich his adult children and Cantor Fitzgerald.",
+    "progress": null,
+    "upside": 1
   },
   "/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai": {
     "headline": "How to buy shares in Anthropic's stock market debut",
@@ -372,8 +332,8 @@
     "upside": 3
   },
   "/film/2026/nov/18/when-a-witness-recants-hbo-documentary": {
-    "headline": "A 36-year fight for justice explored in new HBO documentary When a Witness Recants",
-    "trail": "The three subjects and producer Ta-Nehisi Coates explain how the galling case, which shattered his childhood, finally unfolded",
+    "headline": "Ta-Nehisi Coates on the shocking case that shattered his childhood and inspired new HBO documentary",
+    "trail": "A 36-year fight for justice is explored in the HBO documentary When a Witness Recants. The three subjects and producer Coates explain how it unfolded.",
     "progress": null,
     "upside": 2
   },
@@ -390,10 +350,9 @@
     "upside": 3
   },
   "/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta": {
-    "headline": "Killer tunes: how Grand Theft Auto conquered the music world",
-    "trail": "Featuring hundreds of songs from the hippest real-world artists, the radio stations in Rockstar's crime sagas are as hotly anticipated as the storylines",
-    "progress": null,
-    "upside": 3
+    "headline": "How Grand Theft Auto's soundtracks conquered the music world",
+    "trail": "Featuring hundreds of songs from the hippest real-world artists, the radio stations in Rockstar's crime sagas are as hotly anticipated as the storylines, with contributors including Flying Lotus, Wavves and Nite Jewel reflecting on the soundtracks' curation and impact.",
+    "upside": 2
   },
   "/music/2026/nov/16/grammy-nominations-2027-female-artists": {
     "headline": "Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations",
@@ -433,9 +392,9 @@
   },
   "/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games": {
     "headline": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-    "trail": "The latest instalment of the epic crime saga is finally here. We visit Rockstar Games for a hands-on encounter with the cultural event of the decade",
+    "trail": "The latest instalment of the epic crime saga is finally here. We visit Rockstar Games for a hands-on encounter with the cultural event of the decade - and can confirm it more than lives up to the hype.",
     "progress": null,
-    "upside": 3
+    "upside": 2
   },
   "/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years": {
     "headline": "'Grand Theft Auto Flu': is the whole world really taking the day off work to play GTA VI?",
@@ -462,8 +421,8 @@
     "upside": 2
   },
   "/artanddesign/2026/nov/16/paris-photo-review-2026": {
-    "headline": "Quel head trip! Failed postcards, scrapping poets and germ-ridden film rock Paris Photo – review",
-    "trail": "Grand Palais, Paris. The fair celebrated the bicentenary of photography – but the most compelling images proposed whole new ways of seeing",
+    "headline": "Paris Photo's most compelling images propose whole new ways of seeing",
+    "trail": "At the Grand Palais, the fair marking photography's bicentenary left this reviewer wondering if anyone cared - except where the strongest images broke new ground.",
     "progress": null,
     "upside": 2
   },
@@ -576,8 +535,8 @@
     "upside": 2
   },
   "/food/2026/nov/17/a-heretical-outrage-why-italians-disown-spaghetti-bolognese": {
-    "headline": "Why spaghetti bolognese embarrasses the Italian city whose name it borrows",
-    "trail": "Spag bol carries my city's name all over the world – to the embarrassment of restaurants in Bologna",
+    "headline": "It's time the world knew real Bologna isn't spag bol",
+    "trail": "Spag bol carries my city's name around the world, much to the embarrassment of restaurants in Bologna.",
     "progress": null,
     "upside": 2
   },
@@ -606,10 +565,10 @@
     "upside": 2
   },
   "/money/2026/nov/18/energy-bills-great-britain-forecast-rise": {
-    "headline": "Government under pressure to help households as energy bills set to rise 26%",
-    "trail": "Increase would add £443 to the average annual dual-fuel bill, taking it to £2,166 from January",
+    "headline": "Energy bills in Great Britain forecast to rise 26% to £2,166 in January",
+    "trail": "The government faces pressure to help households as the increase would add £443 to the average annual dual-fuel bill.",
     "progress": null,
-    "upside": 1
+    "upside": 0
   },
   "/money/2026/nov/18/life-insurance-explained-types-of-cover": {
     "headline": "Life insurance: what is it and do you need it?",
@@ -624,10 +583,10 @@
     "upside": 0
   },
   "/society/2026/nov/18/nhs-england-staff-snooping-patients-records": {
-    "headline": "Regulators flag 'deeply concerning' NHS data-snooping incidents",
-    "trail": "Campaign groups and regulators say more than 3,000 incidents of staff snooping on patients' records are distressing for patients and families and erode trust in the health service",
-    "progress": "Campaign groups and regulators are raising the alarm over NHS data-privacy breaches.",
-    "upside": 1
+    "headline": "'Deeply concerning': NHS in England reports more than 3,000 staff snooping incidents",
+    "trail": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service.",
+    "progress": null,
+    "upside": 0
   },
   "/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it": {
     "headline": "Gout is on the rise – and sufferers deserve less stigma, not more",
@@ -642,8 +601,8 @@
     "upside": 3
   },
   "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia": {
-    "headline": "How Jensen Huang's black leather jacket became an internet meme",
-    "trail": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief's signature look is now mocked as a tired, dated cliche",
+    "headline": "Marlon Brando's leather jacket becomes Jensen Huang's midlife rebellion meme",
+    "trail": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief's signature look is now being mocked online as a cliche of midlife rebellion.",
     "progress": null,
     "upside": 2
   },
@@ -678,10 +637,9 @@
     "upside": 2
   },
   "/lifeandstyle/2026/nov/18/a-moment-that-changed-me-the-tomato-pasta-that-became-an-obsession-and-helped-me-lead-a-better-life": {
-    "headline": "A moment that changed me: the tomato pasta that became an obsession – and helped me lead a better life",
-    "trail": "At a restaurant in Italy in 2022, every forkful of my meal made my eyes close and mouth water. For four years since, I have tried to recreate this dish",
-    "progress": null,
-    "upside": 3
+    "headline": "A moment that changed me: the tomato pasta dish I've chased for four years",
+    "trail": "At a restaurant in Italy in 2022, every forkful made my eyes close and my mouth water. The four-year pursuit to recreate it has finally made me a proper vegetarian.",
+    "upside": 2
   },
   "/inequality/2026/nov/18/class-difference-friendships-research-lse": {
     "headline": "How to deal with a class difference in friendships? Make fun of your privileged friends",
@@ -702,8 +660,8 @@
     "upside": 2
   },
   "/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat": {
-    "headline": "Research finds Reform's promised council blitz has not delivered",
-    "trail": "Party promised a Musk-inspired blitz at councils in England, but research shows it has failed to cut harder or faster than comparable local authorities",
+    "headline": "'In the end, nothing happened': how Reform's Doge-style blitz compared to other councils",
+    "trail": "The party promised a Musk-inspired shake-up of councils in England, but research shows it achieved no more than comparable local authorities already deliver.",
     "progress": null,
     "upside": 1
   },
@@ -714,8 +672,8 @@
     "upside": 2
   },
   "/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes": {
-    "headline": "A potato trade dispute between the US and Japan is about to reach boiling point",
-    "trail": "Under pressure from Donald Trump, Japan's government could be about to lift a decades-old ban on imported American potatoes, which farmers say would threaten their livelihoods",
+    "headline": "A decades-long potato war between the US and Japan nears boiling point",
+    "trail": "Japan's government could be about to lift its ban on imported American potatoes under pressure from Donald Trump, but farmers say that would threaten their livelihoods.",
     "progress": null,
     "upside": 1
   },
@@ -738,10 +696,10 @@
     "upside": 2
   },
   "/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it": {
-    "headline": "Did moving to the countryside for retirement leave you with regrets? Tell us",
-    "trail": "As England's chief medical officer warns of the challenges of growing older in rural areas, we'd like to hear from people who have struggled with isolation or accessing services and support",
+    "headline": "Tell us: your experience of retiring to the English countryside",
+    "trail": "England's chief medical officer has highlighted the challenges of growing older in rural areas; the Guardian wants to hear from readers who have faced isolation or difficulty accessing services since retiring to the countryside.",
     "progress": null,
-    "upside": 2
+    "upside": 1
   },
   "/thefilter/2026/nov/12/best-beauty-christmas-gifts-sali-hughes-2026-uk": {
     "headline": "From cult skincare to seriously posh soap: Sali Hughes's best beauty gifts for Christmas 2026",
@@ -756,9 +714,9 @@
     "upside": 1
   },
   "/uk-news/article/2024/jul/09/lucy-letby-evidence-experts-question": {
-    "headline": "Lucy Letby: medical experts raise doubts over the safety of the evidence",
-    "trail": "Exclusive: doubts raised over the safety of convictions of the nurse found guilty of murdering babies",
-    "progress": "Medical experts are raising doubts about the safety of Letby's convictions.",
+    "headline": "Experts raise doubts over safety of Letby's convictions",
+    "trail": "Exclusive: some experts are questioning whether the evidence used to convict the nurse of murdering babies was safe.",
+    "progress": null,
     "upside": 1
   },
   "/uk-news/2025/mar/19/lucy-letby-inquiry-chair-rejects-calls-to-pause-investigation": {
@@ -792,123 +750,123 @@
     "upside": 1
   },
   "/politics/2019/sep/27/no-deal-brexit-fault-uk-government-alone-juncker-eu": {
-    "headline": "EU says blame for Brexit impasse lies solely with the UK",
-    "trail": "Both sides still far apart as UK's Brexit secretary warns EU it is facing 'moment of truth'",
+    "headline": "UK tells EU Brexit talks are nearing a 'moment of truth'",
+    "trail": "Brexit talks ended in acrimony, with the EU saying the UK was 'solely' to blame; the UK's Brexit secretary says the talks are now approaching a decisive moment.",
     "progress": null,
-    "upside": 0
+    "upside": 1
   },
   "/politics/2019/apr/15/downing-street-under-pressure-to-close-down-labour-talks-on-brexit": {
-    "headline": "No 10 explores options on Labour talks as EU elections approach",
-    "trail": "Options are being weighed ahead of the EU elections amid difficult polling for the party",
-    "progress": null,
+    "headline": "No 10 explores options to break Brexit deadlock with Labour",
+    "trail": "Downing Street is under pressure to close down talks with Labour on Brexit, before what could be heavy losses in the European elections.",
+    "progress": "Downing Street is exploring options to manage the fallout before the elections.",
     "upside": 1
   },
   "/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote": {
-    "headline": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
-    "trail": "PM says he asked the question upon entering No 10 but does not reveal who gave him a 'clear answer' that Russia meddled",
-    "progress": null,
+    "headline": "PM reveals he sought answers on Russian Brexit interference on day one",
+    "trail": "Andy Burnham says it is now clear Russia interfered in the Brexit referendum; the prime minister confirms he asked for answers on entering No 10, though he will not say who gave him the 'clear answer' that meddling occurred.",
+    "progress": "The prime minister says he personally pressed for an answer as soon as he took office.",
     "upside": 1
   },
   "/uk-news/2018/sep/06/britain-says-brexit-will-open-door-to-tougher-russia-sanctions": {
-    "headline": "Britain says Brexit will open door to tougher Russia sanctions",
-    "trail": "Ministers consider harder US-style regime, with City commercial interests at stake",
-    "progress": null,
-    "upside": 2
+    "headline": "Ministers weigh harder Russia sanctions once Britain leaves EU rules",
+    "trail": "Ministers are considering adopting a harder, US-style sanctions regime once released from EU rules, with City commercial interests at stake.",
+    "progress": "Ministers are actively considering a tougher, US-style sanctions regime.",
+    "upside": 1
   },
   "/politics/2020/nov/20/brexit-deal-close-to-being-finalised-eu-ambassadors-told": {
-    "headline": "Brexit deal close to being finalised, EU ambassadors told",
-    "trail": "Most key issues largely agreed, but there is still a danger of no deal by accident, envoys hear",
-    "progress": null,
+    "headline": "Most Brexit deal issues now agreed, EU ambassadors hear",
+    "trail": "EU ambassadors have been told that most key issues in the Brexit deal are largely agreed, though officials still flag a danger of a no-deal outcome by accident.",
+    "progress": "Negotiators have reached agreement on most of the key outstanding issues, envoys were told.",
     "upside": 2
   },
   "/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china": {
-    "headline": "Apec summit as it happened: Xi welcomes Trump to China for highly anticipated meeting with Putin",
-    "trail": "Summit in Chinese tech hub Shenzhen included the highly anticipated meeting between Xi, Trump and Putin",
+    "headline": "Xi welcomes Trump to Apec summit in Shenzhen tech hub",
+    "trail": "The summit in Shenzhen was set to include a highly anticipated meeting between Xi, Trump and Putin; Putin used the occasion to claim Europe was in 'humiliating decline'.",
     "progress": null,
     "upside": 2
   },
   "/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin": {
-    "headline": "Xi Jinping rallies against protectionism as he welcomes Trump to Apec summit",
-    "trail": "Chinese president greets US counterpart with a rare hug before blockbuster trilateral meeting with Putin",
+    "headline": "Rare hug between Xi and Trump opens blockbuster Apec summit with Putin",
+    "trail": "The Chinese president greeted his US counterpart with a rare hug ahead of a blockbuster trilateral meeting with Putin; Xi used the summit to argue against protectionism on the world stage.",
     "progress": null,
     "upside": 2
   },
   "/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news": {
-    "headline": "Trump signs Thai trade deal as protests greet his arrival in Manila – as it happened",
-    "trail": "US president says Thailand will eliminate all tariffs on American exports as he arrives in Manila where there have been protests over an AI pact",
+    "headline": "Trump signs trade deal with Thailand to eliminate US export tariffs",
+    "trail": "Trump says Thailand will eliminate all tariffs on American exports under the deal he signed on arrival in Manila, where protests over an AI pact greeted him.",
     "progress": null,
     "upside": 2
   },
   "/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china": {
-    "headline": "Xi, Trump and Putin to discuss 'world peace' at trilateral, says China",
-    "trail": "Beijing stops short of confirming the specific agenda, but Trump says denuclearisation, the Iran war, trade and Ukraine will be among the topics",
+    "headline": "Trump says denuclearisation and Ukraine will be discussed at Xi-Putin trilateral",
+    "trail": "China says the leaders will discuss 'world peace' at the trilateral summit, though Beijing has stopped short of confirming a specific agenda beyond what Trump names: denuclearisation, the Iran war, trade and Ukraine.",
     "progress": null,
     "upside": 2
   },
   "/world/2026/nov/14/yalta-trump-xi-putin-china-apec": {
-    "headline": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
-    "trail": "Russia and the US approach a potential summit seeking China's help to extricate them from wars of choice, as Putin hopes to find consensus on a new global order",
+    "headline": "The Trump-Xi-Putin summit must avoid repeating Yalta's betrayal",
+    "trail": "As the three leaders meet, Russia and the US are looking to China to help extricate them from wars of choice, while Putin hopes to build consensus on a new global order that echoes the carve-up once associated with Yalta.",
     "progress": null,
     "upside": 1
   },
   "/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations": {
-    "headline": "Anthony Albanese welcomes Trump-Xi-Putin summit, even as European leaders express reservations",
-    "trail": "'We think dialogue is a good thing,' the Australian PM says after the German chancellor urged the US to work with Europe for peace in Ukraine",
+    "headline": "Albanese backs Trump-Xi-Putin summit, calling dialogue 'a good thing'",
+    "trail": "The Australian PM welcomed the summit despite reservations from European leaders, after Germany's chancellor urged the US to work with Europe for peace in Ukraine.",
     "progress": null,
     "upside": 2
   },
   "/world/2023/mar/21/russian-cruise-missiles-destroyed-in-crimea-blast-ukraine-says": {
-    "headline": "Ukraine says it destroyed Russian cruise missiles in Crimea strike",
-    "trail": "Kyiv claims cruise missiles hit in the city of Dzhankoi, in an attack the Russian-installed official blames on a drone",
-    "progress": null,
-    "upside": 2
-  },
-  "/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea": {
-    "headline": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-    "trail": "Zelenskyy praises an 'unprecedented attack' but the Kremlin claims the bridge will be restored and will be 'better than ever'",
-    "progress": null,
-    "upside": 2
-  },
-  "/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea": {
-    "headline": "The 'ordinary' woman accused of assassinating a Russian commander in Crimea",
-    "trail": "Friends close to Margarita Reutt are shocked she could allegedly plant the bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through",
+    "headline": "Kyiv says Russian cruise missiles destroyed in Crimea explosion",
+    "trail": "Ukraine says Russian cruise missiles were destroyed in an explosion in the city of Dzhankoi; a Russian-installed official blamed the explosion on a drone.",
     "progress": null,
     "upside": 1
   },
+  "/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea": {
+    "headline": "Zelenskyy hails 'unprecedented attack' after Ukraine damages Kerch bridge",
+    "trail": "Volodymyr Zelenskyy praised the strike as an 'unprecedented attack' after Ukraine critically damaged the bridge linking occupied Crimea to Russia; the Kremlin says it will be restored and 'better than ever'.",
+    "progress": null,
+    "upside": 3
+  },
+  "/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea": {
+    "headline": "Friends recall Margarita Reutt's stubborn grit amid assassination accusations",
+    "trail": "Reutt is accused of planting the bomb that killed Ukrainian defector Robert Shageev in Crimea; friends close to her are shocked by the allegation, though some recall a stubborn grit to see any plan through.",
+    "progress": null,
+    "upside": 0
+  },
   "/world/2023/jul/17/explosions-reportedly-hit-crimeas-kerch-bridge-as-russia-cites-emergency-situation": {
-    "headline": "Two dead after explosions on Kerch Bridge linking Crimea and Russia",
-    "trail": "Only the direct overland link was damaged as Russia says it will pull out of the UN-brokered grain deal",
+    "headline": "Two die in explosions on Kerch bridge between Crimea and Russia",
+    "trail": "The explosions damaged the only direct overland link between Crimea and Russia; Russia says it will now pull out of the UN-brokered grain deal.",
     "progress": null,
     "upside": 0
   },
   "/world/2022/aug/11/russian-warplanes-destroyed-in-crimea-saky-airbase-attack-satellite-images-show": {
-    "headline": "Russian warplanes destroyed in Crimea airbase attack, satellite images show",
-    "trail": "Multiple aircraft at Saky base in Crimea blown up, with the new evidence suggesting the possibility of a targeted attack",
+    "headline": "Satellite images confirm Russian warplanes destroyed at Crimea airbase",
+    "trail": "Multiple aircraft at the Saky airbase in Crimea were blown up, with new satellite evidence suggesting the possibility of a targeted attack.",
     "progress": null,
-    "upside": 2
+    "upside": 1
   },
   "/world/2018/may/15/putin-opens-bridge-between-crimea-and-russian-mainland": {
-    "headline": "Putin opens 12-mile bridge between Crimea and Russian mainland",
-    "trail": "Russian state media hail the 12-mile bridge across the Kerch strait as the 'construction of the century'",
+    "headline": "Russian state media hail new 12-mile Crimea bridge as 'construction of the century'",
+    "trail": "President Putin has opened the 12-mile bridge across the Kerch strait linking Crimea to the Russian mainland, which state media have hailed as the 'construction of the century'.",
     "progress": null,
     "upside": 2
   },
   "/world/2025/may/15/mike-lynchs-superyacht-sank-in-high-winds-says-report": {
-    "headline": "Mike Lynch's superyacht sank in high winds, says report",
-    "trail": "Investigators said Bayesian, which sank in Italy killing seven people, was destabilised by wind",
-    "progress": null,
+    "headline": "Investigators identify what caused Mike Lynch's superyacht Bayesian to sink",
+    "trail": "A report has identified the cause of the Bayesian's sinking: it was destabilised by wind. The superyacht, owned by Mike Lynch, sank in Italy, killing seven people.",
+    "progress": "Investigators have identified wind as the cause of the sinking.",
     "upside": 1
   },
   "/world/2025/apr/29/30m-salvage-operation-on-mike-lynchs-superyacht-begins": {
-    "headline": "$30m salvage operation to recover Mike Lynch's superyacht begins",
-    "trail": "Investigators hope hoisting the craft will yield clues about last year's sinking and recover two super-encrypted hard drives",
-    "progress": "Investigators are hoisting the wreck in the hope of finding clues to the cause of the sinking.",
-    "upside": 2
+    "headline": "Investigators hope $30m operation will reveal clues to superyacht's sinking",
+    "trail": "Investigators hope the $30m operation to hoist the wreck will yield clues about last year's sinking and help recover two super-encrypted hard drives.",
+    "progress": "Investigators are preparing to launch the $30m salvage operation, hoping it will reveal fresh clues about the sinking.",
+    "upside": 1
   },
   "/world/2025/jun/21/salvagers-to-remove-mike-lynchs-superyacht-bayesian-from-sea-off-sicily": {
-    "headline": "Salvagers fully raise Mike Lynch's superyacht Bayesian from sea off Sicily",
-    "trail": "Vessel to be transported to port where investigators will try to find the cause of the fatal sinking during a storm",
-    "progress": null,
+    "headline": "Raised Bayesian wreck to be taken to port for sinking investigation",
+    "trail": "The vessel will now be taken to port, where investigators hope to determine what caused the yacht's fatal sinking during a storm.",
+    "progress": "Salvage teams have completed the operation to raise the wreck, a step toward establishing what caused the fatal sinking.",
     "upside": 2
   },
   "/world/2025/jun/20/mike-lynch-bayesian-superyacht-raised-from-seabed-sicily-salvage-operation": {
@@ -918,10 +876,10 @@
     "upside": 2
   },
   "/world/2025/may/10/operation-to-recover-mike-lynchs-superyacht-suspended-after-diver-dies": {
-    "headline": "Operation to recover Mike Lynch's superyacht suspended after diver dies",
-    "trail": "Work to raise the Bayesian is put on hold as investigators seek to establish the cause of the 39-year-old Dutchman's death",
-    "progress": null,
-    "upside": 0
+    "headline": "Investigators move to determine cause of Bayesian salvage accident",
+    "trail": "Investigators are examining what caused the death of a 39-year-old Dutch diver, which led to the suspension of the attempt to recover Mike Lynch's superyacht Bayesian.",
+    "progress": "Investigators are working to establish the cause of the diver's death.",
+    "upside": 1
   },
   "/world/2025/may/09/diver-dies-during-salvage-operation-to-recover-mike-lynchs-sunken-superyacht": {
     "headline": "Diver dies during salvage operation to recover Mike Lynch's superyacht",
@@ -930,10 +888,9 @@
     "upside": 0
   },
   "/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist": {
-    "headline": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+    "headline": "Barrister who clashed with journalist takes himself to professional watchdog",
     "trail": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand's victims coming forward: 'I hope you are pleased with yourself'",
-    "progress": "Ian Winter KC has reported his own conduct to the Bar Standards Board.",
-    "upside": 2
+    "upside": 1
   },
   "/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist": {
     "headline": "The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist",
@@ -942,15 +899,13 @@
     "upside": 1
   },
   "/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand": {
-    "headline": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-    "trail": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life",
-    "progress": "Lisa Nandy says the Brand case must be used to improve protections for women in the media.",
-    "upside": 2
+    "headline": "Nandy pushes for stronger protections for women across the media industry",
+    "trail": "Lisa Nandy says the Russell Brand case must be a wake-up call, with exploitation and abuse still a problem in the media industry and public life.",
+    "upside": 1
   },
   "/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders": {
-    "headline": "TV insiders say industry must still confront misogyny after Brand case",
-    "trail": "Concerns remain that the media industry is still failing to confront troubling behaviour",
-    "progress": null,
+    "headline": "TV insiders renew call to confront Brand-case misogyny and sexism",
+    "trail": "Industry figures say media companies are still failing to confront the misogyny and sexism exposed by the Russell Brand case.",
     "upside": 1
   },
   "/media/2026/nov/04/broadcasters-content-creators-youtube-bbc-itv-channel-4": {
@@ -960,27 +915,23 @@
     "upside": 2
   },
   "/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans": {
-    "headline": "Trump administration attacks UK plans to boost traditional media on social platforms",
-    "trail": "US embassy says Downing Street's plan to give the BBC, ITV and other established media more online visibility carries a risk of 'censorship'",
-    "progress": null,
-    "upside": 1
-  },
-  "/global-development/2026/oct/07/tortured-somalia-woman-dared-speak-out-human-rights-prison": {
-    "headline": "Freed Somali activist vows to keep fighting for the women she met in prison",
-    "trail": "Sadia Moalim Ali was jailed for three years for 'insulting government institutions' after speaking out; now free, she continues to campaign for the women she met behind bars",
-    "progress": "Sadia Moalim Ali, now free, says she will keep fighting for the women she met in prison.",
+    "headline": "Downing Street plans to boost BBC and ITV visibility on social media",
+    "trail": "Downing Street's plan would give the BBC, ITV and other established media greater visibility on social platforms; the US embassy says this carries a risk of 'censorship'.",
     "upside": 2
   },
+  "/global-development/2026/oct/07/tortured-somalia-woman-dared-speak-out-human-rights-prison": {
+    "headline": "Somali women who speak out deserve protection – I will keep fighting for them",
+    "trail": "Sadia Moalim Ali was tortured and jailed for three years for insulting government institutions after speaking out as a Somali woman; now free, she vows to keep fighting for the women she met in prison.",
+    "upside": 1
+  },
   "/global-development/2024/oct/10/one-in-eight-girls-sexually-assaulted-or-raped-before-turning-18-unicef": {
-    "headline": "Unicef's first global estimates reveal scale of sexual violence against children",
-    "trail": "The estimates find one in eight girls are sexually assaulted or raped before turning 18, revealing the 'abhorrent magnitude' of the human rights violation",
-    "progress": null,
+    "headline": "Unicef: one in eight girls raped or sexually assaulted before age 18",
+    "trail": "The UN agency's first global estimates found this to be the 'abhorrent magnitude' of sexual violence against children worldwide.",
     "upside": 0
   },
   "/global-development/2021/mar/09/quarter-of-women-and-girls-have-been-abused-by-a-partner-says-who": {
-    "headline": "WHO study finds one in four women globally has experienced partner abuse",
-    "trail": "The largest such study finds domestic violence affects one in four teenage girls, with the highest rates among women in their 30s",
-    "progress": null,
+    "headline": "WHO's largest study finds quarter of women and girls abused by partner",
+    "trail": "The study found domestic violence is experienced by one in four teenage girls, with the highest levels among women in their 30s.",
     "upside": 0
   },
   "/global-development/2026/nov/16/femicide-crisis-mexico-judge-killed-my-mother-one-more-time": {
@@ -990,15 +941,13 @@
     "upside": 3
   },
   "/global-development/2024/sep/16/un-women-gender-snapshot-2024-equality": {
-    "headline": "UN makes $10tn case for investing in women and gender equality",
-    "trail": "Equal internet access alone is worth $500bn over five years, says the report, which says child marriage may continue until 2092 without action",
-    "progress": null,
+    "headline": "Equal internet access for women could add $500bn over five years, UN report finds",
+    "trail": "Closing the digital gender gap could add $500bn to the global economy over five years, the report finds; it also puts the cost of inaction on women's equality at $10tn a year, with child marriage projected to persist until 2092.",
     "upside": 1
   },
   "/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty": {
     "headline": "'I am still a child, it cannot be good to be married': how drought forces Afghan families to sell girls as brides",
-    "trail": "Photographer Elise Blanchard has spent several years in Afghanistan, documenting families pushed to the brink of starvation by climate breakdown, who feel forced to marry off daughters as young as eight to repay debts or pay for food",
-    "progress": null,
+    "trail": "Photographer Elise Blanchard documents Afghan families on the brink of starvation, including girls as young as eight and 10 engaged or married to repay debts or pay for food.",
     "upside": 0
   },
   "/technology/2026/oct/26/anthropic-files-listing-stock-market": {
@@ -1032,10 +981,9 @@
     "upside": 2
   },
   "/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence": {
-    "headline": "Trump announces 'morally binding' AI agreement among tech CEOs",
-    "trail": "The US president's deal rebrands 'artificial intelligence' as 'superintelligence', promising 'tremendous self-policing' without new rules",
-    "progress": null,
-    "upside": 1
+    "headline": "Trump announces vague agreement among tech CEOs for AI 'self-policing'",
+    "trail": "The US president says the 'morally binding' deal commits tech companies to 'tremendous self-policing' on artificial intelligence, which he is rebranding as 'superintelligence'.",
+    "upside": 0
   },
   "/music/2020/may/14/florence-pugh-simon-armitage-lockdown-poem": {
     "headline": "Florence Pugh and Simon Armitage record lockdown poem together",
@@ -1050,9 +998,8 @@
     "upside": 3
   },
   "/lifeandstyle/2020/mar/25/coronavirus-cabin-fever-the-best-celebrities-to-follow-from-robbie-williams-to-florence-pugh": {
-    "headline": "Coronavirus cabin fever: the best celebrities to follow, from Robbie Williams to Florence Pugh",
-    "trail": "Stars – they're just like us! Here are some of the best regular feeds to follow",
-    "progress": null,
+    "headline": "Robbie Williams to Florence Pugh: the celebrity feeds keeping lockdown boredom at bay",
+    "trail": "Celebrities are losing their minds with boredom too, posting increasingly hysterical content during lockdown. Here are some of the best accounts to follow.",
     "upside": 2
   },
   "/culture/2022/sep/05/dont-worry-darling-movie-olivia-wilde-harry-styles-florence-pugh-shia-labeouf-film-explained": {
@@ -1063,8 +1010,7 @@
   },
   "/film/2022/jul/11/florence-pugh-hits-back-at-vulgar-criticism-of-her-body-on-social-media": {
     "headline": "Florence Pugh hits back at 'vulgar' criticism of her body on social media",
-    "trail": "Black Widow actor rails at 'how easy it is for men to totally destroy a woman's body, publicly, proudly, for everyone to see'",
-    "progress": "Pugh publicly challenged users who criticised her body online.",
+    "trail": "The Black Widow actor rails at 'how easy it is for men to totally destroy a woman's body, publicly, proudly, for everyone to see'.",
     "upside": 2
   },
   "/culture/2014/dec/28/rising-stars-2015-actor-florence-pugh": {
@@ -1080,16 +1026,16 @@
     "upside": 3
   },
   "/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph": {
-    "headline": "Student List's election winners take their seats in Serbia's parliament",
-    "trail": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić vows to hold mass protests of his own",
-    "progress": "The Student List's winning candidates have formally taken their seats in Serbia's parliament.",
+    "headline": "Serbia inaugurates Student List's MPs following their election win",
+    "trail": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić 'threatens' mass protests of his own.",
+    "progress": "The Student List movement now holds seats in Serbia's national parliament.",
     "upside": 3
   },
   "/environment/2026/nov/18/abdul-goni-gazi-tigers-bangladesh-sundarbans-aoe": {
-    "headline": "Abdul Goni Gazi's mission to help Bengal tigers and people coexist peacefully",
-    "trail": "Abdul Goni Gazi once fainted during his first encounter with a tiger; now his mission is to help them coexist with people",
-    "progress": "Abdul Goni Gazi now works to help Bengal tigers and local communities coexist peacefully.",
-    "upside": 3
+    "headline": "From terror to protector: the man keeping Bengal tigers and people safe",
+    "trail": "Abdul Goni Gazi passed out from fright during his first big cat encounter but now works to help Bengal tigers and people coexist safely.",
+    "progress": "Gazi has turned early terror into work that helps tigers and people live safely side by side.",
+    "upside": 2
   },
   "/science/2026/nov/18/cambridge-word-of-the-year-human": {
     "headline": "'Human' wins Cambridge dictionary's word of the year",
