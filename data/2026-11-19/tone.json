@@ -1,0 +1,737 @@
+[
+  {
+    "path": "/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Apec summit live: Xi, Trump and Putin hold historic first trilateral in China\""
+  },
+  {
+    "path": "/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Most extraordinary virtual world': critics hail Grand Theft Auto VI as masterpiece\""
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I hope paramedics are on standby for the sex scenes!' The wet and wild TV experience leaving fans dizzy\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/18/the-guardian-view-on-two-tier-policing-tackle-the-myth-dont-pander-to-it",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guardian view on 'two-tier policing': tackle the myth, don't pander to it\""
+  },
+  {
+    "path": "/society/2026/nov/18/bmi-was-never-meant-to-evaluate-an-individuals-health",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Letter: BMI was never meant to evaluate an individual's health\""
+  },
+  {
+    "path": "/sport/2026/nov/18/reid-wiseman-the-rocketman-shooting-for-the-moon-in-f1-with-mercedes",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Reid Wiseman, the astronaut shooting for the moon in F1 with Mercedes\""
+  },
+  {
+    "path": "/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Leaseholders in England and Wales to have ground rent capped in 2028\""
+  },
+  {
+    "path": "/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"UK inflation climbs to 3.6% as petrol and diesel prices hit record high\""
+  },
+  {
+    "path": "/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Democrats demand answers from Howard Lutnick about Nvidia and his family's business\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/18/a-tiktok-superstar-bares-all-siorna-ashby-best-shot",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A TikTok superstar bares all: Siorna Ashby's best shot\""
+  },
+  {
+    "path": "/stage/2026/nov/18/desire-under-the-elms-review-almeida-theatre-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Kelly Gough is simply astounding as Desire Under the Elms reaches the heights of Greek tragedy\""
+  },
+  {
+    "path": "/film/2026/nov/18/madden-review-nicolas-cage",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (93 per cent of the words are the same): \"Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell's film\""
+  },
+  {
+    "path": "/film/2026/nov/18/nathan-fielder-you-can-see-everything",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder\""
+  },
+  {
+    "path": "/music/2026/nov/18/bobby-charles-story-box-set",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Everything he said sounded like a song title!' The rackety, romantic life of Bobby Charles, alligator-befriending bard of the bayou\""
+  },
+  {
+    "path": "/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Killer tunes: how Grand Theft Auto conquered the music world\""
+  },
+  {
+    "path": "/music/2026/nov/16/grammy-nominations-2027-female-artists",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations\""
+  },
+  {
+    "path": "/books/2026/nov/18/gjak-by-dimosthenis-papamarkos-review-sensational-tales-of-wartime-greek-struggle",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Gjak by Dimosthenis Papamarkos review – sensational tales of wartime Greek struggle\""
+  },
+  {
+    "path": "/books/2026/nov/18/the-man-who-broke-reality-by-philip-ball-review-the-inspirational-genius-of-niels-bohr",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The Man Who Broke Reality by Philip Ball review – the inspirational genius of Niels Bohr\""
+  },
+  {
+    "path": "/books/2026/nov/17/belonging-by-sonia-gandhi-review-indias-elder-stateswoman-breaks-her-silence",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Belonging by Sonia Gandhi review – India's elder stateswoman breaks her silence\""
+  },
+  {
+    "path": "/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Keepsake County review – eccentric stealing simulator with a social conscience\""
+  },
+  {
+    "path": "/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI\""
+  },
+  {
+    "path": "/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Grand Theft Auto Flu': is the whole world really taking the day off work to play GTA VI?\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/18/cosimo-i-de-medici-review-wallace-collection-london",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Cosimo I de'Medici review – up close and personal with a Renaissance godfather\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/17/van-eyck-the-portraits-review-national-gallery-london-paintings",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Van Eyck: The Portraits review – a jewel box of phenomenal, death-defeating paintings\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/17/she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheims-legendary-shopping-spree",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'She set out to buy a painting a day': on the trail of Peggy Guggenheim's legendary shopping spree\""
+  },
+  {
+    "path": "/artanddesign/2026/nov/16/paris-photo-review-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Quel head trip! Failed postcards, scrapping poets and germ-ridden film rock Paris Photo – review\""
+  },
+  {
+    "path": "/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Bond role was 'Josh O'Connor's to lose' but actor pulled out of the running, report suggests\""
+  },
+  {
+    "path": "/books/2026/nov/18/theodore-zeldin-obituary",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Theodore Zeldin obituary\""
+  },
+  {
+    "path": "/news/2026/nov/18/caribbean-artists-speaking-truth-to-the-world",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Am I Caribbean, or am I a tourist? How art helped me find the answer\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"From spritzes to sours: how sherry is becoming mixology's hottest ingredient\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-chefs-are-pairing-food-with-sherry-wine",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'It truly comes alive at the table': why chefs are singing the praises of sherry\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/why-sherry-wine-deserves-a-place-on-your-drinks-list",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Love at first sip: why sherry will always be at the top of my drinks list\""
+  },
+  {
+    "path": "/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"A spotlight on sherry: Britain's storied history with the Spanish wine\""
+  },
+  {
+    "path": "/thefilter/2026/nov/18/best-tvs-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best TVs in the UK for every home and screen size, tested\""
+  },
+  {
+    "path": "/thefilter/2026/nov/18/best-christmas-baubles-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best Christmas baubles in the UK: 26 quirky decorations, from a velvet turnip to a Suffragette mouse\""
+  },
+  {
+    "path": "/thefilter/2026/nov/17/best-secret-santa-gift-ideas-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The 45 best Secret Santa gifts in the UK for £15 or less – tried and tested for 2026\""
+  },
+  {
+    "path": "/thefilter/2026/nov/14/best-christmas-gifts-ideas-filter-uk-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"369 best Christmas gifts for 2026 – tried, tested and loved by the Filter UK\""
+  },
+  {
+    "path": "/thefilter/2025/nov/27/expert-tips-buying-refurbished-tech-phones-laptop-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Don't buy new tech this Black Friday: expert tips for buying refurbished phones and laptops\""
+  },
+  {
+    "path": "/wellness/2026/nov/18/adam-grant-platonic-bonds-relationships",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Opposites don't attract': Adam Grant on how to strengthen friendships and make new ones faster\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/18/get-vaccinated-dont-vape-and-moisturise-liberally-10-doctors-on-how-to-avoid-and-treat-winter-ailments",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Get vaccinated, don't vape – and moisturise liberally! 10 doctors on how to avoid and treat winter ailments\""
+  },
+  {
+    "path": "/food/2026/nov/18/instant-coffee-vegan-cake-recipe-zero-waste-cooking",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to turn the dregs of an instant coffee jar into a brilliant vegan cake – recipe\""
+  },
+  {
+    "path": "/food/2026/nov/17/kitchen-aide-apple-pie-soggy-base-baking-advice",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Help! Why does my apple pie always have a soggy base?\""
+  },
+  {
+    "path": "/food/2026/nov/18/prawn-masala-and-spiced-roast-cauliflower-indian-recipes-romy-gill",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Prawn masala and spiced roast cauliflower: Romy Gill's Indian recipes for chilly nights\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/15/hurt-parents-didnt-give-me-40th-birthday-gift-annalisa-barbieri",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"I'm really hurt that my parents didn't give me a 40th birthday gift\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/15/the-moment-i-knew-he-quoted-my-favourite-tv-show",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The moment I knew: he quoted my favourite TV show on our first date. I blurted out, 'Marry me!'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/14/blind-date-leon-lucy",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Blind date: 'Would we meet again? We've swapped numbers … '\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/13/how-can-i-support-pregnant-friend-advice",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"My best friend is pregnant. I'm happy for her but not good with babies. How can I be supportive?\""
+  },
+  {
+    "path": "/money/2026/nov/18/life-insurance-explained-types-of-cover",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Life insurance: what is it and do you need it?\""
+  },
+  {
+    "path": "/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pill that mimics Viagra can slow Alzheimer's progression, study suggests\""
+  },
+  {
+    "path": "/fashion/2026/nov/12/wool-pricing-natural-fibre-menswear-knitwear-women",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Pretty weird': how a viral video shows a striking discrepancy in men and women's knitwear\""
+  },
+  {
+    "path": "/fashion/2026/nov/11/jess-cartner-morley-on-fashion-fashions-big-idea-this-season-wear-a-skirt",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jess Cartner-Morley on fashion: this season's big idea? Wear a skirt. It's that simple\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/18/uk-best-christmas-train-rides-father-christmas-santa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dashing through the snow: 10 of the UK's best Christmas train rides\""
+  },
+  {
+    "path": "/travel/2026/nov/17/britain-most-beautiful-bus-journey-wales-beats-train",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Is this Britain's most beautiful bus journey? The Welsh service that beats the train hands down\""
+  },
+  {
+    "path": "/travel/2026/nov/16/search-perfect-tagliatelle-al-ragu-in-bologna-spag-bol",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"My search for Bologna's perfect tagliatelle al ragù – the real 'spag bol'\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/18/a-moment-that-changed-me-the-tomato-pasta-that-became-an-obsession-and-helped-me-lead-a-better-life",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"A moment that changed me: the tomato pasta that became an obsession – and helped me lead a better life\""
+  },
+  {
+    "path": "/inequality/2026/nov/18/class-difference-friendships-research-lse",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"How to deal with a class difference in friendships? Make fun of your privileged friends\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/17/the-pest-ill-never-forget-bedbugs-bit-me-worried-jake-gyllenhaal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The pest I'll never forget: the bedbugs that bit me – and worried Jake Gyllenhaal\""
+  },
+  {
+    "path": "/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"How Ukraine struck the Kerch bridge, a symbol of Putin's rule\""
+  },
+  {
+    "path": "/society/2026/nov/18/uk-businesses-what-are-the-barriers-stopping-you-hiring-young-people",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK businesses: what are the barriers stopping you hiring young people?\""
+  },
+  {
+    "path": "/money/2026/nov/18/uk-energy-bills-are-rising-tell-us-are-you-shopping-around-for-a-better-deal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK energy bills are rising. Tell us: are you shopping around for a better deal?\""
+  },
+  {
+    "path": "/politics/2026/nov/16/brexit-share-your-thoughts-on-andy-burnhams-plan-for-a-new-eu-deal",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Share your thoughts on Andy Burnham's plan for a new EU deal\""
+  },
+  {
+    "path": "/thefilter/2026/nov/12/best-beauty-christmas-gifts-sali-hughes-2026-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"From cult skincare to seriously posh soap: Sali Hughes's best beauty gifts for Christmas 2026\""
+  },
+  {
+    "path": "/uk-news/2026/jan/20/lucy-letby-will-face-no-new-charges-says-crown-prosecution-service",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lucy Letby will face no new charges, Crown Prosecution Service says\""
+  },
+  {
+    "path": "/uk-news/2025/mar/19/lucy-letby-inquiry-chair-rejects-calls-to-pause-investigation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lucy Letby inquiry chair rejects calls to pause investigation\""
+  },
+  {
+    "path": "/uk-news/article/2024/jul/02/tv-paediatrician-who-played-central-role-in-lucy-letby-retrial-dr-ravi-jayaram",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"TV paediatrician played central role in Lucy Letby retrial\""
+  },
+  {
+    "path": "/uk-news/2023/aug/21/lucy-letby-sentence-whole-life-jail-term-for-murdering-seven-babies",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lucy Letby sentenced to whole-life jail term after murdering seven babies\""
+  },
+  {
+    "path": "/politics/2020/dec/06/with-time-close-to-running-out-brexit-talks-remain-at-impasse",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"With time close to running out, Brexit talks reach crunch stage\""
+  },
+  {
+    "path": "/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Andy Burnham says it is clear Russia interfered in Brexit referendum\""
+  },
+  {
+    "path": "/uk-news/2018/sep/06/britain-says-brexit-will-open-door-to-tougher-russia-sanctions",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Britain says Brexit will open door to tougher Russia sanctions\""
+  },
+  {
+    "path": "/politics/2020/nov/20/brexit-deal-close-to-being-finalised-eu-ambassadors-told",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Brexit deal close to being finalised, EU ambassadors told\""
+  },
+  {
+    "path": "/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Xi Jinping rallies against protectionism as he welcomes Trump to Apec summit\""
+  },
+  {
+    "path": "/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Trump signs Thai trade deal as protests greet his arrival in Manila – as it happened\""
+  },
+  {
+    "path": "/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Xi, Trump and Putin to discuss 'world peace' at trilateral, says China\""
+  },
+  {
+    "path": "/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?\""
+  },
+  {
+    "path": "/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Anthony Albanese welcomes Trump-Xi-Putin summit, even as European leaders express reservations\""
+  },
+  {
+    "path": "/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Ukraine critically damages Kerch bridge linking occupied Crimea with Russia\""
+  },
+  {
+    "path": "/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The 'ordinary' woman accused of assassinating a Russian commander in Crimea\""
+  },
+  {
+    "path": "/world/2023/jul/17/explosions-reportedly-hit-crimeas-kerch-bridge-as-russia-cites-emergency-situation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Two dead after explosions on Kerch Bridge linking Crimea and Russia\""
+  },
+  {
+    "path": "/world/2022/aug/11/russian-warplanes-destroyed-in-crimea-saky-airbase-attack-satellite-images-show",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Russian warplanes destroyed in Crimea airbase attack, satellite images show\""
+  },
+  {
+    "path": "/world/2018/may/15/putin-opens-bridge-between-crimea-and-russian-mainland",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Putin opens 12-mile bridge between Crimea and Russian mainland\""
+  },
+  {
+    "path": "/world/2025/may/15/mike-lynchs-superyacht-sank-in-high-winds-says-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Mike Lynch's superyacht sank in high winds, says report\""
+  },
+  {
+    "path": "/world/2025/jun/21/salvagers-to-remove-mike-lynchs-superyacht-bayesian-from-sea-off-sicily",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Salvagers fully raise Mike Lynch's superyacht Bayesian from sea off Sicily\""
+  },
+  {
+    "path": "/world/2025/jun/20/mike-lynch-bayesian-superyacht-raised-from-seabed-sicily-salvage-operation",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Mike Lynch's superyacht Bayesian raised from seabed off Sicily\""
+  },
+  {
+    "path": "/world/2025/may/10/operation-to-recover-mike-lynchs-superyacht-suspended-after-diver-dies",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Operation to recover Mike Lynch's superyacht suspended after diver dies\""
+  },
+  {
+    "path": "/world/2025/may/09/diver-dies-during-salvage-operation-to-recover-mike-lynchs-sunken-superyacht",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Diver dies during salvage operation to recover Mike Lynch's superyacht\""
+  },
+  {
+    "path": "/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Russell Brand barrister reports himself to watchdog over clash with journalist\""
+  },
+  {
+    "path": "/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist\""
+  },
+  {
+    "path": "/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says\""
+  },
+  {
+    "path": "/media/2026/nov/04/broadcasters-content-creators-youtube-bbc-itv-channel-4",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Broadcasters need content creators 'more than creators need them'\""
+  },
+  {
+    "path": "/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Trump administration attacks UK plans to boost traditional media on social platforms\""
+  },
+  {
+    "path": "/global-development/2026/nov/16/femicide-crisis-mexico-judge-killed-my-mother-one-more-time",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'These men feel protected': how Mexico's first femicide squad is turning the tide on record killings\""
+  },
+  {
+    "path": "/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'I am still a child, it cannot be good to be married': how drought forces Afghan families to sell girls as brides\""
+  },
+  {
+    "path": "/technology/2026/oct/26/anthropic-files-listing-stock-market",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Anthropic files for potentially record-breaking stock market valuation in key test for AI industry\""
+  },
+  {
+    "path": "/technology/2026/jun/01/anthropic-ai-ipo",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Anthropic confidentially files for initial public offering on US stock market\""
+  },
+  {
+    "path": "/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"SpaceX makes largest ever stock market debut, making Elon Musk world's first trillionaire\""
+  },
+  {
+    "path": "/technology/2026/feb/12/anthropic-funding-round",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn\""
+  },
+  {
+    "path": "/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Four takeaways from Anthropic's potentially record-breaking stock market filing\""
+  },
+  {
+    "path": "/music/2020/may/14/florence-pugh-simon-armitage-lockdown-poem",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Florence Pugh and Simon Armitage record lockdown poem together\""
+  },
+  {
+    "path": "/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"East of Eden review – Florence Pugh in soapy Steinbeck adaptation is brilliant, compelling TV\""
+  },
+  {
+    "path": "/lifeandstyle/2020/mar/25/coronavirus-cabin-fever-the-best-celebrities-to-follow-from-robbie-williams-to-florence-pugh",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Coronavirus cabin fever: the best celebrities to follow, from Robbie Williams to Florence Pugh\""
+  },
+  {
+    "path": "/culture/2022/sep/05/dont-worry-darling-movie-olivia-wilde-harry-styles-florence-pugh-shia-labeouf-film-explained",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"What's up with Olivia Wilde, Harry Styles and Florence Pugh? The worry over Don't Worry Darling\""
+  },
+  {
+    "path": "/film/2022/jul/11/florence-pugh-hits-back-at-vulgar-criticism-of-her-body-on-social-media",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Florence Pugh hits back at 'vulgar' criticism of her body on social media\""
+  },
+  {
+    "path": "/culture/2014/dec/28/rising-stars-2015-actor-florence-pugh",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Rising stars of 2015: actor Florence Pugh\""
+  },
+  {
+    "path": "/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Australia's gender pay gap falls below 20% for first time\""
+  },
+  {
+    "path": "/science/2026/nov/18/cambridge-word-of-the-year-human",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Human' wins Cambridge dictionary's word of the year\""
+  }
+]

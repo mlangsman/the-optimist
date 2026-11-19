@@ -1,0 +1,1793 @@
+{
+  "date": "2026-11-19",
+  "engine": "claude-code",
+  "results": [
+    {
+      "id": "a:/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
+      "kind": "article",
+      "output": {
+        "headline": "Letby case puts legal safeguards against miscarriages of justice to the test",
+        "bodyHtml": "<p>Lucy Letby's legal team is pursuing a Criminal Cases Review Commission referral for a fresh court of appeal hearing, backed by reports from dozens of medical experts who argue the prosecution's case against her was wrong. Central to that case was the evidence of a senior doctor who, the Guardian can reveal, was barred from treating patients during the trial itself because of safety concerns about his treatment of patients – a fact jurors were never told.</p> <p>Prof Peter Hindmarsh, a specialist in hormones in children, was crucial to the crown's argument that the British nurse had poisoned children by injecting insulin into fluid bags. A Guardian investigation can reveal he was excluded from clinical practice in March 2023, five months before the end of the trial, by his employer, University College London hospitals trust (UCLH). Jurors were never told.</p> <p>Among the reasons for UCLH's decision was that his advice to child patients relating to insulin was not considered safe. A UCLH medical director told the General Medical Council (GMC), the doctors' regulator, that the hospital could not 'accept the level of risk Professor Hindmarsh appears to pose to children and young people'.</p> <p>The GMC, which was already <a href=\"https://www.theguardian.com/uk-news/2026/mar/03/lucy-letby-case-expert-witness-peter-hindmarsh-was-under-fitness-to-practise-investigation-during-trial\">investigating Hindmarsh's fitness to practise</a>, subsequently applied for his registration as a doctor to be suspended. That could have resulted in his evidence in the trial of Letby – which was still in progress – being dismissed.</p> <p>However, in April 2023 a medical practitioners tribunal – an independent panel that decides GMC proceedings against doctors – opted not to suspend his registration, and instead ordered that Hindmarsh be directly supervised in his work to protect patient safety. That decision had no practical effect, because UCLH had already barred him from practising at all.</p> <figure class=\"element element-interactive interactive element--showcase\" data-interactive=\"https://interactive.guim.co.uk/embed/iframe-wrapper/0.1/boot.js\" data-canonical-url=\"https://interactive.guim.co.uk/uploader/embed/2026/11/archive/5d31e1b0-d7bf-4d9f-becc-9f643bac0f0d/\" data-alt=\"A graphic showing a timeline on Hindmarsh's medical conduct investigation and Letby's trial\"> <a href=\"https://interactive.guim.co.uk/uploader/embed/2026/11/archive/5d31e1b0-d7bf-4d9f-becc-9f643bac0f0d/\">Interactive</a> </figure> <p>While Hindmarsh's ability to practise was being restricted, the trial of Letby continued at Manchester crown court. Her defence team was never informed that Hindmarsh's hospital considered his professional judgment and practice so deficient as to be unsafe to child patients, or of the April 2023 tribunal ruling.</p> <p>While Hindmarsh did inform the local police force, Cheshire constabulary, in December 2022 that he was subject to a GMC investigation, and in February 2023 the Crown Prosecution Service told Letby's defence, her legal team was not made aware<strong> </strong> that he was later barred from practising on safety grounds.</p> <p>Had they known, Letby's defence team might have challenged his credibility as an expert witness and applied for the jury to be told or for his evidence to be dismissed.</p> <p>Failures of disclosure are recognised as potential grounds for a referral to the Criminal Cases Review Commission (CCRC), the miscarriages of justice watchdog, and for convictions to be overturned.</p> <p>The apparent lack of transparency could mean Hindmarsh breached legal rules requiring expert witnesses to disclose to the party instructing them any disciplinary proceedings against them and anything that may be considered to undermine their credibility. Hindmarsh declined to answer any of the Guardian's questions about this, the hospitals' concerns about him, or the GMC investigation.</p> <p>Letby, who was a neonatal nurse at the Countess of Chester hospital, was <a href=\"https://www.theguardian.com/uk-news/2023/aug/18/lucy-letby-found-guilty-of-murdering-seven-babies-at-chester-hospital\">convicted</a> of murdering seven babies and attempting to murder seven others, and <a href=\"https://www.theguardian.com/uk-news/article/2024/jul/05/lucy-letby-handed-15th-whole-life-jail-sentence\">sentenced</a> to 15 whole-life terms in prison. Court of appeal judges <a href=\"https://www.theguardian.com/uk-news/2024/oct/24/lucy-letby-refused-permission-to-appeal-against-attempted-conviction\">turned down</a> her applications to appeal.</p> <p>She has always maintained she is innocent. Her lawyer, Mark McDonald, is the one pursuing the Criminal Cases Review Commission application on her behalf.</p> <p>Since the convictions, dozens of leading UK and international medical experts have argued that the prosecution's case, including Hindmarsh's evidence, was wrong, and produced reports submitted in support of her CCRC application.</p> <p>Dr Shoo Lee, a renowned Canadian neonatologist who argues that the prosecution <a href=\"https://www.theguardian.com/uk-news/2025/may/14/the-convictions-of-lucy-letby-should-they-be-overturned\">misrepresented his research</a>, last year made public the <a href=\"https://www.theguardian.com/uk-news/2025/feb/04/no-medical-evidence-to-support-lucy-letby-conviction-expert-panel-finds\">summary findings of a 14-member expert panel</a> he had convened. They found unanimously that the babies died or collapsed due to natural causes and poor medical care on the unit, and that there was <a href=\"https://www.theguardian.com/uk-news/video/2025/feb/04/no-medical-evidence-to-support-lucy-letbys-conviction-expert-panel-says-video\">no evidence of murders</a>, insulin poisoning or any other deliberate harm.</p> <p>Seven experts have contributed to reports submitted by McDonald to the CCRC,<strong> </strong>contesting Hindmarsh's opinions. They argue that Hindmarsh's calculations and diagnoses of the babies' medical conditions were factually inaccurate in many respects, and his opinion that insulin was infused via the fluid bags is not supported by the evidence. The experts also argue that blood tests known as immunoassays, relied on by the prosecution as definitive evidence of poisoning, are known to be fallible.</p> <p>Lady Justice Thirlwall, who chaired a two-year public inquiry after the convictions, <a href=\"https://www.theguardian.com/uk-news/2026/sep/15/thirlwall-inquiry-left-biggest-questions-lucy-letby-case-unanswered\">refused to consider</a> the experts' arguments that Letby may have suffered a miscarriage of justice, or to wait for the CCRC decision. She produced a report in September making a series of recommendations for the NHS, on the basis that Letby was guilty.</p> <h2><strong>The insulin expert</strong></h2> <p>Hindmarsh was presented to the Letby jury throughout as a distinguished authority. The lead barrister for the Crown Prosecution Service (CPS), Nick Johnson KC, described him to jurors as 'the pre-eminent expert' on insulin.</p> <p>Hindmarsh was a consultant paediatric endocrinologist – a specialist in hormones, including insulin, in children – at UCLH from 1991, and a professor at UCL, with an eminent reputation.</p> <p>When Johnson introduced Hindmarsh at the trial, he asked if he was also an honorary consultant at Great Ormond Street. The jury was not told that four months earlier, in July 2022, Hindmarsh's contract in that role at the children's hospital had been terminated.</p> <p>Hindmarsh asserted in his trial evidence that blood tests and the medical records of two babies being cared for at the Countess of Chester hospital showed they had been poisoned with insulin, most likely inserted into intravenous fluid bags. The prosecution alleged that Letby injected insulin into the bags, although there was no direct or forensic evidence that she or anybody else had done so.</p> <p>Hindmarsh's evidence alleging insulin poisoning was considered pivotal to the convictions. In summing up, the judge, James Goss, told the jury that if they were sure babies were being deliberately harmed, they could decide other babies were also being harmed, even if they were not sure about the precise cause.</p> <p>Johnson presented the two cases of alleged insulin poisoning as incontrovertible evidence. The charges of attempted murder of those two babies were the first on which the jury reached guilty verdicts, and two of only three unanimous guilty verdicts.</p> <h2><strong>'Multiple and wide-ranging concerns'</strong></h2> <p>The Guardian first <a href=\"https://www.theguardian.com/uk-news/2026/mar/03/lucy-letby-case-expert-witness-peter-hindmarsh-was-under-fitness-to-practise-investigation-during-trial\">revealed in March</a> that the GMC launched an investigation into Hindmarsh on 25 November 2022, the same day he first gave evidence as an expert for the prosecution of Letby.</p> <p>Great Ormond Street hospital had reported 'multiple and wide-ranging concerns' to the GMC, including Hindmarsh's 'diagnosis and treatment of patients' and 'cases where harm to patients has been alleged'. UCLH had been leading a formal investigation of its own into Hindmarsh, and in December 2022 it reported its similar concerns to the GMC.</p> <p>Then in January 2023, while the Letby trial was still ongoing, a medical tribunal imposed orders that while the GMC investigation continued, Hindmarsh could only work at UCLH, and his clinical work had to be supervised, because otherwise he 'may pose a real risk to members of the public'.</p> <p>Until now, it has not been publicly known that UCLH reported further serious concerns on 15 March 2023, and informed the GMC it had excluded Hindmarsh from treating patients at all. This was less than three weeks after Hindmarsh had given his second and final day of evidence at Letby's trial, on 24 February.</p> <p>Documents seen by the Guardian show that a UCLH medical director, Dr Tim Hodgson, informed the GMC of the hospital's decision. Hodgson wrote that Hindmarsh had breached the supervision order and given independent medical advice relating to three child patients, two involving insulin and diabetes. Hindmarsh's medical colleagues had submitted 'written concerns' about him, Hodgson said.</p> <p>'On the grounds of safety UCLH are not presently in a position to allow Professor [Hindmarsh] to practice clinically even under supervision,' he wrote. '… I do not believe UCLH can accept the level of risk Professor Hindmarsh appears to pose to children and young people even with close clinical supervision.'</p> <p>In two of the cases, Hodgson said Hindmarsh had independently advised the families that the children stop being given insulin at home. One of the children had an episode of diabetic ketoacidosis (DKA), a critical, life-threatening complication <a href=\"https://www.diabetes.org.uk/about-diabetes/looking-after-diabetes/complications/diabetic-ketoacidosis?gad_source=1&amp;gad_campaignid=15219795769&amp;gbraid=0AAAAAD4IfZURM8nhR-f2H-5h7bSWnui7w&amp;gclid=CjwKCAjw9PvWBhAxEiwAddzYybxedxiBO6seXAkRFwi8fDRi-Ox-YgBM4awlRQ6ynn64UzR-WLJeIxoCrosQAvD_BwE\">caused by a severe lack of insulin</a>.</p> <p>'The patient had an episode of DKA and it's not clear whether this coincided with the alleged advice from Professor Hindmarsh,' Hodgson wrote.</p> <p>In the two insulin cases, Hodgson highlighted concerns that Hindmarsh was over-focusing on rare causes of hypoglycaemia (low blood sugar) and diabetes (a cause of high blood sugar). In the first case, his colleagues believed Hindmarsh was not addressing more common causes of diabetes, and in the second, that he was 'not treating high glucose levels appropriately'.</p> <p>Had Letby's defence team been informed of this, it could have strengthened the case for an application to inform the jury or exclude Hindmarsh's evidence.</p> <p>Experts who have provided reports for Letby's CCRC application have argued that Hindmarsh's opinion that the babies were poisoned via their fluid bags was an extremely unlikely explanation for their condition. They argue that Hindmarsh failed to recognise more common, identifiable medical causes.</p> <p>Hodgson also said Hindmarsh had questioned the reliability of an insulin antibodies blood test result, sharing 'his concern with the family that this was an erroneous, fallible test'.</p> <p>This too could have been significant to Letby's defence. At the trial, Johnson presented results from the immunoassay blood tests as definitive and said there was 'no doubt' the two babies were poisoned.</p> <p>Experts supporting Letby's CCRC application say immunoassays are known to be fallible because they can react to antibodies in blood to give a falsely high insulin result. Hodgson's report suggests Hindmarsh recognised that some blood tests were fallible, but he never made this clear at Letby's trial.</p> <h2><strong>The duty to disclose</strong></h2> <p>The GMC responded to these new concerns by applying to the tribunal for Hindmarsh's registration as a doctor to be suspended. Hindmarsh's barrister argued strongly that although he would not be treating patients because UCLH had excluded him, he should be allowed to continue working as an expert witness. Suspension, she said, would impede his ability to do so.</p> <p>The barrister argued to the tribunal that Hindmarsh had not breached the supervision order and 'no harm has been caused to patients'.</p> <p>The three-person tribunal said it could not determine whether the previous supervision order had 'technically' been breached. 'However, the tribunal felt that the three cases identified by UCLH did raise concerns about patient safety,' it said.</p> <p>The tribunal decided that to suspend Hindmarsh would be disproportionate and explicitly allowed him to continue working as an expert witness, saying its order should not 'restrict his non-clinical work'.</p> <p>Instead, it imposed a tightening of the supervision requirement so that Hindmarsh from then had to be directly supervised when treating patients. This appears to have been a theoretical measure, however, because Hindmarsh was already restricted to only working for UCLH, and the hospital had barred him from treating patients at all.</p> <p>Expert witnesses have a legal duty under the criminal procedure rules to tell the party instructing them – in Hindmarsh's case, Cheshire constabulary – anything 'that might reasonably be thought capable of undermining the expert's opinion or detract from the credibility or impartiality of the expert'. This includes any disciplinary proceedings by a regulatory body.</p> <p>The rules were introduced in 2014 to improve the reliability of expert evidence and guard against miscarriages of justice, after a series of wrongful convictions in the late 1990s and 2000s.</p> <p>Lawyers have told the Guardian that under the rules, Hindmarsh should have told the police of the April 2023 tribunal ruling and that his hospital had barred him from clinical practice.</p> <p>Tim Green KC, a specialist in disclosure, told the Guardian: 'Whilst I cannot comment on the facts behind this complex and sensitive case, it is clear that the duty of an expert witness to make disclosure in a criminal or civil case of all material capable of undermining his opinion or detracting from his credibility is a continuous one.</p> <p>'This duty extends after he has given evidence and through to the end of the proceedings. The duty continues through to any appeals, and arguably remains extant now, during the current considerations of the CCRC.</p> <p>'Further restrictions imposed by a professional disciplinary tribunal on an expert's right to practise, like those which can be imposed by the medical practitioners tribunal, are also disclosable in my view. Such restrictions are likely to be relevant to an assessment made by a jury or judge of an expert's opinion evidence, competence and skill. For the same reasons, it also arguable that the information which led the tribunal to impose those restrictions in the first place is also disclosable.'</p> <p>Lawyers have said Hindmarsh may have had a duty to tell the police and CPS initially, earlier in 2022, of the <a href=\"https://www.theguardian.com/uk-news/2026/mar/11/expert-witness-in-lucy-letby-trial-did-not-reveal-hospital-investigation-into-his-medical-work\">investigation into his practice led by UCLH</a>, and that Great Ormond Street had terminated his contract. He does not appear to have done so.</p> <p>When Johnson, the lead prosecutor, first introduced Hindmarsh in court on 25 November 2022, he sought to clarify that the professor had an eminent position at Great Ormond Street as well as UCLH. After two questions not answered clearly, Johnson asked Hindmarsh: 'Are you an honorary consultant at Great Ormond Street hospital though?' Hindmarsh replied: 'Yes. At that stage, yes.'</p> <p>Hindmarsh did not say his contract at Great Ormond Street had been terminated four months earlier. That point was never clarified to the jury.</p> <p>Hindmarsh was first informed of the GMC investigation into him on 30 November 2022. By this point, he had already made his first appearance in the Letby trial.</p> <p>He told Cheshire constabulary two weeks later, on 14 December 2022. The CPS was informed two months later and told Letby's then barrister, Ben Myers KC, on 20 February 2023, just four days before Hindmarsh was due to give his second day of evidence.</p> <p>The CPS told Myers it would oppose the jury being told, because the GMC investigation into Hindmarsh had not reached a final adjudication. Myers did not then make an application to the judge for the jury to be informed.</p> <p>On 23 February 2023, the day before Hindmarsh was due to return and give evidence, Johnson reminded the jury about him. 'Professor Peter Hindmarsh will be here tomorrow to deal with the issue of insulin,' Johnson said. 'And because he's the pre-eminent expert in that narrow field, we will call him first.'</p> <p>In July 2023, the judge referred to Hindmarsh's evidence in his summing up. He did not mention Great Ormond Street at all, describing Hindmarsh as 'emeritus professor of endocrinology at University College London and also a consultant paediatric endocrinologist at University College London hospitals'. Apparently unknown to the judge, UCLH had excluded Hindmarsh from practising as a consultant four months earlier.</p> <p>Letby was convicted in August 2023. The GMC investigation into Hindmarsh never reached a final determination. In November 2024 Hindmarsh applied to remove himself from registration as a doctor. The GMC allowed this, a process known as 'voluntary erasure', which meant the investigation was stopped with no final adjudication.</p> <p>The CPS has confirmed to the Guardian<strong> </strong>that it did not disclose to the defence anything relating to Hindmarsh being barred from clinical practice or the April 2023 tribunal ruling, because it had not been made aware of it.</p> <p>Cheshire constabulary declined to provide information to the Guardian, so it is not clear whether Hindmarsh did or did not tell the police. Either way, it was not passed to the CPS, which would have disclosed it to Letby's defence.</p> <p>'Cheshire constabulary will not be commenting further in relation to this case,' a spokesperson said.</p> <p>A CPS spokesperson said: 'The CPS met all its disclosure obligations and no objections were raised by the defence at any stage in relation to expert evidence relied on by the prosecution.'</p> <p>The CPS' statement is made on the basis that it disclosed what it knew to the defence, and it had not been told about the tribunal ruling or that Hindmarsh was barred from treating patients. Johnson's representatives did not reply to questions from the Guardian.</p> <p>McDonald, Letby's lawyer, said: 'Peter Hindmarsh's evidence was pivotal to the prosecution's case against Lucy Letby. The insulin allegations were not simply another part of the prosecution's case; they were its cornerstone, presented as scientific proof that she had deliberately poisoned babies and was capable of murder.</p> <p>'It shaped the jury's perception of Lucy and provided the lens through which they were invited to view every other allegation. This was not evidence that could be neatly confined to two convictions. Its influence permeated the entire trial. If the foundations of the insulin cases are unsafe, the consequences for the safety of the wider convictions cannot be overstated.'</p> <p>The Guardian asked Hindmarsh detailed questions about the hospitals' concerns, UCLH excluding him from clinical practice, and the GMC investigation, and put to him that he appeared not to have made adequate disclosure under the criminal procedure rules.</p> <p>A representative for Hindmarsh replied: 'He has no comment in relation to these questions and points.'</p>",
+        "captions": [],
+        "standfirst": "Rules to guard against miscarriages of justice are in focus after the Guardian found Prof Peter Hindmarsh, whose evidence helped convict Lucy Letby, was barred from treating patients during trial; the jury was never told.",
+        "progress": "Letby's lawyer, Mark McDonald, has applied to the Criminal Cases Review Commission for a fresh appeal, backed by reports from seven medical experts.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+      "kind": "article",
+      "output": {
+        "headline": "UK and EU near reset deal on food, emissions trading and youth mobility",
+        "bodyHtml": "<p>The UK and EU are closing in on a reset deal due to be signed off at a summit on Friday, covering food and agriculture, emissions trading and a youth mobility scheme. But diplomats have said the EU will shut the door to discussions with Andy Burnham about the UK's longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit.</p> <p>European capitals are also warning they have reached the end of the line for piecemeal 'reset' summits with the UK and want the prime minister to focus on his next steps domestically before they proceed.</p> <p>But they suggested a joint statement after the summit would signal that further discussions would follow on the UK's entry to the EU's energy single markets, irregular migration and a closer defence and security relationship.</p> <p>'Clarity is what we need more than anything from the UK. Don't come back until you know what you want. Work out what your options really are and then come to negotiate,' one EU diplomat said.</p> <p>'The prime minister needs to bring the public with him. We can't have another negotiation based on just half the country. We'll only put the effort in if we know it's not going to change down the line.'</p> <p>Burnham is expected to set out his own next steps after the summit on Monday, including his hopes for a 'national conversation' on what a closer relationship might look like.</p> <p>With less than 48 hours before the Brussels summit, negotiators were still racing to finalise Friday's agreement. A leaked draft seen by the Guardian shows continued disagreement over demands by the EU that the UK commit to aligning with the bloc's trade defence measures, such as tariffs on Chinese electric vehicles, in exchange for inclusion in Made in Europe legislation.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer\">Cheese, pet passports and youth mobility: what's in the UK-EU 'relationship reset' draft? </a> </p> </aside> <p>The text shows the UK is pushing for a weaker commitment, only promising an 'aim to protect supply chains consistently across our markets and guard against potential risks of circumvention'.</p> <p>A Cabinet Office source said Made in Europe language was 'the highest jeopardy' in the negotiations, while an EU official suggested it was the part of the discussions most likely to go 'down to the wire' on Friday.</p> <p>Though there is a formal commitment to annual reset summits, senior EU diplomats say the current approach, designed by Keir Starmer, will quickly 'reach its limits' and more 'mini deals' do not make sense.</p> <p>One said the 'piecemeal approach is coming to an end' and that Burnham's intentions for the UK's long-term relationship created a natural juncture for the EU too.</p> <p>Another said: 'It is like a buffet: you can choose to nibble on one or two dishes to start, but at a certain point you have to go for the whole of the buffet.'</p> <p>One EU diplomat said there would be a 'pause for reflection' after the Friday summit.</p> <p>Burnham has said there is no rush to decide on the longer-term relationship, as he comes under pressure from within his own party to slow the pace of pursuing closer ties.</p> <p>He is not now expected to set out the full range of options for the future relationship – the status quo, customs union, single market or full rejoin – until he announces his 10-year plan in December.</p> <p>Sources said the government was considering holding a year-long 'national conversation' in 2027, including town halls and citizens assemblies, before deciding which route to pursue in advance of the next election.</p> <p>However, the potential length of that debate has alarmed Brussels officials, who were caught off-guard by the launch of the new <a href=\"https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit\">pro-Brexit campaign group Stay Out</a>, set up by architects of the Vote Leave campaign.</p> <p>One EU diplomat said: 'The government would spend the year making evidence-based arguments about each of the four options, while Boris Johnson and Michael Gove and Nigel Farage will spend it shouting about traitors.'</p> <p>After <a href=\"https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer\">the reset deal</a> is agreed on Friday, it will be enacted by the European partnership bill, covering the deals on food and agriculture, emissions trading and youth mobility. It is expected to be introduced before Christmas, with legislation laid possibly as soon as next week.</p> <p>EU diplomats said the two sides were expected to settle on a quota of about 100,000 people a year being allowed to work, travel or study in each other's territories. Originally, the UK had pitched for 50,000 and then 80,000, while Brussels has consistently sought a higher number.</p> <p>Both sides have agreed that tuition fees for European students coming to the UK should be discussed at a later date, although there have been attempts by some member states to link the debate to the ratification of the whole reset deal.</p> <p>Senior Labour figures are already beginning their push to have a full rejoining on the table. The former business secretary <a href=\"https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit\">Peter Kyle said</a> Burnham should fight the next election on a promise to rejoin the EU, with voters given a referendum on the outcome of any deal.</p> <p>Kyle, who was a key member of Starmer's cabinet, said the 'only way through' the challenges of the domestic political debate was for the government to offer voters the choice to accept or reject any agreement.</p> <p>He is the latest senior Labour MP to publicly wade into the Brexit debate, after the former foreign secretary David Lammy said the party should go into the next election clear that its intention was to rejoin.</p> <p>Rachel Reeves, the former chancellor, has <a href=\"https://www.theguardian.com/politics/2026/nov/01/rachel-reeves-uk-future-is-in-eu-andy-burnham-brexit\">also said</a> Britain's future should be back in the bloc, arguing that leaving had made the UK 'poorer, weaker and less secure'.</p>",
+        "captions": [],
+        "standfirst": "A UK-EU summit on Friday is expected to agree reset measures on food, emissions trading and youth mobility, but diplomats say there will be no talks on Britain's longer-term ties until Burnham decides on Brexit.",
+        "progress": "UK and EU negotiators are racing to finalise Friday's reset deal, covering food, emissions trading and youth mobility.",
+        "upside": 2,
+        "context": {
+          "text": "In a foreign policy speech, Burnham said Brexit had diminished Britain's standing and signalled Labour could drop its EU red lines in its next manifesto.",
+          "sourceUrl": "https://www.theguardian.com/politics/2026/nov/17/burnham-says-brexit-has-dramatically-diminished-britains-global-standing"
+        }
+      }
+    },
+    {
+      "id": "a:/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+      "kind": "article",
+      "output": {
+        "headline": "Ukraine strikes symbolic Kerch bridge for third time in a week",
+        "bodyHtml": "<p>Ukraine's military has struck the Kerch bridge linking annexed Crimea to Russia for a third time this week, in what a source in its armed forces called a campaign designed to embarrass Vladimir Putin on the world stage, hours before he is due to meet Xi Jinping and Donald Trump in China. A Russian-appointed regional governor said traffic had been halted again on Wednesday while the new damage was assessed.</p> <p>'Following a new attack on the Crimean Bridge, traffic has been temporarily halted. All relevant services are on site and at work. An assessment of the damage is under way,' Sergei Aksyonov, the Kremlin-appointed governor of Crimea, wrote on Telegram.</p> <p>The bridge, which links Russia with Crimea, ​seized from Ukraine in 2014, is highly symbolic. A 227-metre section of the road spanning the Kerch strait was destroyed this week, but the rail corridor appears to be operable despite sustaining some damage.</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis\">'They were keeping it for a rainy day': Ukraine's Kerch bridge attack is proof Kyiv still has cards to play</a> </p> </aside> <p>'The bridge is a symbol of Putin's rule. Destroying it sends a message to the other two great leaders that Putin is not as strong as he pretends,' the source in Ukraine's armed forces said, of <a href=\"https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule\">this week's attacks</a>.</p> <p>For Ukraine, the bridge is a <a href=\"https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule\">hated symbol</a> of Russian arrogance and colonial thinking. Ukraine has previously declared that the bridge across the Kerch strait, built eight years ago, is illegal. Kyiv had tried twice to blow it up – with a truck bomb in 2022, and a sea drone the following year.</p> <p>Earlier, Ukraine critically damaged the road section of the bridge in what President Volodymyr Zelenskyy hailed as an <a href=\"https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea\">'unprecedented' military operation</a>. A span of the bridge's road section collapsed, but the railway line was still standing.</p> <p>Zelenskyy described the earlier attack as the culmination of a long and complex campaign to demolish the bridge, involving domestically produced drones and ballistic missiles. Palianytsia drones hit the road section of the bridge, while Neptune and other missiles targeted the adjacent rail section, he added.</p>",
+        "captions": [],
+        "standfirst": "The attack is the third this week on the bridge linking annexed Crimea to Russia, part of a Ukrainian campaign using domestically developed drones and missiles; the Kremlin-appointed governor says traffic has been halted.",
+        "progress": "Ukraine's armed forces say the strikes, using domestically produced drones and missiles, are designed to embarrass Putin on the world stage.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+      "kind": "article",
+      "output": {
+        "headline": "MAIB report sets out cause of Bayesian yacht sinking that killed seven",
+        "bodyHtml": "<p>A UK investigation has established why the superyacht Bayesian sank in a storm off Sicily in August 2024: it was vulnerable to knockdown because it had never been assessed at anchor with its sails down, and the crew had no way of knowing, the final report from the UK's Marine Accident Investigations Branch (MAIB) has said. Nine crew members and six guests were rescued; seven people died, including the tech tycoon Mike Lynch and his teenage daughter.</p> <p>The 56-metre (184ft) vessel was anchored near the fishing port of Porticello when <a href=\"https://www.theguardian.com/uk-news/2024/oct/04/mike-lynch-died-from-drowning-bayesian-yacht-inquest-hears\">it sank during a violent storm</a> shortly before dawn on 19 August 2024.</p> <p>Lynch, 59, had been enjoying a voyage around Sicily with family and friends after his acquittal in a long-running fraud case regarding the sale of the technology company he founded, Autonomy, to Hewlett-Packard in 2011.</p> <p>He and his 18-year-old daughter, Hannah, died, as did lawyer Chris Morvillo and his wife, Neda, banker Jonathan Bloomer and his wife, Judy, and the yacht's chef, Recaldo Thomas.</p> <p>The MAIB final report, published on Thursday, appears to contrast with recent reports from Italy, where prosecutors have reportedly blamed errors by the crew.</p> <p>The MAIB report details how the yacht was hit 'by extreme winds that were not explicitly forecast' of about 70 knots (80 mph), which knocked it on to its side in less than 15 seconds. It sank 18 minutes later.</p> <p>Investigators found that the yacht's vulnerability to strong winds had never been assessed for the conditions in which it was anchored, with its sails down and its retractable centreboard raised. The centreboard is a large underwater structure that helps a sailing vessel remain stable.</p> <p>The extreme weather was most likely caused by a downburst – a powerful blast of air from a thunderstorm that hits the sea and spreads out with enormous force, the report said.</p> <p>None of the life rafts on board automatically inflated or released from the vessel. The crew managed to release one manually. Survivors were rescued by crew from a nearby yacht, the Sir Robert Baden-Powell.</p> <p>Rob Loder, the chief inspector of MAIB, said: 'This accident developed with extraordinary speed. In just 14 minutes, calm conditions had given way to winds of at least 68 knots, which in less than 15 seconds pushed the yacht on to its side.</p> <p>'Our investigation found that Bayesian had a vulnerability to high winds that was not recognised, because the yacht had never been assessed at anchor with its sails down. The extreme winds that night were also not explicitly forecast, so the crew had no warning of the risk.'</p> <p>The report conveys the desperate minutes as the Bayesian was knocked down. Crew were alerted by sudden and severe winds of up to 30 knots at 03.55, and within two minutes the yacht listed starboard and the vessel began to drag anchor before the wind suddenly increased to about 70 knots.</p> <p>'At 04.06 Bayesian <a href=\"https://www.theguardian.com/world/article/2024/aug/23/ive-never-seen-a-vessel-this-size-go-down-so-quickly-why-did-the-bayesian-sink-in-60-seconds-mike-lynch\">violently heeled over</a> 90 degrees to starboard, taking less than 15 seconds to do so. People, furniture and loose items fell across the deck. The generators shut down immediately and battery-supplied emergency lighting automatically turned on,' the report said.</p> <p>Some guests, awoken by the listing and who had left their cabins, escaped. One couple used furniture drawers as an improvised ladder. Guests who managed to get to the flying bridge were instructed to swim away from the vessel and warned to stay clear of the mast and boom as it sank.</p> <p>Passengers and crew <a href=\"https://www.theguardian.com/world/article/2024/aug/19/we-didnt-see-it-coming-the-tumultuous-sicilian-night-that-took-down-the-bayesian\">who made it out</a> gathered in the water, using a torch on a mobile to search for others. A crew member managed to swim back to the yacht to manually release one life raft from stowage. By 04.24 the life raft was inflated.</p> <p>The investigation found that, with no sails set, Bayesian was vulnerable to knockdown in severe winds. This vulnerability was affected by its loading condition, apparent wind angle and the position of the centreboard, but had not been identified in the originally approved stability information available to the crew.</p> <p>It said information contained in guidance provided to mariners did not provide sufficient detail of the impact of possible weather conditions to support decision-making. The weather forecast also did not indicate the risk of downbursts from the thunderstorms it predicted, it said.</p> <p>Inquest proceedings in the UK are looking at the deaths of Mike and Hannah Lynch and Jonathan and Judy Bloomer, who were all British nationals.</p> <p>The Maritime and Coastguard Agency is also investigating the sinking.</p>",
+        "captions": [],
+        "standfirst": "A UK investigation found the Bayesian had never been assessed for high winds at anchor; it sank off Sicily in August 2024, killing seven, including Mike Lynch and his teenage daughter, with 15 others rescued.",
+        "progress": "The UK's Marine Accident Investigations Branch has completed its final report, and separate inquests and a Maritime and Coastguard Agency investigation continue.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/news/2026/nov/18/uk-government-russell-brand-youtube-deactivated-google",
+      "kind": "article",
+      "output": {
+        "headline": "Ministers and tech firms move to shut down Russell Brand's social media",
+        "bodyHtml": "<p>The British government, Meta and Google have all acted to limit <a href=\"https://www.theguardian.com/news/russell-brand\">Russell Brand</a>'s ability to broadcast from prison. Meta has disabled his Instagram and Facebook profiles, and a justice minister has reportedly asked Google to deactivate his YouTube account, <a href=\"https://news.sky.com/story/politics-latest-neets-youth-unemployment-milburn-report-burnham-12593360?postid=12862039#liveblog-body\">according to Sky News</a>, after he published a message claiming his innocence following his conviction for rape and sexual assault.</p> <p>Earlier this week, the Ministry of Justice launched an investigation into whether Brand, 51, broke prison rules after he <a href=\"https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message\">shared a message claiming he was not guilty</a> days after his conviction at Southwark crown court.</p> <p>He was <a href=\"https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault\">sentenced to 10-and-a-half-years in prison</a> for one count of rape and three counts of sexual assault.</p> <p>His wife, Laura Brand, read a message from her husband on Sunday in a video uploaded to their YouTube channel.</p> <p>Prisoners are allowed to protest their innocence, meaning that no criminal offence was committed in the release of the video. However, convicts are not permitted to make statements from jail that cause distress to victims, and heavy restrictions apply to speaking to the media.</p> <p>If he is found to have broken the rules, Brand could face sanctions ranging from an extension of his sentence to loss of privileges such as access to a phone for a limited period.</p> <p>It is understood a prisoner will be deemed to have broken the rules if they provide comments to a family member that they know will be published.</p> <p>Responding to the video, the prime minister's spokesperson called the comments 'clearly appalling'.</p> <p>The education secretary, Lucy Powell, also criticised broadcasters on Wednesday for 'amplifying' Brand's words by airing a clip of Laura Brand reading the message.</p> <p>She told LBC radio: 'I was appalled at that, and actually I think mainstream media shouldn't have transmitted that either.'</p> <p>Asked why she wanted to censor the message, Powell said: 'It's a platform I don't think … should have been amplified, to be honest.'</p> <p>The Ministry of Justice and Google were contacted for comment.</p> <p>Google <a href=\"https://www.theguardian.com/culture/2023/sep/19/youtube-suspends-russell-brand-revenues-channel\">stopped Brand from profiting from YouTube content</a> in 2023 after a media investigation revealed allegations of rape and sexual assault. At the time, the video platform said the decision was made 'to protect' its users.</p>",
+        "captions": [],
+        "standfirst": "Google has been asked to deactivate Russell Brand's YouTube account, after Meta disabled his Instagram and Facebook profiles, following his claim of innocence from prison after his conviction for rape and sexual assault.",
+        "progress": "The government, Meta and Google are acting to limit Brand's prison message, and the Ministry of Justice is investigating whether he broke prison rules.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "a:/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "kind": "article",
+      "output": {
+        "headline": "Equality Now lawyer calls for African rape laws to be reformed",
+        "bodyHtml": "<p>A legally binding African treaty guaranteeing women's right to consent to sex within marriage – the Maputo protocol – already exists, a human rights lawyer has said, as a UN report finds that one in four women around the world have no power to refuse sex if their husband or partner demands it.</p> <p>In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament. In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said the report by the UN Population Fund (<a href=\"https://www.unfpa.org/latest?_gl=1*qgl8yd*_up*MQ..*_gs*MQ..&amp;gclid=Cj0KCQiAtvXXBhC2ARIsAJc8SUT_aKqck2yVoC8vNqJ6FDghCWHDwCXcKD3yGJ9fmgqTGSh0z0LaYAcaAvlMEALw_wcB&amp;gbraid=0AAAAAoaU5jLrFra9lcVEXtmHPvgYu0nsj\">UNFPA</a>) published on Thursday.</p> <p>Younger women and girls aged 15 to 19 had even less power to say no, compared with older women aged 45 to 49, according to analysis in the report of eight countries with comparable data (Angola, the Democratic Republic of the Congo, Kazakhstan, Malawi, Mali, Nigeria, Tajikistan and Zambia). The findings align with research showing <a href=\"https://www.who.int/news/item/29-07-2024-adolescent-girls-face-alarming-rates-of-intimate-partner-violence\">adolescent girls endure very high rates</a> of intimate partner violence.</p> <p>'These are really sad figures,' said Jean-Paul Murunga, a lawyer with the global human rights organisation Equality Now. 'Especially given that the continent of Africa as a whole has adopted the Maputo protocol, which sets [binding legal standards for] equality between women and men. We still have a lot of work to do to ensure women and girls benefit from these commitments.'</p> <p>The <a href=\"https://au.int/en/treaties/protocol-african-charter-human-and-peoples-rights-rights-women-africa\">Maputo protocol, a landmark treaty</a> adopted by the African Union in 2003, guarantees women's rights and obliges states to protect women from violence. It affirms that marriage must be based on full consent and guarantees women's right to health.</p> <p>'The underlying principle is unambiguous: sexual intercourse without free and voluntary consent constitutes sexual violence, including within marriage,' said Murunga. 'Marriage does not create perpetual or implied consent. A woman retains the right to decide whether, when and how she engages in sexual activity'.</p> <p>He said that as a first step rape laws across the continent needed to change. According to Murunga's 2024 report, <a href=\"https://equalitynow.org/resource/reports/barriers-to-justice-rape-in-africa-law-practice-and-access-to-justice/\">rape within marriage is not criminalised</a> in some African countries. Seven countries expressly exempt husbands from prosecution for marital rape, including Côte d'Ivoire, Ethiopia and South Sudan. Some countries, such as Tanzania and Eritrea, only criminalise marital rape when the couple do not live together.</p> <p>In countries where child marriage is permitted and marital rape is not criminalised, children are left unprotected. A legal loophole is created for what, outside marriage, would be classed as rape, and young wives have few options when it comes to protecting themselves from sexual violence and exploitation. In Gabon, for example, when <a href=\"https://equalitynow.org/news/communique-de-presse/gaps-in-rape-laws-in-africa-are-enabling-perpetrators-to-avoid-punishment/\">a man has married a child he abducted</a>, he can only be prosecuted after the marriage is annulled.</p> <p>Underpinning these laws is the mistaken belief that marital rape does not exist as a concept because, by marrying, wives are assumed to have permanently consented to sex with their husbands. In many areas, religion plays a key role in affirming these beliefs.</p> <p>Alimatu Dimonekene, founder of <a href=\"https://www.agirlatatime.org/\">A Girl At A Time</a>, an organisation supporting adolescent girls in Sierra Leone, said a conversation around consent in marriage had yet to begin in Africa. 'We've not even started the conversation [around marital rape],' she said. 'Women will never call it rape; they make excuses for it or even blame themselves.'</p> <p>She added: 'In west Africa, sex is seen as an obligation in marriage. You must do whatever your husband demands.</p> <p>'Once he has paid your bride price [a traditional marriage custom in which the bride's family are paid money, livestock or goods by the groom], he owns you and you cannot reject his demands. Whatever he wants, he gets, including in terms of intimacy, finances and raising the children.'</p>",
+        "captions": [],
+        "standfirst": "Equality Now lawyer Jean-Paul Murunga says Africa's Maputo protocol offers a route to change, as a UN report finds almost half of women in west and central Africa cannot refuse sex within marriage.",
+        "progress": "Equality Now's Jean-Paul Murunga is calling for rape laws to be reformed across Africa, building on the African Union's Maputo protocol, which guarantees consent.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "a:/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+      "kind": "article",
+      "output": {
+        "headline": "Anthropic prices IPO above range, in sight of SpaceX's stock market record",
+        "bodyHtml": "<p>Anthropic set the share price for its debut on the US stock market <a href=\"https://www.anthropic.com/news/anthropic-prices-initial-public-offering\">at $83</a> on Wednesday,<strong> </strong>positioning the artificial intelligence company for one of the biggest initial public offerings in history. The firm is slated to begin trading on Thursday under the ticker symbol ANT, with CEO Dario Amodei and other co-founders ringing the bell to open the Nasdaq exchange.</p> <p>The pricing is above Anthropic's earlier estimates. Last week, the San Francisco-based company, founded in 2021, set its preliminary share price at $70 to $78. With all shares counted, those prices put Anthropic's initial public offering (IPO) from $1.26tn to $1.41tn. Elon Musk's SpaceX debuted on Wall Street in June with the biggest market offering ever at $1.77tn. With Anthropic setting its share price at $83, it could now surpass SpaceX.</p> <p>Amodei is planning to sell about $260m worth of shares with the IPO, as are his six fellow co-founders. At the top of the price range, the co-founders' stakes will be worth more than $18bn each.</p> <p>When Anthropic filed for its IPO last month, the company detailed rapidly rising revenue in its prospectus: $41m in 2023, $386m in 2024, $4.585bn in 2025 (an increase of more than 1,000%), then $16.286bn in the first six months of 2026 alone. The company disclosed that, as of the end of June, it had raised $141.1bn.</p> <p>Despite the increasing revenue, Anthropic disclosed a net loss of $80bn for the first half of 2026.</p> <p>Anthropic's main expenditure listed in its investor prospectus is computing power from datacenters. The company has compute purchase commitments and lease agreements of more than $70bn over the next 12 months and more than $450bn by 2030, with a further $450bn due by 2045.</p> <p>Anthropic is the first company at the forefront of the generative AI boom to go public, and its performance is likely to affect investors' enthusiasm. Its competitor OpenAI was slated to hit Wall Street later this year, but CEO Sam Altman has said that the company opted to delay its IPO until it can overcome safety concerns.</p> <p>Anthropic's IPO comes during a volatile time for AI and the stock market. Last month, the industry saw a broader slowdown, with share prices dropping at several companies amid growing concern about the technology. Then, last week, Nvidia, which designs the chips AI companies use to power their chatbots, was racked with a scandal that led to CEO Jensen Huang resigning after reports of multiple extramarital affairs.</p>",
+        "captions": [],
+        "standfirst": "Anthropic priced shares at $83, above its expected range and within reach of SpaceX's record stock market debut, as the AI firm reported an $80bn loss for the first half of 2026.",
+        "progress": "Anthropic is going public on Thursday, with the firm committing over $450bn to computing capacity through 2030 to sustain its rapid growth.",
+        "upside": 2,
+        "context": {
+          "text": "Anthropic has committed 5% of its shares, worth about $48bn, to a fund for 'public good' amid concerns about AI's impact on jobs.",
+          "sourceUrl": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good"
+        }
+      }
+    },
+    {
+      "id": "a:/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards",
+      "kind": "article",
+      "output": {
+        "headline": "Florence Pugh calls for kindness after suing over fake surgery images",
+        "bodyHtml": "<p>Florence Pugh has said she is 'disturbed' by a flurry of 'stressful' online speculation about her appearance after images of her at the Governors awards this week went viral.</p> <p>The 30-year-old actor wrote <a href=\"https://www.instagram.com/florencepugh/?hl=en\">a lengthy statement to her 11 million Instagram followers </a>on Wednesday in which she denied speculation that she had undergone cosmetic surgery or used weight-loss injections.</p> <p>'I find it so stressful waking up and have thousands of people talking about you and your body in ways that you can't even comprehend,' she wrote.</p> <p>'I woke up the other morning and quite a lot of you were discussing my face and body in such a disturbing way. I learnt online that I had been on Ozempic? I learnt that I'd had upper bleph[aroplasty]? Lower bleph? Filler? Face lipo[suction]? Buccal fat remover? Chin surgery? Nose surgery?!'</p> <aside class=\"element element-rich-link element--thumbnail\"> <p> <span>Related: </span><a href=\"https://www.theguardian.com/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck\">East of Eden review – Florence Pugh in soapy Steinbeck adaptation is brilliant, compelling TV</a> </p> </aside> <p>The Dune, Thunderbolts and Oppenheimer actor continued: 'Yes, I'm disturbed. For women who now think that I'm someone I'm not. For having my body dissected and pointed at again.</p> <p>'I have spent my whole career defending and protecting bodies that just grow the way they grow. I was subjected to fat shaming in the business from the moment I started and I have loved every time I get to tell someone they are being inappropriate about my weight, and I'm not changing that now just because you've all said so.'</p> <p>Pugh, who is known for speaking out about beauty standards and scrutiny of women's bodies in Hollywood, insisted she had not undergone cosmetic procedures.</p> <p>'I have never been on Ozempic, I have NEVER done any face surgery. And don't EVER say that I didn't make my own nose,' she wrote. 'I've always had that beautiful ski slope. Even as a baby!'</p> <p>Pugh said she had made a series of lifestyle changes since turning 30, including 'chang[ing] my relationship with alcohol and to be able to do at least one pull-up in the gym.'</p> <p>'It's funny to see you all use reference images from times where I was really mentally unhappy and abusing my body, and put it next to the image from the Governors awards the other night where I am happy and truly respecting my body,' she wrote.</p> <p>'For the first time in my ENTIRE career, I have had the opportunity to be rested, to sleep, to wake up and work out and to eat regularly and healthily.'</p> <p>Pugh said she had worked hard to improve her physical and mental wellbeing, adding: 'I'm looking after myself, and that's literally it.'</p> <p>Reflecting on the criticism she has faced throughout her career, she said: 'I've always been aware that seeing a confident woman be happy in her skin is triggering to a lot of people and for a long time just accepted that I will receive commentary like that.</p> <p>'But now this…? I'm asking us all to just be mindful. We are real people, living real lives.'</p> <p>Pugh also claimed she had sued several publications earlier this year, claiming they published AI-generated images appearing to show her receiving cosmetic injections that were presented as real photographs.</p> <p>'I was fucking horrified,' she wrote, claiming the articles had damaged her reputation.</p> <p>Pugh concluded by urging followers to reflect on their attitudes towards physical appearance and the pressures of changing beauty standards.</p> <p>'But please be gentle to yourselves and others when you go in on people's physical appearance,' she wrote. 'I'm not angry at you, I'm angry at the situation that's being projected onto us.</p> <p>'It feels inescapable, but part of changing the tide is on you as much as us in the public eye.'</p> <p>In 2022, Pugh <a href=\"https://www.theguardian.com/film/2022/jul/11/florence-pugh-hits-back-at-vulgar-criticism-of-her-body-on-social-media\">hit back at 'vulgar' social media users </a>who criticised her body after she posted photographs of herself wearing a sheer dress designed by Valentino's creative director Pierpaolo Piccioli to one of the brand's shows.</p> <p>'What happened to you to be so content on being so loudly upset by the size of my boobs and body?' Pugh wrote at the time.</p>",
+        "captions": [],
+        "standfirst": "The actor says she has sued publications over AI-generated images of cosmetic procedures, and is calling for kindness, after a wave of 'stressful' online speculation followed viral photos of her at the Governors awards.",
+        "progress": "Pugh says she has sued several publications this year over AI-generated images falsely presented as real photographs of cosmetic procedures.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
+      "kind": "preview",
+      "output": {
+        "headline": "Letby case puts legal safeguards against miscarriages of justice to the test",
+        "trail": "Rules to guard against miscarriages of justice are in focus after the Guardian found Prof Peter Hindmarsh, whose evidence helped convict Lucy Letby, was barred from treating patients during trial; the jury was never told.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+      "kind": "preview",
+      "output": {
+        "headline": "UK and EU near reset deal on food, emissions trading and youth mobility",
+        "trail": "A UK-EU summit on Friday is expected to agree reset measures on food, emissions trading and youth mobility, but diplomats say there will be no talks on Britain's longer-term ties until Burnham decides on Brexit.",
+        "progress": "UK and EU negotiators are expected to agree a reset deal on Friday, covering food, emissions trading and youth mobility.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china",
+      "kind": "preview",
+      "output": {
+        "headline": "Apec summit live: Xi, Trump and Putin hold historic first trilateral in China",
+        "trail": "Leaders of the US, China and Russia take part in their first trilateral, with developments on trade, AI and global conflicts closely watched",
+        "progress": "World leaders are using the summit to discuss trade, AI cooperation and progress on several global conflicts.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukraine strikes symbolic Kerch bridge for third time in a week",
+        "trail": "The attack is the third this week on the bridge linking annexed Crimea to Russia, part of a Ukrainian campaign using domestically developed drones and missiles; the Kremlin-appointed governor says traffic has been halted.",
+        "progress": "Ukraine's campaign to strike the bridge uses domestically developed drones and missiles.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+      "kind": "preview",
+      "output": {
+        "headline": "MAIB report sets out cause of Bayesian yacht sinking that killed seven",
+        "trail": "A UK investigation found the Bayesian had never been assessed for high winds at anchor; it sank off Sicily in August 2024, killing seven, including Mike Lynch and his teenage daughter, with 15 others rescued.",
+        "progress": "The UK's Marine Accident Investigations Branch has completed its final report into the sinking.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/18/uk-government-russell-brand-youtube-deactivated-google",
+      "kind": "preview",
+      "output": {
+        "headline": "Ministers and tech firms move to shut down Russell Brand's social media",
+        "trail": "Google has been asked to deactivate Russell Brand's YouTube account, after Meta disabled his Instagram and Facebook profiles, following his claim of innocence from prison after his conviction for rape and sexual assault.",
+        "progress": "The government, Meta and Google are acting to limit the reach of Brand's message from prison.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "kind": "preview",
+      "output": {
+        "headline": "Equality Now lawyer calls for African rape laws to be reformed",
+        "trail": "Equality Now lawyer Jean-Paul Murunga says Africa's Maputo protocol offers a route to change, as a UN report finds almost half of women in west and central Africa cannot refuse sex within marriage.",
+        "progress": "Equality Now's Jean-Paul Murunga is calling for rape laws to be reformed across Africa, building on the African Union's Maputo protocol, which guarantees consent.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic prices IPO above range, in sight of SpaceX's stock market record",
+        "trail": "Anthropic priced shares at $83, above its expected range and within reach of SpaceX's record stock market debut, as the AI firm reported an $80bn loss for the first half of 2026.",
+        "progress": "Anthropic is going public on Thursday, pricing its shares above the expected range despite reporting an $80bn loss.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/19/florence-pugh-responds-cosmetic-plastic-surgery-speculation-governors-awards",
+      "kind": "preview",
+      "output": {
+        "headline": "Florence Pugh calls for kindness after suing over fake surgery images",
+        "trail": "The actor says she has sued publications over AI-generated images of cosmetic procedures, and is calling for kindness, after a wave of 'stressful' online speculation followed viral photos of her at the Governors awards.",
+        "progress": "Pugh says she has sued publications over AI-generated images of cosmetic procedures.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/18/guarding-stars-review-netflix-leighton-meester",
+      "kind": "preview",
+      "output": {
+        "headline": "Guarding Stars review – Leighton Meester shines in fizzy Netflix holiday romance",
+        "trail": "As a female bodyguard protecting an A-list star, the Gossip Girl actor shines in a Christmas movie a cut above the competition",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
+      "kind": "preview",
+      "output": {
+        "headline": "'Most extraordinary virtual world': critics hail Grand Theft Auto VI as masterpiece",
+        "trail": "Reviewers praise the relationship between two leads in the hotly anticipated release, whose trailer attracted 90m views in 24 hours",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/18/kemi-badenoch-andy-burnham-consensus-politics-pmqs",
+      "kind": "preview",
+      "output": {
+        "headline": "PMQs clash exposes gap between Badenoch's combativeness and Burnham's hopes for consensus",
+        "trail": "A parliamentary sketch on how the Tory leader's hardwired conflict met the prime minister's demand for an end to her patronising tone",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/quechua-rapper-renata-flores-indigenous-language-incas",
+      "kind": "preview",
+      "output": {
+        "headline": "The Quechua rapper reclaiming the language of the Incas through music",
+        "trail": "Renata Flores has gained global recognition for her music in an Indigenous language whose speakers have faced social stigma",
+        "progress": "Renata Flores's music is helping revive and destigmatise the Quechua language, earning global recognition.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/nov/18/i-hope-paramedics-are-on-standby-for-the-sex-scenes-the-wet-and-wild-tv-experience-leaving-fans-dizzy-heated-rivalry",
+      "kind": "preview",
+      "output": {
+        "headline": "'I hope paramedics are on standby for the sex scenes!' The wet and wild TV experience leaving fans dizzy",
+        "trail": "From icy squirts to bed-bouncing vibrations, erotic hockey drama Heated Rivalry just got even raunchier in 'extreme sensory' 4DX cinema screenings",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+      "kind": "preview",
+      "output": {
+        "headline": "No 10 backs Burnham to make the case for closer EU ties",
+        "trail": "No 10 is confident the PM can make the case for closer EU ties against a resurrected leave campaign, while others worry about leaving the response solely in his hands",
+        "progress": "Downing Street says it is confident Burnham can make the case for closer EU ties.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/18/presidential-election-aoc-candidate",
+      "kind": "preview",
+      "output": {
+        "headline": "Fresh off recent wins, the left sets its sights on an AOC run for president",
+        "trail": "With its policy priorities more mainstream than ever, the left is directing its momentum toward 2028",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
+      "kind": "preview",
+      "output": {
+        "headline": "Thirty countries move to forge fossil fuel treaty outside UN process at Cop31",
+        "trail": "Panama's minister accused an 'oil mafia' of holding the world hostage, as key issues remain unresolved in the summit's final days",
+        "progress": "Thirty countries have signed up to negotiate a fossil fuel treaty separate from the stalled UN process.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/ng-interactive/2026/nov/18/el-bosque-mexico-displaced-sea-level-this-is-climate-breakdown",
+      "kind": "preview",
+      "output": {
+        "headline": "'The sea washed away trees, then a whole row of houses' – a Mexican village lost to climate breakdown",
+        "trail": "She noticed the trees going first. Slowly she understood that the sea was going to take the whole village. This is Guadalupe Cobos Pacheco's story",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
+      "kind": "preview",
+      "output": {
+        "headline": "Climate advisers urge UK to hold firm on EV sales rules",
+        "trail": "Analysts say a mooted move to let more petrol and diesel vehicles be sold would wreck the plan to reach net zero by 2050",
+        "progress": "The Climate Change Committee is urging ministers to keep existing EV sales rules in place to stay on track for net zero.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
+      "kind": "preview",
+      "output": {
+        "headline": "UK backs new levies on polluting sectors to pay for climate action",
+        "trail": "Britain joins other signatories to a statement urging the introduction of targeted taxes on heavy emitters",
+        "progress": "The UK and other signatories are urging new targeted taxes on heavy emitters to fund climate action.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+      "kind": "preview",
+      "output": {
+        "headline": "Grand Theft Auto VI review – a foulmouthed, chaotic world with real heart at its centre",
+        "trail": "With realism that defies belief, this vast game easily accommodates its trademark foulmouthed, OTT excess – as well as new empathy for the fugitive couple at its centre",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/18/readers-casting-robert-pattinson-bond-007",
+      "kind": "preview",
+      "output": {
+        "headline": "Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
+        "trail": "'Deliciously dark'! 'Not sexy enough'! Opinion is split on whether the star of Twilight and The Batman is the right choice to play 007. Here's what some of you thought",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/19/vincent-van-gogh-painting-sells-for-record-190million",
+      "kind": "preview",
+      "output": {
+        "headline": "Van Gogh painting sells for record $190.4m after Nazi-era ownership dispute",
+        "trail": "Chataigniers en fleurs (Chestnut Trees in Blossom), painted in 1890 in Auvers-sur-Oise, France, set a new record for the Dutch post-impressionist",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/18/jensen-huang-leather-jacket-tech-titan-share-collapse",
+      "kind": "preview",
+      "output": {
+        "headline": "Jensen Huang's carefully built image unravels under scrutiny, writes Emma Brockes",
+        "trail": "He seemed like the thinking person's tech titan. But then came the affairs, the fall in Nvidia's share price – and the sorry items in his wardrobe, says Guardian columnist Emma Brockes",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/18/instant-gratification-is-ruining-our-lives-and-for-me-it-started-with-my-cd-players-shuffle-button",
+      "kind": "preview",
+      "output": {
+        "headline": "Instant gratification has been reshaping how we live since my CD player's shuffle button, writes Adrian Chiles",
+        "trail": "Not even a compelling TV drama can stop me from staring at my phone. But this urge started 40 years ago, with what was at first presented as a useful feature",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+      "kind": "preview",
+      "output": {
+        "headline": "After 49 years, Nasa's Voyager 1 still gives us a clear view of ourselves",
+        "trail": "Since the spacecraft's 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/18/david-beckhams-perfume-poundland-and-a-mighty-mighty-stink",
+      "kind": "preview",
+      "output": {
+        "headline": "David Beckham's perfume, Poundland and the limits of brand monetisation",
+        "trail": "The Beckhams have made an art of monetising their every move. But apparently there are limits to where they're prepared to sell their wares, writes Arwa Mahdawi",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/18/huddersfield-contemporary-music-festival-glass-osborne",
+      "kind": "preview",
+      "output": {
+        "headline": "Sublime and ridiculous: the wild experiments of Huddersfield's contemporary music festival",
+        "trail": "The 49th edition of the new music festival begins this weekend. Where else can you indulge in a world of pure imagination, see the future – and chat over a curry with some of contemporary music's biggest names?",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view on the Trump, Xi and Putin meeting: a first, but not progress",
+        "trail": "Editorial: A trilateral gathering is good news for China and Russia, but bad for the US – and its traditional allies",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/commentisfree/2026/nov/18/the-guardian-view-on-two-tier-policing-tackle-the-myth-dont-pander-to-it",
+      "kind": "preview",
+      "output": {
+        "headline": "The Guardian view on 'two-tier policing': tackle the myth, don't pander to it",
+        "trail": "Editorial: Confidence in the system is being corroded by cynical campaigns and far-right propaganda – that is the challenge to be confronted",
+        "progress": "The editorial calls for confronting cynical campaigns and far-right propaganda to restore confidence in policing.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs",
+      "kind": "preview",
+      "output": {
+        "headline": "Letter: the NHS should stick to a patient-centred model, not Palantir's insurance-based system",
+        "trail": "The US firm's health data system is based on an insurance model of healthcare, not the patient-centred universal service we have in Britain, says Prof Caroline Mitchell",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/education/2026/nov/18/blaming-ofsted-inspectors-for-the-system-is-unfair",
+      "kind": "preview",
+      "output": {
+        "headline": "Letter: Ofsted inspectors deserve support, not blame, amid rising pressures",
+        "trail": "Inspectors and educators alike have been placed under even greater pressure year after year, says Helen Kenny",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/18/what-stops-us-building-the-houses-britain-needs",
+      "kind": "preview",
+      "output": {
+        "headline": "Letters: what's really stopping Britain from building the homes it needs",
+        "trail": "Emeritus professor Simon Price, Smart Growth UK's Jon Reeds and former Labour council leader Steve Siddon respond to a column by John Harris",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/18/bmi-was-never-meant-to-evaluate-an-individuals-health",
+      "kind": "preview",
+      "output": {
+        "headline": "Letter: BMI was never meant to evaluate an individual's health",
+        "trail": "Clinicians should start with the patient in front of them to identify obesity, not rely on a 200-year-old method that was aimed at entire populations, says James Capon",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/18/australia-cricket-sandpaper-scandal-comment-bancroft-cummins",
+      "kind": "preview",
+      "output": {
+        "headline": "Shame has been punishment enough in Australian cricket's sandpaper scandal, argues columnist",
+        "trail": "The time for formal measures has passed but all involved have betrayed the trust of a country whose Test team is sacred",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
+      "kind": "preview",
+      "output": {
+        "headline": "Manchester United's 1974 relegation offers lessons for a club in decline again",
+        "trail": "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Veerle Buurman's late winner sends Chelsea top of Women's Champions League group",
+        "trail": "Chelsea lacked spark in attack but Veerle Buurman's scrambled winner put them top of the league phase and earned praise from Sonia Bompastor",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/18/rugby-brain-injury-lawsuits-on-brink-of-collapse-over-medical-documents-delay",
+      "kind": "preview",
+      "output": {
+        "headline": "Rugby brain injury lawsuits continue as hundreds of players seek accountability",
+        "trail": "Two lawsuits involving hundreds of rugby players are again close to being struck out, after court orders requiring claimants to send medical documents to defendants were not met",
+        "progress": "Hundreds of former players are pursuing legal action against rugby's governing bodies over brain injuries.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights",
+      "kind": "preview",
+      "output": {
+        "headline": "Netflix and Fox battle for $2bn prize of 2030 World Cup TV rights",
+        "trail": "The battle for the tournament's US TV rights will pit the traditional broadcaster and the 'whatever-it-takes' streamer. It could be a tipping point in the industry",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/football/2026/nov/18/leicester-city-bc-game-porn-star-eva-elfie-sponsorship",
+      "kind": "preview",
+      "output": {
+        "headline": "Leicester end sponsorship deal with BC Game over Eva Elfie partnership",
+        "trail": "Leicester have ended their front-of-shirt deal with the cryptocurrency casino after it made Eva Elfie a brand ambassador, with the club citing 'differing commercial priorities'",
+        "progress": "Leicester have ended their front-of-shirt deal with BC Game, citing 'differing commercial priorities'.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sport/2026/nov/18/reid-wiseman-the-rocketman-shooting-for-the-moon-in-f1-with-mercedes",
+      "kind": "preview",
+      "output": {
+        "headline": "Reid Wiseman, the astronaut shooting for the moon in F1 with Mercedes",
+        "trail": "Nasa crew member is fast seeing the similarities between flying Artemis II into lunar orbit and the F1 team's drive for sporting brilliance",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/18/elon-musk-maga-trump",
+      "kind": "preview",
+      "output": {
+        "headline": "Elon Musk says he regrets his vast spending on Republicans, denies being 'Maga'",
+        "trail": "Musk, who aligned with Trump and was a frequent White House guest, says he feels 'pretty foolish' about his record midterm spending",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+      "kind": "preview",
+      "output": {
+        "headline": "Israeli tanks cross Gaza boundary as Eisenkot seeks government without Netanyahu",
+        "trail": "First incursion across the 'yellow line' boundary since the ceasefire deal comes as Eisenkot seeks to form a government without Netanyahu",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/18/russian-national-spying-silicon-valley",
+      "kind": "preview",
+      "output": {
+        "headline": "US charges Russian national over alleged spying on Silicon Valley tech, defence firm",
+        "trail": "Igor D'iu is alleged to have unlawfully entered the US and reportedly gathered intel about Palantir and its employees",
+        "progress": "US authorities have charged Igor D'iu, alleging he gathered intelligence on Palantir and its employees.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+      "kind": "preview",
+      "output": {
+        "headline": "Leaseholders in England and Wales to have ground rent capped in 2028",
+        "trail": "Housing minister hails 'historic moment' as he publishes bill to eventually ban almost all new leasehold properties",
+        "progress": "The housing minister has published a bill to cap ground rent and eventually ban most new leasehold properties.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+      "kind": "preview",
+      "output": {
+        "headline": "Court grants Birmingham council interim ban on lamp-post union flags",
+        "trail": "High court judge issues order against Raise the Colours over flags on council-owned street furniture",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
+      "kind": "preview",
+      "output": {
+        "headline": "Anti-migrant activist convicted of Staffordshire murder, police say",
+        "trail": "Raise the Colours activist Billy Allison, 36, killed a man in a 'completely unprovoked and unjustified' attack, say police",
+        "progress": "Billy Allison, 36, has been convicted of murder over an 'unprovoked and unjustified' attack, police say.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
+      "kind": "preview",
+      "output": {
+        "headline": "UK inquest examines cosmetic procedure death as jury hears of filler overdose",
+        "trail": "Jury told Jordan Parke injected seven times the amount of filler he was taught to use during Alice Webb's cosmetic procedure",
+        "progress": "A coroner's inquest is examining how much filler was used in Alice Webb's fatal cosmetic procedure.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+      "kind": "preview",
+      "output": {
+        "headline": "Mahmood says police trust 'must be restored' as she backs pride uniform ban",
+        "trail": "Home secretary says 'routine two-tier policing' does not exist, but public trust in impartial law enforcement must be restored",
+        "progress": "Shabana Mahmood says restoring public trust in impartial policing is a priority.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+      "kind": "preview",
+      "output": {
+        "headline": "Ex-Tory defectors barred from shaping Reform UK's immigration policy, says Yusuf",
+        "trail": "Comments by Reform's home affairs spokesperson raise questions about unity at the top of the party",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
+      "kind": "preview",
+      "output": {
+        "headline": "EU proposes €45bn loan to help secure Ukraine's finances and boost its defences",
+        "trail": "Von der Leyen says she wants to give Kyiv a 'strong hand' in talks and is confident all 27 member states will back the idea",
+        "progress": "Von der Leyen says she is confident all 27 EU member states will back the loan.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+      "kind": "preview",
+      "output": {
+        "headline": "PlayStation network problems disrupt hours before high-profile GTA VI launch",
+        "trail": "Disruption comes at a critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+      "kind": "preview",
+      "output": {
+        "headline": "UK sanctions lead Israel to pause West Bank settlement contracts",
+        "trail": "Attorney general says the E1 settlement decision should not be taken by a caretaker government led by Netanyahu",
+        "progress": "The UK's sanctions appear to have led Israel to delay contracts for the E1 settlement.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/business/nils-pratley-on-finance/2026/nov/18/more-gas-storage-is-at-risk-whats-the-government-plan-for-secure-supplies",
+      "kind": "preview",
+      "output": {
+        "headline": "Ministers face calls to set out a plan for securing Britain's gas storage",
+        "trail": "SSE's threat to close a big storage facility in Yorkshire highlights successive governments' failures to build a strategy and safeguard supplies",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+      "kind": "preview",
+      "output": {
+        "headline": "UK inflation climbs to 3.6% as petrol and diesel prices hit record high",
+        "trail": "Increase in October piles pressure on households as the Iran war pushes up oil costs and rattles the global economy",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+      "kind": "preview",
+      "output": {
+        "headline": "Democrats demand answers from Howard Lutnick about Nvidia and his family's business",
+        "trail": "Democratic lawmakers ask if the commerce secretary favoured Nvidia to enrich his adult children and Cantor Fitzgerald",
+        "progress": "Democratic lawmakers are asking whether commerce secretary Howard Lutnick favoured Nvidia to benefit his family's business.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
+      "kind": "preview",
+      "output": {
+        "headline": "How to buy shares in Anthropic's stock market debut",
+        "trail": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/18/a-tiktok-superstar-bares-all-siorna-ashby-best-shot",
+      "kind": "preview",
+      "output": {
+        "headline": "A TikTok superstar bares all: Siorna Ashby's best shot",
+        "trail": "Portraits often rely on the face and eyes to communicate. Here, I wanted to explore how much of Meg's presence and personality could come through her body and gesture",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/18/mozart-marriage-figaro-bradford-bollywood-yorkshire",
+      "kind": "preview",
+      "output": {
+        "headline": "Mozart's Marriage of Figaro gets a joyous Bradford and Bollywood reboot",
+        "trail": "Ian McMillan's south Yorkshire language version of The Marriage of Figaro sets the opera in 1970s Bradford, with Indian classical instruments joining the reworked score in this high-energy, low-budget and hugely enjoyable take",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/stage/2026/nov/18/desire-under-the-elms-review-almeida-theatre-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Kelly Gough is simply astounding as Desire Under the Elms reaches the heights of Greek tragedy",
+        "trail": "Part-Phaedra and part-Medea, Gough is mesmerising in Ebenezer Bamgboye's stylised staging of Eugene O'Neill's family drama",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/18/madden-review-nicolas-cage",
+      "kind": "preview",
+      "output": {
+        "headline": "Madden review – Nicolas Cage is a cartoonish NFL legend in David O Russell's film",
+        "trail": "Oscar-nominated director delivers a thoroughly unserious biopic, wasting Christian Bale and Sienna Miller's talents",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/18/nathan-fielder-you-can-see-everything",
+      "kind": "preview",
+      "output": {
+        "headline": "From Dumb Starbucks to dada documentary: everything you need to know about Nathan Fielder",
+        "trail": "With the UK release of You Can See Everything looming, now's an ideal time to get up to speed on the bizarre, puckish and very meta comedic oeuvre of its star",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/18/when-a-witness-recants-hbo-documentary",
+      "kind": "preview",
+      "output": {
+        "headline": "A 36-year fight for justice explored in new HBO documentary When a Witness Recants",
+        "trail": "The three subjects and producer Ta-Nehisi Coates explain how the galling case, which shattered his childhood, finally unfolded",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/18/bobby-charles-story-box-set",
+      "kind": "preview",
+      "output": {
+        "headline": "'Everything he said sounded like a song title!' The rackety, romantic life of Bobby Charles, alligator-befriending bard of the bayou",
+        "trail": "He was nearly an early rock'n'roll star but took a different path, from Fats Domino to the Band and pro-environment songwriting. As a career-spanning box set is released, those who knew him remember an American original",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/17/post-punk-life-without-buildings-reformed",
+      "kind": "preview",
+      "output": {
+        "headline": "Cult band Life Without Buildings reunite after swearing they never would",
+        "trail": "The Scottish quartet existed for just three years at the turn of the millennium. But after Frank Ocean and TikTok thrilled to Sue Tompkins' unique vocals, they're back",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta",
+      "kind": "preview",
+      "output": {
+        "headline": "Killer tunes: how Grand Theft Auto conquered the music world",
+        "trail": "Featuring hundreds of songs from the hippest real-world artists, the radio stations in Rockstar's crime sagas are as hotly anticipated as the storylines",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/music/2026/nov/16/grammy-nominations-2027-female-artists",
+      "kind": "preview",
+      "output": {
+        "headline": "Grammys 2027: Raye, Rosalía and Olivia Rodrigo lead female-heavy nominations",
+        "trail": "The race is led by a number of female artists, also including Phoebe Bridgers and Ella Langley, with Beyoncé receiving her record-breaking 100th nomination",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/18/gjak-by-dimosthenis-papamarkos-review-sensational-tales-of-wartime-greek-struggle",
+      "kind": "preview",
+      "output": {
+        "headline": "Gjak by Dimosthenis Papamarkos review – sensational tales of wartime Greek struggle",
+        "trail": "Translated into English in thrilling style, these interlinked stories of ambushes and vendettas vividly evoke the bitter conflict of the 1919-22 Greco-Turkish war",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/18/the-man-who-broke-reality-by-philip-ball-review-the-inspirational-genius-of-niels-bohr",
+      "kind": "preview",
+      "output": {
+        "headline": "The Man Who Broke Reality by Philip Ball review – the inspirational genius of Niels Bohr",
+        "trail": "Scientific discoveries are explained effortlessly in this portrait of a man whose research was driven by pure passion",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/17/belonging-by-sonia-gandhi-review-indias-elder-stateswoman-breaks-her-silence",
+      "kind": "preview",
+      "output": {
+        "headline": "Belonging by Sonia Gandhi review – India's elder stateswoman breaks her silence",
+        "trail": "The Italian who became kingmaker in the world's largest democracy charts her remarkable journey",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/18/how-nintendo-wii-sony-playstation-3-predicted-future-of-gaming",
+      "kind": "preview",
+      "output": {
+        "headline": "Twenty years on, how the Wii and PS3 predicted the future of gaming",
+        "trail": "Both launched in 2006, with contrasting visions of gaming – one focused on accessibility, the other on technical ambition – each leaving a lasting legacy",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
+      "kind": "preview",
+      "output": {
+        "headline": "Keepsake County review – eccentric stealing simulator with a social conscience",
+        "trail": "This irreverent stealth game depicts Samuel's lonely life robbing garish, midwestern abodes – it's a Shameless way to make a living",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+      "kind": "preview",
+      "output": {
+        "headline": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+        "trail": "The latest instalment of the epic crime saga is finally here. We visit Rockstar Games for a hands-on encounter with the cultural event of the decade",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+      "kind": "preview",
+      "output": {
+        "headline": "'Grand Theft Auto Flu': is the whole world really taking the day off work to play GTA VI?",
+        "trail": "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there's another story that's been left behind",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/18/cosimo-i-de-medici-review-wallace-collection-london",
+      "kind": "preview",
+      "output": {
+        "headline": "Cosimo I de'Medici review – up close and personal with a Renaissance godfather",
+        "trail": "A sword, a wine cooler, a dazzling fresco … only a museum with such a copious store of treasures could put on a display this rich without having to borrow",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/17/van-eyck-the-portraits-review-national-gallery-london-paintings",
+      "kind": "preview",
+      "output": {
+        "headline": "Van Eyck: The Portraits review – a jewel box of phenomenal, death-defeating paintings",
+        "trail": "Bringing together all the pioneering master's portraits reveals the way he clinically preserved merchants, monsters – even his wife – like flies in amber",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/17/she-set-out-to-buy-a-painting-a-day-on-the-trail-of-peggy-guggenheims-legendary-shopping-spree",
+      "kind": "preview",
+      "output": {
+        "headline": "'She set out to buy a painting a day': on the trail of Peggy Guggenheim's legendary shopping spree",
+        "trail": "The modernist collector once ran a gallery in London – but from this confusing exhibition, it's hard to tell what exactly was once in there",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/artanddesign/2026/nov/16/paris-photo-review-2026",
+      "kind": "preview",
+      "output": {
+        "headline": "Quel head trip! Failed postcards, scrapping poets and germ-ridden film rock Paris Photo – review",
+        "trail": "Grand Palais, Paris. The fair celebrated the bicentenary of photography – but the most compelling images proposed whole new ways of seeing",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2026/nov/18/james-bond-josh-oconnor-robert-pattinson-denis-villeneuve",
+      "kind": "preview",
+      "output": {
+        "headline": "Bond role was 'Josh O'Connor's to lose' but actor pulled out of the running, report suggests",
+        "trail": "The Crown star was reportedly an early favourite of director Denis Villeneuve, but 'had reservations about the baggage associated with the role from the start'",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/18/charlotte-gainsbourg-aesthetics-family-high-i-felt-ugly-extremism-abortion-jane-birkin",
+      "kind": "preview",
+      "output": {
+        "headline": "Charlotte Gainsbourg on her lawyer role fighting for reproductive rights, and mother Jane Birkin",
+        "trail": "In her new film, the actor plays a lawyer taking on the French state over reproductive rights. She talks about being criticised for her support of Israel and pushed to the limit by Lars von Trier",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/books/2026/nov/18/theodore-zeldin-obituary",
+      "kind": "preview",
+      "output": {
+        "headline": "Theodore Zeldin obituary",
+        "trail": "Revered historian, author and francophile with a novelistic approach to his subject",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/news/2026/nov/18/caribbean-artists-speaking-truth-to-the-world",
+      "kind": "preview",
+      "output": {
+        "headline": "Am I Caribbean, or am I a tourist? How art helped me find the answer",
+        "trail": "During my visit to the Fuze Caribbean art fair in the Bahamas, I marvelled at how creators captured the complex nature of Caribbeanness",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/sherry-on-top/2026/sep/08/how-to-use-sherry-in-cocktails-from-spritzes-to-sours",
+      "kind": "preview",
+      "output": {
+        "headline": "From spritzes to sours: how sherry is becoming mixology's hottest ingredient",
+        "trail": "Whether adding flavour to cocktails, from martini to a fino negroni, or enjoyed over ice, sherry is the star of the show",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sherry-on-top/2026/sep/08/why-chefs-are-pairing-food-with-sherry-wine",
+      "kind": "preview",
+      "output": {
+        "headline": "'It truly comes alive at the table': why chefs are singing the praises of sherry",
+        "trail": "Whether paired with spicy Malaysian cuisine or as a match with oysters, there's a sherry that works with every foodstuff",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sherry-on-top/2026/sep/08/why-sherry-wine-deserves-a-place-on-your-drinks-list",
+      "kind": "preview",
+      "output": {
+        "headline": "Love at first sip: why sherry will always be at the top of my drinks list",
+        "trail": "You don't have to be in Jerez to appreciate sherry – keep a bottle handy in your fridge and it will transport you there",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/sherry-on-top/2026/sep/08/the-history-of-sherry-wine-in-britain",
+      "kind": "preview",
+      "output": {
+        "headline": "A spotlight on sherry: Britain's storied history with the Spanish wine",
+        "trail": "With sherries of all styles and for all palates, it's little wonder there's a long and well-recorded relationship with these shores",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/18/best-tvs-tested-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "The best TVs in the UK for every home and screen size, tested",
+        "trail": "Not sure which TV is right for you? Whether you want an affordable mini LED or a feature-packed OLED, here's what our square-eyed expert recommends",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/18/best-christmas-baubles-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "The best Christmas baubles in the UK: 26 quirky decorations, from a velvet turnip to a Suffragette mouse",
+        "trail": "Bored of red and gold? This year's tree trimmings are felted, beaded and handmade – and they're all glitter-free",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/17/best-secret-santa-gift-ideas-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "The 45 best Secret Santa gifts in the UK for £15 or less – tried and tested for 2026",
+        "trail": "From grippy socks and posh condiments to beautiful stationery and accessories, these affordable Christmas presents are anything but naff",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/14/best-christmas-gifts-ideas-filter-uk-2026",
+      "kind": "preview",
+      "output": {
+        "headline": "369 best Christmas gifts for 2026 – tried, tested and loved by the Filter UK",
+        "trail": "We've unboxed, nibbled and played with hundreds of gifts to find the perfect present for everyone – from cheery stocking fillers to Jude Bellingham's favourite game",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2025/nov/27/expert-tips-buying-refurbished-tech-phones-laptop-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "Don't buy new tech this Black Friday: expert tips for buying refurbished phones and laptops",
+        "trail": "Tech on its last legs? Refurbished can be the cheaper, greener option. Here's how to choose well and avoid the pitfalls",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/wellness/2026/nov/18/adam-grant-platonic-bonds-relationships",
+      "kind": "preview",
+      "output": {
+        "headline": "'Opposites don't attract': Adam Grant on how to strengthen friendships and make new ones faster",
+        "trail": "The organisational psychologist and bestselling author says learning about the four types of platonic bonds can help us understand our relationships",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/18/get-vaccinated-dont-vape-and-moisturise-liberally-10-doctors-on-how-to-avoid-and-treat-winter-ailments",
+      "kind": "preview",
+      "output": {
+        "headline": "Get vaccinated, don't vape – and moisturise liberally! 10 doctors on how to avoid and treat winter ailments",
+        "trail": "The nights are drawing in, the temperature is dropping and it's easy to get run down. Here's some expert advice to help you safely through the season",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/18/instant-coffee-vegan-cake-recipe-zero-waste-cooking",
+      "kind": "preview",
+      "output": {
+        "headline": "How to turn the dregs of an instant coffee jar into a brilliant vegan cake – recipe",
+        "trail": "Instant coffee granules are a great ingredient in baking, as shown in this sponge given extra depth from roast walnuts and cardamom-infused milk",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/17/kitchen-aide-apple-pie-soggy-base-baking-advice",
+      "kind": "preview",
+      "output": {
+        "headline": "Help! Why does my apple pie always have a soggy base?",
+        "trail": "Direct the heat and minimise the moisture to save your pastry from a saturated bottom, says our panel of pie pros",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/18/prawn-masala-and-spiced-roast-cauliflower-indian-recipes-romy-gill",
+      "kind": "preview",
+      "output": {
+        "headline": "Prawn masala and spiced roast cauliflower: Romy Gill's Indian recipes for chilly nights",
+        "trail": "Spiced prawns cooked in coconut milk and a whole roast cauliflower with almonds and coriander – these dishes take me back to the food of my childhood",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/food/2026/nov/17/a-heretical-outrage-why-italians-disown-spaghetti-bolognese",
+      "kind": "preview",
+      "output": {
+        "headline": "Why spaghetti bolognese embarrasses the Italian city whose name it borrows",
+        "trail": "Spag bol carries my city's name all over the world – to the embarrassment of restaurants in Bologna",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/15/hurt-parents-didnt-give-me-40th-birthday-gift-annalisa-barbieri",
+      "kind": "preview",
+      "output": {
+        "headline": "I'm really hurt that my parents didn't give me a 40th birthday gift",
+        "trail": "You feel overlooked, but your parents' disappointing behaviour does not necessarily mean they don't love you",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/15/the-moment-i-knew-he-quoted-my-favourite-tv-show",
+      "kind": "preview",
+      "output": {
+        "headline": "The moment I knew: he quoted my favourite TV show on our first date. I blurted out, 'Marry me!'",
+        "trail": "When Anthony Ashdown met Jake, their shared love of nerd culture felt revolutionary. Then Jake recited a line from The Golden Girls",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/14/blind-date-leon-lucy",
+      "kind": "preview",
+      "output": {
+        "headline": "Blind date: 'Would we meet again? We've swapped numbers … '",
+        "trail": "Lucy, 40, a general manager, meets Leon, 45, an operations manager at a food charity",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/13/how-can-i-support-pregnant-friend-advice",
+      "kind": "preview",
+      "output": {
+        "headline": "My best friend is pregnant. I'm happy for her but not good with babies. How can I be supportive?",
+        "trail": "Children vary just like the rest of us, writes advice columnist Eleanor Gordon-Smith. You don't know you're bad with this baby yet, because you don't know them yet",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+      "kind": "preview",
+      "output": {
+        "headline": "Government under pressure to help households as energy bills set to rise 26%",
+        "trail": "Increase would add £443 to the average annual dual-fuel bill, taking it to £2,166 from January",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/18/life-insurance-explained-types-of-cover",
+      "kind": "preview",
+      "output": {
+        "headline": "Life insurance: what is it and do you need it?",
+        "trail": "It could protect you and your family in the event of death or accident – and in some cases it costs no more than a TV streaming service",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/17/no-fault-no-claim-minor-car-accident-doubled-insurance-renewal-quote",
+      "kind": "preview",
+      "output": {
+        "headline": "Driver's minor no-fault prang leads insurance quote to double",
+        "trail": "A recent £364 renewal quote suddenly increased to an extortionate £796 after the AA was told of a minor no-fault, no-claim prang",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+      "kind": "preview",
+      "output": {
+        "headline": "Regulators flag 'deeply concerning' NHS data-snooping incidents",
+        "trail": "Campaign groups and regulators say more than 3,000 incidents of staff snooping on patients' records are distressing for patients and families and erode trust in the health service",
+        "progress": "Campaign groups and regulators are raising the alarm over NHS data-privacy breaches.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+      "kind": "preview",
+      "output": {
+        "headline": "Gout is on the rise – and sufferers deserve less stigma, not more",
+        "trail": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/18/pill-mimics-viagra-can-slow-alzheimers-progression-by-third-study",
+      "kind": "preview",
+      "output": {
+        "headline": "Pill that mimics Viagra can slow Alzheimer's progression, study suggests",
+        "trail": "Experts call trial results of medication that slowed cognitive decline by almost a third 'very promising'",
+        "progress": "Experts call the trial results 'very promising' after the drug slowed cognitive decline by almost a third.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+      "kind": "preview",
+      "output": {
+        "headline": "How Jensen Huang's black leather jacket became an internet meme",
+        "trail": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief's signature look is now mocked as a tired, dated cliche",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/12/wool-pricing-natural-fibre-menswear-knitwear-women",
+      "kind": "preview",
+      "output": {
+        "headline": "'Pretty weird': how a viral video shows a striking discrepancy in men and women's knitwear",
+        "trail": "Men are routinely getting more wool for their money – are women really paying a pink tax when they buy a jumper?",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/fashion/2026/nov/11/jess-cartner-morley-on-fashion-fashions-big-idea-this-season-wear-a-skirt",
+      "kind": "preview",
+      "output": {
+        "headline": "Jess Cartner-Morley on fashion: this season's big idea? Wear a skirt. It's that simple",
+        "trail": "All you need to look on-trend this autumn is a skirt, but instead of going shopping, check what you already have in your wardrobe",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/18/uk-best-christmas-train-rides-father-christmas-santa",
+      "kind": "preview",
+      "output": {
+        "headline": "Dashing through the snow: 10 of the UK's best Christmas train rides",
+        "trail": "Heritage railways will soon be steaming into action, with special departures offering winter landscapes, seasonal goodies and a chance to meet Father Christmas",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/17/britain-most-beautiful-bus-journey-wales-beats-train",
+      "kind": "preview",
+      "output": {
+        "headline": "Is this Britain's most beautiful bus journey? The Welsh service that beats the train hands down",
+        "trail": "A new coach service between Holyhead in the north and Carmarthen in the south offers a thrilling glimpse of west Wales, and knocks half an hour off the journey",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/travel/2026/nov/16/search-perfect-tagliatelle-al-ragu-in-bologna-spag-bol",
+      "kind": "preview",
+      "output": {
+        "headline": "My search for Bologna's perfect tagliatelle al ragù – the real 'spag bol'",
+        "trail": "The signature dish of Italy's gastronomic capital is taken far more seriously than its British derivative. So which restaurant does the best 'tag rag'?",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/18/a-moment-that-changed-me-the-tomato-pasta-that-became-an-obsession-and-helped-me-lead-a-better-life",
+      "kind": "preview",
+      "output": {
+        "headline": "A moment that changed me: the tomato pasta that became an obsession – and helped me lead a better life",
+        "trail": "At a restaurant in Italy in 2022, every forkful of my meal made my eyes close and mouth water. For four years since, I have tried to recreate this dish",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/inequality/2026/nov/18/class-difference-friendships-research-lse",
+      "kind": "preview",
+      "output": {
+        "headline": "How to deal with a class difference in friendships? Make fun of your privileged friends",
+        "trail": "Lasting cross-class friendships involve routinely 'taking the piss' out of the more privileged party, research by the LSE shows",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/18/country-diary-thrilling-views-of-icelands-humpbacks-perhaps-lured-in-by-celine-dion",
+      "kind": "preview",
+      "output": {
+        "headline": "Country diary: thrilling views of Iceland's growing numbers of humpbacks",
+        "trail": "Eyjafjörður: our boat was surrounded by around 15 of them, exploding their exhalations out of the water – and numbers are increasing here",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2026/nov/17/the-pest-ill-never-forget-bedbugs-bit-me-worried-jake-gyllenhaal",
+      "kind": "preview",
+      "output": {
+        "headline": "The pest I'll never forget: the bedbugs that bit me – and worried Jake Gyllenhaal",
+        "trail": "An infestation at my hotel meant my clothes had to be fumigated. When I turned up in shorts to interview the actor, he lent me his jacket",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat",
+      "kind": "preview",
+      "output": {
+        "headline": "Research finds Reform's promised council blitz has not delivered",
+        "trail": "Party promised a Musk-inspired blitz at councils in England, but research shows it has failed to cut harder or faster than comparable local authorities",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+      "kind": "preview",
+      "output": {
+        "headline": "How Ukraine struck the Kerch bridge, a symbol of Putin's rule",
+        "trail": "With the SpaceX satellite system faltering, Ukraine's military launched a surprise, multi-pronged attack to take down the vital bridge to Crimea",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes",
+      "kind": "preview",
+      "output": {
+        "headline": "A potato trade dispute between the US and Japan is about to reach boiling point",
+        "trail": "Under pressure from Donald Trump, Japan's government could be about to lift a decades-old ban on imported American potatoes, which farmers say would threaten their livelihoods",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/18/uk-businesses-what-are-the-barriers-stopping-you-hiring-young-people",
+      "kind": "preview",
+      "output": {
+        "headline": "UK businesses: what are the barriers stopping you hiring young people?",
+        "trail": "We want to hear from people who own or run companies in Britain who are trying to hire under-25s",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/money/2026/nov/18/uk-energy-bills-are-rising-tell-us-are-you-shopping-around-for-a-better-deal",
+      "kind": "preview",
+      "output": {
+        "headline": "UK energy bills are rising. Tell us: are you shopping around for a better deal?",
+        "trail": "We'd like to hear from UK households about whether they're switching energy suppliers to save money",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2026/nov/16/brexit-share-your-thoughts-on-andy-burnhams-plan-for-a-new-eu-deal",
+      "kind": "preview",
+      "output": {
+        "headline": "Share your thoughts on Andy Burnham's plan for a new EU deal",
+        "trail": "We would like to hear your thoughts on the reopening of the Brexit debate",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/society/2026/nov/09/tell-us-did-you-move-to-the-countryside-for-retirement-and-come-to-regret-it",
+      "kind": "preview",
+      "output": {
+        "headline": "Did moving to the countryside for retirement leave you with regrets? Tell us",
+        "trail": "As England's chief medical officer warns of the challenges of growing older in rural areas, we'd like to hear from people who have struggled with isolation or accessing services and support",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/thefilter/2026/nov/12/best-beauty-christmas-gifts-sali-hughes-2026-uk",
+      "kind": "preview",
+      "output": {
+        "headline": "From cult skincare to seriously posh soap: Sali Hughes's best beauty gifts for Christmas 2026",
+        "trail": "Whether it's bargain stocking fillers or a lipstick worth splashing out on, our beauty editor reveals what she'd love to give – and receive",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/uk-news/2026/jan/20/lucy-letby-will-face-no-new-charges-says-crown-prosecution-service",
+      "kind": "preview",
+      "output": {
+        "headline": "Lucy Letby will face no new charges, Crown Prosecution Service says",
+        "trail": "Ex-nurse is serving 15 whole-life prison terms for the murder of seven babies and attempted murder of seven others",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/article/2024/jul/09/lucy-letby-evidence-experts-question",
+      "kind": "preview",
+      "output": {
+        "headline": "Lucy Letby: medical experts raise doubts over the safety of the evidence",
+        "trail": "Exclusive: doubts raised over the safety of convictions of the nurse found guilty of murdering babies",
+        "progress": "Medical experts are raising doubts about the safety of Letby's convictions.",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2025/mar/19/lucy-letby-inquiry-chair-rejects-calls-to-pause-investigation",
+      "kind": "preview",
+      "output": {
+        "headline": "Lucy Letby inquiry chair rejects calls to pause investigation",
+        "trail": "Lawyers for the jailed nurse had argued there was 'overwhelming' evidence undermining the guilty verdicts",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/article/2024/jul/02/tv-paediatrician-who-played-central-role-in-lucy-letby-retrial-dr-ravi-jayaram",
+      "kind": "preview",
+      "output": {
+        "headline": "TV paediatrician played central role in Lucy Letby retrial",
+        "trail": "Prosecution case rested largely on the testimony of Dr Ravi Jayaram, who was said to have walked in on a murder attempt",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2023/aug/21/lucy-letby-sentence-whole-life-jail-term-for-murdering-seven-babies",
+      "kind": "preview",
+      "output": {
+        "headline": "Lucy Letby sentenced to whole-life jail term after murdering seven babies",
+        "trail": "Former nurse will never be released from prison as judge describes 'deep malevolence bordering on sadism'",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2024/sep/12/ghoulish-sideshow-lucy-letby-victims-barrister-speaks-parents-behalf",
+      "kind": "preview",
+      "output": {
+        "headline": "Lucy Letby victims' barrister speaks up for parents against a 'ghoulish sideshow'",
+        "trail": "Opening statement of Richard Baker KC at the inquiry talks of toxic notions promoted by conspiracy theorists",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2020/dec/06/with-time-close-to-running-out-brexit-talks-remain-at-impasse",
+      "kind": "preview",
+      "output": {
+        "headline": "With time close to running out, Brexit talks reach crunch stage",
+        "trail": "Sticking points between the two sides are still fisheries, fair competition and governance",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2019/sep/27/no-deal-brexit-fault-uk-government-alone-juncker-eu",
+      "kind": "preview",
+      "output": {
+        "headline": "EU says blame for Brexit impasse lies solely with the UK",
+        "trail": "Both sides still far apart as UK's Brexit secretary warns EU it is facing 'moment of truth'",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/politics/2019/apr/15/downing-street-under-pressure-to-close-down-labour-talks-on-brexit",
+      "kind": "preview",
+      "output": {
+        "headline": "No 10 explores options on Labour talks as EU elections approach",
+        "trail": "Options are being weighed ahead of the EU elections amid difficult polling for the party",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+      "kind": "preview",
+      "output": {
+        "headline": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
+        "trail": "PM says he asked the question upon entering No 10 but does not reveal who gave him a 'clear answer' that Russia meddled",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/uk-news/2018/sep/06/britain-says-brexit-will-open-door-to-tougher-russia-sanctions",
+      "kind": "preview",
+      "output": {
+        "headline": "Britain says Brexit will open door to tougher Russia sanctions",
+        "trail": "Ministers consider harder US-style regime, with City commercial interests at stake",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/politics/2020/nov/20/brexit-deal-close-to-being-finalised-eu-ambassadors-told",
+      "kind": "preview",
+      "output": {
+        "headline": "Brexit deal close to being finalised, EU ambassadors told",
+        "trail": "Most key issues largely agreed, but there is still a danger of no deal by accident, envoys hear",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "kind": "preview",
+      "output": {
+        "headline": "Apec summit as it happened: Xi welcomes Trump to China for highly anticipated meeting with Putin",
+        "trail": "Summit in Chinese tech hub Shenzhen included the highly anticipated meeting between Xi, Trump and Putin",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/xi-jinping--protectionism-donald-trump-apec-summit-putin",
+      "kind": "preview",
+      "output": {
+        "headline": "Xi Jinping rallies against protectionism as he welcomes Trump to Apec summit",
+        "trail": "Chinese president greets US counterpart with a rare hug before blockbuster trilateral meeting with Putin",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump signs Thai trade deal as protests greet his arrival in Manila – as it happened",
+        "trail": "US president says Thailand will eliminate all tariffs on American exports as he arrives in Manila where there have been protests over an AI pact",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china",
+      "kind": "preview",
+      "output": {
+        "headline": "Xi, Trump and Putin to discuss 'world peace' at trilateral, says China",
+        "trail": "Beijing stops short of confirming the specific agenda, but Trump says denuclearisation, the Iran war, trade and Ukraine will be among the topics",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/14/yalta-trump-xi-putin-china-apec",
+      "kind": "preview",
+      "output": {
+        "headline": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
+        "trail": "Russia and the US approach a potential summit seeking China's help to extricate them from wars of choice, as Putin hopes to find consensus on a new global order",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthony Albanese welcomes Trump-Xi-Putin summit, even as European leaders express reservations",
+        "trail": "'We think dialogue is a good thing,' the Australian PM says after the German chancellor urged the US to work with Europe for peace in Ukraine",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2023/mar/21/russian-cruise-missiles-destroyed-in-crimea-blast-ukraine-says",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukraine says it destroyed Russian cruise missiles in Crimea strike",
+        "trail": "Kyiv claims cruise missiles hit in the city of Dzhankoi, in an attack the Russian-installed official blames on a drone",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+      "kind": "preview",
+      "output": {
+        "headline": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+        "trail": "Zelenskyy praises an 'unprecedented attack' but the Kremlin claims the bridge will be restored and will be 'better than ever'",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+      "kind": "preview",
+      "output": {
+        "headline": "The 'ordinary' woman accused of assassinating a Russian commander in Crimea",
+        "trail": "Friends close to Margarita Reutt are shocked she could allegedly plant the bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2023/jul/17/explosions-reportedly-hit-crimeas-kerch-bridge-as-russia-cites-emergency-situation",
+      "kind": "preview",
+      "output": {
+        "headline": "Two dead after explosions on Kerch Bridge linking Crimea and Russia",
+        "trail": "Only the direct overland link was damaged as Russia says it will pull out of the UN-brokered grain deal",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2022/aug/11/russian-warplanes-destroyed-in-crimea-saky-airbase-attack-satellite-images-show",
+      "kind": "preview",
+      "output": {
+        "headline": "Russian warplanes destroyed in Crimea airbase attack, satellite images show",
+        "trail": "Multiple aircraft at Saky base in Crimea blown up, with the new evidence suggesting the possibility of a targeted attack",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2018/may/15/putin-opens-bridge-between-crimea-and-russian-mainland",
+      "kind": "preview",
+      "output": {
+        "headline": "Putin opens 12-mile bridge between Crimea and Russian mainland",
+        "trail": "Russian state media hail the 12-mile bridge across the Kerch strait as the 'construction of the century'",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/may/15/mike-lynchs-superyacht-sank-in-high-winds-says-report",
+      "kind": "preview",
+      "output": {
+        "headline": "Mike Lynch's superyacht sank in high winds, says report",
+        "trail": "Investigators said Bayesian, which sank in Italy killing seven people, was destabilised by wind",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/world/2025/apr/29/30m-salvage-operation-on-mike-lynchs-superyacht-begins",
+      "kind": "preview",
+      "output": {
+        "headline": "$30m salvage operation to recover Mike Lynch's superyacht begins",
+        "trail": "Investigators hope hoisting the craft will yield clues about last year's sinking and recover two super-encrypted hard drives",
+        "progress": "Investigators are hoisting the wreck in the hope of finding clues to the cause of the sinking.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/jun/21/salvagers-to-remove-mike-lynchs-superyacht-bayesian-from-sea-off-sicily",
+      "kind": "preview",
+      "output": {
+        "headline": "Salvagers fully raise Mike Lynch's superyacht Bayesian from sea off Sicily",
+        "trail": "Vessel to be transported to port where investigators will try to find the cause of the fatal sinking during a storm",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/jun/20/mike-lynch-bayesian-superyacht-raised-from-seabed-sicily-salvage-operation",
+      "kind": "preview",
+      "output": {
+        "headline": "Mike Lynch's superyacht Bayesian raised from seabed off Sicily",
+        "trail": "UK tech tycoon Mike Lynch and his daughter were among seven killed when the vessel sank during a storm last August",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/world/2025/may/10/operation-to-recover-mike-lynchs-superyacht-suspended-after-diver-dies",
+      "kind": "preview",
+      "output": {
+        "headline": "Operation to recover Mike Lynch's superyacht suspended after diver dies",
+        "trail": "Work to raise the Bayesian is put on hold as investigators seek to establish the cause of the 39-year-old Dutchman's death",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/world/2025/may/09/diver-dies-during-salvage-operation-to-recover-mike-lynchs-sunken-superyacht",
+      "kind": "preview",
+      "output": {
+        "headline": "Diver dies during salvage operation to recover Mike Lynch's superyacht",
+        "trail": "The Dutch man, 39, had been working underwater in Sicily during operations to raise the British tech tycoon's vessel",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+      "kind": "preview",
+      "output": {
+        "headline": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+        "trail": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand's victims coming forward: 'I hope you are pleased with yourself'",
+        "progress": "Ian Winter KC has reported his own conduct to the Bar Standards Board.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2026/nov/05/the-downfall-of-russell-brand-from-big-brother-and-hollywood-to-convicted-rapist",
+      "kind": "preview",
+      "output": {
+        "headline": "The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist",
+        "trail": "Former comedian long traded on his extreme persona, yet many will wonder how he was allowed to act in plain sight for so long",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+      "kind": "preview",
+      "output": {
+        "headline": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+        "trail": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life",
+        "progress": "Lisa Nandy says the Brand case must be used to improve protections for women in the media.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+      "kind": "preview",
+      "output": {
+        "headline": "TV insiders say industry must still confront misogyny after Brand case",
+        "trail": "Concerns remain that the media industry is still failing to confront troubling behaviour",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/media/2026/nov/04/broadcasters-content-creators-youtube-bbc-itv-channel-4",
+      "kind": "preview",
+      "output": {
+        "headline": "Broadcasters need content creators 'more than creators need them'",
+        "trail": "CEO of leading production company says unless pay or exposure are high, creators are 'not that interested' in TV",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump administration attacks UK plans to boost traditional media on social platforms",
+        "trail": "US embassy says Downing Street's plan to give the BBC, ITV and other established media more online visibility carries a risk of 'censorship'",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/global-development/2026/oct/07/tortured-somalia-woman-dared-speak-out-human-rights-prison",
+      "kind": "preview",
+      "output": {
+        "headline": "Freed Somali activist vows to keep fighting for the women she met in prison",
+        "trail": "Sadia Moalim Ali was jailed for three years for 'insulting government institutions' after speaking out; now free, she continues to campaign for the women she met behind bars",
+        "progress": "Sadia Moalim Ali, now free, says she will keep fighting for the women she met in prison.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/global-development/2024/oct/10/one-in-eight-girls-sexually-assaulted-or-raped-before-turning-18-unicef",
+      "kind": "preview",
+      "output": {
+        "headline": "Unicef's first global estimates reveal scale of sexual violence against children",
+        "trail": "The estimates find one in eight girls are sexually assaulted or raped before turning 18, revealing the 'abhorrent magnitude' of the human rights violation",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/global-development/2021/mar/09/quarter-of-women-and-girls-have-been-abused-by-a-partner-says-who",
+      "kind": "preview",
+      "output": {
+        "headline": "WHO study finds one in four women globally has experienced partner abuse",
+        "trail": "The largest such study finds domestic violence affects one in four teenage girls, with the highest rates among women in their 30s",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/global-development/2026/nov/16/femicide-crisis-mexico-judge-killed-my-mother-one-more-time",
+      "kind": "preview",
+      "output": {
+        "headline": "'These men feel protected': how Mexico's first femicide squad is turning the tide on record killings",
+        "trail": "The female-led unit in Mexico City has cut gender-based murders from a historic high in 2021. Now, there are hopes to appoint specialist teams and prosecutors nationwide",
+        "progress": "Mexico City's female-led femicide squad has cut gender-based murders, with hopes to expand the model nationwide.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/global-development/2024/sep/16/un-women-gender-snapshot-2024-equality",
+      "kind": "preview",
+      "output": {
+        "headline": "UN makes $10tn case for investing in women and gender equality",
+        "trail": "Equal internet access alone is worth $500bn over five years, says the report, which says child marriage may continue until 2092 without action",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+      "kind": "preview",
+      "output": {
+        "headline": "'I am still a child, it cannot be good to be married': how drought forces Afghan families to sell girls as brides",
+        "trail": "Photographer Elise Blanchard has spent several years in Afghanistan, documenting families pushed to the brink of starvation by climate breakdown, who feel forced to marry off daughters as young as eight to repay debts or pay for food",
+        "upside": 0
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
+        "trail": "Market debut of firm behind Claude chatbot will be one of the largest in US history, a test of the AI boom's financial viability",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/technology/2026/jun/01/anthropic-ai-ipo",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic confidentially files for initial public offering on US stock market",
+        "trail": "Financial stakes of the AI race rise as Elon Musk's SpaceX, OpenAI and Anthropic are slated to go public this year",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+      "kind": "preview",
+      "output": {
+        "headline": "SpaceX makes largest ever stock market debut, making Elon Musk world's first trillionaire",
+        "trail": "Initial public offering for the aerospace and AI company made Musk the world's first trillionaire as share prices jumped",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/technology/2026/feb/12/anthropic-funding-round",
+      "kind": "preview",
+      "output": {
+        "headline": "Anthropic raises $30bn in latest round, valuing Claude bot maker at $380bn",
+        "trail": "Maker of chatbot with coding ability says annualised revenue grew tenfold in each of the past three years, to $14bn",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
+      "kind": "preview",
+      "output": {
+        "headline": "Four takeaways from Anthropic's potentially record-breaking stock market filing",
+        "trail": "The AI company's first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+      "kind": "preview",
+      "output": {
+        "headline": "Trump announces 'morally binding' AI agreement among tech CEOs",
+        "trail": "The US president's deal rebrands 'artificial intelligence' as 'superintelligence', promising 'tremendous self-policing' without new rules",
+        "upside": 1
+      }
+    },
+    {
+      "id": "p:/music/2020/may/14/florence-pugh-simon-armitage-lockdown-poem",
+      "kind": "preview",
+      "output": {
+        "headline": "Florence Pugh and Simon Armitage record lockdown poem together",
+        "trail": "Collaboration is a recording of the poet laureate's Lockdown set to music, with proceeds donated to the domestic abuse charity Refuge",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/tv-and-radio/2026/oct/01/east-of-eden-review-florence-pugh-john-steinbeck",
+      "kind": "preview",
+      "output": {
+        "headline": "East of Eden review – Florence Pugh in soapy Steinbeck adaptation is brilliant, compelling TV",
+        "trail": "This take on the 1952 novel is lavishly shot and full of excellent performances. It lacks the heft to be a full examination of human nature, but it's a high-quality family saga",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/lifeandstyle/2020/mar/25/coronavirus-cabin-fever-the-best-celebrities-to-follow-from-robbie-williams-to-florence-pugh",
+      "kind": "preview",
+      "output": {
+        "headline": "Coronavirus cabin fever: the best celebrities to follow, from Robbie Williams to Florence Pugh",
+        "trail": "Stars – they're just like us! Here are some of the best regular feeds to follow",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2022/sep/05/dont-worry-darling-movie-olivia-wilde-harry-styles-florence-pugh-shia-labeouf-film-explained",
+      "kind": "preview",
+      "output": {
+        "headline": "What's up with Olivia Wilde, Harry Styles and Florence Pugh? The worry over Don't Worry Darling",
+        "trail": "Have the headlines, memes and receipts been dominating your tabs? As the film gets set to premiere at Venice, here's a quick summary to catch you up",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/film/2022/jul/11/florence-pugh-hits-back-at-vulgar-criticism-of-her-body-on-social-media",
+      "kind": "preview",
+      "output": {
+        "headline": "Florence Pugh hits back at 'vulgar' criticism of her body on social media",
+        "trail": "Black Widow actor rails at 'how easy it is for men to totally destroy a woman's body, publicly, proudly, for everyone to see'",
+        "progress": "Pugh publicly challenged users who criticised her body online.",
+        "upside": 2
+      }
+    },
+    {
+      "id": "p:/culture/2014/dec/28/rising-stars-2015-actor-florence-pugh",
+      "kind": "preview",
+      "output": {
+        "headline": "Rising stars of 2015: actor Florence Pugh",
+        "trail": "Guy Lodge: the ambitious star of Carol Morley's forthcoming film The Falling has been preparing for fame since the age of seven",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+      "kind": "preview",
+      "output": {
+        "headline": "Australia's gender pay gap falls below 20% for first time",
+        "trail": "Men still dominate top-paid positions but businesses' 'deliberate' decisions have narrowed the gap, workplace gender equality agency report finds",
+        "progress": "Workplaces have made deliberate decisions to narrow the pay gap, the gender equality agency found.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+      "kind": "preview",
+      "output": {
+        "headline": "Student List's election winners take their seats in Serbia's parliament",
+        "trail": "Inaugural parliamentary session comes as ousted populist Aleksandar Vučić vows to hold mass protests of his own",
+        "progress": "The Student List's winning candidates have formally taken their seats in Serbia's parliament.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/environment/2026/nov/18/abdul-goni-gazi-tigers-bangladesh-sundarbans-aoe",
+      "kind": "preview",
+      "output": {
+        "headline": "Abdul Goni Gazi's mission to help Bengal tigers and people coexist peacefully",
+        "trail": "Abdul Goni Gazi once fainted during his first encounter with a tiger; now his mission is to help them coexist with people",
+        "progress": "Abdul Goni Gazi now works to help Bengal tigers and local communities coexist peacefully.",
+        "upside": 3
+      }
+    },
+    {
+      "id": "p:/science/2026/nov/18/cambridge-word-of-the-year-human",
+      "kind": "preview",
+      "output": {
+        "headline": "'Human' wins Cambridge dictionary's word of the year",
+        "trail": "Meaning and use of the word has become more important in the age of AI chatbots, says dictionary",
+        "upside": 2
+      }
+    }
+  ]
+}
