@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T04:58:47.382Z",
+  "generatedAt": "2026-11-22T05:28:02.745Z",
   "engine": "claude-code",
   "front": [
     {
@@ -72,8 +72,8 @@
       "cards": [
         {
           "path": "/sport/2026/nov/21/england-new-zealand-nations-championship-rugby-union-match-report",
-          "linked": true,
-          "headline": "England crush All Blacks in record win over a northern hemisphere side",
+          "linked": false,
+          "headline": "Slade sparks England to record victory over faltering All Blacks",
           "original": {
             "headline": "Slade helps sparkling England power to record victory as All Blacks wilt again",
             "url": "https://www.theguardian.com/sport/2026/nov/21/england-new-zealand-nations-championship-rugby-union-match-report",
@@ -83,7 +83,6 @@
           },
           "kicker": "Sport",
           "trail": "England stormed to a 37-12 win at home against New Zealand in the Nations Championship, their biggest ever margin of victory over the All Blacks.",
-          "progress": "Attack coach Lee Blackett is credited with sharpening England's attacking fluency as the side settles into the complete team it aims to be.",
           "upside": 3,
           "image": {
             "src": "https://i.guim.co.uk/img/media/6de133f792ed540f580a35bb9dbc35a3827f66ce/421_0_2265_1812/master/2265.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -103,7 +102,7 @@
             "byline": "Nadeem Badshah"
           },
           "kicker": "UK news",
-          "trail": "Arfan Ali, 31, has been charged with attempted murder, assault and possession of an offensive weapon in a public place after a councillor was stabbed in Bradford.",
+          "trail": "Arfan Ali, 31, has been charged with attempted murder, assault and possession of an offensive weapon after a councillor was stabbed in Bradford.",
           "progress": "Police have charged a man with attempted murder, assault and possessing an offensive weapon; he appeared in court on Saturday and is due back on 21 December.",
           "upside": 2,
           "image": {
@@ -111,27 +110,6 @@
             "alt": "Ibrar Ali smiles at the camera while taking a selfie while standing on a red tiled path near a beach"
           },
           "byline": "Badeem Nadshah"
-        },
-        {
-          "path": "/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-          "linked": true,
-          "headline": "Home Office says £1bn saved as it ends use of asylum hotels",
-          "original": {
-            "headline": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby ",
-            "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-            "trail": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’",
-            "standfirst": "<p>Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’</p>",
-            "byline": "Harry Cockburn"
-          },
-          "kicker": "UK news",
-          "trail": "Residents held a symbolic vote against government plans to house asylum seekers nearby; the local MP says legitimate criticisms are being co-opted by opposition parties stirring up racial discord.",
-          "progress": "The Home Office says it has saved more than £1bn by closing asylum hotels and is building secure, self-contained sites with CCTV instead.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/master/4628.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "The chief returning officer and his team count votes in Barnham's symbolic referendum, leaning over a wooden table and handling paper ballots"
-          },
-          "byline": "Carry Hockburn"
         },
         {
           "path": "/tv-and-radio/2026/nov/21/peter-fluck-caricaturist-puppeteer-co-created-spitting-image-dies-aged-85",
@@ -175,8 +153,8 @@
         },
         {
           "path": "/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
-          "linked": true,
-          "headline": "Climate coalition presses on for fossil fuel language as Cop31 reaches its climax",
+          "linked": false,
+          "headline": "Cop31 negotiators issue fresh draft text to break fossil fuel deadlock",
           "original": {
             "headline": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
             "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
@@ -186,7 +164,7 @@
           },
           "kicker": "Environment",
           "trail": "Countries failed to agree on electrification and finance for the developing world, prompting a new draft text and the prospect of a showdown with Saudi Arabia over the fossil fuel phaseout.",
-          "progress": "The EU, the UK and more than 130 countries marched on Cop31's presidency on Saturday to demand fossil fuel language be reinstated.",
+          "progress": "Negotiators have produced a new draft text aimed at resolving the impasse over the phaseout.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/b4da7d6ea28bae6380a9f013dbe3b27d6e171620/252_0_5883_4706/master/5883.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -195,9 +173,30 @@
           "byline": "Hiona Farvey,Raham Greadfearn and Gamien Dayle in Antalya and Madam Orton"
         },
         {
+          "path": "/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+          "linked": false,
+          "headline": "MP speaks out against racial discord after Suffolk village's symbolic vote",
+          "original": {
+            "headline": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby ",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+            "trail": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’",
+            "standfirst": "<p>Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’</p>",
+            "byline": "Harry Cockburn"
+          },
+          "kicker": "UK news",
+          "trail": "Residents held a symbolic vote against government plans to house asylum seekers nearby; the local MP says legitimate criticisms are being co-opted by opposition parties stirring up racial discord.",
+          "progress": "The local MP has publicly pushed back against attempts to use the vote to stir up racial discord.",
+          "upside": 1,
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/master/4628.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "The chief returning officer and his team count votes in Barnham's symbolic referendum, leaning over a wooden table and handling paper ballots"
+          },
+          "byline": "Carry Hockburn"
+        },
+        {
           "path": "/us-news/2026/nov/21/california-arrests-train-heists",
-          "linked": true,
-          "headline": "14-month investigation cracks alleged $22m California rail theft ring",
+          "linked": false,
+          "headline": "Justice department charges gang behind $22m string of train heists",
           "original": {
             "headline": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
             "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
@@ -207,7 +206,7 @@
           },
           "kicker": "US news",
           "trail": "The US justice department has brought charges against a group accused of carefully executed burglaries of at least 36 trains for shoes and tools, in a haul prosecutors call 'staggering'.",
-          "progress": "The US justice department charged 14 people this week, the culmination of a 14-month investigation into the scheme.",
+          "progress": "The US justice department has charged the group responsible for the burglaries.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5ede69a09f6e896c3d80e8c1a9e10ee694c31d87/165_0_4549_3641/master/4549.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -224,7 +223,7 @@
         {
           "path": "/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
           "linked": false,
-          "headline": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "headline": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
           "original": {
             "headline": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
             "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
@@ -232,9 +231,7 @@
             "byline": "Helena Horton"
           },
           "kicker": "Society",
-          "trail": "Cancer became undetectable in one in 12 patients in the daraxonrasib trial, while nearly all participants' tumours stopped growing.",
-          "progress": "Researchers say the daraxonrasib trial marks the biggest breakthrough in pancreatic cancer treatment in decades.",
-          "upside": 3,
+          "trail": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing",
           "image": {
             "src": "https://media.guim.co.uk/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/500.jpg"
           },
@@ -243,7 +240,7 @@
         {
           "path": "/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
           "linked": false,
-          "headline": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+          "headline": "BepiColombo becomes only the second spacecraft ever to orbit Mercury",
           "original": {
             "headline": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
             "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
@@ -251,7 +248,7 @@
             "byline": "Ian Sample Science editor"
           },
           "kicker": "Science",
-          "trail": "The BepiColombo double probe will map the planet's surface and study its interior to shed light on its unusually large core.",
+          "trail": "The double probe will map the planet's surface and study its interior to shed light on its unusually large core.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/910dcaf9ff433ebd4d751fd1b66d69ac4d3214ec/310_0_2501_2001/500.jpg"
@@ -261,7 +258,7 @@
         {
           "path": "/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
           "linked": false,
-          "headline": "UK closes cyber vulnerability in supermarket fridges and freezers before attack",
+          "headline": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
           "original": {
             "headline": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
             "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
@@ -269,9 +266,7 @@
             "byline": "Kevin Rawlinson and Aisha Down"
           },
           "kicker": "Technology",
-          "trail": "News of the vulnerability comes after retailers in at least seven European countries were hit by cyber-attacks.",
-          "progress": "A UK cybersecurity operation has closed off the vulnerability before it could be exploited.",
-          "upside": 3,
+          "trail": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks",
           "image": {
             "src": "https://media.guim.co.uk/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/500.jpg"
           },
@@ -280,7 +275,7 @@
         {
           "path": "/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
           "linked": false,
-          "headline": "US fishers call offshore wind a 'godsend' as training scheme pays off",
+          "headline": "New England fishers find a 'godsend' in offshore wind, despite Trump",
           "original": {
             "headline": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
             "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
@@ -288,8 +283,7 @@
             "byline": "Hilary Beaumont with photographs by Simon Simard"
           },
           "kicker": "Environment",
-          "trail": "Despite the president's attacks on offshore wind, Sea Services is training New England fishers in offshore wind construction and giving them a second income stream.",
-          "progress": "Sea Services is training fishers in offshore wind construction and providing them with a second income stream.",
+          "trail": "Despite the president's attacks on the industry, Sea Services is training fishers in offshore wind construction and giving them a second income stream.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/500.jpg"
@@ -313,32 +307,6 @@
             "src": "https://media.guim.co.uk/61ed24035e251e6542b667ba9186f9479f108506/240_0_4204_3363/500.jpg"
           },
           "byline": "Yonathan Jerushalmy"
-        }
-      ]
-    },
-    {
-      "id": "in-focus",
-      "title": "In focus",
-      "cards": [
-        {
-          "path": "/law/2026/nov/21/campaigning-women-against-rape-50-years-uk-criminal-justice-system",
-          "linked": false,
-          "headline": "Fifty years of campaigning helps shift how rape victims are treated",
-          "original": {
-            "headline": "‘No means no, however we dress and wherever we go’: 50 years of campaigning against rape",
-            "url": "https://www.theguardian.com/law/2026/nov/21/campaigning-women-against-rape-50-years-uk-criminal-justice-system",
-            "trail": "Grassroots group Women Against Rape says ‘things are really changing’ in how victims are treated by criminal justice system",
-            "byline": "Diane Taylor"
-          },
-          "kicker": "Law",
-          "trail": "Grassroots group Women Against Rape says things are 'really changing' in how victims are treated by the criminal justice system, after decades of campaigning under the banner 'no means no, however we dress and wherever we go'.",
-          "progress": "Women Against Rape says things are really changing in how the criminal justice system treats victims.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/783506cb77942ce33b968f89b0148c52f1b082b0/0_29_1265_1012/master/1265.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A black and white photo shows large numbers of women sitting and standing in Trafalgar Square to watch the mock trail. Some hold signs and banners, including one that has a picture of judges and reads: Wanted for crimes against women."
-          },
-          "byline": "Tiane Daylor"
         }
       ]
     },
@@ -496,7 +464,7 @@
         {
           "path": "/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
           "linked": false,
-          "headline": "Residents mobilise against 'national scandal' of mega-warehouse approvals",
+          "headline": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
           "original": {
             "headline": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
             "url": "https://www.theguardian.com/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
@@ -504,9 +472,7 @@
             "byline": "Robyn Vinter and Josh Halliday"
           },
           "kicker": "Politics",
-          "trail": "Campaigners are rallying and calling out developer 'greed' after 95% of 'megashed' planning applications were approved over the last 10 years.",
-          "progress": "Campaigners are organising to challenge planning approvals and press councils for tougher scrutiny.",
-          "upside": 1,
+          "trail": "Campaigners call out ‘greed’ of developers after 95% of ‘megashed’ planning applications approved in last 10 years",
           "image": {
             "src": "https://i.guim.co.uk/img/media/6fa077907c055d72c443a0e2d40344895c64e019/681_0_6830_5464/master/6830.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Jon Davis, wearing a blue jacket and denim jeans, stands in a green field in front of a row of houses, looking into the distance"
@@ -604,7 +570,7 @@
         {
           "path": "/sport/2026/nov/21/wales-australia-nations-championship-rugby-union-match-report",
           "linked": false,
-          "headline": "Wales's second-half fightback falls just short against Australia",
+          "headline": "Wales produce stirring second-half fightback to push Australia all the way",
           "original": {
             "headline": "Wales fightback not enough as Australia edge thriller thanks to Gordon",
             "url": "https://www.theguardian.com/sport/2026/nov/21/wales-australia-nations-championship-rugby-union-match-report",
@@ -623,7 +589,7 @@
         {
           "path": "/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
           "linked": false,
-          "headline": "Manchester United's next manager faces test of patience amid high turnover",
+          "headline": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover",
           "original": {
             "headline": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover",
             "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
@@ -631,8 +597,7 @@
             "byline": "Jonathan Wilson"
           },
           "kicker": "Football",
-          "trail": "The latest hire will depend on fresh faces and time to bed in at Old Trafford, where the dugout churn has been hardest to budge.",
-          "upside": 1,
+          "trail": "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budge",
           "image": {
             "src": "https://i.guim.co.uk/img/media/90130f821c6f6f9d02561ca82719f5e6e79f0dfd/262_0_5492_4393/master/5492.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Mauricio Pochettino addresses his new charges before his first training session at Carrington."
@@ -642,7 +607,7 @@
         {
           "path": "/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
           "linked": false,
-          "headline": "Alonso says Chelsea must toughen up after heavy Leeds defeat",
+          "headline": "'Fragile' Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
           "original": {
             "headline": "‘Fragile’ Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso",
             "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
@@ -651,7 +616,6 @@
           },
           "kicker": "Football",
           "trail": "Xabi Alonso said Chelsea were in a 'fragile moment mentally' after Noah Okafor struck twice for Leeds in a 4-1 come-from-behind win.",
-          "progress": "Alonso says the squad must address its fragility following the defeat.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/0671343c3cf539d0fa4d9b7314a9e14107aec25a/222_0_2220_1776/master/2220.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -687,7 +651,7 @@
         {
           "path": "/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
           "linked": false,
-          "headline": "Keating's heroics hold Chelsea as London City climb to third in WSL",
+          "headline": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
           "original": {
             "headline": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
             "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
@@ -695,8 +659,7 @@
             "byline": "Suzanne Wrack"
           },
           "kicker": "Football",
-          "trail": "Khiara Keating held Chelsea to a 0-0 draw against Liverpool, while Daniëlle van de Donk and Alexia Putellas each scored twice in London City's 6-2 win over Crystal Palace.",
-          "upside": 2,
+          "trail": "Khiara Keating held Chelsea to a 0-0 draw against Liverpool while Daniëlle van de Donk and Alexia Putellas scored twice in London City’s 6-2 win over Crystal Palace",
           "image": {
             "src": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Liverpool’s Khiara Keating clears the ball"
@@ -731,7 +694,7 @@
         {
           "path": "/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
           "linked": false,
-          "headline": "Documentaries about convicted fraudsters owe us facts, not just vibes",
+          "headline": "You Can See Everything’s vibes-check approach is an insult to objective truth",
           "original": {
             "headline": "You Can See Everything’s vibes-check approach is an insult to objective truth",
             "url": "https://www.theguardian.com/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
@@ -739,8 +702,7 @@
             "byline": "Catherine Shoard"
           },
           "kicker": "Film",
-          "trail": "For three hours, Nathan Fielder opts not to quiz convicted criminal Elizabeth Holmes on the details of her deception, asking instead if she's 'for real' — a vibes-check approach the writer argues is an insult to objective truth.",
-          "upside": 1,
+          "trail": "For three hours, Nathan Fielder opts not to quiz convicted criminal Elizabeth Holmes on the details of her deception. Instead, he looks into her eyes and asks if she’s for real. Is that why his film has been so successful?",
           "image": {
             "src": "https://i.guim.co.uk/img/media/3555b6a8f4ca83952ae08962c834c0c4ab023996/70_0_1219_975/master/1219.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Elizabeth Holmes in You Can See Everything."
@@ -875,22 +837,6 @@
           }
         },
         {
-          "path": "/law/2026/nov/20/judges-juries-and-myths-in-trials",
-          "linked": false,
-          "headline": "Judges, juries and the myths that shape rape trials",
-          "original": {
-            "headline": "Judges, juries and rape myths in trials",
-            "url": "https://www.theguardian.com/law/2026/nov/20/judges-juries-and-myths-in-trials",
-            "trail": "Letters: Paul Keleher KC offers an insight into how juries are directed. Plus a letter from Prof Nicole Moreham"
-          },
-          "kicker": "Law",
-          "trail": "Letters: Paul Keleher KC offers an insight into how juries are directed, plus a letter from Prof Nicole Moreham.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/c100d23cded43a57eabe1ca4ca946f7358cbf338/315_0_3241_2592/500.jpg"
-          }
-        },
-        {
           "path": "/food/2026/nov/20/its-time-we-all-made-healthy-food-go-further",
           "linked": false,
           "headline": "It's time we all made healthy food go further",
@@ -921,6 +867,21 @@
           "image": {
             "src": "https://media.guim.co.uk/e9bfeabcc9234b185efe86adac765d542af44c3e/280_0_3285_2628/500.jpg"
           }
+        },
+        {
+          "path": "/law/2026/nov/20/judges-juries-and-myths-in-trials",
+          "linked": false,
+          "headline": "Judges, juries and rape myths in trials",
+          "original": {
+            "headline": "Judges, juries and rape myths in trials",
+            "url": "https://www.theguardian.com/law/2026/nov/20/judges-juries-and-myths-in-trials",
+            "trail": "Letters: Paul Keleher KC offers an insight into how juries are directed. Plus a letter from Prof Nicole Moreham"
+          },
+          "kicker": "Law",
+          "trail": "Letters: Paul Keleher KC offers an insight into how juries are directed. Plus a letter from Prof Nicole Moreham",
+          "image": {
+            "src": "https://media.guim.co.uk/c100d23cded43a57eabe1ca4ca946f7358cbf338/315_0_3241_2592/500.jpg"
+          }
         }
       ]
     },
@@ -950,7 +911,7 @@
         {
           "path": "/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
           "linked": false,
-          "headline": "Alleged cartel boss 'El Chapo Isidro' captured after decade on the run",
+          "headline": "Special forces capture 'El Chapo Isidro' after decade-long manhunt",
           "original": {
             "headline": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
             "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
@@ -958,8 +919,7 @@
             "byline": "Donna Ferguson"
           },
           "kicker": "World news",
-          "trail": "Fausto Isidro Meza Flores, one of the FBI's most wanted fugitives, was captured in a special forces raid after evading capture for more than ten years.",
-          "progress": "Special forces captured Meza Flores, ending a manhunt that had lasted more than a decade.",
+          "trail": "Fausto Isidro Meza Flores, one of the FBI's most wanted fugitives, evaded capture for more than a decade before his arrest in a special forces raid.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -989,7 +949,7 @@
         {
           "path": "/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
           "linked": false,
-          "headline": "Reform UK weighs pact with Restore Britain amid stalling poll performance",
+          "headline": "Farage's party weighs tie-up with Restore Britain ahead of key byelection",
           "original": {
             "headline": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
             "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
@@ -997,7 +957,7 @@
             "byline": "Ben Quinn and Rowena Mason"
           },
           "kicker": "Politics",
-          "trail": "Thursday's byelection in Castle Bromwich will be the latest test for Nigel Farage's party as a rival group eats into its support.",
+          "trail": "Reform UK is considering a pact with Restore Britain after its poll performance stalled, with Thursday's Castle Bromwich byelection seen as the next test for Nigel Farage's party.",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -1033,7 +993,7 @@
         {
           "path": "/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
           "linked": false,
-          "headline": "Letby trial doctor barred from treating patients after second case",
+          "headline": "Letby trial doctor barred from treating patients was expert witness in another case",
           "original": {
             "headline": "Letby trial doctor barred from treating patients was expert witness in another case",
             "url": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
@@ -1041,9 +1001,7 @@
             "byline": "David Conn"
           },
           "kicker": "UK news",
-          "trail": "Prof Peter Hindmarsh, who played a key role in the conviction of two Birmingham parents whose son died after a diabetes episode, has been barred from treating patients.",
-          "progress": "The regulator has barred Hindmarsh from treating patients following his role in the second case.",
-          "upside": 1,
+          "trail": "Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode",
           "image": {
             "src": "https://i.guim.co.uk/img/media/b2c26a4fcb3635b204d80bc6d91bdf7ba9a8c866/0_0_2399_1920/master/2399.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Head shots of Prof Peter Hindmarsh, Damion and Tamara Thomas"
@@ -1053,7 +1011,7 @@
         {
           "path": "/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
           "linked": false,
-          "headline": "Weather warnings issued as rain follows cold snap across the UK",
+          "headline": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
           "original": {
             "headline": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
             "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
@@ -1061,9 +1019,7 @@
             "byline": "Harry Taylor"
           },
           "kicker": "UK news",
-          "trail": "Flood alerts are in place and there is a risk of power cuts as more than 100mm of rain is predicted to fall on Dartmoor on Sunday, in south-west England.",
-          "progress": "The Met Office has issued warnings covering flood risk and the possibility of power cuts.",
-          "upside": 1,
+          "trail": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on Sunday",
           "image": {
             "src": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Dartmoor landscape with rain clouds above"
@@ -1073,7 +1029,7 @@
         {
           "path": "/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
           "linked": false,
-          "headline": "Police arrest teacher who missed sentencing over 1980s abuse convictions",
+          "headline": "Police arrest teacher who missed sentencing after indecent assault conviction",
           "original": {
             "headline": "Police arrest teacher who missed sentencing after indecent assault conviction",
             "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
@@ -1081,9 +1037,7 @@
             "byline": "Caroline Davies"
           },
           "kicker": "UK news",
-          "trail": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys' school in the 1980s and had failed to appear for sentencing.",
-          "progress": "Police have arrested Bowen after she missed her sentencing hearing.",
-          "upside": 1,
+          "trail": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s",
           "image": {
             "src": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Sally-Anne Bowen, wearing sunglasses and a purple shirt and carrying a handbag"
@@ -1117,7 +1071,7 @@
         {
           "path": "/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
           "linked": false,
-          "headline": "Many Haitians welcome El Salvador troops' push against gangs, despite unease",
+          "headline": "El Salvador troops draw welcome and worry as they take on Haiti's gangs",
           "original": {
             "headline": "Haitians excited but uneasy as El Salvador troops fight gangs",
             "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
@@ -1125,8 +1079,7 @@
             "byline": "Etienne Côté-Paluck in Port-au-Prince and Tom Phillips in Rio de Janeiro "
           },
           "kicker": "World news",
-          "trail": "Foreign combatants in Port-au-Prince have been welcomed by many after years of gang control, though some worry the offensive could worsen an already volatile situation.",
-          "progress": "El Salvador's troops have moved into Port-au-Prince to combat the gangs that have controlled the city.",
+          "trail": "Foreign combatants in Port-au-Prince are welcomed by many after years of gang control, but some worry the offensive could make a volatile situation worse.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/500.jpg"
@@ -1150,50 +1103,25 @@
             "src": "https://media.guim.co.uk/df413aa4cd50525f550788a1b149dd46b8453deb/458_0_1811_1450/500.jpg"
           },
           "byline": "Ceyland Lecco in Toronto"
-        }
-      ]
-    },
-    {
-      "id": "business-&-technology",
-      "title": "Business & technology",
-      "cards": [
-        {
-          "path": "/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-          "linked": false,
-          "headline": "Engineers race to crack robotic dexterity, AI's last big hurdle",
-          "original": {
-            "headline": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-            "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-            "trail": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that",
-            "byline": "Jenny Kleeman"
-          },
-          "kicker": "Technology",
-          "trail": "Human hands are anatomical marvels that engineers have struggled for years to replicate; some say cracking dexterity is the one thing standing between AI and taking over everyone's jobs.",
-          "progress": "Experts are racing to replicate human hand dexterity, the biggest remaining technical challenge for AI.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/500.jpg"
-          },
-          "byline": "Klenny Jeeman"
         },
         {
-          "path": "/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
+          "path": "/us-news/2026/nov/21/trump-class-warships",
           "linked": false,
-          "headline": "Experts raise safety concerns over Black Friday BBL deals",
+          "headline": "Congressional watchdog flags warship cost estimates as 'unrealistically low'",
           "original": {
-            "headline": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
-            "trail": "Experts say BBLs and other cosmetic procedures can be risky and seasonal offers at clinics in England could make people rush decisions",
-            "byline": "Sarah Marsh and Nicola Davis"
+            "headline": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+            "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+            "trail": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’",
+            "byline": "Ben Doherty in New York"
           },
-          "kicker": "Life and style",
-          "trail": "Experts say liquid Brazilian butt lifts and other cosmetic procedures can be risky, and seasonal offers at clinics in England could make people rush decisions.",
-          "progress": "Experts have raised safety concerns about discounted cosmetic procedures.",
+          "kicker": "US news",
+          "trail": "The Congressional Budget Office's scrutiny comes as the US pursuit of 'Trump-class' warships has blown the cost of the new fleet by billions, with the navy chief admitting Iran war commitments are stretching capacity.",
+          "progress": "The CBO is pressing for more realistic cost estimates on the new warship programme.",
           "upside": 1,
           "image": {
-            "src": "https://media.guim.co.uk/8fb88dfcae8de31deb1991b56aae0f0dce51d4ae/0_0_4800_3840/500.jpg"
+            "src": "https://media.guim.co.uk/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/500.jpg"
           },
-          "byline": "Marah Sarsh and Dicola Navis"
+          "byline": "Den Boherty in New York"
         }
       ]
     },
@@ -1285,7 +1213,7 @@
         {
           "path": "/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
           "linked": false,
-          "headline": "Melania: the series review",
+          "headline": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
           "original": {
             "headline": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
             "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
@@ -1293,8 +1221,7 @@
             "byline": "Stuart Heritage"
           },
           "kicker": "Television & radio",
-          "trail": "The first lady's two-part TV documentary is dismissed by our critic as barely managing to work as entertainment.",
-          "upside": 2,
+          "trail": "The first lady’s two-part TV documentary is a dead-eyed advert that barely manages to masquerade as entertainment. Calling it thin gruel would be an insult to the gruel industry",
           "image": {
             "src": "https://i.guim.co.uk/img/media/803a07b3d049c498409c19962d75833e389d5abc/222_0_2140_1712/master/2140.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Head shot of Melania Trump looking very serious"
@@ -1451,25 +1378,6 @@
       "title": "What to play",
       "cards": [
         {
-          "path": "/games/2026/nov/20/grand-theft-auto-vi-players-review",
-          "linked": false,
-          "headline": "'The greatest game ever made': readers and Guardian staff on Grand Theft Auto VI",
-          "original": {
-            "headline": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
-            "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
-            "trail": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
-            "byline": "Maya Yang Alfie Packham and Nicola Slawson"
-          },
-          "kicker": "Games",
-          "trail": "Rockstar's newest instalment of its hit franchise still has plenty of action, alongside a dose of what players call 'healthy masculinity'.",
-          "upside": 3,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A man sticks out his tongue while holding a copy of a video game"
-          },
-          "byline": "Yaya Mang Alfie Packham and Slicola Nawson"
-        },
-        {
           "path": "/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
           "linked": false,
           "headline": "Grand Theft Auto VI review – a vast game with real heart at its centre",
@@ -1525,6 +1433,24 @@
             "alt": "A one-way street sign stands before a \"Grand Theft Auto VI\" billboard near Times Square"
           },
           "byline": "Milym Gwumford"
+        },
+        {
+          "path": "/games/2026/nov/20/grand-theft-auto-vi-players-review",
+          "linked": false,
+          "headline": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
+          "original": {
+            "headline": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
+            "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
+            "trail": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
+            "byline": "Maya Yang Alfie Packham and Nicola Slawson"
+          },
+          "kicker": "Games",
+          "trail": "Rockstar’s newest installment of its hit franchise still has plenty of action, along with a dose of ‘healthy masculinity’",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A man sticks out his tongue while holding a copy of a video game"
+          },
+          "byline": "Yaya Mang Alfie Packham and Slicola Nawson"
         }
       ]
     },
@@ -1655,7 +1581,7 @@
         {
           "path": "/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
           "linked": false,
-          "headline": "Suki Waterhouse and Robert Pattinson set to become Britain's next Hollywood power couple",
+          "headline": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
           "original": {
             "headline": "Suki Waterhouse and Robert Pattinson to become Britain’s next big Hollywood power couple",
             "url": "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
@@ -1663,8 +1589,7 @@
             "byline": "Chloe Mac Donnell"
           },
           "kicker": "Film",
-          "trail": "The duo's fame is set to soar after Pattinson was announced as the next James Bond, though they plan to take a newgen approach to stardom.",
-          "upside": 2,
+          "trail": "Duo’s fame set to soar after Pattinson announced as next James Bond – but they will take newgen approach to power",
           "image": {
             "src": "https://i.guim.co.uk/img/media/2546de62982769570be91ff80428d17c8d47434c/308_0_4167_3333/master/4167.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Suki Waterhouse rests her head on Robert Pattinson's shoulder as he laughs at a dinner table"
@@ -1716,26 +1641,6 @@
           "byline": "Salexandra Ims"
         },
         {
-          "path": "/kick-on-effect/2026/oct/28/entrepreneurs-supporting-womens-and-girls-grassroots-football",
-          "linked": false,
-          "headline": "Meet the everyday entrepreneurs backing women's and girls' grassroots football",
-          "original": {
-            "headline": "Meet the everyday entrepreneurs backing women’s and girls’ grassroots football",
-            "url": "https://www.theguardian.com/kick-on-effect/2026/oct/28/entrepreneurs-supporting-womens-and-girls-grassroots-football",
-            "trail": "Three-quarters of young players are at risk of hanging up their boots because of lack of funding; here’s how small-business owners are stepping in to sponsor their local teams",
-            "byline": "Emma Sheppard"
-          },
-          "kicker": "Kick On Effect",
-          "trail": "Three-quarters of young players are at risk of hanging up their boots because of a lack of funding; small-business owners are stepping in to sponsor their local teams.",
-          "progress": "Small-business owners are stepping in to sponsor local teams at risk of losing funding.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/6cc819e3c83339565662152a3a8ef7955390256f/1049_447_2024_1619/master/2024.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "Female footballers in purple kits dribble footballs across a grass training pitch"
-          },
-          "byline": "Shemma Eppard"
-        },
-        {
           "path": "/kick-on-effect/2026/oct/28/how-to-tackle-inequality-in-grassroots-womens-football",
           "linked": false,
           "headline": "Can small-business sponsorship bridge the funding gap in grassroots women's football?",
@@ -1753,6 +1658,24 @@
             "alt": "Football coach with girls’ team"
           },
           "byline": "Bevinder Dains"
+        },
+        {
+          "path": "/kick-on-effect/2026/oct/28/entrepreneurs-supporting-womens-and-girls-grassroots-football",
+          "linked": false,
+          "headline": "Meet the everyday entrepreneurs backing women’s and girls’ grassroots football",
+          "original": {
+            "headline": "Meet the everyday entrepreneurs backing women’s and girls’ grassroots football",
+            "url": "https://www.theguardian.com/kick-on-effect/2026/oct/28/entrepreneurs-supporting-womens-and-girls-grassroots-football",
+            "trail": "Three-quarters of young players are at risk of hanging up their boots because of lack of funding; here’s how small-business owners are stepping in to sponsor their local teams",
+            "byline": "Emma Sheppard"
+          },
+          "kicker": "Kick On Effect",
+          "trail": "Three-quarters of young players are at risk of hanging up their boots because of lack of funding; here’s how small-business owners are stepping in to sponsor their local teams",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/6cc819e3c83339565662152a3a8ef7955390256f/1049_447_2024_1619/master/2024.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "Female footballers in purple kits dribble footballs across a grass training pitch"
+          },
+          "byline": "Shemma Eppard"
         }
       ]
     },
@@ -1882,7 +1805,7 @@
         {
           "path": "/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
           "linked": false,
-          "headline": "Ways to shield your savings and pension from UK inflation",
+          "headline": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
           "original": {
             "headline": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
             "url": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
@@ -1890,9 +1813,7 @@
             "byline": "Rupert Jones"
           },
           "kicker": "Money",
-          "trail": "With living costs set to rise further in 2027, described as 'like an invisible stealth tax', here's how to help your savings and pension keep up with prices.",
-          "progress": "Financial experts have set out ways to help savings and pensions keep pace with rising prices.",
-          "upside": 1,
+          "trail": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices",
           "image": {
             "src": "https://i.guim.co.uk/img/media/82cfe5e0083258e2f7e7f5933e3e43f10c57954b/458_0_4583_3667/master/4583.jpg?width=620&dpr=1&s=none&crop=4%3A5",
             "alt": "A gold balloon printed with a pound sterling symbol, part of a protest outside the Bank of England"
@@ -2049,25 +1970,6 @@
       "title": "Money & consumer",
       "cards": [
         {
-          "path": "/lifeandstyle/2026/nov/20/interiors-hacks-for-cosy-winter-home",
-          "linked": false,
-          "headline": "Banish the big light: 12 interiors hacks for a cosy winter",
-          "original": {
-            "headline": "Banish the big light: 12 interiors hacks for a cosy winter (and not a candle in sight)",
-            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/interiors-hacks-for-cosy-winter-home",
-            "trail": "From your bath to your bedroom, an experts’ guide to making your home a stylish sanctuary",
-            "byline": "Hayley Spencer"
-          },
-          "kicker": "Life and style",
-          "trail": "From your bath to your bedroom, an expert's guide to making your home a stylish sanctuary — and not a candle in sight.",
-          "upside": 2,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/b4707c434f1f89df61730e5e64d4893b69b4dadd/0_0_4532_3626/master/4532.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A shattered light bulb's broken glass pieces float above its intact base against an orange background"
-          },
-          "byline": "Spayley Hencer"
-        },
-        {
           "path": "/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
           "linked": false,
           "headline": "Eat your cup: could edible packaging help solve the world's plastic problem?",
@@ -2078,8 +1980,7 @@
             "byline": "Sarah Marsh"
           },
           "kicker": "Environment",
-          "trail": "Experts say seaweed-based packaging could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019.",
-          "progress": "Researchers say seaweed-based edible packaging could help tackle the growing plastic waste problem.",
+          "trail": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019.",
           "upside": 2,
           "image": {
             "src": "https://i.guim.co.uk/img/media/7ffdaf90e6ad4a862e07779037c758eec666db8f/145_0_1705_1364/master/1705.jpg?width=620&dpr=1&s=none&crop=5%3A4",
@@ -2088,9 +1989,27 @@
           "byline": "Marah Sarsh"
         },
         {
+          "path": "/lifeandstyle/2026/nov/20/interiors-hacks-for-cosy-winter-home",
+          "linked": false,
+          "headline": "Banish the big light: 12 interiors hacks for a cosy winter (and not a candle in sight)",
+          "original": {
+            "headline": "Banish the big light: 12 interiors hacks for a cosy winter (and not a candle in sight)",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/20/interiors-hacks-for-cosy-winter-home",
+            "trail": "From your bath to your bedroom, an experts’ guide to making your home a stylish sanctuary",
+            "byline": "Hayley Spencer"
+          },
+          "kicker": "Life and style",
+          "trail": "From your bath to your bedroom, an experts’ guide to making your home a stylish sanctuary",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/b4707c434f1f89df61730e5e64d4893b69b4dadd/0_0_4532_3626/master/4532.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A shattered light bulb's broken glass pieces float above its intact base against an orange background"
+          },
+          "byline": "Spayley Hencer"
+        },
+        {
           "path": "/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
           "linked": false,
-          "headline": "Government faces pressure to help households as energy bills forecast to rise 26%",
+          "headline": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
           "original": {
             "headline": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
             "url": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
@@ -2098,9 +2017,7 @@
             "byline": "Jillian Ambrose Energy correspondent"
           },
           "kicker": "Money",
-          "trail": "The average annual dual-fuel bill is forecast to rise by £443 to £2,166 from January, piling pressure on ministers to help households.",
-          "progress": "Ministers are facing calls to act and help households absorb the increase.",
-          "upside": 1,
+          "trail": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill",
           "image": {
             "src": "https://i.guim.co.uk/img/media/8c742265b09bd37eac854ba5917b1d03d2f9f660/0_0_6434_5147/master/6434.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Woman wearing jumper, gloves and a blanket, holding a laptop and reading a bill"
@@ -2129,6 +2046,24 @@
             "src": "https://i.guim.co.uk/img/media/6d8f96bfaa1d928f6645bea291b1fb7b0e11c026/154_0_3036_2429/master/3036.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "A phone taking a picture of a wreath of pink and white flowers"
           }
+        },
+        {
+          "path": "/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+          "linked": false,
+          "headline": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+          "original": {
+            "headline": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+            "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+            "trail": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma?",
+            "byline": "Tim Dowling"
+          },
+          "kicker": "Life and style",
+          "trail": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma?",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/016add37396a0395dc0a24bb3e5ffa7d5677e476/1027_0_5600_4480/master/5600.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A dark-haired man in a cream jacket and stripy blue and white top sitting on a tan leather seat"
+          },
+          "byline": "Dim Towling"
         }
       ]
     },
@@ -2177,7 +2112,7 @@
         {
           "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
           "linked": false,
-          "headline": "How a leather jacket turned Jensen Huang into an internet meme",
+          "headline": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
           "original": {
             "headline": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
             "url": "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
@@ -2185,8 +2120,7 @@
             "byline": "Chloe Mac Donnell"
           },
           "kicker": "Technology",
-          "trail": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief's signature look is now being mocked as a dated cliché.",
-          "upside": 2,
+          "trail": "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche",
           "image": {
             "src": "https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_401_4069_3255/master/4069.jpg?width=620&dpr=1&s=none&crop=5%3A4",
             "alt": "Jensen HuangJensen Huang, CEO of Nvidia, photographed at the Invest in Germany Summit 2026 event in Berlin on October 19, 2026 in Berlin, Germany."
@@ -2199,25 +2133,6 @@
       "id": "travel",
       "title": "Travel",
       "cards": [
-        {
-          "path": "/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
-          "linked": false,
-          "headline": "'A jewellery box of glittering lights': readers' favourite winter city breaks",
-          "original": {
-            "headline": "‘The place becomes a jewellery box of glittering lights’: readers’ favourite winter city breaks in Europe",
-            "url": "https://www.theguardian.com/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
-            "trail": "Ice-skating, illuminated medieval buildings and seasonal treats feature in your picks of atmospheric winter cities",
-            "byline": "Guardian readers"
-          },
-          "kicker": "Travel",
-          "trail": "Ice-skating, illuminated medieval buildings and seasonal treats feature in your picks of atmospheric winter cities across Europe.",
-          "upside": 3,
-          "image": {
-            "src": "https://i.guim.co.uk/img/media/73a15c8a8f58e03e4903dcefc72e9dd87889fcfe/799_0_5468_4377/master/5468.jpg?width=620&dpr=1&s=none&crop=5%3A4",
-            "alt": "A lit Christmas tree stands beside an ornate fountain and illuminated historic buildings in Antwerp's market square at night"
-          },
-          "byline": "Guardian readers"
-        },
         {
           "path": "/lifeandstyle/2026/nov/18/uk-best-christmas-train-rides-father-christmas-santa",
           "linked": false,
@@ -2255,6 +2170,24 @@
             "alt": "A view from a heather-covered cliff looking towards a sandy estuary, the sky studded with cloud."
           },
           "byline": "Rareth Goberts"
+        },
+        {
+          "path": "/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
+          "linked": false,
+          "headline": "‘The place becomes a jewellery box of glittering lights’: readers’ favourite winter city breaks in Europe",
+          "original": {
+            "headline": "‘The place becomes a jewellery box of glittering lights’: readers’ favourite winter city breaks in Europe",
+            "url": "https://www.theguardian.com/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
+            "trail": "Ice-skating, illuminated medieval buildings and seasonal treats feature in your picks of atmospheric winter cities",
+            "byline": "Guardian readers"
+          },
+          "kicker": "Travel",
+          "trail": "Ice-skating, illuminated medieval buildings and seasonal treats feature in your picks of atmospheric winter cities",
+          "image": {
+            "src": "https://i.guim.co.uk/img/media/73a15c8a8f58e03e4903dcefc72e9dd87889fcfe/799_0_5468_4377/master/5468.jpg?width=620&dpr=1&s=none&crop=5%3A4",
+            "alt": "A lit Christmas tree stands beside an ornate fountain and illuminated historic buildings in Antwerp's market square at night"
+          },
+          "byline": "Guardian readers"
         }
       ]
     },
@@ -2347,7 +2280,7 @@
         {
           "path": "/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships",
           "linked": false,
-          "headline": "Campaigners call for stronger protections as age-gap abuse survivors speak out",
+          "headline": "Calls grow to protect teenagers in law after age-gap abuse accounts",
           "original": {
             "headline": "‘I was drinking at 15, going to parties, being groomed and abused’: the grim reality of age-gap relationships ",
             "url": "https://www.theguardian.com/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships",
@@ -2355,8 +2288,7 @@
             "byline": "Zoe Williams"
           },
           "kicker": "Society",
-          "trail": "Five people who became entangled with much older adults as teenagers — among them someone who says they were 'drinking at 15, going to parties, being groomed and abused' — tell their stories as UK campaigners call for changes to the law on consent.",
-          "progress": "Campaigners in the UK are calling for changes to the law on consent to better protect teenagers.",
+          "trail": "As UK campaigners call for changes to the law on consent, five people describe becoming entangled with much older men and women — one recalling 'drinking at 15, going to parties, being groomed and abused.'",
           "upside": 1,
           "image": {
             "src": "https://i.guim.co.uk/img/media/39d3dc565926dba5a272362b951a9192873cfc39/1395_428_2837_3546/master/2837.jpg?width=620&dpr=1&s=none&crop=4%3A5",
@@ -2453,25 +2385,6 @@
       "title": "Most viewed",
       "cards": [
         {
-          "path": "/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-          "linked": false,
-          "headline": "Mathematician credits Claude AI with helping solve the Riemann hypothesis",
-          "original": {
-            "headline": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-            "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-            "trail": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis",
-            "byline": "José Olivares"
-          },
-          "kicker": "Technology",
-          "trail": "Anthropic's Levent Alpöge says it took six weeks using the AI tool to work through the 19th-century problem; two groups have now verified the claim.",
-          "progress": "Two independent groups have verified the mathematician's claim.",
-          "upside": 3,
-          "image": {
-            "src": "https://media.guim.co.uk/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/500.jpg"
-          },
-          "byline": "Osé Jolivares"
-        },
-        {
           "path": "/tv-and-radio/2026/nov/21/snl-sister-caregiving",
           "linked": false,
           "headline": "SNL sketch on caregiving strikes a chord: 'I've never felt seen like that'",
@@ -2490,33 +2403,9 @@
           "byline": "Brara Saun"
         },
         {
-          "path": "/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-          "linked": true,
-          "headline": "Home Office says £1bn saved as it ends use of asylum hotels",
-          "original": {
-            "headline": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby ",
-            "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-            "trail": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’",
-            "standfirst": "<p>Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’</p>",
-            "byline": "Harry Cockburn"
-          },
-          "kicker": "UK news",
-          "trail": "Residents held a symbolic vote against government plans to house asylum seekers nearby; the local MP says legitimate criticisms are being co-opted by opposition parties stirring up racial discord.",
-          "progress": "The Home Office says it has saved more than £1bn by closing asylum hotels and is building secure, self-contained sites with CCTV instead.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/1000.jpg",
-            "alt": "The chief returning officer and his team count votes in Barnham's symbolic referendum, leaning over a wooden table and handling paper ballots",
-            "credit": "Photograph: Martin Pope/Getty Images",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Carry Hockburn"
-        },
-        {
           "path": "/us-news/2026/nov/21/california-arrests-train-heists",
-          "linked": true,
-          "headline": "14-month investigation cracks alleged $22m California rail theft ring",
+          "linked": false,
+          "headline": "Justice department charges gang behind $22m string of train heists",
           "original": {
             "headline": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
             "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
@@ -2526,7 +2415,7 @@
           },
           "kicker": "US news",
           "trail": "The US justice department has brought charges against a group accused of carefully executed burglaries of at least 36 trains for shoes and tools, in a haul prosecutors call 'staggering'.",
-          "progress": "The US justice department charged 14 people this week, the culmination of a 14-month investigation into the scheme.",
+          "progress": "The US justice department has charged the group responsible for the burglaries.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/5ede69a09f6e896c3d80e8c1a9e10ee694c31d87/165_0_4549_3641/1000.jpg",
@@ -2538,9 +2427,50 @@
           "byline": "Frances Larkspur"
         },
         {
+          "path": "/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+          "linked": false,
+          "headline": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+          "original": {
+            "headline": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+            "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+            "trail": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis",
+            "byline": "José Olivares"
+          },
+          "kicker": "Technology",
+          "trail": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis",
+          "image": {
+            "src": "https://media.guim.co.uk/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/500.jpg"
+          },
+          "byline": "Osé Jolivares"
+        },
+        {
+          "path": "/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+          "linked": false,
+          "headline": "MP speaks out against racial discord after Suffolk village's symbolic vote",
+          "original": {
+            "headline": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby ",
+            "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+            "trail": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’",
+            "standfirst": "<p>Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’</p>",
+            "byline": "Harry Cockburn"
+          },
+          "kicker": "UK news",
+          "trail": "Residents held a symbolic vote against government plans to house asylum seekers nearby; the local MP says legitimate criticisms are being co-opted by opposition parties stirring up racial discord.",
+          "progress": "The local MP has publicly pushed back against attempts to use the vote to stir up racial discord.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/1000.jpg",
+            "alt": "The chief returning officer and his team count votes in Barnham's symbolic referendum, leaning over a wooden table and handling paper ballots",
+            "credit": "Photograph: Martin Pope/Getty Images",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Carry Hockburn"
+        },
+        {
           "path": "/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
           "linked": false,
-          "headline": "Documentaries about convicted fraudsters owe us facts, not just vibes",
+          "headline": "You Can See Everything’s vibes-check approach is an insult to objective truth",
           "original": {
             "headline": "You Can See Everything’s vibes-check approach is an insult to objective truth",
             "url": "https://www.theguardian.com/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
@@ -2548,8 +2478,7 @@
             "byline": "Catherine Shoard"
           },
           "kicker": "Film",
-          "trail": "For three hours, Nathan Fielder opts not to quiz convicted criminal Elizabeth Holmes on the details of her deception, asking instead if she's 'for real' — a vibes-check approach the writer argues is an insult to objective truth.",
-          "upside": 1,
+          "trail": "For three hours, Nathan Fielder opts not to quiz convicted criminal Elizabeth Holmes on the details of her deception. Instead, he looks into her eyes and asks if she’s for real. Is that why his film has been so successful?",
           "image": {
             "src": "https://media.guim.co.uk/3555b6a8f4ca83952ae08962c834c0c4ab023996/70_0_1219_975/500.jpg"
           },
@@ -2567,8 +2496,8 @@
         "name": "Environment"
       },
       "publishedAt": "2026-11-21T19:43:52Z",
-      "headline": "Climate coalition presses on for fossil fuel language as Cop31 reaches its climax",
-      "bodyHtml": "<p>The EU, the UK, many African countries and the world’s least developed countries, including the small island states which are among the most vulnerable to the climate crisis, <a href=\"https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates\" rel=\"noopener\">joined together on Saturday evening to march to the Cop31 presidency office and demand reinstatement of a reference to the transition away from fossil fuels</a> in the summit’s final text.</p> <p>Miatta Fahnbulleh, the UK’s energy minister, said: “We are working closely with partners to find a way through and secure an agreement that moves us forward. These are difficult negotiations, but discussions remain productive and there is a deal to be done.”</p> <p>Climate talks reached a standstill on Saturday night in Turkey, with some countries weighing whether to force a showdown with Saudi Arabia and its allies over the global need to phase out fossil fuels.</p> <p>The co-conveners of the <a href=\"https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve\" rel=\"noopener\">Cop31 UN climate summit</a>, Australia’s Chris Bowen and Turkey’s Murat Kurum, held meetings with scores of countries throughout Saturday until late evening as the fortnight-long talks overran without resolution, with countries and campaigners growing increasingly frustrated at the lack of progress.</p> <p>The key sticking points concerned the insistence by a loose coalition of about 130 countries on including a <a href=\"https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal\" rel=\"noopener\">reference to the “transition away from fossil fuels”</a> in the final outcome of the talks, as well as demands by developing countries to bolster their rights to funding from the rich world to help them adapt to the escalating impacts of the climate crisis. Saudi Arabia and some other oil-rich nations have consistently opposed an explicit statement on fossil fuel use.</p> <p>A <a href=\"https://docs.unfccc.int/documents/10000406\" rel=\"noopener\">third draft of a potential headline agreement</a>, released in the early hours on Sunday, attempted to address the impasse by saying countries recalled a deal reached in Dubai three years ago – the only summit at which countries have reached consensus on the need to move away from burning coal, oil and gas.</p> <p>Maina Talia, climate minister for the low-lying Pacific island Tuvalu, said: “This [inclusion of a reference to fossil fuels] is a red line for us. We’re talking about the root cause of all this. [Without it] we are wasting our time here.”</p> <p>Mohamed Adow, director of the Power Shift Africa thinktank, said: “We came to Antalya needing progress on public climate finance, adaptation and fossil fuels. Instead, we are fighting to stop governments retreating from promises they have already made. Rich countries have spent two weeks finding reasons not to deliver the [financial] support they promised. It feels like this meeting is unravelling.”</p> <p>There were also strong disagreements over controversial <a href=\"https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates?page=with:block-6b01c86d8f08d5509ceb6ba4\" rel=\"noopener\">“carbon capture and storage” (CCS) technology</a> and a target to <a href=\"https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea\" rel=\"noopener\">derive 35% of the world’s energy from electricity by 2035</a>. Saudi Arabia wants strong recommendations of CCS in the final outcome from the talks, known as a “cover decision”, but other countries object as this technology is seen by some as a way to perpetuate the fossil fuel industry. </p> <p>The third draft of the cover decision attempted to navigate this by removing a hard target for CCS and acknowledging that as much electrification as possible must be powered by clean energy. It was due to be debated at a formal session in the plenary hall scheduled for 9am local time.</p> <p>Campaigners laid the blame for the lack of progress on the fossil fuel industry and the countries dependent on it, and on rich countries’ failure to deliver on promises of finance for poorer countries. “This must be the last time we allow fossil fuel interests, which are profiting so handsomely from the climate crisis, to hold us to ransom,” said Nick Dearden, director of the campaign group Global Justice Now. “It is abundantly clear by now that we will not be able to combat climate change as long as those who control the global economy can make money from coal, oil and gas.”</p> <p>Harjeet Singh, global convener of the Fill the Fund campaign, said: “You can’t ask developing countries to transform their economies while they’re drowning in disasters and debt. Whatever deal emerges in Antalya, the world should know why this Cop failed. It wasn’t a lack of solutions, it was a lack of money and a lack of will from those who caused this crisis.”</p> <p>It was unclear when the talks, which were scheduled to end on Friday evening, would finish. Many delegates were rescheduling their flights home. If enough delegates leave, the “conference of the parties” (Cop) may no longer meet the quorum required under the UN Framework Convention on Climate Change.</p> <p>The <a href=\"https://www.theguardian.com/environment/2023/dec/15/fossil-fuels-how-a-huge-gamble-sealed-cop28-deal\" rel=\"noopener\">“transition away from fossil fuels” was agreed at Cop28 in Dubai in 2023</a>, but Saudi Arabia and its allies prevented further progress on putting it into action. At <a href=\"https://www.theguardian.com/environment/2025/nov/25/fossil-fuel-giants-finally-in-the-crosshairs-cop30-avoids-total-failure-with-last-ditch-deal\" rel=\"noopener\">last year’s Cop30</a> the Brazilian hosts got around this by pledging to draft a global roadmap on the phaseout of fossil fuels.</p> <p>This year the resolution appeared in a <a href=\"https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says\" rel=\"noopener\">first draft of the agreed outcome</a> from these talks, was excised from a <a href=\"https://www.theguardian.com/environment/ng-interactive/2026/nov/20/cop31-draft-climate-text-explained\" rel=\"noopener\">revised draft published on Thursday</a>, and was acknowledged obliquely in the third draft through a reference recalling the entire “United Arab Emirates consensus” reached in Dubai three years ago, after the EU, the UK, many African countries and the world’s least developed countries, including the small island states most vulnerable to the climate crisis, joined together on Saturday evening to march to the presidency office and demand reinstatement of the reference.</p> <p>This is the first Cop with a dual presidency, owing to a compromise forged last year after both Australia and Turkey bid to host. Claudio Angelo, of the Observatorio do Clima, said this was part of the problem. “It goes to show how a weak presidency, split between two countries with little tradition in climate diplomacy, can be detrimental to a process already victimised by geopolitics,” he said.</p> <p>One possible next step – which the Guardian understands to be under active consideration on Saturday night – could be to force an open meeting at which Saudi Arabia and any allies would be forced to publicly state their opposition to the stronger outcome that most other countries want.</p> <p>This would be risky, as it could mean the collapse of the talks. But Bill Hare, chief executive of the Climate Analytics thinktank and a Cop veteran, told the Guardian: “If the overwhelming number of countries here want a strong text referencing the transition away from fossil fuels and so on and Saudi Arabia is on its own, I think Saudi Arabia will probably not stand against the global consensus.”</p> <p>The Guardian also understands that China and India, though not allied with the “progressive coalition” of about 130 countries, are unlikely to stand against a deal.</p>",
+      "headline": "Cop31 negotiators issue fresh draft text to break fossil fuel deadlock",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/environment/2026/nov/08/cop31-key-players-climate-talks",
@@ -2617,7 +2546,7 @@
         {
           "path": "/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
           "linked": false,
-          "headline": "Cop31 host calls for climate progress that people can see is real",
+          "headline": "190 countries open high-stakes Cop31 talks on climate action",
           "original": {
             "headline": "Cop31 must deliver climate progress that people can see is real, host says ",
             "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
@@ -2625,7 +2554,7 @@
             "byline": "Adam Morton in Melbourne, and Fiona Harvey, Oliver Milman and Graham Readfearn in Antalya"
           },
           "kicker": "Environment",
-          "trail": "High-stakes talks involving 190 countries began on Monday as the world grapples with an El Niño supercharged by fossil fuels.",
+          "trail": "The summit's host says any progress must be real and visible, as talks begin amid an El Niño supercharged by fossil fuels.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/5864e1f794c25f06dace50bf42918bce1e0f72db/174_0_6003_4803/1000.jpg",
@@ -2639,7 +2568,7 @@
         {
           "path": "/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
           "linked": false,
-          "headline": "Cop31 president uses draft text to draw out parties and find agreement",
+          "headline": "Cop31 negotiators get early draft text to speed search for deal",
           "original": {
             "headline": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
             "url": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
@@ -2647,7 +2576,7 @@
             "byline": "Fiona Harvey, Graham Readfearn, Damien Gayle and Gabrielle Canon in Antalya"
           },
           "kicker": "Environment",
-          "trail": "Many countries were surprised to see the first version delivered with more than four days of negotiation remaining.",
+          "trail": "Many countries were surprised to see the first version delivered with more than four days of negotiating time still remaining, aimed at drawing out where parties stand.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/a2d4b420ed47005796a742b6214ae07afc58f5e1/536_0_6113_4890/1000.jpg",
@@ -2659,7 +2588,7 @@
           "byline": "Hiona Farvey, Raham Greadfearn, Gamien Dayle and Cabrielle Ganon in Antalya"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
         "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
@@ -2667,9 +2596,7 @@
         "standfirst": "<p>New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing world</p>",
         "byline": "Fiona Harvey,Graham Readfearn and Damien Gayle in Antalya and Adam Morton"
       },
-      "standfirst": "The EU, the UK, many African countries and the world’s most climate-vulnerable island states marched on Cop31’s presidency to demand fossil fuel language be restored, after talks in Turkey stalled over Saudi Arabian opposition to wording a roughly 130-country coalition had pushed for.",
-      "progress": "The EU, the UK and more than 130 countries marched on Cop31's presidency on Saturday to demand fossil fuel language be reinstated.",
-      "upside": 1,
+      "standfirst": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing world",
       "byline": "Hiona Farvey,Raham Greadfearn and Gamien Dayle in Antalya and Madam Orton",
       "mainImage": {
         "src": "https://media.guim.co.uk/e77ce2c4221d9b8e5f5d098b1cd4a32802931e6a/0_0_5594_4477/1000.jpg",
@@ -2713,31 +2640,31 @@
           "byline": "Hachel Rall"
         },
         {
-          "path": "/uk-news/2017/jan/04/bradford-mp-naz-shah-calls-calm-m62-police-shooting-protests-yassar-yaqub",
+          "path": "/uk/2010/feb/19/boy-stabbed-death-bradford",
           "linked": false,
-          "headline": "Bradford MP calls for calm after M62 police shooting sparks protests",
+          "headline": "Sister recovers in hospital after Bradford stabbing that killed her brother, 9",
           "original": {
-            "headline": "Bradford MP calls for calm after M62 police shooting sparks protests",
-            "url": "https://www.theguardian.com/uk-news/2017/jan/04/bradford-mp-naz-shah-calls-calm-m62-police-shooting-protests-yassar-yaqub",
-            "trail": "Dozens march through Yorkshire city after Yassar Yaqub shot dead by armed officers during operation on motorway slip road",
-            "byline": "Josh Halliday North of England correspondent"
+            "headline": "Brother charged with murder after boy, 9, is found stabbed",
+            "url": "https://www.theguardian.com/uk/2010/feb/19/boy-stabbed-death-bradford",
+            "trail": "Sister recovering in hospital after suffering stab wounds in incident in Bradford",
+            "byline": "Helen Carter"
           },
           "kicker": "UK news",
-          "trail": "Dozens marched through the Yorkshire city after Yassar Yaqub was shot dead by armed officers during an operation on a motorway slip road.",
-          "upside": 2,
+          "trail": "A brother has been charged with murder after a nine-year-old boy was found stabbed in Bradford.",
+          "upside": 1,
           "image": {
-            "src": "https://media.guim.co.uk/5e5d5afbc21ad6eb80d23c394336ef7eb9eb59f7/0_472_7074_4244/1000.jpg",
-            "alt": "Police forensics officers inspect the scene of the shooting on the M62 near Huddersfield.",
-            "credit": "Photograph: Oli Scarff/AFP/Getty Images",
-            "width": 1000,
-            "height": 600
+            "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/2/19/1266599709327/Bradford-boy-stabbing-001.jpg",
+            "alt": "Bradford boy stabbing",
+            "credit": "Photograph: Anna Gowthorpe/PA",
+            "width": 460,
+            "height": 276
           },
-          "byline": "Hosh Jalliday North of England correspondent"
+          "byline": "Celen Harter"
         },
         {
           "path": "/uk-news/2026/mar/06/man-whole-life-order-sentence-murder-woman-children-bradford-fire",
           "linked": false,
-          "headline": "Court hands whole-life order over murder of woman and children in Bradford fire",
+          "headline": "Justice delivered: whole-life order handed down over fatal Bradford arson",
           "original": {
             "headline": "Man given whole-life order for murder of woman and children in Bradford fire",
             "url": "https://www.theguardian.com/uk-news/2026/mar/06/man-whole-life-order-sentence-murder-woman-children-bradford-fire",
@@ -2745,7 +2672,7 @@
             "byline": "Mark Brown North of England correspondent"
           },
           "kicker": "UK news",
-          "trail": "Sharaz Ali, 40, was sentenced over an arson attack in which his ex-partner's sister and her three children died.",
+          "trail": "Sharaz Ali, 40, has been sentenced to a whole-life order for the arson attack in which his ex-partner's sister and her three children died.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/26c49d9d490b7355e432fae7036fb2bf8089a48a/0_260_1347_1076/1000.jpg",
@@ -2759,7 +2686,7 @@
         {
           "path": "/uk-news/2015/jun/14/police-launch-investigation-after-womans-body-found-in-bradford",
           "linked": false,
-          "headline": "Police launch murder investigation after woman found dead in Bradford",
+          "headline": "Police launch murder investigation after woman's body found in Bradford",
           "original": {
             "headline": "Police launch murder investigation after woman's body found in Bradford",
             "url": "https://www.theguardian.com/uk-news/2015/jun/14/police-launch-investigation-after-womans-body-found-in-bradford",
@@ -2767,7 +2694,7 @@
             "byline": "Joel Gunter"
           },
           "kicker": "UK news",
-          "trail": "West Yorkshire police are seeking a man in connection with the fatal stabbing of a woman in her 20s, whose body was found at a house in the city.",
+          "trail": "West Yorkshire police are seeking a man in connection with the fatal stabbing of a woman in her 20s, whose body was discovered at a house in the city.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/1b5fe0d8d9fcef062eec4082d55bbb56ae615f6a/470_1127_2846_1707/1000.jpg",
@@ -2779,26 +2706,26 @@
           "byline": "Goel Junter"
         },
         {
-          "path": "/uk/2010/may/28/ukcrime",
+          "path": "/uk-news/2017/jan/04/bradford-mp-naz-shah-calls-calm-m62-police-shooting-protests-yassar-yaqub",
           "linked": false,
-          "headline": "Bradford murder accused appears in court",
+          "headline": "Bradford MP calls for calm after M62 police shooting sparks protests",
           "original": {
-            "headline": "Bradford murder accused appears in court",
-            "url": "https://www.theguardian.com/uk/2010/may/28/ukcrime",
-            "trail": "PhD student Stephen Griffiths, accused of murdering three sex workers, identifies himself in court as 'Crossbow Cannibal'",
-            "byline": "Helen Carter"
+            "headline": "Bradford MP calls for calm after M62 police shooting sparks protests",
+            "url": "https://www.theguardian.com/uk-news/2017/jan/04/bradford-mp-naz-shah-calls-calm-m62-police-shooting-protests-yassar-yaqub",
+            "trail": "Dozens march through Yorkshire city after Yassar Yaqub shot dead by armed officers during operation on motorway slip road",
+            "byline": "Josh Halliday North of England correspondent"
           },
           "kicker": "UK news",
-          "trail": "PhD student Stephen Griffiths, accused of murdering three sex workers, identified himself in court as the 'Crossbow Cannibal'.",
+          "trail": "Dozens marched through the Yorkshire city after Yassar Yaqub was shot dead by armed officers during an operation on a motorway slip road.",
           "upside": 1,
           "image": {
-            "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/5/28/1275042891082/Court-artists-impression--006.jpg",
-            "alt": "Court artist's impression of Stephen Griffiths, charged with murder of three Bradford sex workers",
-            "credit": "Photograph: Elizabeth Cook/PA",
-            "width": 460,
-            "height": 276
+            "src": "https://media.guim.co.uk/5e5d5afbc21ad6eb80d23c394336ef7eb9eb59f7/0_472_7074_4244/1000.jpg",
+            "alt": "Police forensics officers inspect the scene of the shooting on the M62 near Huddersfield.",
+            "credit": "Photograph: Oli Scarff/AFP/Getty Images",
+            "width": 1000,
+            "height": 600
           },
-          "byline": "Celen Harter"
+          "byline": "Hosh Jalliday North of England correspondent"
         }
       ],
       "status": "rewritten",
@@ -2829,31 +2756,9 @@
         "name": "UK news"
       },
       "publishedAt": "2026-11-21T18:20:37Z",
-      "headline": "Home Office says £1bn saved as it ends use of asylum hotels",
-      "bodyHtml": "<p>The Home Office says it has saved more than £1bn since the election by closing asylum hotels and moving to alternative accommodation such as former military sites, as residents of a Suffolk village voted to “leave the UK” over government plans to house 930 asylum seekers at a nearby former military base.</p> <p>A Home Office spokesperson said: “We recognise the strength of feeling in local communities and are listening carefully to the concerns being raised.</p> <p>“The government is working on a fairer distribution of asylum accommodation across the country, with over £1bn saved in costs since the election.</p> <p>“This includes closing all asylum hotels and moving to alternative accommodation, including former military sites. These are designed to be self-contained, with 24/7 security and CCTV, to reduce the impact on local communities.”</p> <p>Approximately 500 people in Barnham were eligible to take part in the symbolic vote on Saturday. There were 257 votes for independence, 16 against and one spoiled ballot.</p> <p>After the vote, Helen Beck, the chair of Barnham Residents’ Association, said Barnham’s flag would be a stone-curlew on a “Suffolk blue background”.</p> <p>RAF Barnham was one of three Ministry of Defence sites named in June by the government as potential locations for new developments to house asylum seekers.</p> <p>A similar referendum <a href=\"https://www.theguardian.com/uk-news/2026/sep/16/english-village-piddington-leave-uk-protest-migrant-housing-plan\" rel=\"noopener\">was held in Piddington, Oxfordshire</a> in September, with residents also voting to leave the UK amid plans to house more than 1,000 migrants at another former military base.</p> <p>In Barnham, the plans have prompted protests outside the site. The referendum asked residents whether they supported seeking a “crown dependency status”, which is a similar system to that of Jersey, Guernsey and the Isle of Man.</p> <p>John Bauer, the parish council chair, said this would allow the village to “retain loyalty to the crown” but remove itself from Home Office jurisdiction.</p> <p>While in opposition the Labour party had attacked the Conservative policy to house asylum seekers on military bases; once in government, however, the party backtracked. The Conservatives have also reversed their position, with Kemi Badenoch telling frustrated villagers “the Conservative party is on your side”.</p> <p>“We know that the problem of the boats needs to stop and we have got a plan to stop it,” she said on Friday.</p> <p>Earlier this month, it was announced construction company Kier would design the new camp at RAF Barnham.</p> <p>Before Saturday’s vote Labour’s Dr Peter Prinsley, the local MP, said he was against the development of the site. Prinsley said the plans resembled a “concentration camp”, and warned that planning permission may be difficult to attain due to environmental concerns about rare species living in the area – in particular, stone-curlews – with previous development applications nearby having been turned down.</p> <p>“This is a symbolic referendum,” Prinsley said. “It’s not going to produce a binding result. I’m expecting that [the result] will be hugely in favour of becoming a crown dependency. There are 500 electors, so I’m expecting it to be 500 – nil.”</p> <p>He added that the government “is doing an awful lot to deal with the irregular migration problem”, and highlighted that net migration may come down to “more or less zero by the end of the year”.</p> <p>But he added that he didn’t think “the large army camps in remote locations are ever likely to be appropriate for the distribution of people seeking asylum. The fact is that people who arrive here on small boats are not illegal migrants. They are people who are seeking asylum. Our political opponents have described these people as ‘illegals, criminals, rapists’, and all sorts of things that they’re not. They’re just people who have arrived on small boats. The government is getting a grip on this problem, but it’s a complicated problem.”</p> <p>He said the proposed Barnham site had particular issues which may make it unsuitable. “It’s a remote location without any pedestrian access, it’s on a very hazardous main road. When it was used as military accommodation there were serious accidents on that road.</p> <p>“It’s also a site of special scientific interest because it is the nesting site for stone-curlews, which will make any planning application very difficult – even a government planning application – because these are worldwide protections.”</p> <p>He suggested “disused office blocks in some of the larger cities” may be more appropriate places to house asylum seekers, with more local services available.</p> <p>“It feels like a concentration camp,” Prinsley added. “It doesn’t feel like a place that has a compassionate approach to people who are fleeing persecution and are being processed for asylum.”</p> <p>He also said legitimate criticism of the plans had been co-opted by opposition parties who are aiming to “stir up racial discord”.</p>",
+      "headline": "MP speaks out against racial discord after Suffolk village's symbolic vote",
+      "bodyHtml": "",
       "related": [
-        {
-          "path": "/uk-news/2025/dec/10/sussex-group-crowborough-shield-begins-legal-challenge-over-plan-to-house-asylum-seekers-on-military-site",
-          "linked": false,
-          "headline": "Sussex group launches legal challenge over asylum housing plan",
-          "original": {
-            "headline": "Sussex group begins legal challenge over plan to house asylum seekers on military site",
-            "url": "https://www.theguardian.com/uk-news/2025/dec/10/sussex-group-crowborough-shield-begins-legal-challenge-over-plan-to-house-asylum-seekers-on-military-site",
-            "trail": "Government plans for Crowborough training camp in east Sussex will be challenged in high court",
-            "byline": "Diane Taylor"
-          },
-          "kicker": "UK news",
-          "trail": "Government plans for the Crowborough training camp in East Sussex will be challenged in the high court.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/76b130a3c5d37580ec9aad1a8833541ac138e513/720_0_7200_5760/1000.jpg",
-            "alt": "Police officers in hi vis stand beside a sign for Crowborough training camp",
-            "credit": "Photograph: Sean Smith/The Guardian",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Tiane Daylor"
-        },
         {
           "path": "/politics/2023/feb/03/home-office-shelves-plans-house-asylum-seekers-southport-pontins",
           "linked": false,
@@ -2899,9 +2804,31 @@
           "byline": "Sajeev Ryal, Babel Manfield-Nwachi and Tiane Daylor"
         },
         {
+          "path": "/uk-news/2025/dec/10/sussex-group-crowborough-shield-begins-legal-challenge-over-plan-to-house-asylum-seekers-on-military-site",
+          "linked": false,
+          "headline": "Sussex group begins legal challenge over plan to house asylum seekers on military site",
+          "original": {
+            "headline": "Sussex group begins legal challenge over plan to house asylum seekers on military site",
+            "url": "https://www.theguardian.com/uk-news/2025/dec/10/sussex-group-crowborough-shield-begins-legal-challenge-over-plan-to-house-asylum-seekers-on-military-site",
+            "trail": "Government plans for Crowborough training camp in east Sussex will be challenged in high court",
+            "byline": "Diane Taylor"
+          },
+          "kicker": "UK news",
+          "trail": "Government plans for the Crowborough training camp in east Sussex will be challenged in the high court.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/76b130a3c5d37580ec9aad1a8833541ac138e513/720_0_7200_5760/1000.jpg",
+            "alt": "Police officers in hi vis stand beside a sign for Crowborough training camp",
+            "credit": "Photograph: Sean Smith/The Guardian",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Tiane Daylor"
+        },
+        {
           "path": "/uk-news/2021/feb/24/covid-cases-among-asylum-seekers-at-napier-barracks-higher-than-thought",
           "linked": false,
-          "headline": "Home affairs chair presses minister after Napier barracks Covid cases exceed estimates",
+          "headline": "Yvette Cooper presses minister after Covid cases at Napier barracks found higher than thought",
           "original": {
             "headline": "Covid cases among asylum seekers at Napier barracks higher than thought ",
             "url": "https://www.theguardian.com/uk-news/2021/feb/24/covid-cases-among-asylum-seekers-at-napier-barracks-higher-than-thought",
@@ -2909,7 +2836,7 @@
             "byline": "Jamie Grierson Home affairs correspondent"
           },
           "kicker": "UK news",
-          "trail": "Covid cases among asylum seekers at Napier barracks were higher than first thought; committee chair Yvette Cooper said she was 'astonished' by Priti Patel's responses to questions.",
+          "trail": "The home affairs committee chair said she was 'astonished' by Priti Patel's responses to her questions over the undercount.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/6052ca0da8efae39dfdde9ee0021338be278dec7/0_344_5166_3100/1000.jpg",
@@ -2921,7 +2848,7 @@
           "byline": "Gramie Jierson Home affairs correspondent"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby ",
         "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
@@ -2929,9 +2856,7 @@
         "standfirst": "<p>Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’</p>",
         "byline": "Harry Cockburn"
       },
-      "standfirst": "Officials say this is part of a wider plan to end hotel use nationally, after Barnham, Suffolk, became the second village to hold a symbolic vote against housing asylum seekers nearby.",
-      "progress": "The Home Office says it has saved more than £1bn by closing asylum hotels and is building secure, self-contained sites with CCTV instead.",
-      "upside": 2,
+      "standfirst": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’",
       "byline": "Carry Hockburn",
       "mainImage": {
         "src": "https://media.guim.co.uk/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/1000.jpg",
@@ -3043,7 +2968,7 @@
         {
           "path": "/film/2024/feb/05/dads-army-actor-ian-lavender-dies-aged-77",
           "linked": false,
-          "headline": "Dad's Army actor Ian Lavender remembered after death aged 77",
+          "headline": "Dad's Army's Private Pike, Ian Lavender, remembered for a much-loved career",
           "original": {
             "headline": "Dad’s Army actor Ian Lavender dies aged 77",
             "url": "https://www.theguardian.com/film/2024/feb/05/dads-army-actor-ian-lavender-dies-aged-77",
@@ -3051,7 +2976,7 @@
             "byline": "Kevin Rawlinson"
           },
           "kicker": "Film",
-          "trail": "Lavender played Private Pike in the much-loved British sitcom and also appeared in EastEnders.",
+          "trail": "Ian Lavender, who played Private Pike in the much-loved British sitcom and also appeared in EastEnders, has died aged 77.",
           "upside": 2,
           "image": {
             "src": "https://media.guim.co.uk/46f675d1744dd1aceefda73ceb11b67d24ca4986/0_141_1588_953/1000.jpg",
@@ -3112,13 +3037,13 @@
         "name": "Sport"
       },
       "publishedAt": "2026-11-21T16:21:28Z",
-      "headline": "England crush All Blacks in record win over a northern hemisphere side",
-      "bodyHtml": "<p>Every year the All Blacks come to south-west London it feels like an acid test. And rarely, if ever, have England responded with such class and conviction on this famous old stretch of grass. England were relentless against opponents who, at times, could not keep pace with their clear-eyed, motivated hosts.</p>\n<p>If Kiwi fans thought <a href=\"https://www.theguardian.com/sport/2026/nov/14/wales-new-zealand-nations-championship-match-report\" rel=\"noopener\">last week’s loss to Wales</a> was painful this followed hard on its heels. The home side were 19-0 up after 36 minutes and had the game all but wrapped up within a couple of minutes of the restart when Ollie Chessum powered his way over to claim his side’s fourth try. In terms of England’s margin of victory, this was New Zealand’s heaviest loss to any northern hemisphere nation in their proud history.</p>\n\n<p>England spent almost three-quarters of the game in the New Zealand half. If anything it was England who more closely resembled the slick All Black sides of yesteryear, particularly in the first half when tries from Henry Slade, Jack van Poortvliet and Ben Earl rewarded the hosts’ purposeful approach play, set-piece accuracy<strong> </strong>and seemingly greater desire.</p>\n<p>The significant improvement in their backline fluency is certainly a tribute to, among others, their attack coach, Lee Blackett, but, best of all, England are finally emerging as the all-court team they aspire to be. Their captain, Maro Itoje, had teed this up as “a massive game” in terms of “showing the world where we believe this team can go” and that lofty objective was gloriously achieved despite the pre-game injury withdrawal of the winger Tommy Freeman.</p>\n\n<p>The bench also left an impression, as did the sight of England’s former captain Lewis Moody lining up with the current players as they faced the haka. Initially Moody, now an inspiring campaigner for motor neurone research, stood up front before the England team moved in front of him and, in some cases, even entered into the All Black half. As a symbol of intent it was also as powerful as any seen on this ground down the years.</p>\n<p>The huge emotional impact, however, had to be balanced against the loss of Freeman with a thigh problem, less than ideal with their other prolific wing, Manny Feyi-Waboso, already sidelined. Cadan Murley stepped up to start on the left wing with Will Joseph switching to the right but England’s sense of purpose was never remotely diluted. As early as the fifth minute they had their first try on the board after Fin Smith spotted some space in behind and Slade was quickest to react to his fly-half’s perfectly weighted grubber kick.</p>\n<p>Itoje and his head coach, Steve Borthwick, had both been urging their team to make a fast start and their instructions<strong> </strong>had clearly not fallen on deaf ears. New Zealand also fell foul of the Australian referee Nic Berry at the breakdown from an early stage and fumbled their lines even when they did make it into the home 22.</p>\n<p>England, by contrast, forced their way into the All Black 22 five times inside the first 25 minutes. New Zealand, though, appeared to have picked up one or two lessons from Wales’s heroic goalline stand in Cardiff and initially<strong> </strong>repeatedly kept them out, most notably when Alex Coles was held up. There was another frustrating false start when Smith kicked the ball dead from a scrum penalty that should have put New Zealand right back into coffin corner.</p>\n\n<p>Could England be in danger of blowing all their good work? Happily for their supporters the answer was to be a resounding “no”. With the All Blacks again under siege close to their own line after another lovely attack by Slade, the slight figure of Van Poortvliet swallow-dived over to score his side’s second try. Then came the defining moment of the half. Earl is an excellent athlete and he blasted through the lone tackle of Cam Roigard to storm over for his side's third try, a score that will live long in Twickenham memory.</p>\n\n<p>Ethan de Groot did grab a try back two minutes before the interval but England answered again straight after the break. England once again made yards down the middle before moving the ball wide and, not for the first time, there was Chessum to finish it off in the left corner.</p>\n\n<p>Beauden Barrett marked his 150th cap with a smart trademark try from a nice Roigard offload. Otherwise Dave Rennie, the New Zealand head coach, had very little to console him as England’s replacements maintained the pressure.</p>\n<p>Maybe England could have even eclipsed the 38 points they scored against <a href=\"https://www.theguardian.com/sport/2012/dec/01/england-new-zealand-autumn-international\" rel=\"noopener\">these same opponents in 2012</a> when Manu Tuilagi was running amok. They ultimately had to settle for a 62nd minute try scored by the quietly impressive Seb Atkinson, another player whose stock is now rising rapidly. Finals weekend, for the moment, can wait.</p>",
+      "headline": "Slade sparks England to record victory over faltering All Blacks",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/sport/2026/nov/21/englands-thrashing-of-new-zealand-ominous-for-rivals",
           "linked": false,
-          "headline": "England's strength in depth finally comes together in landmark win over All Blacks",
+          "headline": "Borthwick's England finally click as depth delivers record win over All Blacks",
           "original": {
             "headline": "England’s strength in depth finally comes together in landmark victory over All Blacks",
             "url": "https://www.theguardian.com/sport/2026/nov/21/englands-thrashing-of-new-zealand-ominous-for-rivals",
@@ -3126,7 +3051,7 @@
             "byline": "Andy Bull at Allianz Stadium"
           },
           "kicker": "Sport",
-          "trail": "The record-breaking victory against New Zealand suggested Steve Borthwick's side are realising their enormous potential at last.",
+          "trail": "A record-breaking win over New Zealand suggests Steve Borthwick's side are realising their enormous potential at last.",
           "upside": 3,
           "image": {
             "src": "https://media.guim.co.uk/7d8c8c71cd99f149ff17da103d308c856723dc99/902_0_4512_3610/1000.jpg",
@@ -3136,28 +3061,6 @@
             "height": 800
           },
           "byline": "Bandy Ull at Allianz Stadium"
-        },
-        {
-          "path": "/sport/2026/nov/16/will-joseph-steve-borthwick-england-new-zealand-nations-championship-rugby-union",
-          "linked": false,
-          "headline": "Will Joseph set for England recall after five-try heroics against Japan",
-          "original": {
-            "headline": "Will Joseph poised to start for England against All Blacks after five-try burst ",
-            "url": "https://www.theguardian.com/sport/2026/nov/16/will-joseph-steve-borthwick-england-new-zealand-nations-championship-rugby-union",
-            "trail": "Will Joseph is poised to be rewarded for his five-try heroics against Japan with another England start against New Zealand on Saturday",
-            "byline": "Gerard Meagher"
-          },
-          "kicker": "Sport",
-          "trail": "Joseph is poised to be rewarded for his five-try display against Japan with another England start against New Zealand on Saturday.",
-          "upside": 3,
-          "image": {
-            "src": "https://media.guim.co.uk/fe1a6caea2ce1b70a70f878f4022b7a44de5d878/356_0_3934_3149/1000.jpg",
-            "alt": "Will Joseph of England dives in to score a try against Japan",
-            "credit": "Photograph: Tom Jenkins/The Guardian",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Merard Geagher"
         },
         {
           "path": "/sport/2026/nov/16/dave-rennie-new-zealand-all-blacks-england-twickenham-nations-championship",
@@ -3182,9 +3085,31 @@
           "byline": "Bandy Ull"
         },
         {
+          "path": "/sport/2026/nov/20/rugby-union-england-new-zealand-nations-championship",
+          "linked": false,
+          "headline": "Itoje says discipline and bench impact will decide 'massive' Twickenham test",
+          "original": {
+            "headline": "England and New Zealand collide with final spots and reputations on the line",
+            "url": "https://www.theguardian.com/sport/2026/nov/20/rugby-union-england-new-zealand-nations-championship",
+            "trail": "Discipline, bench impact and the breakdown will be pivotal in what home captain Maro Itoje says is a ‘massive game’",
+            "byline": "Robert Kitson"
+          },
+          "kicker": "Sport",
+          "trail": "England and New Zealand meet with final Nations Championship spots and reputations on the line.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/d9d2bba88a6f15f9f43a594c17e4acd70bfb67b8/0_0_5000_4000/1000.jpg",
+            "alt": " Wallace Sititi of New Zealand, England’s Ben Curry, Jamie George and Maro Itoje,  the All Blacks’ haka.",
+            "credit": "Composite: Getty, Shutterstock",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Kobert Ritson"
+        },
+        {
           "path": "/sport/2026/nov/17/all-blacks-new-zealand-england-twickenham-wales-rugby-union",
           "linked": false,
-          "headline": "England eye rare back-to-back scalps as rattled All Blacks regroup",
+          "headline": "Rattled All Blacks face rare twin threat as England eye back-to-back scalps",
           "original": {
             "headline": "Rattled All Blacks face rare twin threat as England eye back-to-back scalps",
             "url": "https://www.theguardian.com/sport/2026/nov/17/all-blacks-new-zealand-england-twickenham-wales-rugby-union",
@@ -3192,8 +3117,7 @@
             "byline": "Robert Kitson"
           },
           "kicker": "Sport",
-          "trail": "After New Zealand's seismic defeat by Wales, England face the prospect of history repeating itself in unwanted ways for the All Blacks.",
-          "upside": 2,
+          "trail": "After their seismic defeat by Wales, New Zealand face the prospect of history repeating itself in unwanted ways",
           "image": {
             "src": "https://media.guim.co.uk/1c9da89f3423e8008c194fdd80cf684f022a3954/1405_1234_3046_2436/1000.jpg",
             "alt": "The All Blacks struggle to hide their emotions after their shock loss to Wales in Cardiff",
@@ -3206,7 +3130,7 @@
         {
           "path": "/sport/2026/nov/20/rugby-union-england-new-zealand-all-blacks-backlash-nations-championship",
           "linked": false,
-          "headline": "England's squad depth makes them formidable as cornered All Blacks seek response",
+          "headline": "Expect a fearsome backlash from cornered All Blacks – but England must play with freedom",
           "original": {
             "headline": "Expect a fearsome backlash from cornered All Blacks – but England must play with freedom",
             "url": "https://www.theguardian.com/sport/2026/nov/20/rugby-union-england-new-zealand-all-blacks-backlash-nations-championship",
@@ -3214,8 +3138,7 @@
             "byline": "Ugo Monye"
           },
           "kicker": "Sport",
-          "trail": "New Zealand want to ease the pain of their defeat by Wales, but England's depth and freedom of play should make them formidable opponents.",
-          "upside": 2,
+          "trail": "New Zealand want to ease the pain of defeat by Wales but England’s squad depth will make them formidable opponents",
           "image": {
             "src": "https://media.guim.co.uk/431fa8fbac36ad7693cefa57bc4565af75df0c5e/140_0_4338_3471/1000.jpg",
             "alt": "Beauden Barrett of New Zealand is applauded off the field by Wales last weekend.",
@@ -3226,29 +3149,28 @@
           "byline": "Mugo Onye"
         },
         {
-          "path": "/sport/2026/nov/20/rugby-union-england-new-zealand-nations-championship",
+          "path": "/sport/2026/nov/16/will-joseph-steve-borthwick-england-new-zealand-nations-championship-rugby-union",
           "linked": false,
-          "headline": "England and New Zealand collide in Itoje's 'massive game'",
+          "headline": "Will Joseph poised to start for England against All Blacks after five-try burst ",
           "original": {
-            "headline": "England and New Zealand collide with final spots and reputations on the line",
-            "url": "https://www.theguardian.com/sport/2026/nov/20/rugby-union-england-new-zealand-nations-championship",
-            "trail": "Discipline, bench impact and the breakdown will be pivotal in what home captain Maro Itoje says is a ‘massive game’",
-            "byline": "Robert Kitson"
+            "headline": "Will Joseph poised to start for England against All Blacks after five-try burst ",
+            "url": "https://www.theguardian.com/sport/2026/nov/16/will-joseph-steve-borthwick-england-new-zealand-nations-championship-rugby-union",
+            "trail": "Will Joseph is poised to be rewarded for his five-try heroics against Japan with another England start against New Zealand on Saturday",
+            "byline": "Gerard Meagher"
           },
           "kicker": "Sport",
-          "trail": "Discipline, bench impact and the breakdown will be pivotal in what home captain Maro Itoje says is a 'massive game', with final spots and reputations on the line.",
-          "upside": 2,
+          "trail": "Will Joseph is poised to be rewarded for his five-try heroics against Japan with another England start against New Zealand on Saturday",
           "image": {
-            "src": "https://media.guim.co.uk/d9d2bba88a6f15f9f43a594c17e4acd70bfb67b8/0_0_5000_4000/1000.jpg",
-            "alt": " Wallace Sititi of New Zealand, England’s Ben Curry, Jamie George and Maro Itoje,  the All Blacks’ haka.",
-            "credit": "Composite: Getty, Shutterstock",
+            "src": "https://media.guim.co.uk/fe1a6caea2ce1b70a70f878f4022b7a44de5d878/356_0_3934_3149/1000.jpg",
+            "alt": "Will Joseph of England dives in to score a try against Japan",
+            "credit": "Photograph: Tom Jenkins/The Guardian",
             "width": 1000,
             "height": 800
           },
-          "byline": "Kobert Ritson"
+          "byline": "Merard Geagher"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "Slade helps sparkling England power to record victory as All Blacks wilt again",
         "url": "https://www.theguardian.com/sport/2026/nov/21/england-new-zealand-nations-championship-rugby-union-match-report",
@@ -3256,9 +3178,7 @@
         "standfirst": "<ul><li><p>England 37-12 New Zealand</p></li><li><p>Slade scores the first of five tries for England</p></li></ul>",
         "byline": "Robert Kitson at Allianz Stadium"
       },
-      "standfirst": "England beat New Zealand 37-12, their biggest ever margin over a northern hemisphere side",
-      "progress": "Attack coach Lee Blackett is credited with sharpening England's attacking fluency as the side settles into the complete team it aims to be.",
-      "upside": 3,
+      "standfirst": "England 37-12 New Zealand",
       "byline": "Kobert Ritson at Allianz Stadium",
       "mainImage": {
         "src": "https://media.guim.co.uk/6de133f792ed540f580a35bb9dbc35a3827f66ce/421_0_2265_1812/1000.jpg",
@@ -3324,28 +3244,6 @@
           "byline": "Riles Gichards at the Miami International Autodrome"
         },
         {
-          "path": "/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp",
-          "linked": false,
-          "headline": "Hamilton and Ferrari hold clear-the-air talks ahead of Las Vegas GP",
-          "original": {
-            "headline": "Lewis Hamilton denies lack of trust at ‘super united’ Ferrari before Las Vegas GP",
-            "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp",
-            "trail": "British driver says F1 team ‘working on our communication’ as he held clear-the-air talks with teammate Charles Leclerc",
-            "byline": "Giles Richards in Las Vegas"
-          },
-          "kicker": "Sport",
-          "trail": "The British driver denied a lack of trust at the 'super united' team, saying they are 'working on our communication' after talks with teammate Charles Leclerc.",
-          "upside": 2,
-          "image": {
-            "src": "https://media.guim.co.uk/26a81824d618474cd177d8c7609c45accc943fe6/0_0_4485_3590/1000.jpg",
-            "alt": "Lewis Hamilton inspects his Lego figure in the paddock before the F1 Las Vegas GP",
-            "credit": "Photograph: Bryn Lennon/Formula 1/Getty Images",
-            "width": 1000,
-            "height": 800
-          },
-          "byline": "Riles Gichards in Las Vegas"
-        },
-        {
           "path": "/sport/2026/mar/02/formula-one-f1-australian-gp-grand-prix-middle-east-travel-chaos",
           "linked": false,
           "headline": "F1 teams adapt with last-minute travel changes to reach Melbourne",
@@ -3388,6 +3286,28 @@
             "height": 800
           },
           "byline": "Snack Jape at Albert Park"
+        },
+        {
+          "path": "/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp",
+          "linked": false,
+          "headline": "Lewis Hamilton denies lack of trust at 'super united' Ferrari before Las Vegas GP",
+          "original": {
+            "headline": "Lewis Hamilton denies lack of trust at ‘super united’ Ferrari before Las Vegas GP",
+            "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp",
+            "trail": "British driver says F1 team ‘working on our communication’ as he held clear-the-air talks with teammate Charles Leclerc",
+            "byline": "Giles Richards in Las Vegas"
+          },
+          "kicker": "Sport",
+          "trail": "The British driver says the F1 team is 'working on our communication', after he held clear-the-air talks with teammate Charles Leclerc.",
+          "upside": 1,
+          "image": {
+            "src": "https://media.guim.co.uk/26a81824d618474cd177d8c7609c45accc943fe6/0_0_4485_3590/1000.jpg",
+            "alt": "Lewis Hamilton inspects his Lego figure in the paddock before the F1 Las Vegas GP",
+            "credit": "Photograph: Bryn Lennon/Formula 1/Getty Images",
+            "width": 1000,
+            "height": 800
+          },
+          "byline": "Riles Gichards in Las Vegas"
         }
       ],
       "status": "headline-only",
@@ -3484,7 +3404,7 @@
         {
           "path": "/uk/2009/dec/01/cousins-extradited-cyprus-killing-motorcyclist",
           "linked": false,
-          "headline": "British cousins extradited to Cyprus to serve terms over motorcyclist's death",
+          "headline": "British cousins extradited to Cyprus over death of motorcyclist",
           "original": {
             "headline": "British cousins extradited to Cyprus over death of motorcyclist",
             "url": "https://www.theguardian.com/uk/2009/dec/01/cousins-extradited-cyprus-killing-motorcyclist",
@@ -3492,7 +3412,7 @@
             "byline": "Haroon Siddique and agencies"
           },
           "kicker": "UK news",
-          "trail": "Michael Binnington and Luke Atkinson flew to Nicosia to serve three-year terms, despite legal concerns raised over the case.",
+          "trail": "Michael Binnington and Luke Atkinson flew to Nicosia to serve three-year terms despite legal concerns.",
           "upside": 1,
           "image": {
             "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2009/12/1/1259654482518/Cyprus-extradition-appeal-001.jpg",
@@ -3506,7 +3426,7 @@
         {
           "path": "/world/2026/mar/06/cyprus-raises-doubts-about-future-of-british-bases-on-island-after-drone-strike",
           "linked": false,
-          "headline": "Cyprus seeks 'conversation' on future of British bases after drone strike",
+          "headline": "Cyprus foreign minister calls for 'conversation' on future of UK bases",
           "original": {
             "headline": "Cyprus raises doubts about future of British bases on island after drone strike",
             "url": "https://www.theguardian.com/world/2026/mar/06/cyprus-raises-doubts-about-future-of-british-bases-on-island-after-drone-strike",
@@ -3514,7 +3434,7 @@
             "byline": "Nadeem Badshah"
           },
           "kicker": "World news",
-          "trail": "The foreign minister wants a conversation about closing UK military sites, following the absence of advance notice of an impending attack on RAF Akrotiri.",
+          "trail": "The call follows a drone strike that hit RAF Akrotiri without being detected in time, raising doubts about the island's British bases.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/fba275bc91cc42f4954fd56610e008d282d74c28/414_0_4548_3639/1000.jpg",
@@ -3553,8 +3473,8 @@
         "name": "US news"
       },
       "publishedAt": "2026-11-22T00:20:41Z",
-      "headline": "14-month investigation cracks alleged $22m California rail theft ring",
-      "bodyHtml": "<p>Prosecutors described this week’s sweeping indictment as the culmination of a 14-month-long investigation.</p> <p>“We are determined to protect this vital supply chain and ensure that goods reach their intended destinations, not the black market,” said Nathan Hochman, the Los Angeles county district attorney.</p> <p>Fourteen people in southern California have been accused of burglarizing more than $22m worth of goods from moving freight trains, in a plot reminiscent of the US old west, when outlaws and bandits wreaked havoc on the nascent railroad industry.</p> <p>The justice department has brought railroad theft charges against the group for raiding at least 36 trains and selling thousands of stolen Nike sneakers, among other products, on the black market.</p> <p>“The scale of the theft is staggering,” first assistant US attorney Bill Essayli said.</p> <p>Nathan Daniel Angel, 21, was the alleged ringleader for the so-called “Los Trenes” (“the trains”) scheme, which spanned 2024 through 2026. Court documents did not list an attorney for Angel or the other charged individuals.</p> <p>Each robbery took a similar form.</p> <p>Angel’s associates, including his father and two uncles, stowed away on moving freight trains, according to a grand jury indictment.</p> <p>With some of the men on board serving as lookouts, the others would slash the train’s air hose, causing a sudden loss of air pressure and forcing an emergency stop of the entire vehicle. The maneuver is perilous given the risks of derailment.</p> <p>Once the train was disabled, the rest of the Los Trenes crew would swoop in to load up the stolen goods and stash the loot at houses across southern California, prosecutors say.</p> <p>Angel posed for a selfie, where he threw up the peace sign, in front of several boxes containing Nike merchandise, in a February 2024 photograph, attached to court documents.</p> <p>The next burglary would come months later.</p> <p>In October 2024, Donta Hedgeman, 27, sawed through the lock of a container on a moving Nike train, according to video evidence.</p> <p>Law enforcement was already catching on to the alleged thefts by 2025, even as the heists ramped up.</p> <p>An unidentified “co-conspirator” texted 23-year-old Carlos Luis Fernando Martinez on 17 April 2025 to say he had been arrested for receiving stolen property.</p> <p>“They want me to tell them who did I get them from and who had the other pairs,” the person wrote.</p> <p>Martinez responded, instructing the person to contact him over Signal, an app with encrypted messaging.</p> <p>Twelve days later, the crew made off with 1,170 tools and 17,000 parts from Milwaukee Tool.</p> <p>Police officers appeared to sniff around an unnamed company, which purchased a slew of stolen products from the crew in the fall of 2025.</p> <p>A different “co-conspirator” speculated on their fate. “Good luck with them wires/if they go deep in the case/You’re cooked,” they wrote to Martinez.</p> <p>Then, on 16 January 2026, Angel and 25-year-old Fredy Marquina referenced a partner being intercepted by police: “They just got Jorge for buying and receiving/stolen property.”</p> <p>Despite the mounting risk of being caught, the men proceeded with further heists in the summer of 2026.</p> <p>In July 2026, Angel Sanchez, 24, shared an AI-generated image that appeared to glamorize their robbery spree.</p> <p>Masked men tossed Nike sneakers off a Burlington Northern Santa Fe Railway (BNSR) train into luxury cars inscribed with the words “Los Trenes”.</p> <p>In the image, a helicopter circled above, shining a searchlight.</p> <p>If convicted of the conspiracy charge, the men face at least five years in prison. The theft of interstate railroad charge has a maximum penalty of 10 years in prison.</p> <p>A conviction for violence against railroad carriers would carry the most severe punishment with a possibility of life in prison.</p>",
+      "headline": "Justice department charges gang behind $22m string of train heists",
+      "bodyHtml": "",
       "related": [
         {
           "path": "/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
@@ -3577,6 +3497,28 @@
             "height": 673
           },
           "byline": "Lam Sevin in Los Angeles"
+        },
+        {
+          "path": "/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+          "linked": false,
+          "headline": "'Regain your humanity': jailed anti-AI protester's message to OpenAI and Meta",
+          "original": {
+            "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
+            "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+            "trail": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI",
+            "byline": "Robert Booth"
+          },
+          "kicker": "US news",
+          "trail": "Wynd Kaufmyn, 69 — the first anti-AI protester to be jailed — chained and locked the doors of OpenAI's headquarters last year with fellow StopAI members.",
+          "upside": 2,
+          "image": {
+            "src": "https://media.guim.co.uk/18193eaa03e7e4e470a0f25474d2b6ca8d409a6d/331_0_4469_3200/1000.jpg",
+            "alt": "Woman in fifties dress sitting at table with plant on it.",
+            "credit": "Photograph: Winni Wintermeyer/The Guardian",
+            "width": 1000,
+            "height": 716
+          },
+          "byline": "Bobert Rooth"
         },
         {
           "path": "/us-news/2026/oct/07/patricia-krenwinkel-manson-follower-parole",
@@ -3603,7 +3545,7 @@
         {
           "path": "/us-news/2026/nov/17/california-gavin-newsom-lawsuit-death-sentence-commutations",
           "linked": false,
-          "headline": "California prosecutors challenge Newsom's mass clemency in court",
+          "headline": "Thirty district attorneys challenge Newsom's mass clemency for condemned inmates",
           "original": {
             "headline": "California DAs sue Gavin Newsom to stop death sentence commutations",
             "url": "https://www.theguardian.com/us-news/2026/nov/17/california-gavin-newsom-lawsuit-death-sentence-commutations",
@@ -3611,7 +3553,7 @@
             "byline": "Sam Levin"
           },
           "kicker": "US news",
-          "trail": "Thirty district attorneys sued to stop Gavin Newsom's death sentence commutations, on behalf of victims' families and advocates.",
+          "trail": "The lawsuit, filed on behalf of victims' families and advocates, seeks to stop Gavin Newsom's commutation of death sentences in California.",
           "upside": 1,
           "image": {
             "src": "https://media.guim.co.uk/c5e0e364e58d44305f7f0fd3ecbed5670750092e/0_0_3000_2000/1000.jpg",
@@ -3625,7 +3567,7 @@
         {
           "path": "/us-news/2026/aug/26/baby-surrogacy-case-critical-condition",
           "linked": false,
-          "headline": "Parents secure restraining order in surrogacy case as baby remains in critical condition",
+          "headline": "Baby with rare heart defect at center of surrogacy case in critical condition",
           "original": {
             "headline": "Baby with rare heart defect at center of surrogacy case in critical condition",
             "url": "https://www.theguardian.com/us-news/2026/aug/26/baby-surrogacy-case-critical-condition",
@@ -3633,8 +3575,7 @@
             "byline": "Gabrielle Canon and agencies"
           },
           "kicker": "US news",
-          "trail": "The biological parents of a baby with a rare heart defect, at the centre of a surrogacy case, have secured a restraining order against the surrogate as the lawsuit continues.",
-          "upside": 1,
+          "trail": "Biological parents have secured restraining order against surrogate as lawsuit continues and baby receives care",
           "image": {
             "src": "https://media.guim.co.uk/a2215affaa4215d7b98dfb8a72dc36ad037e2ddc/0_0_2231_1487/1000.jpg",
             "alt": "Omar Ahmed and wife Nausheen Gilkar walk hand in hand through a courthouse hallway",
@@ -3643,31 +3584,9 @@
             "height": 667
           },
           "byline": "Cabrielle Ganon and agencies"
-        },
-        {
-          "path": "/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-          "linked": false,
-          "headline": "Jailed anti-AI protester urges OpenAI, Anthropic and Meta to 'regain your humanity'",
-          "original": {
-            "headline": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
-            "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-            "trail": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI",
-            "byline": "Robert Booth"
-          },
-          "kicker": "US news",
-          "trail": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI's headquarters last year with members of StopAI, becoming the first anti-AI protester to be jailed.",
-          "upside": 1,
-          "image": {
-            "src": "https://media.guim.co.uk/18193eaa03e7e4e470a0f25474d2b6ca8d409a6d/331_0_4469_3200/1000.jpg",
-            "alt": "Woman in fifties dress sitting at table with plant on it.",
-            "credit": "Photograph: Winni Wintermeyer/The Guardian",
-            "width": 1000,
-            "height": 716
-          },
-          "byline": "Bobert Rooth"
         }
       ],
-      "status": "rewritten",
+      "status": "headline-only",
       "original": {
         "headline": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
         "url": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
@@ -3675,9 +3594,7 @@
         "standfirst": "<p>US justice department brings charges against group after at least 36 trains burglarized for shoes and tools</p>",
         "byline": "Uwa Ede-Osifo"
       },
-      "standfirst": "A 14-month federal investigation has led to charges against 14 people accused of derailing freight trains and stealing $22m in goods, including sneakers and tools, prosecutors say.",
-      "progress": "The US justice department charged 14 people this week, the culmination of a 14-month investigation into the scheme.",
-      "upside": 1,
+      "standfirst": "US justice department brings charges against group after at least 36 trains burglarized for shoes and tools",
       "byline": "Frances Larkspur",
       "mainImage": {
         "src": "https://media.guim.co.uk/5ede69a09f6e896c3d80e8c1a9e10ee694c31d87/165_0_4549_3641/1000.jpg",

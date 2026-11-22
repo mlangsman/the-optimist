@@ -63,6 +63,13 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pochettino's fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us\""
   },
   {
+    "path": "/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Fragile' Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso\""
+  },
+  {
     "path": "/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
     "kind": "preview",
     "field": "headline",
@@ -89,6 +96,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"The best way to avoid winter illness\""
+  },
+  {
+    "path": "/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Police arrest teacher who missed sentencing after indecent assault conviction\""
   },
   {
     "path": "/music/2026/nov/21/fontaines-dc-review-liverpool-arena-uk-tour",
@@ -133,13 +147,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jodi Picoult: 'Reading Ta-Nehisi Coates made me rethink racism'\""
   },
   {
-    "path": "/games/2026/nov/20/grand-theft-auto-vi-players-review",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The greatest game ever made': readers and Guardian staff on Grand Theft Auto VI\""
-  },
-  {
     "path": "/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
     "kind": "preview",
     "field": "headline",
@@ -158,7 +165,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Suki Waterhouse and Robert Pattinson set to become Britain's next Hollywood power couple\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Suki Waterhouse and Robert Pattinson to become Britain's next big Hollywood power couple\""
   },
   {
     "path": "/kick-on-effect/2026/oct/28/jill-scott-and-the-grassroots-initiative-boosting-womens-football",
@@ -259,11 +266,18 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Eat your cup: could edible packaging help solve the world's plastic problem?\""
   },
   {
-    "path": "/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+    "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"crisis\": \"Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief's signature look is now being mocked as a midlife crisis cliché.\""
+  },
+  {
+    "path": "/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Gout is on the rise and excruciating. Why are sufferers still judged for it?\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The place becomes a jewellery box of glittering lights': readers' favourite winter city breaks in Europe\""
   },
   {
     "path": "/lifeandstyle/2026/nov/18/uk-best-christmas-train-rides-father-christmas-santa",
@@ -347,7 +361,7 @@
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Police launch murder investigation after woman found dead in Bradford\""
+    "issue": "headline is unchanged from the original: \"Police launch murder investigation after woman's body found in Bradford\""
   },
   {
     "path": "/uk-news/2017/jan/04/bradford-mp-naz-shah-calls-calm-m62-police-shooting-protests-yassar-yaqub",
@@ -362,6 +376,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Bradford murder accused appears in court\""
+  },
+  {
+    "path": "/uk-news/2025/dec/10/sussex-group-crowborough-shield-begins-legal-challenge-over-plan-to-house-asylum-seekers-on-military-site",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Sussex group begins legal challenge over plan to house asylum seekers on military site\""
   },
   {
     "path": "/politics/2023/feb/03/home-office-shelves-plans-house-asylum-seekers-southport-pontins",
@@ -413,11 +434,11 @@
     "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Vicar of Dibley actor Gary Waldhorn dies peacefully aged 78\""
   },
   {
-    "path": "/sport/2026/nov/21/englands-thrashing-of-new-zealand-ominous-for-rivals",
+    "path": "/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"England's strength in depth finally comes together in landmark win over All Blacks\""
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Lewis Hamilton denies lack of trust at 'super united' Ferrari before Las Vegas GP\""
   },
   {
     "path": "/sport/2026/may/02/lando-norris-wins-sprint-race-at-f1-miami-grand-prix-as-mclaren-roar-back",
@@ -425,6 +446,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Lando Norris wins sprint race at F1 Miami Grand Prix as McLaren roar back\""
+  },
+  {
+    "path": "/uk/2009/dec/01/cousins-extradited-cyprus-killing-motorcyclist",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"British cousins extradited to Cyprus over death of motorcyclist\""
   },
   {
     "path": "/world/2021/mar/04/cyprus-will-allow-vaccinated-british-tourists-from-1-may",
@@ -448,17 +476,10 @@
     "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Newsom commutes more than 500 death sentences in California\""
   },
   {
-    "path": "/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "path": "/us-news/2026/aug/26/baby-surrogacy-case-critical-condition",
     "kind": "preview",
     "field": "headline",
     "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\""
-  },
-  {
-    "path": "/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is unchanged from the original: \"Spacecraft reaches Mercury on second-ever mission to enter its orbit\""
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Baby with rare heart defect at centre of surrogacy case in critical condition\""
   }
 ]
