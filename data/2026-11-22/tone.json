@@ -1,0 +1,464 @@
+[
+  {
+    "path": "/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Las Vegas Grand Prix: Formula One 2026 race updates – live\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The moment I knew: she flew me to the scene of my favourite romantic movie\""
+  },
+  {
+    "path": "/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Light in the dark: 20 long books for short winter days\""
+  },
+  {
+    "path": "/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"worst\": \"African ministers say they 'didn't come here to beg', with civil society groups calling it the 'worst Cop ever' after fossil fuels vanished from the draft deal.\""
+  },
+  {
+    "path": "/environment/ng-interactive/2026/nov/20/cop31-draft-climate-text-explained",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Cop31's draft climate text, explained: what it says and what it means\""
+  },
+  {
+    "path": "/music/2026/nov/21/deniz-tek-radio-birdman-guitarist-10-chaotic-questions-interview",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Deniz Tek: 'Top Gun may have got the name of Val Kilmer's Iceman from me'\""
+  },
+  {
+    "path": "/australia-news/2026/nov/20/brand-what-rhymes-with-blunt-and-female-loneliness",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Five great reads: Brand, the first 'weird Bond' and female loneliness\""
+  },
+  {
+    "path": "/film/ng-interactive/2026/nov/21/hungry-for-action-our-critics-verdicts-on-the-weeks-uk-cinema-releases",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Hungry for action? Our critics' verdicts on the week's UK cinema releases\""
+  },
+  {
+    "path": "/sport/2026/nov/20/pochettinos-fiery-start-plus-england-v-all-blacks-and-atp-finals-finale-follow-with-us",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pochettino's fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us\""
+  },
+  {
+    "path": "/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"The Guardian view on Jan van Eyck's portraits: what it means to be human\""
+  },
+  {
+    "path": "/uk-news/2026/nov/20/we-should-be-free-to-call-ourselves-black-english",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"We should be free to call ourselves Black English\""
+  },
+  {
+    "path": "/food/2026/nov/20/its-time-we-all-made-healthy-food-go-further",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"It's time we all made healthy food go further\""
+  },
+  {
+    "path": "/society/2026/nov/20/the-best-way-to-avoid-winter-illness",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best way to avoid winter illness\""
+  },
+  {
+    "path": "/music/2026/nov/21/fontaines-dc-review-liverpool-arena-uk-tour",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Fontaines DC review – thrilling gothic grandeur from a band vaulting into greatness\""
+  },
+  {
+    "path": "/culture/2026/nov/19/sinead-oconnors-best-songs-ranked",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Nothing compares to her: Sinéad O'Connor's 20 best songs – ranked!\""
+  },
+  {
+    "path": "/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"The month's best experimental album: Stella Z's ambient adventures in lucid dreaming\""
+  },
+  {
+    "path": "/books/2026/nov/20/green-kingdom-by-ben-dark-review-a-luscious-natural-history-of-plant-life",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Green Kingdom by Ben Dark review – a luscious natural history of plant life\""
+  },
+  {
+    "path": "/books/2026/nov/20/the-best-recent-and-thrillers-review-roundup",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"The best recent crime and thrillers – review roundup\""
+  },
+  {
+    "path": "/books/2026/nov/20/jodi-picoult-reading-ta-nehisi-coates-made-me-rethink-racism",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jodi Picoult: 'Reading Ta-Nehisi Coates made me rethink racism'\""
+  },
+  {
+    "path": "/games/2026/nov/20/grand-theft-auto-vi-players-review",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The greatest game ever made': readers and Guardian staff on Grand Theft Auto VI\""
+  },
+  {
+    "path": "/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Keepsake County review – eccentric stealing simulator with a social conscience\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/21/noah-forster-photographer-best-phone-picture-swans",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Napping together on the reeds, the swans appeared luminous': Noah Forster's best phone picture\""
+  },
+  {
+    "path": "/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Suki Waterhouse and Robert Pattinson set to become Britain's next Hollywood power couple\""
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/jill-scott-and-the-grassroots-initiative-boosting-womens-football",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"Strips, spirit, survival: Jill Scott and the grassroots initiative boosting women's football\""
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/lucy-bronze-and-the-footballers-inspiring-girls-to-play",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Lucy Bronze is such an icon': the footballers inspiring girls to play\""
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/entrepreneurs-supporting-womens-and-girls-grassroots-football",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Meet the everyday entrepreneurs backing women's and girls' grassroots football\""
+  },
+  {
+    "path": "/thefilter/2026/nov/14/best-christmas-gifts-ideas-filter-uk-2026",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"361 best Christmas gifts for 2026 – tried, tested and loved by the Filter UK\""
+  },
+  {
+    "path": "/thefilter/2026/nov/21/best-wine-glasses-tested-uk",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The platonic ideal of a wine glass': we test the best for every budget\""
+  },
+  {
+    "path": "/thefilter/2026/nov/20/best-black-friday-beauty-deals-2026-uk-tested",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (88 per cent of the words are the same): \"From LED face masks to skincare staples: the best Black Friday beauty deals\""
+  },
+  {
+    "path": "/food/2026/nov/21/vienna-on-a-plate-a-food-lovers-guide-to-the-austrian-capital",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Vienna on a plate: a food lover's guide to the Austrian capital\""
+  },
+  {
+    "path": "/food/2026/nov/21/the-spirit-of-a-borderless-europe-steams-from-the-pots-and-pans-of-vienna",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'The spirit of a borderless Europe steams from the pots and pans of Vienna'\""
+  },
+  {
+    "path": "/food/2026/nov/21/vegan-almond-sorbet-grape-granita-recipe-jackson-boxer",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Jackson Boxer's vegan recipe for almond sorbet with grape granita\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/21/blind-date-james-itzi",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Blind date: 'Most awkward moment? He mentioned that he loves camping. (I hate it)'\""
+  },
+  {
+    "path": "/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"'You've got me for life': first ceremonies cement care leavers' chosen relationships\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/19/you-be-the-judge-should-my-friend-stop-eating-smelly-meals-at-work",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"You be the judge: should my friend stop eating smelly meals at work?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/20/engaged-but-cant-stop-thinking-about-an-old-friend-advice",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"I'm engaged but I can't stop thinking about an old friend. Should I tell him?\""
+  },
+  {
+    "path": "/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Eat your cup: could edible packaging help solve the world's plastic problem?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Gout is on the rise and excruciating. Why are sufferers still judged for it?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/18/uk-best-christmas-train-rides-father-christmas-santa",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Dashing through the snow: 10 of the UK's best Christmas train rides\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/21/tim-dowling-theres-been-a-break-in-and-i-have-to-remove-the-culprit",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Tim Dowling: there's been a break-in, and I have to remove the culprit\""
+  },
+  {
+    "path": "/environment/2026/nov/21/country-diary-watching-a-garden-spider-at-work-do-i-detect-a-personality",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Country diary: watching a garden spider at work – do I detect a personality?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/21/what-links-diana-moran-and-fenway-parks-left-field-wall-the-saturday-quiz",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"What links Diana Moran and Fenway Park's left-field wall? The Saturday quiz\""
+  },
+  {
+    "path": "/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Gloucestershire nouveau': UK vineyard uncorks its 2026 answer to beaujolais\""
+  },
+  {
+    "path": "/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: are you playing Grand Theft Auto VI?\""
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/19/tell-us-what-was-your-favourite-christmas-present-as-a-child",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tell us: what was your favourite Christmas present as a child?\""
+  },
+  {
+    "path": "/education/2026/nov/20/uk-teachers-have-you-experienced-abuse-in-schools",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK teachers: have you experienced abuse in schools?\""
+  },
+  {
+    "path": "/society/2026/nov/18/uk-businesses-what-are-the-barriers-stopping-you-hiring-young-people",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"UK businesses: what are the barriers stopping you hiring young people?\""
+  },
+  {
+    "path": "/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history\""
+  },
+  {
+    "path": "/law/2022/oct/31/donna-patterson-erin-brockovich-of-bradford-tribunal-morrisons",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Woman labelled 'Erin Brockovich of Bradford' after self-represented tribunal win\""
+  },
+  {
+    "path": "/uk-news/2015/jun/14/police-launch-investigation-after-womans-body-found-in-bradford",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Police launch murder investigation after woman found dead in Bradford\""
+  },
+  {
+    "path": "/uk-news/2017/jan/04/bradford-mp-naz-shah-calls-calm-m62-police-shooting-protests-yassar-yaqub",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Bradford MP calls for calm after M62 police shooting sparks protests\""
+  },
+  {
+    "path": "/uk/2010/may/28/ukcrime",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Bradford murder accused appears in court\""
+  },
+  {
+    "path": "/politics/2023/feb/03/home-office-shelves-plans-house-asylum-seekers-southport-pontins",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (91 per cent of the words are the same): \"Home Office shelves plans to house asylum seekers at Southport Pontins\""
+  },
+  {
+    "path": "/uk-news/2021/nov/21/home-office-bussing-asylum-seekers-who-cross-channel-500-miles-to-scotland",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Home Office bussing asylum seekers who cross Channel 500 miles to Scotland\""
+  },
+  {
+    "path": "/uk-news/2025/feb/10/record-asylum-seekers-died-2024-home-office-care",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Record number of asylum seekers died in 2024 while in Home Office care\""
+  },
+  {
+    "path": "/politics/2022/aug/09/sunak-truss-rule-out-plans-house-asylum-seekers-yorkshire-linton-on-ouse",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Tories abandon plans to house 1,500 asylum seekers in Yorkshire village\""
+  },
+  {
+    "path": "/tv-and-radio/2019/sep/28/spitting-image-victims-on-being-lampooned-livingstone-currie-kinnock",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"'Thatcher loved it': Spitting Image victims on being lampooned\""
+  },
+  {
+    "path": "/tv-and-radio/2019/sep/28/spitting-image-returns-chaotic-times-trump-putin-zuckerberg",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Look who's back: Spitting Image returns for our chaotic times\""
+  },
+  {
+    "path": "/tv-and-radio/2022/jan/11/vicar-of-dibley-actor-gary-waldhorn-dies-aged-78",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Vicar of Dibley actor Gary Waldhorn dies peacefully aged 78\""
+  },
+  {
+    "path": "/sport/2026/nov/21/englands-thrashing-of-new-zealand-ominous-for-rivals",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (92 per cent of the words are the same): \"England's strength in depth finally comes together in landmark win over All Blacks\""
+  },
+  {
+    "path": "/sport/2026/may/02/lando-norris-wins-sprint-race-at-f1-miami-grand-prix-as-mclaren-roar-back",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Lando Norris wins sprint race at F1 Miami Grand Prix as McLaren roar back\""
+  },
+  {
+    "path": "/world/2021/mar/04/cyprus-will-allow-vaccinated-british-tourists-from-1-may",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Cyprus will allow vaccinated British tourists from 1 May\""
+  },
+  {
+    "path": "/us-news/2026/oct/23/nick-reiner-hearing-trust-fund",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (86 per cent of the words are the same): \"Mediator to decide whether Nick Reiner can use trust fund for murder defence\""
+  },
+  {
+    "path": "/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (90 per cent of the words are the same): \"Newsom commutes more than 500 death sentences in California\""
+  },
+  {
+    "path": "/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'\""
+  },
+  {
+    "path": "/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is unchanged from the original: \"Spacecraft reaches Mercury on second-ever mission to enter its orbit\""
+  }
+]
