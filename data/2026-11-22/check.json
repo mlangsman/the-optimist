@@ -4,12 +4,12 @@
   "kind": "article",
   "ok": false,
   "issues": [
-   "The headline/trail ('The EU, the UK and more than 130 countries marched on Cop31's presidency on Saturday to demand fossil fuel language be reinstated') states that 'more than 130 countries' marched. The original only reports the EU, the UK, many African countries and the world's least developed/small-island states marching; the figure of 'about 130 countries' in the original refers to the separate coalition insisting on fossil-fuel wording in the text, not to the number of countries that physically marched on the presidency. This conflates two different groups and inflates the scale of the protest action."
+   "The lead's second paragraph calls Miatta Fahnbulleh 'the UK's climate minister', but both the ORIGINAL and the REWRITE's own body text identify her as 'the UK's energy minister' — a title mismatch within the same piece."
   ],
   "tone": {
-   "ok": false,
+   "ok": true,
    "issues": [
-    "The trail line credits a far larger, specific collective action ('more than 130 countries' marching) than the original actually reports (a march by the EU, UK, African countries and least-developed/island states) \u2014 this is 'progress' that overstates what the original reports, per the brief's concern about crediting an unreported response."
+    "The march on the presidency is described twice (once in the new lead paragraph, once again later in the body at its original position) — mildly repetitive but not a hard violation."
    ]
   }
  },
@@ -19,8 +19,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The added progress-line paragraph ('Police have charged a man with attempted murder, assault and possessing an offensive weapon; he appeared in court on Saturday and is due back on 21 December.') is pure procedural restatement of facts already in the standfirst and adds nothing hopeful or forward-looking. The family's own quote ('grateful for the overwhelming kindness shown and hopes to personally thank everyone once he has recovered'), already in the body, would have made a genuine progress beat but was not used there."
+   ]
   }
  },
  {
@@ -28,14 +30,12 @@
   "kind": "article",
   "ok": false,
   "issues": [
-   "Headline ('Home Office says \u00a31bn saved as it ends use of asylum hotels') states as a completed fact that hotel use has ended. The original Home Office statement frames this as an ongoing policy ('The government is working on a fairer distribution... This includes closing all asylum hotels and moving to alternative accommodation'), not a completed action, and attributes the \u00a31bn saving to the broader distribution strategy rather than specifically to ending hotel use."
+   "The progress line says Prinsley 'is pushing for' asylum seekers to be housed in cities instead, but the ORIGINAL only reports he 'suggested' this 'may be more appropriate' — a stronger, more active claim of campaigning than the source supports.",
+   "The progress line states environmental protections 'may yet block' the development, but the ORIGINAL only says planning permission 'may be difficult to attain' and any application would be 'very difficult' — it never says the project would be blocked."
   ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The real news event in this story is a village voting to 'leave the UK' in protest at a plan to house 930 asylum seekers nearby, including an MP's comparison of the plan to a 'concentration camp' \u2014 a genuine scandal/controversy. The rewrite's headline and standfirst instead lead with a Home Office press-statement statistic (\u00a31bn saved) that was a defensive quote tacked onto the end of the original, not an upside organic to this story. This drops/minimises the actual controversy from the headline and standfirst (the standfirst only vaguely notes a 'symbolic vote' with no detail), effectively promoting a government talking point as if it were the story's main development.",
-    "Framing the piece around the Home Office's self-reported savings figure, rather than an upside drawn from the actual events in Barnham, reads as adopting one side's spin rather than the Guardian's own reporting voice."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -53,16 +53,12 @@
   "kind": "article",
   "ok": false,
   "issues": [
-   "Headline ('England crush All Blacks in record win over a northern hemisphere side') and standfirst ('their biggest ever margin over a northern hemisphere side') misstate the record: New Zealand (the All Blacks) are a Southern Hemisphere team, not a 'northern hemisphere side'. The original's actual claim is that this was New Zealand's heaviest-ever loss to any Northern Hemisphere nation (i.e. to a team like England), not that England's win was 'over a northern hemisphere side'.",
-   "'If Kiwi fans thought last week's loss to Wales was painful this followed hard on its heels' changes the original's claim. The original says this match 'was arguably as bad in terms of the reputational damage' (a comparison of severity to the Wales loss); the rewrite instead makes a claim about timing/sequence, which is a different assertion not supported by the original.",
-   "'a score that will live long in Twickenham memory' describing Earl's try is an added editorial claim with no support in the original, which makes no such statement about the try's lasting significance.",
-   "The treatment of Beauden Barrett's 150th cap reverses the original's meaning. The original states 'It was certainly no way... to celebrate his 150th cap' despite his try \u2014 i.e. the milestone was overshadowed by the loss. The rewrite drops this negative framing entirely, stating simply that Barrett 'marked his 150th cap with a smart trademark try', presenting the milestone positively rather than as the original intended."
+   "The added progress line claims 'Players say... [Moody] helped inspire their performance by joining the pre-match haka.' No player is quoted anywhere in the ORIGINAL making this causal claim; the original only describes the moment as symbolically powerful and links to a separately-titled related article calling Moody 'inspirational'. Attributing a specific claim about inspiring the performance to unnamed 'players' is not supported by the source text."
   ],
   "tone": {
    "ok": false,
    "issues": [
-    "The headline and standfirst are factually confused (calling New Zealand 'a northern hemisphere side'), which is not fit to publish regardless of tone \u2014 a serious paper's headline should not contain this kind of error.",
-    "The rewritten treatment of Beauden Barrett's 150th cap drops the original's bittersweet note (that the loss meant there was 'no way' to properly celebrate it), losing nuance that was part of the original's own voice."
+    "The headline and progress line credit an unreported response ('Players say... helped inspire their performance') — no such player quote exists in the source, so this invents a feel-good causal narrative rather than reporting one."
    ]
   }
  },
@@ -79,15 +75,11 @@
  {
   "path": "/us-news/2026/nov/21/california-arrests-train-heists",
   "kind": "article",
-  "ok": false,
-  "issues": [
-   "The standfirst's claim that the group is 'accused of derailing freight trains' is not supported by the original. The original describes the men forcing an emergency stop by slashing the train's air hose, and explicitly notes that this maneuver carried a 'risk of derailment' \u2014 it does not say any train was actually derailed or that derailment is part of the charges."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The standfirst overstates the danger of the alleged crime ('derailing freight trains' vs the original's 'forcing an emergency stop', with derailment described only as a risk), which sensationalises the setback beyond what the original reports."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -96,8 +88,11 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The third line ('Negotiators have produced a new draft text aimed at resolving the impasse over the phaseout.') is a near-verbatim restatement of the headline ('issue fresh draft text to break... deadlock') and adds no new information.",
+    "The headline settles for a thin procedural development (a new draft text) when the fuller story offers a more concrete, human angle — nations marching on the summit presidency to demand reinstatement of the pledge — that this preview does not use."
+   ]
   }
  },
  {
@@ -108,7 +103,9 @@
   "tone": {
    "ok": false,
    "issues": [
-    "This is a cosmetic edit: the headline keeps the exact same subject and angle as the original ('Man charged with attempted murder after councillor stabbed in Bradford' vs 'Police charge man with attempted murder after Bradford councillor attack'), just swapping passive for active voice. The underlying story (per the full article on this same path) has a genuine available upside \u2014 the councillor's heroic intervention to protect a colleague, and his stable condition \u2014 which this preview makes no attempt to use, unlike the full-article rewrite of the same story."
+    "Headline and both follow-on lines stay purely procedural ('Police lay three charges...', 'Police have charged a 31-year-old man...') — essentially a cosmetic rewording of the same charge-focused angle as the original, with no reframing toward any upside.",
+    "The fuller article version of this same story leads with a genuine upside (the councillor is stable after heroically protecting a colleague), but this preview ignores that entirely, leaving only violent charge detail with no sense of recovery.",
+    "The third line duplicates charge information already given twice (headline and standfirst), adding nothing new."
    ]
   }
  },
@@ -118,8 +115,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The progress line ('The local MP has publicly pushed back against attempts to use the vote to stir up racial discord.') restates the headline and standfirst's claim about the MP opposing racial discord for a third time, adding no new information."
+   ]
   }
  },
  {
@@ -138,8 +137,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "Cosmetic edit — the headline swaps 'helps sparkling England power to' for 'sparks England to' and 'wilt again' for 'faltering', keeping exactly the same subject and angle as the original with no substantive change."
+   ]
   }
  },
  {
@@ -168,8 +169,10 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The third line ('The US justice department has charged the group responsible for the burglaries.') is a near-verbatim restatement of both the headline and the standfirst, which already say the same thing — it adds no new information."
+   ]
   }
  },
  {
@@ -215,28 +218,23 @@
  {
   "path": "/news/2026/nov/21/sexual-consent-scrutiny-youth-end-adulthood-begin-brand-walliams",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The headline and standfirst change 'the Brand and Walliams revelations' (original) to 'the Brand and Walliams claims'/'revelations' inconsistently used across headline and trail \u2014 'claims' implies unproven allegations where the original's 'revelations' treats the matter as established, a meaningful change in certainty.",
-   "The trail's 'Campaigners have called for a staggered age of consent to better protect young people' adds a specific rationale ('to better protect young people') that is not stated in the original, which frames the proposal instead as being about 'redefining what makes someone adult'."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Downgrading 'revelations' to 'claims' softens the Brand and Walliams scandal referenced in headline/standfirst, understating its seriousness."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/law/2026/nov/21/campaigning-women-against-rape-50-years-uk-criminal-justice-system",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The headline 'Fifty years of campaigning helps shift how rape victims are treated' states as established fact what the original presents only as the campaign group's own quoted, self-reported assessment ('things are really changing'). This removes the attribution and overstates the certainty of the claimed change."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "The progress line ('...say they are seeing real change in how victims are treated by the justice system') largely restates the headline's own claim ('things are really changing'), adding little beyond what the headline already says — a weaker example of the redundant-progress-line pattern seen elsewhere in this batch, though the rest of the piece (headline and standfirst) is strong and well-grounded in the two best quotes."
+   ]
   }
  },
  {
@@ -247,7 +245,7 @@
   "tone": {
    "ok": false,
    "issues": [
-    "This is a cosmetic edit: the headline keeps the exact same subject and angle as the original ('Telegraph departures signal concerns over direction under Axel Springer's ownership' vs 'Staff departures raise questions over Telegraph's direction under Axel Springer's ownership'), merely swapping synonyms, on a story that plainly describes a setback (departures, cuts, no discernible strategy) with no attempt made to find or build on any upside."
+    "Cosmetic edit — 'insiders' becomes 'staff who have left' and 'cuts' becomes 'cost-cutting', but the headline and standfirst retain exactly the same critical angle with no substantive change. (The underlying story may genuinely have no available upside, but a pointless word-swap is not the same as a deliberate, calm non-edit.)"
    ]
   }
  },
@@ -314,16 +312,11 @@
  {
   "path": "/politics/2026/nov/21/national-scandal-residents-in-england-rally-against-surge-in-mega-warehouse-developments",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The trail 'Campaigners are organising to challenge planning approvals and press councils for tougher scrutiny' asserts a specific demand/action (pressing councils for tougher scrutiny) that is not stated in the original, which only says campaigners call out developer 'greed' after a high approval rate."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "This is a cosmetic edit: the headline keeps the same subject/angle as the original ('residents in England rally against surge in mega-warehouse developments' vs 'Residents mobilise against... mega-warehouse approvals'), just reordering clauses and swapping 'rally' for 'mobilise', while still leading with the 'national scandal' setback label rather than a genuine fresh upside.",
-    "The progress line credits campaigners with a specific, unreported action ('press councils for tougher scrutiny') rather than one actually described in the original."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -372,24 +365,19 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Cosmetic edit: the rewrite keeps the original's subject and angle (Wales' second-half fightback falling just short against Australia) and simply rewords the same clauses; the headline still centres on the loss rather than being built on the fightback as a genuine upside, when the original's own material (a second-half fightback, a one-score margin) could have supported a more upside-led line."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The rewrite drops Pochettino's name entirely from both headline and standfirst, replacing it with the generic 'Manchester United's next manager' / 'the latest hire'. This changes the original's clear reference to a specific, already-appointed individual into an ambiguous phrase that a reader could take to mean a future, not-yet-appointed manager."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
    "ok": false,
    "issues": [
-    "The rewrite replaces the original's positive-coded framing ('New Manager Bounce') with the more downbeat 'faces test of patience amid high turnover', moving away from the available upside rather than building the headline on it, so a reader comes away feeling no better about the situation.",
-    "Cosmetic edit: the underlying angle (the difficulty of breaking a pattern of high managerial turnover) is unchanged, just reworded in less optimistic terms."
+    "Cosmetic edit — the headline just inverts the same sentence ('Pochettino needs New Manager Bounce to break... turnover' becomes 'New Manager Bounce is... route out of... turnover cycle') without any substantive change in framing or information."
    ]
   }
  },
@@ -401,20 +389,20 @@
   "tone": {
    "ok": false,
    "issues": [
-    "An appended third sentence ('Alonso says the squad must address its fragility following the defeat') simply repeats the point already made in the standfirst rather than adding genuine forward progress naming new action; this is a vague, repetitive progress line."
+    "Headline and standfirst are completely unchanged from the original and still lead with the setback ('Fragile... must toughen up... Leeds humiliation') with no reframing toward any upside and no silver lining anywhere in the copy. For a second-pass revision this looks like no fix was applied at all."
    ]
   }
  },
  {
   "path": "/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The rewrite states Dani\u00eblle van de Donk and Alexia Putellas 'each scored twice', asserting a specific per-player tally (two goals apiece) that the original's more ambiguous phrasing ('Dani\u00eblle van de Donk and Alexia Putellas scored twice') does not clearly support \u2014 the original could just as easily mean the pair combined for two goals."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": true,
-   "issues": []
+   "ok": false,
+   "issues": [
+    "Cosmetic edit — 'thwarted by Liverpool keeper' becomes 'held by brilliant Keating' and 'move to third' becomes 'climb to third'; same facts and angle with only decorative wording changes."
+   ]
   }
  },
  {
@@ -450,14 +438,12 @@
  {
   "path": "/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The rewrite's headline ('Documentaries about convicted fraudsters owe us facts, not just vibes') generalises the writer's critique of this one film's approach into a sweeping claim about the whole genre of documentaries about convicted fraudsters \u2014 a broader claim the original does not make."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
+   "ok": true,
    "issues": [
-    "The writer's specific argument about this film's vibes-check approach has been widened into a general rule about all documentaries on convicted fraudsters; that is a changed argument, not the same argument turned forward."
+    "The headline softens the critic's pointed original argument ('is an insult to objective truth') into a milder complaint ('needed more hard facts'). The direction of the argument is preserved rather than reversed, so this is acceptable, but it blunts the opinion writer's force more than a straight 'rephrase forward' should."
    ]
   }
  },
@@ -524,15 +510,11 @@
  {
   "path": "/law/2026/nov/20/judges-juries-and-myths-in-trials",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "'Rape myths' \u2014 a specific, recognised category of misconceptions about rape and sexual assault \u2014 is replaced with the vaguer 'myths that shape rape trials', which could refer to any myths about the trial process generally, weakening the specific meaning of the original term."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Softens the specific, serious term 'rape myths' into a vaguer phrase about trials in general, diluting a serious topic rather than simply rephrasing it forward."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -573,7 +555,7 @@
   "tone": {
    "ok": false,
    "issues": [
-    "An appended third sentence ('Special forces captured Meza Flores, ending a manhunt that had lasted more than a decade') simply repeats what the standfirst already states, rather than adding genuine new progress."
+    "Cosmetic edit on an already-positive headline — 'arrested in special forces raid' becomes 'capture... after decade-long manhunt'; the same angle restated with no substantive change."
    ]
   }
  },
@@ -583,10 +565,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Cosmetic edit: 'Reform UK considers pact...to overcome stalling performance' is simply reworded as 'Reform UK weighs pact...amid stalling poll performance', keeping the same subject and angle with no new framing introduced."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -612,16 +592,11 @@
  {
   "path": "/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The headline's 'after second case' asserts a specific ordinal claim (that this is exactly his second such case) that the original only vaguely describes as 'another case'.",
-   "The added third sentence attributes the ban to 'the regulator', a specific actor that is not named or implied anywhere in the original text."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The appended third sentence ('The regulator has barred Hindmarsh...') largely repeats the headline/standfirst rather than providing new, substantiated progress, and introduces an attribution ('the regulator') not supported by the original."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -629,39 +604,34 @@
   "kind": "preview",
   "ok": false,
   "issues": [
-   "The rewrite's headline says warnings were issued 'across the UK', broadening the original's specific claim that the weather warning was 'for south-west England'.",
-   "The added third sentence attributes the warnings to 'the Met Office', a specific body not named in the original."
+   "Standfirst changes 'more than 100mm predicted to fall on Dartmoor on Sunday' to 'predicted to fall...by Sunday' — this shifts the claim from rain falling specifically on Sunday to a cumulative total reached by Sunday, a real change in the timing/meaning of the forecast, not just wording."
   ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The appended third sentence ('The Met Office has issued warnings...') repeats the standfirst's content and adds an unverified attribution rather than offering genuine new progress."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The headline changes the specific charge 'indecent assault conviction' (singular) to the vaguer, pluralised 'abuse convictions', which is not the same legal term and is not supported by the original's wording."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The appended third sentence ('Police have arrested Bowen after she missed her sentencing hearing') merely repeats the headline rather than adding real progress."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/us-news/2026/nov/21/trump-class-warships",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Added final line 'The CBO is pressing for more realistic cost estimates on the new warship programme' asserts an ongoing advocacy action by the CBO that is not stated in the original — the original only says the CBO 'finds' the estimated cost 'unrealistically low', not that it is actively pressing for anything."
+  ],
   "tone": {
    "ok": false,
    "issues": [
-    "Cosmetic edit: the rewrite keeps the same subject, structure and claim as the original ('cost...blown by billions'/'report warns' vs 'cost...balloons by billions'/'report finds'), with no new framing explored despite the CBO's scrutiny being a potential angle to build on."
+    "The revision is still a cosmetic reshuffle of the same bad-news story (cost overruns, stretched capacity) with no genuine upside — reframing it around 'watchdog scrutiny' doesn't change that this is fundamentally the same setback, and the added third line is a vague, invented-sounding 'progress' statement (CBO 'pressing for' reform) that isn't actually reported in the original, which is exactly the kind of unreported-response problem a prior review should have caught."
    ]
   }
  },
@@ -673,7 +643,7 @@
   "tone": {
    "ok": false,
    "issues": [
-    "The appended third sentence ('El Salvador's troops have moved into Port-au-Prince to combat the gangs...') repeats information already given in the headline and standfirst rather than adding new progress."
+    "This is a cosmetic edit: 'Haitians excited but uneasy' became 'troops draw welcome and worry' — same subject, same dual-sided framing, same order (positive word first, then the worry), just synonym-swapped. No new angle or genuine additional upside was introduced; this is the pattern a second pass should flag as not actually fixed."
    ]
   }
  },
@@ -700,12 +670,14 @@
  {
   "path": "/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Standfirst adds 'but experts say closing that gap is only a matter of time' — the original only says 'Experts are racing to change that', i.e. they are trying, with no stated view on how close they are or on what timeline. Asserting that closing the dexterity gap is 'only a matter of time' is an invented degree of certainty/optimism not supported by the original."
+  ],
   "tone": {
    "ok": false,
    "issues": [
-    "Added third-line 'progress' sentence ('Experts are racing to replicate human hand dexterity, the biggest remaining technical challenge for AI.') just restates the headline almost word for word instead of adding a distinct progress note."
+    "The added claim that closing the robotic-hand gap is 'only a matter of time' credits experts with a confident, unreported prediction (criterion 8) to manufacture an upside — a fabricated optimistic claim is not a legitimate fix, even though dropping the 'doom of humanity' framing was itself a reasonable move."
    ]
   }
  },
@@ -717,7 +689,8 @@
   "tone": {
    "ok": false,
    "issues": [
-    "Added third-line sentence ('Experts have raised safety concerns about discounted cosmetic procedures.') merely repeats the headline in vaguer, less specific terms (drops 'BBL' for generic 'cosmetic procedures') rather than offering new information."
+    "Cosmetic swap only: 'criticised over safety fears' becomes 'urge caution' for the same story with no new angle or genuine upside.",
+    "The added third line ('Experts are urging caution about BBL and other cosmetic procedures sold in Black Friday deals') is a near-verbatim restatement of the headline/standfirst, not real additional progress information — exactly the vague-restatement problem the brief flags under criterion 8."
    ]
   }
  },
@@ -766,14 +739,11 @@
   "kind": "preview",
   "ok": false,
   "issues": [
-   "The critic's scathing verdict in the ORIGINAL ('so bad it robbed me of my capacity to discern time and space', 'a dead-eyed advert', 'thin gruel would be an insult to the gruel industry') is weakened into the mild, vague 'dismissed by our critic as barely managing to work as entertainment' in the REWRITE, materially softening how negative the review was."
+   "The headline paraphrase changes the meaning of the original joke: the original says 'Calling it thin gruel would be an insult to the gruel industry' (i.e. even the insult of calling it thin gruel would be too kind, an insult to gruel itself). The rewrite's headline, 'a dead-eyed advert that insults the gruel industry', drops the thin-gruel comparison and asserts the advert itself directly insults the gruel industry — a different, flattened claim attributed as if it were the original's point."
   ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline drops all critical content and verdict, reducing it to the bare title 'Melania: the series review', which fails to inform the reader at all; this is more an evasion than a calm, dignified headline.",
-    "Standfirst softens a scathingly negative review ('insult to the gruel industry') into a mild 'barely managing to work as entertainment', minimising just how bad the reviewed documentary was judged to be."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -859,10 +829,8 @@
  {
   "path": "/games/2026/nov/20/grand-theft-auto-vi-players-review",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "Standfirst adds the specific attribution 'what players call' to the phrase 'healthy masculinity', a claim about who coined/used that description that is not stated in the ORIGINAL text given."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
    "ok": true,
    "issues": []
@@ -951,10 +919,8 @@
  {
   "path": "/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "Standfirst changes 'they will take newgen approach to power' to 'they plan to take a newgen approach to stardom' \u2013 'power' and 'stardom' are not the same claim, and the substitution alters what the ORIGINAL said they were taking a new approach to."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
    "ok": true,
    "issues": []
@@ -985,12 +951,12 @@
   "kind": "preview",
   "ok": false,
   "issues": [
-   "Added third-line sentence reframes the ORIGINAL's claim that 'players are at risk of hanging up their boots because of lack of funding' as 'local teams at risk of losing funding' \u2013 a different claim (team funding loss vs. players quitting) not stated that way in the ORIGINAL."
+   "Added third line claims small-business owners are stepping in 'across England' — the given original text never specifies England as the scope; this is an added geographic claim not supported by the text being checked against."
   ],
   "tone": {
    "ok": false,
    "issues": [
-    "Added third-line sentence just repeats the standfirst's content ('small-business owners are stepping in to sponsor their local teams') rather than adding a genuine progress note, and in doing so it also subtly shifts the claim being made."
+    "The added third line just restates the headline/standfirst ('small-business owners...stepping in to sponsor...teams' vs '...stepping in to sponsor their local teams') without adding any real new progress information — a vague restatement under criterion 8, and it also introduces the unsupported 'across England' claim flagged in the fact check."
    ]
   }
  },
@@ -1057,16 +1023,11 @@
  {
   "path": "/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "Added line 'Financial experts have set out ways to help savings and pensions keep pace with rising prices' attributes the advice to 'financial experts', a specific source not named or supported anywhere in the ORIGINAL headline/standfirst given."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline is a cosmetic swap: it keeps the ORIGINAL's exact subject and angle ('ways to shield your cash/savings from UK inflation') and merely drops the distinctive 'invisible stealth tax' quote, rather than building a fresh or upside line.",
-    "The added progress-style line credits the advice to 'financial experts', a source the ORIGINAL does not report."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1152,10 +1113,8 @@
  {
   "path": "/lifeandstyle/2026/nov/20/interiors-hacks-for-cosy-winter-home",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "Standfirst changes 'an experts' guide' (plural, i.e. a guide drawing on multiple experts) to 'an expert's guide' (singular, one expert), changing the number of experts credited."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
    "ok": true,
    "issues": []
@@ -1167,24 +1126,18 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The added third line ('Researchers say seaweed-based edible packaging could help tackle the growing plastic waste problem') is a near-restatement of the standfirst with no new actor or action named \u2014 it repeats rather than adds a genuine progress note."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The ORIGINAL scopes the price rise specifically to 'Great Britain' (a meaningful distinction, since Northern Ireland's energy market differs). The REWRITE headline and standfirst drop 'Great Britain' entirely and never reinstate it, generalising a geographically scoped claim."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The added progress line ('Ministers are facing calls to act and help households absorb the increase') simply repeats the pressure-on-government framing already given in the headline and standfirst, adding no new actor or concrete action."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1210,15 +1163,11 @@
  {
   "path": "/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "Standfirst softens 'this agonising condition' to 'the condition', dropping the severity qualifier that sits directly next to the 1.6 million figure."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The headline is left essentially unchanged (only a dash is removed) for a story that plainly describes a setback (a rising, painful, stigmatised condition). The rewrite also drops the ORIGINAL's own forward-looking standfirst question ('What can be done to end the stigma?') \u2014 the one hint of an upside/solution angle already present in the original \u2014 without substituting any fresh or upside framing, leaving the piece reading flatter and less hopeful than the original."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1244,10 +1193,8 @@
  {
   "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "'mocked as a midlife crisis cliche' is changed to 'mocked as a dated clich\u00e9' \u2014 this alters the specific nature of the claimed mockery (age/midlife-crisis stereotype vs simply being old-fashioned), not just its wording."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
    "ok": true,
    "issues": []
@@ -1256,10 +1203,8 @@
  {
   "path": "/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The direct quotation 'The place becomes a jewellery box of glittering lights' is truncated to 'A jewellery box of glittering lights' but still presented in quotation marks as if it were the verbatim quote, misrepresenting what was actually said."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
    "ok": true,
    "issues": []
@@ -1328,13 +1273,13 @@
  {
   "path": "/society/2026/nov/20/i-was-drinking-at-15-going-to-parties-being-groomed-and-abused-the-grim-reality-of-age-gap-relationships",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Headline 'Calls grow to protect teenagers in law' asserts the campaign is growing/escalating — the original only says campaigners 'call for changes to the law on consent', with no stated claim about the calls increasing over time. This adds an unsupported momentum claim."
+  ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The added final line ('Campaigners in the UK are calling for changes to the law on consent to better protect teenagers.') is a vague progress line that merely repeats the headline/standfirst without adding new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1392,38 +1337,36 @@
   "kind": "preview",
   "ok": false,
   "issues": [
-   "The added closing line states the two verifying groups were 'independent', a characterisation not supported by the ORIGINAL text."
+   "The verification status is inverted. The original headline states as settled that 'Two groups verify mathematician's claim' (verification presented as having occurred), while the rewrite downgrades this to 'with two groups now verifying his claim' (present continuous, i.e. verification still in progress) — while simultaneously upgrading the headline itself to assert flatly that 'Claude helps mathematician solve' the hypothesis, as settled fact. This swaps which part of the story is certain and which is still pending, which matters a great deal for a claim about solving the Riemann hypothesis."
   ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The closing line ('Two independent groups have verified the mathematician's claim.') is a redundant progress line that just repeats the standfirst rather than adding new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "The rewrite drops the specific start day: the original standfirst says talks 'begin on Monday', while the rewrite's standfirst only says talks 'begin' with no day given."
+  ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline is a cosmetic reword of the original ('Cop31 must deliver climate progress... host says' -> 'Cop31 host calls for climate progress...'), same subject and angle, on a dry procedural/scene-setting story, not reframed toward any upside.",
-    "Added closing line ('The summit's host has urged negotiators to deliver progress that people can see is real.') merely repeats the headline and adds no new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Headline claims negotiators got the early draft text 'to speed search for deal' — the original attributes a different purpose to the president of the talks: the draft is an attempt to 'draw out parties' (get them to reveal where they stand), and frames the early delivery as something that surprised many countries, not as a deliberate speed-up tactic. Presenting it as designed to 'speed' the deal is an invented characterization of intent."
+  ],
   "tone": {
    "ok": false,
    "issues": [
-    "Headline is a cosmetic reword of the original ('draft text is attempt to draw out parties...' -> 'president uses draft text to draw out parties...'), same dry procedural angle, not meaningfully reframed.",
-    "Added closing line duplicates the new headline almost verbatim, adding no new information."
+    "The 'genuine upside' in this headline — that the early draft is meant to speed up the search for a deal — is manufactured rather than reported; the original frames the early draft as a surprise and a device to draw out positions, not a confirmed accelerant. Building the headline on an invented positive spin is the kind of unreported-response problem criterion 8 warns against."
    ]
   }
  },
@@ -1460,13 +1403,13 @@
  {
   "path": "/uk/2010/feb/19/boy-stabbed-death-bradford",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Headline says the sister 'recovers' (completed action) while the original says she is 'recovering' (ongoing, present status only) — this overstates the outcome as resolved when the original only confirms she was, at time of writing, in the process of recovering."
+  ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline keeps the original's murder framing almost verbatim ('is found stabbed' -> 'found stabbed') even though the copy offers a genuine upside -- the sister recovering in hospital -- that could have been used to build a less grim headline instead of leading with the killing."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1487,8 +1430,7 @@
   "tone": {
    "ok": false,
    "issues": [
-    "Headline is a cosmetic reword of the original ('Man given whole-life order...' -> 'Court hands whole-life order...'), same subject and angle.",
-    "Added closing line ('The court imposed a whole-life order on Sharaz Ali for the murders.') duplicates the headline/standfirst without adding information."
+    "The 'Justice delivered:' headline tag is a triumphant, editorializing flourish bolted onto a story about the murder of a woman and three children. A serious British paper would state the sentence plainly (as the original does) rather than brand a multiple-child-killing case with a celebratory label — this reads as reaching for an upside angle at the expense of appropriate gravity, bordering on the kind of tonal overcorrection a second pass should catch."
    ]
   }
  },
@@ -1498,10 +1440,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Added closing line ('West Yorkshire police are investigating and seeking a man in connection with the case.') is a vague progress line that merely repeats the standfirst."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1510,10 +1450,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Added closing line ('The local MP has called for calm as the community responds to the shooting.') duplicates the unchanged headline without adding new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1522,10 +1460,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Added closing line ('The accused has appeared in court as the case proceeds.') is a vague filler sentence that merely repeats the headline."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1534,10 +1470,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Added closing line ('A local group has begun a legal challenge against the plan in the high court.') duplicates the headline/standfirst without adding new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1566,10 +1500,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Added closing line ('The home affairs committee chair has pressed the minister for answers.') duplicates the new headline without adding new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1635,12 +1567,15 @@
  {
   "path": "/film/2024/feb/05/dads-army-actor-ian-lavender-dies-aged-77",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Headline's 'remembered for a much-loved career' asserts an active process of commemoration/tribute that is not stated in the ORIGINAL, which only reports the death and his roles — this is an added, unsupported characterization."
+  ],
   "tone": {
    "ok": false,
    "issues": [
-    "Headline ('remembered after death aged 77') still states the death outright rather than being built on an available upside (Lavender's famous role as Private Pike / EastEnders, already named in the standfirst), unlike the successful pattern used for the other two obituaries in this batch."
+    "Headline drops the death entirely (no 'dies'/'has died') and replaces it with the soft, vague 'remembered for a much-loved career', which minimises the death by removing it from the headline — a direct violation of rule 5, even though the standfirst does separately state 'has died aged 77'.",
+    "'Remembered for a much-loved career' is a consoling, eulogy-style phrase that risks breaking voice for a straight news obituary item rather than re-stating the facts plainly."
    ]
   }
  },
@@ -1660,10 +1595,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline and standfirst are a cosmetic edit of the original: 'victory' is simply swapped for 'win' (and 'win' for 'victory'), with the sentence structure otherwise identical. Same subject, same angle, no fresh take."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1679,15 +1612,11 @@
  {
   "path": "/sport/2026/nov/17/all-blacks-new-zealand-england-twickenham-wales-rugby-union",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The original says New Zealand 'face the prospect of history repeating itself in unwanted ways'; the rewrite changes the subject of that claim to England ('England face the prospect of history repeating itself in unwanted ways for the All Blacks'), shifting which team is said to be facing the prospect rather than simply rephrasing it."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline is a cosmetic reorder of the original's own words: 'England eye ... back-to-back scalps' and 'rattled All Blacks' are lifted near-verbatim from the original, with only 'regroup' swapped in for 'face rare twin threat'. Same subject and angle, not a fresh take."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1695,7 +1624,7 @@
   "kind": "preview",
   "ok": false,
   "issues": [
-   "The original says 'England must play with freedom' as an imperative/exhortation (implying it is not guaranteed); the rewrite turns this into a statement of an existing attribute \u2014 'England's depth and freedom of play' \u2014 presenting a conditional instruction as an already-established fact."
+   "Headline turns the ORIGINAL's own prescriptive statement ('but England must play with freedom', the writer's assessment) into passive reported speech ('England told to play with freedom'), implying an unnamed outside party instructed them to do so — an attribution not present in, or supported by, the ORIGINAL."
   ],
   "tone": {
    "ok": true,
@@ -1705,27 +1634,24 @@
  {
   "path": "/sport/2026/nov/20/rugby-union-england-new-zealand-nations-championship",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "Headline attributes 'discipline and bench impact will decide' the game to Maro Itoje ('Itoje says...'), but in the ORIGINAL only the description of the game as a 'massive game' is Itoje's quote; the claim that discipline and bench impact will be pivotal is the writer's own framing, not something Itoje is reported as saying — this misattributes analysis to a named person.",
+   "Drops 'the breakdown' from the three factors ('discipline, bench impact and the breakdown') the ORIGINAL says will be pivotal, leaving only two."
+  ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline keeps the original's opening clause verbatim ('England and New Zealand collide') and only swaps the back half for Itoje's quote, which was already quoted in the original's standfirst; the stakes line ('final spots and reputations on the line') is simply relocated to the standfirst rather than being replaced with a genuinely new angle \u2014 a cosmetic rearrangement of existing material."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/sport/2026/nov/16/will-joseph-steve-borthwick-england-new-zealand-nations-championship-rugby-union",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The rewrite's headline calls this a 'recall', which implies Joseph is returning after being dropped or omitted from the side; the original only says he is 'poised to start' / get 'another England start' as a reward for good form, with nothing stating a prior exclusion that a recall would imply."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline is a near-synonym swap of the original ('poised'\u2192'set', 'start'\u2192'recall', 'burst'\u2192'heroics') keeping the same subject and angle rather than offering a fresh frame."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1764,10 +1690,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The appended progress line ('Hamilton held clear-the-air talks with Leclerc and says the team is working on its communication') simply restates facts already given in the standfirst rather than naming any new or forward-looking development."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1796,10 +1720,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The progress line ('The cousins have been extradited to serve their sentences') merely repeats the headline's own claim rather than naming a new or forward-looking development."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1818,10 +1740,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The progress line ('Cyprus's foreign minister has called for a conversation on the bases' future') simply repeats the standfirst's own claim rather than adding a new forward-looking detail."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1862,8 +1782,7 @@
   "tone": {
    "ok": false,
    "issues": [
-    "The rewrite's headline and standfirst are essentially the original's headline and standfirst swapped with each other and lightly reworded ('challenged ... mass clemency' and 'sue ... to stop death sentence commutations' simply trade places) \u2014 a cosmetic rearrangement rather than a fresh take.",
-    "The appended progress line ('Thirty district attorneys have filed a legal challenge against the commutations') repeats information already given in the headline/standfirst without adding anything new."
+    "Cosmetic edit: same subject/angle as the ORIGINAL (district attorneys suing/challenging Newsom's clemency) with swapped wording ('sue to stop' → 'challenge'); it does not foreground any upside (e.g. the clemency/mercy itself, which could be the genuine upside here) and leaves the opposition-led framing essentially intact."
    ]
   }
  },
@@ -1880,27 +1799,23 @@
  {
   "path": "/us-news/2026/aug/26/baby-surrogacy-case-critical-condition",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The progress line states the restraining order was secured 'to protect their access to the baby's care' \u2014 a specific motive/purpose for the restraining order that the original does not state; the original only says a restraining order was secured against the surrogate."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The progress line repeats the standfirst's own fact (restraining order secured) while adding an unsupported motive, rather than naming a genuine new development."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
   "path": "/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
   "kind": "preview",
-  "ok": true,
-  "issues": [],
+  "ok": false,
+  "issues": [
+   "ORIGINAL headline quotes the protester's message as addressed to three companies — OpenAI, Anthropic and Meta. REWRITE headline addresses the message to only 'OpenAI and Meta', dropping Anthropic — changing who the quoted message was for."
+  ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "Headline keeps the same subject and angle as the original (the jailed protester's message to AI firms) and is a cosmetic restructuring: 'first anti-AI protester to be jailed' is simply relocated from the start of the headline to the end of the standfirst, with the same quote retained in the same role."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1916,16 +1831,11 @@
  {
   "path": "/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
   "kind": "preview",
-  "ok": false,
-  "issues": [
-   "The progress line attributes the 'biggest breakthrough in decades' characterisation specifically to 'researchers'; the original never says who called it that, so this attribution is invented."
-  ],
+  "ok": true,
+  "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The headline is left completely unchanged from the original, with no fresh angle, despite this being one of the batch's flagged good-news stories expected to get a freshly-angled, non-cosmetic headline.",
-    "The progress line repeats the headline's claim almost verbatim instead of adding new information."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1934,10 +1844,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The headline is left completely unchanged from the original, with no fresh angle, despite this being one of the batch's flagged good-news stories expected to get a freshly-angled, non-cosmetic headline."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1945,13 +1853,11 @@
   "kind": "preview",
   "ok": false,
   "issues": [
-   "The headline and progress line assert the vulnerability was 'closed' before it could be exploited; the original only says the operation 'wards off risk' of attack, a vaguer and weaker claim that does not necessarily mean the vulnerability itself was closed or patched."
+   "ORIGINAL says the operation 'wards off risk of cyber-attack' — a vulnerability was closed pre-emptively; no actual attack occurred. REWRITE says cyber defenders 'head off attack' on the fridges and freezers, implying an actual attack was underway and was stopped — a stronger and different claim than merely heading off a risk."
   ],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The progress line repeats the headline's claim almost verbatim instead of naming a new development."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {
@@ -1960,10 +1866,8 @@
   "ok": true,
   "issues": [],
   "tone": {
-   "ok": false,
-   "issues": [
-    "The progress line ('Sea Services is training fishers in offshore wind construction and providing them with a second income stream') is a near-verbatim repeat of the standfirst rather than a new forward-looking detail."
-   ]
+   "ok": true,
+   "issues": []
   }
  },
  {

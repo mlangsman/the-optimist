@@ -21,6 +21,13 @@
     "issue": "headline is unchanged from the original: \"Light in the dark: 20 long books for short winter days\""
   },
   {
+    "path": "/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
+    "kind": "preview",
+    "field": "headline",
+    "severity": "warning",
+    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Telegraph departures signal concerns over direction under Axel Springer's ownership\""
+  },
+  {
     "path": "/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
     "kind": "preview",
     "field": "trail",
@@ -63,13 +70,6 @@
     "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"Pochettino's fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us\""
   },
   {
-    "path": "/football/2026/nov/21/chelsea-leeds-premier-league-match-report",
-    "kind": "preview",
-    "field": "headline",
-    "severity": "warning",
-    "issue": "headline is a cosmetic edit of the original (100 per cent of the words are the same): \"'Fragile' Chelsea must toughen up after Leeds humiliation, admits Xabi Alonso\""
-  },
-  {
     "path": "/commentisfree/2026/nov/20/the-guardian-view-on-jan-van-eycks-portraits-what-it-means-to-be-human",
     "kind": "preview",
     "field": "headline",
@@ -103,6 +103,13 @@
     "field": "headline",
     "severity": "warning",
     "issue": "headline is unchanged from the original: \"Police arrest teacher who missed sentencing after indecent assault conviction\""
+  },
+  {
+    "path": "/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+    "kind": "preview",
+    "field": "trail",
+    "severity": "warning",
+    "issue": "trail leans on \"fear\": \"Many Haitians welcome El Salvador's combatants after years of gang control, though some fear the offensive could make a volatile situation worse.\""
   },
   {
     "path": "/music/2026/nov/21/fontaines-dc-review-liverpool-arena-uk-tour",
