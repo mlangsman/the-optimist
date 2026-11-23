@@ -1,0 +1,1952 @@
+[
+  {
+    "path": "/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Dozens of NHS hospitals in England ordered to make 'unpalatable' savings' keeps the original's subject and angle (trusts forced into cuts) with only words swapped, which is a cosmetic edit; build instead on NHS England's own line that it 'brought its finances in within budget for the first time in more than a decade, while also delivering record levels of treatments and operations to patients.'",
+        "The standfirst 'Thirty-one NHS trusts in England say demands for huge budget savings threaten their ability to function normally, risking 'unpalatable' cuts to services, staff and jobs' states only the setback and never opens with an upside, leaving the reader with nothing but decline.",
+        "No progress line is given even though the copy reports a response ('NHS boards are rightly being transparent about financial risks and taking action to mitigate them'); name that action instead of omitting a progress line altogether.",
+        "The body's opening paragraph is left as pure setback ('Dozens of hospitals are so short of money...') rather than resequenced to lead with constructive material, as the brief requires."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+    "kind": "article",
+    "ok": false,
+    "issues": [
+      "The headline 'Police vow to address 'areas of learning' identified by investigation' upgrades the force's merely saying it 'was addressing' areas of learning into a firmer promise ('vow'), a commitment the original does not attribute to them."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline and progress line are built on the thinnest material in the piece - a spokesperson saying the force is merely 'addressing areas of learning' - which is exactly the kind of unspecific response the brief's own worked example ('NHS leaders say they are doing all they can') says is too weak to carry a headline; relegate it to the progress line or treat this as an honest 0/1 story.",
+        "The progress line, 'Police say they are addressing the 'areas of learning' identified and will reflect on the inquest jury's recommendations,' just restates the headline with no new actor or action, failing the requirement that it stand on its own.",
+        "A stronger, unused upside sits in the copy - 'NHS England has since strengthened guidance around community mental health support for people with severe mental illnesses who face high risk or struggle to engage with services' - a concrete action that should have been weighed ahead of the vague police line.",
+        "The body's opening paragraph is still the bare setback ('A man with paranoid schizophrenia who killed three people... catalogue of failures'), not resequenced to lead with constructive material as the brief requires."
+      ]
+    }
+  },
+  {
+    "path": "/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
+    "kind": "article",
+    "ok": false,
+    "issues": [
+      "The standfirst calls Andy Burnham 'the prime minister,' a title this original never gives him; here he is identified only as 'Andy Burnham'."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+    "kind": "article",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Cost-cutting demands could disrupt normal services at 31 NHS trusts' keeps the original's subject and angle (cuts threatening normal running) with only words swapped and no upside at all, a cosmetic edit; build on NHS England's point that it 'brought its finances in within budget for the first time in more than a decade' instead.",
+        "The trail repeats the same setback with no upside and no progress line, leaving the reader with nothing but decline."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Mystery surrounds warship sinking as no one claims Benghazi strike' keeps the original's subject and angle (the sinking, no claim of responsibility) with only words swapped, a cosmetic edit; the crew rescues used correctly to lead the article version of this same story are an available upside not used here at all."
+      ]
+    }
+  },
+  {
+    "path": "/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Investigation finds failures behind police release before fatal Exeter attack' has the failures/findings as its subject, matching the brief's own forbidden pattern ('Report lays bare the state of social care'), since knowledge counts as an upside only when the copy shows it being acted on, which this preview's own headline and trail do not show.",
+        "The added progress line, 'An investigation has identified the specific failures in Lewis-Ranwell's arrest and release before the attack,' just restates the headline and names no actual action being taken; it should be null for a story this dark with no response in the preview's own text."
+      ]
+    }
+  },
+  {
+    "path": "/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Laura Brand commits to following prison rules despite video backlash' keeps 'backlash' (a criticism) in a subordinate clause, which the brief forbids whenever the copy offers an upside to build on fully; her compliance commitment alone is upside enough to lead without the 'despite' clause, so move 'backlash' to the trail only."
+      ]
+    }
+  },
+  {
+    "path": "/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/22/peter-fluck-obituary",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/22/oobah-butler-scams-for-a-better-tomorrow-review-hbo-max",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/this-is-how-son-overheard-parents-sex",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/22/the-trip-northern-lights-steve-coogan-rob-brydon-interview",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/22/cop31-failed-transition-away-from-fossil-fuels-inevitable",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/nov/22/republicans-lose-north-carolina",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The headline's 'record election swing' is not supported by the original, which only says the North Carolina loss was 'perhaps nowhere as large' elsewhere, not that it set a historical record.",
+      "The trail's 'North Carolina among the most dramatic' weakens the original's 'perhaps nowhere as large as here,' which suggests North Carolina's loss may have been the single worst, into vaguer company with other states."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The headline's claim that the Cop31 electrification push 'gains momentum' is not stated in the original, which only reports that countries are being urged to commit and that China has committed, not that momentum is building."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/ng-interactive/2026/nov/20/cop31-draft-climate-text-explained",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/ng-interactive/2026/nov/20/ferocity-of-heatwave-took-them-by-surprise-anne-sophie-woronoff-climate-breakdown",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail's 'took the whole family by surprise' broadens the original's 'took them all by surprise,' which refers to the elderly parents she had been worrying about, to the whole family - a detail the given original does not clearly support."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The headline 'cements her place among America's greatest artists' weakens the original's specific claim that Goldin 'proves that she's the greatest US artist since Warhol' into vaguer group membership."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/22/the-witch-farm-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/australia-news/2026/nov/23/the-rise-of-cop-influencers-social-media-trend-australia-ntwnfb",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/nov/22/how-to-make-nasi-goreng-recipe",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/work-respect-pay-crisis-neets-milburn-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Andy Burnham's vow to raise growth in every postcode faces winter test' keeps a threat framing ('faces... test') attached to the upside clause rather than moving the challenge entirely to the trail, and the 'upside' it leads on is only a political slogan with no reported action or progress behind it."
+      ]
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/sorting-through-mother-in-laws-belongings",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/britain-cult-problem-survivors-abuse-high-street-politics",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail's \"still await real action\" turns the original's normative claim (\"survivors of this abuse deserve real action\") into a factual assertion that no action has been taken yet, which the original does not state."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline \"MPs finally turn their attention to Britain's hidden cult problem\" keeps the original's own angle (political attention being paid to the cult problem) merely reworded, which is a cosmetic edit under rule 2.",
+        "For an opinion piece the headline must turn the writer's argument forward (rule 6); the writer's actual demand – \"survivors of this abuse deserve real action\" – is dropped from the headline and reduced to a passive \"still await real action\" in the trail, so the headline reports the political attention rather than voicing the writer's forward-facing demand for survivors."
+      ]
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/grand-theft-auto-vi-gaming",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback (\"Recent tech outages are a reminder we're at the mercy of forces beyond our comprehension\") before the upside, when rule 3 requires the standfirst/trail to open with the upside and give the setback second."
+      ]
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/the-guardian-view-on-serbias-new-political-era-a-generational-opportunity-must-not-be-wasted",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Serbia's new government deserves the EU's full support\" overstates the original, which calls on Brussels to \"find ways to show concrete support\", not to commit to \"full\" support."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/commentisfree/2026/nov/22/the-guardian-view-on-ofsted-its-damaged-relationship-with-schools-in-england-needs-fixing",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/an-age-gap-isnt-always-a-problem-partner-abuse-is",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Readers debate consent, age gaps and where the real harm lies\" recasts the original's settled claim (\"An age gap isn't always a problem, partner abuse is\") as an open, unresolved debate among readers, a framing the original does not support."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/nov/22/the-link-between-nurturing-and-masculinity",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"responds to a Guardian piece\" adds that the article responded to was specifically a Guardian piece; the original only says \"an article\"."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/22/let-refugees-work-and-contribute-to-our-society",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Why letting refugees work benefits everyone, readers argue\" asserts the policy \"benefits everyone\", a claim the original does not make; the original only argues refugees should be let work and contribute."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/nov/22/an-album-to-keep-your-mind-on-track",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Black Friday tips\" specifies the Black Friday item is advice/tips; the original lists \"Black Friday\" only as a topic, without saying it is tips."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Pochettino is challenging the referee's decision\" implies a formal challenge or appeal that the original does not report; the original only says Pochettino argued Yoro was wrongly sent off."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline \"Pochettino backs Yoro after controversial sending-off mars debut defeat\" still carries the setback (\"mars debut defeat\") per rule 1, when Pochettino's defence of Yoro could have carried the whole headline with the defeat moved entirely to the trail, as the rail-unions example in the brief requires."
+      ]
+    }
+  },
+  {
+    "path": "/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/nov/22/steve-borthwick-england-new-zealand-nations-championship-fast-start",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/nov/22/hull-brighton-premier-league-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/sport/2026/nov/22/harlequins-bristol-premiership-womens-rugby-union-match-report",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Spurs came from behind with a late double\" asserts Tottenham were trailing before the double, a detail the original does not state; it only reports a \"late double\" without describing the scoreline beforehand."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"put the EU's unity to the test\" changes the original's claim that the elections \"could test its resilience\" into a narrower claim about \"unity\", a different idea the original does not state."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Opposition figure\" replaces the original's more specific \"Netanyahu rival\", weakening a specific political relationship into vaguer language."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline \"Opposition figure brands settler raids on Palestinian villages 'Jewish terrorism'\" is a cosmetic reworking of the original's own structure (\"Netanyahu rival condemns 'Jewish terrorism' after settler attacks...\"), keeping the same subject and angle with only the actor's description and clause order changed, which fails rule 2."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail attributes the observation to \"UK researchers say\", while the headline attributes it to \"UK experts\"; the original carries no such attribution in its trail at all, and the inconsistent labelling is not supported by the original's single \"UK experts say\" in its headline."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The headline drops \"post-abolition\" from the original's \"post-abolition enslavement in Cuba\", losing the specific historical qualifier that the enslavement was illegal because it continued after formal abolition.",
+      "\"New research finds Bank of England directors illegally profited...\" attributes to research a claim the original's headline states as a direct, unhedged assertion; in the original, \"new research finds\" is attached only to the Cobre Mining Company/Manchester claim in the trail, not to the directors' profiting claim."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The headline 'Science union leader confronts UKRI chief over funding squeeze' still names the setback ('funding squeeze') as its object; a union leader voicing criticism is not a response that fixes the cuts, so on the headline-and-trail evidence given this is at best a weak (0/1) story and the setback should be confined to the standfirst rather than stated in the headline (rule 1, rule 8's 'honest zero' guidance)."
+      ]
+    }
+  },
+  {
+    "path": "/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Senator John Kennedy is pressing Trump administration officials to explain how China obtained Nvidia's export-controlled chips' adds nothing beyond the headline 'Senator presses Trump officials on how China bypassed Nvidia chip controls' — same actor, same action, same object, just with the name spelled out — so it fails rule 8's requirement that it not simply repeat the headline."
+      ]
+    }
+  },
+  {
+    "path": "/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Engineers are racing to develop robotic hands that can match human dexterity' is a near word-for-word restatement of the headline 'Engineers race to give robots human-level hand dexterity', adding no new actor or action, which rule 8 disallows."
+      ]
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/21/why-bbc-showing-christmas-shows-earlier-than-ever",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/tv-and-radio/2026/nov/20/bills-included-review-rob-brydon-sitcom-bbc",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/nov/22/interpol-bloc-party-review-utilita-arena-cardiff",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/nov/22/sharleen-spiteri-texas-honest-playlist-acdc-elvis-costello",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/nov/21/fontaines-dc-review-liverpool-arena-uk-tour",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/culture/2026/nov/19/sinead-oconnors-best-songs-ranked",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/22/the-football-superstar-turned-booktuber-who-made-an-obscure-tolstoy-novella-a-belated-bestseller",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/culture/2026/nov/20/grand-theft-auto-vi-is-everywhere-but-is-it-really-the-cultural-event-of-the-decade",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/nov/20/grand-theft-auto-vi-players-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/nov/17/keepsake-county-review-stealing-simulator-forward-instinct",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/nov/22/nine-night-kiln-theatre-london-natasha-gordon",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/music/2026/nov/22/a-christmas-miracle-review-orford-church-suffolk-errollyn-wallen-benjamin-britten",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/stage/2026/nov/22/julius-caesar-four-actors-sam-wanamaker-playhouse-review",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/artanddesign/2026/nov/20/marc-chagall-the-circus-review-hepworth-wakefield-west-yorkshire",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/21/noah-forster-photographer-best-phone-picture-swans",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/jill-scott-and-the-grassroots-initiative-boosting-womens-football",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The progress line names the scheme 'Starling Bank's Kick On scheme', but the ORIGINAL headline and trail given here only call it 'a Starling Bank sponsorship scheme' — the specific name 'Kick On' is not supported by this copy and is an added detail."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/lucy-bronze-and-the-footballers-inspiring-girls-to-play",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail's 'young footballers praising icons like Lucy Bronze' turns the ORIGINAL's single quoted claim ('Lucy Bronze is such an icon') into a plural generalisation implying multiple named icons, which this headline/trail does not support."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/entrepreneurs-supporting-womens-and-girls-grassroots-football",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/kick-on-effect/2026/oct/28/how-to-tackle-inequality-in-grassroots-womens-football",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The progress line 'Business sponsors are stepping in to help ease the funding gap facing grassroots women's and girls' football' simply restates the headline 'Small-business sponsorship could help close women's football's funding gap' with the same actor, action and object and no new information, which rule 8 disallows."
+      ]
+    }
+  },
+  {
+    "path": "/thefilter/2026/nov/22/best-christmas-party-outfit-ideas",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/nov/14/best-christmas-gifts-ideas-filter-uk-2026",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The trail adds 'tested' to the list of actions ('unboxed, nibbled, tested and played with'); the ORIGINAL trail lists only 'unboxed, nibbled and played with' — 'tested' is an added, unsupported detail.",
+      "The headline drops 'UK' from the brand name, saying 'loved by the Filter' where the ORIGINAL says 'loved by the Filter UK' — a name change."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/20/interiors-hacks-for-cosy-winter-home",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/nov/19/best-early-black-friday-deals-2026-tested-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/thefilter/2026/nov/21/best-wine-glasses-tested-uk",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/nov/22/wellness-industry-cynically-exploiting-menopause-women",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/23/kindness-of-strangers-stuck-in-a-sea-of-legs-and-feet-a-beautiful-man-offered-his-hand",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/nov/22/cassette-london-wc2-restaurant-review-grace-dent",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The headline drops the quotation marks around the critic's first-person claim but keeps the first-person wording ('one of the best dishes I've eaten all year'), while changing 'greatest' to 'best' — this reads as the same direct quote with an altered word, which is a quotation misrepresented as unchanged."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/nov/21/vienna-on-a-plate-a-food-lovers-guide-to-the-austrian-capital",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/nov/22/best-thing-i-ever-ate-lunch-strait-of-hormuz-iran-yasmin-khan",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/food/2026/nov/21/the-spirit-of-a-borderless-europe-steams-from-the-pots-and-pans-of-vienna",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/dining-across-the-divide-ibbi-keith",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/husband-bad-breath-wont-see-dentist",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Users of AI systems like ChatGPT and Gemini report shaking, crying and trouble breathing\" turns the ORIGINAL's single quoted individual (\"I was shaking, crying, having trouble breathing\") into a general claim about multiple users reporting the same symptoms, which the ORIGINAL does not support.",
+      "\"in what some researchers call uncharted psychological territory\" attributes the phrase to researchers, but the ORIGINAL's \"uncharted trauma\" is not attributed to researchers anywhere in the given text."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"manipulate chatbots\" drops the ORIGINAL's quoted term 'poison' in favour of an unquoted paraphrase, changing the specific word attributed to experts."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Ministers under pressure to shield households from rising energy bills\" keeps the setback (rising bills) as the object of the headline while the only thing offered is \"pressure\", not any action the government has actually taken; the copy gives nothing stronger than pressure to act, so the setback (\"rising energy bills\") should have been left out of the headline and put in the trail instead."
+      ]
+    }
+  },
+  {
+    "path": "/science/2026/nov/22/how-can-we-explain-psychosomatic-illnesses",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/wellness/2026/nov/22/loud-noise-sound-hypersensitivity",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/nov/18/bloomscrolling-train-algorithm-social-media",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/nov/20/fashion-world-singing-opera-coats-trend",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/fashion/2026/nov/19/beautiful-insects-how-the-butterfly-became-a-symbol-of-gen-z-girlhood-defiance-and-anxiety",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/nov/22/why-i-love-madrid-in-winter-christmas-shopping",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/travel/2026/nov/20/winter-christmas-city-breaks-europe-readers-travel-tips",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/18/uk-best-christmas-train-rides-father-christmas-santa",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/tyson-fury-boxer-looks-back-after-anthony-joshua-fight-what-next",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"living with schizophrenia and bipolar disorder\" changes the ORIGINAL's \"being diagnosed with schizophrenia and bipolar disorder\" from a specific diagnosis claim into a vaguer ongoing-state claim."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/22/readers-reply-when-does-a-reasonable-train-route-become-unreasonable",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"has fuelled talk that the world's systems are under attack\" weakens the ORIGINAL's \"people have become convinced the world's systems are under attack\" from settled belief into vaguer 'talk'."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/nov/21/sexual-consent-scrutiny-youth-end-adulthood-begin-brand-walliams",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/film/2026/nov/21/you-can-see-everything-vibes-truth-elizabeth-holmes-nathan-fielder",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/lifeandstyle/2026/nov/19/tell-us-what-was-your-favourite-christmas-present-as-a-child",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/education/2026/nov/20/uk-teachers-have-you-experienced-abuse-in-schools",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/nov/18/uk-businesses-what-are-the-barriers-stopping-you-hiring-young-people",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2023/dec/14/hospitals-falling-to-bits-as-nhs-england-faces-record-repairs-bill-of-12bn",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite drops the ORIGINAL's \"record £12bn repair bill\" entirely, leaving only the smaller \"£2bn\" maintenance figure and understating the scale the ORIGINAL headline conveyed."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Report calls for £2bn to fix hospitals 'falling to bits' in England\" keeps the setback (\"falling to bits\") in the headline alongside only a weak call-for-funding response; build the headline on the report's call for funding alone and move \"falling to bits\" to the standfirst.",
+        "\"The report calls on the government to find more than £2bn for urgent repairs\" simply repeats the headline's claim rather than telling the reader something new about what is being done, which the brief forbids for the progress line."
+      ]
+    }
+  },
+  {
+    "path": "/society/2023/dec/27/overheating-and-flooding-at-hospitals-in-england-poses-threat-to-patient-safety",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"both of which... cause disruption\" drops the ORIGINAL's quoted 'needless disruption' to generic 'disruption', losing the specific characterisation that the disruption was avoidable."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Lib Dems demand government action on hospital overheating and flooding\" puts the setback (overheating and flooding) as the object of the sentence, the pattern the brief treats as the setback still being the subject in all but grammar; build the headline on the Lib Dems' demand alone and move \"overheating and flooding\" to the standfirst.",
+        "\"The Liberal Democrats are calling for government action to address the overheating and flooding risks their analysis found\" repeats the headline's claim instead of adding a new fact about what is being done, which the brief forbids for the progress line."
+      ]
+    }
+  },
+  {
+    "path": "/society/2024/jan/26/crumbling-english-hospitals-cause-over-100-patient-care-disruptions-week",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"NHS figures: fires and leaks cause 100 care disruptions a week in England\" shares most of its structure and key words (\"cause ... 100 care disruptions a week\") with the ORIGINAL's \"Crumbling hospitals cause over 100 care disruptions a week\", merely swapping the subject and reordering clauses — a cosmetic edit."
+      ]
+    }
+  },
+  {
+    "path": "/world/2021/sep/27/hospitals-in-england-relax-covid-rules-to-help-tackle-waiting-lists",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"The move to relax safety measures comes as...\" drops the ORIGINAL's specific attribution that it is the \"government\" easing safety measures, replacing it with the vague \"the move\"."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"NHS trusts ease Covid restrictions to help tackle waiting lists\" repeats the ORIGINAL's \"to help tackle waiting lists\" verbatim and only swaps \"Hospitals in England\"/\"Covid rules\" for synonyms — a cosmetic edit."
+      ]
+    }
+  },
+  {
+    "path": "/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"the service in England points to knock-on effects across hospitals\" adds the specific detail \"across hospitals\", which is not stated in the ORIGINAL's \"service in England warns of knock-on effects\"."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Heatwaves push hospital admissions to a record summer high, NHS says\" keeps the same subject and facts as the ORIGINAL's \"NHS reports busiest ever summer as heatwaves drive up hospital admissions\", just reordering which noun is the grammatical subject — a cosmetic edit."
+      ]
+    }
+  },
+  {
+    "path": "/society/2021/jul/02/senior-doctors-england-overtime-pay-rise-industrial-action-nurses",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"follows a similar move by nurses\" downgrades the ORIGINAL's \"follows similar threat by nurses\" from a specific \"threat\" to a vaguer \"move\"."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Senior doctors in England weigh refusing overtime over 1% pay rise\" is nearly identical to the ORIGINAL's \"Senior doctors in England could refuse overtime over 1% pay rise\", with only \"could refuse\" swapped for \"weigh refusing\" — a cosmetic edit."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/business/2026/oct/18/drone-attacks-ships-black-sea-russia-ukraine-war",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Estonia to shut all border crossings with Russia after drone-maker attack\" merely swaps 'close' for 'shut' and keeps the ORIGINAL's exact subject, structure and clause order — a cosmetic edit (rule 2), with no attempt to build on any upside.",
+        "\"Estonia is set to close every border crossing with Russia in response to the attack\" simply restates the headline's own claim rather than naming any additional action, so it reads as a vague, repetitive line rather than genuine 'what's being done' detail (rule 8)."
+      ]
+    }
+  },
+  {
+    "path": "/world/2023/aug/04/ukraine-says-it-has-put-russian-warship-out-of-action-in-sea-drone-attack",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Greta Thunberg urges world leaders to act faster at Cop31\" asserts a specific forward-looking call to action that the ORIGINAL does not report; the ORIGINAL says only that she 'criticised world governments for their failure to prevent environmental breakdown,' not that she urged leaders to act faster."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Cop31 talks move ahead on faster shift to electrification\" overstates the ORIGINAL, which says only that talks 'are under way about speeding up shift to electrification,' not that they are 'moving ahead.'"
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/08/cop31-key-players-climate-talks",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"which began after a dispute over where it would be hosted\" changes the ORIGINAL's present/ongoing framing, 'as the summit kicks off after a bitter row over its hosting,' into a completed past event, and softens 'bitter row' to 'dispute.'"
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/10/un-antonio-guterres-cop31-fossil-fuels-turkey-australia",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"talks involving 190 countries opened on Monday\" changes the ORIGINAL's 'begin on Monday' (talks about to start) to 'opened' (talks already under way), altering the event's timing."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Climate progress must be visibly real, Cop31 host tells 190 countries\" keeps the ORIGINAL headline's exact subject and claim ('Cop31 must deliver climate progress that people can see is real, host says'), only lightly reworded — a cosmetic edit (rule 2)."
+      ]
+    }
+  },
+  {
+    "path": "/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Cop31 host urges wealthy nations to spend far more on climate than on defence\" only swaps 'countries'→'nations' and 'much more'→'far more' from the ORIGINAL headline, keeping the identical subject and sentence structure — a cosmetic edit (rule 2); the minister's 'climate issue is the security issue' argument in the trail could instead have supplied a genuinely fresh frame."
+      ]
+    }
+  },
+  {
+    "path": "/world/2023/dec/23/israel-flooding-hamas-tunnels-seawater-risks-ruining-basic-life-gaza-expert",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Hydrologist sets out expected impact of Israeli tunnel-flooding plan on Gaza\" uses neutral, briefing-style language to stand in for what the ORIGINAL plainly states — a warning that the plan risks 'ruining basic life in Gaza' and would be 'one element of the crime of genocide.' Merely stating that expected impact is being described is not a genuine upside (knowledge alone isn't an upside unless acted on), so this both fails to find a real upside and softens the warning's severity; with no response reported in the copy, the dark-story approach calls for stating the warning plainly rather than neutralising it."
+      ]
+    }
+  },
+  {
+    "path": "/world/2026/sep/27/rubble-gaza-un-aid-workers-ruins-dead-bodies",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite's trail drops the ORIGINAL's detail that the debris conceals 'unexploded Israeli bombs' (alongside 'lives' and 'memories'), stating only that the operation must account for 'up to 10,000 bodies' — losing a significant hazard fact, not a minor detail."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2024/nov/02/there-is-no-alternative-israels-ban-on-vital-unrwa-services-will-be-a-catastrophe-for-gaza",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Aid officials say Gaza has no alternative to Unrwa as ban looms\" still carries the setback in the headline via the 'as ban looms' clause (rule 1), and ignores the one upside the ORIGINAL offers — that Benjamin Netanyahu could still be convinced to veto the ban; build the headline on that possible veto instead."
+      ]
+    }
+  },
+  {
+    "path": "/us-news/2026/jul/21/mamdani-benjamin-netanyahu-arrest-authority",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Mamdani urges US to arrest Netanyahu should he visit the country\" is a near word-for-word rewording of the ORIGINAL headline ('Mamdani urges US government to arrest Netanyahu if Israeli PM visits US') — a cosmetic edit (rule 2)."
+      ]
+    }
+  },
+  {
+    "path": "/environment/2024/mar/29/gaza-israel-palestinian-war-ecocide-environmental-destruction-pollution-rome-statute-war-crimes-aoe",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite drops the ORIGINAL's central claim that the destruction may amount to 'ecocide' and 'a war crime' entirely from both headline and trail, weakening it into vagueness ('left unlivable') rather than preserving its meaning."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "By erasing the 'ecocide'/'war crime' characterisation entirely rather than stating it plainly in the standfirst, the rewrite softens the scandal the ORIGINAL reports (rule 5); the headline-and-standfirst pair should still state that experts regard this as a possible war crime."
+      ]
+    }
+  },
+  {
+    "path": "/society/2015/feb/16/skunk-cannabis-triples-risk-psychotic-episodes-study",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "\"Research finds smoking skunk cannabis triples rate of serious psychotic episodes\" changes the ORIGINAL's 'triples risk of serious psychotic episode' to 'triples rate,' a different statistical claim not stated in the ORIGINAL."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The rewrite keeps the ORIGINAL headline's exact subject and structure, only reordering 'research... says' to the front and swapping 'risk' for 'rate' — a cosmetic edit (rule 2)."
+      ]
+    }
+  },
+  {
+    "path": "/uk/2009/sep/03/cannibal-killer-mental-care-failures",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2013/sep/12/opportunities-missed-floridly-psychotic-man",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "\"Opportunities missed to arrest 'floridly psychotic' man before fatal attack\" repeats the ORIGINAL headline's opening clause verbatim ('Opportunities missed to arrest 'floridly psychotic' man') and changes only the trailing clause — a cosmetic edit (rule 2)."
+      ]
+    }
+  },
+  {
+    "path": "/uk-news/2019/may/03/police-fined-235000-over-death-of-thomas-orchard",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/nov/02/domestic-violence-survivor-terror-attacker-released-without-tag",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/uk-news/2026/oct/16/devon-cornwall-police-settle-lawsuit-male-officers-abuse-claims",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite's trail calls it 'the government-commissioned review', but the original excerpt never states the review was commissioned by the government — this detail is invented."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/society/2026/jul/09/disability-benefits-system-not-working-timms-review-finds",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite's trail says the process had 'systemic, deep-rooted problems', but the original says 'systematic and deep-rooted problems' — 'systematic' and 'systemic' are different words with different meanings, and the rewrite silently changes it.",
+      "The original says the report 'found' the process had problems and 'required bold and radical overhaul' (the review itself asserting the need); the rewrite's 'prompting calls for sweeping reform' weakens this into a vague, unattributed call by unnamed others rather than the review's own finding."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The trail opens with 'An interim report into Pip found the assessment process had systemic, deep-rooted problems' (the setback) and only reaches the response, 'prompting calls for sweeping reform', at the very end — rule 9 requires the standfirst to open with the upside and give the setback second; here the order is reversed."
+      ]
+    }
+  },
+  {
+    "path": "/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The original says the former health secretary merely 'wants to' tear up the old approach (a hedge); the rewrite states as fact that 'the former health secretary's plan would end ongoing payments for some under-25s and 'tear up the old approach'' — turning a stated want into a certainty, which the brief's one rule that never bends forbids."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The trail opens with the setback — 'The former health secretary's plan would end ongoing payments for some under-25s and 'tear up the old approach'' — and only gives the upside, the local fund, second ('while introducing a fund they can apply to instead'). Rule 9 requires the standfirst to open with the upside and give the setback second; build on the fund as the opening instead."
+      ]
+    }
+  },
+  {
+    "path": "/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The original says the Milburn report 'advises sweeping changes to some benefits'; the rewrite drops 'benefits' as the object of the changes and instead says the report advises 'sweeping changes to tackle the youth jobs crisis', recasting what the report's changes are aimed at."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2010/nov/23/incapacity-benefit-test-review",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The original headline says the tests 'face overhaul' (an action already under way); the rewrite's 'need overhaul' downgrades this to a mere judgment of necessity, weakening the original's claim."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "The trail opens with 'An independent review found claimants felt unfairly treated by 'impersonal and mechanistic' tests' (the setback) and only places the response, 'prompting the shake-up', at the very end — rule 9 requires the standfirst to open with the upside and give the setback second; lead with the shake-up/overhaul instead."
+      ]
+    }
+  },
+  {
+    "path": "/society/2017/apr/17/sharp-rise-in-rejected-claims-for-disability-benefit",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite's headline says 'Labour presses for answers', a stronger claim (demanding an explanation/accountability) than the original's 'Labour raises alarm' (expressing concern) — this is not the same action and is not supported by the original."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/news/2026/nov/19/google-youtube-russell-brand-youtube-prison-message-jess-phillips-new-law",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The rewrite's headline and trail never mention that this followed 'Google rejects call to remove Russell Brand's YouTube prison message' — the specific precipitating event from the original headline is dropped entirely and replaced with the generic 'to compel content removal' / 'remove distressing content', which omits who was asked to act and what was refused.",
+      "The rewrite's trail adds 'currently lacks the power', where the original just says the government 'does not have power' — 'currently' introduces an implication of temporariness not present in the original."
+    ],
+    "tone": {
+      "ok": false,
+      "issues": [
+        "Rule 5: the specific controversy — Google rejecting a call to remove Russell Brand's YouTube prison message — is dropped from the headline-and-trail pair entirely and genericised into 'content removal'/'distressing content', which softens and obscures the setback the standfirst is required to state in full."
+      ]
+    }
+  },
+  {
+    "path": "/news/2026/nov/18/uk-government-russell-brand-youtube-deactivated-google",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2026/oct/27/judith-clark-shabana-mahmood-visa-weather-underground",
+    "kind": "preview",
+    "ok": false,
+    "issues": [
+      "The original headline specifically names who is being urged to act — 'Shabana Mahmood urged to grant visa' — but the rewrite's headline and trail never name her, replacing the specific appeal with the vague, unattributed 'Calls grow for Judith Clark to be granted a UK visa'."
+    ],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2018/may/31/jilly-cooper-hay-festival-modern-men-have-beards-and-cry-all-the-time",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2025/oct/06/jilly-cooper-dies-riders-rivals",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/article/2024/sep/06/send-us-your-questions-for-jilly-cooper",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/politics/2023/may/25/rishi-sunak-reveals-his-favourite-jilly-cooper-novels-on-this-morning",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2019/jul/10/jilly-cooper-tops-inaugural-comedy-women-in-print-awards",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/books/2025/oct/06/jilly-cooper-was-the-absolute-queen-writers-pay-tribute-to-the-beloved-author",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  },
+  {
+    "path": "/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+    "kind": "preview",
+    "ok": true,
+    "issues": [],
+    "tone": {
+      "ok": true,
+      "issues": []
+    }
+  }
+]
